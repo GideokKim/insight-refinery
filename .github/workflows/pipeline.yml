@@ -1,0 +1,66 @@
+name: pipeline
+
+on:
+  schedule:
+    # UTC 기준 3시간마다 (KST로는 09:00, 12:00, ... 에 해당)
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "알림을 보내지 않고 로그만 확인 (캐시도 저장하지 않음)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+# 캐시 파일을 커밋하므로 동시 실행을 막는다. 대기 중인 실행은 취소하지 않는다.
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # 선택: 있으면 Reddit을 익명 대신 OAuth로 호출한다.
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          python main.py ${{ inputs.dry_run && '--dry-run' || '' }}
+
+      - name: Commit processed cache
+        if: ${{ !inputs.dry_run }}
+        run: |
+          if git diff --quiet -- data/processed_ids.json; then
+            echo "캐시 변경 없음, 커밋 생략"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/processed_ids.json
+          git commit -m "chore(data): update processed ids cache [skip ci]" \
+            -m "Record items handled by this pipeline run so the next run skips them."
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
