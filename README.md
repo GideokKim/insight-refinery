@@ -36,7 +36,7 @@ insight-refinery/
 │   │   └── reddit.py               #   Reddit (익명 JSON / 선택적 OAuth)
 │   ├── config.py                   # config.yaml 로딩·검증 (Pydantic)
 │   ├── dedup.py                    # 처리 완료 ID 캐시 (JSON)
-│   ├── processor.py                # Pydantic 스키마 + LLM 구조화 요약
+│   ├── processor.py                # Pydantic 스키마 + LLM 구조화 요약 + provider 폴백
 │   └── notifier.py                 # Telegram MarkdownV2 발송
 ├── data/processed_ids.json         # 중복 방지 캐시 (커밋 대상)
 ├── config.yaml                     # 소스 목록 및 임계치
@@ -59,6 +59,32 @@ insight-refinery/
 > `minimum` / `maxItems` 같은 제약 키워드는 쓰지 않는다. LLM에 노출되는 스키마는
 > `Literal`과 평범한 배열로만 구성하고, 3줄 보정은 파싱 후 파이썬에서 처리한다.
 
+## LLM provider
+
+무료 티어를 우선 쓰고, 실패하면 다음으로 넘어가는 폴백 체인이다. 전부 OpenAI
+호환 엔드포인트라 `config.yaml`의 `llm.providers`에 세 줄 추가하면 provider가
+늘어난다. **API 키 환경 변수가 없는 provider는 조용히 건너뛴다.**
+
+| 순서 | provider | 모델 | 키 | 비고 |
+| --- | --- | --- | --- | --- |
+| 1 | Gemini | `gemini-3.5-flash-lite` | `GEMINI_API_KEY` | 무료 티어. TPM 여유가 커서 스로틀링이 거의 없다 |
+| 2 | Groq | `openai/gpt-oss-20b` | `GROQ_API_KEY` | 무료 티어(카드 불필요, 30 RPM / 14,400 RPD). 단 6K TPM이 병목 |
+| 3 | OpenAI | `gpt-4o-mini` | `OPENAI_API_KEY` | 기본은 주석 처리. 유료지만 가장 안정적 (이 워크로드 기준 월 $2~3) |
+
+무료 티어 한도는 계정·시점마다 다르다. Gemini는 [AI Studio](https://aistudio.google.com/rate-limit)에서
+본인 한도를 직접 확인해야 하고, 한 번 크게 축소된 전례가 있다. Groq을 폴백에
+같이 켜 두는 이유가 이것이다.
+
+### 구조화 출력 폴백
+
+provider마다 strict JSON 스키마 지원이 다르다. 기본은 `json_schema` 모드로
+호출하고, provider가 400으로 거부하면 그 provider만 `json_object` 모드로
+낮춰 재시도한다(스키마를 프롬프트에 넣고 응답을 직접 검증). 강등은 프로세스가
+사는 동안 유지되므로 매 건마다 400을 다시 맞지 않는다.
+
+> Groq에서 strict 스키마가 보장되는 모델은 `openai/gpt-oss-*` 계열뿐이라
+> 폴백 모델로 그중 하나를 골랐다.
+
 ## 실행
 
 ### 로컬
@@ -67,7 +93,7 @@ insight-refinery/
 python3.11 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-export OPENAI_API_KEY=sk-...
+export GEMINI_API_KEY=...          # 또는 GROQ_API_KEY
 python main.py --dry-run --limit 3        # 알림 없이 stdout 출력, 캐시도 안 건드림
 
 export TELEGRAM_BOT_TOKEN=123:abc
@@ -91,11 +117,15 @@ python main.py                            # 실제 발송 + 캐시 저장
 
 | Secret | 필수 | 용도 |
 | --- | --- | --- |
-| `OPENAI_API_KEY` | ✅ | 요약 |
+| `GEMINI_API_KEY` | ▲ | 요약 (1순위) |
+| `GROQ_API_KEY` | ▲ | 요약 (2순위 폴백) |
+| `OPENAI_API_KEY` | ⬜ | 요약 (유료, 기본 비활성) |
 | `TELEGRAM_BOT_TOKEN` | ✅ | 알림 |
 | `TELEGRAM_CHAT_ID` | ✅ | 알림 대상 채팅 |
 | `REDDIT_CLIENT_ID` | ⬜ | Reddit OAuth (아래 참고) |
 | `REDDIT_CLIENT_SECRET` | ⬜ | Reddit OAuth |
+
+▲ 표시는 "셋 중 최소 하나"라는 뜻이다. 하나도 없으면 시작 시점에 에러로 멈춘다.
 
 기본 3시간 주기(`cron: "0 */3 * * *"`, UTC)로 돌고, 실행 후 바뀐
 `data/processed_ids.json`을 자동 커밋·푸시한다. Actions 탭에서 수동 실행 시
@@ -139,5 +169,8 @@ sources:
   실패한 항목은 기록하지 않으므로 다음 실행에서 재시도된다.
 - **RSS 피드 주소**: `config.yaml`의 기본 목록은 예시다. 사이트 개편으로 주소가
   바뀔 수 있으니 `--dry-run`으로 한 번 확인하고 쓰는 것을 권한다.
+- **무료 티어 쿼터**: Groq은 6,000 TPM이라 1건당 ~2K 토큰인 이 파이프라인에서는
+  분당 3건 남짓으로 묶인다. Groq이 주력이 되는 상황이라면 `max_items_per_run`을
+  10 정도로 낮추는 편이 실행 시간(job timeout 20분) 면에서 안전하다.
 - **캐시 크기**: `cache.max_entries`를 넘으면 오래된 키부터 잘라낸다. 잘라낸 글이
   피드에 다시 나타나면 재요약될 수 있으므로, 피드 회전 주기보다 넉넉히 잡는다.
