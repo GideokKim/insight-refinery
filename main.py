@@ -109,7 +109,7 @@ def run(config: Config, args: argparse.Namespace) -> int:
         return 0
 
     processor = Processor(
-        model=config.llm.model,
+        providers=config.llm.providers,
         temperature=config.llm.temperature,
         max_retries=config.llm.max_retries,
         max_content_chars=config.llm.max_content_chars,

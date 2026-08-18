@@ -10,11 +10,31 @@ run:
   min_importance: 3
 
 llm:
-  model: gpt-4o-mini
   temperature: 0.2
+  # provider 하나당 재시도 횟수. 다 쓰면 다음 provider로 넘어간다.
   max_retries: 3
   # 본문을 이 길이로 잘라 프롬프트에 넣는다.
   max_content_chars: 4000
+
+  # 앞에서부터 시도하고 실패하면 다음으로 폴백한다.
+  # API 키 환경 변수가 없는 provider는 조용히 건너뛴다.
+  # 전부 OpenAI 호환 엔드포인트라, 다른 provider도 세 줄이면 추가된다.
+  providers:
+    - name: gemini
+      model: gemini-3.5-flash-lite # 품질을 더 원하면 gemini-3.7-flash
+      api_key_env: GEMINI_API_KEY
+      base_url: https://generativelanguage.googleapis.com/v1beta/openai/
+
+    - name: groq
+      # Groq에서 strict 스키마가 보장되는 모델은 openai/gpt-oss-* 계열뿐이다.
+      model: openai/gpt-oss-20b
+      api_key_env: GROQ_API_KEY
+      base_url: https://api.groq.com/openai/v1
+
+    # 유료지만 가장 안정적인 선택지. 키를 넣으면 최후 폴백으로 동작한다.
+    # - name: openai
+    #   model: gpt-4o-mini
+    #   api_key_env: OPENAI_API_KEY
 
 cache:
   path: data/processed_ids.json

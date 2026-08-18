@@ -1,28 +1,36 @@
 """LLM 구조화 요약 모듈.
 
 `RawItem` 하나를 받아 Pydantic 스키마(`Insight`)로 강제 파싱된 결과를 돌려준다.
-OpenAI Structured Outputs를 쓰므로 형식이 어긋난 응답은 SDK 단계에서 걸러진다.
+
+provider는 OpenAI 호환 엔드포인트라면 무엇이든 쓸 수 있고, 설정에 적힌 순서대로
+시도한다(기본: Gemini → Groq). 앞 provider가 쿼터 초과나 장애로 실패하면 다음
+provider가 같은 아이템을 이어받는다.
 
 스키마 설계 메모: `minimum`/`maxItems` 같은 제약 키워드는 strict 스키마에서
-지원 여부가 SDK/모델 버전마다 갈린다. 그래서 LLM에 노출되는 스키마는
-`Literal`과 평범한 배열만 쓰고, 개수 보정은 파싱 후 파이썬에서 처리한다.
+지원 여부가 provider마다 갈린다. 그래서 LLM에 노출되는 스키마는 `Literal`과
+평범한 배열만 쓰고, 개수 보정은 파싱 후 파이썬에서 처리한다.
 """
 
 from __future__ import annotations
 
+import json
 import logging
 import os
+import re
 import time
 from dataclasses import dataclass
 from enum import Enum
 from typing import Any, Callable, Literal
 
-from openai import OpenAI
-from pydantic import BaseModel, ConfigDict, Field
+from openai import BadRequestError, OpenAI
+from pydantic import BaseModel, ConfigDict, Field, ValidationError
 
 from .collectors.base import RawItem
+from .config import ProviderConfig
 
 logger = logging.getLogger(__name__)
+
+_FENCE_RE = re.compile(r"^\s*```(?:json)?\s*|\s*```\s*$", re.IGNORECASE)
 
 
 class Category(str, Enum):
@@ -62,6 +70,8 @@ class ProcessedItem:
 
     raw: RawItem
     insight: Insight
+    provider: str = ""
+    """어느 provider가 요약했는지 (폴백 발생 여부 추적용)."""
 
     @property
     def importance(self) -> int:
@@ -78,6 +88,14 @@ SYSTEM_PROMPT = """당신은 AI 분야 기술 뉴스를 선별하는 시니어 �
 - importance는 화제성이 아니라 실무 영향도를 기준으로 매깁니다.
   단순 홍보, 개인 잡담, 중복 보도는 1~2점을 줍니다."""
 
+# json_object 모드(strict 스키마 미지원 provider)에서만 덧붙인다.
+JSON_MODE_SUFFIX = """
+
+반드시 아래 JSON 스키마를 그대로 따르는 JSON 객체 하나만 출력하세요.
+설명, 주석, 마크다운 코드펜스 없이 JSON 본문만 출력합니다.
+
+{schema}"""
+
 USER_TEMPLATE = """[출처] {source} ({source_type})
 [제목] {title}
 [작성자] {author}
@@ -88,30 +106,66 @@ USER_TEMPLATE = """[출처] {source} ({source_type})
 {content}"""
 
 
+@dataclass
+class _Provider:
+    """설정 + 연결된 클라이언트 + 런타임에 조정되는 출력 모드."""
+
+    config: ProviderConfig
+    client: OpenAI
+    parse: Callable[..., Any]
+    mode: str
+
+    @property
+    def name(self) -> str:
+        return self.config.name
+
+
 class Processor:
-    """OpenAI Structured Outputs 기반 요약기."""
+    """OpenAI 호환 provider 체인 기반 요약기."""
 
     def __init__(
         self,
-        model: str = "gpt-4o-mini",
+        providers: list[ProviderConfig],
         temperature: float = 0.2,
         max_retries: int = 3,
         max_content_chars: int = 4000,
-        api_key: str | None = None,
-        client: OpenAI | None = None,
     ) -> None:
-        self.model = model
         self.temperature = temperature
         self.max_retries = max_retries
         self.max_content_chars = max_content_chars
+        self._providers = self._build_providers(providers)
 
-        if client is None:
-            key = api_key or os.getenv("OPENAI_API_KEY")
-            if not key:
-                raise RuntimeError("OPENAI_API_KEY 환경 변수가 필요합니다")
-            client = OpenAI(api_key=key)
-        self._client = client
-        self._parse: Callable[..., Any] = self._resolve_parse(client)
+        if not self._providers:
+            wanted = ", ".join(p.api_key_env for p in providers)
+            raise RuntimeError(
+                f"사용 가능한 LLM provider가 없습니다. 다음 중 하나는 설정해야 합니다: {wanted}"
+            )
+        logger.info(
+            "LLM provider 순서: %s",
+            " → ".join(f"{p.name}({p.config.model})" for p in self._providers),
+        )
+
+    @staticmethod
+    def _build_providers(configs: list[ProviderConfig]) -> list[_Provider]:
+        """API 키가 있는 provider만 체인에 넣는다."""
+        built: list[_Provider] = []
+        for config in configs:
+            api_key = os.getenv(config.api_key_env)
+            if not api_key:
+                logger.info(
+                    "%s 미설정 → provider '%s' 건너뜀", config.api_key_env, config.name
+                )
+                continue
+            client = OpenAI(api_key=api_key, base_url=config.base_url)
+            built.append(
+                _Provider(
+                    config=config,
+                    client=client,
+                    parse=Processor._resolve_parse(client),
+                    mode=config.structured_output,
+                )
+            )
+        return built
 
     @staticmethod
     def _resolve_parse(client: OpenAI) -> Callable[..., Any]:
@@ -122,42 +176,19 @@ class Processor:
         return client.beta.chat.completions.parse
 
     def process(self, item: RawItem) -> ProcessedItem | None:
-        """아이템 하나를 요약한다. 최종 실패 시 None."""
-        messages = [
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": self._render_user_prompt(item)},
-        ]
+        """아이템 하나를 요약한다. 모든 provider가 실패하면 None."""
+        for index, provider in enumerate(self._providers):
+            insight = self._summarize(provider, item)
+            if insight is not None:
+                insight.summary_ko = _normalize_summary(insight.summary_ko)
+                return ProcessedItem(raw=item, insight=insight, provider=provider.name)
 
-        for attempt in range(1, self.max_retries + 1):
-            try:
-                completion = self._parse(
-                    model=self.model,
-                    messages=messages,
-                    temperature=self.temperature,
-                    response_format=Insight,
+            remaining = len(self._providers) - index - 1
+            if remaining:
+                logger.warning(
+                    "provider '%s' 실패 → 다음 provider로 폴백합니다", provider.name
                 )
-            except Exception as exc:  # noqa: BLE001 - 재시도 후 스킵
-                if attempt == self.max_retries:
-                    logger.error("요약 실패 (%s): %s", item.title[:60], exc)
-                    return None
-                delay = 2 ** (attempt - 1)
-                logger.warning("요약 재시도 %d/%d (%ss 후): %s", attempt, self.max_retries, delay, exc)
-                time.sleep(delay)
-                continue
-
-            message = completion.choices[0].message
-            if getattr(message, "refusal", None):
-                logger.warning("모델이 요약을 거부했습니다: %s", item.title[:60])
-                return None
-
-            insight = message.parsed
-            if insight is None:
-                logger.warning("파싱 결과가 비어 있습니다: %s", item.title[:60])
-                return None
-
-            insight.summary_ko = _normalize_summary(insight.summary_ko)
-            return ProcessedItem(raw=item, insight=insight)
-
+        logger.error("모든 provider 실패: %s", item.title[:60])
         return None
 
     def process_many(self, items: list[RawItem]) -> list[ProcessedItem]:
@@ -168,6 +199,70 @@ class Processor:
             if processed is not None:
                 results.append(processed)
         return results
+
+    def _summarize(self, provider: _Provider, item: RawItem) -> Insight | None:
+        """provider 하나로 재시도까지 수행한다. 최종 실패면 None."""
+        for attempt in range(1, self.max_retries + 1):
+            try:
+                return self._call(provider, item)
+            except BadRequestError as exc:
+                # strict 스키마를 거부하는 provider가 있다. 한 단계 낮춰 다시 시도한다.
+                if provider.mode == "json_schema":
+                    logger.warning(
+                        "provider '%s'가 json_schema를 거부했습니다. json_object 모드로 전환합니다 (%s)",
+                        provider.name,
+                        exc,
+                    )
+                    provider.mode = "json_object"
+                    continue
+                logger.error("[%s] 잘못된 요청: %s", provider.name, exc)
+                return None
+            except (ValidationError, json.JSONDecodeError) as exc:
+                logger.warning("[%s] 응답 파싱 실패 (%d/%d): %s", provider.name, attempt, self.max_retries, exc)
+            except Exception as exc:  # noqa: BLE001 - 쿼터/네트워크 장애는 재시도 후 폴백
+                logger.warning("[%s] 호출 실패 (%d/%d): %s", provider.name, attempt, self.max_retries, exc)
+
+            if attempt < self.max_retries:
+                time.sleep(2 ** (attempt - 1))
+        return None
+
+    def _call(self, provider: _Provider, item: RawItem) -> Insight | None:
+        json_mode = provider.mode == "json_object"
+        messages = [
+            {"role": "system", "content": self._system_prompt(json_mode)},
+            {"role": "user", "content": self._render_user_prompt(item)},
+        ]
+        kwargs: dict[str, Any] = {
+            "model": provider.config.model,
+            "messages": messages,
+            "temperature": self.temperature,
+        }
+
+        if json_mode:
+            completion = provider.client.chat.completions.create(
+                response_format={"type": "json_object"}, **kwargs
+            )
+            message = completion.choices[0].message
+            if getattr(message, "refusal", None):
+                logger.warning("모델이 요약을 거부했습니다: %s", item.title[:60])
+                return None
+            return Insight.model_validate_json(_strip_fence(message.content or ""))
+
+        completion = provider.parse(response_format=Insight, **kwargs)
+        message = completion.choices[0].message
+        if getattr(message, "refusal", None):
+            logger.warning("모델이 요약을 거부했습니다: %s", item.title[:60])
+            return None
+        if message.parsed is None:
+            raise ValueError("파싱 결과가 비어 있습니다")
+        return message.parsed
+
+    @staticmethod
+    def _system_prompt(json_mode: bool) -> str:
+        if not json_mode:
+            return SYSTEM_PROMPT
+        schema = json.dumps(Insight.model_json_schema(), ensure_ascii=False, indent=2)
+        return SYSTEM_PROMPT + JSON_MODE_SUFFIX.format(schema=schema)
 
     def _render_user_prompt(self, item: RawItem) -> str:
         return USER_TEMPLATE.format(
@@ -181,6 +276,11 @@ class Processor:
                 : self.max_content_chars
             ],
         )
+
+
+def _strip_fence(text: str) -> str:
+    """```json ... ``` 로 감싸 보내는 모델 대응."""
+    return _FENCE_RE.sub("", text.strip())
 
 
 def _normalize_summary(lines: list[str]) -> list[str]:

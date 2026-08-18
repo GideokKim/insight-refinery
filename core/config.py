@@ -15,6 +15,21 @@ from pydantic import BaseModel, ConfigDict, Field
 
 DEFAULT_CONFIG_PATH = Path("config.yaml")
 
+DEFAULT_PROVIDERS: list[dict[str, str]] = [
+    {
+        "name": "gemini",
+        "model": "gemini-3.5-flash-lite",
+        "api_key_env": "GEMINI_API_KEY",
+        "base_url": "https://generativelanguage.googleapis.com/v1beta/openai/",
+    },
+    {
+        "name": "groq",
+        "model": "openai/gpt-oss-20b",
+        "api_key_env": "GROQ_API_KEY",
+        "base_url": "https://api.groq.com/openai/v1",
+    },
+]
+
 
 class SourceConfig(BaseModel):
     model_config = ConfigDict(extra="forbid")
@@ -35,10 +50,30 @@ class RunConfig(BaseModel):
     """이 점수 이상만 알림으로 발송한다."""
 
 
+class ProviderConfig(BaseModel):
+    """LLM provider 하나. 전부 OpenAI 호환 엔드포인트를 전제로 한다."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    name: str
+    model: str
+    api_key_env: str
+    base_url: str | None = None
+    """None이면 OpenAI 기본 엔드포인트를 쓴다."""
+
+    structured_output: Literal["json_schema", "json_object"] = "json_schema"
+    """provider가 strict 스키마를 거부하면 런타임에 json_object로 낮춘다."""
+
+
 class LLMConfig(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
-    model: str = "gpt-4o-mini"
+    providers: list[ProviderConfig] = Field(
+        default_factory=lambda: [ProviderConfig(**p) for p in DEFAULT_PROVIDERS],
+        min_length=1,
+    )
+    """앞에서부터 시도하고, 실패하면 다음 provider로 넘어간다."""
+
     temperature: float = Field(default=0.2, ge=0.0, le=2.0)
     max_retries: int = Field(default=3, ge=1)
     max_content_chars: int = Field(default=4000, ge=200)
