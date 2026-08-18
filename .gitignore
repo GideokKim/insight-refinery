@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+
+# 가상환경
+.venv/
+venv/
+env/
+
+# 환경 변수 / 비밀 값
+.env
+.env.*
+!.env.example
+
+# 캐시 임시 파일 (data/processed_ids.json 자체는 커밋한다)
+data/*.tmp
+data/processed_ids.json.tmp
+
+# 테스트 / 린트 캐시
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# 에디터 / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# 로컬 에이전트 도구 상태
+.omc/
+.claude/settings.local.json
