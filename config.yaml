@@ -1,0 +1,86 @@
+# insight-refinery 설정
+#
+# 비밀 값(OPENAI_API_KEY, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)은 여기에 적지 않는다.
+# 전부 환경 변수 / GitHub Secrets로만 주입한다.
+
+run:
+  # 한 번 실행에서 LLM에 넘길 최대 건수. 비용 상한 역할을 한다.
+  max_items_per_run: 25
+  # 이 점수 이상만 Telegram으로 발송한다 (1~5).
+  min_importance: 3
+
+llm:
+  model: gpt-4o-mini
+  temperature: 0.2
+  max_retries: 3
+  # 본문을 이 길이로 잘라 프롬프트에 넣는다.
+  max_content_chars: 4000
+
+cache:
+  path: data/processed_ids.json
+  # 이 수를 넘으면 오래된 키부터 삭제한다.
+  max_entries: 5000
+
+notifier:
+  channel: telegram
+  # 메시지 사이 최소 간격(초). Telegram 레이트 리밋 회피용.
+  rate_limit_delay: 0.5
+  disable_web_page_preview: false
+
+# 소스를 추가/제거하는 것만으로 도메인을 바꿀 수 있다.
+# type은 core/collectors/ 에 등록된 수집기 이름이다 (현재: rss, reddit).
+sources:
+  - name: OpenAI News
+    type: rss
+    enabled: true
+    options:
+      url: https://openai.com/news/rss.xml
+      limit: 15
+
+  - name: Hugging Face Blog
+    type: rss
+    enabled: true
+    options:
+      url: https://huggingface.co/blog/feed.xml
+      limit: 15
+
+  - name: Google Research Blog
+    type: rss
+    enabled: true
+    options:
+      url: https://research.google/blog/rss/
+      limit: 15
+
+  - name: TechCrunch AI
+    type: rss
+    enabled: true
+    options:
+      url: https://techcrunch.com/category/artificial-intelligence/feed/
+      limit: 15
+
+  - name: arXiv cs.AI
+    type: rss
+    enabled: false # 하루 물량이 많아 기본은 꺼 둔다
+    options:
+      url: http://export.arxiv.org/rss/cs.AI
+      limit: 10
+
+  - name: r/LocalLLaMA
+    type: reddit
+    enabled: true
+    options:
+      subreddit: LocalLLaMA
+      listing: top
+      time_filter: day
+      limit: 15
+      min_score: 100
+
+  - name: r/MachineLearning
+    type: reddit
+    enabled: true
+    options:
+      subreddit: MachineLearning
+      listing: top
+      time_filter: day
+      limit: 15
+      min_score: 50
