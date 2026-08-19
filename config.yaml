@@ -73,6 +73,7 @@ notifier:
     # 비우면 SMTP_USER 본인에게 보낸다.
     recipients:
       - ikid4127@naver.com
+      - kdkim@hbtechnology.co.kr
     subject_prefix: "[insight-refinery]"
 
     # 이 UTC 시각의 실행에서만 발송하고, 나머지 실행에서는 큐에 쌓아둔다.
