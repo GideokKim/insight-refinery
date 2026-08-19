@@ -25,6 +25,7 @@ from typing import Iterable, Sequence
 import httpx
 
 from .config import EmailConfig, NotifierConfig
+from .digest import DigestQueue
 from .processor import ProcessedItem
 
 logger = logging.getLogger(__name__)
@@ -345,6 +346,48 @@ def _html_digest(items: Sequence[ProcessedItem]) -> str:
     )
 
 
+class DigestNotifier(Notifier):
+    """발송을 미뤄 모았다가 정해진 시각에 한 번에 보내는 래퍼.
+
+    발송 시각이 아니면 큐에 쌓기만 한다. 전송에 성공했을 때만 큐를 비우므로,
+    SMTP가 죽어 있으면 다음 실행에서 다시 시도한다.
+    """
+
+    def __init__(self, inner: Notifier, queue: DigestQueue, due: bool) -> None:
+        self.inner = inner
+        self.queue = queue
+        self.due = due
+
+    @property
+    def name(self) -> str:  # type: ignore[override]
+        return self.inner.name
+
+    def send(self, item: ProcessedItem) -> bool:
+        return self.send_many([item]) == 1
+
+    def send_many(self, items: Sequence[ProcessedItem]) -> int:
+        added = self.queue.extend(items)
+        if not self.due:
+            logger.info(
+                "[%s] %d건 대기열에 적재 (누적 %d건), 발송 시각까지 보류",
+                self.name, added, len(self.queue),
+            )
+            self.queue.save()
+            return 0
+
+        pending = self.queue.items()
+        if not pending:
+            return 0
+
+        sent = self.inner.send_many(pending)
+        if sent:
+            self.queue.clear()
+        else:
+            logger.warning("[%s] 발송 실패, 대기열을 유지합니다", self.name)
+        self.queue.save()
+        return sent
+
+
 class ConsoleNotifier(Notifier):
     """드라이런용. 실제로 보내지 않고 stdout에 출력한다."""
 
@@ -356,7 +399,9 @@ class ConsoleNotifier(Notifier):
         return True
 
 
-def build_notifiers(config: NotifierConfig, dry_run: bool = False) -> list[Notifier]:
+def build_notifiers(
+    config: NotifierConfig, dry_run: bool = False, digest_due: bool = True
+) -> list[Notifier]:
     """설정에 적힌 채널 중 자격 증명이 갖춰진 것만 만든다.
 
     쓸 수 있는 채널이 하나도 없으면 콘솔로 떨어뜨린다. 알림 채널 미설정 때문에
@@ -368,9 +413,17 @@ def build_notifiers(config: NotifierConfig, dry_run: bool = False) -> list[Notif
     notifiers: list[Notifier] = []
     for channel in config.channels:
         try:
-            notifiers.append(_build_one(channel, config))
+            notifier = _build_one(channel, config)
         except MissingCredentials as exc:
             logger.warning("'%s' 채널 건너뜀: %s", channel, exc)
+            continue
+
+        if channel == "email" and config.email.digest_hour is not None:
+            queue = DigestQueue(
+                config.email.queue_path, config.email.max_queue_entries
+            ).load()
+            notifier = DigestNotifier(notifier, queue, due=digest_due)
+        notifiers.append(notifier)
 
     if not notifiers:
         logger.warning("사용 가능한 알림 채널이 없어 콘솔로 출력합니다")
