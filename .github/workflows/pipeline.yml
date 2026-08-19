@@ -55,17 +55,17 @@ jobs:
         run: |
           python main.py ${{ inputs.dry_run && '--dry-run' || '' }}
 
-      - name: Commit processed cache
+      - name: Commit pipeline state
         if: ${{ !inputs.dry_run }}
         run: |
-          if git diff --quiet -- data/processed_ids.json; then
-            echo "캐시 변경 없음, 커밋 생략"
+          if git diff --quiet -- data/; then
+            echo "상태 파일 변경 없음, 커밋 생략"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/processed_ids.json
-          git commit -m "chore(data): update processed ids cache [skip ci]" \
-            -m "Record items handled by this pipeline run so the next run skips them."
+          git add data/
+          git commit -m "chore(data): update pipeline state [skip ci]" \
+            -m "Record handled items and pending digest entries for the next run."
           git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
