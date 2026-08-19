@@ -1,5 +1,31 @@
 {
-  "version": 1,
-  "updated_at": null,
-  "ids": {}
+  "ids": {
+    "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://news.ycombinator.com/item?id=49353432": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3153830": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3153831": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3153863": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3153909": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3153956": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3154044": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3154081": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://techcrunch.com/?p=3154147": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrqf4f": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vru16d": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrwn1f": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrwsfl": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrxgiu": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vry2ns": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vryd3q": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs0wsl": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs2tsn": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs3joh": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs9zym": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsccit": "2026-08-19T12:14:50.156795+00:00",
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsf9eg": "2026-08-19T12:14:50.156795+00:00"
+  },
+  "updated_at": "2026-08-19T12:14:50.156924+00:00",
+  "version": 1
 }
