@@ -77,6 +77,7 @@ class LLMConfig(BaseModel):
     temperature: float = Field(default=0.2, ge=0.0, le=2.0)
     max_retries: int = Field(default=3, ge=1)
     max_content_chars: int = Field(default=4000, ge=200)
+    max_retry_delay: float = Field(default=60.0, ge=0.0)
 
 
 class CacheConfig(BaseModel):
@@ -105,6 +106,16 @@ class EmailConfig(BaseModel):
 
     subject_prefix: str = "[insight-refinery]"
 
+    digest_hour: int | None = Field(default=None, ge=0, le=23)
+    """이 UTC 시각의 실행에서만 발송한다. None이면 매 실행 발송.
+
+    다른 실행에서는 큐에 쌓아두기만 하므로, 값은 cron이 실제로 도는 시각 중
+    하나여야 한다. 아니면 영영 발송되지 않는다.
+    """
+
+    queue_path: Path = Path("data/digest_queue.json")
+    max_queue_entries: int = Field(default=500, ge=1)
+
 
 class NotifierConfig(BaseModel):
     model_config = ConfigDict(extra="forbid")
@@ -114,9 +125,15 @@ class NotifierConfig(BaseModel):
     )
     """모두에게 보낸다. 자격 증명이 없는 채널은 건너뛴다."""
 
+    min_importance: dict[str, int] = Field(default_factory=dict)
+    """채널별 임계치 override. 없는 채널은 `run.min_importance`를 쓴다."""
+
     rate_limit_delay: float = Field(default=0.5, ge=0.0)
     disable_web_page_preview: bool = False
     email: EmailConfig = Field(default_factory=EmailConfig)
+
+    def threshold_for(self, channel: str, default: int) -> int:
+        return self.min_importance.get(channel, default)
 
 
 class Config(BaseModel):

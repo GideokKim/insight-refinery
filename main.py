@@ -20,6 +20,7 @@ from core.collectors import build_collectors
 from core.collectors.base import RawItem
 from core.config import DEFAULT_CONFIG_PATH, Config, load_config
 from core.dedup import ProcessedStore
+from core.digest import is_digest_due
 from core.notifier import build_notifiers
 from core.processor import ProcessedItem, Processor
 
@@ -43,6 +44,11 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         dest="sources",
         default=None,
         help="지정한 이름의 소스만 실행한다 (반복 지정 가능)",
+    )
+    parser.add_argument(
+        "--send-digest",
+        action="store_true",
+        help="다이제스트 발송 시각이 아니어도 대기열을 지금 발송한다",
     )
     parser.add_argument("--verbose", "-v", action="store_true", help="디버그 로그 출력")
     return parser.parse_args(argv)
@@ -113,24 +119,15 @@ def run(config: Config, args: argparse.Namespace) -> int:
         temperature=config.llm.temperature,
         max_retries=config.llm.max_retries,
         max_content_chars=config.llm.max_content_chars,
+        max_retry_delay=config.llm.max_retry_delay,
     )
     processed = processor.process_many(targets)
 
-    threshold = config.run.min_importance
-    to_notify: list[ProcessedItem] = [p for p in processed if p.importance >= threshold]
-    to_notify.sort(key=lambda p: p.importance, reverse=True)
-    logger.info(
-        "요약 성공 %d/%d건, 중요도 %d점 이상 %d건",
-        len(processed),
-        len(targets),
-        threshold,
-        len(to_notify),
-    )
+    processed.sort(key=lambda p: p.importance, reverse=True)
+    logger.info("요약 성공 %d/%d건", len(processed), len(targets))
 
-    if to_notify:
-        for notifier in build_notifiers(config.notifier, dry_run=args.dry_run):
-            sent = notifier.send_many(to_notify)
-            logger.info("[%s] 알림 %d/%d건 전송", notifier.name, sent, len(to_notify))
+    if processed:
+        _notify(config, args, processed)
 
     # 알림 여부와 무관하게, 요약에 성공한 것은 모두 처리 완료로 기록한다.
     # (임계치 미만이라 안 보낸 항목을 다음 실행에서 다시 요약하면 토큰 낭비)
@@ -141,6 +138,33 @@ def run(config: Config, args: argparse.Namespace) -> int:
         store.save()
 
     return 0
+
+
+def _notify(
+    config: Config, args: argparse.Namespace, processed: list[ProcessedItem]
+) -> None:
+    """채널마다 자기 임계치로 걸러 보낸다."""
+    digest_hour = config.notifier.email.digest_hour
+    due = args.send_digest or digest_hour is None or is_digest_due(
+        datetime.now(timezone.utc), digest_hour
+    )
+
+    notifiers = build_notifiers(
+        config.notifier, dry_run=args.dry_run, digest_due=due
+    )
+    for notifier in notifiers:
+        threshold = config.notifier.threshold_for(
+            notifier.name, config.run.min_importance
+        )
+        selected = [item for item in processed if item.importance >= threshold]
+        if not selected:
+            logger.info("[%s] %d점 이상 없음, 건너뜀", notifier.name, threshold)
+            continue
+        sent = notifier.send_many(selected)
+        logger.info(
+            "[%s] %d점 이상 %d건 중 %d건 전송",
+            notifier.name, threshold, len(selected), sent,
+        )
 
 
 def main(argv: list[str] | None = None) -> int:

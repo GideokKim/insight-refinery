@@ -22,7 +22,7 @@ from dataclasses import dataclass
 from enum import Enum
 from typing import Any, Callable, Literal
 
-from openai import BadRequestError, OpenAI
+from openai import BadRequestError, OpenAI, RateLimitError
 from pydantic import BaseModel, ConfigDict, Field, ValidationError
 
 from .collectors.base import RawItem
@@ -31,6 +31,33 @@ from .config import ProviderConfig
 logger = logging.getLogger(__name__)
 
 _FENCE_RE = re.compile(r"^\s*```(?:json)?\s*|\s*```\s*$", re.IGNORECASE)
+
+# 429 응답이 알려주는 대기 시간. Gemini는 두 형태를 모두 담아 보낸다.
+_RETRY_IN_RE = re.compile(r"retry in ([\d.]+)\s*s", re.IGNORECASE)
+_RETRY_DELAY_RE = re.compile(r"retryDelay['\"]?\s*[:=]\s*['\"]?(\d+(?:\.\d+)?)s")
+
+
+def _retry_delay(exc: Exception, fallback: float, cap: float) -> float:
+    """429 응답에서 정확한 대기 시간을 뽑아낸다.
+
+    고정 백오프(1·2·4초)로는 분당 요청 제한을 넘길 수 없다. 제한이 풀리는
+    시각을 서버가 알려주므로 그 값을 그대로 쓴다. 다만 통째로 믿으면 job이
+    타임아웃될 수 있어 상한을 둔다.
+    """
+    response = getattr(exc, "response", None)
+    header = getattr(response, "headers", {}).get("retry-after") if response else None
+    if header:
+        try:
+            return min(float(header), cap)
+        except ValueError:
+            pass
+
+    text = str(exc)
+    match = _RETRY_IN_RE.search(text) or _RETRY_DELAY_RE.search(text)
+    if match:
+        # 서버가 알려준 시각 직후에 다시 때리면 아슬아슬하게 또 막힌다.
+        return min(float(match.group(1)) + 1.0, cap)
+    return fallback
 
 
 class Category(str, Enum):
@@ -129,10 +156,12 @@ class Processor:
         temperature: float = 0.2,
         max_retries: int = 3,
         max_content_chars: int = 4000,
+        max_retry_delay: float = 60.0,
     ) -> None:
         self.temperature = temperature
         self.max_retries = max_retries
         self.max_content_chars = max_content_chars
+        self.max_retry_delay = max_retry_delay
         self._providers = self._build_providers(providers)
 
         if not self._providers:
@@ -157,7 +186,11 @@ class Processor:
                     "%s 미설정 → provider '%s' 건너뜀", config.api_key_env, config.name
                 )
                 continue
-            client = OpenAI(api_key=api_key, base_url=config.base_url)
+            # SDK 내장 재시도는 백오프가 1초 미만이라 분당 제한에 무력하다.
+            # 재시도는 아래 `_summarize`가 서버가 알려준 간격으로 직접 한다.
+            client = OpenAI(
+                api_key=api_key, base_url=config.base_url, max_retries=0
+            )
             built.append(
                 _Provider(
                     config=config,
@@ -204,8 +237,15 @@ class Processor:
     def _summarize(self, provider: _Provider, item: RawItem) -> Insight | None:
         """provider 하나로 재시도까지 수행한다. 최종 실패면 None."""
         for attempt in range(1, self.max_retries + 1):
+            delay = float(2 ** (attempt - 1))
             try:
                 return self._call(provider, item)
+            except RateLimitError as exc:
+                delay = _retry_delay(exc, fallback=delay, cap=self.max_retry_delay)
+                logger.warning(
+                    "[%s] 레이트 리밋 (%d/%d), %.1f초 대기",
+                    provider.name, attempt, self.max_retries, delay,
+                )
             except BadRequestError as exc:
                 # strict 스키마를 거부하는 provider가 있다. 한 단계 낮춰 다시 시도한다.
                 if provider.mode == "json_schema":
@@ -224,7 +264,7 @@ class Processor:
                 logger.warning("[%s] 호출 실패 (%d/%d): %s", provider.name, attempt, self.max_retries, exc)
 
             if attempt < self.max_retries:
-                time.sleep(2 ** (attempt - 1))
+                time.sleep(delay)
         return None
 
     def _call(self, provider: _Provider, item: RawItem) -> Insight | None:

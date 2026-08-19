@@ -11,6 +11,8 @@ run:
 
 llm:
   temperature: 0.2
+  # 429가 알려주는 대기 시간을 따르되, 이 값(초)을 넘지는 않는다.
+  max_retry_delay: 60
   # provider 하나당 재시도 횟수. 다 쓰면 다음 provider로 넘어간다.
   max_retries: 3
   # 본문을 이 길이로 잘라 프롬프트에 넣는다.
@@ -48,6 +50,12 @@ notifier:
     - discord
     - email
 
+  # 채널별 알림 임계치. 여기 없는 채널은 run.min_importance를 쓴다.
+  # Discord는 실시간이라 넓게, 이메일 다이제스트는 엄선해서 받는다.
+  min_importance:
+    discord: 3
+    email: 4
+
   # 전송 사이 최소 간격(초). 레이트 리밋 회피용.
   rate_limit_delay: 0.5
   # telegram 전용.
@@ -60,8 +68,14 @@ notifier:
     port: 587
     use_tls: true
     # 비우면 SMTP_USER 본인에게 보낸다.
-    recipients: []
+    recipients:
+      - ikid4127@naver.com
     subject_prefix: "[insight-refinery]"
+
+    # 이 UTC 시각의 실행에서만 발송하고, 나머지 실행에서는 큐에 쌓아둔다.
+    # 21 UTC = 06:00 KST (아침 브리핑). cron이 도는 시각 중 하나여야 한다.
+    digest_hour: 21
+    queue_path: data/digest_queue.json
 
 # 소스를 추가/제거하는 것만으로 도메인을 바꿀 수 있다.
 # type은 core/collectors/ 에 등록된 수집기 이름이다 (현재: rss, reddit).
