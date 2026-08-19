@@ -1,5 +1,10 @@
 {
   "ids": {
+    "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
+      "at": "2026-08-19T17:19:19.683335+00:00",
+      "title": "gpu management why idle gpus are the new grounded aircraft",
+      "url": "huggingface.co/blog/Dharma-AI/gpu-management"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": {
       "at": "2026-08-19T12:28:12.501822+00:00",
       "title": "same cluster 33 points more utilization what changed was the order",
@@ -10,10 +15,30 @@
       "title": "lfm2 5 q4 _0 checkpoints from quantization aware distillation",
       "url": "huggingface.co/blog/LiquidAI/qad"
     },
+    "rss:https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation": {
+      "at": "2026-08-19T17:19:19.683222+00:00",
+      "title": "making knowledge distillation cheap enough to run at scale",
+      "url": "huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+    },
+    "rss:https://huggingface.co/blog/agent-intrusion-technical-timeline": {
+      "at": "2026-08-19T17:19:19.683244+00:00",
+      "title": "anatomy of a frontier lab agent intrusion a technical timeline of the july 2026 incident",
+      "url": "huggingface.co/blog/agent-intrusion-technical-timeline"
+    },
+    "rss:https://huggingface.co/blog/allenai/olmoearth-embeddings": {
+      "at": "2026-08-19T17:19:19.683313+00:00",
+      "title": "introducing olmoearth embeddings custom embedding exports from olmoearth studio for downstream analysis",
+      "url": "huggingface.co/blog/allenai/olmoearth-embeddings"
+    },
     "rss:https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": {
       "at": "2026-08-19T14:23:12.191206+00:00",
       "title": "record train and deploy from one place with strands agents lerobot and hugging face storage buckets",
       "url": "huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    },
+    "rss:https://huggingface.co/blog/baseten": {
+      "at": "2026-08-19T17:19:19.683328+00:00",
+      "title": "baseten on hugging face inference providers",
+      "url": "huggingface.co/blog/baseten"
     },
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
       "at": "2026-08-19T12:14:50.156795+00:00"
@@ -27,6 +52,21 @@
       "at": "2026-08-19T12:28:12.501794+00:00",
       "title": "multi vector late interaction embedding models with sentence transformers",
       "url": "huggingface.co/blog/multi-vector-encoder"
+    },
+    "rss:https://huggingface.co/blog/muse-glimmer": {
+      "at": "2026-08-19T17:19:19.683229+00:00",
+      "title": "meta is back with muse glimmer local agentic multimodal and open source",
+      "url": "huggingface.co/blog/muse-glimmer"
+    },
+    "rss:https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
+      "at": "2026-08-19T17:19:19.683237+00:00",
+      "title": "nvidia cosmos h dreams bringing real time generative simulation to surgical robotics",
+      "url": "huggingface.co/blog/nvidia/cosmos-h-dreams"
+    },
+    "rss:https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": {
+      "at": "2026-08-19T17:19:19.683212+00:00",
+      "title": "build low latency multilingual voice agents open weights full deployment control with nvidia magpie tts",
+      "url": "huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
     },
     "rss:https://huggingface.co/blog/state-of-open-models-summer-2026": {
       "at": "2026-08-19T14:23:12.191390+00:00",
@@ -154,6 +194,11 @@
       "title": "openai appoints dali rajic as chief revenue officer",
       "url": "openai.com/index/dali-rajic-chief-revenue-officer"
     },
+    "rss:https://openai.com/index/how-enterprises-put-ai-to-work": {
+      "at": "2026-08-19T17:19:19.683319+00:00",
+      "title": "from assistance to execution how enterprises put ai to work",
+      "url": "openai.com/index/how-enterprises-put-ai-to-work"
+    },
     "rss:https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
       "at": "2026-08-19T14:23:12.191291+00:00",
       "title": "new policy ideas for the intelligence age",
@@ -197,10 +242,65 @@
       "title": "the defender s window",
       "url": "openai.com/index/the-defenders-window"
     },
+    "rss:https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/": {
+      "at": "2026-08-19T17:19:19.683273+00:00",
+      "title": "accelerating gemini nano models on pixel with frozen multi token prediction",
+      "url": "research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction"
+    },
+    "rss:https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/": {
+      "at": "2026-08-19T17:19:19.683201+00:00",
+      "title": "advancing amie towards expert level audio visual clinical consultations",
+      "url": "research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations"
+    },
+    "rss:https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/": {
+      "at": "2026-08-19T17:19:19.683361+00:00",
+      "title": "empty shelves or lost keys recall is the bottleneck for parametric factuality",
+      "url": "research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality"
+    },
+    "rss:https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/": {
+      "at": "2026-08-19T17:19:19.683376+00:00",
+      "title": "expanding our heat resilience data to 50 global cities",
+      "url": "research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities"
+    },
+    "rss:https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/": {
+      "at": "2026-08-19T17:19:19.683265+00:00",
+      "title": "introducing tabfm a zero shot foundation model for tabular data",
+      "url": "research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data"
+    },
+    "rss:https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/": {
+      "at": "2026-08-19T17:19:19.683366+00:00",
+      "title": "science one framework a verifiable autonomous research framework via chain of evidence",
+      "url": "research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence"
+    },
     "rss:https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/": {
       "at": "2026-08-19T12:28:12.501955+00:00",
       "title": "seeing beyond bmi estimating cardiometabolic risk with smartphone imagery",
       "url": "research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery"
+    },
+    "rss:https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/": {
+      "at": "2026-08-19T17:19:19.683256+00:00",
+      "title": "sensorfm towards a general intelligence and interface for wearable health data",
+      "url": "research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data"
+    },
+    "rss:https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/": {
+      "at": "2026-08-19T17:19:19.683340+00:00",
+      "title": "symptomai towards a conversational ai agent for everyday symptom assessment",
+      "url": "research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment"
+    },
+    "rss:https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/": {
+      "at": "2026-08-19T17:19:19.683371+00:00",
+      "title": "the power of collaboration how we can reduce traffic congestion",
+      "url": "research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion"
+    },
+    "rss:https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/": {
+      "at": "2026-08-19T17:19:19.683345+00:00",
+      "title": "towards a quantum computer that learns from its errors",
+      "url": "research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors"
+    },
+    "rss:https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/": {
+      "at": "2026-08-19T17:19:19.683349+00:00",
+      "title": "towards demystifying the creativity of diffusion models",
+      "url": "research.google/blog/towards-demystifying-the-creativity-of-diffusion-models"
     },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
@@ -266,6 +366,16 @@
       "title": "calendly throws its hat into meeting note taker circus",
       "url": "techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus"
     },
+    "rss:https://techcrunch.com/?p=3154279": {
+      "at": "2026-08-19T17:19:19.683295+00:00",
+      "title": "amazon makes its ai powered alexa free on fire tv no prime required",
+      "url": "techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required"
+    },
+    "rss:https://techcrunch.com/?p=3154356": {
+      "at": "2026-08-19T17:19:19.683281+00:00",
+      "title": "terrapower s nuclear reactor has a secret weapon for powering ai data centers",
+      "url": "techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vro3vf": {
       "at": "2026-08-19T12:28:12.501868+00:00",
       "title": "linux improves vram management in 7 3 kernel",
@@ -324,8 +434,23 @@
       "at": "2026-08-19T14:23:12.191156+00:00",
       "title": "stop anthropomorphisizing intermediate tokens qwen3 8 doesn t overthink",
       "url": "reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsmdni": {
+      "at": "2026-08-19T17:19:19.683354+00:00",
+      "title": "updated unsloth qwen3 8 27b gguf hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsmdni/updated_unslothqwen3827bgguf_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsn2xw": {
+      "at": "2026-08-19T17:19:19.683304+00:00",
+      "title": "we have q3 8 35b at home 3x new ornith 1 5 released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsr67c": {
+      "at": "2026-08-19T17:19:19.683150+00:00",
+      "title": "introducing qwen3 8 27b dynamic v3 unsloth ggufs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsr67c/introducing_qwen3827b_dynamic_v3_unsloth_ggufs"
     }
   },
-  "updated_at": "2026-08-19T14:23:12.191500+00:00",
+  "updated_at": "2026-08-19T17:19:19.683404+00:00",
   "version": 2
 }
