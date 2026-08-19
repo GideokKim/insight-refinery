@@ -82,20 +82,36 @@ def collect(config: Config, only: list[str] | None) -> list[RawItem]:
 
 
 def filter_new(items: list[RawItem], store: ProcessedStore) -> list[RawItem]:
-    """캐시에 없는 아이템만 남긴다 (같은 실행 내 중복도 제거)."""
-    seen: set[str] = set()
+    """이미 본 것과 중복인 아이템을 걸러낸다.
+
+    ID·URL·제목 세 기준으로 보므로, 같은 기사를 여러 소스가 나른 경우도
+    걸린다. 통과한 아이템은 곧바로 색인에 넣어 같은 실행 안의 뒤 아이템과도
+    비교되게 한다.
+    """
     fresh: list[RawItem] = []
+    skipped: dict[str, int] = {}
     for item in items:
-        key = item.dedup_key
-        if key in store or key in seen:
+        reason = store.find_duplicate(item)
+        if reason is not None:
+            label = reason.split(" (")[0]
+            skipped[label] = skipped.get(label, 0) + 1
+            logger.debug("중복 제외 [%s]: %s", reason, item.title[:60])
             continue
-        seen.add(key)
+        store.stage(item)
         fresh.append(item)
+
+    if skipped:
+        detail = ", ".join(f"{k} {v}건" for k, v in sorted(skipped.items()))
+        logger.info("중복 %d건 제외 (%s)", sum(skipped.values()), detail)
     return fresh
 
 
 def run(config: Config, args: argparse.Namespace) -> int:
-    store = ProcessedStore(config.cache.path, config.cache.max_entries).load()
+    store = ProcessedStore(
+        config.cache.path,
+        config.cache.max_entries,
+        config.cache.similarity_threshold,
+    ).load()
 
     collected = collect(config, args.sources)
     fresh = filter_new(collected, store)
@@ -133,7 +149,8 @@ def run(config: Config, args: argparse.Namespace) -> int:
     if args.dry_run:
         logger.info("드라이런이므로 캐시를 저장하지 않습니다")
     else:
-        store.add_many(item.raw.dedup_key for item in processed)
+        for item in processed:
+            store.add(item.raw)
         store.save()
 
     return 0

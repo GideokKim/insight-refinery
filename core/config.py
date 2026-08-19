@@ -87,6 +87,9 @@ class CacheConfig(BaseModel):
     max_entries: int = Field(default=5000, ge=1)
     """오래된 키부터 잘라내 캐시 파일이 무한정 커지는 것을 막는다."""
 
+    similarity_threshold: float = Field(default=0.85, ge=0.0, le=1.0)
+    """제목이 이 비율 이상 겹치면 같은 사건으로 본다. 0이면 제목 판정을 끈다."""
+
 
 class EmailConfig(BaseModel):
     """SMTP 다이제스트 설정. 계정/비밀번호는 환경 변수로만 받는다."""

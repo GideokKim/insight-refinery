@@ -42,6 +42,9 @@ cache:
   path: data/processed_ids.json
   # 이 수를 넘으면 오래된 키부터 삭제한다.
   max_entries: 5000
+  # 제목이 이만큼 겹치면 다른 매체가 쓴 같은 사건으로 보고 거른다.
+  # 높일수록 덜 거르고, 0이면 제목 판정을 끈다 (ID·URL 판정은 계속 동작).
+  similarity_threshold: 0.85
 
 notifier:
   # 나열한 채널 모두에 보낸다. 자격 증명이 없는 채널은 경고만 남기고 건너뛴다.
