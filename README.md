@@ -10,8 +10,8 @@ SNS·RSS·뉴스레터 등 여러 소스에서 피드를 모아 LLM으로 **정�
 
 ```
 collectors → dedup → processor(LLM) → 임계치 필터 → notifier
-   RSS         JSON     Structured        중요도 N점       Telegram
-   Reddit      캐시      Outputs           이상만
+   RSS         JSON     Structured        중요도 N점    Discord/Email/
+   Reddit      캐시      Outputs           이상만        Telegram
 ```
 
 ## 개발 단계
@@ -37,7 +37,7 @@ insight-refinery/
 │   ├── config.py                   # config.yaml 로딩·검증 (Pydantic)
 │   ├── dedup.py                    # 처리 완료 ID 캐시 (JSON)
 │   ├── processor.py                # Pydantic 스키마 + LLM 구조화 요약 + provider 폴백
-│   └── notifier.py                 # Telegram MarkdownV2 발송
+│   └── notifier.py                 # 알림 채널 (Discord / Email / Telegram)
 ├── data/processed_ids.json         # 중복 방지 캐시 (커밋 대상)
 ├── config.yaml                     # 소스 목록 및 임계치
 ├── main.py                         # 엔트리포인트
@@ -96,8 +96,7 @@ pip install -r requirements.txt
 export GEMINI_API_KEY=...          # 또는 GROQ_API_KEY
 python main.py --dry-run --limit 3        # 알림 없이 stdout 출력, 캐시도 안 건드림
 
-export TELEGRAM_BOT_TOKEN=123:abc
-export TELEGRAM_CHAT_ID=-100...
+export DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/...
 python main.py                            # 실제 발송 + 캐시 저장
 ```
 
@@ -120,16 +119,44 @@ python main.py                            # 실제 발송 + 캐시 저장
 | `GEMINI_API_KEY` | ▲ | 요약 (1순위) |
 | `GROQ_API_KEY` | ▲ | 요약 (2순위 폴백) |
 | `OPENAI_API_KEY` | ⬜ | 요약 (유료, 기본 비활성) |
-| `TELEGRAM_BOT_TOKEN` | ✅ | 알림 |
-| `TELEGRAM_CHAT_ID` | ✅ | 알림 대상 채팅 |
+| `DISCORD_WEBHOOK_URL` | ▲ | 알림 (Discord) |
+| `SMTP_USER` / `SMTP_PASSWORD` | ▲ | 알림 (이메일) |
+| `TELEGRAM_BOT_TOKEN` / `TELEGRAM_CHAT_ID` | ▲ | 알림 (Telegram, 기본 비활성) |
 | `REDDIT_CLIENT_ID` | ⬜ | Reddit OAuth (아래 참고) |
 | `REDDIT_CLIENT_SECRET` | ⬜ | Reddit OAuth |
 
-▲ 표시는 "셋 중 최소 하나"라는 뜻이다. 하나도 없으면 시작 시점에 에러로 멈춘다.
+LLM 키(▲)는 최소 하나가 필요하며, 하나도 없으면 시작 시점에 에러로 멈춘다.
+알림 키(▲)는 `notifier.channels`에 켜 둔 채널 것만 있으면 되고, 하나도 없으면
+발송 대신 콘솔 출력으로 떨어진다.
 
 기본 3시간 주기(`cron: "0 */3 * * *"`, UTC)로 돌고, 실행 후 바뀐
 `data/processed_ids.json`을 자동 커밋·푸시한다. Actions 탭에서 수동 실행 시
 `dry_run` 체크박스로 발송 없이 동작만 확인할 수 있다.
+
+## 알림 채널
+
+`notifier.channels`에 나열한 **모든** 채널로 보낸다. 자격 증명이 없는 채널은
+경고만 남기고 빠지므로, 채널 하나가 미설정이라고 실행이 죽지 않는다. 쓸 수 있는
+채널이 하나도 없으면 콘솔로 떨어뜨린다 — 이미 끝낸 LLM 작업을 잃지 않기 위해서다.
+
+| 채널 | 필요한 환경 변수 | 발송 단위 |
+| --- | --- | --- |
+| `discord` | `DISCORD_WEBHOOK_URL` | embed 10개씩 묶어 전송 |
+| `email` | `SMTP_USER`, `SMTP_PASSWORD` | 실행 1회분을 다이제스트 한 통으로 |
+| `telegram` | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | 건당 1메시지 |
+
+### Discord 웹훅 만들기
+
+채널 이름 우클릭 → **채널 편집** → **연동** → **웹후크** → **새 웹후크** →
+**웹후크 URL 복사**. 봇 생성도 chat_id 조회도 필요 없다.
+
+### 이메일(SMTP)
+
+Gmail이라면 2단계 인증을 켠 뒤 [앱 비밀번호](https://myaccount.google.com/apppasswords)를
+발급해 `SMTP_PASSWORD`에 넣는다. **계정 비밀번호로는 로그인되지 않는다.**
+수신자는 `config.yaml`의 `notifier.email.recipients`에 적고, 비워 두면
+`SMTP_USER` 본인에게 보낸다. 포트는 587(STARTTLS)이 기본이며 465를 적으면
+SMTP_SSL로 붙는다.
 
 ## 설정 (`config.yaml`)
 
