@@ -35,7 +35,7 @@ insight-refinery/
 │   │   ├── rss.py                  #   RSS/Atom
 │   │   └── reddit.py               #   Reddit (익명 JSON / 선택적 OAuth)
 │   ├── config.py                   # config.yaml 로딩·검증 (Pydantic)
-│   ├── dedup.py                    # 처리 완료 ID 캐시 (JSON)
+│   ├── dedup.py                    # 중복 판정 (ID·URL·제목) + 캐시
 │   ├── digest.py                   # 이메일 다이제스트 대기열
 │   ├── processor.py                # Pydantic 스키마 + LLM 구조화 요약 + provider 폴백
 │   └── notifier.py                 # 알림 채널 (Discord / Email / Telegram)
@@ -136,6 +136,29 @@ LLM 키(▲)는 최소 하나가 필요하며, 하나도 없으면 시작 시점
 기본 3시간 주기(`cron: "0 */3 * * *"`, UTC)로 돌고, 실행 후 바뀐
 `data/processed_ids.json`을 자동 커밋·푸시한다. Actions 탭에서 수동 실행 시
 `dry_run` 체크박스로 발송 없이 동작만 확인할 수 있다.
+
+## 중복 판정
+
+같은 뉴스가 반복해서 오는 경로가 셋이라, 세 기준으로 각각 막는다. 판정은 LLM
+호출 **전에** 이뤄지므로 토큰도 함께 아낀다.
+
+| 기준 | 막는 상황 | 예 |
+| --- | --- | --- |
+| ID | 같은 피드에 같은 글이 다시 올라옴 | 같은 RSS 엔트리 |
+| URL | 같은 기사를 여러 소스가 나름 | TechCrunch 기사가 HN에 올라옴 |
+| 제목 유사도 | 같은 사건을 여러 매체가 각자 씀 | TechCrunch와 VentureBeat의 같은 소식 |
+
+ID만으로는 부족하다. HN 항목의 ID는 `news.ycombinator.com/item?id=...`이고 실제
+기사 링크는 따로이며, TechCrunch의 ID는 `?p=3153830` 꼴이라 기사 URL과 또 다르다.
+그래서 URL은 스킴·`www.`·추적 파라미터(`utm_*`, `ref` 등)·파라미터 순서를
+정규화해서 비교한다.
+
+제목 판정은 `cache.similarity_threshold`(기본 0.85)로 조절한다. 낮추면 더 공격적으로
+묶어 오탐(다른 소식을 같은 것으로 간주)이 늘고, `0`이면 제목 판정만 꺼진다
+(ID·URL 판정은 계속 동작).
+
+같은 실행 안에서 앞서 통과한 아이템과도 비교하므로, 한 번에 여러 소스에서 같은
+기사가 들어와도 하나만 남는다.
 
 ## 알림 채널
 
