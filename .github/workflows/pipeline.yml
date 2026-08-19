@@ -10,6 +10,10 @@ on:
         description: "알림을 보내지 않고 로그만 확인 (캐시도 저장하지 않음)"
         type: boolean
         default: false
+      send_digest:
+        description: "이메일 다이제스트를 발송 시각이 아니어도 지금 보낸다"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -53,7 +57,9 @@ jobs:
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: |
-          python main.py ${{ inputs.dry_run && '--dry-run' || '' }}
+          python main.py \
+            ${{ inputs.dry_run && '--dry-run' || '' }} \
+            ${{ inputs.send_digest && '--send-digest' || '' }}
 
       - name: Commit pipeline state
         if: ${{ !inputs.dry_run }}
