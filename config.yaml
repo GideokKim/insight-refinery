@@ -115,22 +115,39 @@ sources:
       url: http://export.arxiv.org/rss/cs.AI
       limit: 10
 
-  - name: r/LocalLLaMA
-    type: reddit
+  - name: Hacker News (AI)
+    type: rss
     enabled: true
     options:
-      subreddit: LocalLLaMA
-      listing: top
-      time_filter: day
+      # 인증이 필요 없다. points로 화제성 하한을 준다.
+      url: https://hnrss.org/newest?q=AI&points=100
+      limit: 20
+
+  # Reddit Data API는 Responsible Builder Policy 이후 승인이 필요해졌다.
+  # 승인 전까지는 인증 없이 열려 있는 RSS 엔드포인트로 우회한다.
+  # 연속 요청에 429가 잘 나므로 실패하는 실행이 섞이는 것은 정상이다
+  # (safe_collect가 격리하므로 나머지 소스는 그대로 진행된다).
+  - name: r/LocalLLaMA
+    type: rss
+    enabled: true
+    options:
+      url: https://www.reddit.com/r/LocalLLaMA/top/.rss?t=day
       limit: 15
-      min_score: 100
+      user_agent: insight-refinery/0.1 (RSS reader)
 
   - name: r/MachineLearning
-    type: reddit
+    type: rss
     enabled: true
     options:
-      subreddit: MachineLearning
-      listing: top
-      time_filter: day
+      url: https://www.reddit.com/r/MachineLearning/top/.rss?t=day
       limit: 15
-      min_score: 50
+      user_agent: insight-refinery/0.1 (RSS reader)
+
+  # 승인이 나면 위 두 항목을 지우고 아래처럼 되돌린다 (min_score 필터가 살아난다).
+  # - name: r/LocalLLaMA
+  #   type: reddit
+  #   options:
+  #     subreddit: LocalLLaMA
+  #     listing: top
+  #     time_filter: day
+  #     min_score: 100
