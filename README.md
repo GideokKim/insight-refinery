@@ -36,9 +36,12 @@ insight-refinery/
 │   │   └── reddit.py               #   Reddit (익명 JSON / 선택적 OAuth)
 │   ├── config.py                   # config.yaml 로딩·검증 (Pydantic)
 │   ├── dedup.py                    # 처리 완료 ID 캐시 (JSON)
+│   ├── digest.py                   # 이메일 다이제스트 대기열
 │   ├── processor.py                # Pydantic 스키마 + LLM 구조화 요약 + provider 폴백
 │   └── notifier.py                 # 알림 채널 (Discord / Email / Telegram)
-├── data/processed_ids.json         # 중복 방지 캐시 (커밋 대상)
+├── data/                           # 실행 간 상태 (커밋 대상)
+│   ├── processed_ids.json          #   중복 방지 캐시
+│   └── digest_queue.json           #   발송 대기 중인 요약
 ├── config.yaml                     # 소스 목록 및 임계치
 ├── main.py                         # 엔트리포인트
 └── requirements.txt
@@ -108,6 +111,7 @@ python main.py                            # 실제 발송 + 캐시 저장
 | `--dry-run` | 알림 대신 stdout 출력, 캐시 저장 안 함 |
 | `--limit N` | 이번 실행의 최대 요약 건수 |
 | `--source NAME` | 특정 소스만 실행 (반복 지정 가능) |
+| `--send-digest` | 발송 시각이 아니어도 대기열을 지금 보낸다 |
 | `--verbose` | 디버그 로그 |
 
 ### GitHub Actions
@@ -139,11 +143,36 @@ LLM 키(▲)는 최소 하나가 필요하며, 하나도 없으면 시작 시점
 경고만 남기고 빠지므로, 채널 하나가 미설정이라고 실행이 죽지 않는다. 쓸 수 있는
 채널이 하나도 없으면 콘솔로 떨어뜨린다 — 이미 끝낸 LLM 작업을 잃지 않기 위해서다.
 
-| 채널 | 필요한 환경 변수 | 발송 단위 |
-| --- | --- | --- |
-| `discord` | `DISCORD_WEBHOOK_URL` | embed 10개씩 묶어 전송 |
-| `email` | `SMTP_USER`, `SMTP_PASSWORD` | 실행 1회분을 다이제스트 한 통으로 |
-| `telegram` | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | 건당 1메시지 |
+| 채널 | 필요한 환경 변수 | 발송 주기 | 기본 임계치 |
+| --- | --- | --- | --- |
+| `discord` | `DISCORD_WEBHOOK_URL` | 실행마다 (embed 10개씩 묶음) | 3점 |
+| `email` | `SMTP_USER`, `SMTP_PASSWORD` | 하루 1회 다이제스트 | 4점 |
+| `telegram` | `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID` | 실행마다 (건당 1메시지) | `run.min_importance` |
+
+### 채널별 임계치
+
+`notifier.min_importance`로 채널마다 다르게 준다. 실시간 채널은 넓게 받고
+다이제스트는 엄선하는 식이다. 지정하지 않은 채널은 `run.min_importance`를 쓴다.
+
+```yaml
+notifier:
+  min_importance:
+    discord: 3
+    email: 4
+```
+
+### 이메일 다이제스트가 동작하는 방식
+
+배치는 3시간마다 도는데 메일은 하루 한 통만 받고 싶다. 그런데 처리한 아이템은
+중복 방지 캐시에 기록돼 다시 요약되지 않으므로, 발송 시각까지 **요약 결과 자체를
+들고 있어야** 한다. 그 보관소가 `data/digest_queue.json`이다.
+
+- `digest_hour`가 아닌 실행 → 임계치를 넘긴 항목을 큐에 쌓기만 한다
+- `digest_hour` 실행 → 큐에 쌓인 전부를 메일 한 통으로 보내고 큐를 비운다
+- 발송에 **성공했을 때만** 비우므로, SMTP가 죽어 있으면 다음 실행에서 재시도한다
+
+`digest_hour`는 UTC이고 **cron이 실제로 도는 시각 중 하나여야 한다.** 기본값 21은
+21:00 UTC = 06:00 KST 아침 브리핑이다. 지금 바로 받아보려면 `--send-digest`를 쓴다.
 
 ### Discord 웹훅 만들기
 
@@ -196,8 +225,11 @@ sources:
   실패한 항목은 기록하지 않으므로 다음 실행에서 재시도된다.
 - **RSS 피드 주소**: `config.yaml`의 기본 목록은 예시다. 사이트 개편으로 주소가
   바뀔 수 있으니 `--dry-run`으로 한 번 확인하고 쓰는 것을 권한다.
-- **무료 티어 쿼터**: Groq은 6,000 TPM이라 1건당 ~2K 토큰인 이 파이프라인에서는
-  분당 3건 남짓으로 묶인다. Groq이 주력이 되는 상황이라면 `max_items_per_run`을
+- **무료 티어 쿼터**: Gemini 무료 티어는 **분당 15요청**이라 한 번에 25건을 돌리면
+  중간에 429가 난다. 429 응답에는 서버가 알려주는 정확한 대기 시간이 들어 있어,
+  그 값만큼 기다렸다가 재시도한다(`llm.max_retry_delay`로 상한). 고정 백오프로는
+  분당 제한을 넘길 수 없어서다. SDK 내장 재시도는 백오프가 1초 미만이라 끄고
+  직접 처리한다. Groq은 6,000 TPM이 병목이라 주력이 되면 `max_items_per_run`을
   10 정도로 낮추는 편이 실행 시간(job timeout 20분) 면에서 안전하다.
 - **캐시 크기**: `cache.max_entries`를 넘으면 오래된 키부터 잘라낸다. 잘라낸 글이
   피드에 다시 나타나면 재요약될 수 있으므로, 피드 회전 주기보다 넉넉히 잡는다.
