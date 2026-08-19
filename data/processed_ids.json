@@ -171,6 +171,11 @@
     "rss:https://news.ycombinator.com/item?id=49353432": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
+    "rss:https://news.ycombinator.com/item?id=49362728": {
+      "at": "2026-08-19T23:12:49.502413+00:00",
+      "title": "mathematics in the age of ai",
+      "url": "arxiv.org/abs/2608.16753"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -411,6 +416,16 @@
       "title": "researchers say openai revoked their access to limited cyber program",
       "url": "techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program"
     },
+    "rss:https://techcrunch.com/?p=3154506": {
+      "at": "2026-08-19T23:12:49.502375+00:00",
+      "title": "openai seeks to one up anthropic with new customer privacy protections",
+      "url": "techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections"
+    },
+    "rss:https://techcrunch.com/?p=3154652": {
+      "at": "2026-08-19T23:12:49.502435+00:00",
+      "title": "cognition ceo denies report that spacex tried to acquire the startup",
+      "url": "techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -480,6 +495,11 @@
       "title": "stop anthropomorphisizing intermediate tokens qwen3 8 doesn t overthink",
       "url": "reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vskdwf": {
+      "at": "2026-08-19T23:12:49.502424+00:00",
+      "title": "waiting for a 122b because of world knowledge",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vskdwf/waiting_for_a_122b_because_of_world_knowledge"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsmdni": {
       "at": "2026-08-19T17:19:19.683354+00:00",
       "title": "updated unsloth qwen3 8 27b gguf hugging face",
@@ -509,8 +529,23 @@
       "at": "2026-08-19T17:19:19.683150+00:00",
       "title": "introducing qwen3 8 27b dynamic v3 unsloth ggufs",
       "url": "reddit.com/r/LocalLLaMA/comments/1vsr67c/introducing_qwen3827b_dynamic_v3_unsloth_ggufs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vss944": {
+      "at": "2026-08-19T23:12:49.502403+00:00",
+      "title": "lfm 2 5 qad",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vss944/lfm_25_qad"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsuaoj": {
+      "at": "2026-08-19T23:12:49.502391+00:00",
+      "title": "dflash2 speeds qwen 3 8 27b up to 4 times",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsuaoj/dflash2_speeds_qwen_38_27b_up_to_4_times"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsy4l2": {
+      "at": "2026-08-19T23:12:49.502322+00:00",
+      "title": "i pushed qwen3 8 27b limits again dflash2 134 tps on a rtx 3090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsy4l2/i_pushed_qwen3827b_limits_again_dflash2_134_tps"
     }
   },
-  "updated_at": "2026-08-19T20:13:45.261437+00:00",
+  "updated_at": "2026-08-19T23:12:49.502485+00:00",
   "version": 2
 }

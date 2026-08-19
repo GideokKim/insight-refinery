@@ -463,6 +463,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vsy4l2",
+        "title": "I pushed Qwen3.8-27B limits again... Dflash2 - 134 tps on a RTX 3090",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsy4l2/i_pushed_qwen3827b_limits_again_dflash2_134_tps/",
+        "author": "/u/iamMess",
+        "published_at": "2026-08-19T20:28:00+00:00"
+      },
+      "insight": {
+        "title_ko": "RTX 3090에서 Qwen3.8-27B 추론 성능 극대화",
+        "summary_ko": [
+          "개발자가 RTX 3090 환경에서 DFlash2 및 다양한 최적화 기법을 적용해 Qwen3.8-27B 모델의 추론 속도를 초당 138 토큰까지 끌어올렸습니다.",
+          "블록 드래프터 양자화와 룩업 기반 드래프팅 등을 도입하여 토큰 처리 효율을 높이고 긴 대화에서의 후속 턴 지연 시간을 크게 단축했습니다.",
+          "하이브리드 모델을 위한 프리픽스 캐싱과 메모리 할당 수정 등을 통해 품질 저하 없이 대규모 문맥 처리 성능을 최적화했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
