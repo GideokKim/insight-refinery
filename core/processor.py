@@ -150,7 +150,8 @@ class Processor:
         """API 키가 있는 provider만 체인에 넣는다."""
         built: list[_Provider] = []
         for config in configs:
-            api_key = os.getenv(config.api_key_env)
+            # 붙여넣기·시크릿 등록 과정에서 끝에 개행이 섞여도 인증이 깨지지 않게 한다.
+            api_key = (os.getenv(config.api_key_env) or "").strip()
             if not api_key:
                 logger.info(
                     "%s 미설정 → provider '%s' 건너뜀", config.api_key_env, config.name

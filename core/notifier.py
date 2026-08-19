@@ -29,6 +29,16 @@ from .processor import ProcessedItem
 
 logger = logging.getLogger(__name__)
 
+
+def _secret(name: str) -> str:
+    """비밀 값 환경 변수를 읽는다.
+
+    복사·붙여넣기나 `echo | gh secret set` 과정에서 끝에 개행·공백이 섞여도
+    인증이 실패하지 않도록 양끝을 잘라낸다. 값 자체는 그대로 둔다.
+    """
+    return (os.getenv(name) or "").strip()
+
+
 API_BASE = "https://api.telegram.org"
 DISCORD_EMBEDS_PER_MESSAGE = 10
 
@@ -124,8 +134,8 @@ class TelegramNotifier(_ThrottledNotifier):
         timeout: float = 20.0,
     ) -> None:
         super().__init__(rate_limit_delay)
-        self.bot_token = bot_token or os.getenv("TELEGRAM_BOT_TOKEN") or ""
-        self.chat_id = chat_id or os.getenv("TELEGRAM_CHAT_ID") or ""
+        self.bot_token = bot_token or _secret("TELEGRAM_BOT_TOKEN")
+        self.chat_id = chat_id or _secret("TELEGRAM_CHAT_ID")
         if not self.bot_token or not self.chat_id:
             raise MissingCredentials("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID 필요")
 
@@ -177,7 +187,7 @@ class DiscordNotifier(_ThrottledNotifier):
         timeout: float = 20.0,
     ) -> None:
         super().__init__(rate_limit_delay)
-        self.webhook_url = webhook_url or os.getenv("DISCORD_WEBHOOK_URL") or ""
+        self.webhook_url = webhook_url or _secret("DISCORD_WEBHOOK_URL")
         if not self.webhook_url:
             raise MissingCredentials("DISCORD_WEBHOOK_URL 필요")
         self.timeout = timeout
@@ -240,8 +250,8 @@ class EmailNotifier(Notifier):
 
     def __init__(self, config: EmailConfig, timeout: float = 30.0) -> None:
         self.config = config
-        self.user = os.getenv("SMTP_USER") or ""
-        self.password = os.getenv("SMTP_PASSWORD") or ""
+        self.user = _secret("SMTP_USER")
+        self.password = _secret("SMTP_PASSWORD")
         if not self.user or not self.password:
             raise MissingCredentials("SMTP_USER / SMTP_PASSWORD 필요")
 
