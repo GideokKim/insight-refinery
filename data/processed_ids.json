@@ -1,31 +1,206 @@
 {
   "ids": {
-    "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://news.ycombinator.com/item?id=49353432": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3153830": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3153831": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3153863": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3153909": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3153956": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3154044": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3154081": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://techcrunch.com/?p=3154147": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrqf4f": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vru16d": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrwn1f": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrwsfl": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrxgiu": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vry2ns": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vryd3q": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs0wsl": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs2tsn": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs3joh": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs9zym": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsccit": "2026-08-19T12:14:50.156795+00:00",
-    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsf9eg": "2026-08-19T12:14:50.156795+00:00"
+    "rss:https://huggingface.co/blog/Dharma-AI/gpu-management-pt2": {
+      "at": "2026-08-19T12:28:12.501822+00:00",
+      "title": "same cluster 33 points more utilization what changed was the order",
+      "url": "huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+    },
+    "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://huggingface.co/blog/multi-vector-encoder": {
+      "at": "2026-08-19T12:28:12.501794+00:00",
+      "title": "multi vector late interaction embedding models with sentence transformers",
+      "url": "huggingface.co/blog/multi-vector-encoder"
+    },
+    "rss:https://news.ycombinator.com/item?id=49330742": {
+      "at": "2026-08-19T12:28:12.501938+00:00",
+      "title": "we tracked a shipment of rare books it ended at an amazon ai training facility",
+      "url": "404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility"
+    },
+    "rss:https://news.ycombinator.com/item?id=49331220": {
+      "at": "2026-08-19T12:28:12.501929+00:00",
+      "title": "how to disable or avoid intrusive ai",
+      "url": "librarian.net/notoai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49331423": {
+      "at": "2026-08-19T12:28:12.501693+00:00",
+      "title": "ai generated github copilot autofix allowed compromise of snowflake s jira",
+      "url": "wiz.io/blog/red-agent-snowflake-copilot-cicd-bug"
+    },
+    "rss:https://news.ycombinator.com/item?id=49332564": {
+      "at": "2026-08-19T12:28:12.501921+00:00",
+      "title": "anthropic s war on open source ai",
+      "url": "twitter.com/TheAhmadOsman/status/2065307070044234186"
+    },
+    "rss:https://news.ycombinator.com/item?id=49332751": {
+      "at": "2026-08-19T12:28:12.501848+00:00",
+      "title": "launch hn speko yc s26 openrouter for voice ai",
+      "url": "speko.ai/"
+    },
+    "rss:https://news.ycombinator.com/item?id=49336050": {
+      "at": "2026-08-19T12:28:12.501906+00:00",
+      "title": "airtag reveals amazon is trashing rare books to train ai",
+      "url": "arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49336573": {
+      "at": "2026-08-19T12:28:12.501984+00:00",
+      "title": "ai dr ai didn t read",
+      "url": "rickmanelius.com/p/aidr-ai-didnt-read"
+    },
+    "rss:https://news.ycombinator.com/item?id=49337392": {
+      "at": "2026-08-19T12:28:12.501898+00:00",
+      "title": "israel creates fake think tank in likely attempt to dupe ai chatbots",
+      "url": "responsiblestatecraft.org/israel-influence-chatgpt"
+    },
+    "rss:https://news.ycombinator.com/item?id=49353432": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/asana": {
+      "at": "2026-08-19T12:28:12.501782+00:00",
+      "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
+      "url": "openai.com/index/asana"
+    },
+    "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/chatgpt-for-teens": {
+      "at": "2026-08-19T12:28:12.501880+00:00",
+      "title": "introducing chatgpt for teens built for learning backed by protections",
+      "url": "openai.com/index/chatgpt-for-teens"
+    },
+    "rss:https://openai.com/index/nvidia/chatgpt-work": {
+      "at": "2026-08-19T12:28:12.501977+00:00",
+      "title": "how nvidia scales expertise with chatgpt work",
+      "url": "openai.com/index/nvidia/chatgpt-work"
+    },
+    "rss:https://openai.com/index/pacing-model-development-cyber-capabilities": {
+      "at": "2026-08-19T12:28:12.501769+00:00",
+      "title": "pacing model development in an era of cyber critical capabilities",
+      "url": "openai.com/index/pacing-model-development-cyber-capabilities"
+    },
+    "rss:https://openai.com/index/partnering-with-codeai": {
+      "at": "2026-08-19T12:28:12.501970+00:00",
+      "title": "partnering with codeai to prepare the first ai generation",
+      "url": "openai.com/index/partnering-with-codeai"
+    },
+    "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/the-defenders-window": {
+      "at": "2026-08-19T12:28:12.501963+00:00",
+      "title": "the defender s window",
+      "url": "openai.com/index/the-defenders-window"
+    },
+    "rss:https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/": {
+      "at": "2026-08-19T12:28:12.501955+00:00",
+      "title": "seeing beyond bmi estimating cardiometabolic risk with smartphone imagery",
+      "url": "research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery"
+    },
+    "rss:https://techcrunch.com/?p=3153341": {
+      "at": "2026-08-19T12:28:12.501947+00:00",
+      "title": "wispr raises 280m at 2b valuation as it looks beyond dictation",
+      "url": "techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation"
+    },
+    "rss:https://techcrunch.com/?p=3153419": {
+      "at": "2026-08-19T12:28:12.501859+00:00",
+      "title": "nvidia investing 1 5b in softbank data center developer behind openai project",
+      "url": "techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project"
+    },
+    "rss:https://techcrunch.com/?p=3153430": {
+      "at": "2026-08-19T12:28:12.501913+00:00",
+      "title": "amazon which started off selling books is destroying rare texts to train ai",
+      "url": "techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models"
+    },
+    "rss:https://techcrunch.com/?p=3153443": {
+      "at": "2026-08-19T12:28:12.501837+00:00",
+      "title": "groq raises 350m to fuel its pivot from ai chips to neocloud",
+      "url": "techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud"
+    },
+    "rss:https://techcrunch.com/?p=3153653": {
+      "at": "2026-08-19T12:28:12.501888+00:00",
+      "title": "ai automation startup relay shuts down staff joins google s chrome team",
+      "url": "techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team"
+    },
+    "rss:https://techcrunch.com/?p=3153733": {
+      "at": "2026-08-19T12:28:12.501808+00:00",
+      "title": "anthropic s annualized revenue surges to 65b",
+      "url": "techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b"
+    },
+    "rss:https://techcrunch.com/?p=3153830": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3153831": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3153863": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3153909": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3153956": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3154044": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3154081": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3154147": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vro3vf": {
+      "at": "2026-08-19T12:28:12.501868+00:00",
+      "title": "linux improves vram management in 7 3 kernel",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vro3vf/linux_improves_vram_management_in_73_kernel"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrqf4f": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vru16d": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrw4sz": {
+      "at": "2026-08-19T12:28:12.501749+00:00",
+      "title": "i pushed qwen3 8 27b to 124 tps on a single request on a rtx 3090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vrw4sz/i_pushed_qwen3827b_to_124_tps_on_a_single_request"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrwn1f": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrwsfl": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vrxgiu": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vry2ns": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vryd3q": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs0wsl": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs2tsn": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs3joh": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs9zym": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsccit": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsf9eg": {
+      "at": "2026-08-19T12:14:50.156795+00:00"
+    }
   },
-  "updated_at": "2026-08-19T12:14:50.156924+00:00",
-  "version": 1
+  "updated_at": "2026-08-19T12:28:12.502019+00:00",
+  "version": 2
 }
