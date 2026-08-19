@@ -87,12 +87,36 @@ class CacheConfig(BaseModel):
     """오래된 키부터 잘라내 캐시 파일이 무한정 커지는 것을 막는다."""
 
 
+class EmailConfig(BaseModel):
+    """SMTP 다이제스트 설정. 계정/비밀번호는 환경 변수로만 받는다."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    host: str = "smtp.gmail.com"
+    port: int = Field(default=587, ge=1, le=65535)
+    use_tls: bool = True
+    """587에서 STARTTLS 승격 여부. 465는 포트만 보고 SMTP_SSL을 쓴다."""
+
+    sender: str | None = None
+    """None이면 SMTP_USER를 발신자로 쓴다."""
+
+    recipients: list[str] = Field(default_factory=list)
+    """비우면 SMTP_USER 본인에게 보낸다."""
+
+    subject_prefix: str = "[insight-refinery]"
+
+
 class NotifierConfig(BaseModel):
     model_config = ConfigDict(extra="forbid")
 
-    channel: Literal["telegram"] = "telegram"
+    channels: list[Literal["telegram", "discord", "email"]] = Field(
+        default_factory=lambda: ["discord"]
+    )
+    """모두에게 보낸다. 자격 증명이 없는 채널은 건너뛴다."""
+
     rate_limit_delay: float = Field(default=0.5, ge=0.0)
     disable_web_page_preview: bool = False
+    email: EmailConfig = Field(default_factory=EmailConfig)
 
 
 class Config(BaseModel):

@@ -20,7 +20,7 @@ from core.collectors import build_collectors
 from core.collectors.base import RawItem
 from core.config import DEFAULT_CONFIG_PATH, Config, load_config
 from core.dedup import ProcessedStore
-from core.notifier import build_notifier
+from core.notifier import build_notifiers
 from core.processor import ProcessedItem, Processor
 
 logger = logging.getLogger("insight_refinery")
@@ -127,16 +127,10 @@ def run(config: Config, args: argparse.Namespace) -> int:
         len(to_notify),
     )
 
-    sent = 0
     if to_notify:
-        notifier = build_notifier(
-            channel=config.notifier.channel,
-            dry_run=args.dry_run,
-            rate_limit_delay=config.notifier.rate_limit_delay,
-            disable_web_page_preview=config.notifier.disable_web_page_preview,
-        )
-        sent = notifier.send_many(to_notify)
-        logger.info("알림 %d/%d건 전송", sent, len(to_notify))
+        for notifier in build_notifiers(config.notifier, dry_run=args.dry_run):
+            sent = notifier.send_many(to_notify)
+            logger.info("[%s] 알림 %d/%d건 전송", notifier.name, sent, len(to_notify))
 
     # 알림 여부와 무관하게, 요약에 성공한 것은 모두 처리 완료로 기록한다.
     # (임계치 미만이라 안 보낸 항목을 다음 실행에서 다시 요약하면 토큰 낭비)
