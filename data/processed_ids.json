@@ -209,6 +209,11 @@
       "title": "how nvidia scales expertise with chatgpt work",
       "url": "openai.com/index/nvidia/chatgpt-work"
     },
+    "rss:https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+      "at": "2026-08-19T20:13:45.261183+00:00",
+      "title": "offering zero data retention for frontier models",
+      "url": "openai.com/index/offering-zero-data-retention-for-frontier-models"
+    },
     "rss:https://openai.com/index/openai-joins-ports-pike-project": {
       "at": "2026-08-19T14:23:12.191427+00:00",
       "title": "openai joins ports pike project",
@@ -262,10 +267,20 @@
       "title": "expanding our heat resilience data to 50 global cities",
       "url": "research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities"
     },
+    "rss:https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/": {
+      "at": "2026-08-19T20:13:45.261360+00:00",
+      "title": "from pixels to planning earth ai for nature restoration",
+      "url": "research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration"
+    },
     "rss:https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/": {
       "at": "2026-08-19T17:19:19.683265+00:00",
       "title": "introducing tabfm a zero shot foundation model for tabular data",
       "url": "research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data"
+    },
+    "rss:https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/": {
+      "at": "2026-08-19T20:13:45.261390+00:00",
+      "title": "optimizing cloud economics with linear elastic caching",
+      "url": "research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching"
     },
     "rss:https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/": {
       "at": "2026-08-19T17:19:19.683366+00:00",
@@ -291,6 +306,11 @@
       "at": "2026-08-19T17:19:19.683371+00:00",
       "title": "the power of collaboration how we can reduce traffic congestion",
       "url": "research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion"
+    },
+    "rss:https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/": {
+      "at": "2026-08-19T20:13:45.261346+00:00",
+      "title": "thinking to recall how reasoning unlocks parametric knowledge in llms",
+      "url": "research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms"
     },
     "rss:https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/": {
       "at": "2026-08-19T17:19:19.683345+00:00",
@@ -376,6 +396,26 @@
       "title": "terrapower s nuclear reactor has a secret weapon for powering ai data centers",
       "url": "techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers"
     },
+    "rss:https://techcrunch.com/?p=3154433": {
+      "at": "2026-08-19T20:13:45.261249+00:00",
+      "title": "ai was supposed to win people over by now it hasn t",
+      "url": "techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt"
+    },
+    "rss:https://techcrunch.com/?p=3154456": {
+      "at": "2026-08-19T20:13:45.261293+00:00",
+      "title": "google packs search and gemini with new ai study tools",
+      "url": "techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini"
+    },
+    "rss:https://techcrunch.com/?p=3154497": {
+      "at": "2026-08-19T20:13:45.261312+00:00",
+      "title": "researchers say openai revoked their access to limited cyber program",
+      "url": "techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
+      "at": "2026-08-19T20:13:45.261330+00:00",
+      "title": "meet the startup helping wall street put a price on ai compute",
+      "url": "techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vro3vf": {
       "at": "2026-08-19T12:28:12.501868+00:00",
       "title": "linux improves vram management in 7 3 kernel",
@@ -430,6 +470,11 @@
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsf9eg": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsinej": {
+      "at": "2026-08-19T20:13:45.261374+00:00",
+      "title": "am i doing something wrong qwen 3 8 27b seems useless for agentic coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsinej/am_i_doing_something_wrong_qwen_38_27b_seems"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsjcf7": {
       "at": "2026-08-19T14:23:12.191156+00:00",
       "title": "stop anthropomorphisizing intermediate tokens qwen3 8 doesn t overthink",
@@ -445,12 +490,27 @@
       "title": "we have q3 8 35b at home 3x new ornith 1 5 released",
       "url": "reddit.com/r/LocalLLaMA/comments/1vsn2xw/we_have_q38_35b_at_home_3x_new_ornith_15_released"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsou3a": {
+      "at": "2026-08-19T20:13:45.261136+00:00",
+      "title": "ornith 1 5 397b deepswe 56 35b a3b 9b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsq3zg": {
+      "at": "2026-08-19T20:13:45.261229+00:00",
+      "title": "nvfp4 on volta despite being built for blackwell i made four 2017 v100s run qwen 3 8 nvfp4 natively and match my 6000 rtx 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsq3zg/nvfp4_on_volta_despite_being_built_for_blackwell"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsqfmj": {
+      "at": "2026-08-19T20:13:45.261201+00:00",
+      "title": "antling ve open sourced 6 base model checkpoints for ling 3 0 tiny ling 3 0 flash covering pre trained mid trained and wsm merged stages",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsqfmj/antlingve_opensourced_6_base_model_checkpoints"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsr67c": {
       "at": "2026-08-19T17:19:19.683150+00:00",
       "title": "introducing qwen3 8 27b dynamic v3 unsloth ggufs",
       "url": "reddit.com/r/LocalLLaMA/comments/1vsr67c/introducing_qwen3827b_dynamic_v3_unsloth_ggufs"
     }
   },
-  "updated_at": "2026-08-19T17:19:19.683404+00:00",
+  "updated_at": "2026-08-19T20:13:45.261437+00:00",
   "version": 2
 }

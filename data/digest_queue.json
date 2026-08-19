@@ -375,6 +375,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vsou3a",
+        "title": "Ornith-1.5 (397B [DeepSWE 56], 35B-A3B, 9B)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsou3a/ornith15_397b_deepswe_56_35ba3b_9b/",
+        "author": "/u/KokaOP",
+        "published_at": "2026-08-19T14:58:07+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 LLM 패밀리 Ornith-1.5 공개",
+        "summary_ko": [
+          "Ornith-1.5는 9B, 35B MoE, 397B MoE로 구성된 오픈소스 LLM 패밀리입니다.",
+          "자기 개선 전략을 활용하여 추론과 코딩 및 에이전트 작업에서 최상위 성능을 달성했습니다.",
+          "다양한 벤치마크에서 동급 오픈소스 모델을 상회하며 Claude Opus 4.8과 유사한 성능을 보입니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "title": "Offering Zero Data Retention for frontier models",
+        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "author": null,
+        "published_at": "2026-08-19T19:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, 프론티어 모델 대상 Zero Data Retention 정책 제공",
+        "summary_ko": [
+          "OpenAI가 적격 API 고객을 대상으로 Zero Data Retention 정책을 재확인했습니다.",
+          "데이터 프라이버시를 침해하지 않고 고급 AI 안전성을 보장하는 Private Safety Processing을 미리 공개했습니다.",
+          "이번 조치는 기업 고객들이 보안 우려 없이 안심하고 첨단 AI 모델을 활용할 수 있도록 돕습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vsqfmj",
+        "title": "AntLing’ve open-sourced 6 Base Model checkpoints for Ling-3.0-tiny & Ling-3.0-flash, covering pre-trained, mid-trained, and WSM-merged stages.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsqfmj/antlingve_opensourced_6_base_model_checkpoints/",
+        "author": "/u/AcanthisittaOk1699",
+        "published_at": "2026-08-19T15:56:11+00:00"
+      },
+      "insight": {
+        "title_ko": "AntLing've, Ling-3.0 오픈소스 베이스 모델 공개",
+        "summary_ko": [
+          "AntLing've는 사전 학습, 중간 학습, WSM 병합 단계를 포함하는 6개의 Ling-3.0 베이스 모델 체크포인트를 오픈소스로 공개했습니다.",
+          "이번에 공개된 모델들은 WSM을 활용해 학습 과정의 유연성을 높였으며 후속 연구와 파인튜닝을 위한 기반을 제공합니다.",
+          "특히 Ling-3.0-tiny와 flash 모델은 코딩과 추론 영역에서 뛰어난 성능을 보여 다양한 전문 분야에 활용될 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vsq3zg",
+        "title": "NVFP4 on VOLTA! Despite being built for Blackwell, I made four 2017 V100s run Qwen 3.8 NVFP4 natively and match my $6000 RTX 5090.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vsq3zg/nvfp4_on_volta_despite_being_built_for_blackwell/",
+        "author": "/u/Simple_Library_2700",
+        "published_at": "2026-08-19T15:44:29+00:00"
+      },
+      "insight": {
+        "title_ko": "구형 V100에서 NVFP4 구동 성공",
+        "summary_ko": [
+          "개발자가 2017년형 Tesla V100 GPU 네 장으로 최신 Qwen 3.8 모델의 NVFP4 가중치를 구동하는 데 성공했습니다.",
+          "소프트웨어 기반의 변환기와 커널을 통해 Blackwell 하드웨어 전용인 FP4 형식을 Volta 아키텍처에서도 실시간 처리할 수 있게 최적화했습니다.",
+          "그 결과 RTX 5090과 싱글 요청 디코딩 성능에서 대등한 처리량을 기록하며 구형 하드웨어의 활용 가능성을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
