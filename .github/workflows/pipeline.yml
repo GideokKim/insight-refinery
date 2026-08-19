@@ -2,8 +2,10 @@ name: pipeline
 
 on:
   schedule:
-    # UTC 기준 3시간마다 (KST로는 09:00, 12:00, ... 에 해당)
-    - cron: "0 */3 * * *"
+    # 3시간마다. 23:00 UTC = 08:00 KST가 포함되도록 2시간 밀어 둔다.
+    # 이메일 다이제스트(digest_hour)가 이 목록 안에 있어야 발송된다.
+    # KST로는 11, 14, 17, 20, 23, 02, 05, 08시.
+    - cron: "0 2,5,8,11,14,17,20,23 * * *"
   workflow_dispatch:
     inputs:
       dry_run:

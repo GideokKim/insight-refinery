@@ -17,7 +17,7 @@ import logging
 import os
 import smtplib
 import time
-from datetime import datetime
+from datetime import datetime, timezone
 from email.message import EmailMessage
 from html import escape as html_escape
 from typing import Iterable, Sequence
@@ -25,7 +25,7 @@ from typing import Iterable, Sequence
 import httpx
 
 from .config import EmailConfig, NotifierConfig
-from .digest import DigestQueue
+from .digest import DigestQueue, is_digest_due
 from .processor import ProcessedItem
 
 logger = logging.getLogger(__name__)
@@ -353,10 +353,17 @@ class DigestNotifier(Notifier):
     SMTP가 죽어 있으면 다음 실행에서 다시 시도한다.
     """
 
-    def __init__(self, inner: Notifier, queue: DigestQueue, due: bool) -> None:
+    def __init__(
+        self,
+        inner: Notifier,
+        queue: DigestQueue,
+        due: bool,
+        now: datetime | None = None,
+    ) -> None:
         self.inner = inner
         self.queue = queue
         self.due = due
+        self.now = now or datetime.now(timezone.utc)
 
     @property
     def name(self) -> str:  # type: ignore[override]
@@ -382,6 +389,7 @@ class DigestNotifier(Notifier):
         sent = self.inner.send_many(pending)
         if sent:
             self.queue.clear()
+            self.queue.mark_sent(self.now)
         else:
             logger.warning("[%s] 발송 실패, 대기열을 유지합니다", self.name)
         self.queue.save()
@@ -400,7 +408,10 @@ class ConsoleNotifier(Notifier):
 
 
 def build_notifiers(
-    config: NotifierConfig, dry_run: bool = False, digest_due: bool = True
+    config: NotifierConfig,
+    dry_run: bool = False,
+    force_digest: bool = False,
+    now: datetime | None = None,
 ) -> list[Notifier]:
     """설정에 적힌 채널 중 자격 증명이 갖춰진 것만 만든다.
 
@@ -419,10 +430,14 @@ def build_notifiers(
             continue
 
         if channel == "email" and config.email.digest_hour is not None:
+            moment = now or datetime.now(timezone.utc)
             queue = DigestQueue(
                 config.email.queue_path, config.email.max_queue_entries
             ).load()
-            notifier = DigestNotifier(notifier, queue, due=digest_due)
+            due = force_digest or is_digest_due(
+                moment, config.email.digest_hour, queue.last_sent_at
+            )
+            notifier = DigestNotifier(notifier, queue, due=due, now=moment)
         notifiers.append(notifier)
 
     if not notifiers:

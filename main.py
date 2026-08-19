@@ -20,7 +20,6 @@ from core.collectors import build_collectors
 from core.collectors.base import RawItem
 from core.config import DEFAULT_CONFIG_PATH, Config, load_config
 from core.dedup import ProcessedStore
-from core.digest import is_digest_due
 from core.notifier import build_notifiers
 from core.processor import ProcessedItem, Processor
 
@@ -144,13 +143,11 @@ def _notify(
     config: Config, args: argparse.Namespace, processed: list[ProcessedItem]
 ) -> None:
     """채널마다 자기 임계치로 걸러 보낸다."""
-    digest_hour = config.notifier.email.digest_hour
-    due = args.send_digest or digest_hour is None or is_digest_due(
-        datetime.now(timezone.utc), digest_hour
-    )
-
     notifiers = build_notifiers(
-        config.notifier, dry_run=args.dry_run, digest_due=due
+        config.notifier,
+        dry_run=args.dry_run,
+        force_digest=args.send_digest,
+        now=datetime.now(timezone.utc),
     )
     for notifier in notifiers:
         threshold = config.notifier.threshold_for(

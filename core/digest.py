@@ -61,6 +61,7 @@ class DigestQueue:
         self.path = Path(path)
         self.max_entries = max_entries
         self._items: list[ProcessedItem] = []
+        self.last_sent_at: datetime | None = None
         self._dirty = False
 
     def load(self) -> "DigestQueue":
@@ -70,6 +71,8 @@ class DigestQueue:
         try:
             payload = json.loads(self.path.read_text(encoding="utf-8"))
             self._items = [from_dict(entry) for entry in payload.get("items", [])]
+            sent_at = payload.get("last_sent_at")
+            self.last_sent_at = datetime.fromisoformat(sent_at) if sent_at else None
         except (json.JSONDecodeError, OSError, KeyError, ValueError) as exc:
             # 큐가 깨져도 이번 실행을 막지는 않는다. 최악의 경우 대기분만 잃는다.
             logger.warning("다이제스트 큐를 읽지 못해 빈 큐로 진행합니다 (%s)", exc)
@@ -100,6 +103,10 @@ class DigestQueue:
             self._prune()
         return added
 
+    def mark_sent(self, when: datetime) -> None:
+        self.last_sent_at = when
+        self._dirty = True
+
     def clear(self) -> None:
         if self._items:
             self._items = []
@@ -112,6 +119,7 @@ class DigestQueue:
         self.path.parent.mkdir(parents=True, exist_ok=True)
         payload = {
             "version": SCHEMA_VERSION,
+            "last_sent_at": self.last_sent_at.isoformat() if self.last_sent_at else None,
             "items": [to_dict(item) for item in self._items],
         }
         tmp_path = self.path.with_suffix(self.path.suffix + ".tmp")
@@ -131,6 +139,16 @@ class DigestQueue:
             logger.warning("다이제스트 큐 상한 초과분 %d건 삭제", overflow)
 
 
-def is_digest_due(now: datetime, digest_hour: int) -> bool:
-    """지금이 다이제스트 발송 시각인지. 배치가 시간 단위로 돌기에 시(hour)만 본다."""
-    return now.hour == digest_hour
+def is_digest_due(
+    now: datetime, digest_hour: int, last_sent_at: datetime | None = None
+) -> bool:
+    """지금이 다이제스트를 보낼 실행인지 판단한다.
+
+    시각만 비교하면 같은 시간대에 두 번 실행될 때(수동 실행 등) 두 통이 나간다.
+    마지막 발송 날짜를 함께 봐서 하루 한 통을 보장한다.
+    """
+    if now.hour < digest_hour:
+        return False
+    if last_sent_at is not None and last_sent_at.date() == now.date():
+        return False
+    return True
