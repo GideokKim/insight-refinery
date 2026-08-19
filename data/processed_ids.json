@@ -5,13 +5,88 @@
       "title": "same cluster 33 points more utilization what changed was the order",
       "url": "huggingface.co/blog/Dharma-AI/gpu-management-pt2"
     },
+    "rss:https://huggingface.co/blog/LiquidAI/qad": {
+      "at": "2026-08-19T14:23:12.191277+00:00",
+      "title": "lfm2 5 q4 _0 checkpoints from quantization aware distillation",
+      "url": "huggingface.co/blog/LiquidAI/qad"
+    },
+    "rss:https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": {
+      "at": "2026-08-19T14:23:12.191206+00:00",
+      "title": "record train and deploy from one place with strands agents lerobot and hugging face storage buckets",
+      "url": "huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+    },
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://huggingface.co/blog/icml-2026-open-reproductions": {
+      "at": "2026-08-19T14:23:12.191244+00:00",
+      "title": "what we learned by reproducing 2 200 papers from icml",
+      "url": "huggingface.co/blog/icml-2026-open-reproductions"
     },
     "rss:https://huggingface.co/blog/multi-vector-encoder": {
       "at": "2026-08-19T12:28:12.501794+00:00",
       "title": "multi vector late interaction embedding models with sentence transformers",
       "url": "huggingface.co/blog/multi-vector-encoder"
+    },
+    "rss:https://huggingface.co/blog/state-of-open-models-summer-2026": {
+      "at": "2026-08-19T14:23:12.191390+00:00",
+      "title": "state of open models summer 2026 observations",
+      "url": "huggingface.co/blog/state-of-open-models-summer-2026"
+    },
+    "rss:https://news.ycombinator.com/item?id=49299282": {
+      "at": "2026-08-19T14:23:12.191457+00:00",
+      "title": "when genius fails the intellectual arrogance of the ai labs",
+      "url": "weightythoughts.com/p/when-genius-failsthe-intellectual"
+    },
+    "rss:https://news.ycombinator.com/item?id=49300314": {
+      "at": "2026-08-19T14:23:12.191191+00:00",
+      "title": "google is making private ai practical with homomorphic encryption",
+      "url": "blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption"
+    },
+    "rss:https://news.ycombinator.com/item?id=49300568": {
+      "at": "2026-08-19T14:23:12.191450+00:00",
+      "title": "ai by hand",
+      "url": "byhand.ai/"
+    },
+    "rss:https://news.ycombinator.com/item?id=49309451": {
+      "at": "2026-08-19T14:23:12.191378+00:00",
+      "title": "working with ai feels more like leadership than coding",
+      "url": "allen.bargi.org/notes/working-with-ai-feels-like-leadership"
+    },
+    "rss:https://news.ycombinator.com/item?id=49310719": {
+      "at": "2026-08-19T14:23:12.191444+00:00",
+      "title": "cloudflare s ai psychosis",
+      "url": "opensauce.it/cloudflare-ai-psychosis"
+    },
+    "rss:https://news.ycombinator.com/item?id=49312845": {
+      "at": "2026-08-19T14:23:12.191364+00:00",
+      "title": "ai isn t outthinking mathematicians it s out remembering them",
+      "url": "davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
+    },
+    "rss:https://news.ycombinator.com/item?id=49313367": {
+      "at": "2026-08-19T14:23:12.191349+00:00",
+      "title": "ai in drug discovery what it is where we stand and the path forward",
+      "url": "science.org/content/blog-post/so-how-ai-drug-discovery-doing-really"
+    },
+    "rss:https://news.ycombinator.com/item?id=49320611": {
+      "at": "2026-08-19T14:23:12.191338+00:00",
+      "title": "the ai credit resale economy",
+      "url": "vectoral.com/blog/who-are-the-token-brokers"
+    },
+    "rss:https://news.ycombinator.com/item?id=49323136": {
+      "at": "2026-08-19T14:23:12.191320+00:00",
+      "title": "red queen hypothesis a new way forward for self improving ai",
+      "url": "cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49323932": {
+      "at": "2026-08-19T14:23:12.191435+00:00",
+      "title": "young people hate ai ceos so passionately that it s almost hard to believe",
+      "url": "futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll"
+    },
+    "rss:https://news.ycombinator.com/item?id=49325789": {
+      "at": "2026-08-19T14:23:12.191309+00:00",
+      "title": "on ai regulation and messaging",
+      "url": "twitter.com/DarioAmodei/status/2088758816376807762"
     },
     "rss:https://news.ycombinator.com/item?id=49330742": {
       "at": "2026-08-19T12:28:12.501938+00:00",
@@ -61,6 +136,11 @@
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
       "url": "openai.com/index/asana"
     },
+    "rss:https://openai.com/index/builders-guide-to-gpt-5-6": {
+      "at": "2026-08-19T14:23:12.191222+00:00",
+      "title": "the builder s guide to gpt 5 6",
+      "url": "openai.com/index/builders-guide-to-gpt-5-6"
+    },
     "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
@@ -69,10 +149,25 @@
       "title": "introducing chatgpt for teens built for learning backed by protections",
       "url": "openai.com/index/chatgpt-for-teens"
     },
+    "rss:https://openai.com/index/dali-rajic-chief-revenue-officer": {
+      "at": "2026-08-19T14:23:12.191402+00:00",
+      "title": "openai appoints dali rajic as chief revenue officer",
+      "url": "openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    "rss:https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
+      "at": "2026-08-19T14:23:12.191291+00:00",
+      "title": "new policy ideas for the intelligence age",
+      "url": "openai.com/index/new-policy-ideas-for-the-intelligence-age"
+    },
     "rss:https://openai.com/index/nvidia/chatgpt-work": {
       "at": "2026-08-19T12:28:12.501977+00:00",
       "title": "how nvidia scales expertise with chatgpt work",
       "url": "openai.com/index/nvidia/chatgpt-work"
+    },
+    "rss:https://openai.com/index/openai-joins-ports-pike-project": {
+      "at": "2026-08-19T14:23:12.191427+00:00",
+      "title": "openai joins ports pike project",
+      "url": "openai.com/index/openai-joins-ports-pike-project"
     },
     "rss:https://openai.com/index/pacing-model-development-cyber-capabilities": {
       "at": "2026-08-19T12:28:12.501769+00:00",
@@ -83,6 +178,16 @@
       "at": "2026-08-19T12:28:12.501970+00:00",
       "title": "partnering with codeai to prepare the first ai generation",
       "url": "openai.com/index/partnering-with-codeai"
+    },
+    "rss:https://openai.com/index/previewing-ultrafast": {
+      "at": "2026-08-19T14:23:12.191112+00:00",
+      "title": "previewing ultrafast mode gpt 5 6 sol at up to 14x the speed",
+      "url": "openai.com/index/previewing-ultrafast"
+    },
+    "rss:https://openai.com/index/replit": {
+      "at": "2026-08-19T14:23:12.191177+00:00",
+      "title": "replit expands access to software creation with gpt 5 6 luna",
+      "url": "openai.com/index/replit"
     },
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
@@ -139,6 +244,11 @@
     "rss:https://techcrunch.com/?p=3153909": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
+    "rss:https://techcrunch.com/?p=3153940": {
+      "at": "2026-08-19T14:23:12.191414+00:00",
+      "title": "ai isn t close to curing cancer this startup says it knows what it will take",
+      "url": "techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take"
+    },
     "rss:https://techcrunch.com/?p=3153956": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
@@ -150,6 +260,11 @@
     },
     "rss:https://techcrunch.com/?p=3154147": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://techcrunch.com/?p=3154226": {
+      "at": "2026-08-19T14:23:12.191262+00:00",
+      "title": "calendly throws its hat into meeting note taker circus",
+      "url": "techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vro3vf": {
       "at": "2026-08-19T12:28:12.501868+00:00",
@@ -188,6 +303,11 @@
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs2tsn": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs2tz1": {
+      "at": "2026-08-19T14:23:12.191465+00:00",
+      "title": "dflash 2 keep drafting parallel",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vs2tz1/dflash_2_keep_drafting_parallel"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vs3joh": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
@@ -199,8 +319,13 @@
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsf9eg": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vsjcf7": {
+      "at": "2026-08-19T14:23:12.191156+00:00",
+      "title": "stop anthropomorphisizing intermediate tokens qwen3 8 doesn t overthink",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vsjcf7/stop_anthropomorphisizing_intermediate_tokens"
     }
   },
-  "updated_at": "2026-08-19T12:28:12.502019+00:00",
+  "updated_at": "2026-08-19T14:23:12.191500+00:00",
   "version": 2
 }
