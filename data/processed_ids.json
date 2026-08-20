@@ -10,6 +10,11 @@
       "title": "same cluster 33 points more utilization what changed was the order",
       "url": "huggingface.co/blog/Dharma-AI/gpu-management-pt2"
     },
+    "rss:https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
+      "at": "2026-08-20T17:18:50.768043+00:00",
+      "title": "up to 3 2x faster inference with lfm2 5 dspark",
+      "url": "huggingface.co/blog/LiquidAI/lfm25-dspark"
+    },
     "rss:https://huggingface.co/blog/LiquidAI/qad": {
       "at": "2026-08-19T14:23:12.191277+00:00",
       "title": "lfm2 5 q4 _0 checkpoints from quantization aware distillation",
@@ -254,6 +259,11 @@
       "title": "replit expands access to software creation with gpt 5 6 luna",
       "url": "openai.com/index/replit"
     },
+    "rss:https://openai.com/index/stampli": {
+      "at": "2026-08-20T17:18:50.768188+00:00",
+      "title": "how chatgpt work helps stampli move ideas to market",
+      "url": "openai.com/index/stampli"
+    },
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
@@ -451,6 +461,21 @@
       "title": "meta ai s new mac app wants you to talk to your apps",
       "url": "techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps"
     },
+    "rss:https://techcrunch.com/?p=3154851": {
+      "at": "2026-08-20T17:18:50.768112+00:00",
+      "title": "ramp launches its own ai model router called router",
+      "url": "techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router"
+    },
+    "rss:https://techcrunch.com/?p=3154855": {
+      "at": "2026-08-20T17:18:50.768147+00:00",
+      "title": "inertia enterprises finds a way to make its fusion fuel fast",
+      "url": "techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast"
+    },
+    "rss:https://techcrunch.com/?p=3154881": {
+      "at": "2026-08-20T17:18:50.768129+00:00",
+      "title": "meta brings pocket an app that lets you vibe code and share games to us users",
+      "url": "techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -575,6 +600,11 @@
       "title": "anyone not on full auto when coding with local llms",
       "url": "reddit.com/r/LocalLLaMA/comments/1vt0y1g/anyone_not_on_full_auto_when_coding_with_local"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vt2cjy": {
+      "at": "2026-08-20T17:18:50.768166+00:00",
+      "title": "qwen 3 8 27b slopcodebench results",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vt2cjy/qwen_38_27b_slopcodebench_results"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vt2jef": {
       "at": "2026-08-20T02:47:53.700674+00:00",
       "title": "qwen3 8 23b mini me a depth pruned qwen3 8 27b to 22 7bb",
@@ -590,10 +620,25 @@
       "title": "qwen3 8 27b took a serious hit to knowledge vs 3 6",
       "url": "reddit.com/r/LocalLLaMA/comments/1vt7l3e/qwen3827b_took_a_serious_hit_to_knowledge_vs_36"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtboss": {
+      "at": "2026-08-20T17:18:50.768196+00:00",
+      "title": "spider man brand new day does peter self host his ai spoilers",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtboss/spiderman_brand_new_day_does_peter_self_host_his"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtc4b4": {
+      "at": "2026-08-20T17:18:50.768156+00:00",
+      "title": "qwen 3 8 27b kv f16 vs q8_0 are not equivalents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtc4b4/qwen_38_27b_kv_f16_vs_q8_0_are_not_equivalents"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtecbq": {
       "at": "2026-08-20T11:16:15.525959+00:00",
       "title": "the local frontier is now smarter than sonnet 4 5",
       "url": "reddit.com/r/LocalLLaMA/comments/1vtecbq/the_local_frontier_is_now_smarter_than_sonnet_45"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtf7mi": {
+      "at": "2026-08-20T17:18:50.768087+00:00",
+      "title": "tinysearch v0 6 1 still a lightweight web research tool for local llms now with bring your own browser support",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtf7mi/tinysearch_v061_still_a_lightweight_web_research"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtfcpu": {
       "at": "2026-08-20T14:24:46.225551+00:00",
@@ -609,6 +654,11 @@
       "at": "2026-08-20T14:24:46.225519+00:00",
       "title": "tencent begins testing its new flagship model hunyuan hy4",
       "url": "reddit.com/r/LocalLLaMA/comments/1vth4lo/tencent_begins_testing_its_new_flagship_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vth6n3": {
+      "at": "2026-08-20T17:18:50.768177+00:00",
+      "title": "aurora 80k releases a modern tiny language model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vth6n3/aurora80k_releases_a_modern_tiny_language_model"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vthcwk": {
       "at": "2026-08-20T14:24:46.225497+00:00",
@@ -646,6 +696,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable"
     }
   },
-  "updated_at": "2026-08-20T14:24:46.225613+00:00",
+  "updated_at": "2026-08-20T17:18:50.768235+00:00",
   "version": 2
 }

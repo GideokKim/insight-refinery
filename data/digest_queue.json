@@ -529,6 +529,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+        "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+        "author": null,
+        "published_at": "2026-08-20T16:52:57+00:00"
+      },
+      "insight": {
+        "title_ko": "LFM2.5-DSpark 모델 추론 속도 개선",
+        "summary_ko": [
+          "LiquidAI는 Hugging Face 블로그를 통해 LFM2.5-DSpark 모델을 공개했습니다.",
+          "이 모델은 최대 3.2배 향상된 추론 속도를 제공하는 것이 특징입니다.",
+          "향상된 속도를 통해 AI 실무 환경에서 효율적인 연산이 가능해질 것으로 기대됩니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vtf7mi",
+        "title": "TinySearch v0.6.1 - still a lightweight web research tool for local LLMs, now with bring-your-own-browser support",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtf7mi/tinysearch_v061_still_a_lightweight_web_research/",
+        "author": "/u/Scared-Tip7914",
+        "published_at": "2026-08-20T10:04:20+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 LLM용 웹 연구 도구 TinySearch v0.6.1 공개",
+        "summary_ko": [
+          "TinySearch v0.6.1은 BM25와 ONNX 임베딩을 활용해 로컬 LLM의 컨텍스트 창에 들어가기 전 불필요한 웹 콘텐츠를 필터링합니다.",
+          "이번 버전에서는 CDP를 통한 자체 브라우저 연동 기능이 추가되어 차단이 심한 웹사이트에서도 안정적인 스크래핑이 가능해졌습니다.",
+          "벤치마크 결과 웹 콘텐츠 토큰을 평균 약 64% 절감하여 소형 로컬 모델의 성능 효율성을 높여줍니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
