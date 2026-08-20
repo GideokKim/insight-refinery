@@ -421,6 +421,11 @@
       "title": "openai seeks to one up anthropic with new customer privacy protections",
       "url": "techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections"
     },
+    "rss:https://techcrunch.com/?p=3154600": {
+      "at": "2026-08-20T02:47:53.700617+00:00",
+      "title": "stripe didn t really buy openrouter because of the singularity",
+      "url": "techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity"
+    },
     "rss:https://techcrunch.com/?p=3154652": {
       "at": "2026-08-19T23:12:49.502435+00:00",
       "title": "cognition ceo denies report that spacex tried to acquire the startup",
@@ -544,8 +549,13 @@
       "at": "2026-08-19T23:12:49.502322+00:00",
       "title": "i pushed qwen3 8 27b limits again dflash2 134 tps on a rtx 3090",
       "url": "reddit.com/r/LocalLLaMA/comments/1vsy4l2/i_pushed_qwen3827b_limits_again_dflash2_134_tps"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vt2jef": {
+      "at": "2026-08-20T02:47:53.700674+00:00",
+      "title": "qwen3 8 23b mini me a depth pruned qwen3 8 27b to 22 7bb",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vt2jef/qwen3823bminime_a_depthpruned_qwen3827b_to_227bb"
     }
   },
-  "updated_at": "2026-08-19T23:12:49.502485+00:00",
+  "updated_at": "2026-08-20T02:47:53.700758+00:00",
   "version": 2
 }
