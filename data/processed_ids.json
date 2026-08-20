@@ -219,6 +219,11 @@
       "title": "from assistance to execution how enterprises put ai to work",
       "url": "openai.com/index/how-enterprises-put-ai-to-work"
     },
+    "rss:https://openai.com/index/introducing-ai-futures": {
+      "at": "2026-08-20T20:16:03.387891+00:00",
+      "title": "introducing ai futures",
+      "url": "openai.com/index/introducing-ai-futures"
+    },
     "rss:https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
       "at": "2026-08-19T14:23:12.191291+00:00",
       "title": "new policy ideas for the intelligence age",
@@ -476,6 +481,31 @@
       "title": "meta brings pocket an app that lets you vibe code and share games to us users",
       "url": "techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users"
     },
+    "rss:https://techcrunch.com/?p=3154941": {
+      "at": "2026-08-20T20:16:03.387804+00:00",
+      "title": "a third of web pages published since chatgpt s launch show signs of ai authorship study finds",
+      "url": "techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds"
+    },
+    "rss:https://techcrunch.com/?p=3154952": {
+      "at": "2026-08-20T20:16:03.387829+00:00",
+      "title": "runlayer rippling drop lawsuits but the brouhaha is still a cautionary tale for founders",
+      "url": "techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders"
+    },
+    "rss:https://techcrunch.com/?p=3154977": {
+      "at": "2026-08-20T20:16:03.387875+00:00",
+      "title": "grok keeps sending gibberish responses to users",
+      "url": "techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users"
+    },
+    "rss:https://techcrunch.com/?p=3155017": {
+      "at": "2026-08-20T20:16:03.387860+00:00",
+      "title": "linkdaze s smart calendar is built to run a household not just track a schedule",
+      "url": "techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule"
+    },
+    "rss:https://techcrunch.com/?p=3155082": {
+      "at": "2026-08-20T20:16:03.387701+00:00",
+      "title": "google gives publishers a new way to fight ai driven traffic losses",
+      "url": "techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -665,6 +695,21 @@
       "title": "the boring way to run deepseek v4 flash 0731 130 150 tks 16x5060ti 16gb over 2 plx88096 switches",
       "url": "reddit.com/r/LocalLLaMA/comments/1vthcwk/the_boring_way_to_run_deepseek_v4_flash0731"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtpsqf": {
+      "at": "2026-08-20T20:16:03.387776+00:00",
+      "title": "ling 3 0 released all 6 base checkpoints 2 sizes 3 stages",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtpsqf/ling30_released_all_6_base_checkpoints_2_sizes_3"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtr3h0": {
+      "at": "2026-08-20T20:16:03.387904+00:00",
+      "title": "ladies and gentlemen i present to you qwen3 8 27b 1bit brain damage quant",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtr3h0/ladies_and_gentlemen_i_present_to_you_qwen38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtrxeg": {
+      "at": "2026-08-20T20:16:03.387847+00:00",
+      "title": "unsloth dynamic 3 0 ggufs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtrxeg/unsloth_dynamic_30_ggufs"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -696,6 +741,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable"
     }
   },
-  "updated_at": "2026-08-20T17:18:50.768235+00:00",
+  "updated_at": "2026-08-20T20:16:03.387973+00:00",
   "version": 2
 }
