@@ -507,6 +507,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/MachineLearning",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/MachineLearning/top/t3_1vswdnf",
+        "title": "How much of the weight-space perception gap is actually symmetry? Evidence from ~1.8M fitted SIRENs [R]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is/",
+        "author": "/u/ITheClixs",
+        "published_at": "2026-08-19T19:24:12+00:00"
+      },
+      "insight": {
+        "title_ko": "가중치 공간의 대칭성과 성능 격차 분석",
+        "summary_ko": [
+          "본 연구는 SIREN 모델을 활용해 독립적으로 학습된 신경망의 가중치 공간 성능 격차 원인으로 대칭성을 분석했습니다.",
+          "약 180만 개의 INR을 분석한 결과 대칭성 무작위화만으로도 공유 초기화와 무작위 초기화 간 성능 격차의 대부분이 설명됨을 입증했습니다.",
+          "완전한 불변량이 실현된 함수와 정보학적으로 동등하더라도, 가중치 공간 연산의 실익은 정보가 아닌 연산 효율성에 기반해야 함을 시사합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

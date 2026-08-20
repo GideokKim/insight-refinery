@@ -43,6 +43,11 @@
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
+    "rss:https://huggingface.co/blog/ibm-research/altk-evolve-sldd": {
+      "at": "2026-08-20T11:16:15.525995+00:00",
+      "title": "thinking of ace we can do it with fewer tokens",
+      "url": "huggingface.co/blog/ibm-research/altk-evolve-sldd"
+    },
     "rss:https://huggingface.co/blog/icml-2026-open-reproductions": {
       "at": "2026-08-19T14:23:12.191244+00:00",
       "title": "what we learned by reproducing 2 200 papers from icml",
@@ -175,6 +180,11 @@
       "at": "2026-08-19T23:12:49.502413+00:00",
       "title": "mathematics in the age of ai",
       "url": "arxiv.org/abs/2608.16753"
+    },
+    "rss:https://news.ycombinator.com/item?id=49371857": {
+      "at": "2026-08-20T11:16:15.525967+00:00",
+      "title": "don t paste the ai please",
+      "url": "dontpastetheai.com/"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -401,6 +411,11 @@
       "title": "terrapower s nuclear reactor has a secret weapon for powering ai data centers",
       "url": "techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers"
     },
+    "rss:https://techcrunch.com/?p=3154391": {
+      "at": "2026-08-20T11:16:15.525950+00:00",
+      "title": "binance now lets ai agents trade but keeping them in check is largely up to users",
+      "url": "techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users"
+    },
     "rss:https://techcrunch.com/?p=3154433": {
       "at": "2026-08-19T20:13:45.261249+00:00",
       "title": "ai was supposed to win people over by now it hasn t",
@@ -550,6 +565,11 @@
       "title": "i pushed qwen3 8 27b limits again dflash2 134 tps on a rtx 3090",
       "url": "reddit.com/r/LocalLLaMA/comments/1vsy4l2/i_pushed_qwen3827b_limits_again_dflash2_134_tps"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vt0y1g": {
+      "at": "2026-08-20T11:16:15.526003+00:00",
+      "title": "anyone not on full auto when coding with local llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vt0y1g/anyone_not_on_full_auto_when_coding_with_local"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vt2jef": {
       "at": "2026-08-20T02:47:53.700674+00:00",
       "title": "qwen3 8 23b mini me a depth pruned qwen3 8 27b to 22 7bb",
@@ -564,8 +584,43 @@
       "at": "2026-08-20T08:23:37.526659+00:00",
       "title": "qwen3 8 27b took a serious hit to knowledge vs 3 6",
       "url": "reddit.com/r/LocalLLaMA/comments/1vt7l3e/qwen3827b_took_a_serious_hit_to_knowledge_vs_36"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtecbq": {
+      "at": "2026-08-20T11:16:15.525959+00:00",
+      "title": "the local frontier is now smarter than sonnet 4 5",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtecbq/the_local_frontier_is_now_smarter_than_sonnet_45"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
+      "at": "2026-08-20T11:16:15.526011+00:00",
+      "title": "looking for 1 teammate realpde competition neurips 2026 d",
+      "url": "reddit.com/r/MachineLearning/comments/1vsjlzj/looking_for_1_teammate_realpde_competition"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vswdnf": {
+      "at": "2026-08-20T11:16:15.525907+00:00",
+      "title": "how much of the weight space perception gap is actually symmetry evidence from 1 8m fitted sirens r",
+      "url": "reddit.com/r/MachineLearning/comments/1vswdnf/how_much_of_the_weightspace_perception_gap_is"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vszsit": {
+      "at": "2026-08-20T11:16:15.525983+00:00",
+      "title": "same grpo recipe on three from scratch llms 353m 316m 672m gave three different outcomes with no clean relationship to scale p",
+      "url": "reddit.com/r/MachineLearning/comments/1vszsit/same_grpo_recipe_on_three_fromscratch_llms"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtctaz": {
+      "at": "2026-08-20T11:16:15.525975+00:00",
+      "title": "about the impact of grouping classes in multiclass classification d",
+      "url": "reddit.com/r/MachineLearning/comments/1vtctaz/about_the_impact_of_grouping_classes_in"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtdpve": {
+      "at": "2026-08-20T11:16:15.526043+00:00",
+      "title": "discussion thread for emnlp 2026 notifications results d",
+      "url": "reddit.com/r/MachineLearning/comments/1vtdpve/discussion_thread_for_emnlp_2026"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtfimo": {
+      "at": "2026-08-20T11:16:15.525938+00:00",
+      "title": "the spectral neuron an ml primitive for scalable and interpretable models r",
+      "url": "reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable"
     }
   },
-  "updated_at": "2026-08-20T08:23:37.526761+00:00",
+  "updated_at": "2026-08-20T11:16:15.526077+00:00",
   "version": 2
 }
