@@ -191,6 +191,11 @@
       "title": "don t paste the ai please",
       "url": "dontpastetheai.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=49378768": {
+      "at": "2026-08-20T23:15:04.808200+00:00",
+      "title": "show hn huzzah a novel approach to coding with ai",
+      "url": "danielvaughn.dev/posts/huzzah"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -431,6 +436,11 @@
       "title": "binance now lets ai agents trade but keeping them in check is largely up to users",
       "url": "techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users"
     },
+    "rss:https://techcrunch.com/?p=3154392": {
+      "at": "2026-08-20T23:15:04.808229+00:00",
+      "title": "ok can we actually cool data centers with our pee",
+      "url": "techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee"
+    },
     "rss:https://techcrunch.com/?p=3154433": {
       "at": "2026-08-19T20:13:45.261249+00:00",
       "title": "ai was supposed to win people over by now it hasn t",
@@ -505,6 +515,16 @@
       "at": "2026-08-20T20:16:03.387701+00:00",
       "title": "google gives publishers a new way to fight ai driven traffic losses",
       "url": "techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses"
+    },
+    "rss:https://techcrunch.com/?p=3155215": {
+      "at": "2026-08-20T23:15:04.808127+00:00",
+      "title": "openai is gaining on anthropic with business users new data indicates",
+      "url": "techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates"
+    },
+    "rss:https://techcrunch.com/?p=3155224": {
+      "at": "2026-08-20T23:15:04.808179+00:00",
+      "title": "chatgpt can now send texts for you with new apple messages plug in",
+      "url": "techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin"
     },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
@@ -695,6 +715,16 @@
       "title": "the boring way to run deepseek v4 flash 0731 130 150 tks 16x5060ti 16gb over 2 plx88096 switches",
       "url": "reddit.com/r/LocalLLaMA/comments/1vthcwk/the_boring_way_to_run_deepseek_v4_flash0731"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtoqr9": {
+      "at": "2026-08-20T23:15:04.808219+00:00",
+      "title": "getting better at coding doesn t make a model better at everything else",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtoqr9/getting_better_at_coding_doesnt_make_a_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtozjq": {
+      "at": "2026-08-20T23:15:04.808248+00:00",
+      "title": "qwenmix 3 7 kept seeing posts about qwen3 8 and 3 6 sharing the same structure so i had qwen3 8 combine them",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtozjq/qwenmix37_kept_seeing_posts_about_qwen38_and_36"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtpsqf": {
       "at": "2026-08-20T20:16:03.387776+00:00",
       "title": "ling 3 0 released all 6 base checkpoints 2 sizes 3 stages",
@@ -709,6 +739,11 @@
       "at": "2026-08-20T20:16:03.387847+00:00",
       "title": "unsloth dynamic 3 0 ggufs",
       "url": "reddit.com/r/LocalLLaMA/comments/1vtrxeg/unsloth_dynamic_30_ggufs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vttdss": {
+      "at": "2026-08-20T23:15:04.808239+00:00",
+      "title": "any speculation on whether or not google will announce a new gemma model at the gemma sf celebration tonight",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vttdss/any_speculation_on_whether_or_not_google_will"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -741,6 +776,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable"
     }
   },
-  "updated_at": "2026-08-20T20:16:03.387973+00:00",
+  "updated_at": "2026-08-20T23:15:04.808309+00:00",
   "version": 2
 }
