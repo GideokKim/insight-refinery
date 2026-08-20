@@ -485,6 +485,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vt78xd",
+        "title": "Qwen3.8-27b has the highest level of \"agency\" I've ever seen in a local model",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vt78xd/qwen3827b_has_the_highest_level_of_agency_ive/",
+        "author": "/u/synth_mania",
+        "published_at": "2026-08-20T02:45:59+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 LLM Qwen3.8-27b의 에이전틱 능력 평가",
+        "summary_ko": [
+          "Qwen3.8-27b 모델은 단일 프롬프트만으로 복잡한 대학 웹사이트에서 인간의 개입 없이 수업 일정을 성공적으로 추출했습니다.",
+          "이 모델은 소셜 미디어 영상 분석을 위해 직접 도구를 활용하고 영상 다운로드 및 전사 작업을 수행하는 높은 수준의 에이전트 능력을 보여주었습니다.",
+          "소비자용 단일 RTX 3090 하드웨어 환경에서 이러한 고도화된 자율 실행이 가능하다는 점은 실무적으로 큰 의미를 가집니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
