@@ -120,6 +120,80 @@ sources:
       url: http://export.arxiv.org/rss/cs.AI
       limit: 10
 
+  # ── 연구·기업 공식 발표 ────────────────────────────────────────────
+  - name: Google DeepMind
+    type: rss
+    enabled: true
+    options:
+      url: https://deepmind.google/blog/rss.xml
+      limit: 10
+
+  - name: Microsoft Research
+    type: rss
+    enabled: true
+    options:
+      url: https://www.microsoft.com/en-us/research/feed/
+      limit: 10
+
+  - name: NVIDIA Developer
+    type: rss
+    enabled: true
+    options:
+      url: https://developer.nvidia.com/blog/feed/
+      limit: 10
+
+  # ── 보도·분석 ────────────────────────────────────────────────────
+  - name: Ars Technica AI
+    type: rss
+    enabled: true
+    options:
+      url: https://arstechnica.com/ai/feed/
+      limit: 15
+
+  - name: MIT Tech Review AI
+    type: rss
+    enabled: true
+    options:
+      url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+      limit: 10
+
+  - name: VentureBeat AI
+    type: rss
+    enabled: true
+    options:
+      # 끝에 슬래시를 붙이면 308로 리다이렉트되고 feedparser가 따라가지 않는다.
+      url: https://venturebeat.com/category/ai/feed
+      limit: 10
+
+  # ── 실무자 관점 ──────────────────────────────────────────────────
+  - name: Simon Willison
+    type: rss
+    enabled: true
+    options:
+      url: https://simonwillison.net/atom/everything/
+      limit: 15
+
+  - name: Latent Space
+    type: rss
+    enabled: true
+    options:
+      url: https://www.latent.space/feed
+      limit: 10
+
+  - name: Import AI
+    type: rss
+    enabled: true
+    options:
+      # 주간 뉴스레터라 물량이 적다.
+      url: https://importai.substack.com/feed
+      limit: 5
+
+  # 확인해봤지만 쓸 수 없던 것들 (다시 시도하지 않도록 남겨둔다):
+  #   Anthropic News        https://www.anthropic.com/news/rss.xml       404
+  #   The Batch             https://www.deeplearning.ai/the-batch/feed/  404
+  #   Meta AI Blog          https://ai.meta.com/blog/rss/                404
+  #   r/singularity         동작하지만 과장된 글이 많아 대부분 1~2점으로 채점된다
+
   - name: Hacker News (AI)
     type: rss
     enabled: true
