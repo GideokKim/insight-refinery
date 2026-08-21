@@ -176,8 +176,8 @@ def _notify(
         # 해당분이 없더라도 밀려 있던 대기열을 비워야 하기 때문이다.
         sent = notifier.send_many(selected)
         logger.info(
-            "[%s] %d점 이상 %d건 중 %d건 전송",
-            notifier.name, threshold, len(selected), sent,
+            "[%s] %d점 이상 · %s",
+            notifier.name, threshold, notifier.report(len(selected), sent),
         )
 
 

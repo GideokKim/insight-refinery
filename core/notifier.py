@@ -102,6 +102,16 @@ class Notifier(abc.ABC):
         """기본은 건별 전송. 묶어 보내는 채널은 이 메서드를 재정의한다."""
         return sum(1 for item in items if self.send(item))
 
+    def report(self, selected: int, sent: int) -> str:
+        """이번 호출로 무슨 일이 있었는지 한 줄로 설명한다.
+
+        보낸 건수가 고른 건수와 다를 수 있는 채널(다이제스트)이 있어서,
+        설명은 호출한 쪽이 아니라 채널이 만든다.
+        """
+        if not selected:
+            return "보낼 항목 없음"
+        return f"{selected}건 중 {sent}건 전송"
+
 
 class _ThrottledNotifier(Notifier):
     """연속 전송 사이에 최소 간격을 두는 채널용 믹스인."""
@@ -373,12 +383,8 @@ class DigestNotifier(Notifier):
         return self.send_many([item]) == 1
 
     def send_many(self, items: Sequence[ProcessedItem]) -> int:
-        added = self.queue.extend(items)
+        self.queue.extend(items)
         if not self.due:
-            logger.info(
-                "[%s] %d건 대기열에 적재 (누적 %d건), 발송 시각까지 보류",
-                self.name, added, len(self.queue),
-            )
             self.queue.save()
             return 0
 
@@ -390,10 +396,18 @@ class DigestNotifier(Notifier):
         if sent:
             self.queue.clear()
             self.queue.mark_sent(self.now)
-        else:
-            logger.warning("[%s] 발송 실패, 대기열을 유지합니다", self.name)
         self.queue.save()
         return sent
+
+    def report(self, selected: int, sent: int) -> str:
+        pending = len(self.queue)
+        if not self.due:
+            return f"{selected}건 적재 → 대기열 {pending}건 (발송 시각까지 보류)"
+        if sent:
+            return f"대기열 {sent}건 발송 (이번 실행 {selected}건 포함)"
+        if pending:
+            return f"발송 실패 → 대기열 {pending}건 유지, 다음 실행에서 재시도"
+        return "발송할 대기열 없음"
 
 
 class ConsoleNotifier(Notifier):

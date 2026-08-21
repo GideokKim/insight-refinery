@@ -128,7 +128,10 @@ class DigestQueue:
         )
         tmp_path.replace(self.path)
         self._dirty = False
-        logger.info("다이제스트 큐 %d건 저장", len(self._items))
+        if self._items:
+            logger.info("다이제스트 큐 %d건 보관", len(self._items))
+        else:
+            logger.info("다이제스트 큐 비움")
         return True
 
     def _prune(self) -> None:
