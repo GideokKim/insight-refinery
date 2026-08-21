@@ -111,6 +111,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3155284",
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "author": "Julie Bort",
+        "published_at": "2026-08-21T19:43:39+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 AI 에이전트 연구 결과",
+        "summary_ko": [
+          "Nvidia 연구에 따르면 AI 모델의 성능이 다소 부족하더라도 파인튜닝을 거치면 에이전트가 작업을 훌륭히 수행할 수 있습니다.",
+          "모델 자체의 성능보다 에이전트를 통제하고 지원하는 하니스(harness)가 핵심적인 역할을 담당한다는 점이 입증되었습니다.",
+          "이번 결과는 향후 AI 에이전트 시스템 설계 시 모델 선택뿐만 아니라 구조적 통제 장치의 중요성을 보여줍니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vugyfe",
+        "title": "DeepSeek Harness v0.1.1 released",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released/",
+        "author": "/u/Fun-Doctor6855",
+        "published_at": "2026-08-21T13:51:00+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek Harness v0.1.1 릴리즈",
+        "summary_ko": [
+          "DeepSeek Harness v0.1.1 버전이 공개되며 멀티모달 비전 모델인 DeepSeek-V4-Flash-Vision-Exp 어댑터가 추가되었습니다.",
+          "텍스트와 이미지 입력을 지원하는 /goal 및 /plan 명령어와 파일과 세션을 참조하는 @ 메뉴 기능이 도입되었습니다.",
+          "MCP와 ACP의 지속적인 이미지 첨부 지원 및 PTC 모드의 중첩 이미지 포워딩 기능이 새롭게 적용되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vu7yce",
+        "title": "Qwen3.8-27B at 262K context on a Strix Halo + RTX 3090 Ti: 9.5 -> 153 tok/s, and it beats a dual-3090 vLLM box on HumanEval",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vu7yce/qwen3827b_at_262k_context_on_a_strix_halo_rtx/",
+        "author": "/u/TrifleHopeful5418",
+        "published_at": "2026-08-21T06:06:07+00:00"
+      },
+      "insight": {
+        "title_ko": "Strix Halo와 RTX 3090 Ti에서의 Qwen 모델 최적화",
+        "summary_ko": [
+          "AMD Strix Halo와 RTX 3090 Ti를 결합한 하이브리드 환경에서 Qwen3.8-27B 모델의 추론 성능을 극대화하는 최적화 실험 결과가 공유되었습니다.",
+          "정교한 레이어 배치와 KV 캐시 양자화, 추정 디코딩 플래그 조정을 통해 32K 컨텍스트 기준 153 tok/s의 속도와 향상된 HumanEval 성능을 달성했습니다.",
+          "외부 드래프트 모델 사용이나 무리한 멀티레이어 병렬화 등 실패한 접근법에 대한 분석도 함께 제시되어 실무적인 참고 자료를 제공합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

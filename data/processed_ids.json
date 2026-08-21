@@ -342,6 +342,11 @@
       "title": "from pixels to planning earth ai for nature restoration",
       "url": "research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration"
     },
+    "rss:https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/": {
+      "at": "2026-08-21T20:12:48.536153+00:00",
+      "title": "how mobility gives language models a deeper understanding of place",
+      "url": "research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place"
+    },
     "rss:https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/": {
       "at": "2026-08-19T17:19:19.683265+00:00",
       "title": "introducing tabfm a zero shot foundation model for tabular data",
@@ -570,6 +575,11 @@
       "at": "2026-08-21T02:54:03.029033+00:00",
       "title": "ai data startup micro1 reaches 500m gross run rate amid ai training boom",
       "url": "techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom"
+    },
+    "rss:https://techcrunch.com/?p=3155284": {
+      "at": "2026-08-21T20:12:48.536064+00:00",
+      "title": "nvidia just showed that the harness not the ai model is now the real hero",
+      "url": "techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -825,10 +835,25 @@
       "title": "i did it i m free it s been 7 hours since i used claudecode",
       "url": "reddit.com/r/LocalLLaMA/comments/1vu1e3u/i_did_it_im_free_its_been_7_hours_since_i_used"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vu620d": {
+      "at": "2026-08-21T20:12:48.536185+00:00",
+      "title": "new stealth model ox alpha look like glm or mimo new model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vu620d/new_stealth_model_ox_alpha_look_like_glm_or_mimo"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vu6lok": {
       "at": "2026-08-21T08:25:19.853167+00:00",
       "title": "ox alpha stealth model glm5 air mimo v3 or",
       "url": "reddit.com/r/LocalLLaMA/comments/1vu6lok/ox_alpha_stealth_model_glm5_air_mimo_v3_or"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vu7yce": {
+      "at": "2026-08-21T20:12:48.536118+00:00",
+      "title": "qwen3 8 27b at 262k context on a strix halo rtx 3090 ti 9 5 153 tok s and it beats a dual 3090 vllm box on humaneval",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vu7yce/qwen3827b_at_262k_context_on_a_strix_halo_rtx"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vu8n8i": {
+      "at": "2026-08-21T20:12:48.536197+00:00",
+      "title": "new stealth model on openrouter ox alph",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vu8n8i/new_stealth_model_on_openrouter_ox_alph"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vub9od": {
       "at": "2026-08-21T14:23:34.524011+00:00",
@@ -840,15 +865,30 @@
       "title": "deepseek v4 flash vision exp",
       "url": "reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuce59": {
+      "at": "2026-08-21T20:12:48.536168+00:00",
+      "title": "ornith 1 5 35b a3b ninfer 250 tok s 5 8k prefill 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vuce59/ornith1535ba3bninfer_250_toks_58k_prefill_5090"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vugryn": {
       "at": "2026-08-21T17:19:01.959781+00:00",
       "title": "qwen 3 8 27b is strong even at q3_xxs",
       "url": "reddit.com/r/LocalLLaMA/comments/1vugryn/qwen_38_27b_is_strong_even_at_q3_xxs"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vugyfe": {
+      "at": "2026-08-21T20:12:48.536102+00:00",
+      "title": "deepseek harness v0 1 1 released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vugyfe/deepseek_harness_v011_released"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuh7to": {
       "at": "2026-08-21T17:19:01.959646+00:00",
       "title": "nvidia avo got 100 on arc agi 3 it completed all 183 levels across all 25 public environments figuring out what to do with no instructions explicit rules or stated goals",
       "url": "reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuotqr": {
+      "at": "2026-08-21T20:12:48.536139+00:00",
+      "title": "qwen3 8 27b q6 is a beast at agentic coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -901,6 +941,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d"
     }
   },
-  "updated_at": "2026-08-21T17:19:01.959849+00:00",
+  "updated_at": "2026-08-21T20:12:48.536233+00:00",
   "version": 2
 }
