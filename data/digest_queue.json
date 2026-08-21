@@ -45,6 +45,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vuh7to",
+        "title": "NVIDIA AVO got 100% on ARC-AGI-3. It completed all 183 levels across all 25 public environments, figuring out what to do with no instructions, explicit rules, or stated goals.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all/",
+        "author": "/u/theologi",
+        "published_at": "2026-08-21T14:01:07+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA AVO, ARC-AGI-3 만점 달성",
+        "summary_ko": [
+          "NVIDIA AVO가 ARC-AGI-3 벤치마크의 모든 레벨에서 만점을 기록했습니다.",
+          "사전 지침이나 명시적 규칙 없이 25개의 공개 환경에서 183개 레벨을 모두 완료했습니다.",
+          "AI의 자율적 문제 해결 능력과 실무 적용 가능성 측면에서 중요한 성과입니다."
+        ],
+        "category": "Research",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49389565",
+        "title": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+        "url": "https://canews24.online/?p=71",
+        "author": "Edymilson",
+        "published_at": "2026-08-21T15:25:42+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 활용 숙제 점수 18% 상승과 시험 점수 20% 하락",
+        "summary_ko": [
+          "최근 연구에 따르면 학생들이 AI를 사용하여 숙제 점수를 18% 높인 것으로 나타났습니다.",
+          "그러나 이와 대조적으로 학생들이 치른 시험 점수는 20% 하락한 결과를 보였습니다.",
+          "이 연구는 AI를 통한 과제 수행이 실제 학습 효과와 지식 습득으로 이어지지 않음을 보여줍니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?post_type=tc_podcast&p=3155475",
+        "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+        "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+        "author": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+        "published_at": "2026-08-21T14:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "미 DOJ의 a16z 반독점 조사",
+        "summary_ko": [
+          "미국 법무부(DOJ)가 벤처캐피털인 Andreessen Horowitz(a16z)를 대상으로 반독점법 위반 조사를 진행 중이다.",
+          "a16z 파트너들이 경쟁 관계가 된 Databricks와 Fivetran의 이사회에 동시에 참여하고 있는 점이 문제가 되었다.",
+          "이번 조사는 VCs에게 드물게 적용되는 112년 된 반독점법을 활용한 것으로 향후 벤처캐피털 업계에 큰 파장이 예상된다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

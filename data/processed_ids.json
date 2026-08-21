@@ -216,6 +216,16 @@
       "title": "ai companies destroy physical books let s scan rare books before it s too late",
       "url": "annas-archive.gl/blog/physical-destruction.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49386699": {
+      "at": "2026-08-21T17:19:01.959797+00:00",
+      "title": "i m becoming ai blind",
+      "url": "cymerys.com/w/im-becoming-ai-blind"
+    },
+    "rss:https://news.ycombinator.com/item?id=49389565": {
+      "at": "2026-08-21T17:19:01.959704+00:00",
+      "title": "ai boosted homework scores by 18 then exam scores dropped 20 study shows",
+      "url": "canews24.online/?p=71"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -311,6 +321,11 @@
       "at": "2026-08-19T17:19:19.683201+00:00",
       "title": "advancing amie towards expert level audio visual clinical consultations",
       "url": "research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations"
+    },
+    "rss:https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/": {
+      "at": "2026-08-21T17:19:01.959766+00:00",
+      "title": "an ai tool for prioritizing candidate biomarkers from wearable sensor data",
+      "url": "research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data"
     },
     "rss:https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/": {
       "at": "2026-08-19T17:19:19.683361+00:00",
@@ -555,6 +570,11 @@
       "at": "2026-08-21T02:54:03.029033+00:00",
       "title": "ai data startup micro1 reaches 500m gross run rate amid ai training boom",
       "url": "techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
+      "at": "2026-08-21T17:19:01.959746+00:00",
+      "title": "the doj is investigating a16z what does this mean for venture capital",
+      "url": "techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital"
     },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
@@ -820,6 +840,16 @@
       "title": "deepseek v4 flash vision exp",
       "url": "reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vugryn": {
+      "at": "2026-08-21T17:19:01.959781+00:00",
+      "title": "qwen 3 8 27b is strong even at q3_xxs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vugryn/qwen_38_27b_is_strong_even_at_q3_xxs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuh7to": {
+      "at": "2026-08-21T17:19:01.959646+00:00",
+      "title": "nvidia avo got 100 on arc agi 3 it completed all 183 levels across all 25 public environments figuring out what to do with no instructions explicit rules or stated goals",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -871,6 +901,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d"
     }
   },
-  "updated_at": "2026-08-21T14:23:34.524145+00:00",
+  "updated_at": "2026-08-21T17:19:01.959849+00:00",
   "version": 2
 }
