@@ -191,10 +191,20 @@
       "title": "don t paste the ai please",
       "url": "dontpastetheai.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=49375719": {
+      "at": "2026-08-21T02:54:03.029077+00:00",
+      "title": "anti ai fonts are useless and harmful",
+      "url": "blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful"
+    },
     "rss:https://news.ycombinator.com/item?id=49378768": {
       "at": "2026-08-20T23:15:04.808200+00:00",
       "title": "show hn huzzah a novel approach to coding with ai",
       "url": "danielvaughn.dev/posts/huzzah"
+    },
+    "rss:https://news.ycombinator.com/item?id=49382041": {
+      "at": "2026-08-21T02:54:03.028987+00:00",
+      "title": "copyright does not protect ai generated content in eu",
+      "url": "mathstodon.xyz/@maxpool/117128107757895678"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -526,6 +536,11 @@
       "title": "chatgpt can now send texts for you with new apple messages plug in",
       "url": "techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin"
     },
+    "rss:https://techcrunch.com/?p=3155270": {
+      "at": "2026-08-21T02:54:03.029033+00:00",
+      "title": "ai data startup micro1 reaches 500m gross run rate amid ai training boom",
+      "url": "techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -745,6 +760,16 @@
       "title": "any speculation on whether or not google will announce a new gemma model at the gemma sf celebration tonight",
       "url": "reddit.com/r/LocalLLaMA/comments/1vttdss/any_speculation_on_whether_or_not_google_will"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtu555": {
+      "at": "2026-08-21T02:54:03.029050+00:00",
+      "title": "if you are wondering why ornith 1 5 35b a3b with mtp is so slow this is why",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtu555/if_you_are_wondering_why_ornith_15_35b_a3b_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vtz1o1": {
+      "at": "2026-08-21T02:54:03.029091+00:00",
+      "title": "gonna be huge for us open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vtz1o1/gonna_be_huge_for_us_open_source"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -776,6 +801,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable"
     }
   },
-  "updated_at": "2026-08-20T23:15:04.808309+00:00",
+  "updated_at": "2026-08-21T02:54:03.029133+00:00",
   "version": 2
 }
