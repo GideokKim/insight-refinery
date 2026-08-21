@@ -125,24 +125,25 @@ def run(config: Config, args: argparse.Namespace) -> int:
         len(targets),
         limit,
     )
-    if not targets:
-        logger.info("처리할 신규 아이템이 없습니다. 종료합니다.")
-        return 0
+    processed: list[ProcessedItem] = []
+    if targets:
+        processor = Processor(
+            providers=config.llm.providers,
+            temperature=config.llm.temperature,
+            max_retries=config.llm.max_retries,
+            max_content_chars=config.llm.max_content_chars,
+            max_retry_delay=config.llm.max_retry_delay,
+        )
+        processed = processor.process_many(targets)
+        processed.sort(key=lambda p: p.importance, reverse=True)
+        logger.info("요약 성공 %d/%d건", len(processed), len(targets))
+    else:
+        logger.info("처리할 신규 아이템이 없습니다")
 
-    processor = Processor(
-        providers=config.llm.providers,
-        temperature=config.llm.temperature,
-        max_retries=config.llm.max_retries,
-        max_content_chars=config.llm.max_content_chars,
-        max_retry_delay=config.llm.max_retry_delay,
-    )
-    processed = processor.process_many(targets)
-
-    processed.sort(key=lambda p: p.importance, reverse=True)
-    logger.info("요약 성공 %d/%d건", len(processed), len(targets))
-
-    if processed:
-        _notify(config, args, processed)
+    # 새 아이템이 하나도 없어도 알림 단계는 지나가야 한다. 다이제스트는 이번
+    # 실행의 결과가 아니라 그동안 쌓인 것을 보내므로, 여기서 빠져나가면
+    # 발송 시각인데도 큐가 그대로 남는다.
+    _notify(config, args, processed)
 
     # 알림 여부와 무관하게, 요약에 성공한 것은 모두 처리 완료로 기록한다.
     # (임계치 미만이라 안 보낸 항목을 다음 실행에서 다시 요약하면 토큰 낭비)
@@ -171,9 +172,8 @@ def _notify(
             notifier.name, config.run.min_importance
         )
         selected = [item for item in processed if item.importance >= threshold]
-        if not selected:
-            logger.info("[%s] %d점 이상 없음, 건너뜀", notifier.name, threshold)
-            continue
+        # 보낼 게 없어도 채널을 호출한다. 다이제스트 채널은 이번 실행에
+        # 해당분이 없더라도 밀려 있던 대기열을 비워야 하기 때문이다.
         sent = notifier.send_many(selected)
         logger.info(
             "[%s] %d점 이상 %d건 중 %d건 전송",
