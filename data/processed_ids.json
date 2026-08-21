@@ -206,6 +206,11 @@
       "title": "copyright does not protect ai generated content in eu",
       "url": "mathstodon.xyz/@maxpool/117128107757895678"
     },
+    "rss:https://news.ycombinator.com/item?id=49383026": {
+      "at": "2026-08-21T05:22:34.128001+00:00",
+      "title": "ai companies destroy physical books let s scan rare books before it s too late",
+      "url": "annas-archive.gl/blog/physical-destruction.html"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -775,6 +780,11 @@
       "title": "qwen 3 8 27b pi agent vs opencode",
       "url": "reddit.com/r/LocalLLaMA/comments/1vu0u2v/qwen_38_27b_pi_agent_vs_opencode"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vu1e3u": {
+      "at": "2026-08-21T05:22:34.128054+00:00",
+      "title": "i did it i m free it s been 7 hours since i used claudecode",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vu1e3u/i_did_it_im_free_its_been_7_hours_since_i_used"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -826,6 +836,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d"
     }
   },
-  "updated_at": "2026-08-21T03:31:08.700026+00:00",
+  "updated_at": "2026-08-21T05:22:34.128123+00:00",
   "version": 2
 }
