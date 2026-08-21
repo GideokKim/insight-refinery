@@ -561,6 +561,11 @@
       "title": "google gives publishers a new way to fight ai driven traffic losses",
       "url": "techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses"
     },
+    "rss:https://techcrunch.com/?p=3155131": {
+      "at": "2026-08-21T23:14:09.859723+00:00",
+      "title": "anthropic s opus 4 6 is a smut machine",
+      "url": "techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine"
+    },
     "rss:https://techcrunch.com/?p=3155215": {
       "at": "2026-08-20T23:15:04.808127+00:00",
       "title": "openai is gaining on anthropic with business users new data indicates",
@@ -580,6 +585,11 @@
       "at": "2026-08-21T20:12:48.536064+00:00",
       "title": "nvidia just showed that the harness not the ai model is now the real hero",
       "url": "techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
+    },
+    "rss:https://techcrunch.com/?p=3155585": {
+      "at": "2026-08-21T23:14:09.859745+00:00",
+      "title": "nvidia partners with data center developer cloverleaf",
+      "url": "techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -890,6 +900,16 @@
       "title": "qwen3 8 27b q6 is a beast at agentic coding",
       "url": "reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vus4ko": {
+      "at": "2026-08-21T23:14:09.859772+00:00",
+      "title": "qwen 3 8 low and medium are goated",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vus4ko/qwen_38_low_and_medium_are_goated"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vusds8": {
+      "at": "2026-08-21T23:14:09.859759+00:00",
+      "title": "qwen3 8 27b different thinking levels",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vusds8/qwen3827b_different_thinking_levels"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -939,8 +959,78 @@
       "at": "2026-08-21T03:31:08.699846+00:00",
       "title": "is kv cache in a high dimensional vector space d",
       "url": "reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vu8zag": {
+      "at": "2026-08-21T23:14:09.859889+00:00",
+      "title": "emnlp 2026 findings worth attending in person d",
+      "url": "reddit.com/r/MachineLearning/comments/1vu8zag/emnlp_2026_findings_worth_attending_in_persond"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vuatkw": {
+      "at": "2026-08-21T23:14:09.859880+00:00",
+      "title": "rejected at emnlp with decent scores what can be done next d",
+      "url": "reddit.com/r/MachineLearning/comments/1vuatkw/rejected_at_emnlp_with_decent_scores_what_can_be"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vujk2p": {
+      "at": "2026-08-21T23:14:09.859911+00:00",
+      "title": "epistemic intelligence in machine learning neurips workshop page limit d",
+      "url": "reddit.com/r/MachineLearning/comments/1vujk2p/epistemic_intelligence_in_machine_learning"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vukv7j": {
+      "at": "2026-08-21T23:14:09.859871+00:00",
+      "title": "safety critical systems scs are the only real benchmark for ml systems thoughts d",
+      "url": "reddit.com/r/MachineLearning/comments/1vukv7j/safety_critical_systems_scs_are_the_only_real"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vul1fw": {
+      "at": "2026-08-21T23:14:09.859905+00:00",
+      "title": "emnlp26 cost d",
+      "url": "reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vulefc": {
+      "at": "2026-08-21T23:14:09.859861+00:00",
+      "title": "i have a mid sized gpu cluster and was thinking about giving free compute d",
+      "url": "reddit.com/r/MachineLearning/comments/1vulefc/i_have_a_midsized_gpu_cluster_and_was_thinking"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vulfei": {
+      "at": "2026-08-21T23:14:09.859696+00:00",
+      "title": "does telling an llm to be concise actually save you money we measured it across 9 models compressing the output can save you money and keep accuracy compressing the input prompt does not r",
+      "url": "reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vuloyq": {
+      "at": "2026-08-21T23:14:09.859853+00:00",
+      "title": "research internship at msr d",
+      "url": "reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vumbwe": {
+      "at": "2026-08-21T23:14:09.859836+00:00",
+      "title": "what coding practices are you adopting for development today d",
+      "url": "reddit.com/r/MachineLearning/comments/1vumbwe/what_coding_practices_are_you_adopting_for"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vuni29": {
+      "at": "2026-08-21T23:14:09.859784+00:00",
+      "title": "repo2nb 0 2 0 convert a github repo into a kaggle colab notebook dependency resolution reverse mode incremental sync p",
+      "url": "reddit.com/r/MachineLearning/comments/1vuni29/repo2nb_020_convert_a_github_repo_into_a"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vur05y": {
+      "at": "2026-08-21T23:14:09.859897+00:00",
+      "title": "bmvc 2026 orals d",
+      "url": "reddit.com/r/MachineLearning/comments/1vur05y/bmvc_2026_orals_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vurfv8": {
+      "at": "2026-08-21T23:14:09.859822+00:00",
+      "title": "a classification model trained entirely on a scientific calculator p",
+      "url": "reddit.com/r/MachineLearning/comments/1vurfv8/a_classification_model_trained_entirely_on_a"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vus26i": {
+      "at": "2026-08-21T23:14:09.859805+00:00",
+      "title": "hybrid collaborative filtering recommendation system for judging and suggesting books based on their covers p",
+      "url": "reddit.com/r/MachineLearning/comments/1vus26i/hybrid_collaborative_filtering_recommendation"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vut9wm": {
+      "at": "2026-08-21T23:14:09.859651+00:00",
+      "title": "on prem mlops in a hospital advice needed for production monitoring of self built and vendor models d",
+      "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-21T20:12:48.536233+00:00",
+  "updated_at": "2026-08-21T23:14:09.859946+00:00",
   "version": 2
 }
