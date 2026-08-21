@@ -770,6 +770,11 @@
       "title": "gonna be huge for us open source",
       "url": "reddit.com/r/LocalLLaMA/comments/1vtz1o1/gonna_be_huge_for_us_open_source"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vu0u2v": {
+      "at": "2026-08-21T03:31:08.699958+00:00",
+      "title": "qwen 3 8 27b pi agent vs opencode",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vu0u2v/qwen_38_27b_pi_agent_vs_opencode"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -799,8 +804,28 @@
       "at": "2026-08-20T11:16:15.525938+00:00",
       "title": "the spectral neuron an ml primitive for scalable and interpretable models r",
       "url": "reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtgw1g": {
+      "at": "2026-08-21T03:31:08.699972+00:00",
+      "title": "ai generated code detection in ci cd looking for approaches and real world experience d",
+      "url": "reddit.com/r/MachineLearning/comments/1vtgw1g/aigenerated_code_detection_in_cicd_looking_for"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vth6d9": {
+      "at": "2026-08-21T03:31:08.699989+00:00",
+      "title": "resizing images from flutter camera stream for tflite modle p",
+      "url": "reddit.com/r/MachineLearning/comments/1vth6d9/resizing_images_from_flutter_camera_stream_for"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtjotb": {
+      "at": "2026-08-21T03:31:08.699926+00:00",
+      "title": "mapping intrinsic rank and informational gravity in complex tabular data i developed a non parametric model agnostic information theoretic diagnostic to bypass the limits of linear rank and euclidean baselines r",
+      "url": "reddit.com/r/MachineLearning/comments/1vtjotb/mapping_intrinsic_rank_and_informational_gravity"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vtrdem": {
+      "at": "2026-08-21T03:31:08.699846+00:00",
+      "title": "is kv cache in a high dimensional vector space d",
+      "url": "reddit.com/r/MachineLearning/comments/1vtrdem/is_kv_cache_in_a_high_dimensional_vector_space_d"
     }
   },
-  "updated_at": "2026-08-21T02:54:03.029133+00:00",
+  "updated_at": "2026-08-21T03:31:08.700026+00:00",
   "version": 2
 }
