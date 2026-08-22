@@ -331,6 +331,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3155518",
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-08-22T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "주요 AI 랩스의 위험 모델 통제 계획 부족",
+        "summary_ko": [
+          "최근 연구에 따르면 주요 AI 랩스들이 통제 불능 상태의 모델을 다루기 위한 공개된 계획을 거의 갖추지 않은 것으로 나타났습니다.",
+          "이는 AI 시스템이 점점 더 예기치 않고 위험한 행동을 보임에 따라 안전 대비 태세에 대한 의문을 제기합니다.",
+          "선두 AI 기업들의 체계적인 위험 관리 및 봉쇄 전략 마련의 필요성이 대두되고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

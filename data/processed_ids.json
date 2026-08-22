@@ -586,10 +586,20 @@
       "title": "nvidia just showed that the harness not the ai model is now the real hero",
       "url": "techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
     },
+    "rss:https://techcrunch.com/?p=3155518": {
+      "at": "2026-08-22T17:10:29.602182+00:00",
+      "title": "frontier ai labs still won t say how they d contain a rogue model",
+      "url": "techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model"
+    },
     "rss:https://techcrunch.com/?p=3155585": {
       "at": "2026-08-21T23:14:09.859745+00:00",
       "title": "nvidia partners with data center developer cloverleaf",
       "url": "techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf"
+    },
+    "rss:https://techcrunch.com/?p=3155841": {
+      "at": "2026-08-22T17:10:29.602228+00:00",
+      "title": "openai says california should strengthen its ai safety bill",
+      "url": "techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -970,6 +980,16 @@
       "title": "llama cpp version 0 2 0 is out",
       "url": "reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv6v00": {
+      "at": "2026-08-22T17:10:29.602246+00:00",
+      "title": "freetokens project is impressive",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv6v00/freetokens_project_is_impressive"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv71pg": {
+      "at": "2026-08-22T17:10:29.602272+00:00",
+      "title": "antling released a dspark draft model for ling 3 0 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv71pg/antling_released_a_dspark_draft_model_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv80xa": {
       "at": "2026-08-22T14:10:47.643277+00:00",
       "title": "artificial analysis intelligence a meaningless benchmark",
@@ -979,6 +999,16 @@
       "at": "2026-08-22T14:10:47.643290+00:00",
       "title": "think you re going to get cheap ddr5 ram think again even if prices fall scalper bots now outnumber shoppers 10 to 1 and will keep prices high",
       "url": "reddit.com/r/LocalLLaMA/comments/1vv86lm/think_youre_going_to_get_cheap_ddr5_ram_think"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vveabg": {
+      "at": "2026-08-22T17:10:29.602285+00:00",
+      "title": "this is a great sub regardless of what complaints people have about it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vveabg/this_is_a_great_sub_regardless_of_what_complaints"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvfbde": {
+      "at": "2026-08-22T17:10:29.602259+00:00",
+      "title": "how to remove trendy speech from llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1101,6 +1131,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-22T14:10:47.643348+00:00",
+  "updated_at": "2026-08-22T17:10:29.602329+00:00",
   "version": 2
 }
