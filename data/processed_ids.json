@@ -885,6 +885,11 @@
       "title": "ornith 1 5 35b a3b ninfer 250 tok s 5 8k prefill 5090",
       "url": "reddit.com/r/LocalLLaMA/comments/1vuce59/ornith1535ba3bninfer_250_toks_58k_prefill_5090"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuf4pb": {
+      "at": "2026-08-22T11:10:21.448548+00:00",
+      "title": "buying a v100 older nvidia gpu run this to check for older memory issues",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vuf4pb/buying_a_v100older_nvidia_gpu_run_this_to_check"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vugryn": {
       "at": "2026-08-21T17:19:01.959781+00:00",
       "title": "qwen 3 8 27b is strong even at q3_xxs",
@@ -944,6 +949,16 @@
       "at": "2026-08-22T08:15:43.226915+00:00",
       "title": "this is why i run locally",
       "url": "reddit.com/r/LocalLLaMA/comments/1vv1qfs/this_is_why_i_run_locally"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv47sr": {
+      "at": "2026-08-22T11:10:21.448570+00:00",
+      "title": "bro wtf qwen lab cooked with qwen 3 8 27b it s so fucking good",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv47sr/bro_wtf_qwen_lab_cooked_with_qwen_38_27b_its_so"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv4mei": {
+      "at": "2026-08-22T11:10:21.448509+00:00",
+      "title": "llama cpp version 0 2 0 is out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1066,6 +1081,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-22T08:15:43.226979+00:00",
+  "updated_at": "2026-08-22T11:10:21.448620+00:00",
   "version": 2
 }

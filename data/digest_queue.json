@@ -243,6 +243,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vv4mei",
+        "title": "Llama.cpp version 0.2.0 is out!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out/",
+        "author": "/u/PhilippeEiffel",
+        "published_at": "2026-08-22T06:23:58+00:00"
+      },
+      "insight": {
+        "title_ko": "Llama.cpp 버전 0.2.0 배포",
+        "summary_ko": [
+          "로컬 LLM 구동을 위한 Llama.cpp 버전 0.2.0이 새롭게 출시되었습니다.",
+          "상세한 변경 사항과 소스 코드는 공식 GitHub 저장소에서 확인할 수 있습니다.",
+          "실무 환경에서의 원활한 적용을 위한 사전 빌드 버전도 함께 제공됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vuf4pb",
+        "title": "Buying a V100/older NVIDIA GPU? Run this to check for older memory issues",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuf4pb/buying_a_v100older_nvidia_gpu_run_this_to_check/",
+        "author": "/u/steezy13312",
+        "published_at": "2026-08-21T12:34:49+00:00"
+      },
+      "insight": {
+        "title_ko": "구형 NVIDIA GPU 구매 시 메모리 결함 확인법",
+        "summary_ko": [
+          "중고로 구매한 V100 GPU에서 ECC가 비활성화되어 초기 테스트에서 발견되지 않은 VRAM 오류가 발생했다.",
+          "ECC가 켜져 있으면 메모리 결함 기록이 InfoROM에 저장되며, 스크립트를 통해 은폐된 retired 페이지를 확인할 수 있다.",
+          "구형 GPU 구매 시 해당 검증 스크립트를 즉시 실행하여 하드웨어 결함 여부를 확인하는 것이 중요하다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
