@@ -875,6 +875,11 @@
       "title": "deepseek v4 flash vision exp",
       "url": "reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vubpn4": {
+      "at": "2026-08-22T05:16:30.556530+00:00",
+      "title": "i got fed up with locked down autocomplete so i forked continue and stripped it down to just tab completion any model no subscription and no remote telemetry",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vubpn4/i_got_fed_up_with_lockeddown_autocomplete_so_i"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuce59": {
       "at": "2026-08-21T20:12:48.536168+00:00",
       "title": "ornith 1 5 35b a3b ninfer 250 tok s 5 8k prefill 5090",
@@ -899,6 +904,11 @@
       "at": "2026-08-22T02:44:45.989288+00:00",
       "title": "fireredaudio fireredtts3 by fireredteam huggingface",
       "url": "reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vukppf": {
+      "at": "2026-08-22T05:16:30.556584+00:00",
+      "title": "what s the best local ai harness for coding general use",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuotqr": {
       "at": "2026-08-21T20:12:48.536139+00:00",
@@ -1041,6 +1051,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-22T02:44:45.989373+00:00",
+  "updated_at": "2026-08-22T05:16:30.556668+00:00",
   "version": 2
 }
