@@ -930,6 +930,21 @@
       "title": "i tried to do agenic coding with qwen 3 8 27b 3bit quant on a macbook air m2 24gb it took 63 hours but amazingly the flight simulator worked",
       "url": "reddit.com/r/LocalLLaMA/comments/1vuvx0t/i_tried_to_do_agenic_coding_with_qwen_38_27b_3bit"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuwwww": {
+      "at": "2026-08-22T08:15:43.226894+00:00",
+      "title": "qwen 3 8 27b pi agent vs opencode another smaple",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vuwwww/qwen_38_27b_pi_agent_vs_opencode_another_smaple"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuzz3j": {
+      "at": "2026-08-22T08:15:43.226852+00:00",
+      "title": "16 gb vram purgatory discussion thread",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vuzz3j/16_gb_vram_purgatory_discussion_thread"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv1qfs": {
+      "at": "2026-08-22T08:15:43.226915+00:00",
+      "title": "this is why i run locally",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv1qfs/this_is_why_i_run_locally"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -1051,6 +1066,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-22T05:16:30.556668+00:00",
+  "updated_at": "2026-08-22T08:15:43.226979+00:00",
   "version": 2
 }
