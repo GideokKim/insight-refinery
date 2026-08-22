@@ -221,6 +221,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vukj3m",
+        "title": "FireRedAudio & FireRedTTS3 by FireRedTeam - Huggingface",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-08-21T16:05:05+00:00"
+      },
+      "insight": {
+        "title_ko": "FireRedAudio 및 FireRedTTS3 공개",
+        "summary_ko": [
+          "FireRedTeam이 음성 이해와 생성을 모두 지원하는 범용 오디오 언어 모델 FireRedAudio를 공개했다.",
+          "이 모델은 9B 파라미터 LLM 백본을 기반으로 ASR, 제로샷 TTS, 음성 편집 등 다양한 기능을 수행한다.",
+          "함께 공개된 FireRedTTS3는 다국어 및 중국어 방언을 지원하며 자연어로 음성 디자인과 편집이 가능하다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

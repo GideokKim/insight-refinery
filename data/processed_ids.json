@@ -895,6 +895,11 @@
       "title": "nvidia avo got 100 on arc agi 3 it completed all 183 levels across all 25 public environments figuring out what to do with no instructions explicit rules or stated goals",
       "url": "reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vukj3m": {
+      "at": "2026-08-22T02:44:45.989288+00:00",
+      "title": "fireredaudio fireredtts3 by fireredteam huggingface",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vukj3m/fireredaudio_fireredtts3_by_fireredteam"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuotqr": {
       "at": "2026-08-21T20:12:48.536139+00:00",
       "title": "qwen3 8 27b q6 is a beast at agentic coding",
@@ -909,6 +914,11 @@
       "at": "2026-08-21T23:14:09.859759+00:00",
       "title": "qwen3 8 27b different thinking levels",
       "url": "reddit.com/r/LocalLLaMA/comments/1vusds8/qwen3827b_different_thinking_levels"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuvx0t": {
+      "at": "2026-08-22T02:44:45.989326+00:00",
+      "title": "i tried to do agenic coding with qwen 3 8 27b 3bit quant on a macbook air m2 24gb it took 63 hours but amazingly the flight simulator worked",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vuvx0t/i_tried_to_do_agenic_coding_with_qwen_38_27b_3bit"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1031,6 +1041,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-21T23:14:09.859946+00:00",
+  "updated_at": "2026-08-22T02:44:45.989373+00:00",
   "version": 2
 }
