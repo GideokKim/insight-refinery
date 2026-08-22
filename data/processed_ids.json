@@ -905,6 +905,11 @@
       "title": "nvidia avo got 100 on arc agi 3 it completed all 183 levels across all 25 public environments figuring out what to do with no instructions explicit rules or stated goals",
       "url": "reddit.com/r/LocalLLaMA/comments/1vuh7to/nvidia_avo_got_100_on_arcagi3_it_completed_all"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vukf57": {
+      "at": "2026-08-22T14:10:47.643261+00:00",
+      "title": "ultrafast qwen3 tts at 34 ms time to first audio handling 10 requests per second oss",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vukf57/ultrafast_qwen3tts_at_34_ms_timetofirstaudio"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vukj3m": {
       "at": "2026-08-22T02:44:45.989288+00:00",
       "title": "fireredaudio fireredtts3 by fireredteam huggingface",
@@ -914,6 +919,11 @@
       "at": "2026-08-22T05:16:30.556584+00:00",
       "title": "what s the best local ai harness for coding general use",
       "url": "reddit.com/r/LocalLLaMA/comments/1vukppf/whats_the_best_local_ai_harness_for_coding"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vunrrp": {
+      "at": "2026-08-22T14:10:47.643221+00:00",
+      "title": "model add dots3 note by ngxson pull request 27060 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vunrrp/model_add_dots3note_by_ngxson_pull_request_27060"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vuotqr": {
       "at": "2026-08-21T20:12:48.536139+00:00",
@@ -959,6 +969,16 @@
       "at": "2026-08-22T11:10:21.448509+00:00",
       "title": "llama cpp version 0 2 0 is out",
       "url": "reddit.com/r/LocalLLaMA/comments/1vv4mei/llamacpp_version_020_is_out"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv80xa": {
+      "at": "2026-08-22T14:10:47.643277+00:00",
+      "title": "artificial analysis intelligence a meaningless benchmark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv80xa/artificial_analysis_intelligence_a_meaningless"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv86lm": {
+      "at": "2026-08-22T14:10:47.643290+00:00",
+      "title": "think you re going to get cheap ddr5 ram think again even if prices fall scalper bots now outnumber shoppers 10 to 1 and will keep prices high",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv86lm/think_youre_going_to_get_cheap_ddr5_ram_think"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1081,6 +1101,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-22T11:10:21.448620+00:00",
+  "updated_at": "2026-08-22T14:10:47.643348+00:00",
   "version": 2
 }

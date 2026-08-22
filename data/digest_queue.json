@@ -287,6 +287,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vunrrp",
+        "title": "model: add dots3-note by ngxson · Pull Request #27060 · ggml-org/llama.cpp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vunrrp/model_add_dots3note_by_ngxson_pull_request_27060/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-08-21T18:03:27+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp에 dots3-note 모델 추가",
+        "summary_ko": [
+          "llama.cpp 저장소에 dots3 패밀리의 첫 번째 오픈웨이트 모델인 dots3-note를 추가하는 풀 리퀘스트가 등록되었습니다.",
+          "이 모델은 총 280B 파라미터와 16B 활성화 파라미터를 가진 Mixture-of-Experts 구조로 최대 512K 컨텍스트를 지원합니다.",
+          "텍스트뿐만 아니라 이미지, 비디오, 오디오 입력을 처리하고 텍스트를 출력하는 멀티모달 기능을 제공합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vukf57",
+        "title": "Ultrafast Qwen3-TTS at 34 ms Time-to-First-Audio, Handling 10 Requests Per Second [OSS]",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vukf57/ultrafast_qwen3tts_at_34_ms_timetofirstaudio/",
+        "author": "/u/Forsaken_Goal3692",
+        "published_at": "2026-08-21T16:01:06+00:00"
+      },
+      "insight": {
+        "title_ko": "초고속 Qwen3-TTS 오픈소스 공개",
+        "summary_ko": [
+          "개발자들이 34ms의 Time-to-First-Audio를 달성하는 초고속 Qwen3-TTS 1.7B 오픈소스 구현체를 공개했습니다.",
+          "이 모델은 H100 1장 환경에서 초당 10개의 요청을 처리하며, 설정 조정을 통해 4090에서도 유사한 성능을 냅니다.",
+          "기존 vLLM-Omni 및 SGLang-Omni 엔진 대비 대폭 향상된 속도를 제공하여 로컬 음성 합성의 지연 시간을 줄였습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
