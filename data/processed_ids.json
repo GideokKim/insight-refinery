@@ -606,6 +606,11 @@
       "title": "openai says california should strengthen its ai safety bill",
       "url": "techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill"
     },
+    "rss:https://techcrunch.com/?p=3155861": {
+      "at": "2026-08-22T23:10:13.749507+00:00",
+      "title": "harvard s 699 startup bootcamp offers ai avatars of its instructors",
+      "url": "techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1025,6 +1030,21 @@
       "title": "how to remove trendy speech from llms",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvft7b": {
+      "at": "2026-08-22T23:10:13.749542+00:00",
+      "title": "fixed the mtp head on ornith1 5 35b a3b 3 tps 33 wall clock",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvmxls": {
+      "at": "2026-08-22T23:10:13.749523+00:00",
+      "title": "new 100b liquid ai model coming soon",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvncyh": {
+      "at": "2026-08-22T23:10:13.749414+00:00",
+      "title": "i benchmark dflash 2 pr build in llama cpp on qwen 3 8 27b against all speculative methods for 3 days 2 26x on 100 real coding prompts 4 68x with one n gram drafter on top up to 8x on specific cases",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -1144,8 +1164,33 @@
       "at": "2026-08-21T23:14:09.859651+00:00",
       "title": "on prem mlops in a hospital advice needed for production monitoring of self built and vendor models d",
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vv2nkh": {
+      "at": "2026-08-22T23:10:13.749483+00:00",
+      "title": "i developed my own quantized llm from scratch trained on 30b tokens deploys in 60 mb r",
+      "url": "reddit.com/r/MachineLearning/comments/1vv2nkh/i_developed_my_own_quantized_llm_from_scratch"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vv7wx3": {
+      "at": "2026-08-22T23:10:13.749567+00:00",
+      "title": "why does lightgbm not fit my toy example but catboost does 2 order interactions d",
+      "url": "reddit.com/r/MachineLearning/comments/1vv7wx3/why_does_lightgbm_not_fit_my_toy_example_but"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vvd9ub": {
+      "at": "2026-08-22T23:10:13.749580+00:00",
+      "title": "acl arr august 2026 desk rejected d",
+      "url": "reddit.com/r/MachineLearning/comments/1vvd9ub/acl_arr_august_2026_desk_rejected_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vvdxwt": {
+      "at": "2026-08-22T23:10:13.749552+00:00",
+      "title": "the evaluation resolution has been shown to have a significant impact on the identification of the learning rule that exhibits the most brain like characteristics at v1 r",
+      "url": "reddit.com/r/MachineLearning/comments/1vvdxwt/the_evaluation_resolution_has_been_shown_to_have"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vvii1j": {
+      "at": "2026-08-22T23:10:13.749532+00:00",
+      "title": "i built an open source roguelike specifically for training game playing agents p",
+      "url": "reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for"
     }
   },
-  "updated_at": "2026-08-22T20:10:21.608571+00:00",
+  "updated_at": "2026-08-22T23:10:13.749622+00:00",
   "version": 2
 }
