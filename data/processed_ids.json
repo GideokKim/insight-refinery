@@ -551,6 +551,11 @@
       "title": "linkdaze s smart calendar is built to run a household not just track a schedule",
       "url": "techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule"
     },
+    "rss:https://techcrunch.com/?p=3155023": {
+      "at": "2026-08-22T20:10:21.608501+00:00",
+      "title": "inherent founded by deepmind alumni says its ai teammate just outperformed anthropic and openai at replicating research",
+      "url": "techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research"
+    },
     "rss:https://techcrunch.com/?p=3155064": {
       "at": "2026-08-21T14:23:34.524078+00:00",
       "title": "starcloud raises 250 million for orbital data centers as launch options dry up",
@@ -940,6 +945,11 @@
       "title": "qwen3 8 27b q6 is a beast at agentic coding",
       "url": "reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vurjwc": {
+      "at": "2026-08-22T20:10:21.608547+00:00",
+      "title": "i feel like i finally graduated",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vurjwc/i_feel_like_i_finally_graduated"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vus4ko": {
       "at": "2026-08-21T23:14:09.859772+00:00",
       "title": "qwen 3 8 low and medium are goated",
@@ -969,6 +979,11 @@
       "at": "2026-08-22T08:15:43.226915+00:00",
       "title": "this is why i run locally",
       "url": "reddit.com/r/LocalLLaMA/comments/1vv1qfs/this_is_why_i_run_locally"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv3b6o": {
+      "at": "2026-08-22T20:10:21.608538+00:00",
+      "title": "sharp template to ninfer 42 output tokens same speed",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vv3b6o/sharp_template_to_ninfer_42_output_tokens_same"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vv47sr": {
       "at": "2026-08-22T11:10:21.448570+00:00",
@@ -1131,6 +1146,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vut9wm/onprem_mlops_in_a_hospital_advice_needed_for"
     }
   },
-  "updated_at": "2026-08-22T17:10:29.602329+00:00",
+  "updated_at": "2026-08-22T20:10:21.608571+00:00",
   "version": 2
 }

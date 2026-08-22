@@ -353,6 +353,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3155023",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "author": "Anna Heim",
+        "published_at": "2026-08-22T19:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepMind 출신이 설립한 Inherent, AI 에이전트 Faraday 공개",
+        "summary_ko": [
+          "DeepMind 출신들이 설립한 영국의 AI 스타트업 Inherent가 과학 논문 재현에 특화된 AI 에이전트 Faraday를 공개했습니다.",
+          "해당 AI 에이전트는 과학적 연구 재현 작업에서 Anthropic과 OpenAI의 모델을 능가하는 성능을 기록했다고 밝혔습니다.",
+          "이번에 공개된 에이전트의 능력은 향후 과학 분야의 혁신을 가속화하는 중요한 발판이 될 것으로 기대를 모으고 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vv3b6o",
+        "title": "Sharp template to NInfer: -42% output tokens, same speed",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv3b6o/sharp_template_to_ninfer_42_output_tokens_same/",
+        "author": "/u/xrailgun",
+        "published_at": "2026-08-22T05:12:58+00:00"
+      },
+      "insight": {
+        "title_ko": "NInfer용 Sharp 템플릿 도입",
+        "summary_ko": [
+          "Sharp 시스템 프롬프트와 Jinja 템플릿의 동작을 NInfer 추론 엔진에 C++ 포크 형태로 구현했습니다.",
+          "모델 아티팩트를 수정하지 않고 시스템 프롬프트에 간결성 지시어와 추론 노력 수준을 오버레이했습니다.",
+          "그 결과 동일한 속도를 유지하면서도 출력 토큰을 42% 절감하는 성능을 기록했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
