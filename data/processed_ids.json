@@ -1040,6 +1040,11 @@
       "title": "fixed the mtp head on ornith1 5 35b a3b 3 tps 33 wall clock",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvl7pc": {
+      "at": "2026-08-23T05:19:15.255706+00:00",
+      "title": "single rtx 5090 qwen3 8 27b nvfp4 at a real 262k context in vllm 77 tok s short context 64 7 tok s at 128k",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvl7pc/single_rtx_5090_qwen3827b_nvfp4_at_a_real_262k"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvljbz": {
       "at": "2026-08-23T02:53:46.962926+00:00",
       "title": "glm and i created a llama cpp fork optimized for amd gfx906 mi50 mi60 radeon vii gcn hip machine learning llms ai",
@@ -1055,6 +1060,11 @@
       "title": "i benchmark dflash 2 pr build in llama cpp on qwen 3 8 27b against all speculative methods for 3 days 2 26x on 100 real coding prompts 4 68x with one n gram drafter on top up to 8x on specific cases",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvsokm": {
+      "at": "2026-08-23T05:19:15.255662+00:00",
+      "title": "tested in coding q8_k_xl qwen3 8 27b vs bf16 qwen3 6 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvsokm/tested_in_coding_q8_k_xl_qwen38_27b_vs_bf16"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvt7lo": {
       "at": "2026-08-23T02:53:46.962912+00:00",
       "title": "closed ai has been real quiet since qwen 3 8 27b dropped",
@@ -1064,6 +1074,11 @@
       "at": "2026-08-23T02:53:46.962865+00:00",
       "title": "i fine tuned gemma 4 12b for a 2 7x improvement on tool calling because i can t fit anything else comfortably into my 16 gbs of vram",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvv7iv": {
+      "at": "2026-08-23T05:19:15.255739+00:00",
+      "title": "the all spark cluster upgrading from 16 36 dgx sparks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1209,8 +1224,13 @@
       "at": "2026-08-22T23:10:13.749532+00:00",
       "title": "i built an open source roguelike specifically for training game playing agents p",
       "url": "reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vvsm9j": {
+      "at": "2026-08-23T05:19:15.255760+00:00",
+      "title": "how to grow a project d",
+      "url": "reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d"
     }
   },
-  "updated_at": "2026-08-23T02:53:46.963002+00:00",
+  "updated_at": "2026-08-23T05:19:15.255801+00:00",
   "version": 2
 }

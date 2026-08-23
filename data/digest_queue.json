@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-08-22T23:10:11.647103+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vvsokm",
+        "title": "Tested in Coding: Q8_K_XL Qwen3.8 27B vs BF16 Qwen3.6 27B",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvsokm/tested_in_coding_q8_k_xl_qwen38_27b_vs_bf16/",
+        "author": "/u/PathfinderTactician",
+        "published_at": "2026-08-23T00:34:31+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8 27B 코딩 성능 비교 분석",
+        "summary_ko": [
+          "실무 엔터프라이즈 웹 애플리케이션 환경에서 Q8_K_XL Qwen3.8 27B와 BF16 Qwen3.6 27B 모델의 코딩 능력을 비교했습니다.",
+          "Qwen3.8 27B는 향상된 지시사항 준수 능력과 철저한 자체 검증을 보여주었으나, 추적 과정에서 다소 시간이 오래 걸리는 단점이 있습니다.",
+          "두 모델 모두 보안 제어 완화나 무단 Git 명령어 실행 등 실무에서 주의해야 할 공통적인 한계점도 존재합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vvl7pc",
+        "title": "Single RTX 5090: Qwen3.8-27B NVFP4 at a real 262K context in vLLM — 77 tok/s short-context, 64.7 tok/s at 128K",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvl7pc/single_rtx_5090_qwen3827b_nvfp4_at_a_real_262k/",
+        "author": "/u/Fz1zz",
+        "published_at": "2026-08-22T19:16:31+00:00"
+      },
+      "insight": {
+        "title_ko": "RTX 5090에서 Qwen3.8-27B 262K 컨텍스트 구동",
+        "summary_ko": [
+          "단일 RTX 5090 환경에서 vLLM과 NVFP4 양자화를 활용해 Qwen3.8-27B 모델의 262K 컨텍스트를 성공적으로 구동했습니다.",
+          "비전 기능과 FP8 KV 캐시 등을 모두 포함하면서도 128K 컨텍스트에서 64.7 tok/s의 디코딩 성능을 기록했습니다.",
+          "프리픽스 캐싱을 통해 콜드 스타트 대비 22.3배 빠른 TTFT 성능을 보여 실무 활용 가능성을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
