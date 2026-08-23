@@ -1075,10 +1075,20 @@
       "title": "i fine tuned gemma 4 12b for a 2 7x improvement on tool calling because i can t fit anything else comfortably into my 16 gbs of vram",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvu15m": {
+      "at": "2026-08-23T08:16:50.005686+00:00",
+      "title": "qwen3 8 27b one week later the r localllama r localllm verdict",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvu15m/qwen3827b_one_week_later_the_rlocalllama"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvv7iv": {
       "at": "2026-08-23T05:19:15.255739+00:00",
       "title": "the all spark cluster upgrading from 16 36 dgx sparks",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvv7iv/the_all_spark_cluster_upgrading_from_16_36_dgx"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvyacg": {
+      "at": "2026-08-23T08:16:50.005643+00:00",
+      "title": "qwen 3 8 27b is a game changer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1231,6 +1241,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d"
     }
   },
-  "updated_at": "2026-08-23T05:19:15.255801+00:00",
+  "updated_at": "2026-08-23T08:16:50.005742+00:00",
   "version": 2
 }

@@ -45,6 +45,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vvyacg",
+        "title": "Qwen 3.8 27B is a game changer.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/",
+        "author": "/u/Cold_Specialist_3656",
+        "published_at": "2026-08-23T05:19:48+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen 3.8 27B 모델의 실무 성능 평가",
+        "summary_ko": [
+          "개발자들이 Qwen 3.8 27B 모델을 테스트한 결과 코딩과 OCR 작업에서 뛰어난 성능을 보였다.",
+          "특히 OCR 품질이 기존 유료 모델보다 우수하여 비용 절감과 자체 하드웨어 도입 논의로 이어지고 있다.",
+          "이번 오픈소스 모델의 발전은 하이퍼스케일러의 독점 구조를 흔들고 온프레미스 전환을 가속화할 전망이다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vvu15m",
+        "title": "# Qwen3.8-27B — One Week Later: The r/LocalLLaMA + r/LocalLLM Verdict",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvu15m/qwen3827b_one_week_later_the_rlocalllama/",
+        "author": "/u/Jonathan_Rivera",
+        "published_at": "2026-08-23T01:39:46+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-27B 일주일 사용 커뮤니티 평가",
+        "summary_ko": [
+          "Qwen3.8-27B 모델은 로컬 에이전틱 코딩과 도구 호출 신뢰도 측면에서 뛰어난 성능을 보여 커뮤니티의 큰 호평을 받고 있습니다.",
+          "기본 설정인 xhigh 추론 모드는 토큰 소비가 심해 low나 medium 프리셋을 사용하는 것이 실용적이라는 평가가 지배적입니다.",
+          "지식 회상 능력이 이전 버전 대비 다소 퇴보했으나 멀티모달 및 비전 기능 등 전반적인 실무 활용도는 매우 높습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
