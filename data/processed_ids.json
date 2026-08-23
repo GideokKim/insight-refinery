@@ -221,6 +221,11 @@
       "title": "i m becoming ai blind",
       "url": "cymerys.com/w/im-becoming-ai-blind"
     },
+    "rss:https://news.ycombinator.com/item?id=49387959": {
+      "at": "2026-08-23T02:53:46.962940+00:00",
+      "title": "how a texas student blew the whistle on a rogue ai hacking attempt",
+      "url": "reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20"
+    },
     "rss:https://news.ycombinator.com/item?id=49389565": {
       "at": "2026-08-21T17:19:01.959704+00:00",
       "title": "ai boosted homework scores by 18 then exam scores dropped 20 study shows",
@@ -1035,6 +1040,11 @@
       "title": "fixed the mtp head on ornith1 5 35b a3b 3 tps 33 wall clock",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvft7b/fixed_the_mtp_head_on_ornith15_35b_a3b_3_tps_33"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvljbz": {
+      "at": "2026-08-23T02:53:46.962926+00:00",
+      "title": "glm and i created a llama cpp fork optimized for amd gfx906 mi50 mi60 radeon vii gcn hip machine learning llms ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvljbz/glm_and_i_created_a_llamacpp_fork_optimized_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvmxls": {
       "at": "2026-08-22T23:10:13.749523+00:00",
       "title": "new 100b liquid ai model coming soon",
@@ -1044,6 +1054,16 @@
       "at": "2026-08-22T23:10:13.749414+00:00",
       "title": "i benchmark dflash 2 pr build in llama cpp on qwen 3 8 27b against all speculative methods for 3 days 2 26x on 100 real coding prompts 4 68x with one n gram drafter on top up to 8x on specific cases",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvt7lo": {
+      "at": "2026-08-23T02:53:46.962912+00:00",
+      "title": "closed ai has been real quiet since qwen 3 8 27b dropped",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvt7lo/closed_ai_has_been_real_quiet_since_qwen_38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvtu9z": {
+      "at": "2026-08-23T02:53:46.962865+00:00",
+      "title": "i fine tuned gemma 4 12b for a 2 7x improvement on tool calling because i can t fit anything else comfortably into my 16 gbs of vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvtu9z/i_fine_tuned_gemma_4_12b_for_a_27x_improvement_on"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1191,6 +1211,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vvii1j/i_built_an_opensource_roguelike_specifically_for"
     }
   },
-  "updated_at": "2026-08-22T23:10:13.749622+00:00",
+  "updated_at": "2026-08-23T02:53:46.963002+00:00",
   "version": 2
 }
