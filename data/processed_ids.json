@@ -601,6 +601,11 @@
       "title": "frontier ai labs still won t say how they d contain a rogue model",
       "url": "techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model"
     },
+    "rss:https://techcrunch.com/?p=3155556": {
+      "at": "2026-08-23T17:11:20.168556+00:00",
+      "title": "is it legal to train ai models on copyrighted books it s complicated",
+      "url": "techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated"
+    },
     "rss:https://techcrunch.com/?p=3155585": {
       "at": "2026-08-21T23:14:09.859745+00:00",
       "title": "nvidia partners with data center developer cloverleaf",
@@ -615,6 +620,11 @@
       "at": "2026-08-22T23:10:13.749507+00:00",
       "title": "harvard s 699 startup bootcamp offers ai avatars of its instructors",
       "url": "techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors"
+    },
+    "rss:https://techcrunch.com/?p=3155870": {
+      "at": "2026-08-23T17:11:20.168582+00:00",
+      "title": "flock ceo calls for compromise as surveillance company faces growing backlash",
+      "url": "techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1095,6 +1105,11 @@
       "title": "qwen 3 8 27b is a game changer",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvzzlm": {
+      "at": "2026-08-23T17:11:20.168619+00:00",
+      "title": "best harness for qwen 3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvzzlm/best_harness_for_qwen_38_27b"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw0mcd": {
       "at": "2026-08-23T14:12:33.088726+00:00",
       "title": "nvidia poolside deal to compete with chinese open weights",
@@ -1115,10 +1130,20 @@
       "title": "i hosted kimi k3 2 8t parameters using 8 b300s 92 tok s 190 per million tokens",
       "url": "reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw2ayp": {
+      "at": "2026-08-23T17:11:20.168503+00:00",
+      "title": "qwen3 8 27b klds",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw2ayp/qwen3827b_klds"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw2cop": {
       "at": "2026-08-23T11:11:28.821083+00:00",
       "title": "don t want to be this guy but i need qwen 3 8 35b a3b",
       "url": "reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw9k4k": {
+      "at": "2026-08-23T17:11:20.168539+00:00",
+      "title": "1 100 44 100 fine tuning a 450m vlm on 50k browser screenshots",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1269,8 +1294,28 @@
       "at": "2026-08-23T05:19:15.255760+00:00",
       "title": "how to grow a project d",
       "url": "reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vw18ys": {
+      "at": "2026-08-23T17:11:20.168570+00:00",
+      "title": "implementing watermarking for language models p",
+      "url": "reddit.com/r/MachineLearning/comments/1vw18ys/implementing_watermarking_for_language_models_p"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vw4un3": {
+      "at": "2026-08-23T17:11:20.168601+00:00",
+      "title": "n eacl 2027 industry track deadline 11 september n",
+      "url": "reddit.com/r/MachineLearning/comments/1vw4un3/n_eacl_2027_industry_track_deadline_11_september_n"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vw5ysj": {
+      "at": "2026-08-23T17:11:20.168454+00:00",
+      "title": "28 tps on qwen2 5 7b across two separate cloud regions over public wan using speculative decoding cuda graphs p",
+      "url": "reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vwa9ap": {
+      "at": "2026-08-23T17:11:20.168519+00:00",
+      "title": "when an ai agent says done how do you know it actually happened p",
+      "url": "reddit.com/r/MachineLearning/comments/1vwa9ap/when_an_ai_agent_says_done_how_do_you_know_it"
     }
   },
-  "updated_at": "2026-08-23T14:12:33.088837+00:00",
+  "updated_at": "2026-08-23T17:11:20.168656+00:00",
   "version": 2
 }

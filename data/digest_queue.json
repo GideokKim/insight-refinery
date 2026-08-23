@@ -133,6 +133,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/MachineLearning",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/MachineLearning/top/t3_1vw5ysj",
+        "title": "28 TPS on Qwen2.5-7B across two separate cloud regions over public WAN using speculative decoding + CUDA Graphs [P]",
+        "url": "https://www.reddit.com/r/MachineLearning/comments/1vw5ysj/28_tps_on_qwen257b_across_two_separate_cloud/",
+        "author": "/u/katua_bkl",
+        "published_at": "2026-08-23T12:30:55+00:00"
+      },
+      "insight": {
+        "title_ko": "분산 환경 LLM 추론 가속 프레임워크 ShardFlow 개발",
+        "summary_ko": [
+          "ShardFlow는 WAN 환경의 레이턴시를 극복하기 위해 신경망 기반 speculative decoding을 활용하는 분산 LLM 추론 프레임워크입니다.",
+          "서로 다른 GCP 리전의 T4 노드 환경에서 Qwen2.5-7B 모델 구동 시 CUDA Graphs를 적용하여 최대 28.10 TPS를 달성했습니다.",
+          "파이썬 루프 기반의 CUDA 커널 호출 오버헤드를 줄이고 CUDA Graph로 최적화하여 드래프트 생성 레이턴시를 대폭 단축했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vw2ayp",
+        "title": "Qwen3.8-27B KLDs",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2ayp/qwen3827b_klds/",
+        "author": "/u/sadnessdevil",
+        "published_at": "2026-08-23T09:10:44+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-27B 양자화 비교 분석",
+        "summary_ko": [
+          "작성자는 Qwen3.8-27B 모델의 다양한 양자화 포맷에 따른 KLD 성능을 비교 분석했습니다.",
+          "실험 결과 4비트 양자화 간의 성능 편차가 크며, 4비트와 8비트 사이의 격차가 매우 뚜렷하게 나타났습니다.",
+          "특히 양자화 손실은 컨텍스트의 시작 부분인 첫 500개 토큰에서 가장 크게 발생하는 것으로 확인되었습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
