@@ -626,6 +626,11 @@
       "title": "flock ceo calls for compromise as surveillance company faces growing backlash",
       "url": "techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash"
     },
+    "rss:https://techcrunch.com/?p=3155879": {
+      "at": "2026-08-23T20:09:06.207198+00:00",
+      "title": "who s behind the new stealth model ox alpha",
+      "url": "techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1140,6 +1145,11 @@
       "title": "don t want to be this guy but i need qwen 3 8 35b a3b",
       "url": "reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw8vuh": {
+      "at": "2026-08-23T20:09:06.207266+00:00",
+      "title": "qwen 3 8 27b for actual local programming",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw8vuh/qwen_38_27b_for_actual_local_programming"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw9k4k": {
       "at": "2026-08-23T17:11:20.168539+00:00",
       "title": "1 100 44 100 fine tuning a 450m vlm on 50k browser screenshots",
@@ -1314,8 +1324,13 @@
       "at": "2026-08-23T17:11:20.168519+00:00",
       "title": "when an ai agent says done how do you know it actually happened p",
       "url": "reddit.com/r/MachineLearning/comments/1vwa9ap/when_an_ai_agent_says_done_how_do_you_know_it"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vwb18q": {
+      "at": "2026-08-23T20:09:06.207248+00:00",
+      "title": "archival vs non archival workshop r",
+      "url": "reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r"
     }
   },
-  "updated_at": "2026-08-23T17:11:20.168656+00:00",
+  "updated_at": "2026-08-23T20:09:06.207320+00:00",
   "version": 2
 }
