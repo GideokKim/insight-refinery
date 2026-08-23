@@ -1095,10 +1095,20 @@
       "title": "qwen 3 8 27b is a game changer",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw0mcd": {
+      "at": "2026-08-23T14:12:33.088726+00:00",
+      "title": "nvidia poolside deal to compete with chinese open weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw0mcd/nvidia_poolside_deal_to_compete_with_chinese_open"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw10m3": {
       "at": "2026-08-23T11:11:28.821099+00:00",
       "title": "deepseek harness is insanely good",
       "url": "reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw15bm": {
+      "at": "2026-08-23T14:12:33.088777+00:00",
+      "title": "i finally switched from windows to linux and got a 30 50 boost in speed",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw15bm/i_finally_switched_from_windows_to_linux_and_got"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw1j2p": {
       "at": "2026-08-23T11:11:28.821031+00:00",
@@ -1261,6 +1271,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d"
     }
   },
-  "updated_at": "2026-08-23T11:11:28.821139+00:00",
+  "updated_at": "2026-08-23T14:12:33.088837+00:00",
   "version": 2
 }

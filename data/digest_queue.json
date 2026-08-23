@@ -111,6 +111,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vw0mcd",
+        "title": "Nvidia Poolside deal to compete with Chinese Open Weights",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw0mcd/nvidia_poolside_deal_to_compete_with_chinese_open/",
+        "author": "/u/mrgreatheart",
+        "published_at": "2026-08-23T07:31:55+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 Poolside 투자 및 기술 라이선스 계약",
+        "summary_ko": [
+          "Nvidia가 Poolside에 10억 달러를 투자하고 기술 라이선스와 엔지니어 채용을 위해 6보 달러를 지불합니다.",
+          "Poolside의 인력 100여 명이 Nvidia로 이동하여 Nemotron 모델 개발에 참여할 예정입니다.",
+          "이번 협력은 중국의 오픈 웨이트 모델에 대응하기 위한 전략적 움직임으로 평가받고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
