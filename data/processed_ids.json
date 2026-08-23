@@ -1065,6 +1065,11 @@
       "title": "tested in coding q8_k_xl qwen3 8 27b vs bf16 qwen3 6 27b",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvsokm/tested_in_coding_q8_k_xl_qwen38_27b_vs_bf16"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvt3c4": {
+      "at": "2026-08-23T11:11:28.821107+00:00",
+      "title": "has anyone actually made 64k feel like 300k with recursive local agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vvt3c4/has_anyone_actually_made_64k_feel_like_300k_with"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vvt7lo": {
       "at": "2026-08-23T02:53:46.962912+00:00",
       "title": "closed ai has been real quiet since qwen 3 8 27b dropped",
@@ -1089,6 +1094,21 @@
       "at": "2026-08-23T08:16:50.005643+00:00",
       "title": "qwen 3 8 27b is a game changer",
       "url": "reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw10m3": {
+      "at": "2026-08-23T11:11:28.821099+00:00",
+      "title": "deepseek harness is insanely good",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw10m3/deepseek_harness_is_insanely_good"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw1j2p": {
+      "at": "2026-08-23T11:11:28.821031+00:00",
+      "title": "i hosted kimi k3 2 8t parameters using 8 b300s 92 tok s 190 per million tokens",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw2cop": {
+      "at": "2026-08-23T11:11:28.821083+00:00",
+      "title": "don t want to be this guy but i need qwen 3 8 35b a3b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1241,6 +1261,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vvsm9j/how_to_grow_a_project_d"
     }
   },
-  "updated_at": "2026-08-23T08:16:50.005742+00:00",
+  "updated_at": "2026-08-23T11:11:28.821139+00:00",
   "version": 2
 }

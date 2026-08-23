@@ -89,6 +89,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vw1j2p",
+        "title": "I hosted Kimi K3 (2.8T parameters) using 8 B300s. 92 tok/s, $190 per million tokens",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw1j2p/i_hosted_kimi_k3_28t_parameters_using_8_b300s_92/",
+        "author": "/u/OtherRaisin3426",
+        "published_at": "2026-08-23T08:25:35+00:00"
+      },
+      "insight": {
+        "title_ko": "Kimi K3 모델 호스팅 및 벤치마크 결과",
+        "summary_ko": [
+          "작성자는 8개의 B300 GPU와 vLLM을 활용해 2.8T 파라미터의 Kimi K3 모델을 성공적으로 호스팅했습니다.",
+          "네이티브 MXFP4 포맷을 적용한 결과 초당 92 토큰의 디코딩 속도와 백만 토큰당 190달러의 비용을 기록했습니다.",
+          "또한 Unsloth의 1-bit Dynamic GGUF를 이용해 8x A100-80GB 환경에서 구동한 비교 테스트 결과도 함께 공유했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
