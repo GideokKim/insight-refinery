@@ -1155,6 +1155,26 @@
       "title": "1 100 44 100 fine tuning a 450m vlm on 50k browser screenshots",
       "url": "reddit.com/r/LocalLLaMA/comments/1vw9k4k/1100_44100_finetuning_a_450m_vlm_on_50k_browser"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwde84": {
+      "at": "2026-08-23T23:10:08.647760+00:00",
+      "title": "new qwen3 8 27b on a 39k line c to single file html three js port",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwdsx8": {
+      "at": "2026-08-23T23:10:08.647680+00:00",
+      "title": "nvidia customers notified about ai related price hikes above 15",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwdsx8/nvidia_customers_notified_about_airelated_price"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwh3u7": {
+      "at": "2026-08-23T23:10:08.647750+00:00",
+      "title": "we quantized qwen 3 8 27b and compared the quants on an rtx 6000",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwhj0l": {
+      "at": "2026-08-23T23:10:08.647737+00:00",
+      "title": "you can now use mtp in glm air",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwhj0l/you_can_now_use_mtp_in_glmair"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -1329,8 +1349,18 @@
       "at": "2026-08-23T20:09:06.207248+00:00",
       "title": "archival vs non archival workshop r",
       "url": "reddit.com/r/MachineLearning/comments/1vwb18q/archival_vs_non_archival_workshop_r"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vwfccx": {
+      "at": "2026-08-23T23:10:08.647778+00:00",
+      "title": "colm 2026 registration sold out as an author d",
+      "url": "reddit.com/r/MachineLearning/comments/1vwfccx/colm_2026_registration_sold_out_as_an_author_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vwg5br": {
+      "at": "2026-08-23T23:10:08.647769+00:00",
+      "title": "how to cite talk about preprint subsequent works for a camera ready version r",
+      "url": "reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works"
     }
   },
-  "updated_at": "2026-08-23T20:09:06.207320+00:00",
+  "updated_at": "2026-08-23T23:10:08.647804+00:00",
   "version": 2
 }
