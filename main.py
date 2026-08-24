@@ -16,6 +16,8 @@ import logging
 import sys
 from datetime import datetime, timedelta, timezone
 
+from dotenv import load_dotenv
+
 from core.collectors import build_collectors
 from core.collectors.base import RawItem
 from core.config import DEFAULT_CONFIG_PATH, Config, load_config
@@ -212,6 +214,10 @@ def _notify(
 def main(argv: list[str] | None = None) -> int:
     args = parse_args(argv)
     setup_logging(args.verbose)
+
+    # 로컬 실행 편의. 이미 설정된 환경 변수를 덮어쓰지 않으므로 CI에서는
+    # `.env`가 없어 아무 일도 일어나지 않는다.
+    load_dotenv()
 
     try:
         config = load_config(args.config)
