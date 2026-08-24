@@ -12,7 +12,7 @@ from __future__ import annotations
 
 import json
 import logging
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable, Sequence
 
@@ -152,6 +152,13 @@ def is_digest_due(
     """
     if now.hour < digest_hour:
         return False
-    if last_sent_at is not None and last_sent_at.date() == now.date():
-        return False
-    return True
+    if last_sent_at is None:
+        return True
+
+    # 날짜를 비교하면 안 된다. 발송 시각이 23시 UTC라 날짜 경계와 어긋나서,
+    # 같은 날 낮에 수동 발송을 한 번 하면 그날 저녁 정기 발송이 막힌다.
+    # 기준은 "이번 발송 시각 이후에 이미 보냈는가"다.
+    boundary = now.replace(hour=digest_hour, minute=0, second=0, microsecond=0)
+    if last_sent_at.tzinfo is None:
+        last_sent_at = last_sent_at.replace(tzinfo=timezone.utc)
+    return last_sent_at < boundary
