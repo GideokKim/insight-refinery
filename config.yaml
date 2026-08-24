@@ -214,9 +214,11 @@ sources:
       limit: 15
       user_agent: insight-refinery/0.1 (RSS reader)
 
+  # 관측한 모든 실행에서 429로 막혔고, top/day 항목도 3건 남짓이라 얻는 게 적다.
+  # Reddit이 완화되거나 Data API 승인을 받으면 다시 켠다.
   - name: r/MachineLearning
     type: rss
-    enabled: true
+    enabled: false
     options:
       url: https://www.reddit.com/r/MachineLearning/top/.rss?t=day
       limit: 15
