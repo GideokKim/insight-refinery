@@ -562,6 +562,11 @@
       "title": "quoting drew breunig",
       "url": "simonwillison.net/2026/Aug/23/drew-breunig"
     },
+    "rss:https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": {
+      "at": "2026-08-24T12:07:08.247406+00:00",
+      "title": "your executable is a sqlite database",
+      "url": "simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database"
+    },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
       "title": "wispr raises 280m at 2b valuation as it looks beyond dictation",
@@ -1646,6 +1651,6 @@
       "url": "technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap"
     }
   },
-  "updated_at": "2026-08-24T11:19:10.801044+00:00",
+  "updated_at": "2026-08-24T12:07:08.247503+00:00",
   "version": 2
 }
