@@ -1,5 +1,40 @@
 {
   "ids": {
+    "rss:https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/": {
+      "at": "2026-08-24T11:05:22.951797+00:00",
+      "title": "as demand for meta ai glasses explodes it s harder to avoid creepy recordings",
+      "url": "arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect"
+    },
+    "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
+      "at": "2026-08-24T11:05:22.951784+00:00",
+      "title": "from atari to eve online building on 15 years of ai research in games",
+      "url": "deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121239": {
+      "at": "2026-08-24T11:05:22.951670+00:00",
+      "title": "how generative recommenders are redefining recsys at scale",
+      "url": "developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121508": {
+      "at": "2026-08-24T11:05:22.951539+00:00",
+      "title": "maximizing ai factory performance per watt with nvidia dsx maxlps",
+      "url": "developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121550": {
+      "at": "2026-08-24T11:05:22.951525+00:00",
+      "title": "gpu accelerated clustering for financial instruments at scale",
+      "url": "developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121575": {
+      "at": "2026-08-24T11:05:22.951555+00:00",
+      "title": "nvidia avo reaches 100 on arc agi 3 demonstrating a frontier level general purpose architecture for long horizon autonomous agents",
+      "url": "developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121584": {
+      "at": "2026-08-24T11:05:22.951596+00:00",
+      "title": "where security fits in an ai agent stack",
+      "url": "developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -402,6 +437,56 @@
       "title": "towards demystifying the creativity of diffusion models",
       "url": "research.google/blog/towards-demystifying-the-creativity-of-diffusion-models"
     },
+    "rss:https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": {
+      "at": "2026-08-24T11:05:22.951630+00:00",
+      "title": "chatgpt search now uses the site operator at scale",
+      "url": "simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale"
+    },
+    "rss:https://simonwillison.net/2026/Aug/21/llm-openrouter/": {
+      "at": "2026-08-24T11:05:22.951754+00:00",
+      "title": "llm openrouter 0 7",
+      "url": "simonwillison.net/2026/Aug/21/llm-openrouter"
+    },
+    "rss:https://simonwillison.net/2026/Aug/21/llm/": {
+      "at": "2026-08-24T11:05:22.951743+00:00",
+      "title": "llm 0 32 1",
+      "url": "simonwillison.net/2026/Aug/21/llm"
+    },
+    "rss:https://simonwillison.net/2026/Aug/21/matt-webb/": {
+      "at": "2026-08-24T11:05:22.951775+00:00",
+      "title": "quoting matt webb",
+      "url": "simonwillison.net/2026/Aug/21/matt-webb"
+    },
+    "rss:https://simonwillison.net/2026/Aug/21/stop-making-tuis/": {
+      "at": "2026-08-24T11:05:22.951765+00:00",
+      "title": "stop making tuis",
+      "url": "simonwillison.net/2026/Aug/21/stop-making-tuis"
+    },
+    "rss:https://simonwillison.net/2026/Aug/22/linus-torvalds/": {
+      "at": "2026-08-24T11:05:22.951706+00:00",
+      "title": "quoting linus torvalds",
+      "url": "simonwillison.net/2026/Aug/22/linus-torvalds"
+    },
+    "rss:https://simonwillison.net/2026/Aug/22/llm/": {
+      "at": "2026-08-24T11:05:22.951721+00:00",
+      "title": "llm 0 33",
+      "url": "simonwillison.net/2026/Aug/22/llm"
+    },
+    "rss:https://simonwillison.net/2026/Aug/22/more-than-just-code-review/": {
+      "at": "2026-08-24T11:05:22.951732+00:00",
+      "title": "more than just code review",
+      "url": "simonwillison.net/2026/Aug/22/more-than-just-code-review"
+    },
+    "rss:https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/": {
+      "at": "2026-08-24T11:05:22.951383+00:00",
+      "title": "anthropic s best ai model struggles to attract users as cheaper tools thrive",
+      "url": "simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t"
+    },
+    "rss:https://simonwillison.net/2026/Aug/23/drew-breunig/": {
+      "at": "2026-08-24T11:05:22.951695+00:00",
+      "title": "quoting drew breunig",
+      "url": "simonwillison.net/2026/Aug/23/drew-breunig"
+    },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
       "title": "wispr raises 280m at 2b valuation as it looks beyond dictation",
@@ -640,6 +725,36 @@
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
       "url": "techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute"
+    },
+    "rss:https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x": {
+      "at": "2026-08-24T11:05:22.951477+00:00",
+      "title": "ainews 10 worse 100x cheaper 10000x faster why simulation is taking over",
+      "url": "latent.space/p/ainews-10-worse-100x-cheaper-10000x"
+    },
+    "rss:https://www.latent.space/p/ainews-poolside-gets-12b-reverse": {
+      "at": "2026-08-24T11:05:22.951611+00:00",
+      "title": "ainews poolside gets 12b reverse execuhire to nvidia founders stay for 1b employees go for 6b infraco scaling to 7gw neocloud",
+      "url": "latent.space/p/ainews-poolside-gets-12b-reverse"
+    },
+    "rss:https://www.latent.space/p/attention-interface": {
+      "at": "2026-08-24T11:05:22.951496+00:00",
+      "title": "the evolution of the agent harness",
+      "url": "latent.space/p/attention-interface"
+    },
+    "rss:https://www.latent.space/p/simile": {
+      "at": "2026-08-24T11:05:22.951509+00:00",
+      "title": "simulation the new scaling law joon sung park simile ai",
+      "url": "latent.space/p/simile"
+    },
+    "rss:https://www.latent.space/p/wayfinder-skill": {
+      "at": "2026-08-24T11:05:22.951642+00:00",
+      "title": "the wayfinder skill navigating the fog of war of planning",
+      "url": "latent.space/p/wayfinder-skill"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1184167": {
+      "at": "2026-08-24T11:05:22.951657+00:00",
+      "title": "broadening access to skala creates a faster path to predictive dft",
+      "url": "microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vro3vf": {
       "at": "2026-08-19T12:28:12.501868+00:00",
@@ -1145,6 +1260,11 @@
       "title": "don t want to be this guy but i need qwen 3 8 35b a3b",
       "url": "reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw5q47": {
+      "at": "2026-08-24T11:05:22.951426+00:00",
+      "title": "qwen3 8 27b nvfp4 with vision 451k token kv cache on one rtx 5090 power limited to 400w at 120 tokens s average",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw5q47/qwen3827b_nvfp4_with_vision_451k_token_kvcache_on"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw6nba": {
       "at": "2026-08-24T02:54:34.185244+00:00",
       "title": "qwen3 5 9b triple loop",
@@ -1394,8 +1514,13 @@
       "at": "2026-08-23T23:10:08.647769+00:00",
       "title": "how to cite talk about preprint subsequent works for a camera ready version r",
       "url": "reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works"
+    },
+    "rss:https://www.technologyreview.com/?p=1141740": {
+      "at": "2026-08-24T11:05:22.951681+00:00",
+      "title": "kids outlearn ai and we still don t know why",
+      "url": "technologyreview.com/2026/08/24/1141740/kids-machines-language-learning"
     }
   },
-  "updated_at": "2026-08-24T08:34:55.340710+00:00",
+  "updated_at": "2026-08-24T11:05:22.951844+00:00",
   "version": 2
 }

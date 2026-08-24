@@ -45,6 +45,314 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+        "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+        "author": null,
+        "published_at": "2026-08-23T20:24:52+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic과 OpenAI의 AI 모델 실적 및 사용 현황",
+        "summary_ko": [
+          "Anthropic의 7월 연환산 매출이 650억 달러에 달하고 3분기 흑자 전환이 예상되는 등 가파른 성장세를 보이고 있습니다.",
+          "OpenAI 역시 GPT-5.6의 출시 효과에 힘입어 분기 연환산 매출이 40억 달러를 넘어섰습니다.",
+          "반면 Anthropic의 고가 모델인 Fable 5 등은 높은 비용 부담으로 인해 사용자 확보에 어려움을 겪고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vw5q47",
+        "title": "Qwen3.8-27B NVFP4 with vision + 451K token KV-cache on one RTX 5090 (power limited to 400W) at 120 tokens/s average",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw5q47/qwen3827b_nvfp4_with_vision_451k_token_kvcache_on/",
+        "author": "/u/t4a8945",
+        "published_at": "2026-08-23T12:19:05+00:00"
+      },
+      "insight": {
+        "title_ko": "RTX 5090에서 Qwen3.8-27B NVFP4 구동기",
+        "summary_ko": [
+          "단일 RTX 5090 환경에서 Qwen3.8-27B NVFP4 모델과 비전 기능을 vLLM으로 구현한 사례가 공유되었습니다.",
+          "NVFP4 양자화와 KV-캐시 최적화를 통해 평균 120 tokens/s의 속도와 451K 글로벌 컨텍스트를 달성했습니다.",
+          "Linux 환경에서 다중 세션과 대규모 컨텍스트를 효율적으로 처리하여 실무 코딩 세션에 활용할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+        "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+        "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+        "author": null,
+        "published_at": "2026-08-22T07:36:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 학습 파이프라인의 시뮬레이션 전환",
+        "summary_ko": [
+          "인공지능 파이프라인에서 인간이 만들던 구성 요소들이 점차 모델이 생성하는 시뮬레이션으로 대체되고 있습니다.",
+          "보상 신호, 학습 데이터, 교사 모델, 커리큘럼에 이르기까지 AI가 스스로 생성하고 판단하는 방식으로 진화 중입니다.",
+          "이러한 시뮬레이션 방식은 정확도가 다소 떨어지더라도 비용과 속도 측면에서 압도적인 효율성을 제공합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/attention-interface",
+        "title": "The Evolution of the Agent Harness",
+        "url": "https://www.latent.space/p/attention-interface",
+        "author": "Dan McAteer",
+        "published_at": "2026-08-22T07:30:52+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트 하네스의 진화와 역할",
+        "summary_ko": [
+          "AI 에이전트의 발전은 모델 성능과 주변 시스템인 하네스의 동반 성장에 기인합니다.",
+          "에이전트 하네스는 모델이 디지털 공간에서 도구를 사용하고 기억을 유지하도록 돕는 필수 장치입니다.",
+          "향후 모델이 하네스의 기능을 내재화함에 따라 엔지니어링의 초점은 인간의 주의를 관리하는 데 집중될 것입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/simile",
+        "title": "Simulation: the new Scaling Law — Joon Sung Park, Simile AI",
+        "url": "https://www.latent.space/p/simile",
+        "author": null,
+        "published_at": "2026-08-21T23:37:38+00:00"
+      },
+      "insight": {
+        "title_ko": "시뮬레이션과 행동 기반 파운데이션 모델",
+        "summary_ko": [
+          "Simile AI는 인간 행동을 모사하는 파운데이션 모델을 통해 포춘 100 기업 대상 시뮬레이션 시장에서 주목받고 있습니다.",
+          "기존 LLM은 실제 인간의 비합리성과 사회적 물리학을 온전히 반영하지 못해 별도의 모델 가중치 조정이 필요합니다.",
+          "이 기술은 향후 제품 테스트, 정책 검증, 기후변화 대응 등 다양한 분야에서 실질적 의사결정을 돕는 도구로 확장될 잠재력이 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121550",
+        "title": "GPU-Accelerated Clustering for Financial Instruments at Scale",
+        "url": "https://developer.nvidia.com/blog/gpu-accelerated-clustering-for-financial-instruments-at-scale/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-08-21T16:21:04+00:00"
+      },
+      "insight": {
+        "title_ko": "금융 상품을 위한 GPU 가속 클러스터링",
+        "summary_ko": [
+          "GPU 가속 행렬 분해 알고리즘인 AdaptGrow를 활용해 대규모 금융 상품을 효과적으로 클러스터링합니다.",
+          "롤링 상관관계 및 꼬리 의존성 행렬을 하드 클러스터와 소프트 팩터 로딩 등으로 변환하여 활용합니다.",
+          "퀀트 전략의 포트폴리오 구성과 리스크 집계, 통계적 차익거래 등에 단일 및 다중 GPU 스케일로 적용됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121508",
+        "title": "Maximizing AI Factory Performance per Watt with NVIDIA DSX MaxLPS",
+        "url": "https://developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-08-21T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA DSX MaxLPS로 AI 팩토리 전력 효율 극대화",
+        "summary_ko": [
+          "AI 팩토리는 전력 제약이 심한 산업 시스템으로 전력당 AI 출력 극대화가 핵심 과제로 부상했습니다.",
+          "추론 워크로드 관점에서 애플리케이션 레벨의 전력당 성능은 AI 팩토리 효율성을 측정하는 주요 지표가 됩니다.",
+          "효율적인 전력 분배와 냉각을 통해 전력을 수익성 있는 연산으로 전환하는 방법을 제시합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121575",
+        "title": "NVIDIA AVO Reaches 100% on ARC-AGI-3, Demonstrating a Frontier-Level General-Purpose Architecture for Long-Horizon Autonomous Agents",
+        "url": "https://developer.nvidia.com/blog/nvidia-avo-reaches-100-on-arc-agi-3-demonstrating-a-frontier-level-general-purpose-architecture-for-long-horizon-autonomous-agents/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-08-21T13:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA AVO, ARC-AGI-3 만점 달성",
+        "summary_ko": [
+          "NVIDIA AVO가 ARC-AGI-3에서 100%를 달성하며 장기 자율 에이전트 성능을 입증했습니다.",
+          "프론티어 LLM뿐만 아니라 컨텍스트 처리와 도구 사용 등을 제어하는 에이전트 아키텍처가 중요합니다.",
+          "안정적인 장기 작업 수행을 위해 에이전트 시스템과 하네스 설계의 중요성이 강조되고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121584",
+        "title": "Where Security Fits in an AI Agent Stack",
+        "url": "https://developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack/",
+        "author": "Michelle Horton",
+        "published_at": "2026-08-21T13:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트 스택 내 보안의 역할과 구조",
+        "summary_ko": [
+          "AI 에이전트의 역량이 향상되고 장기 작업을 수행함에 따라 애플리케이션 내 보안과 신뢰성 확보의 중요성이 커지고 있습니다.",
+          "NVIDIA는 OpenShell 및 생태계 파트너들과의 협력을 바탕으로 신흥 AI 에이전트 스택에서의 보안 역할에 대한 관점을 제시합니다.",
+          "개발자들이 안전하고 신뢰할 수 있는 에이전트 애플리케이션을 구축할 수 있도록 스택 각 계층별 보안 적용 방안을 다룹니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+        "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
+        "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse",
+        "author": null,
+        "published_at": "2026-08-21T05:45:21+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA의 Poolside 인력 채용 및 구조조정",
+        "summary_ko": [
+          "NVIDIA는 Poolside의 핵심 기술 인력 109명을 영입하고 라이선스를 체결하는 이른바 역방향 임원 채용을 단행했습니다.",
+          "Poolside 창업자들은 자금 조달 실패와 급증하는 인프라 비용으로 인해 대규모 클러스터 확보에 난항을 겪었습니다.",
+          "이번 거래로 투자자와 직원들은 막대한 보상을 받게 되었으며 회사는 새로운 방향으로의 피봇을 예고했습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+        "title": "ChatGPT search now uses the site:operator at scale",
+        "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/",
+        "author": null,
+        "published_at": "2026-08-20T23:57:32+00:00"
+      },
+      "insight": {
+        "title_ko": "ChatGPT 검색의 site 연산자 대규모 도입",
+        "summary_ko": [
+          "Promptwatch의 추적 데이터에 따르면 ChatGPT Search는 최근 GPT-5.6 업데이트 이후 site 연산자 사용 비율이 크게 급증했습니다.",
+          "자동화된 모니터링 결과 전체 검색 fanout 쿼리 중 site 연산자 비중이 기존 0%대에서 16~17% 수준으로 치솟았습니다.",
+          "이러한 변화는 OpenAI의 제품 업데이트 시점과 일치하며, 검색 도구의 내부 동작 방식과 출처 활용 전략에 변화가 있음을 시사합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/wayfinder-skill",
+        "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
+        "url": "https://www.latent.space/p/wayfinder-skill",
+        "author": "Richard MacManus",
+        "published_at": "2026-08-20T20:59:09+00:00"
+      },
+      "insight": {
+        "title_ko": "불확실한 프로젝트 계획을 위한 wayfinder 스킬 소개",
+        "summary_ko": [
+          "Matt Pocock은 목표가 불분명한 프로젝트에서 AI 에이전트와 함께 계획을 세우는 /wayfinder 스킬을 개발했습니다.",
+          "이 스킬은 컨텍스트 관리와 세션 오케스트레이션을 자동화하여 사용자가 초기 기획 단계에서 겪는 제약을 줄여줍니다.",
+          "중앙 집중식 문서와 명확한 개념 정의를 통해 에이전트가 복잡한 프로젝트 정보를 효율적으로 처리할 수 있도록 돕습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Microsoft Research",
+        "source_type": "rss",
+        "external_id": "https://www.microsoft.com/en-us/research/?p=1184167",
+        "title": "Broadening access to Skala creates a faster path to predictive DFT",
+        "url": "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft/",
+        "author": "Sebastian Ehlert, Stefano Battaglia, Thijs Vogels, Jan Hermann, Jens Wehner, Giulia Luise, Klaas Giesbertz, Chin-Wei Huang, Aaron Kaplan, Kate Milton, Stephanie Marisa Lanius, Derk Kooi, P. Bern&aacute;t Szab&oacute;, Gregor Simm, Rianne van den Berg, Paola Gori Giorgi",
+        "published_at": "2026-08-20T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Skala 1.1 공개와 화학 시뮬레이션 접근성 확대",
+        "summary_ko": [
+          "마이크로소프트 리서치는 기존보다 2.5배 많은 데이터로 학습된 딥러닝 기반 DFT 모델인 Skala 1.1을 발표했습니다.",
+          "Skala 1.1은 열화학, 반응 속도론 등 다양한 분자 시뮬레이션 영역에서 높은 정확도를 기록하며 우수한 성능을 입증했습니다.",
+          "현재 CP2K에서 사용 가능하며 주요 양자 화학 소프트웨어와의 통합을 통해 연구 및 산업계 접근성이 크게 확대되고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121239",
+        "title": "How Generative Recommenders Are Redefining RecSys at Scale",
+        "url": "https://developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-08-20T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "생성형 추천 시스템의 대규모 혁신",
+        "summary_ko": [
+          "추천 시스템(RecSys)은 소비자 인터넷 산업에서 널리 쓰이지만 대규모 학습과 서빙이 매우 까다롭습니다.",
+          "LLM의 등장으로 기존의 임베딩 유사도 기반 방식에서 다음 행동이나 아이템을 예측하는 생성형 방식으로 전환되고 있습니다.",
+          "이러한 생성형 추천 모델은 방대한 카탈로그를 다루는 대규모 시스템의 패러다임을 재정의하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
