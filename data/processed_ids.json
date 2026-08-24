@@ -796,6 +796,11 @@
       "title": "who s behind the new stealth model ox alpha",
       "url": "techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha"
     },
+    "rss:https://techcrunch.com/?p=3155919": {
+      "at": "2026-08-24T14:31:05.039851+00:00",
+      "title": "hugging face reportedly in talks to be acquired for 13b",
+      "url": "techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1425,10 +1430,20 @@
       "title": "deepseek v4 flash 0731 surprisingly usable",
       "url": "reddit.com/r/LocalLLaMA/comments/1vwsjut/deepseekv4flash0731_surprisingly_usable"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwv6j1": {
+      "at": "2026-08-24T14:31:05.039897+00:00",
+      "title": "hugging face for sales",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwv6j1/hugging_face_for_sales"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwvghi": {
       "at": "2026-08-24T08:34:55.340624+00:00",
       "title": "xiaomi ai cube announced with 1 2tb s memory bandwidth",
       "url": "reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx15zb": {
+      "at": "2026-08-24T14:31:05.039920+00:00",
+      "title": "who would buy huggingface",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx15zb/who_would_buy_huggingface"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1651,6 +1666,6 @@
       "url": "technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap"
     }
   },
-  "updated_at": "2026-08-24T12:07:08.247503+00:00",
+  "updated_at": "2026-08-24T14:31:05.039959+00:00",
   "version": 2
 }

@@ -573,6 +573,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3155919",
+        "title": "Hugging Face reportedly in talks to be acquired for $13B",
+        "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-08-24T13:47:26+00:00"
+      },
+      "insight": {
+        "title_ko": "Hugging Face, 130억 달러 규모 인수 협상설",
+        "summary_ko": [
+          "Hugging Face가 130억 달러 규모의 기업 가치로 인수 제안을 받고 협상 중인 것으로 알려졌다.",
+          "그러나 창립자들의 오픈소스 커뮤니티에 대한 책임감 때문에 실제 매각 성사 여부는 불투명한 상황이다.",
+          "이번 인수설은 AI 생태계에서 허브 역할을 하는 주요 기업의 향후 거취에 대한 업계의 관심을 모으고 있다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
