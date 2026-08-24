@@ -5,6 +5,11 @@
       "title": "venturebeat names rob strechay as its first lead analyst expanding its enterprise ai research push",
       "url": "venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
     },
+    "rss:https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": {
+      "at": "2026-08-24T23:12:53.552619+00:00",
+      "title": "ai is hitting entry level jobs hardest stanford study finds",
+      "url": "arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
+    },
     "rss:https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/": {
       "at": "2026-08-24T11:19:10.800837+00:00",
       "title": "meta ran ads for an app promising to nudify female politicians",
@@ -886,6 +891,11 @@
       "title": "amjad masad ceo and co founder of replit joins the disrupt stage at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026"
     },
+    "rss:https://techcrunch.com/?p=3156185": {
+      "at": "2026-08-24T23:12:53.552719+00:00",
+      "title": "trump bought spacex shares two weeks after blockbuster ipo",
+      "url": "techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1560,10 +1570,25 @@
       "title": "apple m5 server",
       "url": "reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx7aci": {
+      "at": "2026-08-24T23:12:53.552698+00:00",
+      "title": "bart a vintage llm",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx7aci/bart_a_vintage_llm"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx7pdh": {
       "at": "2026-08-24T17:21:43.070883+00:00",
       "title": "qwen 3 8 27b in 9th position on code arena gemma 4 31b is 80th",
       "url": "reddit.com/r/LocalLLaMA/comments/1vx7pdh/qwen_38_27b_in_9th_position_on_code_arena_gemma_4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxdvmv": {
+      "at": "2026-08-24T23:12:53.552675+00:00",
+      "title": "jetbrains local ai using qwen3 6 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxdvmv/jetbrains_local_ai_using_qwen36_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxescz": {
+      "at": "2026-08-24T23:12:53.552736+00:00",
+      "title": "copilot you say",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxescz/copilot_you_say"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1791,6 +1816,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-24T20:16:52.945270+00:00",
+  "updated_at": "2026-08-24T23:12:53.552791+00:00",
   "version": 2
 }
