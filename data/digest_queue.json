@@ -793,6 +793,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/gpt-5-6-in-kiro",
+        "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro",
+        "author": null,
+        "published_at": "2026-08-24T12:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Kiro에 탑재된 GPT-5.6 출시",
+        "summary_ko": [
+          "OpenAI는 개발자를 위한 GPT-5.6 모델이 Kiro에 새롭게 출시되었다고 발표했다.",
+          "이번 업데이트는 소프트웨어 계획, 빌드, 리뷰 및 테스트 과정에서 향상된 가격 대비 성능을 제공한다.",
+          "개발자들은 이를 통해 더욱 효율적이고 경제적으로 애플리케이션을 개발하고 검증할 수 있게 되었다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

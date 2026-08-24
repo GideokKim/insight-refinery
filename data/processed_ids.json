@@ -346,6 +346,26 @@
       "title": "ai boosted homework scores by 18 then exam scores dropped 20 study shows",
       "url": "canews24.online/?p=71"
     },
+    "rss:https://news.ycombinator.com/item?id=49405657": {
+      "at": "2026-08-24T20:16:52.945220+00:00",
+      "title": "ai chip architectures",
+      "url": "jepeake.com/ai-chip-architectures"
+    },
+    "rss:https://news.ycombinator.com/item?id=49409073": {
+      "at": "2026-08-24T20:16:52.945152+00:00",
+      "title": "i spent 266 and four ai models to own my tablet glm 5 3 finished it in a day",
+      "url": "ericpardee.github.io/fire-hd-ownership"
+    },
+    "rss:https://news.ycombinator.com/item?id=49413561": {
+      "at": "2026-08-24T20:16:52.945211+00:00",
+      "title": "i built a low latency ai companion that plays skyrim with me",
+      "url": "pantel.is/projects/ai-gaming-companion"
+    },
+    "rss:https://news.ycombinator.com/item?id=49421554": {
+      "at": "2026-08-24T20:16:52.945126+00:00",
+      "title": "coding expertise is going to collapse from ai reliance",
+      "url": "larsfaye.com/articles/ai-coding-will-prevent-expertise"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -368,6 +388,11 @@
       "at": "2026-08-19T14:23:12.191402+00:00",
       "title": "openai appoints dali rajic as chief revenue officer",
       "url": "openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    "rss:https://openai.com/index/gpt-5-6-in-kiro": {
+      "at": "2026-08-24T20:16:52.945057+00:00",
+      "title": "advancing price performance for developers with gpt 5 6 in kiro",
+      "url": "openai.com/index/gpt-5-6-in-kiro"
     },
     "rss:https://openai.com/index/how-enterprises-put-ai-to-work": {
       "at": "2026-08-19T17:19:19.683319+00:00",
@@ -592,6 +617,11 @@
       "title": "quoting drew breunig",
       "url": "simonwillison.net/2026/Aug/23/drew-breunig"
     },
+    "rss:https://simonwillison.net/2026/Aug/24/llm-anthropic/": {
+      "at": "2026-08-24T20:16:52.945200+00:00",
+      "title": "llm anthropic 0 27",
+      "url": "simonwillison.net/2026/Aug/24/llm-anthropic"
+    },
     "rss:https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database/": {
       "at": "2026-08-24T12:07:08.247406+00:00",
       "title": "your executable is a sqlite database",
@@ -806,6 +836,11 @@
       "title": "nvidia partners with data center developer cloverleaf",
       "url": "techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf"
     },
+    "rss:https://techcrunch.com/?p=3155800": {
+      "at": "2026-08-24T20:16:52.945167+00:00",
+      "title": "michael polansky is training an ai model on skin that s still alive",
+      "url": "techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive"
+    },
     "rss:https://techcrunch.com/?p=3155841": {
       "at": "2026-08-22T17:10:29.602228+00:00",
       "title": "openai says california should strengthen its ai safety bill",
@@ -836,10 +871,20 @@
       "title": "hugging face reportedly in talks to be acquired for 13b",
       "url": "techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b"
     },
+    "rss:https://techcrunch.com/?p=3155931": {
+      "at": "2026-08-24T20:16:52.945107+00:00",
+      "title": "instinct s powerful ai assistant is raising privacy and security concerns",
+      "url": "techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns"
+    },
     "rss:https://techcrunch.com/?p=3155937": {
       "at": "2026-08-24T17:21:43.070897+00:00",
       "title": "valor point72 back general intuition at 6b valuation as ai startup pushes into robotics",
       "url": "techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics"
+    },
+    "rss:https://techcrunch.com/?p=3156061": {
+      "at": "2026-08-24T20:16:52.945180+00:00",
+      "title": "amjad masad ceo and co founder of replit joins the disrupt stage at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1490,6 +1535,11 @@
       "title": "i irradiated llms and found that they die really quickly",
       "url": "reddit.com/r/LocalLLaMA/comments/1vx2fhz/i_irradiated_llms_and_found_that_they_die_really"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx2yg4": {
+      "at": "2026-08-24T20:16:52.945139+00:00",
+      "title": "iphone local tts epub reading audiobookify",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx2yg4/iphone_local_tts_epub_reading_audiobookify"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx33zj": {
       "at": "2026-08-24T17:21:43.070867+00:00",
       "title": "tielcoder s 22 gb 4 bit quant matches opus4 6 medium on recent real life coding issues surpassing kat coder and nail as strongest and fastest moe picks",
@@ -1741,6 +1791,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-24T17:21:43.070987+00:00",
+  "updated_at": "2026-08-24T20:16:52.945270+00:00",
   "version": 2
 }
