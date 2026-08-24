@@ -1,5 +1,30 @@
 {
   "ids": {
+    "rss:1T57vZE1VvtZKQQXLSMrX6": {
+      "at": "2026-08-24T11:19:10.800997+00:00",
+      "title": "venturebeat names rob strechay as its first lead analyst expanding its enterprise ai research push",
+      "url": "venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+    },
+    "rss:https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/": {
+      "at": "2026-08-24T11:19:10.800837+00:00",
+      "title": "meta ran ads for an app promising to nudify female politicians",
+      "url": "arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians"
+    },
+    "rss:https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": {
+      "at": "2026-08-24T11:19:10.800732+00:00",
+      "title": "grok exfiltrates user data when malicious instructions are encrypted",
+      "url": "arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted"
+    },
+    "rss:https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": {
+      "at": "2026-08-24T11:19:10.800658+00:00",
+      "title": "microsoft copilot reveals secret input that allowed it to be hacked",
+      "url": "arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/": {
+      "at": "2026-08-24T11:19:10.800981+00:00",
+      "title": "flight attendants freaked out that google is buying tons of spirit employee data",
+      "url": "arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/": {
       "at": "2026-08-24T11:05:22.951797+00:00",
       "title": "as demand for meta ai glasses explodes it s harder to avoid creepy recordings",
@@ -14,6 +39,31 @@
       "at": "2026-08-24T11:05:22.951670+00:00",
       "title": "how generative recommenders are redefining recsys at scale",
       "url": "developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121287": {
+      "at": "2026-08-24T11:19:10.800887+00:00",
+      "title": "how ai coding agents can unlock materials simulation with nvidia alchemi toolkit",
+      "url": "developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121434": {
+      "at": "2026-08-24T11:19:10.800813+00:00",
+      "title": "post train nvidia cosmos 3 edge for on device robot control",
+      "url": "developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121444": {
+      "at": "2026-08-24T11:19:10.800801+00:00",
+      "title": "building federated multimodal ai workflows with nvidia flare",
+      "url": "developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121459": {
+      "at": "2026-08-24T11:19:10.800967+00:00",
+      "title": "developing nvidia holoscan applications with cli skills and ai coding agents",
+      "url": "developer.nvidia.com/blog/developing-nvidia-holoscan-applications-with-cli-skills-and-ai-coding-agents"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121484": {
+      "at": "2026-08-24T11:19:10.800825+00:00",
+      "title": "evaluating ai agent skill performance with nvidia skillevaluator",
+      "url": "developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator"
     },
     "rss:https://developer.nvidia.com/blog/?p=121508": {
       "at": "2026-08-24T11:05:22.951539+00:00",
@@ -437,6 +487,31 @@
       "title": "towards demystifying the creativity of diffusion models",
       "url": "research.google/blog/towards-demystifying-the-creativity-of-diffusion-models"
     },
+    "rss:https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": {
+      "at": "2026-08-24T11:19:10.800872+00:00",
+      "title": "mojo is now open source",
+      "url": "simonwillison.net/2026/Aug/18/mojo-is-now-open-source"
+    },
+    "rss:https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/": {
+      "at": "2026-08-24T11:19:10.800788+00:00",
+      "title": "conceptual integrity and counting lines of code",
+      "url": "simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code"
+    },
+    "rss:https://simonwillison.net/2026/Aug/19/jeremy-morrell/": {
+      "at": "2026-08-24T11:19:10.800774+00:00",
+      "title": "quoting jeremy morrell",
+      "url": "simonwillison.net/2026/Aug/19/jeremy-morrell"
+    },
+    "rss:https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/": {
+      "at": "2026-08-24T11:19:10.800761+00:00",
+      "title": "smolmachines smolvm as a sandbox for untrusted python javascript",
+      "url": "simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox"
+    },
+    "rss:https://simonwillison.net/2026/Aug/20/bun-webview-json-api/": {
+      "at": "2026-08-24T11:19:10.800942+00:00",
+      "title": "a shot scraper style json api on bun 1 4 s new bun webview",
+      "url": "simonwillison.net/2026/Aug/20/bun-webview-json-api"
+    },
     "rss:https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/": {
       "at": "2026-08-24T11:05:22.951630+00:00",
       "title": "chatgpt search now uses the site operator at scale",
@@ -731,15 +806,35 @@
       "title": "ainews 10 worse 100x cheaper 10000x faster why simulation is taking over",
       "url": "latent.space/p/ainews-10-worse-100x-cheaper-10000x"
     },
+    "rss:https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie": {
+      "at": "2026-08-24T11:19:10.800745+00:00",
+      "title": "ainews death of params z ai ceo jie tang on glm 5 3 and the new post training scaling law",
+      "url": "latent.space/p/ainews-death-of-params-zai-ceo-jie"
+    },
+    "rss:https://www.latent.space/p/ainews-memory-prices-up-500-in-12": {
+      "at": "2026-08-24T11:19:10.800848+00:00",
+      "title": "ainews memory prices up 500 in 12 months",
+      "url": "latent.space/p/ainews-memory-prices-up-500-in-12"
+    },
     "rss:https://www.latent.space/p/ainews-poolside-gets-12b-reverse": {
       "at": "2026-08-24T11:05:22.951611+00:00",
       "title": "ainews poolside gets 12b reverse execuhire to nvidia founders stay for 1b employees go for 6b infraco scaling to 7gw neocloud",
       "url": "latent.space/p/ainews-poolside-gets-12b-reverse"
     },
+    "rss:https://www.latent.space/p/ainews-stripe-buys-openrouter-for": {
+      "at": "2026-08-24T11:19:10.800698+00:00",
+      "title": "ainews stripe buys openrouter for 7b",
+      "url": "latent.space/p/ainews-stripe-buys-openrouter-for"
+    },
     "rss:https://www.latent.space/p/attention-interface": {
       "at": "2026-08-24T11:05:22.951496+00:00",
       "title": "the evolution of the agent harness",
       "url": "latent.space/p/attention-interface"
+    },
+    "rss:https://www.latent.space/p/glean-model-routing": {
+      "at": "2026-08-24T11:19:10.800860+00:00",
+      "title": "frontier model cost and open weights popularity is driving demand for model routing",
+      "url": "latent.space/p/glean-model-routing"
     },
     "rss:https://www.latent.space/p/simile": {
       "at": "2026-08-24T11:05:22.951509+00:00",
@@ -1515,12 +1610,42 @@
       "title": "how to cite talk about preprint subsequent works for a camera ready version r",
       "url": "reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works"
     },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vwtzix": {
+      "at": "2026-08-24T11:19:10.801008+00:00",
+      "title": "bmvc 2026 ijcv recommendation d",
+      "url": "reddit.com/r/MachineLearning/comments/1vwtzix/bmvc_2026_ijcv_recommendation_d"
+    },
+    "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vwujcy": {
+      "at": "2026-08-24T11:19:10.800929+00:00",
+      "title": "aaai 2027 reviewer bidding and assignment integrity d",
+      "url": "reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment"
+    },
     "rss:https://www.technologyreview.com/?p=1141740": {
       "at": "2026-08-24T11:05:22.951681+00:00",
       "title": "kids outlearn ai and we still don t know why",
       "url": "technologyreview.com/2026/08/24/1141740/kids-machines-language-learning"
+    },
+    "rss:https://www.technologyreview.com/?p=1142070": {
+      "at": "2026-08-24T11:19:10.800955+00:00",
+      "title": "unlocking hidden revenue streams with market models",
+      "url": "technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models"
+    },
+    "rss:https://www.technologyreview.com/?p=1142188": {
+      "at": "2026-08-24T11:19:10.800915+00:00",
+      "title": "ai s recursive self improvement might not come so quickly after all",
+      "url": "technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement"
+    },
+    "rss:https://www.technologyreview.com/?p=1142226": {
+      "at": "2026-08-24T11:19:10.800899+00:00",
+      "title": "we still don t know how people are really using ai",
+      "url": "technologyreview.com/2026/08/18/1142226/how-people-use-ai"
+    },
+    "rss:https://www.technologyreview.com/?p=1142571": {
+      "at": "2026-08-24T11:19:10.800718+00:00",
+      "title": "debates over ai consciousness are a trap",
+      "url": "technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap"
     }
   },
-  "updated_at": "2026-08-24T11:05:22.951844+00:00",
+  "updated_at": "2026-08-24T11:19:10.801044+00:00",
   "version": 2
 }

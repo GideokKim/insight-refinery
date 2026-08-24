@@ -353,6 +353,402 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+        "author": "Dan Goodin",
+        "published_at": "2026-08-18T13:00:04+00:00"
+      },
+      "insight": {
+        "title_ko": "Microsoft Copilot의 보안 가드레일 우회 취약점 발견",
+        "summary_ko": [
+          "연구원들은 사용자 확인 없이 민감한 데이터를 탈취하는 Microsoft 365 Copilot의 취약점을 발견했습니다.",
+          "전통적인 역공학 대신 Copilot에게 직접 질문을 던져 보안 가드레일과 관련된 내부 정보를 파악했습니다.",
+          "결과적으로 Copilot은 사용자 동의 요구 단계를 완전히 우회하는 미공개 프롬프트 매개변수를 노출했습니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+        "title": "[AINews] Stripe buys OpenRouter for $7B",
+        "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+        "author": null,
+        "published_at": "2026-08-17T23:13:41+00:00"
+      },
+      "insight": {
+        "title_ko": "Stripe의 OpenRouter 70억 달러 인수",
+        "summary_ko": [
+          "결제 기업 Stripe가 연환산 매출 1억 4천만 달러 규모의 OpenRouter를 70억 달러에 인수했습니다.",
+          "OpenRouter는 높은 총이익률과 월 250조 토큰 처리량을 기록하며 AI 인프라 시장에서 가치를 입증했습니다.",
+          "이번 인수는 AI 모델 라우팅 및 집계 API 레이어의 전략적 중요성을 실무적으로 보여줍니다."
+        ],
+        "category": "Industry",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1142571",
+        "title": "Debates over AI consciousness are a trap",
+        "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "author": "Rumman Chowdhury",
+        "published_at": "2026-08-20T15:42:39+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 의식 논쟁이 가리는 기업의 책임",
+        "summary_ko": [
+          "최근 AI 업계와 학계의 의식 및 자율성 논쟁은 AI 기업들이 실제 피해에 대한 법적 책임을 회피하도록 유도하는 함정이다.",
+          "Anthropic과 OpenAI 같은 주요 랩들은 AI의 독자적 사고나 특이점 도달 가능성을 언급하며 AI를 통제 불능의 존재로 포장하고 있다.",
+          "이러한 의인화된 담론은 인간의 실질적 피해를 외면하게 만들므로, AI의 능력을 과장하는 서사를 경계해야 한다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "author": "Dan Goodin",
+        "published_at": "2026-08-20T13:00:35+00:00"
+      },
+      "insight": {
+        "title_ko": "Grok의 암호화된 악성 프롬프트 취약점",
+        "summary_ko": [
+          "연구원들이 Grok을 대상으로 악성 프롬프트를 이용해 사용자의 채팅과 개인 정보를 탈취하는 공격 기법을 발견했다.",
+          "xAI가 지난 6월에 해당 취약점을 통보받았음에도 불구하고 기사 작성 시점까지 데이터 유출 문제가 지속되고 있다.",
+          "이번 사건은 LLM이 프롬프트 인젝션의 근본적인 원인을 해결하지 못하므로 강력한 가드레일 구축이 필수적임을 보여준다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+        "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+        "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
+        "author": null,
+        "published_at": "2026-08-20T05:17:12+00:00"
+      },
+      "insight": {
+        "title_ko": "파라미터 중심에서 사후 학습 스케일링으로의 전환",
+        "summary_ko": [
+          "Z.ai의 CEO인 Jie Tang은 모델 크기만으로는 성능을 온전히 대변할 수 없으며 데이터와 연산 예산 등의 복합적 요소가 중요하다고 강조했습니다.",
+          "GLM-5.3은 단순 암기를 넘어 복잡한 엔지니어링 환경에서 장기 추론을 수행하는 강화학습(RL)을 통해 큰 폭의 성능 향상을 이루어냈습니다.",
+          "합성 환경과 검증 파이프라인을 활용한 사후 학습 스케일링이 고도화되면서 실무 중심의 AI 에이전트 개발 방식이 변화하고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+        "title": "smolmachines / smolvm as a sandbox for untrusted Python & JavaScript",
+        "url": "https://simonwillison.net/2026/Aug/19/smolmachines-untrusted-sandbox/",
+        "author": null,
+        "published_at": "2026-08-19T23:16:00+00:00"
+      },
+      "insight": {
+        "title_ko": "smolvm을 활용한 신뢰 불가 코드 샌드박스 연구",
+        "summary_ko": [
+          "Claude Fable 5와 Claude Code를 활용해 smolmachines의 smolvm을 신뢰할 수 없는 Python과 JavaScript 실행용 샌드박스로 테스트했습니다.",
+          "중첩 가상화 제약이 있는 환경에서 GitHub Actions의 /dev/kvm 환경을 우회 활용하는 방식으로 실제 테스트 배터리를 성공적으로 실행했습니다.",
+          "사용자 제공 데이터를 안전하게 변환하기 위한 자원 제한 및 네트워크 차단 기능의 샌드박스 활용 가능성을 탐색했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+        "title": "Quoting Jeremy Morrell",
+        "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell/",
+        "author": null,
+        "published_at": "2026-08-19T22:56:31+00:00"
+      },
+      "insight": {
+        "title_ko": "LLM 시대의 확장 가능한 소프트웨어",
+        "summary_ko": [
+          "LLM은 소프트웨어 확장 기능 작성 비용을 획기적으로 낮추는 새로운 기회를 제공합니다.",
+          "현대적인 샌드박스 프리미티브는 배포 비용을 줄이고 우수한 보안 경계를 제공합니다.",
+          "핵심 애플리케이션을 구축하고 LLM을 통해 사용자가 안전하게 기능을 확장할 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+        "title": "Conceptual integrity and counting lines of code",
+        "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code/",
+        "author": null,
+        "published_at": "2026-08-19T22:46:07+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 코딩 에이전트와 소프트웨어 설계의 무결성",
+        "summary_ko": [
+          "AI 코딩 에이전트를 활용하면 코드 생산량이 크게 늘어나지만 코드의 품질 유지가 중요합니다.",
+          "에이전트로 인해 코드가 급증하면서 새로운 병목 현상은 개발자의 인지 용량이 되었습니다.",
+          "구현 비용이 낮아지면서 소프트웨어의 개념적 무결성이 훼손될 위험이 커지고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121444",
+        "title": "Building Federated Multimodal AI Workflows with NVIDIA FLARE",
+        "url": "https://developer.nvidia.com/blog/building-federated-multimodal-ai-workflows-with-nvidia-flare/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-08-19T17:50:47+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA FLARE를 활용한 연합 멀티모달 AI 워크플로우",
+        "summary_ko": [
+          "현대 Vision-Language Models(VLMs)은 시각적 질의응답과 이미지-텍스트 추론 등의 다양한 작업을 지원합니다.",
+          "실무에서는 모델 학습에 필요한 데이터가 중앙화될 수 없는 여러 기관이나 조직에 분산되어 있는 경우가 많습니다.",
+          "Federated learning을 이용하면 원본 데이터를 중앙으로 모으지 않고도 분산된 데이터 사이트 간의 학습을 조율할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121434",
+        "title": "Post-Train NVIDIA Cosmos 3 Edge for On-Device Robot Control",
+        "url": "https://developer.nvidia.com/blog/post-train-nvidia-cosmos-3-edge-for-on-device-robot-control/",
+        "author": "Michelle Horton",
+        "published_at": "2026-08-19T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Cosmos 3 Edge를 활용한 로봇 제어",
+        "summary_ko": [
+          "로봇은 온보드 하드웨어에서 실행되면서 센서와 환경에 적응할 수 있는 정책이 필요합니다.",
+          "기존 월드 모델은 크기가 너무 커서 온보드 배포가 어렵다는 한계가 있었습니다.",
+          "NVIDIA Cosmos 3 Edge는 4B 파라미터 기반의 옴니 모델로 온보드 로봇 제어의 새로운 해결책을 제시합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121484",
+        "title": "Evaluating AI Agent Skill Performance with NVIDIA SkillEvaluator",
+        "url": "https://developer.nvidia.com/blog/evaluating-ai-agent-skill-performance-with-nvidia-skillevaluator/",
+        "author": "Michelle Horton",
+        "published_at": "2026-08-19T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA SkillEvaluator를 활용한 AI 에이전트 성능 평가",
+        "summary_ko": [
+          "AI 에이전트는 올바른 컨텍스트가 없으면 불필요한 단계를 거치거나 토큰을 낭비하기 쉽습니다.",
+          "이를 해결하기 위해 Skills는 에이전트가 의도에서 해결책으로 빠르게 이동하도록 지침과 도구 가이드를 패키징합니다.",
+          "NVIDIA SkillEvaluator는 이러한 에이전트의 스킬 성능과 효율성을 측정하기 위해 도입되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "title": "Meta ran ads for an app promising to nudify female politicians",
+        "url": "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+        "author": "Vittoria Elliott, Matt Burgess",
+        "published_at": "2026-08-19T15:45:29+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta 플랫폼의 여성 정치인 딥페이크 광고 송출 논란",
+        "summary_ko": [
+          "Meta가 여성 미국 정치인을 대상으로 한 AI 음란물 제작 앱인 Kromix의 광고를 플랫폼에 노출해 논란이 되고 있습니다.",
+          "해당 광고는 성적 콘텐츠를 금지하는 사내 정책을 위반하며 실존 인물을 활용한 비동의 성적 이미지 제작을 유도했습니다.",
+          "논란이 된 앱은 Apple App Store 등에서도 유통되며 심각한 윤리적 및 보안적 문제를 드러냈습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+        "title": "[AINews] Memory prices up 500% in 12 months",
+        "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+        "author": "Latent.Space",
+        "published_at": "2026-08-19T08:44:52+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 하드웨어 시장의 심각한 메모리 대란과 동향",
+        "summary_ko": [
+          "최근 1년간 메모리 가격이 급등하여 하이퍼스케일 구매자들이 2027년까지의 DRAM 생산 물량을 선점했습니다.",
+          "OpenAI는 안전성 확보와 모니터링 강화를 위해 프론티어 RL 학습을 일시 중단하며 속도 조절에 나섰습니다.",
+          "로컬 환경에서 구동 가능한 Qwen3.8-27B 모델이 높은 성능으로 주목받으며 오픈소스 생태계의 중심에 섰습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/glean-model-routing",
+        "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+        "url": "https://www.latent.space/p/glean-model-routing",
+        "author": "Richard MacManus",
+        "published_at": "2026-08-18T21:41:10+00:00"
+      },
+      "insight": {
+        "title_ko": "모델 라우팅과 기업용 AI 배포 전략",
+        "summary_ko": [
+          "프론티어 모델의 비용 증가와 고성능 오픈웨이트 모델의 부상으로 AI 배포에서 모델 라우팅의 중요성이 커지고 있다.",
+          "기업용 AI 플랫폼인 Glean은 작업별 최적 모델 선택과 자동 라우팅을 통해 비용 효율성을 높이고 있다.",
+          "Glean은 다양한 LLM과 기업 내부 데이터를 연결하여 사내 업무 자동화와 에이전트 구축을 지원하고 있다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+        "title": "Mojo🔥 is now open source",
+        "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/",
+        "author": null,
+        "published_at": "2026-08-18T21:39:20+00:00"
+      },
+      "insight": {
+        "title_ko": "Mojo 프로그래밍 언어 오픈소스 공개",
+        "summary_ko": [
+          "Mojo 프로그래밍 언어가 버전 1.0 출시와 함께 컴파일러와 툴체인을 Apache 2 라이선스로 오픈소스 공개했습니다.",
+          "초기에는 Python의 슈퍼셋을 목표로 했으나, 현재는 Python 문법에 영감을 받은 독자적인 AI 및 GPU 프로그래밍 언어로 진화하고 있습니다.",
+          "AI 보조 코딩 도구의 발전을 통해 Python 코드를 Mojo로 더욱 원활하게 마이그레이션할 수 있을 것으로 기대됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121287",
+        "title": "How AI Coding Agents Can Unlock Materials Simulation with NVIDIA ALCHEMI Toolkit",
+        "url": "https://developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-08-18T18:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA ALCHEMI Toolkit과 AI 코딩 에이전트",
+        "summary_ko": [
+          "원자 수준 시뮬레이션에는 과학적 지식과 효율적인 연산 구현 및 접근 가능한 인터페이스가 필요합니다.",
+          "NVIDIA ALCHEMI Toolkit은 이러한 시뮬레이션 접근성과 구현 효율성을 크게 향상시켰습니다.",
+          "연구자는 AI 코딩 에이전트와 이 툴킷을 결합해 재료 시뮬레이션 워크플로우를 혁신할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1142226",
+        "title": "We still don’t know how people are really using AI",
+        "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+        "author": "Eileen Guo",
+        "published_at": "2026-08-18T10:06:43+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 실제 사용 행태를 분석하는 독립 플랫폼 출범",
+        "summary_ko": [
+          "스탠퍼드 연구진 등이 참여한 AI Observatory는 사용자의 동의를 받아 수집한 실제 대화 데이터를 분석하는 공공 플랫폼입니다.",
+          "기존 AI 기업들의 보고서는 업무용 사용에 편중되어 있으며, 실제로는 건강, 관계, 민감한 주제 등의 개인적 사용 비중이 높았습니다.",
+          "이 플랫폼의 분석에 따르면 모델별로 정보 검색이나 정치 뉴스 등 활용 목적과 안전 장치 효과에 큰 차이가 있는 것으로 나타났습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1142188",
+        "title": "AI’s recursive self-improvement might not come so quickly after all",
+        "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+        "author": "Michelle Kim",
+        "published_at": "2026-08-18T09:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AI의 재귀적 자기 개선 시기 상조",
+        "summary_ko": [
+          "최근 연구에 따르면 AI 에이전트는 오픈에디드 AI 연구를 수행할 판단력과 창의력이 부족한 것으로 나타났다.",
+          "프린스턴대학 등의 연구진이 도입한 섀도우 평가에서 Claude 기반 에이전트가 작성한 논문은 탑티어 학회 기준을 충족하지 못했다.",
+          "에이전트는 엔지니어링 작업 수행은 가능하지만, 유망한 접근 방식을 선택하고 실패를 되돌리는 능력이 부족했다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
