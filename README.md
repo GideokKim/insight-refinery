@@ -28,7 +28,9 @@ collectors → dedup → processor(LLM) → 임계치 필터 → notifier
 
 ```
 insight-refinery/
-├── .github/workflows/pipeline.yml  # cron 실행 + 캐시 자동 커밋
+├── .github/workflows/
+│   ├── pipeline.yml                # cron 실행 + 상태 자동 커밋
+│   └── ci.yml                      # push·PR마다 테스트
 ├── core/
 │   ├── collectors/                 # 소스별 수집기
 │   │   ├── base.py                 #   Collector 인터페이스 + RawItem + 레지스트리
@@ -42,6 +44,7 @@ insight-refinery/
 ├── data/                           # 실행 간 상태 (커밋 대상)
 │   ├── processed_ids.json          #   중복 방지 캐시
 │   └── digest_queue.json           #   발송 대기 중인 요약
+├── tests/                          # pytest (네트워크·자격 증명 불필요)
 ├── config.yaml                     # 소스 목록 및 임계치
 ├── main.py                         # 엔트리포인트
 └── requirements.txt
@@ -236,6 +239,21 @@ sources:
 4. `config.yaml`의 `sources`에 항목 추가
 
 `type` 선언과 동시에 레지스트리에 등록되므로 그 외 배선은 필요 없다.
+
+## 테스트
+
+```bash
+pip install -r requirements-dev.txt
+pytest
+```
+
+외부 호출은 전부 대역으로 바꾸므로 네트워크도 API 키도 필요 없고, 전체가 1초 안에
+끝난다. push와 PR마다 CI에서 같은 명령이 돈다.
+
+`tests/test_digest.py`와 `tests/test_pipeline.py`의 일부는 실제로 메일이 나가지
+않았던 두 사고를 고정한 것이다. 하나는 이번 실행에 해당 항목이 없으면 채널을
+통째로 건너뛰어 대기열이 남은 건이고, 다른 하나는 UTC 날짜로 발송 여부를 판단해
+낮에 수동 발송을 하면 그날 저녁 정기 발송이 막힌 건이다.
 
 ## 알아둘 점
 
