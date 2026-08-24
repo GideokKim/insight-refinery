@@ -595,6 +595,204 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+        "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+        "url": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-08-24T16:41:45+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia·Supermicro 연루 대만 AI 서버 밀반출 기소",
+        "summary_ko": [
+          "대만 검찰이 미국 수출 통제를 위반하여 고성능 AI 서버를 중국에 불법 수출한 혐의로 9명을 기소했습니다.",
+          "기소된 인원에는 Nvidia 시니어 매니저와 Supermicro 직원들이 포함된 것으로 알려졌습니다.",
+          "이번 사건은 미국이 국가 안보를 위해 대중국 반도체 수출을 제한한 가운데 발생한 대만 당국의 독자 수사 결과입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121595",
+        "title": "Giga-Scale AI and the Ethernet Evolution: How Spectrum-X Ethernet Rewrites the Rules",
+        "url": "https://developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-08-24T15:08:39+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 확장에 따른 Spectrum-X 이더넷의 역할",
+        "summary_ko": [
+          "생성형 AI의 폭발적인 성장은 대규모 데이터센터 설계와 네트워크 구조의 전면적인 변화를 요구하고 있습니다.",
+          "수십만 개의 GPU를 연결하여 분산 모델 학습을 진행할 때 스케일아웃 네트워크가 주요 성능 병목 현상으로 부상했습니다.",
+          "기존의 표준 이더넷을 대체하는 새로운 네트워킹 기술이 기가스케일 AI 환경의 성능 한계를 극복하기 위해 주목받고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121715",
+        "title": "NVIDIA Vera Rubin and Blackwell Set a New Standard for Agentic AI Performance per Watt",
+        "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-08-24T15:00:05+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Vera Rubin과 Blackwell",
+        "summary_ko": [
+          "AI 에이전트의 발전으로 인퍼런스가 단일 턴에서 다중 단계 워크플로우로 확장되고 있습니다.",
+          "OpenRouter의 보고서에 따르면 실제 사용 환경에서 요청당 평균 프롬프트 토큰이 약 4배 증가했습니다.",
+          "NVIDIA Vera Rubin과 Blackwell 아키텍처는 전력당 에이전틱 AI 성능의 새로운 기준을 제시합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3155884",
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "author": "Tim Fernholz",
+        "published_at": "2026-08-24T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 범용 AI 에이전트 개발",
+        "summary_ko": [
+          "OpenAI는 소프트웨어 엔지니어뿐만 아니라 대중을 위한 범용 AI 에이전트를 개발하고 있습니다.",
+          "이번 프론티어 연구소의 행보는 AI 에이전트 기술을 일상과 산업 전반으로 확장하려는 시도입니다.",
+          "이러한 에이전트들이 실제 사용자들로부터 폭넓은 채택을 이끌어낼 수 있을지에 대한 관심이 집중되고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121527",
+        "title": "NVIDIA BlueField-4 Powers New Scale-In Network Infrastructure for Agentic AI Factories",
+        "url": "https://developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories/",
+        "author": "Michelle Horton",
+        "published_at": "2026-08-24T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Agentic AI를 위한 NVIDIA BlueField-4",
+        "summary_ko": [
+          "전통적인 클라우드 인프라는 예측 가능한 일반 워크로드와 표준 인터페이스를 위해 설계되었습니다.",
+          "반면 Agentic AI 팩토리는 다양한 사용자, 에이전트, 데이터 소스를 대규모 가속 컴퓨팅과 연결합니다.",
+          "이를 처리하기 위해 서버당 멀티 테라비트 대역폭에서 전용 DPU 처리와 네트워킹, 보안이 필수적입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121644",
+        "title": "Solving Agentic AI Fleet Challenges with NVIDIA Vera CPU",
+        "url": "https://developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu/",
+        "author": "Michelle Horton",
+        "published_at": "2026-08-24T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Vera CPU 기반 에이전트 AI 플릿 과제 해결",
+        "summary_ko": [
+          "AI 팩토리의 플릿 경제성은 전력과 자본을 효율적으로 에이전트 작업으로 변환하는 것에 좌우된다.",
+          "GPU가 모델을 구동하는 동안 CPU는 오케스트레이션과 도구 실행 및 샌드박스 연산을 처리한다.",
+          "에이전트 워크로드는 예측 불가능하고 변동성이 커서 고유한 인프라 과제를 제기한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121675",
+        "title": "How NVIDIA Groq 3 LPX Unlocks Ultrafast Interactivity at Long Context on NVIDIA Vera Rubin",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-08-24T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Groq 3 LPX와 Vera Rubin 플랫폼",
+        "summary_ko": [
+          "NVIDIA Groq 3 LPX는 NVIDIA Vera Rubin 플랫폼을 위한 인터랙티브 AI 추론 가속기입니다.",
+          "이 플랫폼의 핵심인 NVIDIA Vera Rubin NVL72는 다양한 AI 워크로드에서 높은 처리량과 상호작용성을 제공합니다.",
+          "Groq 3 LPX는 Vera Rubin NVL72와 결합하여 대규모 컨텍스트에서 초고속 상호작용 성능을 구현합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vx3img",
+        "title": "[Paper] ToMoE: Converting Dense Large Language Models to Mixture-of-Experts through Dynamic Structural Pruning",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx3img/paper_tomoe_converting_dense_large_language/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-08-24T13:54:54+00:00"
+      },
+      "insight": {
+        "title_ko": "Dense LLM을 MoE로 변환하는 ToMoE",
+        "summary_ko": [
+          "본 논문은 Dense LLM을 효율적인 Mixture-of-Experts 구조로 변환하는 ToMoE 기법을 제안합니다.",
+          "이 방법은 파라미터를 영구 삭제하지 않고 동적 구조 가지치기를 통해 활성 파라미터 수를 줄입니다.",
+          "별도의 미세조정 없이도 기존 구조적 가지치기 기법들보다 뛰어난 성능을 보입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vx33zj",
+        "title": "TielCoder's 22 GB 4-bit quant matches Opus4.6 medium on recent real life coding issues, surpassing KAT-Coder and Nail as strongest and fastest MoE picks.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx33zj/tielcoders_22_gb_4bit_quant_matches_opus46_medium/",
+        "author": "/u/peculiar-ragdoll",
+        "published_at": "2026-08-24T13:38:52+00:00"
+      },
+      "insight": {
+        "title_ko": "TielCoder 코딩용 MoE 모델 공개",
+        "summary_ko": [
+          "TielCoder 22GB 4-bit 양자화 모델은 실제 코딩 이슈 해결에서 Opus4.6 medium과 동등한 성능을 보여줍니다.",
+          "이 모델은 35B-A3B MoE 구조를 기반으로 하여 제한된 하드웨어에서도 빠르고 정확하게 코딩 작업을 수행합니다.",
+          "코드 가중치 imatrix와 에이전트 코딩에 최적화된 템플릿을 적용하여 성능과 속도를 모두 극대화했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

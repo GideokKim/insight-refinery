@@ -30,6 +30,11 @@
       "title": "as demand for meta ai glasses explodes it s harder to avoid creepy recordings",
       "url": "arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": {
+      "at": "2026-08-24T17:21:43.070725+00:00",
+      "title": "nvidia senior manager linked to supermicro scheme smuggling ai servers to china",
+      "url": "arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china"
+    },
     "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "at": "2026-08-24T11:05:22.951784+00:00",
       "title": "from atari to eve online building on 15 years of ai research in games",
@@ -70,6 +75,11 @@
       "title": "maximizing ai factory performance per watt with nvidia dsx maxlps",
       "url": "developer.nvidia.com/blog/maximizing-ai-factory-performance-per-watt-with-nvidia-dsx-maxlps"
     },
+    "rss:https://developer.nvidia.com/blog/?p=121527": {
+      "at": "2026-08-24T17:21:43.070810+00:00",
+      "title": "nvidia bluefield 4 powers new scale in network infrastructure for agentic ai factories",
+      "url": "developer.nvidia.com/blog/nvidia-bluefield-4-powers-new-scale-in-network-infrastructure-for-agentic-ai-factories"
+    },
     "rss:https://developer.nvidia.com/blog/?p=121550": {
       "at": "2026-08-24T11:05:22.951525+00:00",
       "title": "gpu accelerated clustering for financial instruments at scale",
@@ -84,6 +94,26 @@
       "at": "2026-08-24T11:05:22.951596+00:00",
       "title": "where security fits in an ai agent stack",
       "url": "developer.nvidia.com/blog/where-security-fits-in-an-ai-agent-stack"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121595": {
+      "at": "2026-08-24T17:21:43.070765+00:00",
+      "title": "giga scale ai and the ethernet evolution how spectrum x ethernet rewrites the rules",
+      "url": "developer.nvidia.com/blog/giga-scale-ai-ethernet-evolution-spectrum-x-ethernet-rewrites-rules"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121644": {
+      "at": "2026-08-24T17:21:43.070823+00:00",
+      "title": "solving agentic ai fleet challenges with nvidia vera cpu",
+      "url": "developer.nvidia.com/blog/solving-agentic-ai-fleet-challenges-with-nvidia-vera-cpu"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121675": {
+      "at": "2026-08-24T17:21:43.070834+00:00",
+      "title": "how nvidia groq 3 lpx unlocks ultrafast interactivity at long context on nvidia vera rubin",
+      "url": "developer.nvidia.com/blog/how-nvidia-groq-3-lpx-unlocks-ultrafast-interactivity-at-long-context-on-nvidia-vera-rubin"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121715": {
+      "at": "2026-08-24T17:21:43.070784+00:00",
+      "title": "nvidia vera rubin and blackwell set a new standard for agentic ai performance per watt",
+      "url": "developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -796,10 +826,20 @@
       "title": "who s behind the new stealth model ox alpha",
       "url": "techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha"
     },
+    "rss:https://techcrunch.com/?p=3155884": {
+      "at": "2026-08-24T17:21:43.070797+00:00",
+      "title": "openai is building ai agents for everything will everyone use them",
+      "url": "techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them"
+    },
     "rss:https://techcrunch.com/?p=3155919": {
       "at": "2026-08-24T14:31:05.039851+00:00",
       "title": "hugging face reportedly in talks to be acquired for 13b",
       "url": "techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b"
+    },
+    "rss:https://techcrunch.com/?p=3155937": {
+      "at": "2026-08-24T17:21:43.070897+00:00",
+      "title": "valor point72 back general intuition at 6b valuation as ai startup pushes into robotics",
+      "url": "techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1445,6 +1485,36 @@
       "title": "who would buy huggingface",
       "url": "reddit.com/r/LocalLLaMA/comments/1vx15zb/who_would_buy_huggingface"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx2fhz": {
+      "at": "2026-08-24T17:21:43.070935+00:00",
+      "title": "i irradiated llms and found that they die really quickly",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx2fhz/i_irradiated_llms_and_found_that_they_die_really"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx33zj": {
+      "at": "2026-08-24T17:21:43.070867+00:00",
+      "title": "tielcoder s 22 gb 4 bit quant matches opus4 6 medium on recent real life coding issues surpassing kat coder and nail as strongest and fastest moe picks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx33zj/tielcoders_22_gb_4bit_quant_matches_opus46_medium"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx3img": {
+      "at": "2026-08-24T17:21:43.070850+00:00",
+      "title": "paper tomoe converting dense large language models to mixture of experts through dynamic structural pruning",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx3img/paper_tomoe_converting_dense_large_language"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx4969": {
+      "at": "2026-08-24T17:21:43.070909+00:00",
+      "title": "llama cpp docs now have a new home",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx4969/llamacpp_docs_now_have_a_new_home"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx6ivx": {
+      "at": "2026-08-24T17:21:43.070946+00:00",
+      "title": "apple m5 server",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx6ivx/apple_m5_server"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx7pdh": {
+      "at": "2026-08-24T17:21:43.070883+00:00",
+      "title": "qwen 3 8 27b in 9th position on code arena gemma 4 31b is 80th",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx7pdh/qwen_38_27b_in_9th_position_on_code_arena_gemma_4"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -1664,8 +1734,13 @@
       "at": "2026-08-24T11:19:10.800718+00:00",
       "title": "debates over ai consciousness are a trap",
       "url": "technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap"
+    },
+    "rss:https://www.technologyreview.com/?p=1142630": {
+      "at": "2026-08-24T17:21:43.070925+00:00",
+      "title": "how to encourage smarter ai use in the classroom",
+      "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-24T14:31:05.039959+00:00",
+  "updated_at": "2026-08-24T17:21:43.070987+00:00",
   "version": 2
 }
