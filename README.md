@@ -95,11 +95,15 @@ provider마다 strict JSON 스키마 지원이 다르다. 기본은 `json_schema
 
 ### 로컬
 
+키 발급과 등록 절차는 [docs/SETUP.md](docs/SETUP.md)에 있다.
+
 ```bash
 python3.11 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-export GEMINI_API_KEY=...          # 또는 GROQ_API_KEY
+cp .env.example .env               # 값을 채우면 자동으로 읽는다
+# 또는 환경 변수로 (이쪽이 .env보다 우선한다)
+export GEMINI_API_KEY=...
 python main.py --dry-run --limit 3        # 알림 없이 stdout 출력, 캐시도 안 건드림
 
 export DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/...
