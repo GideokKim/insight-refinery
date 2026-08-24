@@ -49,6 +49,14 @@ class RunConfig(BaseModel):
     min_importance: int = Field(default=3, ge=1, le=5)
     """이 점수 이상만 알림으로 발송한다."""
 
+    max_age_days: int | None = Field(default=5, ge=1)
+    """발행이 이보다 오래된 항목은 요약하지 않는다. None이면 나이를 보지 않는다.
+
+    피드는 최신순 N개를 주는데, 게시 빈도가 낮은 블로그는 그 N개가 몇 달 전까지
+    닿는다. 소스를 새로 켜면 그 과거분이 통째로 "신규"로 들어오고, 뒤늦게
+    과거 날짜로 올라오는 글도 있다. 소스별로 `options.max_age_days`로 덮어쓴다.
+    """
+
 
 class ProviderConfig(BaseModel):
     """LLM provider 하나. 전부 OpenAI 호환 엔드포인트를 전제로 한다."""

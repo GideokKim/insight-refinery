@@ -6,8 +6,15 @@
 run:
   # 한 번 실행에서 LLM에 넘길 최대 건수. 비용 상한 역할을 한다.
   max_items_per_run: 25
-  # 이 점수 이상만 Telegram으로 발송한다 (1~5).
+  # 이 점수 이상만 발송한다 (1~5). 채널별로 notifier.min_importance가 덮어쓴다.
   min_importance: 3
+  # 발행이 이보다 오래된 항목은 요약하지 않는다.
+  # 피드는 최신순 N개를 주는데 게시 빈도가 낮은 블로그는 그 N개가 몇 달 전까지
+  # 닿는다. 이 필터가 없으면 소스를 새로 켤 때 과거분이 통째로 알림으로 나간다.
+  #
+  # 3~4일로 좁히면 주말에 걸린다. 금요일 오후 기사는 월요일 정오에 이미 70시간이
+  # 지나 있어서, 주말에 글을 올리지 않는 매체가 통째로 0건이 된다.
+  max_age_days: 5
 
 llm:
   temperature: 0.2
@@ -184,9 +191,10 @@ sources:
     type: rss
     enabled: true
     options:
-      # 주간 뉴스레터라 물량이 적다.
+      # 주간 뉴스레터라 물량이 적다. 3일로 자르면 발행 주기를 못 따라간다.
       url: https://importai.substack.com/feed
       limit: 5
+      max_age_days: 10
 
   # 확인해봤지만 쓸 수 없던 것들 (다시 시도하지 않도록 남겨둔다):
   #   Anthropic News        https://www.anthropic.com/news/rss.xml       404

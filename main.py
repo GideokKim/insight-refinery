@@ -14,7 +14,7 @@ from __future__ import annotations
 import argparse
 import logging
 import sys
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 from core.collectors import build_collectors
 from core.collectors.base import RawItem
@@ -73,12 +73,40 @@ def collect(config: Config, only: list[str] | None) -> list[RawItem]:
         if missing:
             logger.warning("설정에 없거나 비활성화된 소스입니다: %s", ", ".join(sorted(missing)))
 
+    now = datetime.now(timezone.utc)
     items: list[RawItem] = []
     for collector in build_collectors(sources):
-        items.extend(collector.safe_collect())
+        collected = collector.safe_collect()
+        max_age = collector.options.get("max_age_days", config.run.max_age_days)
+        kept, dropped = _drop_stale(collected, max_age, now)
+        if dropped:
+            logger.info(
+                "[%s] %d일 지난 항목 %d건 제외", collector.name, max_age, dropped
+            )
+        items.extend(kept)
 
     items.sort(key=lambda item: item.published_at or _EPOCH, reverse=True)
     return items
+
+
+def _drop_stale(
+    items: list[RawItem], max_age_days: int | None, now: datetime
+) -> tuple[list[RawItem], int]:
+    """오래된 항목을 버린다.
+
+    LLM 호출 전에 걸러 토큰도 아낀다. 발행 시각이 없는 항목은 판단할 수 없으니
+    남긴다 — 날짜를 안 주는 피드를 통째로 잃는 것이 더 나쁘다.
+    """
+    if not max_age_days:
+        return items, 0
+
+    cutoff = now - timedelta(days=max_age_days)
+    kept = [
+        item
+        for item in items
+        if item.published_at is None or item.published_at >= cutoff
+    ]
+    return kept, len(items) - len(kept)
 
 
 def filter_new(items: list[RawItem], store: ProcessedStore) -> list[RawItem]:
