@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-08-23T23:10:06.549801+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vwhcuf",
+        "title": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/",
+        "author": "/u/maxwell321",
+        "published_at": "2026-08-23T20:01:28+00:00"
+      },
+      "insight": {
+        "title_ko": "구형 POS 시스템 복원에 성공한 Qwen 3.8",
+        "summary_ko": [
+          "개발자가 2000년대 초반 ARM 기반 POS 시스템의 펌웨어 보존과 에뮬레이션을 위해 Qwen 3.8 27b 모델을 활용했다.",
+          "이전에 실패했던 작업을 Qwen 3.8 모델이 성공적으로 도와주어 독창적인 레거시 시스템 분석 가능성을 입증했다.",
+          "오픈소스 및 로컬 LLM이 복잡한 실무 개발 및 리버스 엔지니어링 작업에서 강력한 성능을 발휘함을 보여준다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

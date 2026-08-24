@@ -1145,6 +1145,11 @@
       "title": "don t want to be this guy but i need qwen 3 8 35b a3b",
       "url": "reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw6nba": {
+      "at": "2026-08-24T02:54:34.185244+00:00",
+      "title": "qwen3 5 9b triple loop",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vw6nba/qwen359b_tripleloop"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vw8vuh": {
       "at": "2026-08-23T20:09:06.207266+00:00",
       "title": "qwen 3 8 27b for actual local programming",
@@ -1169,6 +1174,11 @@
       "at": "2026-08-23T23:10:08.647750+00:00",
       "title": "we quantized qwen 3 8 27b and compared the quants on an rtx 6000",
       "url": "reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwhcuf": {
+      "at": "2026-08-24T02:54:34.185199+00:00",
+      "title": "qwen 3 8 27b helped me with something unique that opus 4 couldn t firmware software preservation and emulation on an early 2000 s arm based pos system",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwhj0l": {
       "at": "2026-08-23T23:10:08.647737+00:00",
@@ -1361,6 +1371,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works"
     }
   },
-  "updated_at": "2026-08-23T23:10:08.647804+00:00",
+  "updated_at": "2026-08-24T02:54:34.185297+00:00",
   "version": 2
 }
