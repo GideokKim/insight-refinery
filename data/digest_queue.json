@@ -23,6 +23,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vwrc6i",
+        "title": "I trained a 1.57B-parameter Dreamer 4 World Model from scratch for under $150",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model/",
+        "author": "/u/OtherRaisin3426",
+        "published_at": "2026-08-24T03:19:01+00:00"
+      },
+      "insight": {
+        "title_ko": "저비용 1.57B Dreamer 4 World Model 학습",
+        "summary_ko": [
+          "개발자가 150달러 미만의 비용으로 1.57B 파라미터를 가진 Dreamer 4 World Model을 처음부터 직접 학습시켰다.",
+          "Genie 아키텍처의 한계를 극복하기 위해 자체 생성한 Procgen 데이터를 사용하여 제어력을 높이고 성능을 개선했다.",
+          "이번 실험은 대형 프론티어 연구소 없이도 적은 비용으로 고성능 월드 모델을 구축할 수 있음을 실무적으로 입증했다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -1185,10 +1185,30 @@
       "title": "you can now use mtp in glm air",
       "url": "reddit.com/r/LocalLLaMA/comments/1vwhj0l/you_can_now_use_mtp_in_glmair"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwkicx": {
+      "at": "2026-08-24T08:34:55.340664+00:00",
+      "title": "any upcoming models to be excited about",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwkicx/any_upcoming_models_to_be_excited_about"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwowbu": {
       "at": "2026-08-24T05:28:38.672845+00:00",
       "title": "qwen 3 8 27b just wanted to say thanks to you guys",
       "url": "reddit.com/r/LocalLLaMA/comments/1vwowbu/qwen_38_27b_just_wanted_to_say_thanks_to_you_guys"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwrc6i": {
+      "at": "2026-08-24T08:34:55.340581+00:00",
+      "title": "i trained a 1 57b parameter dreamer 4 world model from scratch for under 150",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwrc6i/i_trained_a_157bparameter_dreamer_4_world_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwsjut": {
+      "at": "2026-08-24T08:34:55.340647+00:00",
+      "title": "deepseek v4 flash 0731 surprisingly usable",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwsjut/deepseekv4flash0731_surprisingly_usable"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vwvghi": {
+      "at": "2026-08-24T08:34:55.340624+00:00",
+      "title": "xiaomi ai cube announced with 1 2tb s memory bandwidth",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vwvghi/xiaomi_ai_cube_announced_with_12tbs_memory"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1376,6 +1396,6 @@
       "url": "reddit.com/r/MachineLearning/comments/1vwg5br/how_to_citetalk_about_preprintsubsequent_works"
     }
   },
-  "updated_at": "2026-08-24T05:28:38.672931+00:00",
+  "updated_at": "2026-08-24T08:34:55.340710+00:00",
   "version": 2
 }
