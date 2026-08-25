@@ -1620,6 +1620,11 @@
       "title": "copilot you say",
       "url": "reddit.com/r/LocalLLaMA/comments/1vxescz/copilot_you_say"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxg4vd": {
+      "at": "2026-08-25T08:28:08.394746+00:00",
+      "title": "qwen 3 8 27b nemotron 3 5 lightning 30b a3b ornith 1 5 35b a3b muse glimmer 30b oq8e comparison",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxg4vd/qwen3827b_nemotron35lightning30ba3b"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxi7gp": {
       "at": "2026-08-25T05:22:15.372895+00:00",
       "title": "i just tried deepseek harness and it escaped from its workspace folder",
@@ -1851,6 +1856,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T05:22:15.372996+00:00",
+  "updated_at": "2026-08-25T08:28:08.394849+00:00",
   "version": 2
 }
