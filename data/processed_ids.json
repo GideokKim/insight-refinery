@@ -459,6 +459,11 @@
       "title": "from assistance to execution how enterprises put ai to work",
       "url": "openai.com/index/how-enterprises-put-ai-to-work"
     },
+    "rss:https://openai.com/index/introducing-admin-plugin": {
+      "at": "2026-08-25T20:15:22.693603+00:00",
+      "title": "introducing the admin plugin for chatgpt work and codex",
+      "url": "openai.com/index/introducing-admin-plugin"
+    },
     "rss:https://openai.com/index/introducing-ai-futures": {
       "at": "2026-08-20T20:16:03.387891+00:00",
       "title": "introducing ai futures",
@@ -536,6 +541,11 @@
       "at": "2026-08-19T17:19:19.683201+00:00",
       "title": "advancing amie towards expert level audio visual clinical consultations",
       "url": "research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations"
+    },
+    "rss:https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/": {
+      "at": "2026-08-25T20:15:22.693539+00:00",
+      "title": "agenthands generating interactive hand gestures for spatially grounded agent conversations in xr",
+      "url": "research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr"
     },
     "rss:https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/": {
       "at": "2026-08-21T17:19:01.959766+00:00",
@@ -985,6 +995,16 @@
       "at": "2026-08-25T14:38:26.133824+00:00",
       "title": "openai s jalapeño chip is built for fast inference at scale benchmarks show",
       "url": "techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show"
+    },
+    "rss:https://techcrunch.com/?p=3156618": {
+      "at": "2026-08-25T20:15:22.693554+00:00",
+      "title": "stability ai maker of image generator stable diffusion raises 76 million in fresh funding",
+      "url": "techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding"
+    },
+    "rss:https://techcrunch.com/?p=3156630": {
+      "at": "2026-08-25T20:15:22.693481+00:00",
+      "title": "claude cowork finally remembers what you told the app in chat",
+      "url": "techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1745,6 +1765,11 @@
       "title": "it s over folks",
       "url": "reddit.com/r/LocalLLaMA/comments/1vxzvwk/its_over_folks"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy09xv": {
+      "at": "2026-08-25T20:15:22.693520+00:00",
+      "title": "apple unveils a more powerful mac mini featuring the all new m6 and m5 pro",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vy09xv/apple_unveils_a_more_powerful_mac_mini_featuring"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy0knv": {
       "at": "2026-08-25T17:21:53.012192+00:00",
       "title": "me to the model i spent all weekend fine tuning",
@@ -1759,6 +1784,16 @@
       "at": "2026-08-25T17:21:53.012066+00:00",
       "title": "ibm granite granite 4 2 30b hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1vy2jz7/ibmgranitegranite4230b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy3lsp": {
+      "at": "2026-08-25T20:15:22.693590+00:00",
+      "title": "mac studio m5 max cost analysis",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vy3lsp/mac_studio_m5_max_cost_analysis"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy6smx": {
+      "at": "2026-08-25T20:15:22.693568+00:00",
+      "title": "qwen3 8 flash next this architecture could be surprisingly local friendly once the weights drop",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1991,6 +2026,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T17:21:53.012227+00:00",
+  "updated_at": "2026-08-25T20:15:22.693642+00:00",
   "version": 2
 }
