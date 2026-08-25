@@ -170,6 +170,11 @@
       "title": "baseten on hugging face inference providers",
       "url": "huggingface.co/blog/baseten"
     },
+    "rss:https://huggingface.co/blog/gradio-workflow-guide": {
+      "at": "2026-08-25T05:22:15.372937+00:00",
+      "title": "wire it run it deploy it ai workflows in gradio",
+      "url": "huggingface.co/blog/gradio-workflow-guide"
+    },
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
@@ -916,6 +921,11 @@
       "title": "ainews 10 worse 100x cheaper 10000x faster why simulation is taking over",
       "url": "latent.space/p/ainews-10-worse-100x-cheaper-10000x"
     },
+    "rss:https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering": {
+      "at": "2026-08-25T05:22:15.372847+00:00",
+      "title": "ainews andrew ng gets into ai engineering",
+      "url": "latent.space/p/ainews-andrew-ng-gets-into-ai-engineering"
+    },
     "rss:https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie": {
       "at": "2026-08-24T11:19:10.800745+00:00",
       "title": "ainews death of params z ai ceo jie tang on glm 5 3 and the new post training scaling law",
@@ -1585,6 +1595,11 @@
       "title": "qwen 3 8 27b in 9th position on code arena gemma 4 31b is 80th",
       "url": "reddit.com/r/LocalLLaMA/comments/1vx7pdh/qwen_38_27b_in_9th_position_on_code_arena_gemma_4"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx9302": {
+      "at": "2026-08-25T05:22:15.372949+00:00",
+      "title": "this is what qwen 3 8 27b is capable of",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx9302/this_is_what_qwen_38_27b_is_capable_of"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx9xt0": {
       "at": "2026-08-25T02:49:30.657157+00:00",
       "title": "do not blindly delete your older models some are still precious",
@@ -1604,6 +1619,11 @@
       "at": "2026-08-24T23:12:53.552736+00:00",
       "title": "copilot you say",
       "url": "reddit.com/r/LocalLLaMA/comments/1vxescz/copilot_you_say"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxi7gp": {
+      "at": "2026-08-25T05:22:15.372895+00:00",
+      "title": "i just tried deepseek harness and it escaped from its workspace folder",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxi7gp/i_just_tried_deepseek_harness_and_it_escaped_from"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1831,6 +1851,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T02:49:30.657229+00:00",
+  "updated_at": "2026-08-25T05:22:15.372996+00:00",
   "version": 2
 }
