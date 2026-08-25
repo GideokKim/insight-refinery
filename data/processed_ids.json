@@ -15,6 +15,11 @@
       "title": "meta ran ads for an app promising to nudify female politicians",
       "url": "arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians"
     },
+    "rss:https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": {
+      "at": "2026-08-25T23:15:21.967354+00:00",
+      "title": "world humanoid robot games show runners breaking records bursting into flames",
+      "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -134,6 +139,11 @@
       "at": "2026-08-25T17:21:53.012105+00:00",
       "title": "cuda python 1 0 stable apis one foundation full platform access",
       "url": "developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121821": {
+      "at": "2026-08-25T23:15:21.967285+00:00",
+      "title": "restore llm inference capacity in seconds with shadow engine recovery in nvidia dynamo",
+      "url": "developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -706,6 +716,11 @@
       "at": "2026-08-24T12:07:08.247406+00:00",
       "title": "your executable is a sqlite database",
       "url": "simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database"
+    },
+    "rss:https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3/": {
+      "at": "2026-08-25T23:15:21.967333+00:00",
+      "title": "eve online the move to python 3 begins",
+      "url": "simonwillison.net/2026/Aug/25/eve-online-move-to-python-3"
     },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
@@ -1730,6 +1745,11 @@
       "title": "i just tried deepseek harness and it escaped from its workspace folder",
       "url": "reddit.com/r/LocalLLaMA/comments/1vxi7gp/i_just_tried_deepseek_harness_and_it_escaped_from"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxvth7": {
+      "at": "2026-08-25T23:15:21.967374+00:00",
+      "title": "glm 5 3 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxvth7/glm_53_flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxwtyd": {
       "at": "2026-08-25T14:38:26.134018+00:00",
       "title": "qwen3 8 flash next tomorrow",
@@ -1794,6 +1814,11 @@
       "at": "2026-08-25T20:15:22.693568+00:00",
       "title": "qwen3 8 flash next this architecture could be surprisingly local friendly once the weights drop",
       "url": "reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vycbqw": {
+      "at": "2026-08-25T23:15:21.967389+00:00",
+      "title": "it s here",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vycbqw/its_here"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2026,6 +2051,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T20:15:22.693642+00:00",
+  "updated_at": "2026-08-25T23:15:21.967433+00:00",
   "version": 2
 }
