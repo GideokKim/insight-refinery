@@ -366,6 +366,11 @@
       "title": "i spent 266 and four ai models to own my tablet glm 5 3 finished it in a day",
       "url": "ericpardee.github.io/fire-hd-ownership"
     },
+    "rss:https://news.ycombinator.com/item?id=49411800": {
+      "at": "2026-08-25T11:15:55.505435+00:00",
+      "title": "training ai to paint with code",
+      "url": "surya.website/rling-qwen-to-paint-with-code"
+    },
     "rss:https://news.ycombinator.com/item?id=49413561": {
       "at": "2026-08-24T20:16:52.945211+00:00",
       "title": "i built a low latency ai companion that plays skyrim with me",
@@ -398,6 +403,11 @@
       "at": "2026-08-19T14:23:12.191402+00:00",
       "title": "openai appoints dali rajic as chief revenue officer",
       "url": "openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    "rss:https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
+      "at": "2026-08-25T11:15:55.505381+00:00",
+      "title": "disrupting a new covert influence campaign from russia",
+      "url": "openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
     },
     "rss:https://openai.com/index/gpt-5-6-in-kiro": {
       "at": "2026-08-24T20:16:52.945057+00:00",
@@ -1830,6 +1840,11 @@
       "title": "kids outlearn ai and we still don t know why",
       "url": "technologyreview.com/2026/08/24/1141740/kids-machines-language-learning"
     },
+    "rss:https://www.technologyreview.com/?p=1141907": {
+      "at": "2026-08-25T11:15:55.505450+00:00",
+      "title": "i spent a day at a robot carnival in shanghai here s what i saw",
+      "url": "technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival"
+    },
     "rss:https://www.technologyreview.com/?p=1142070": {
       "at": "2026-08-24T11:19:10.800955+00:00",
       "title": "unlocking hidden revenue streams with market models",
@@ -1856,6 +1871,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T08:28:08.394849+00:00",
+  "updated_at": "2026-08-25T11:15:55.505533+00:00",
   "version": 2
 }
