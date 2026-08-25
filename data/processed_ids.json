@@ -20,6 +20,11 @@
       "title": "apple s new desktop computers are designed specifically for local ai development",
       "url": "arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference"
     },
+    "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
+      "at": "2026-08-25T17:21:53.012088+00:00",
+      "title": "ai won t replace radiologists but it will dramatically change their jobs",
+      "url": "arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs"
+    },
     "rss:https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": {
       "at": "2026-08-24T11:19:10.800732+00:00",
       "title": "grok exfiltrates user data when malicious instructions are encrypted",
@@ -125,6 +130,11 @@
       "title": "nvidia vera rubin and blackwell set a new standard for agentic ai performance per watt",
       "url": "developer.nvidia.com/blog/nvidia-vera-rubin-and-blackwell-set-a-new-standard-for-agentic-ai-performance-per-watt"
     },
+    "rss:https://developer.nvidia.com/blog/?p=121791": {
+      "at": "2026-08-25T17:21:53.012105+00:00",
+      "title": "cuda python 1 0 stable apis one foundation full platform access",
+      "url": "developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -184,6 +194,11 @@
       "at": "2026-08-25T05:22:15.372937+00:00",
       "title": "wire it run it deploy it ai workflows in gradio",
       "url": "huggingface.co/blog/gradio-workflow-guide"
+    },
+    "rss:https://huggingface.co/blog/ibm-granite/granite-4-2": {
+      "at": "2026-08-25T17:21:53.012144+00:00",
+      "title": "granite 4 2 llms how they re built",
+      "url": "huggingface.co/blog/ibm-granite/granite-4-2"
     },
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
       "at": "2026-08-19T12:14:50.156795+00:00"
@@ -401,6 +416,11 @@
       "title": "apple introduces m6 and m5 ultra for a big leap in performance and ai compute",
       "url": "apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute"
     },
+    "rss:https://news.ycombinator.com/item?id=49435728": {
+      "at": "2026-08-25T17:21:53.012161+00:00",
+      "title": "how much of hn is ai",
+      "url": "blog.coredump.cx/p/how-much-of-hn-is-ai"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -443,6 +463,11 @@
       "at": "2026-08-20T20:16:03.387891+00:00",
       "title": "introducing ai futures",
       "url": "openai.com/index/introducing-ai-futures"
+    },
+    "rss:https://openai.com/index/jalapeno-first-results": {
+      "at": "2026-08-25T17:21:53.012020+00:00",
+      "title": "jalapeño s first results show industry leading speed and efficiency in ai inference",
+      "url": "openai.com/index/jalapeno-first-results"
     },
     "rss:https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
       "at": "2026-08-19T14:23:12.191291+00:00",
@@ -496,6 +521,11 @@
       "at": "2026-08-19T12:28:12.501963+00:00",
       "title": "the defender s window",
       "url": "openai.com/index/the-defenders-window"
+    },
+    "rss:https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
+      "at": "2026-08-25T17:21:53.012133+00:00",
+      "title": "the full stack behind abundant intelligence",
+      "url": "openai.com/index/the-full-stack-behind-abundant-intelligence"
     },
     "rss:https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/": {
       "at": "2026-08-19T17:19:19.683273+00:00",
@@ -785,6 +815,11 @@
       "at": "2026-08-20T14:24:46.225448+00:00",
       "title": "meta ai s new mac app wants you to talk to your apps",
       "url": "techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps"
+    },
+    "rss:https://techcrunch.com/?p=3154850": {
+      "at": "2026-08-25T17:21:53.012174+00:00",
+      "title": "gamma acquires accel backed design startup lica",
+      "url": "techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica"
     },
     "rss:https://techcrunch.com/?p=3154851": {
       "at": "2026-08-20T17:18:50.768112+00:00",
@@ -1685,6 +1720,11 @@
       "title": "qwen3 8 flash next",
       "url": "reddit.com/r/LocalLLaMA/comments/1vxwu4g/qwen38_flash_next"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxxa9x": {
+      "at": "2026-08-25T17:21:53.012119+00:00",
+      "title": "new llama cpp adaptive speculation for faster inference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxxa9x/new_llamacpp_adaptive_speculation_for_faster"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxybmy": {
       "at": "2026-08-25T14:38:26.133965+00:00",
       "title": "qwen 3 8 flash next day 0 support from unsloth",
@@ -1704,6 +1744,21 @@
       "at": "2026-08-25T14:38:26.134029+00:00",
       "title": "it s over folks",
       "url": "reddit.com/r/LocalLLaMA/comments/1vxzvwk/its_over_folks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy0knv": {
+      "at": "2026-08-25T17:21:53.012192+00:00",
+      "title": "me to the model i spent all weekend fine tuning",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vy0knv/me_to_the_model_i_spent_all_weekend_finetuning"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy1g90": {
+      "at": "2026-08-25T17:21:53.012184+00:00",
+      "title": "intel arc pro b60 dual 48g spotted",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vy1g90/intel_arc_pro_b60_dual_48g_spotted"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy2jz7": {
+      "at": "2026-08-25T17:21:53.012066+00:00",
+      "title": "ibm granite granite 4 2 30b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vy2jz7/ibmgranitegranite4230b_hugging_face"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -1936,6 +1991,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T14:38:26.134074+00:00",
+  "updated_at": "2026-08-25T17:21:53.012227+00:00",
   "version": 2
 }

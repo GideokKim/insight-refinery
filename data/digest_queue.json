@@ -155,6 +155,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/jalapeno-first-results",
+        "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+        "url": "https://openai.com/index/jalapeno-first-results",
+        "author": null,
+        "published_at": "2026-08-25T07:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI 커스텀 AI 인프라 칩 Jalapeño 공개",
+        "summary_ko": [
+          "OpenAI가 고성능 현대식 모델을 위한 자체 커스텀 인프라 칩 Jalapeño를 새롭게 공개했습니다.",
+          "Jalapeño는 업계 최고 수준의 속도와 전력 효율성을 바탕으로 AI 인프라 성능을 크게 향상시킵니다.",
+          "이 칩은 향상된 처리량과 낮은 지연 시간을 제공하여 AI 모델 구동의 효율성을 극대화합니다."
+        ],
+        "category": "Infra",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vy2jz7",
+        "title": "ibm-granite/granite-4.2-30b · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy2jz7/ibmgranitegranite4230b_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-08-25T15:10:57+00:00"
+      },
+      "insight": {
+        "title_ko": "IBM Granite 4.2 추론 모델 시리즈 출시",
+        "summary_ko": [
+          "IBM은 네이티브 추론 기능과 512K 컨텍스트 윈도우를 지원하는 Granite-4.2 모델 시리즈를 공개했다.",
+          "이번 시리즈는 30B, 8B, 3B 크기로 구성되어 있으며 전체, 비활성, 저강도의 유연한 추론 모드를 제공한다.",
+          "모든 모델은 Apache 2.0 라이선스로 배포되어 상업적 및 연구 목적으로 자유롭게 활용할 수 있다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+        "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+        "url": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+        "author": "Lola Butcher, Knowable Magazine",
+        "published_at": "2026-08-25T15:10:03+00:00"
+      },
+      "insight": {
+        "title_ko": "AI가 방사선과 의사의 업무 환경에 미치는 영향",
+        "summary_ko": [
+          "과거 AI 대부 Geoffrey Hinton의 예측과 달리 방사선과 의사의 수는 오히려 증가하고 있습니다.",
+          "그러나 FDA가 승인한 의료 AI 기기의 대다수가 방사선과에 집중될 만큼 기술 도입은 빠르게 확산되고 있습니다.",
+          "일부 AI 도구는 인간의 눈에 보이지 않는 이상 징후를 발견하며 의사의 업무 방식을 근본적으로 바꾸고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121791",
+        "title": "CUDA Python 1.0: Stable APIs, One Foundation, Full Platform Access",
+        "url": "https://developer.nvidia.com/blog/cuda-python-1-0-stable-apis-one-foundation-full-platform-access/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-08-25T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "CUDA Python 1.0 정식 출시",
+        "summary_ko": [
+          "NVIDIA가 Python 개발자를 위한 안정적인 CUDA API와 플랫폼 접근성을 제공하는 CUDA Python 1.0을 발표했습니다.",
+          "기존 Python 개발자는 C++ 확장 작성이나 복잡한 빌드 도구 체인 없이도 GPU를 직접 활용할 수 있게 되었습니다.",
+          "이 라이브러리는 기존 PyTorch나 CuPy 같은 상위 라이브러리의 한계를 보완하고 생태계를 확장하는 기반이 됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vxxa9x",
+        "title": "New: Llama.cpp adaptive speculation for faster inference",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxxa9x/new_llamacpp_adaptive_speculation_for_faster/",
+        "author": "/u/Dutchnamn",
+        "published_at": "2026-08-25T11:35:40+00:00"
+      },
+      "insight": {
+        "title_ko": "Llama.cpp 적응형 추측 기능 추가",
+        "summary_ko": [
+          "Llama.cpp에 콘텐츠 유형에 따라 토큰 제안 수를 자동으로 조절하는 적응형 추측 기능이 도입되었습니다.",
+          "최소값과 최대값 설정 사이에서 엔진이 동적으로 조절하여 메인라인 대비 최대 50%의 토큰 생성 성능 향상을 이뤄냈습니다.",
+          "Strix Halo 환경에서 구조화된 콘텐츠 생성 속도가 초당 44토큰에서 65토큰으로 향상되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "title": "The full stack behind abundant intelligence",
+        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+        "author": null,
+        "published_at": "2026-08-25T07:05:00+00:00"
+      },
+      "insight": {
+        "title_ko": "풍부한 인공지능을 뒷받침하는 풀스택 전략",
+        "summary_ko": [
+          "OpenAI의 CFO Sarah Friar는 칩, 연산 장치, 모델, 제품 전반의 발전이 어떻게 복합적으로 작용하는지 설명합니다.",
+          "이러한 기술적 발전은 더 큰 규모에서 더 유용한 인공지능을 더 낮은 비용으로 제공할 수 있게 합니다.",
+          "실무자들은 인프라와 제품의 결합이 가져오는 확장성과 비용 효율성 변화에 주목해야 합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
