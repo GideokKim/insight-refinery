@@ -45,6 +45,116 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3156453",
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+        "author": "Russell Brandom",
+        "published_at": "2026-08-25T14:22:04+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI Jalapeño 칩 추론 성능 벤치마크 결과 공개",
+        "summary_ko": [
+          "OpenAI의 Jalapeño 칩이 InferenceX 벤치마크 테스트에서 기존 최고 수준의 기술을 뛰어넘는 성능을 기록했습니다.",
+          "이번 테스트 결과 Jalapeño는 사용자당 더 많은 토큰 처리량과 전력 와트당 더 높은 처리 효율성을 입증했습니다.",
+          "이 커스텀 칩은 대규모 환경에서 고속 추론을 수행할 수 있도록 설계된 것이 특징입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vxzg6v",
+        "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/",
+        "author": "/u/themixtergames",
+        "published_at": "2026-08-25T13:11:09+00:00"
+      },
+      "insight": {
+        "title_ko": "애플, M5 Max 및 M5 Ultra 탑재 Mac Studio 공개",
+        "summary_ko": [
+          "애플이 M5 Max와 M5 Ultra 칩을 탑재한 새로운 Mac Studio를 새롭게 선보였습니다.",
+          "이번 신제품은 최대 512GB의 통합 메모리를 지원하여 대규모 온디바이스 AI 구동에 유리합니다.",
+          "로컬 LLM을 운용하는 실무 환경에서 강력한 하드웨어 선택지가 될 것으로 기대됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49433292",
+        "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "author": "interpol_p",
+        "published_at": "2026-08-25T13:01:22+00:00"
+      },
+      "insight": {
+        "title_ko": "Apple, 성능과 AI 연산 강화된 M6 및 M5 Ultra 공개",
+        "summary_ko": [
+          "Apple이 성능과 AI 연산 능력을 대폭 강화한 M6 및 M5 Ultra 프로세서를 새롭게 공개했습니다.",
+          "이번 신제품 발표는 온디바이스 AI 성능을 극대화하여 실무 환경에서의 활용도를 높이는 데 초점을 맞추고 있습니다.",
+          "관련 개발자와 실무자들은 새로운 칩셋이 제공하는 향상된 AI 연산 성능과 효율성에 주목하고 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+        "title": "Apple's new desktop computers are designed specifically for local AI development",
+        "url": "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+        "author": "Samuel Axon",
+        "published_at": "2026-08-25T13:00:11+00:00"
+      },
+      "insight": {
+        "title_ko": "Apple, 로컬 AI 개발에 특화된 신형 Mac 발표",
+        "summary_ko": [
+          "Apple이 로컬 AI 추론과 소프트웨어 개발에 최적화된 새로운 Mac mini와 Mac Studio를 공개했다.",
+          "이번 신제품에는 M-시리즈 최초의 2nm 공정 칩인 M6와 AI 워크로드에 강력한 성능을 내는 M5 Ultra가 탑재되었다.",
+          "통합 메모리 아키텍처와 고성능 CPU 및 GPU를 갖춘 이 기기들은 개발자들의 로컬 AI 작업 환경을 크게 개선할 것으로 기대된다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+        "author": null,
+        "published_at": "2026-08-25T11:39:24+00:00"
+      },
+      "insight": {
+        "title_ko": "4비트 양자화 인식 힐링 모델 공개",
+        "summary_ko": [
+          "Hugging Face 블로그에 전체 정밀도 원본을 능가하는 4비트 압축 모델 관련 글이 게시되었습니다.",
+          "Quantization-Aware Healing 기법을 적용하여 모델 성능을 유지하면서 크기를 크게 줄였습니다.",
+          "이 기술은 리소스가 제한된 환경에서 고성능 LLM을 효율적으로 배포하는 데 도움을 줍니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

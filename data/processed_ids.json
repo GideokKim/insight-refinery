@@ -15,6 +15,11 @@
       "title": "meta ran ads for an app promising to nudify female politicians",
       "url": "arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians"
     },
+    "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
+      "at": "2026-08-25T14:38:26.133930+00:00",
+      "title": "apple s new desktop computers are designed specifically for local ai development",
+      "url": "arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference"
+    },
     "rss:https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": {
       "at": "2026-08-24T11:19:10.800732+00:00",
       "title": "grok exfiltrates user data when malicious instructions are encrypted",
@@ -145,6 +150,11 @@
       "title": "making knowledge distillation cheap enough to run at scale",
       "url": "huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
     },
+    "rss:https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
+      "at": "2026-08-25T14:38:26.133941+00:00",
+      "title": "quantization aware healing a compressed 4 bit model that outperforms its full precision original",
+      "url": "huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+    },
     "rss:https://huggingface.co/blog/agent-intrusion-technical-timeline": {
       "at": "2026-08-19T17:19:19.683244+00:00",
       "title": "anatomy of a frontier lab agent intrusion a technical timeline of the july 2026 incident",
@@ -207,6 +217,11 @@
       "at": "2026-08-19T17:19:19.683212+00:00",
       "title": "build low latency multilingual voice agents open weights full deployment control with nvidia magpie tts",
       "url": "huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    "rss:https://huggingface.co/blog/pwc-search": {
+      "at": "2026-08-25T14:38:26.133980+00:00",
+      "title": "how hugging face inference endpoints jobs and buckets power search on papers with code",
+      "url": "huggingface.co/blog/pwc-search"
     },
     "rss:https://huggingface.co/blog/state-of-open-models-summer-2026": {
       "at": "2026-08-19T14:23:12.191390+00:00",
@@ -380,6 +395,11 @@
       "at": "2026-08-24T20:16:52.945126+00:00",
       "title": "coding expertise is going to collapse from ai reliance",
       "url": "larsfaye.com/articles/ai-coding-will-prevent-expertise"
+    },
+    "rss:https://news.ycombinator.com/item?id=49433292": {
+      "at": "2026-08-25T14:38:26.133917+00:00",
+      "title": "apple introduces m6 and m5 ultra for a big leap in performance and ai compute",
+      "url": "apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -906,6 +926,16 @@
       "title": "amjad masad ceo and co founder of replit joins the disrupt stage at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026"
     },
+    "rss:https://techcrunch.com/?p=3156075": {
+      "at": "2026-08-25T14:38:26.134004+00:00",
+      "title": "the world seems to be ready an interview with openai head of product thibault sottiaux",
+      "url": "techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux"
+    },
+    "rss:https://techcrunch.com/?p=3156161": {
+      "at": "2026-08-25T14:38:26.133954+00:00",
+      "title": "accel backed keenable is indexing the web for ai agents",
+      "url": "techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents"
+    },
     "rss:https://techcrunch.com/?p=3156185": {
       "at": "2026-08-24T23:12:53.552719+00:00",
       "title": "trump bought spacex shares two weeks after blockbuster ipo",
@@ -915,6 +945,11 @@
       "at": "2026-08-25T02:49:30.657084+00:00",
       "title": "situational awareness star ai hedge fund that nearly imploded now being probed by the sec",
       "url": "techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec"
+    },
+    "rss:https://techcrunch.com/?p=3156453": {
+      "at": "2026-08-25T14:38:26.133824+00:00",
+      "title": "openai s jalapeño chip is built for fast inference at scale benchmarks show",
+      "url": "techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1640,6 +1675,36 @@
       "title": "i just tried deepseek harness and it escaped from its workspace folder",
       "url": "reddit.com/r/LocalLLaMA/comments/1vxi7gp/i_just_tried_deepseek_harness_and_it_escaped_from"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxwtyd": {
+      "at": "2026-08-25T14:38:26.134018+00:00",
+      "title": "qwen3 8 flash next tomorrow",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxwu4g": {
+      "at": "2026-08-25T14:38:26.134038+00:00",
+      "title": "qwen3 8 flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxwu4g/qwen38_flash_next"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxybmy": {
+      "at": "2026-08-25T14:38:26.133965+00:00",
+      "title": "qwen 3 8 flash next day 0 support from unsloth",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxzg6v": {
+      "at": "2026-08-25T14:38:26.133900+00:00",
+      "title": "apple introduces new mac studio with m5 max and m5 ultra up to 512gb of unified memory",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxzgyt": {
+      "at": "2026-08-25T14:38:26.133993+00:00",
+      "title": "apple releases m5 ultra at 1 2tb s bandwith",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxzgyt/apple_releases_m5_ultra_at_12tbs_bandwith"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxzvwk": {
+      "at": "2026-08-25T14:38:26.134029+00:00",
+      "title": "it s over folks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxzvwk/its_over_folks"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -1871,6 +1936,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T11:15:55.505533+00:00",
+  "updated_at": "2026-08-25T14:38:26.134074+00:00",
   "version": 2
 }
