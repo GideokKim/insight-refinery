@@ -896,6 +896,11 @@
       "title": "trump bought spacex shares two weeks after blockbuster ipo",
       "url": "techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo"
     },
+    "rss:https://techcrunch.com/?p=3156230": {
+      "at": "2026-08-25T02:49:30.657084+00:00",
+      "title": "situational awareness star ai hedge fund that nearly imploded now being probed by the sec",
+      "url": "techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1580,6 +1585,16 @@
       "title": "qwen 3 8 27b in 9th position on code arena gemma 4 31b is 80th",
       "url": "reddit.com/r/LocalLLaMA/comments/1vx7pdh/qwen_38_27b_in_9th_position_on_code_arena_gemma_4"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vx9xt0": {
+      "at": "2026-08-25T02:49:30.657157+00:00",
+      "title": "do not blindly delete your older models some are still precious",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vx9xt0/do_not_blindly_delete_your_older_models_some_are"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxd6yb": {
+      "at": "2026-08-25T02:49:30.657135+00:00",
+      "title": "please join r lowendlocalai a community for running local llms on low spec hardware",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vxd6yb/please_join_rlowendlocalai_a_community_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vxdvmv": {
       "at": "2026-08-24T23:12:53.552675+00:00",
       "title": "jetbrains local ai using qwen3 6 27b",
@@ -1816,6 +1831,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-24T23:12:53.552791+00:00",
+  "updated_at": "2026-08-25T02:49:30.657229+00:00",
   "version": 2
 }
