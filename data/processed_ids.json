@@ -10,6 +10,11 @@
       "title": "ai is hitting entry level jobs hardest stanford study finds",
       "url": "arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
     },
+    "rss:https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": {
+      "at": "2026-08-26T11:19:14.905993+00:00",
+      "title": "ibm s new granite 4 2 models ride the wave of interest in local llms",
+      "url": "arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms"
+    },
     "rss:https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/": {
       "at": "2026-08-24T11:19:10.800837+00:00",
       "title": "meta ran ads for an app promising to nudify female politicians",
@@ -488,6 +493,11 @@
       "at": "2026-08-25T17:21:53.012020+00:00",
       "title": "jalapeño s first results show industry leading speed and efficiency in ai inference",
       "url": "openai.com/index/jalapeno-first-results"
+    },
+    "rss:https://openai.com/index/loveholidays": {
+      "at": "2026-08-26T11:19:14.906066+00:00",
+      "title": "how loveholidays is making everyone a builder with codex",
+      "url": "openai.com/index/loveholidays"
     },
     "rss:https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
       "at": "2026-08-19T14:23:12.191291+00:00",
@@ -1865,6 +1875,11 @@
       "title": "first serious confirmation ox alpha is glm 5 3 flash",
       "url": "reddit.com/r/LocalLLaMA/comments/1vyp1l9/first_serious_confirmation_ox_alpha_is_glm53flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyq2v4": {
+      "at": "2026-08-26T11:19:14.906053+00:00",
+      "title": "megathread qwen3 8 flash next release day",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyq2v4/megathread_qwen38flashnext_release_day"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -2070,6 +2085,16 @@
       "title": "i spent a day at a robot carnival in shanghai here s what i saw",
       "url": "technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival"
     },
+    "rss:https://www.technologyreview.com/?p=1141949": {
+      "at": "2026-08-26T11:19:14.906075+00:00",
+      "title": "raised on ai",
+      "url": "technologyreview.com/2026/08/26/1141949/editors-letter-september-2026"
+    },
+    "rss:https://www.technologyreview.com/?p=1141952": {
+      "at": "2026-08-26T11:19:14.906037+00:00",
+      "title": "ai models flub these intelligence tests can you fare any better",
+      "url": "technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests"
+    },
     "rss:https://www.technologyreview.com/?p=1142070": {
       "at": "2026-08-24T11:19:10.800955+00:00",
       "title": "unlocking hidden revenue streams with market models",
@@ -2101,6 +2126,6 @@
       "url": "technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold"
     }
   },
-  "updated_at": "2026-08-26T08:28:40.914724+00:00",
+  "updated_at": "2026-08-26T11:19:14.906123+00:00",
   "version": 2
 }

@@ -67,6 +67,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+        "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+        "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+        "author": "Samuel Axon",
+        "published_at": "2026-08-26T11:10:49+00:00"
+      },
+      "insight": {
+        "title_ko": "IBM, 오픈웨이트 LLM Granite 4.2 모델 공개",
+        "summary_ko": [
+          "IBM이 자체 호스팅에 적합한 오픈웨이트 대형 언어 모델 Granite 4.2 시리즈를 새롭게 발표했습니다.",
+          "신규 모델은 3B, 8B, 30B 파라미터 크기로 제공되며 128,000 토큰의 네이티브 컨텍스트 윈도우를 지원합니다.",
+          "특히 8B와 30B 모델은 에이전틱 강화학습을 거쳐 터미널 사용 및 외부 도구 활용 능력이 강화되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
