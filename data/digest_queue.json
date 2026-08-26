@@ -89,6 +89,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "VentureBeat AI",
+        "source_type": "rss",
+        "external_id": "7mB2i7HWrsGgSUa5qmwuYz",
+        "title": "Orchestration is the new challenge for CX in the age of AI agents",
+        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+        "author": null,
+        "published_at": "2026-08-26T14:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트 시대의 CX 오케스트레이션 과제",
+        "summary_ko": [
+          "기업들은 AI 에이전트를 레거시 시스템에 급하게 도입하면서 통합과 오케스트레이션 부족 문제를 겪고 있습니다.",
+          "단순 자동화를 넘어 AI 에이전트, 애플리케이션, 인간 노동자를 연결하는 공통 맥락 계층이 핵심 경쟁력으로 부상했습니다.",
+          "성공적인 CX를 위해서는 분절된 시스템을 통합하고 실시간으로 조율하는 인텔리전스 레이어가 필수적입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49446422",
+        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+        "author": "garo-pro",
+        "published_at": "2026-08-26T10:04:55+00:00"
+      },
+      "insight": {
+        "title_ko": "Z.ai, 새로운 GLM 시리즈 모델 Ox Alpha 공개 및 가중치 개방",
+        "summary_ko": [
+          "중국의 Z.ai가 DeepSeek에 버금가는 성능을 가진 스텔스 모델 Ox Alpha를 개발했다고 확인했습니다.",
+          "Ox Alpha는 새로운 GLM 시리즈 모델의 일환으로 시장의 큰 주목을 받고 있습니다.",
+          "Z.ai는 해당 모델의 가중치를 공식적으로 공개할 예정이라고 밝혔습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/train-multi-vector-encoder",
+        "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+        "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+        "author": null,
+        "published_at": "2026-08-26T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Sentence Transformers를 활용한 Multi-Vector 임베딩 학습",
+        "summary_ko": [
+          "Hugging Face는 Sentence Transformers를 이용한 multi-vector 임베딩 모델의 학습 및 파인튜닝 방법을 공개했습니다.",
+          "이 기술은 검색 및 추천 시스템에서 보다 정교하고 표현력 있는 벡터 표현을 생성하는 데 기여합니다.",
+          "개발자와 실무자는 최신 임베딩 모델을 커스텀 데이터에 맞게 직접 학습하고 최적화할 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

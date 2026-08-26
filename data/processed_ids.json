@@ -5,6 +5,11 @@
       "title": "venturebeat names rob strechay as its first lead analyst expanding its enterprise ai research push",
       "url": "venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
     },
+    "rss:7mB2i7HWrsGgSUa5qmwuYz": {
+      "at": "2026-08-26T14:39:03.699740+00:00",
+      "title": "orchestration is the new challenge for cx in the age of ai agents",
+      "url": "venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
+    },
     "rss:https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/": {
       "at": "2026-08-24T23:12:53.552619+00:00",
       "title": "ai is hitting entry level jobs hardest stanford study finds",
@@ -258,6 +263,11 @@
       "title": "state of open models summer 2026 observations",
       "url": "huggingface.co/blog/state-of-open-models-summer-2026"
     },
+    "rss:https://huggingface.co/blog/train-multi-vector-encoder": {
+      "at": "2026-08-26T14:39:03.699803+00:00",
+      "title": "training and finetuning multi vector embedding models with sentence transformers",
+      "url": "huggingface.co/blog/train-multi-vector-encoder"
+    },
     "rss:https://news.ycombinator.com/item?id=49299282": {
       "at": "2026-08-19T14:23:12.191457+00:00",
       "title": "when genius fails the intellectual arrogance of the ai labs",
@@ -440,6 +450,16 @@
       "at": "2026-08-25T17:21:53.012161+00:00",
       "title": "how much of hn is ai",
       "url": "blog.coredump.cx/p/how-much-of-hn-is-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49446422": {
+      "at": "2026-08-26T14:39:03.699787+00:00",
+      "title": "z ai confirms ox alpha is a new glm series model and will release its weights",
+      "url": "bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
+    },
+    "rss:https://news.ycombinator.com/item?id=49447600": {
+      "at": "2026-08-26T14:39:03.699856+00:00",
+      "title": "fake us thinktank set up and funded by israel sought to game ai for propaganda",
+      "url": "theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -1001,6 +1021,11 @@
       "title": "valor point72 back general intuition at 6b valuation as ai startup pushes into robotics",
       "url": "techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics"
     },
+    "rss:https://techcrunch.com/?p=3155979": {
+      "at": "2026-08-26T14:39:03.699824+00:00",
+      "title": "robot brain builders are pushing out of their gpt 2 era",
+      "url": "techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era"
+    },
     "rss:https://techcrunch.com/?p=3156061": {
       "at": "2026-08-24T20:16:52.945180+00:00",
       "title": "amjad masad ceo and co founder of replit joins the disrupt stage at techcrunch disrupt 2026",
@@ -1036,6 +1061,11 @@
       "title": "openai s jalapeño chip is built for fast inference at scale benchmarks show",
       "url": "techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show"
     },
+    "rss:https://techcrunch.com/?p=3156546": {
+      "at": "2026-08-26T14:39:03.699867+00:00",
+      "title": "hearing tech startup legato emerges from stealth with 12m and a peek at its ai hearing glasses",
+      "url": "techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses"
+    },
     "rss:https://techcrunch.com/?p=3156618": {
       "at": "2026-08-25T20:15:22.693554+00:00",
       "title": "stability ai maker of image generator stable diffusion raises 76 million in fresh funding",
@@ -1046,6 +1076,16 @@
       "title": "claude cowork finally remembers what you told the app in chat",
       "url": "techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat"
     },
+    "rss:https://techcrunch.com/?p=3156706": {
+      "at": "2026-08-26T14:39:03.699879+00:00",
+      "title": "runable hits 21m to bet ai agents can go from building businesses to growing them",
+      "url": "techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them"
+    },
+    "rss:https://techcrunch.com/?p=3156754": {
+      "at": "2026-08-26T14:39:03.699834+00:00",
+      "title": "querystory wants you to believe what ai is telling you",
+      "url": "techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you"
+    },
     "rss:https://techcrunch.com/?p=3156793": {
       "at": "2026-08-26T02:55:53.162217+00:00",
       "title": "openai loses a top data center exec as stream of high profile departures continues",
@@ -1055,6 +1095,16 @@
       "at": "2026-08-26T02:55:53.162131+00:00",
       "title": "robotics startup generalist reaches 3b valuation sources say",
       "url": "techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
+    },
+    "rss:https://techcrunch.com/?p=3157018": {
+      "at": "2026-08-26T14:39:03.699928+00:00",
+      "title": "arga labs is building a better way to train enterprise ai agents",
+      "url": "techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3157083": {
+      "at": "2026-08-26T14:39:03.699814+00:00",
+      "title": "surprise z ai is the ai lab behind the mysterious ox alpha model",
+      "url": "techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1850,6 +1900,11 @@
       "title": "qwen3 8 flash next this architecture could be surprisingly local friendly once the weights drop",
       "url": "reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vy7i5b": {
+      "at": "2026-08-26T14:39:03.699945+00:00",
+      "title": "you think they could have tweaked the typeface a bit",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vy7i5b/you_think_they_could_have_tweaked_the_typeface_a"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vya9ok": {
       "at": "2026-08-26T02:55:53.162184+00:00",
       "title": "granite speech 5 0 turbo ctc extremely fast and accurate transcription",
@@ -1859,6 +1914,11 @@
       "at": "2026-08-25T23:15:21.967389+00:00",
       "title": "it s here",
       "url": "reddit.com/r/LocalLLaMA/comments/1vycbqw/its_here"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyfved": {
+      "at": "2026-08-26T14:39:03.699899+00:00",
+      "title": "m5 ultra 96gb vs m5 max 128gb is 2x bandwidth worth losing 32gb of ram with qwen3 8 flash next dropping tomorrow",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyfved/m5_ultra_96gb_vs_m5_max_128gb_is_2x_bandwidth"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyie86": {
       "at": "2026-08-26T05:23:10.229815+00:00",
@@ -1870,6 +1930,11 @@
       "title": "thomson reuters releases thomson 1 0 small a law and tax focused model",
       "url": "reddit.com/r/LocalLLaMA/comments/1vyl6yj/thomson_reuters_releases_thomson10small_a_law_and"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyn07o": {
+      "at": "2026-08-26T14:39:03.699937+00:00",
+      "title": "underrated muse glimmer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyn07o/underrated_muse_glimmer"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyp1l9": {
       "at": "2026-08-26T08:28:40.914686+00:00",
       "title": "first serious confirmation ox alpha is glm 5 3 flash",
@@ -1879,6 +1944,21 @@
       "at": "2026-08-26T11:19:14.906053+00:00",
       "title": "megathread qwen3 8 flash next release day",
       "url": "reddit.com/r/LocalLLaMA/comments/1vyq2v4/megathread_qwen38flashnext_release_day"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyre6y": {
+      "at": "2026-08-26T14:39:03.699889+00:00",
+      "title": "a 27b model beating latest frontier models was not on my 2026 bingo card",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyre6y/a_27b_model_beating_latest_frontier_models_was"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyw7e7": {
+      "at": "2026-08-26T14:39:03.699843+00:00",
+      "title": "a minecraft clone i fully vibecoded with qwen3 8 27b q4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyw7e7/a_minecraft_clone_i_fully_vibecoded_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyy3k6": {
+      "at": "2026-08-26T14:39:03.699918+00:00",
+      "title": "glm 5 3 flash frontier intelligence flash cost",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyy3k6/glm53flash_frontier_intelligence_flash_cost"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2126,6 +2206,6 @@
       "url": "technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold"
     }
   },
-  "updated_at": "2026-08-26T11:19:14.906123+00:00",
+  "updated_at": "2026-08-26T14:39:03.699978+00:00",
   "version": 2
 }
