@@ -426,6 +426,11 @@
       "title": "apple introduces m6 and m5 ultra for a big leap in performance and ai compute",
       "url": "apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute"
     },
+    "rss:https://news.ycombinator.com/item?id=49435675": {
+      "at": "2026-08-26T02:55:53.162205+00:00",
+      "title": "show hn i made a raspberry with qwen my local car ai",
+      "url": "github.com/ThinkOffApp/CarWatch"
+    },
     "rss:https://news.ycombinator.com/item?id=49435728": {
       "at": "2026-08-25T17:21:53.012161+00:00",
       "title": "how much of hn is ai",
@@ -1020,6 +1025,16 @@
       "at": "2026-08-25T20:15:22.693481+00:00",
       "title": "claude cowork finally remembers what you told the app in chat",
       "url": "techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat"
+    },
+    "rss:https://techcrunch.com/?p=3156793": {
+      "at": "2026-08-26T02:55:53.162217+00:00",
+      "title": "openai loses a top data center exec as stream of high profile departures continues",
+      "url": "techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues"
+    },
+    "rss:https://techcrunch.com/?p=3156922": {
+      "at": "2026-08-26T02:55:53.162131+00:00",
+      "title": "robotics startup generalist reaches 3b valuation sources say",
+      "url": "techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1815,6 +1830,11 @@
       "title": "qwen3 8 flash next this architecture could be surprisingly local friendly once the weights drop",
       "url": "reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vya9ok": {
+      "at": "2026-08-26T02:55:53.162184+00:00",
+      "title": "granite speech 5 0 turbo ctc extremely fast and accurate transcription",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vya9ok/granite_speech_50_turbo_ctc_extremely_fast_and"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vycbqw": {
       "at": "2026-08-25T23:15:21.967389+00:00",
       "title": "it s here",
@@ -2051,6 +2071,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-25T23:15:21.967433+00:00",
+  "updated_at": "2026-08-26T02:55:53.162282+00:00",
   "version": 2
 }
