@@ -1011,6 +1011,11 @@
       "title": "situational awareness star ai hedge fund that nearly imploded now being probed by the sec",
       "url": "techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec"
     },
+    "rss:https://techcrunch.com/?p=3156276": {
+      "at": "2026-08-26T05:23:10.229865+00:00",
+      "title": "india s ringg gets backing from peak xv as it pushes voice ai past the phone call",
+      "url": "techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call"
+    },
     "rss:https://techcrunch.com/?p=3156453": {
       "at": "2026-08-25T14:38:26.133824+00:00",
       "title": "openai s jalapeño chip is built for fast inference at scale benchmarks show",
@@ -1840,6 +1845,16 @@
       "title": "it s here",
       "url": "reddit.com/r/LocalLLaMA/comments/1vycbqw/its_here"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyie86": {
+      "at": "2026-08-26T05:23:10.229815+00:00",
+      "title": "fully quantized nvfp4 qwen3 8 27b with quasar qad",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyl6yj": {
+      "at": "2026-08-26T05:23:10.229854+00:00",
+      "title": "thomson reuters releases thomson 1 0 small a law and tax focused model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyl6yj/thomson_reuters_releases_thomson10small_a_law_and"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -2071,6 +2086,6 @@
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     }
   },
-  "updated_at": "2026-08-26T02:55:53.162282+00:00",
+  "updated_at": "2026-08-26T05:23:10.229898+00:00",
   "version": 2
 }

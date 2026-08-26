@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-08-25T23:15:19.774647+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vyie86",
+        "title": "Fully quantized NVFP4 Qwen3.8-27B with QUASAR QAD",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyie86/fully_quantized_nvfp4_qwen3827b_with_quasar_qad/",
+        "author": "/u/arty_photography",
+        "published_at": "2026-08-26T01:04:56+00:00"
+      },
+      "insight": {
+        "title_ko": "NVFP4로 양자화된 Qwen3.8-27B 공개",
+        "summary_ko": [
+          "QUASAR 알고리즘의 양자화 인식 증류(QAD)를 활용해 Qwen3.8-27B의 완전한 NVFP4 양자화 버전을 출시했다.",
+          "모든 선형 레이어를 W4A4로 공격적으로 양자화했음에도 QUASAR 덕분에 원본 BF16에 근접한 성능을 유지한다.",
+          "해당 모델 체크포인트는 NVIDIA Blackwell GPU 환경의 vLLM을 통해 지원된다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
