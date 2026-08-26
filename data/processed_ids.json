@@ -727,6 +727,11 @@
       "title": "eve online the move to python 3 begins",
       "url": "simonwillison.net/2026/Aug/25/eve-online-move-to-python-3"
     },
+    "rss:https://simonwillison.net/2026/Aug/26/paul-dix/": {
+      "at": "2026-08-26T08:28:40.914628+00:00",
+      "title": "quoting paul dix",
+      "url": "simonwillison.net/2026/Aug/26/paul-dix"
+    },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
       "title": "wispr raises 280m at 2b valuation as it looks beyond dictation",
@@ -1855,6 +1860,11 @@
       "title": "thomson reuters releases thomson 1 0 small a law and tax focused model",
       "url": "reddit.com/r/LocalLLaMA/comments/1vyl6yj/thomson_reuters_releases_thomson10small_a_law_and"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyp1l9": {
+      "at": "2026-08-26T08:28:40.914686+00:00",
+      "title": "first serious confirmation ox alpha is glm 5 3 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyp1l9/first_serious_confirmation_ox_alpha_is_glm53flash"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -2084,8 +2094,13 @@
       "at": "2026-08-24T17:21:43.070925+00:00",
       "title": "how to encourage smarter ai use in the classroom",
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
+    },
+    "rss:https://www.technologyreview.com/?p=1142946": {
+      "at": "2026-08-26T08:28:40.914665+00:00",
+      "title": "bill gates says we ve passed ai s danger thresholds now what",
+      "url": "technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold"
     }
   },
-  "updated_at": "2026-08-26T05:23:10.229898+00:00",
+  "updated_at": "2026-08-26T08:28:40.914724+00:00",
   "version": 2
 }

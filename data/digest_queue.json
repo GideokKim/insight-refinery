@@ -23,6 +23,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+        "title": "Quoting Paul Dix",
+        "url": "https://simonwillison.net/2026/Aug/26/paul-dix/",
+        "author": null,
+        "published_at": "2026-08-26T08:07:55+00:00"
+      },
+      "insight": {
+        "title_ko": "AI를 활용한 대규모 소프트웨어 개발",
+        "summary_ko": [
+          "AI가 100만 줄의 코드를 작성하고 수개월간 정제하여 수백만 명의 개발자 머신에서 구동되는 신뢰할 수 있는 소프트웨어를 만들어냈다.",
+          "단순한 언어 간 변환을 넘어 검증 시스템을 구축하고 올바른 방향을 제시하면 AI가 복잡한 소프트웨어를 스스로 완성할 수 있다.",
+          "적절한 피드백과 검증 체계가 뒷받침된다면 AI는 고도화된 소프트웨어 개발 과정을 성공적으로 주도할 수 있음을 보여준다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1142946",
+        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+        "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+        "author": "Mat Honan",
+        "published_at": "2026-08-26T07:01:00+00:00"
+      },
+      "insight": {
+        "title_ko": "빌 게이츠의 AI 위험성 경고와 제언",
+        "summary_ko": [
+          "빌 게이츠는 AI 기술이 바이오, 사이버, 고용 시장 등의 위험 임계점을 이미 넘어섰다고 경고했습니다.",
+          "그는 특히 바이오테러 위험성이 자연 팬데믹보다 훨씬 심각하다고 강조하며 전 세계적인 관심을 촉구했습니다.",
+          "대책으로 인간 전용 일자리 보존, 로봇세, 토큰세 등 새로운 사회적 규제 아이디어를 제시했습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
