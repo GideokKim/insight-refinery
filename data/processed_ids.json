@@ -70,6 +70,11 @@
       "title": "from atari to eve online building on 15 years of ai research in games",
       "url": "deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
     },
+    "rss:https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
+      "at": "2026-08-26T18:46:54.599647+00:00",
+      "title": "intelligent transcription with gemini 3 5 transcribe",
+      "url": "deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe"
+    },
     "rss:https://developer.nvidia.com/blog/?p=121239": {
       "at": "2026-08-24T11:05:22.951670+00:00",
       "title": "how generative recommenders are redefining recsys at scale",
@@ -154,6 +159,11 @@
       "at": "2026-08-25T23:15:21.967285+00:00",
       "title": "restore llm inference capacity in seconds with shadow engine recovery in nvidia dynamo",
       "url": "developer.nvidia.com/blog/restore-llm-inference-capacity-in-seconds-with-shadow-engine-recovery-in-nvidia-dynamo"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121855": {
+      "at": "2026-08-26T18:46:54.599580+00:00",
+      "title": "experiment with qwen3 8 flash next 176b model on nvidia gb300 nvl72 for agentic coding",
+      "url": "developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -461,10 +471,20 @@
       "title": "fake us thinktank set up and funded by israel sought to game ai for propaganda",
       "url": "theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda"
     },
+    "rss:https://news.ycombinator.com/item?id=49448137": {
+      "at": "2026-08-26T18:46:54.599760+00:00",
+      "title": "bill gates the turbulent ai era is here",
+      "url": "gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
       "url": "openai.com/index/asana"
+    },
+    "rss:https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+      "at": "2026-08-26T18:46:54.599712+00:00",
+      "title": "bringing chatgpt for teachers to more u s school districts",
+      "url": "openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
     "rss:https://openai.com/index/builders-guide-to-gpt-5-6": {
       "at": "2026-08-19T14:23:12.191222+00:00",
@@ -513,6 +533,11 @@
       "at": "2026-08-25T17:21:53.012020+00:00",
       "title": "jalapeño s first results show industry leading speed and efficiency in ai inference",
       "url": "openai.com/index/jalapeno-first-results"
+    },
+    "rss:https://openai.com/index/learning-never-stops": {
+      "at": "2026-08-26T18:46:54.599788+00:00",
+      "title": "learning never stops how ai makes learning continuous",
+      "url": "openai.com/index/learning-never-stops"
     },
     "rss:https://openai.com/index/loveholidays": {
       "at": "2026-08-26T11:19:14.906066+00:00",
@@ -611,6 +636,11 @@
       "at": "2026-08-19T20:13:45.261360+00:00",
       "title": "from pixels to planning earth ai for nature restoration",
       "url": "research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration"
+    },
+    "rss:https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/": {
+      "at": "2026-08-26T18:46:54.599561+00:00",
+      "title": "glucofm foundation model for continuous glucose monitoring",
+      "url": "research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring"
     },
     "rss:https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/": {
       "at": "2026-08-21T20:12:48.536153+00:00",
@@ -761,6 +791,11 @@
       "at": "2026-08-26T08:28:40.914628+00:00",
       "title": "quoting paul dix",
       "url": "simonwillison.net/2026/Aug/26/paul-dix"
+    },
+    "rss:https://techcrunch.com/?p=3139375": {
+      "at": "2026-08-26T18:46:54.599664+00:00",
+      "title": "ex meta scientists want to bring visual ai to the factory floor",
+      "url": "techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor"
     },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
@@ -1106,6 +1141,16 @@
       "title": "surprise z ai is the ai lab behind the mysterious ox alpha model",
       "url": "techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model"
     },
+    "rss:https://techcrunch.com/?p=3157086": {
+      "at": "2026-08-26T18:46:54.599609+00:00",
+      "title": "radar makes podcasts searchable and usable by ai agents",
+      "url": "techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3157087": {
+      "at": "2026-08-26T18:46:54.599678+00:00",
+      "title": "bill gates wants to see a robot tax and human reserved jobs to mitigate harms from ai",
+      "url": "techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1146,6 +1191,11 @@
       "title": "ainews stripe buys openrouter for 7b",
       "url": "latent.space/p/ainews-stripe-buys-openrouter-for"
     },
+    "rss:https://www.latent.space/p/anima": {
+      "at": "2026-08-26T18:46:54.599626+00:00",
+      "title": "we have foundation models for language not for physics anima anandkumar bren professor of computing",
+      "url": "latent.space/p/anima"
+    },
     "rss:https://www.latent.space/p/attention-interface": {
       "at": "2026-08-24T11:05:22.951496+00:00",
       "title": "the evolution of the agent harness",
@@ -1155,6 +1205,11 @@
       "at": "2026-08-24T11:19:10.800860+00:00",
       "title": "frontier model cost and open weights popularity is driving demand for model routing",
       "url": "latent.space/p/glean-model-routing"
+    },
+    "rss:https://www.latent.space/p/lovable-future-of-saas": {
+      "at": "2026-08-26T18:46:54.599596+00:00",
+      "title": "the future of saas is apps that agents can use",
+      "url": "latent.space/p/lovable-future-of-saas"
     },
     "rss:https://www.latent.space/p/simile": {
       "at": "2026-08-24T11:05:22.951509+00:00",
@@ -1950,6 +2005,11 @@
       "title": "a 27b model beating latest frontier models was not on my 2026 bingo card",
       "url": "reddit.com/r/LocalLLaMA/comments/1vyre6y/a_27b_model_beating_latest_frontier_models_was"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyw1wo": {
+      "at": "2026-08-26T18:46:54.599773+00:00",
+      "title": "forget the pelican it s weevil time benchmaxxing proof svg and vision benchmark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyw1wo/forget_the_pelican_its_weeviltime"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyw7e7": {
       "at": "2026-08-26T14:39:03.699843+00:00",
       "title": "a minecraft clone i fully vibecoded with qwen3 8 27b q4",
@@ -1959,6 +2019,26 @@
       "at": "2026-08-26T14:39:03.699918+00:00",
       "title": "glm 5 3 flash frontier intelligence flash cost",
       "url": "reddit.com/r/LocalLLaMA/comments/1vyy3k6/glm53flash_frontier_intelligence_flash_cost"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyyesk": {
+      "at": "2026-08-26T18:46:54.599696+00:00",
+      "title": "zai org glm 5 3 flash hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyyesk/zaiorgglm53flash_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyzzxu": {
+      "at": "2026-08-26T18:46:54.599517+00:00",
+      "title": "megathread glm 5 3 flash former ox alpha",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyzzxu/megathread_glm53flash_former_oxalpha"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vz1dkz": {
+      "at": "2026-08-26T18:46:54.599742+00:00",
+      "title": "whoever the fuck predicted we would have gpt 5 5 performance in coding on consumer hardware a couple months ago now i applaud you",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vz1dkz/whoever_the_fuck_predicted_we_would_have_gpt_55"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vz40zv": {
+      "at": "2026-08-26T18:46:54.599726+00:00",
+      "title": "can we reconsider the megathreads",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2206,6 +2286,6 @@
       "url": "technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold"
     }
   },
-  "updated_at": "2026-08-26T14:39:03.699978+00:00",
+  "updated_at": "2026-08-26T18:46:54.599832+00:00",
   "version": 2
 }
