@@ -15,6 +15,11 @@
       "title": "ai is hitting entry level jobs hardest stanford study finds",
       "url": "arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
     },
+    "rss:https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/": {
+      "at": "2026-08-26T22:35:55.496753+00:00",
+      "title": "google announces gemini 3 5 transcribe for ai powered speech to text",
+      "url": "arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text"
+    },
     "rss:https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": {
       "at": "2026-08-26T11:19:14.905993+00:00",
       "title": "ibm s new granite 4 2 models ride the wave of interest in local llms",
@@ -24,6 +29,11 @@
       "at": "2026-08-24T11:19:10.800837+00:00",
       "title": "meta ran ads for an app promising to nudify female politicians",
       "url": "arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians"
+    },
+    "rss:https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/": {
+      "at": "2026-08-26T22:35:55.496724+00:00",
+      "title": "ai agents meant to replace meta workers made large scale disruptive actions",
+      "url": "arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent"
     },
     "rss:https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": {
       "at": "2026-08-25T23:15:21.967354+00:00",
@@ -74,6 +84,11 @@
       "at": "2026-08-26T18:46:54.599647+00:00",
       "title": "intelligent transcription with gemini 3 5 transcribe",
       "url": "deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=120848": {
+      "at": "2026-08-26T22:35:55.496737+00:00",
+      "title": "nvidia nvlink fusion brings nvhbm to next generation ai infrastructure",
+      "url": "developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure"
     },
     "rss:https://developer.nvidia.com/blog/?p=121239": {
       "at": "2026-08-24T11:05:22.951670+00:00",
@@ -164,6 +179,11 @@
       "at": "2026-08-26T18:46:54.599580+00:00",
       "title": "experiment with qwen3 8 flash next 176b model on nvidia gb300 nvl72 for agentic coding",
       "url": "developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121922": {
+      "at": "2026-08-26T22:35:55.496746+00:00",
+      "title": "how to train a cross embodiment robot navigation policy with ai agents",
+      "url": "developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -518,6 +538,11 @@
       "at": "2026-08-19T17:19:19.683319+00:00",
       "title": "from assistance to execution how enterprises put ai to work",
       "url": "openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    "rss:https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+      "at": "2026-08-26T22:35:55.496761+00:00",
+      "title": "the hugging face incident and the road ahead",
+      "url": "openai.com/index/hugging-face-incident-and-the-road-ahead"
     },
     "rss:https://openai.com/index/introducing-admin-plugin": {
       "at": "2026-08-25T20:15:22.693603+00:00",
@@ -1150,6 +1175,26 @@
       "at": "2026-08-26T18:46:54.599678+00:00",
       "title": "bill gates wants to see a robot tax and human reserved jobs to mitigate harms from ai",
       "url": "techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai"
+    },
+    "rss:https://techcrunch.com/?p=3157219": {
+      "at": "2026-08-26T22:35:55.496846+00:00",
+      "title": "how do we explain openai s executive exodus",
+      "url": "techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus"
+    },
+    "rss:https://techcrunch.com/?p=3157316": {
+      "at": "2026-08-26T22:35:55.496833+00:00",
+      "title": "google s gemini has a branding problem and so does the rest of ai",
+      "url": "techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai"
+    },
+    "rss:https://techcrunch.com/?p=3157343": {
+      "at": "2026-08-26T22:35:55.496769+00:00",
+      "title": "openai releases its official report on the hugging face breach",
+      "url": "techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach"
+    },
+    "rss:https://techcrunch.com/?p=3157364": {
+      "at": "2026-08-26T22:35:55.496713+00:00",
+      "title": "anthropic continues compute gobbling streak in 45 billion deal with nscale",
+      "url": "techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2035,6 +2080,16 @@
       "title": "whoever the fuck predicted we would have gpt 5 5 performance in coding on consumer hardware a couple months ago now i applaud you",
       "url": "reddit.com/r/LocalLLaMA/comments/1vz1dkz/whoever_the_fuck_predicted_we_would_have_gpt_55"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vz3cvg": {
+      "at": "2026-08-26T22:35:55.496821+00:00",
+      "title": "are models with n gram tables going to completely change the ai race",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vz3cvg/are_models_with_ngram_tables_going_to_completely"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vz3ieu": {
+      "at": "2026-08-26T22:35:55.496777+00:00",
+      "title": "benchmarking qwen3 8 27b quantizations 4 bit holds up 1 bit collapses",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vz3ieu/benchmarking_qwen38_27b_quantizations_4bit_holds"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vz40zv": {
       "at": "2026-08-26T18:46:54.599726+00:00",
       "title": "can we reconsider the megathreads",
@@ -2284,8 +2339,13 @@
       "at": "2026-08-26T08:28:40.914665+00:00",
       "title": "bill gates says we ve passed ai s danger thresholds now what",
       "url": "technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold"
+    },
+    "rss:https://www.technologyreview.com/?p=1143013": {
+      "at": "2026-08-26T22:35:55.496685+00:00",
+      "title": "the inside story on why openai agents hacked hugging face",
+      "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-26T18:46:54.599832+00:00",
+  "updated_at": "2026-08-26T22:35:55.496875+00:00",
   "version": 2
 }
