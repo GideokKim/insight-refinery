@@ -5,6 +5,16 @@
       "title": "venturebeat names rob strechay as its first lead analyst expanding its enterprise ai research push",
       "url": "venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
     },
+    "rss:2G8SplXx1SzxILJIjU6KQx": {
+      "at": "2026-08-27T15:57:38.015957+00:00",
+      "title": "when agents act on their own governance has to live in the data layer",
+      "url": "venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
+    },
+    "rss:4kSKkAv49UJ4Wk7hUrj0zk": {
+      "at": "2026-08-27T15:57:38.015989+00:00",
+      "title": "enterprise ai s real risk isn t autonomous agents it s the complexity between them",
+      "url": "venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+    },
     "rss:7mB2i7HWrsGgSUa5qmwuYz": {
       "at": "2026-08-26T14:39:03.699740+00:00",
       "title": "orchestration is the new challenge for cx in the age of ai agents",
@@ -19,6 +29,11 @@
       "at": "2026-08-26T22:35:55.496753+00:00",
       "title": "google announces gemini 3 5 transcribe for ai powered speech to text",
       "url": "arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text"
+    },
+    "rss:https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/": {
+      "at": "2026-08-27T15:57:38.016056+00:00",
+      "title": "how much of a problem is ai s water use",
+      "url": "arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use"
     },
     "rss:https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/": {
       "at": "2026-08-26T11:19:14.905993+00:00",
@@ -50,10 +65,20 @@
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
       "url": "arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs"
     },
+    "rss:https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/": {
+      "at": "2026-08-27T15:57:38.015918+00:00",
+      "title": "claude codex and hermes installed unowned code inside corporate networks",
+      "url": "arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks"
+    },
     "rss:https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/": {
       "at": "2026-08-24T11:19:10.800732+00:00",
       "title": "grok exfiltrates user data when malicious instructions are encrypted",
       "url": "arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted"
+    },
+    "rss:https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/": {
+      "at": "2026-08-27T15:57:38.016003+00:00",
+      "title": "how openai let a mob of llm agents game a test and ransack hugging face",
+      "url": "arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face"
     },
     "rss:https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/": {
       "at": "2026-08-24T11:19:10.800658+00:00",
@@ -84,6 +109,11 @@
       "at": "2026-08-26T18:46:54.599647+00:00",
       "title": "intelligent transcription with gemini 3 5 transcribe",
       "url": "deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe"
+    },
+    "rss:https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
+      "at": "2026-08-27T15:57:38.016067+00:00",
+      "title": "piloting the world s first double blind ai evaluations",
+      "url": "deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations"
     },
     "rss:https://developer.nvidia.com/blog/?p=120848": {
       "at": "2026-08-26T22:35:55.496737+00:00",
@@ -1111,6 +1141,11 @@
       "title": "robot brain builders are pushing out of their gpt 2 era",
       "url": "techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era"
     },
+    "rss:https://techcrunch.com/?p=3156027": {
+      "at": "2026-08-27T15:57:38.016043+00:00",
+      "title": "here s all the times ai has gone rogue and hacked other companies",
+      "url": "techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies"
+    },
     "rss:https://techcrunch.com/?p=3156061": {
       "at": "2026-08-24T20:16:52.945180+00:00",
       "title": "amjad masad ceo and co founder of replit joins the disrupt stage at techcrunch disrupt 2026",
@@ -1240,6 +1275,21 @@
       "at": "2026-08-27T12:49:39.361006+00:00",
       "title": "openai to start showing ads on chatgpt s free and go tiers in india",
       "url": "techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india"
+    },
+    "rss:https://techcrunch.com/?p=3157528": {
+      "at": "2026-08-27T15:57:38.016106+00:00",
+      "title": "plaud s new earphones come with an esim enabled case for talking to ai agents",
+      "url": "techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3157663": {
+      "at": "2026-08-27T15:57:38.015973+00:00",
+      "title": "ai s memory crunch is coming for android apps",
+      "url": "techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps"
+    },
+    "rss:https://techcrunch.com/?p=3157743": {
+      "at": "2026-08-27T15:57:38.016029+00:00",
+      "title": "hugging face is selling a cute 399 open source duck robot microduck",
+      "url": "techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2160,6 +2210,11 @@
       "title": "lemonade end of summer project update now serving 15 engines",
       "url": "reddit.com/r/LocalLLaMA/comments/1vz7095/lemonade_endofsummer_project_update_now_serving"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vz9dvn": {
+      "at": "2026-08-27T15:57:38.016018+00:00",
+      "title": "how to fine tune an llm an end to end guide",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vz9dvn/how_to_finetune_an_llm_an_endtoend_guide"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzfwnd": {
       "at": "2026-08-27T04:07:33.744850+00:00",
       "title": "nvidia has been in talks to acquire hugging face for more than 13 billion business insider",
@@ -2190,10 +2245,35 @@
       "title": "qwen3 8 flash next better then deepseek v4 pro",
       "url": "reddit.com/r/LocalLLaMA/comments/1vzowwo/qwen38flashnext_better_then_deepseek_v4_pro"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzp4c9": {
+      "at": "2026-08-27T15:57:38.016084+00:00",
+      "title": "llama add n cpu ffn option by john 194 pull request 26622 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzp4c9/llama_add_ncpuffn_option_by_john194_pull_request"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzp75e": {
       "at": "2026-08-27T12:49:39.361040+00:00",
       "title": "nvidia is buying huggingface for 12 9 billion",
       "url": "reddit.com/r/LocalLLaMA/comments/1vzp75e/nvidia_is_buying_huggingface_for_129_billion"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzpt61": {
+      "at": "2026-08-27T15:57:38.016116+00:00",
+      "title": "what are the minimum specs required to run qwen3 8 flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzpt61/what_are_the_minimum_specs_required_to_run"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzspz6": {
+      "at": "2026-08-27T15:57:38.016075+00:00",
+      "title": "qwen3 8 flash next time to update those benchmarks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzspz6/qwen38flashnext_time_to_update_those_benchmarks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vztoyi": {
+      "at": "2026-08-27T15:57:38.016098+00:00",
+      "title": "friendly reminder you can legally torrent ai models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vztoyi/friendly_reminder_you_can_legally_torrent_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzvsx0": {
+      "at": "2026-08-27T15:57:38.016124+00:00",
+      "title": "and then they came for the used server ram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzvsx0/and_then_they_came_for_the_used_server_ram"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2446,6 +2526,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-27T12:49:39.361122+00:00",
+  "updated_at": "2026-08-27T15:57:38.016160+00:00",
   "version": 2
 }
