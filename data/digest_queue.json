@@ -529,6 +529,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3157522",
+        "title": "Nvidia closes in on Hugging Face acquisition",
+        "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+        "author": "Connie Loizos",
+        "published_at": "2026-08-27T06:32:51+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 Hugging Face 인수 임박",
+        "summary_ko": [
+          "Nvidia가 오픈소스 AI 허브인 Hugging Face를 129억 달러에 인수하기로 합의한 것으로 알려졌다.",
+          "이번 인수를 통해 Nvidia는 자사의 칩 제국을 보호하고 클라우드 사업에 다시 진출할 수 있게 된다.",
+          "AI 업계에서 양사의 결합이 생태계 전반에 미칠 실무적 영향에 관심이 집중되고 있다."
+        ],
+        "category": "Industry",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vzgtqf",
+        "title": "N-gram vs Experts explained",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzgtqf/ngram_vs_experts_explained/",
+        "author": "/u/Beamsters",
+        "published_at": "2026-08-27T02:00:40+00:00"
+      },
+      "insight": {
+        "title_ko": "N-gram과 MoE 아키텍처 비교",
+        "summary_ko": [
+          "최근 공개된 Qwen4Exp는 순수 MoE 대신 N-gram에 파라미터를 오프로딩하는 방식을 도입했습니다.",
+          "MoE가 추론을 담당하는 것과 달리 N-gram은 로컬 구문의 벡터를 저장하여 암기 및 회상을 보조합니다.",
+          "전체 파라미터의 약 20에서 25퍼센트를 N-gram 테이블에 할당해 성능 저하 없이 효율성을 높일 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vyz13i",
+        "title": "HF exploring sale - impact on open models?",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyz13i/hf_exploring_sale_impact_on_open_models/",
+        "author": "/u/shoeshineboy_99",
+        "published_at": "2026-08-26T14:42:01+00:00"
+      },
+      "insight": {
+        "title_ko": "Hugging Face 매각 추진과 오픈 모델 영향",
+        "summary_ko": [
+          "Hugging Face가 약 130억 달러의 기업 가치로 매각을 검토하고 있습니다.",
+          "모델 가중치와 데이터셋을 공유하는 대안적 저장소가 부족해 실무자들의 우려가 커지고 있습니다.",
+          "인수 후 수익성 강화 정책이 도입될 경우 오픈소스 생태계에 변화가 생길 수 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -549,6 +549,11 @@
       "title": "disrupting a new covert influence campaign from russia",
       "url": "openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
     },
+    "rss:https://openai.com/index/expanding-our-presence-in-brazil": {
+      "at": "2026-08-27T12:49:39.361064+00:00",
+      "title": "expanding openai s presence in brazil",
+      "url": "openai.com/index/expanding-our-presence-in-brazil"
+    },
     "rss:https://openai.com/index/gpt-5-6-in-kiro": {
       "at": "2026-08-24T20:16:52.945057+00:00",
       "title": "advancing price performance for developers with gpt 5 6 in kiro",
@@ -1225,6 +1230,16 @@
       "at": "2026-08-27T04:07:33.744928+00:00",
       "title": "viral ai startup instinct has raised 350 million at a 2 5 billion valuation",
       "url": "techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation"
+    },
+    "rss:https://techcrunch.com/?p=3157522": {
+      "at": "2026-08-27T12:49:39.360906+00:00",
+      "title": "nvidia closes in on hugging face acquisition",
+      "url": "techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition"
+    },
+    "rss:https://techcrunch.com/?p=3157523": {
+      "at": "2026-08-27T12:49:39.361006+00:00",
+      "title": "openai to start showing ads on chatgpt s free and go tiers in india",
+      "url": "techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2110,6 +2125,11 @@
       "title": "zai org glm 5 3 flash hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1vyyesk/zaiorgglm53flash_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyz13i": {
+      "at": "2026-08-27T12:49:39.360993+00:00",
+      "title": "hf exploring sale impact on open models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vyz13i/hf_exploring_sale_impact_on_open_models"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vyzzxu": {
       "at": "2026-08-26T18:46:54.599517+00:00",
       "title": "megathread glm 5 3 flash former ox alpha",
@@ -2135,15 +2155,45 @@
       "title": "can we reconsider the megathreads",
       "url": "reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vz7095": {
+      "at": "2026-08-27T12:49:39.361030+00:00",
+      "title": "lemonade end of summer project update now serving 15 engines",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vz7095/lemonade_endofsummer_project_update_now_serving"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzfwnd": {
       "at": "2026-08-27T04:07:33.744850+00:00",
       "title": "nvidia has been in talks to acquire hugging face for more than 13 billion business insider",
       "url": "reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzgtqf": {
+      "at": "2026-08-27T12:49:39.360975+00:00",
+      "title": "n gram vs experts explained",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzgtqf/ngram_vs_experts_explained"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzhwxl": {
       "at": "2026-08-27T04:07:33.744959+00:00",
       "title": "this is a friendly reminder you can legally seed ai models via torrenting",
       "url": "reddit.com/r/LocalLLaMA/comments/1vzhwxl/this_is_a_friendly_reminder_you_can_legally_seed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzjlxd": {
+      "at": "2026-08-27T12:49:39.361021+00:00",
+      "title": "glm 5 3 weights will be released tomorrow",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzjlxd/glm53_weights_will_be_released_tomorrow"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzmqrk": {
+      "at": "2026-08-27T12:49:39.361053+00:00",
+      "title": "nvidia buying hf isn t a good thing for open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzmqrk/nvidia_buying_hf_isnt_a_good_thing_for_open_source"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzowwo": {
+      "at": "2026-08-27T12:49:39.361074+00:00",
+      "title": "qwen3 8 flash next better then deepseek v4 pro",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzowwo/qwen38flashnext_better_then_deepseek_v4_pro"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzp75e": {
+      "at": "2026-08-27T12:49:39.361040+00:00",
+      "title": "nvidia is buying huggingface for 12 9 billion",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzp75e/nvidia_is_buying_huggingface_for_129_billion"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2396,6 +2446,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-27T04:07:33.745033+00:00",
+  "updated_at": "2026-08-27T12:49:39.361122+00:00",
   "version": 2
 }
