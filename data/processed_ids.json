@@ -496,6 +496,26 @@
       "title": "bill gates the turbulent ai era is here",
       "url": "gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make"
     },
+    "rss:https://news.ycombinator.com/item?id=49450898": {
+      "at": "2026-08-27T04:07:33.744987+00:00",
+      "title": "it s so hard to finish an idea that is not yours and is just suggested by ai",
+      "url": "ssp.sh/brain/using-obsidian-with-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49451313": {
+      "at": "2026-08-27T04:07:33.744975+00:00",
+      "title": "the turbulent ai era is here",
+      "url": "gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"
+    },
+    "rss:https://news.ycombinator.com/item?id=49454764": {
+      "at": "2026-08-27T04:07:33.744944+00:00",
+      "title": "serve markdown to ai agents with accept headers",
+      "url": "acceptmarkdown.com/"
+    },
+    "rss:https://news.ycombinator.com/item?id=49458418": {
+      "at": "2026-08-27T04:07:33.744914+00:00",
+      "title": "ceo fired developers to make room for ai developers create open source ai ceo",
+      "url": "github.com/SenteLabsAI/OpenExecutive"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -1196,6 +1216,16 @@
       "title": "anthropic continues compute gobbling streak in 45 billion deal with nscale",
       "url": "techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale"
     },
+    "rss:https://techcrunch.com/?p=3157431": {
+      "at": "2026-08-27T04:07:33.744895+00:00",
+      "title": "amazon just tripled its order of nvidia chips over surging demand",
+      "url": "techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand"
+    },
+    "rss:https://techcrunch.com/?p=3157433": {
+      "at": "2026-08-27T04:07:33.744928+00:00",
+      "title": "viral ai startup instinct has raised 350 million at a 2 5 billion valuation",
+      "url": "techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1221,10 +1251,20 @@
       "title": "ainews death of params z ai ceo jie tang on glm 5 3 and the new post training scaling law",
       "url": "latent.space/p/ainews-death-of-params-zai-ceo-jie"
     },
+    "rss:https://www.latent.space/p/ainews-hot-chips-openais-jalapeno": {
+      "at": "2026-08-27T04:07:33.744821+00:00",
+      "title": "ainews hot chips openai s jalapeño cerebras cs 5 groq 3 lpx apple m6",
+      "url": "latent.space/p/ainews-hot-chips-openais-jalapeno"
+    },
     "rss:https://www.latent.space/p/ainews-memory-prices-up-500-in-12": {
       "at": "2026-08-24T11:19:10.800848+00:00",
       "title": "ainews memory prices up 500 in 12 months",
       "url": "latent.space/p/ainews-memory-prices-up-500-in-12"
+    },
+    "rss:https://www.latent.space/p/ainews-nvidia-buys-huggingface-for": {
+      "at": "2026-08-27T04:07:33.744780+00:00",
+      "title": "ainews nvidia buys huggingface for 13b as openai publishes their hf incident retro",
+      "url": "latent.space/p/ainews-nvidia-buys-huggingface-for"
     },
     "rss:https://www.latent.space/p/ainews-poolside-gets-12b-reverse": {
       "at": "2026-08-24T11:05:22.951611+00:00",
@@ -2095,6 +2135,16 @@
       "title": "can we reconsider the megathreads",
       "url": "reddit.com/r/LocalLLaMA/comments/1vz40zv/can_we_reconsider_the_megathreads"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzfwnd": {
+      "at": "2026-08-27T04:07:33.744850+00:00",
+      "title": "nvidia has been in talks to acquire hugging face for more than 13 billion business insider",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzhwxl": {
+      "at": "2026-08-27T04:07:33.744959+00:00",
+      "title": "this is a friendly reminder you can legally seed ai models via torrenting",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzhwxl/this_is_a_friendly_reminder_you_can_legally_seed"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -2346,6 +2396,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-26T22:35:55.496875+00:00",
+  "updated_at": "2026-08-27T04:07:33.745033+00:00",
   "version": 2
 }

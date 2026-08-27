@@ -441,6 +441,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+        "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+        "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+        "author": null,
+        "published_at": "2026-08-27T01:50:54+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA의 HuggingFace 인수 및 GLM-5.3-Flash 출시",
+        "summary_ko": [
+          "NVIDIA가 연간 반복 매출의 약 80배 규모인 130억 달러에 HuggingFace를 인수하기로 최종 확정되었습니다.",
+          "Z.ai는 100만 토큰 컨텍스트와 MIT 라이선스를 지원하는 네이티브 멀티모달 모델 GLM-5.3-Flash를 공식 출시했습니다.",
+          "이번 인수를 통해 AI 인프라와 오픈소스 생태계 전반에서 NVIDIA의 영향력이 더욱 강화될 전망입니다."
+        ],
+        "category": "Industry",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+        "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+        "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+        "author": null,
+        "published_at": "2026-08-27T01:31:22+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI 자사 추론 칩 Jalapeño 공개",
+        "summary_ko": [
+          "제37회 Hot Chips 콘퍼런스에서 OpenAI가 자체 개발한 커스텀 추론 칩 Jalapeño의 벤치마크 세부 정보를 공개했습니다.",
+          "Jalapeño는 NVIDIA GB200/GB300 시스템 대비 전력당 성능과 지연 시간 측면에서 뛰어난 효율성을 입증했습니다.",
+          "특히 GPT-Astra와 Codex를 활용해 저수준 커널을 최적화함으로써 프론티어 랩의 인프라 자립 가능성을 높였습니다."
+        ],
+        "category": "Infra",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1vzfwnd",
+        "title": "Nvidia has been in talks to acquire Hugging Face for more than $13 billion - Business Insider",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzfwnd/nvidia_has_been_in_talks_to_acquire_hugging_face/",
+        "author": "/u/Nunki08",
+        "published_at": "2026-08-27T01:19:24+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 Hugging Face 인수 협상",
+        "summary_ko": [
+          "Nvidia가 오픈소스 모델 저장소인 Hugging Face를 인수하기 위한 협상을 진행 중인 것으로 알려졌습니다.",
+          "일부 보도에 따르면 인수 금액은 13억 달러가 넘으며 최종 합의에 이르렀다는 소식도 전해졌습니다.",
+          "이번 인수가 성사될 경우 AI 오픈소스 생태계와 관련 업계 전반에 큰 파장을 미칠 것으로 예상됩니다."
+        ],
+        "category": "Industry",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3157431",
+        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+        "author": "Rebecca Bellan, Kirsten Korosec",
+        "published_at": "2026-08-26T23:47:18+00:00"
+      },
+      "insight": {
+        "title_ko": "아마존, 급증하는 수요로 Nvidia 칩 주문량 3배 확대",
+        "summary_ko": [
+          "아마존은 향후 2년 동안 데이터 센터에 200만 개의 Nvidia GPU 칩을 추가할 계획입니다.",
+          "이번 조치는 인공지능 관련 컴퓨팅 인프라에 대한 수요가 급증함에 따라 이루어졌습니다.",
+          "양사의 파트너십은 단순한 칩 구매를 넘어 다방면으로 확장되고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
