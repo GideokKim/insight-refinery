@@ -969,6 +969,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3158189",
+        "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-08-28T12:46:12+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, 펜타곤 공급망 리스크 판결 승소",
+        "summary_ko": [
+          "연방 판사는 트럼프 행정부가 Anthropic을 공급망 위험으로 지정한 조치가 불법이라고 판결했습니다.",
+          "이번 판결은 워싱턴에서 진행 중인 펜타곤과의 두 번째 소송에서 Anthropic에게 첫 번째 승리를 안겨주었습니다.",
+          "해당 법적 분쟁은 AI 기업의 정부 계약 및 보안 분류에 중요한 선례가 될 수 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w0mmk7",
+        "title": "Micron: HBM Requires Three Times More Wafer Area Than DDR5",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0mmk7/micron_hbm_requires_three_times_more_wafer_area/",
+        "author": "/u/FullstackSensei",
+        "published_at": "2026-08-28T10:19:44+00:00"
+      },
+      "insight": {
+        "title_ko": "HBM과 DDR5의 웨이퍼 면적 및 공급 부족 분석",
+        "summary_ko": [
+          "Hot Chips 2026에서 마이크론은 동일 용량 기준 HBM이 DDR5보다 약 3배 더 많은 웨이퍼 면적을 요구한다고 발표했다.",
+          "HBM은 복잡한 구조와 Through-Silicon Vias 등으로 인해 향후 세대에서도 이 비율이 개선되지 않을 전망이다.",
+          "제조사들의 HBM 전환으로 실질적인 DRAM 생산량이 급감하면서 향후 공급난이 지속될 것으로 보인다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+        "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+        "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
+        "author": null,
+        "published_at": "2026-08-28T07:12:10+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI AGI 타임라인 및 주요 AI 뉴스",
+        "summary_ko": [
+          "OpenAI의 최고과학자 Jakub Pachocki와 CEO Sam Altman은 미출시 모델 Astra와 내부 기준을 통해 2026년 말까지 AGI 달성을 예상하고 있다.",
+          "Hugging Face와 Pollen Robotics는 399달러의 오픈소스 이족보행 로봇 Microduck을 출시하여 시뮬레이션 기반 학습과 실물 배포를 지원한다.",
+          "Zhipu의 GLM-5.3-Flash 모델은 320B 파라미터와 뛰어난 효율성으로 로컬 구동 및 양자화 워크플로우에서 주목받고 있다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w0igxk",
+        "title": "Tencent/Hy4-preview 770B-A49B weight dropped",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0igxk/tencenthy4preview_770ba49b_weight_dropped/",
+        "author": "/u/Beamsters",
+        "published_at": "2026-08-28T06:14:02+00:00"
+      },
+      "insight": {
+        "title_ko": "Tencent의 Hy4-preview 770B 모델 공개",
+        "summary_ko": [
+          "Tencent에서 Hy4-preview 770B-A49B 모델의 가중치를 새롭게 공개했다.",
+          "대규모 오픈 웨이트 모델로서 로컬 LLM 생태계와 관련 연구에 활용될 수 있다.",
+          "초대형 모델의 공개를 통해 향후 성능 검증 및 실무 적용 가능성이 주목받고 있다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49472820",
+        "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+        "url": "https://www.terminal-bench-science.ai/announcement",
+        "author": "matt_d",
+        "published_at": "2026-08-28T00:06:51+00:00"
+      },
+      "insight": {
+        "title_ko": "과학 연구 워크플로우용 AI 에이전트 평가 벤치마크",
+        "summary_ko": [
+          "Terminal-Bench-Science는 과학 연구 워크플로우에서 AI 에이전트의 성능을 평가하기 위해 새롭게 공개된 벤치마크입니다.",
+          "이 도구는 복잡한 터미널 환경과 과학적 연구 과제에서 AI 에이전트가 얼마나 효과적으로 수행하는지 측정합니다.",
+          "과학 연구 분야에 특화된 AI 에이전트의 실무 능력을 객관적으로 검증하는 데 중요한 역할을 할 것으로 기대됩니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w0ao39",
+        "title": "I implemented a modern LLM in 700 lines of C",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0ao39/i_implemented_a_modern_llm_in_700_lines_of_c/",
+        "author": "/u/Critical_Physics8",
+        "published_at": "2026-08-27T23:53:48+00:00"
+      },
+      "insight": {
+        "title_ko": "700줄의 C 언어로 구현한 모던 LLM",
+        "summary_ko": [
+          "개발자가 700줄의 단일 C 파일로 Gemma 4 E2B 모델을 구동하는 gemma4.c 프로젝트를 공개했다.",
+          "토크나이저부터 KV 캐시, 샘플링, CPU 커널까지 외부 라이브러리 없이 구현되어 전체 추론 과정을 소스 코드로 직접 확인할 수 있다.",
+          "int8 양자화와 AVX-512 VNNI 등을 활용하여 CPU 환경에서 높은 성능을 제공한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

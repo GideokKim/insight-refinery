@@ -576,6 +576,11 @@
       "title": "ceo fired developers to make room for ai developers create open source ai ceo",
       "url": "github.com/SenteLabsAI/OpenExecutive"
     },
+    "rss:https://news.ycombinator.com/item?id=49458875": {
+      "at": "2026-08-28T13:29:03.622075+00:00",
+      "title": "humanity has the debate about ai consciousness backwards",
+      "url": "economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards"
+    },
     "rss:https://news.ycombinator.com/item?id=49464314": {
       "at": "2026-08-28T01:13:09.165278+00:00",
       "title": "mit s ad hoc committee on ai use in teaching learning and research training",
@@ -585,6 +590,26 @@
       "at": "2026-08-28T01:13:09.165203+00:00",
       "title": "nvidia projects 673b in sales as ai demand widens",
       "url": "forgeeks.net/nvidia-673-billion-ai-growth-forecast"
+    },
+    "rss:https://news.ycombinator.com/item?id=49471714": {
+      "at": "2026-08-28T13:29:03.622004+00:00",
+      "title": "ai engineer notebooks free framework free rag agents evals on colab",
+      "url": "github.com/calmrocks/ai-engineer-notebooks"
+    },
+    "rss:https://news.ycombinator.com/item?id=49472820": {
+      "at": "2026-08-28T13:29:03.621965+00:00",
+      "title": "terminal bench science evaluating ai agents on scientific research workflows",
+      "url": "terminal-bench-science.ai/announcement"
+    },
+    "rss:https://news.ycombinator.com/item?id=49474143": {
+      "at": "2026-08-28T13:29:03.621995+00:00",
+      "title": "please stop flooding our projects with ai slop to furnish your cv",
+      "url": "neilalexander.dev/2026/06/30/flooding-contributions"
+    },
+    "rss:https://news.ycombinator.com/item?id=49475079": {
+      "at": "2026-08-28T13:29:03.621982+00:00",
+      "title": "luanti removed from google play due to baseless ai copyright notice",
+      "url": "blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -711,6 +736,11 @@
     },
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+      "at": "2026-08-28T13:29:03.622065+00:00",
+      "title": "supporting thailand s next generation of ai startups",
+      "url": "openai.com/index/supporting-next-generation-ai-startups-thailand"
     },
     "rss:https://openai.com/index/the-defenders-window": {
       "at": "2026-08-19T12:28:12.501963+00:00",
@@ -1366,6 +1396,16 @@
       "title": "barret zoph the thinking machines co founder ousted before joining openai is now at google",
       "url": "techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google"
     },
+    "rss:https://techcrunch.com/?p=3158175": {
+      "at": "2026-08-28T13:29:03.622048+00:00",
+      "title": "meta executive leaves for openai as the social media giant faces growing scrutiny in india",
+      "url": "techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india"
+    },
+    "rss:https://techcrunch.com/?p=3158189": {
+      "at": "2026-08-28T13:29:03.621878+00:00",
+      "title": "anthropic gets its first court win over the pentagon s supply chain risk label",
+      "url": "techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1405,6 +1445,11 @@
       "at": "2026-08-27T04:07:33.744780+00:00",
       "title": "ainews nvidia buys huggingface for 13b as openai publishes their hf incident retro",
       "url": "latent.space/p/ainews-nvidia-buys-huggingface-for"
+    },
+    "rss:https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by": {
+      "at": "2026-08-28T13:29:03.621944+00:00",
+      "title": "ainews openai to reach agi bar by end 2026",
+      "url": "latent.space/p/ainews-openai-to-reach-agi-bar-by"
     },
     "rss:https://www.latent.space/p/ainews-poolside-gets-12b-reverse": {
       "at": "2026-08-24T11:05:22.951611+00:00",
@@ -2360,6 +2405,11 @@
       "title": "request unsloth please re quantize qwen3 6 35 a3b and 27b using ud 3 0",
       "url": "reddit.com/r/LocalLLaMA/comments/1vzwj73/request_unsloth_please_requantize_qwen36_35_a3b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzzkd6": {
+      "at": "2026-08-28T13:29:03.622041+00:00",
+      "title": "nvidia next gen vera rubin gpus scheduled for mid 2027",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzzkd6/nvidia_next_gen_vera_rubin_gpus_scheduled_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0198r": {
       "at": "2026-08-28T01:13:09.165172+00:00",
       "title": "no engrams won t let you run 1t models locally it does something even better",
@@ -2370,10 +2420,20 @@
       "title": "with huggingface nvidia is also acquiring llama cpp and the team behind it",
       "url": "reddit.com/r/LocalLLaMA/comments/1w01y1f/with_huggingface_nvidia_is_also_acquiring"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w03gp8": {
+      "at": "2026-08-28T13:29:03.622026+00:00",
+      "title": "bill gates is looking to meet with chinese president xi jinping later this year eager to propose global efforts to mitigate the growing risks posed by artificial intelligence he believes china might agree to restricting potentially dangerous ai model releases if us took initiative on that first",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w03gp8/bill_gates_is_looking_to_meet_with_chinese"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w03zdo": {
       "at": "2026-08-28T01:13:09.165139+00:00",
       "title": "llama cpp support for qwen3 8 flash next has been merged",
       "url": "reddit.com/r/LocalLLaMA/comments/1w03zdo/llamacpp_support_for_qwen38flashnext_has_been"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w04a5j": {
+      "at": "2026-08-28T13:29:03.622016+00:00",
+      "title": "over 200k context on 16gb vram with qwen 3 8 27b ud iq3_xxs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w04a5j/over_200k_context_on_16gb_vram_with_qwen_38_27b"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w05clp": {
       "at": "2026-08-28T01:13:09.165303+00:00",
@@ -2384,6 +2444,31 @@
       "at": "2026-08-28T01:13:09.165295+00:00",
       "title": "5090 now officially cost 5090",
       "url": "reddit.com/r/LocalLLaMA/comments/1w05kbt/5090_now_officially_cost_5090"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0ao39": {
+      "at": "2026-08-28T13:29:03.621974+00:00",
+      "title": "i implemented a modern llm in 700 lines of c",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0ao39/i_implemented_a_modern_llm_in_700_lines_of_c"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0dl38": {
+      "at": "2026-08-28T13:29:03.622057+00:00",
+      "title": "i am concerned if nvidia acquires llama cpp dev team and hf anybody else",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0dl38/i_am_concerned_if_nvidia_acquires_llamacpp_dev"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0igxk": {
+      "at": "2026-08-28T13:29:03.621955+00:00",
+      "title": "tencent hy4 preview 770b a49b weight dropped",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0igxk/tencenthy4preview_770ba49b_weight_dropped"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0lz7e": {
+      "at": "2026-08-28T13:29:03.622082+00:00",
+      "title": "claude mods didn t like that somehow",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0lz7e/claude_mods_didnt_like_that_somehow"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0mmk7": {
+      "at": "2026-08-28T13:29:03.621929+00:00",
+      "title": "micron hbm requires three times more wafer area than ddr5",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0mmk7/micron_hbm_requires_three_times_more_wafer_area"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2636,6 +2721,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-28T01:13:09.165440+00:00",
+  "updated_at": "2026-08-28T13:29:03.622131+00:00",
   "version": 2
 }
