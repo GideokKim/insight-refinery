@@ -115,10 +115,20 @@
       "title": "as demand for meta ai glasses explodes it s harder to avoid creepy recordings",
       "url": "arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/": {
+      "at": "2026-08-28T23:16:04.282455+00:00",
+      "title": "meta makes ai glasses slightly less creepy with limit on nonconsensual recording",
+      "url": "arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/": {
       "at": "2026-08-24T17:21:43.070725+00:00",
       "title": "nvidia senior manager linked to supermicro scheme smuggling ai servers to china",
       "url": "arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
+      "at": "2026-08-28T23:16:04.282342+00:00",
+      "title": "trump blacklisting of woke anthropic deemed illegal by federal judge",
+      "url": "arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge"
     },
     "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "at": "2026-08-24T11:05:22.951784+00:00",
@@ -240,6 +250,11 @@
       "title": "how to train a cross embodiment robot navigation policy with ai agents",
       "url": "developer.nvidia.com/blog/how-to-train-a-cross-embodiment-robot-navigation-policy-with-ai-agents"
     },
+    "rss:https://developer.nvidia.com/blog/?p=121956": {
+      "at": "2026-08-28T23:16:04.282356+00:00",
+      "title": "deploy an open model from checkpoint to inference in two commands with nvidia tensorrt model connect",
+      "url": "developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -337,6 +352,11 @@
       "at": "2026-08-19T17:19:19.683212+00:00",
       "title": "build low latency multilingual voice agents open weights full deployment control with nvidia magpie tts",
       "url": "huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    "rss:https://huggingface.co/blog/open-asr-leaderboard-global-south": {
+      "at": "2026-08-28T23:16:04.282516+00:00",
+      "title": "the open asr leaderboard adds its first global south language",
+      "url": "huggingface.co/blog/open-asr-leaderboard-global-south"
     },
     "rss:https://huggingface.co/blog/pwc-search": {
       "at": "2026-08-25T14:38:26.133980+00:00",
@@ -957,6 +977,11 @@
       "title": "breaking claude code opus 5 auto mode",
       "url": "simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode"
     },
+    "rss:https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/": {
+      "at": "2026-08-28T23:16:04.282254+00:00",
+      "title": "just a rumour of a bug is enough to find a security exploit these days",
+      "url": "simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug"
+    },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
       "title": "ex meta scientists want to bring visual ai to the factory floor",
@@ -1405,6 +1430,21 @@
       "at": "2026-08-28T13:29:03.621878+00:00",
       "title": "anthropic gets its first court win over the pentagon s supply chain risk label",
       "url": "techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
+    },
+    "rss:https://techcrunch.com/?p=3158461": {
+      "at": "2026-08-28T23:16:04.282422+00:00",
+      "title": "open weight ai companies are the valley s hottest acquisition targets",
+      "url": "techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets"
+    },
+    "rss:https://techcrunch.com/?p=3158505": {
+      "at": "2026-08-28T23:16:04.282327+00:00",
+      "title": "an anthropic researcher just gave us a peek at self improving ai",
+      "url": "techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
+    },
+    "rss:https://techcrunch.com/?p=3158531": {
+      "at": "2026-08-28T23:16:04.282308+00:00",
+      "title": "neocloud lambda secures 1b in debt to buy more chips",
+      "url": "techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2450,15 +2490,40 @@
       "title": "i implemented a modern llm in 700 lines of c",
       "url": "reddit.com/r/LocalLLaMA/comments/1w0ao39/i_implemented_a_modern_llm_in_700_lines_of_c"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0bnv2": {
+      "at": "2026-08-28T23:16:04.282501+00:00",
+      "title": "yall are sleeping on qwen 3 8 27b q2 q2 dflash q5 kv",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0bnv2/yall_are_sleeping_on_qwen_38_27b_q2_q2_dflash_q5"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0dgiv": {
+      "at": "2026-08-28T23:16:04.282483+00:00",
+      "title": "do you think a few qwen3 8 27b models working together could score as well as fable 5 on livecodebench hard",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0dgiv/do_you_think_a_few_qwen3827b_models_working"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0dl38": {
       "at": "2026-08-28T13:29:03.622057+00:00",
       "title": "i am concerned if nvidia acquires llama cpp dev team and hf anybody else",
       "url": "reddit.com/r/LocalLLaMA/comments/1w0dl38/i_am_concerned_if_nvidia_acquires_llamacpp_dev"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0fxos": {
+      "at": "2026-08-28T23:16:04.282553+00:00",
+      "title": "ninfer and a 5090 with 3 8 27b is making me cry tears of joy it s so good",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0fxos/ninfer_and_a_5090_with_38_27b_is_making_me_cry"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0hrrn": {
+      "at": "2026-08-28T23:16:04.282371+00:00",
+      "title": "i reverse engineered an npu vendor s engine format int8 weights stored as two nibble planes to run ggufs with no model conversion now 1 5 faster than the vendor s own runtime",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0hrrn/i_reverseengineered_an_npu_vendors_engine_format"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0igxk": {
       "at": "2026-08-28T13:29:03.621955+00:00",
       "title": "tencent hy4 preview 770b a49b weight dropped",
       "url": "reddit.com/r/LocalLLaMA/comments/1w0igxk/tencenthy4preview_770ba49b_weight_dropped"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0kstl": {
+      "at": "2026-08-28T23:16:04.282540+00:00",
+      "title": "open source caught up because it s open",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0kstl/open_source_caught_up_because_its_open"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0lz7e": {
       "at": "2026-08-28T13:29:03.622082+00:00",
@@ -2469,6 +2534,26 @@
       "at": "2026-08-28T13:29:03.621929+00:00",
       "title": "micron hbm requires three times more wafer area than ddr5",
       "url": "reddit.com/r/LocalLLaMA/comments/1w0mmk7/micron_hbm_requires_three_times_more_wafer_area"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0u24k": {
+      "at": "2026-08-28T23:16:04.282468+00:00",
+      "title": "qwen3 8 flash on rtx3090 64gb ram but you only need 12gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0u24k/qwen38flash_on_rtx3090_64gb_ram_but_you_only_need"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0u82b": {
+      "at": "2026-08-28T23:16:04.282441+00:00",
+      "title": "ds4 branch with glm 5 3 flash support",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0u82b/ds4_branch_with_glm_53_flash_support"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0yfmn": {
+      "at": "2026-08-28T23:16:04.282402+00:00",
+      "title": "rocm 10 0 a decade of open compute built for the age of agentic ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0yfmn/rocm_100_a_decade_of_open_compute_built_for_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1002h": {
+      "at": "2026-08-28T23:16:04.282527+00:00",
+      "title": "breeze tts 2 initial impressions genuinely frontier tts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1002h/breezetts2_initial_impressions_genuinely_frontier"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2721,6 +2806,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-28T13:29:03.622131+00:00",
+  "updated_at": "2026-08-28T23:16:04.282602+00:00",
   "version": 2
 }
