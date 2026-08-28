@@ -25,6 +25,11 @@
       "title": "ai is hitting entry level jobs hardest stanford study finds",
       "url": "arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds"
     },
+    "rss:https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/": {
+      "at": "2026-08-28T01:13:09.165102+00:00",
+      "title": "anthropic s new hardware standard lets ai agents control the physical world",
+      "url": "arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world"
+    },
     "rss:https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/": {
       "at": "2026-08-26T22:35:55.496753+00:00",
       "title": "google announces gemini 3 5 transcribe for ai powered speech to text",
@@ -49,6 +54,11 @@
       "at": "2026-08-26T22:35:55.496724+00:00",
       "title": "ai agents meant to replace meta workers made large scale disruptive actions",
       "url": "arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent"
+    },
+    "rss:https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/": {
+      "at": "2026-08-28T01:13:09.165129+00:00",
+      "title": "report nvidia to acquire ai model repository hugging face for 13 billion",
+      "url": "arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion"
     },
     "rss:https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/": {
       "at": "2026-08-25T23:15:21.967354+00:00",
@@ -85,6 +95,16 @@
       "title": "microsoft copilot reveals secret input that allowed it to be hacked",
       "url": "arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
+      "at": "2026-08-28T01:13:09.165148+00:00",
+      "title": "ai industry says trump plans to tax chips in the single dumbest way imaginable",
+      "url": "arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/": {
+      "at": "2026-08-28T01:13:09.165115+00:00",
+      "title": "elon musk s xai used child porn to train grok models lawsuit says",
+      "url": "arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/": {
       "at": "2026-08-24T11:19:10.800981+00:00",
       "title": "flight attendants freaked out that google is buying tons of spirit employee data",
@@ -104,6 +124,11 @@
       "at": "2026-08-24T11:05:22.951784+00:00",
       "title": "from atari to eve online building on 15 years of ai research in games",
       "url": "deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
+    },
+    "rss:https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
+      "at": "2026-08-28T01:13:09.165194+00:00",
+      "title": "gemini omni 1 1 flash lets you build with more control",
+      "url": "deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"
     },
     "rss:https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
       "at": "2026-08-26T18:46:54.599647+00:00",
@@ -516,6 +541,11 @@
       "title": "z ai confirms ox alpha is a new glm series model and will release its weights",
       "url": "bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
     },
+    "rss:https://news.ycombinator.com/item?id=49447057": {
+      "at": "2026-08-28T01:13:09.165385+00:00",
+      "title": "the turbulent ai era is here",
+      "url": "gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med"
+    },
     "rss:https://news.ycombinator.com/item?id=49447600": {
       "at": "2026-08-26T14:39:03.699856+00:00",
       "title": "fake us thinktank set up and funded by israel sought to game ai for propaganda",
@@ -545,6 +575,16 @@
       "at": "2026-08-27T04:07:33.744914+00:00",
       "title": "ceo fired developers to make room for ai developers create open source ai ceo",
       "url": "github.com/SenteLabsAI/OpenExecutive"
+    },
+    "rss:https://news.ycombinator.com/item?id=49464314": {
+      "at": "2026-08-28T01:13:09.165278+00:00",
+      "title": "mit s ad hoc committee on ai use in teaching learning and research training",
+      "url": "aiandeducation.mit.edu/report"
+    },
+    "rss:https://news.ycombinator.com/item?id=49466052": {
+      "at": "2026-08-28T01:13:09.165203+00:00",
+      "title": "nvidia projects 673b in sales as ai demand widens",
+      "url": "forgeeks.net/nvidia-673-billion-ai-growth-forecast"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -682,6 +722,11 @@
       "title": "the full stack behind abundant intelligence",
       "url": "openai.com/index/the-full-stack-behind-abundant-intelligence"
     },
+    "rss:https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
+      "at": "2026-08-28T01:13:09.165373+00:00",
+      "title": "better answers broader thinking what students gain from chatgpt and critical thinking training",
+      "url": "openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+    },
     "rss:https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/": {
       "at": "2026-08-19T17:19:19.683273+00:00",
       "title": "accelerating gemini nano models on pixel with frozen multi token prediction",
@@ -736,6 +781,11 @@
       "at": "2026-08-19T20:13:45.261390+00:00",
       "title": "optimizing cloud economics with linear elastic caching",
       "url": "research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching"
+    },
+    "rss:https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/": {
+      "at": "2026-08-28T01:13:09.165255+00:00",
+      "title": "planetary prediction engine automating global models via earth ai",
+      "url": "research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai"
     },
     "rss:https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/": {
       "at": "2026-08-19T17:19:19.683366+00:00",
@@ -872,10 +922,20 @@
       "title": "quoting paul dix",
       "url": "simonwillison.net/2026/Aug/26/paul-dix"
     },
+    "rss:https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/": {
+      "at": "2026-08-28T01:13:09.165069+00:00",
+      "title": "breaking claude code opus 5 auto mode",
+      "url": "simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode"
+    },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
       "title": "ex meta scientists want to bring visual ai to the factory floor",
       "url": "techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor"
+    },
+    "rss:https://techcrunch.com/?p=3147648": {
+      "at": "2026-08-28T01:13:09.165287+00:00",
+      "title": "anthropic and openai are joining the ai stage at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026"
     },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
@@ -1286,10 +1346,25 @@
       "title": "ai s memory crunch is coming for android apps",
       "url": "techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps"
     },
+    "rss:https://techcrunch.com/?p=3157691": {
+      "at": "2026-08-28T01:13:09.165267+00:00",
+      "title": "google s ai mode can now track flight prices help book hotels and more",
+      "url": "techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more"
+    },
     "rss:https://techcrunch.com/?p=3157743": {
       "at": "2026-08-27T15:57:38.016029+00:00",
       "title": "hugging face is selling a cute 399 open source duck robot microduck",
       "url": "techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck"
+    },
+    "rss:https://techcrunch.com/?p=3157852": {
+      "at": "2026-08-28T01:13:09.165183+00:00",
+      "title": "openai anthropic google and 100 other companies call for action to defend against rogue ai",
+      "url": "techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai"
+    },
+    "rss:https://techcrunch.com/?p=3158012": {
+      "at": "2026-08-28T01:13:09.165240+00:00",
+      "title": "barret zoph the thinking machines co founder ousted before joining openai is now at google",
+      "url": "techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2260,6 +2335,11 @@
       "title": "what are the minimum specs required to run qwen3 8 flash next",
       "url": "reddit.com/r/LocalLLaMA/comments/1vzpt61/what_are_the_minimum_specs_required_to_run"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzqkm1": {
+      "at": "2026-08-28T01:13:09.165402+00:00",
+      "title": "moderation censorship",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzqkm1/moderation_censorship"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzspz6": {
       "at": "2026-08-27T15:57:38.016075+00:00",
       "title": "qwen3 8 flash next time to update those benchmarks",
@@ -2274,6 +2354,36 @@
       "at": "2026-08-27T15:57:38.016124+00:00",
       "title": "and then they came for the used server ram",
       "url": "reddit.com/r/LocalLLaMA/comments/1vzvsx0/and_then_they_came_for_the_used_server_ram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vzwj73": {
+      "at": "2026-08-28T01:13:09.165314+00:00",
+      "title": "request unsloth please re quantize qwen3 6 35 a3b and 27b using ud 3 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1vzwj73/request_unsloth_please_requantize_qwen36_35_a3b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0198r": {
+      "at": "2026-08-28T01:13:09.165172+00:00",
+      "title": "no engrams won t let you run 1t models locally it does something even better",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0198r/no_engrams_wont_let_you_run_1t_models_locally_it"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w01y1f": {
+      "at": "2026-08-28T01:13:09.165159+00:00",
+      "title": "with huggingface nvidia is also acquiring llama cpp and the team behind it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w01y1f/with_huggingface_nvidia_is_also_acquiring"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w03zdo": {
+      "at": "2026-08-28T01:13:09.165139+00:00",
+      "title": "llama cpp support for qwen3 8 flash next has been merged",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w03zdo/llamacpp_support_for_qwen38flashnext_has_been"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w05clp": {
+      "at": "2026-08-28T01:13:09.165303+00:00",
+      "title": "the unsloth appreciation post big thanks to daniel and michael thanks from the community to you guys for so much",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w05clp/the_unsloth_appreciation_post_big_thanks_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w05kbt": {
+      "at": "2026-08-28T01:13:09.165295+00:00",
+      "title": "5090 now officially cost 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w05kbt/5090_now_officially_cost_5090"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2526,6 +2636,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-27T15:57:38.016160+00:00",
+  "updated_at": "2026-08-28T01:13:09.165440+00:00",
   "version": 2
 }
