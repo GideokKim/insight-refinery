@@ -631,6 +631,16 @@
       "title": "luanti removed from google play due to baseless ai copyright notice",
       "url": "blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=49486081": {
+      "at": "2026-08-29T15:29:06.759709+00:00",
+      "title": "stemdeck a free open source and local ai stem separator",
+      "url": "github.com/stemdeckapp/stemdeck"
+    },
+    "rss:https://news.ycombinator.com/item?id=49489982": {
+      "at": "2026-08-29T15:29:06.759699+00:00",
+      "title": "debian votes to allow responsible use of generative ai",
+      "url": "lwn.net/Articles/1091231"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -1445,6 +1455,11 @@
       "at": "2026-08-28T23:16:04.282327+00:00",
       "title": "an anthropic researcher just gave us a peek at self improving ai",
       "url": "techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
+    },
+    "rss:https://techcrunch.com/?p=3158515": {
+      "at": "2026-08-29T15:29:06.759627+00:00",
+      "title": "nvidia s ai advantage is moving beyond the gpu",
+      "url": "techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
     },
     "rss:https://techcrunch.com/?p=3158531": {
       "at": "2026-08-28T23:16:04.282308+00:00",
@@ -2600,6 +2615,26 @@
       "title": "terminal bench 4 0 just dropped glm 5 3 is at the same level as fable 5 accounting for margin of error",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1gec7": {
+      "at": "2026-08-29T15:29:06.759729+00:00",
+      "title": "i always wonder how much more speed and or context they d be getting",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1gec7/i_always_wonder_how_much_more_speed_andor_context"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1je5d": {
+      "at": "2026-08-29T15:29:06.759719+00:00",
+      "title": "if your t s is low enough you can see speculative decoding with your own eyes",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1lq7u": {
+      "at": "2026-08-29T15:29:06.759683+00:00",
+      "title": "qwen 3 8 27b at 50 tok s with 100k context on a 16gb gpu beellama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1o324": {
+      "at": "2026-08-29T15:29:06.759584+00:00",
+      "title": "tencent compressed hy4 preview from 1 5tb to about 200gb gguf and kept about 98 performance",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -2851,6 +2886,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-29T08:23:49.748409+00:00",
+  "updated_at": "2026-08-29T15:29:06.759767+00:00",
   "version": 2
 }

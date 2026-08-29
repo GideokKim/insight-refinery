@@ -133,6 +133,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w1o324",
+        "title": "Tencent compressed Hy4-preview from 1.5TB to about 200GB GGUF and kept about 98% performance.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about/",
+        "author": "/u/RedditUsr2",
+        "published_at": "2026-08-29T14:31:38+00:00"
+      },
+      "insight": {
+        "title_ko": "텐센트, Hy4-preview 모델을 200GB로 압축",
+        "summary_ko": [
+          "텐센트는 1.5TB에 달하는 Hy4-preview 모델을 약 200GB 크기의 GGUF 형식으로 압축하는 데 성공했다.",
+          "이 압축 과정에서 원본 모델 성능의 약 98%를 유지하여 실무 활용 가능성을 높였다.",
+          "대형 모델의 로컬 구동 및 배포 효율성을 크게 개선한 사례로 주목받고 있다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3158515",
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "author": "Russell Brandom",
+        "published_at": "2026-08-29T13:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 AI 경쟁력, GPU를 넘어선 네트워크로 확장",
+        "summary_ko": [
+          "새로운 세대의 데이터 센터 시스템은 단순한 프로세서 연산 능력 향상을 넘어 스마트한 트래픽 제어로 효율성을 높이고 있습니다.",
+          "이러한 변화는 Nvidia의 AI 우위가 GPU 자체를 넘어 데이터 센터 전체의 효율화로 이동하고 있음을 보여줍니다.",
+          "실무 환경에서 대규모 AI 인프라 구축 시 네트워크 트래픽 관리의 중요성이 더욱 커질 것으로 예상됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w1lq7u",
+        "title": "Qwen 3.8 27B at 50 tok/s with 100k Context on a 16GB GPU! (beellama.cpp)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a/",
+        "author": "/u/qaf23",
+        "published_at": "2026-08-29T12:50:05+00:00"
+      },
+      "insight": {
+        "title_ko": "16GB GPU에서 Qwen 27B 모델 100k 컨텍스트 구동",
+        "summary_ko": [
+          "소비자용 16GB VRAM GPU 환경에서 Qwen 27B 모델을 100k 컨텍스트와 50 tok/s 속도로 구동한 최적화 사례가 공유되었습니다.",
+          "beellama.cpp 엔진의 kvarn 캐시 양자화와 MTP 추론 방식을 활용하여 VRAM 한계 내에서 성능 저하 없이 컨텍스트를 확장했습니다.",
+          "이번 설정은 제한된 하드웨어 자원에서 대규모 LLM과 긴 컨텍스트를 효율적으로 실행하려는 실무자에게 유용한 참고가 됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
