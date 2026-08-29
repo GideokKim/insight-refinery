@@ -1336,6 +1336,11 @@
       "title": "querystory wants you to believe what ai is telling you",
       "url": "techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you"
     },
+    "rss:https://techcrunch.com/?p=3156771": {
+      "at": "2026-08-29T19:36:07.617392+00:00",
+      "title": "we re not doing 30 bets a year vijay pande on betting small after running 4 billion at a16z",
+      "url": "techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z"
+    },
     "rss:https://techcrunch.com/?p=3156793": {
       "at": "2026-08-26T02:55:53.162217+00:00",
       "title": "openai loses a top data center exec as stream of high profile departures continues",
@@ -1465,6 +1470,11 @@
       "at": "2026-08-28T23:16:04.282308+00:00",
       "title": "neocloud lambda secures 1b in debt to buy more chips",
       "url": "techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
+    },
+    "rss:https://techcrunch.com/?p=3158639": {
+      "at": "2026-08-29T19:36:07.617337+00:00",
+      "title": "sony music warner sue anthropic alleging a brazen campaign of intellectual property theft",
+      "url": "techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2605,6 +2615,11 @@
       "title": "qwen 3 8 flash next ngram look up table offloaded to ssd and streamed in sglang",
       "url": "reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w18pu9": {
+      "at": "2026-08-29T19:36:07.617559+00:00",
+      "title": "tenstorrent quietbox 2 arrived",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w18pu9/tenstorrent_quietbox_2_arrived"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1cbb0": {
       "at": "2026-08-29T08:23:49.748361+00:00",
       "title": "saved my fiances phone with qwen 3 8 27b",
@@ -2620,15 +2635,35 @@
       "title": "i always wonder how much more speed and or context they d be getting",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1gec7/i_always_wonder_how_much_more_speed_andor_context"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1gm8y": {
+      "at": "2026-08-29T19:36:07.617547+00:00",
+      "title": "different qwen thinking levels",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1gm8y/different_qwen_thinking_levels"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1je5d": {
       "at": "2026-08-29T15:29:06.759719+00:00",
       "title": "if your t s is low enough you can see speculative decoding with your own eyes",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1l3a2": {
+      "at": "2026-08-29T19:36:07.617513+00:00",
+      "title": "how important is it for chinese llms to reach the opus 4 8 level",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1l3a2/how_important_is_it_for_chinese_llms_to_reach_the"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1lq7u": {
       "at": "2026-08-29T15:29:06.759683+00:00",
       "title": "qwen 3 8 27b at 50 tok s with 100k context on a 16gb gpu beellama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1lq7u/qwen_38_27b_at_50_toks_with_100k_context_on_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1nc1c": {
+      "at": "2026-08-29T19:36:07.617461+00:00",
+      "title": "exo labs claiming 4 8 tb s memory bandwidth through m5u mac studio clustering",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1nc1c/exo_labs_claiming_48_tbs_memory_bandwidth_through"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1o1ji": {
+      "at": "2026-08-29T19:36:07.617532+00:00",
+      "title": "someone tested various models on the political compass test",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1o1ji/someone_tested_various_models_on_the_political"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1o324": {
       "at": "2026-08-29T15:29:06.759584+00:00",
@@ -2886,6 +2921,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-29T15:29:06.759767+00:00",
+  "updated_at": "2026-08-29T19:36:07.617623+00:00",
   "version": 2
 }

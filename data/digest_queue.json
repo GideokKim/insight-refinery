@@ -199,6 +199,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3158639",
+        "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+        "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+        "author": "Kirsten Korosec",
+        "published_at": "2026-08-29T18:41:59+00:00"
+      },
+      "insight": {
+        "title_ko": "소니·워너 뮤직, 앤스로픽 상대로 저작권 침해 소송 제기",
+        "summary_ko": [
+          "Sony Music과 Warner Music이 Anthropic을 상대로 지적재산권 침해 소송을 제기했습니다.",
+          "이번 소송은 대규모 저작물 무단 사용 및 불법 해킹 혐의에 초점을 맞추고 있습니다.",
+          "AI 기업들의 모델 학습 과정에서 발생하는 저작권 분쟁이 한층 격화되고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
