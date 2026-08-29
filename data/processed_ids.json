@@ -641,6 +641,11 @@
       "title": "debian votes to allow responsible use of generative ai",
       "url": "lwn.net/Articles/1091231"
     },
+    "rss:https://news.ycombinator.com/item?id=49491568": {
+      "at": "2026-08-29T22:04:59.211769+00:00",
+      "title": "good culture is the biggest productivity hack not ai",
+      "url": "newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -2610,6 +2615,16 @@
       "title": "today i hit 181 toks s aggregate on qwen3 8 flash next on 2x dgx sparks",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w16kts": {
+      "at": "2026-08-29T22:04:59.211785+00:00",
+      "title": "is it worth running qwen 3 8 flash next on 4x3090 vs 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w16kts/is_it_worth_running_qwen_38_flash_next_on_4x3090"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w17zbg": {
+      "at": "2026-08-29T22:04:59.211748+00:00",
+      "title": "atomicchat qwen3 8 flash next gguf is really good",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w17zbg/atomicchatqwen38flashnextgguf_is_really_good"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w18b1k": {
       "at": "2026-08-29T08:23:49.748372+00:00",
       "title": "qwen 3 8 flash next ngram look up table offloaded to ssd and streamed in sglang",
@@ -2669,6 +2684,11 @@
       "at": "2026-08-29T15:29:06.759584+00:00",
       "title": "tencent compressed hy4 preview from 1 5tb to about 200gb gguf and kept about 98 performance",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1uu6d": {
+      "at": "2026-08-29T22:04:59.211692+00:00",
+      "title": "llama cpp open prs list cpu ram disk hybrid related better for cpu only hybrid inference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2921,6 +2941,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-29T19:36:07.617623+00:00",
+  "updated_at": "2026-08-29T22:04:59.211853+00:00",
   "version": 2
 }
