@@ -729,6 +729,11 @@
       "title": "openai joins ports pike project",
       "url": "openai.com/index/openai-joins-ports-pike-project"
     },
+    "rss:https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+      "at": "2026-08-29T08:23:49.748322+00:00",
+      "title": "our decision on cursor following its acquisition by spacex",
+      "url": "openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
     "rss:https://openai.com/index/pacing-model-development-cyber-capabilities": {
       "at": "2026-08-19T12:28:12.501769+00:00",
       "title": "pacing model development in an era of cyber critical capabilities",
@@ -1485,6 +1490,11 @@
       "at": "2026-08-27T04:07:33.744780+00:00",
       "title": "ainews nvidia buys huggingface for 13b as openai publishes their hf incident retro",
       "url": "latent.space/p/ainews-nvidia-buys-huggingface-for"
+    },
+    "rss:https://www.latent.space/p/ainews-openai-shuts-off-cursor": {
+      "at": "2026-08-29T08:23:49.748160+00:00",
+      "title": "ainews openai shuts off cursor",
+      "url": "latent.space/p/ainews-openai-shuts-off-cursor"
     },
     "rss:https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by": {
       "at": "2026-08-28T13:29:03.621944+00:00",
@@ -2550,10 +2560,45 @@
       "title": "rocm 10 0 a decade of open compute built for the age of agentic ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1w0yfmn/rocm_100_a_decade_of_open_compute_built_for_the"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w0zl5q": {
+      "at": "2026-08-29T08:23:49.748303+00:00",
+      "title": "i benchmarked 9 open models on spotting fake sources during agentic search deepseek v4 qwen 3 8 nemotron 3 ultra",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w0zl5q/i_benchmarked_9_open_models_on_spotting_fake"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1002h": {
       "at": "2026-08-28T23:16:04.282527+00:00",
       "title": "breeze tts 2 initial impressions genuinely frontier tts",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1002h/breezetts2_initial_impressions_genuinely_frontier"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w11ob5": {
+      "at": "2026-08-29T08:23:49.748286+00:00",
+      "title": "i audited 443 gguf quants across 25 repos 64 of them can t be the quant their filename claims",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w11ob5/i_audited_443_gguf_quants_across_25_repos_64_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w13vse": {
+      "at": "2026-08-29T08:23:49.748217+00:00",
+      "title": "release sota ggufs for qwen3 8 27b gsq rco at 2 5 to 3 0 bpw",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w13vse/release_sota_ggufs_for_qwen3827b_gsqrco_at_25_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1486l": {
+      "at": "2026-08-29T08:23:49.748187+00:00",
+      "title": "today i hit 181 toks s aggregate on qwen3 8 flash next on 2x dgx sparks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w18b1k": {
+      "at": "2026-08-29T08:23:49.748372+00:00",
+      "title": "qwen 3 8 flash next ngram look up table offloaded to ssd and streamed in sglang",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w18b1k/qwen_38_flash_next_ngram_look_up_table_offloaded"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1cbb0": {
+      "at": "2026-08-29T08:23:49.748361+00:00",
+      "title": "saved my fiances phone with qwen 3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1cbb0/saved_my_fiances_phone_with_qwen_38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1fpxi": {
+      "at": "2026-08-29T08:23:49.748338+00:00",
+      "title": "terminal bench 4 0 just dropped glm 5 3 is at the same level as fable 5 accounting for margin of error",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1fpxi/terminal_bench_40_just_dropped_glm53_is_at_the"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2806,6 +2851,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-28T23:16:04.282602+00:00",
+  "updated_at": "2026-08-29T08:23:49.748409+00:00",
   "version": 2
 }

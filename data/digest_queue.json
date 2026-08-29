@@ -1,5 +1,138 @@
 {
   "version": 1,
   "last_sent_at": "2026-08-28T23:16:01.839607+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+        "title": "[AINews] OpenAI shuts off Cursor",
+        "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+        "author": null,
+        "published_at": "2026-08-29T05:11:52+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 Cursor 차단과 주요 오픈웨이트 모델 출시",
+        "summary_ko": [
+          "OpenAI는 SpaceX에 인수된 Cursor가 계약 위반과 경쟁 관계 심화를 이유로 접근을 차단했습니다.",
+          "Z.ai는 에이전트 코딩과 사이버 방어에 특화된 오픈웨이트 모델 GLM-5.3을 공개했습니다.",
+          "Tencent와 알리바바는 각각 뛰어난 성능과 긴 컨텍스트를 지원하는 Hy4-preview와 Qwen3.8-Flash를 발표했습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w1486l",
+        "title": "Today I hit 181 toks/s (aggregate) on Qwen3.8-Flash-Next on 2x DGX Sparks",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w1486l/today_i_hit_181_tokss_aggregate_on/",
+        "author": "/u/StartupTim",
+        "published_at": "2026-08-28T22:00:36+00:00"
+      },
+      "insight": {
+        "title_ko": "DGX Spark 클러스터에서의 Qwen3.8 추론 최적화 사례",
+        "summary_ko": [
+          "작성자는 2대의 NVIDIA DGX Spark 클러스터에서 Qwen3.8-Flash-Next 모델을 구동하여 총 181 tok/s의 처리량을 달성했습니다.",
+          "NVMe를 통한 n-gram 임베딩 테이블의 mmap 최적화와 메모리 튜닝을 통해 대규모 KV 캐시와 고속 서빙 환경을 구축했습니다.",
+          "이번 사례는 다중 에이전트 환경에서 512K 컨텍스트를 효율적으로 처리하는 실무적 인프라 팁을 제공합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w13vse",
+        "title": "[Release] SOTA GGUFs for Qwen3.8-27B: GSQ-RCO at 2.5 to 3.0 bpw",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w13vse/release_sota_ggufs_for_qwen3827b_gsqrco_at_25_to/",
+        "author": "/u/Loginhe",
+        "published_at": "2026-08-28T21:46:58+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-27B GSQ-RCO GGUF 모델 출시",
+        "summary_ko": [
+          "연구진이 GSQ와 RCO 양자화 기법을 적용한 Qwen3.8-27B 모델의 새로운 GGUF 버전을 공개했다.",
+          "GSQ와 RCO를 통해 2.5에서 3.0 bpw의 초저비트에서도 성능 손실을 최소화하고 기존 양자화 모델을 뛰어넘는 정확도를 기록했다.",
+          "해당 모델은 llama.cpp, Ollama, LM Studio 등에서 수정 없이 바로 실행할 수 있다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w11ob5",
+        "title": "I audited 443 GGUF quants across 25 repos. 64 of them can't be the quant their filename claims.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w11ob5/i_audited_443_gguf_quants_across_25_repos_64_of/",
+        "author": "/u/Daxfortuna",
+        "published_at": "2026-08-28T20:20:26+00:00"
+      },
+      "insight": {
+        "title_ko": "GGUF 양자화 파일의 대체 현상 감사",
+        "summary_ko": [
+          "일부 GGUF 모델은 텐서 차트가 256으로 나누어떨어지지 않아 llama.cpp가 자동으로 저비트 양자화를 대체하는 문제가 있습니다.",
+          "25개 저장소의 443개 GGUF 파일을 감사한 결과, 64개 파일이 파일명과 다른 실제 용량을 가졌습니다.",
+          "모델 아키텍처에 따라 저비트 양자화가 의도치 않게 고비트로 대체되므로 실무자는 실제 파일 밀도를 확인해야 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w0zl5q",
+        "title": "I benchmarked 9 open models on spotting fake sources during agentic search (DeepSeek V4, Qwen 3.8, Nemotron 3 Ultra)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0zl5q/i_benchmarked_9_open_models_on_spotting_fake/",
+        "author": "/u/RevealIndividual7567",
+        "published_at": "2026-08-28T19:03:11+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈 모델의 에이전트 검색 허위 정보 판별 벤치마크",
+        "summary_ko": [
+          "작성자는 9개의 오픈 모델을 대상으로 에이전트 검색 시 가짜 출처 판별 능력을 측정하는 벤치마크 EchoNet을 구축했습니다.",
+          "실험 결과 GLM 5.2와 Qwen3.8 모델들은 가짜 정보에 속지 않는 뛰어난 억제력을 보여주었습니다.",
+          "모델들은 단일 거짓말이나 에코 체임버보다 여러 개의 위조 문서가 다수파를 형성하는 공격에 가장 취약했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "title": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+        "author": null,
+        "published_at": "2026-08-28T06:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "SpaceX의 Cursor 인수 후 OpenAI의 계약 종료 결정",
+        "summary_ko": [
+          "OpenAI는 SpaceX가 Cursor를 인수한 이후 자사 모델을 Cursor에 제공하던 계약을 종료하기로 결정했습니다.",
+          "이번 계약 종료는 기업 간 인수합병에 따른 전략적 판단에 기반한 조치로 해석됩니다.",
+          "실무 개발 환경에서 OpenAI 모델 기반의 Cursor 연동을 사용 중인 팀은 관련 변경 사항을 점검해야 합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
