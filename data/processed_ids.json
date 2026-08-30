@@ -45,6 +45,11 @@
       "title": "ibm s new granite 4 2 models ride the wave of interest in local llms",
       "url": "arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms"
     },
+    "rss:https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/": {
+      "at": "2026-08-30T13:23:21.182313+00:00",
+      "title": "inside meta s push to put robots to work in data centers",
+      "url": "arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers"
+    },
     "rss:https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/": {
       "at": "2026-08-24T11:19:10.800837+00:00",
       "title": "meta ran ads for an app promising to nudify female politicians",
@@ -2720,6 +2725,11 @@
       "title": "67 84 t s deepseek flash v4 off 2x gx10s",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1uug2/6784_ts_deepseek_flash_v4_off_2x_gx10s"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w26y0w": {
+      "at": "2026-08-30T13:23:21.182435+00:00",
+      "title": "ran qwen3 8 flash next 79 gb 2 bit at 350k ctx for 3 5 hours on a 128 gb m5 max speed vs context depth 100 turns one graph",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w26y0w/ran_qwen38flashnext_79_gb_2bit_at_350k_ctx_for_35"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w28alw": {
       "at": "2026-08-30T07:37:22.817905+00:00",
       "title": "an unscientific qwen 3 8 flash next and glm 5 3 flash comparison",
@@ -2729,6 +2739,36 @@
       "at": "2026-08-30T07:37:22.817805+00:00",
       "title": "it s official 192gb framework",
       "url": "reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2c4el": {
+      "at": "2026-08-30T13:23:21.182419+00:00",
+      "title": "koboldcpp v1 120 released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2c4el/koboldcpp_v1120_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2cxcw": {
+      "at": "2026-08-30T13:23:21.182461+00:00",
+      "title": "some people said the minecraft clone i fully vibecoded with qwen3 8 27b q4 is not that impressive because minecraft is in the training data so i had the model add 4 things that are probably not",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2e40k": {
+      "at": "2026-08-30T13:23:21.182401+00:00",
+      "title": "experience report qwen 3 8 flash next on memory rich gpu poor setup",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2e40k/experience_report_qwen_38_flash_next_on_memory"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2elkb": {
+      "at": "2026-08-30T13:23:21.182378+00:00",
+      "title": "i fine tuned a 0 8b local model for dictation cleanup it matched a hosted frontier model on this narrow task",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2elkb/i_finetuned_a_08b_local_model_for_dictation"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2fmmq": {
+      "at": "2026-08-30T13:23:21.182498+00:00",
+      "title": "me these days",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2fmmq/me_these_days"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2fy6a": {
+      "at": "2026-08-30T13:23:21.182481+00:00",
+      "title": "hit the jackpot girls and boys",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2fy6a/hit_the_jackpot_girls_and_boys"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2981,6 +3021,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-30T07:37:22.817969+00:00",
+  "updated_at": "2026-08-30T13:23:21.182545+00:00",
   "version": 2
 }

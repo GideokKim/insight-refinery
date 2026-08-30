@@ -243,6 +243,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+        "title": "Inside Meta’s push to put robots to work in data centers",
+        "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+        "author": "Paresh Dave, WIRED.com",
+        "published_at": "2026-08-30T11:03:47+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta, 데이터센터 로봇 자동화 추진",
+        "summary_ko": [
+          "Meta는 데이터센터 내에서 케이블 연결과 서버 재설정 등의 작업을 수행하는 로봇을 테스트하고 있습니다.",
+          "이 프로젝트는 급증하는 AI 인프라 투자 속에서 인건비를 절감하고 운영 효율성을 높이기 위한 목적을 가집니다.",
+          "Kinova, ABB, Watney Robotics 등의 하드웨어를 활용하며 일부 작업의 80퍼센트까지 대체할 가능성이 제기됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w2elkb",
+        "title": "I fine-tuned a 0.8B local model for dictation cleanup. It matched a hosted frontier model on this narrow task",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2elkb/i_finetuned_a_08b_local_model_for_dictation/",
+        "author": "/u/MoodOdd9657",
+        "published_at": "2026-08-30T11:03:04+00:00"
+      },
+      "insight": {
+        "title_ko": "0.8B 모델 기반 구두 받아쓰기 정제 AI 개발",
+        "summary_ko": [
+          "개발자는 Qwen3.5-0.8B 모델을 파인튜닝하여 음성 인식 텍스트 정제를 전문으로 하는 SpeakoFlow Mini를 제작했다.",
+          "특정 벤치마크 테스트에서 이 소형 모델은 제한된 조건 아래 대형 프론티어 모델과 통계적 동등 수준의 성능을 기록했다.",
+          "833MB 크기의 오프라인 실행 가능한 해당 모델은 베이스 모델 대비 23.4포인트의 성능 향상을 보였다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
