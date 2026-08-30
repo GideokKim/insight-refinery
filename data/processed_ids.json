@@ -2810,6 +2810,26 @@
       "title": "uncensored multi model releases longcat flash lite sparse with mtps and lsas qwen3 8 27b with mtps qwen3 5 122b a10b with mtps qwen3 coder next and laguna s2 1 with vision all available in gguf format bonus links to my llama cpp fork for longcat flash lite support and j wash enhanced fork",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2iqos/uncensored_multimodel_releases"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2ncr5": {
+      "at": "2026-08-30T22:12:33.444450+00:00",
+      "title": "unpopular opinion qwen 3 8 is hard to understand",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2ncr5/unpopular_opinion_qwen_38_is_hard_to_understand"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2q1hx": {
+      "at": "2026-08-30T22:12:33.444434+00:00",
+      "title": "whatever happened to openclaw and its derivatives",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2q1hx/whatever_happened_to_openclaw_and_its_derivatives"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2q1ug": {
+      "at": "2026-08-30T22:12:33.444343+00:00",
+      "title": "nvidia dgx stationtm delivering data center class performance from the desktop",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2q1ug/nvidia_dgx_station_delivering_datacenterclass"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2r37q": {
+      "at": "2026-08-30T22:12:33.444407+00:00",
+      "title": "are there any interesting architectural innovations that we seem to be on the verge of for llm models or ai models that might be a big deal excluding maybe n gram since everyone is already well aware of that one",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3061,6 +3081,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-30T17:50:10.352059+00:00",
+  "updated_at": "2026-08-30T22:12:33.444521+00:00",
   "version": 2
 }
