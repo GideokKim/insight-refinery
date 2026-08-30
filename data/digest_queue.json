@@ -221,6 +221,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/29/hy4/",
+        "title": "Introducing Hy4 Preview",
+        "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+        "author": null,
+        "published_at": "2026-08-29T23:53:13+00:00"
+      },
+      "insight": {
+        "title_ko": "Tencent의 대형 오픈웨이트 LLM Hy4 Preview 공개",
+        "summary_ko": [
+          "Tencent가 770B 전체 파라미터와 1M 토큰 컨텍스트를 지원하는 새로운 오픈웨이트 LLM Hy4 Preview를 공개했다.",
+          "모델의 chat 템플릿 분석 결과 추론 강도를 high와 no_think 두 가지 수준으로 조절할 수 있는 것으로 확인되었다.",
+          "실험을 통해 확인된 내부 추론 과정은 토큰 효율성을 위해 다소 축약된 영어로 작동하는 특징을 보인다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

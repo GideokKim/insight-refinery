@@ -1002,6 +1002,11 @@
       "title": "just a rumour of a bug is enough to find a security exploit these days",
       "url": "simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug"
     },
+    "rss:https://simonwillison.net/2026/Aug/29/hy4/": {
+      "at": "2026-08-30T00:51:30.259533+00:00",
+      "title": "introducing hy4 preview",
+      "url": "simonwillison.net/2026/Aug/29/hy4"
+    },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
       "title": "ex meta scientists want to bring visual ai to the factory floor",
@@ -2635,6 +2640,11 @@
       "title": "tenstorrent quietbox 2 arrived",
       "url": "reddit.com/r/LocalLLaMA/comments/1w18pu9/tenstorrent_quietbox_2_arrived"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w18v86": {
+      "at": "2026-08-30T00:51:30.259594+00:00",
+      "title": "use llms to auto annotation your dataset locally",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w18v86/use_llms_to_auto_annotation_your_dataset_locally"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1cbb0": {
       "at": "2026-08-29T08:23:49.748361+00:00",
       "title": "saved my fiances phone with qwen 3 8 27b",
@@ -2659,6 +2669,11 @@
       "at": "2026-08-29T15:29:06.759719+00:00",
       "title": "if your t s is low enough you can see speculative decoding with your own eyes",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1kt83": {
+      "at": "2026-08-30T00:51:30.259574+00:00",
+      "title": "an official 1 bit quant for hy4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1kt83/an_official_1bit_quant_for_hy4"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1l3a2": {
       "at": "2026-08-29T19:36:07.617513+00:00",
@@ -2941,6 +2956,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-29T22:04:59.211853+00:00",
+  "updated_at": "2026-08-30T00:51:30.259629+00:00",
   "version": 2
 }
