@@ -2670,6 +2670,11 @@
       "title": "if your t s is low enough you can see speculative decoding with your own eyes",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1je5d/if_your_ts_is_low_enough_you_can_see_speculative"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1kg1v": {
+      "at": "2026-08-30T07:37:22.817892+00:00",
+      "title": "were designing a tiny autonomous research agent",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1kg1v/were_designing_a_tiny_autonomous_research_agent"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1kt83": {
       "at": "2026-08-30T00:51:30.259574+00:00",
       "title": "an official 1 bit quant for hy4",
@@ -2700,10 +2705,30 @@
       "title": "tencent compressed hy4 preview from 1 5tb to about 200gb gguf and kept about 98 performance",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1o324/tencent_compressed_hy4preview_from_15tb_to_about"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1tfkc": {
+      "at": "2026-08-30T07:37:22.817874+00:00",
+      "title": "this finance model benchmark card is more useful for what it discloses than for who wins",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1tfkc/this_financemodel_benchmark_card_is_more_useful"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1uu6d": {
       "at": "2026-08-29T22:04:59.211692+00:00",
       "title": "llama cpp open prs list cpu ram disk hybrid related better for cpu only hybrid inference",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1uu6d/llamacpp_open_prs_list_cpuramdiskhybrid_related"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w1uug2": {
+      "at": "2026-08-30T07:37:22.817854+00:00",
+      "title": "67 84 t s deepseek flash v4 off 2x gx10s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w1uug2/6784_ts_deepseek_flash_v4_off_2x_gx10s"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w28alw": {
+      "at": "2026-08-30T07:37:22.817905+00:00",
+      "title": "an unscientific qwen 3 8 flash next and glm 5 3 flash comparison",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w28alw/an_unscientific_qwen_38_flash_next_and_glm_53"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w28x8u": {
+      "at": "2026-08-30T07:37:22.817805+00:00",
+      "title": "it s official 192gb framework",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -2956,6 +2981,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-30T00:51:30.259629+00:00",
+  "updated_at": "2026-08-30T07:37:22.817969+00:00",
   "version": 2
 }
