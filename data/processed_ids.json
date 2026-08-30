@@ -651,6 +651,11 @@
       "title": "good culture is the biggest productivity hack not ai",
       "url": "newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
+    "rss:https://news.ycombinator.com/item?id=49498095": {
+      "at": "2026-08-30T17:50:10.351972+00:00",
+      "title": "no ai fridays",
+      "url": "noaifridays.com/"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -1456,6 +1461,11 @@
       "title": "barret zoph the thinking machines co founder ousted before joining openai is now at google",
       "url": "techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google"
     },
+    "rss:https://techcrunch.com/?p=3158173": {
+      "at": "2026-08-30T17:50:10.351902+00:00",
+      "title": "caterpillar is bringing to ai deployment what it learned from automating mining",
+      "url": "techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining"
+    },
     "rss:https://techcrunch.com/?p=3158175": {
       "at": "2026-08-28T13:29:03.622048+00:00",
       "title": "meta executive leaves for openai as the social media giant faces growing scrutiny in india",
@@ -1490,6 +1500,11 @@
       "at": "2026-08-29T19:36:07.617337+00:00",
       "title": "sony music warner sue anthropic alleging a brazen campaign of intellectual property theft",
       "url": "techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft"
+    },
+    "rss:https://techcrunch.com/?p=3158648": {
+      "at": "2026-08-30T17:50:10.351857+00:00",
+      "title": "musk s faster path to more gas turbines comes with pollution problem",
+      "url": "techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2725,6 +2740,11 @@
       "title": "67 84 t s deepseek flash v4 off 2x gx10s",
       "url": "reddit.com/r/LocalLLaMA/comments/1w1uug2/6784_ts_deepseek_flash_v4_off_2x_gx10s"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w215qm": {
+      "at": "2026-08-30T17:50:10.351961+00:00",
+      "title": "humaneval benchmark for deepseek v4 flash 0731 vs glm5 3 flash on 2x dgx spark setup",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w215qm/humaneval_benchmark_for_deepseek_v4_flash_0731_vs"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w26y0w": {
       "at": "2026-08-30T13:23:21.182435+00:00",
       "title": "ran qwen3 8 flash next 79 gb 2 bit at 350k ctx for 3 5 hours on a 128 gb m5 max speed vs context depth 100 turns one graph",
@@ -2740,6 +2760,16 @@
       "title": "it s official 192gb framework",
       "url": "reddit.com/r/LocalLLaMA/comments/1w28x8u/its_official_192gb_framework"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w296bx": {
+      "at": "2026-08-30T17:50:10.351951+00:00",
+      "title": "qwen3 8 flash next optimised for macs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w296bx/qwen38flashnext_optimised_for_macs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w29ukk": {
+      "at": "2026-08-30T17:50:10.351939+00:00",
+      "title": "qwen3 8 flash next nvfp4 day 3 support for 4xv100",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w29ukk/qwen38flashnext_nvfp4_day3_support_for_4xv100"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2c4el": {
       "at": "2026-08-30T13:23:21.182419+00:00",
       "title": "koboldcpp v1 120 released",
@@ -2749,6 +2779,11 @@
       "at": "2026-08-30T13:23:21.182461+00:00",
       "title": "some people said the minecraft clone i fully vibecoded with qwen3 8 27b q4 is not that impressive because minecraft is in the training data so i had the model add 4 things that are probably not",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2cxcw/some_people_said_the_minecraft_clone_i_fully"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2dij0": {
+      "at": "2026-08-30T17:50:10.351983+00:00",
+      "title": "when you say because i can limits of x870e",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2dij0/when_you_say_because_i_can_limits_of_x870e"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2e40k": {
       "at": "2026-08-30T13:23:21.182401+00:00",
@@ -2769,6 +2804,11 @@
       "at": "2026-08-30T13:23:21.182481+00:00",
       "title": "hit the jackpot girls and boys",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2fy6a/hit_the_jackpot_girls_and_boys"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2iqos": {
+      "at": "2026-08-30T17:50:10.351916+00:00",
+      "title": "uncensored multi model releases longcat flash lite sparse with mtps and lsas qwen3 8 27b with mtps qwen3 5 122b a10b with mtps qwen3 coder next and laguna s2 1 with vision all available in gguf format bonus links to my llama cpp fork for longcat flash lite support and j wash enhanced fork",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2iqos/uncensored_multimodel_releases"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3021,6 +3061,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-30T13:23:21.182545+00:00",
+  "updated_at": "2026-08-30T17:50:10.352059+00:00",
   "version": 2
 }
