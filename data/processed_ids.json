@@ -75,6 +75,11 @@
       "title": "apple s new desktop computers are designed specifically for local ai development",
       "url": "arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference"
     },
+    "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
+      "at": "2026-08-31T15:35:36.937264+00:00",
+      "title": "pocket s ai made my game ideas real now meta controls the results",
+      "url": "arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results"
+    },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
@@ -104,6 +109,11 @@
       "at": "2026-08-28T01:13:09.165148+00:00",
       "title": "ai industry says trump plans to tax chips in the single dumbest way imaginable",
       "url": "arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/": {
+      "at": "2026-08-31T15:35:36.937197+00:00",
+      "title": "chatgpt and reddit now face eu s toughest online safety rules",
+      "url": "arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules"
     },
     "rss:https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/": {
       "at": "2026-08-28T01:13:09.165115+00:00",
@@ -688,6 +698,11 @@
       "at": "2026-08-25T11:15:55.505381+00:00",
       "title": "disrupting a new covert influence campaign from russia",
       "url": "openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    "rss:https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
+      "at": "2026-08-31T15:35:36.937285+00:00",
+      "title": "a milestone in expanding access to ai",
+      "url": "openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
     },
     "rss:https://openai.com/index/expanding-our-presence-in-brazil": {
       "at": "2026-08-27T12:49:39.361064+00:00",
@@ -1515,6 +1530,16 @@
       "at": "2026-08-30T17:50:10.351857+00:00",
       "title": "musk s faster path to more gas turbines comes with pollution problem",
       "url": "techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem"
+    },
+    "rss:https://techcrunch.com/?p=3158688": {
+      "at": "2026-08-31T15:35:36.937293+00:00",
+      "title": "meeting note taker circleback adds a free tier to attract more customers",
+      "url": "techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers"
+    },
+    "rss:https://techcrunch.com/?p=3158734": {
+      "at": "2026-08-31T15:35:36.937153+00:00",
+      "title": "nvidia s 3 5b mediatek bet reveals its plan for tackling big tech s ai chip buildout",
+      "url": "techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2860,10 +2885,40 @@
       "title": "i collected every single llm coding benchmark and computed their intelligence density",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2v97w/i_collected_every_single_llm_coding_benchmark_and"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2z2zo": {
+      "at": "2026-08-31T15:35:36.937239+00:00",
+      "title": "qwen3 8 flash next nvfp4 vs qwen3 8 27b fp test results",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2z2zo/qwen38flashnextnvfp4_vs_qwen3827bfp_test_results"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w35sc1": {
       "at": "2026-08-31T07:48:01.801859+00:00",
       "title": "could this affect m5 ultra price availability",
       "url": "reddit.com/r/LocalLLaMA/comments/1w35sc1/could_this_affect_m5_ultra_priceavailability"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w38s2d": {
+      "at": "2026-08-31T15:35:36.937274+00:00",
+      "title": "how i got qwen 3 8 27b running at 75t s decode on 16gb rtx 5080",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w38s2d/how_i_got_qwen_38_27b_running_at_75ts_decode_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w393ht": {
+      "at": "2026-08-31T15:35:36.937224+00:00",
+      "title": "pipecat ai phonellm alpha 1 gpt 5 6 terra performance on typical voice agent tasks at 1 3 the latency and 1 18 the cost",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w393ht/pipecataiphonellmalpha1_gpt_56_terra_performance"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w39i6r": {
+      "at": "2026-08-31T15:35:36.937249+00:00",
+      "title": "deepseek ai deepseek v4 flash vision exp hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w39i6r/deepseekaideepseekv4flashvisionexp_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3cbei": {
+      "at": "2026-08-31T15:35:36.937309+00:00",
+      "title": "vote for the qwen 3 8",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3cbei/vote_for_the_qwen_38"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3co3k": {
+      "at": "2026-08-31T15:35:36.937300+00:00",
+      "title": "how bad do you think models like qwen3 8 27b or glm 5 3 flash would be with h neurons disabled",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3co3k/how_bad_do_you_think_models_like_qwen3827b_or"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3116,6 +3171,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-31T07:48:01.801927+00:00",
+  "updated_at": "2026-08-31T15:35:36.937344+00:00",
   "version": 2
 }

@@ -309,6 +309,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3158734",
+        "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+        "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-08-31T15:15:25+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 MediaTek 35억 달러 투자 전략",
+        "summary_ko": [
+          "Nvidia가 대만의 칩메이커 MediaTek에 35억 달러 규모의 투자를 단행했습니다.",
+          "이번 투자는 빅테크 기업들의 자체 AI 칩 자체 제작 움직임 속에서 인프라 핵심 지위를 유지하려는 전략을 보여줍니다.",
+          "Nvidia는 파트너십을 통해 AI 칩 생태계에서의 영향력을 더욱 공고히 할 계획입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+        "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+        "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+        "author": "Barbara Moens, Financial Times",
+        "published_at": "2026-08-31T13:41:40+00:00"
+      },
+      "insight": {
+        "title_ko": "유럽연합, ChatGPT 등에 강력한 온라인 안전 규제 적용",
+        "summary_ko": [
+          "유럽집행위원회는 ChatGPT를 비롯한 플랫폼들을 대형 온라인 플랫폼으로 지정했습니다.",
+          "이들은 EU의 디지털서비스법에 따라 불법 콘텐츠 제거와 미성년자 보호 의무를 지게 됩니다.",
+          "규정을 위반할 경우 글로벌 매출의 최대 6퍼센트에 달하는 벌금이 부과될 수 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w393ht",
+        "title": "pipecat-ai/phonellm-alpha-1: GPT 5.6 Terra performance on typical voice agent tasks at 1/3 the latency and 1/18 the cost",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w393ht/pipecataiphonellmalpha1_gpt_56_terra_performance/",
+        "author": "/u/paf1138",
+        "published_at": "2026-08-31T09:51:53+00:00"
+      },
+      "insight": {
+        "title_ko": "pipecat-ai/phonellm-alpha-1 공개",
+        "summary_ko": [
+          "pipecat-ai는 음성 에이전트 작업을 위한 새로운 모델인 phonellm-alpha-1을 공개했습니다.",
+          "이 모델은 GPT 5.6 Terra 수준의 성능을 제공하면서도 지연 시간을 3분의 1로 줄였습니다.",
+          "특히 비용을 18분의 1 수준으로 낮추어 실무 적용의 효율성을 크게 높였습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w2z2zo",
+        "title": "Qwen3.8-Flash-Next-NVFP4 vs Qwen3.8-27B-FP Test Results",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w2z2zo/qwen38flashnextnvfp4_vs_qwen3827bfp_test_results/",
+        "author": "/u/trashacct383",
+        "published_at": "2026-08-31T01:09:25+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8 Flash-Next와 27B 모델 실무 성능 비교",
+        "summary_ko": [
+          "로컬 단일 GPU 환경에서 Qwen3.8-Flash-Next-NVFP4와 Qwen3.8-27B-FP8 모델의 실제 워크로드 성능을 비교했습니다.",
+          "Flash-Next는 더 빠른 속도와 구조화된 출력 및 에이전트 작업에서 뛰어난 안정성을 보여주었습니다.",
+          "반면 dense 27B 모델은 다단계 상징적 추론과 복잡한 문제 해결 영역에서 여전히 우수한 성능을 기록했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
