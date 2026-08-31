@@ -145,6 +145,11 @@
       "title": "trump blacklisting of woke anthropic deemed illegal by federal judge",
       "url": "arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": {
+      "at": "2026-08-31T21:43:04.495232+00:00",
+      "title": "zlibrary my beloved anthropic staff chats extolling piracy cited in sony suit",
+      "url": "arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit"
+    },
     "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "at": "2026-08-24T11:05:22.951784+00:00",
       "title": "from atari to eve online building on 15 years of ai research in games",
@@ -179,6 +184,11 @@
       "at": "2026-08-24T11:19:10.800887+00:00",
       "title": "how ai coding agents can unlock materials simulation with nvidia alchemi toolkit",
       "url": "developer.nvidia.com/blog/how-ai-coding-agents-can-unlock-materials-simulation-with-nvidia-alchemi-toolkit"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121350": {
+      "at": "2026-08-31T21:43:04.495307+00:00",
+      "title": "run nvidia bionemo nim microservices for protein structure prediction in claude science",
+      "url": "developer.nvidia.com/blog/run-nvidia-bionemo-nim-microservices-for-protein-structure-prediction-in-claude-science"
     },
     "rss:https://developer.nvidia.com/blog/?p=121434": {
       "at": "2026-08-24T11:19:10.800813+00:00",
@@ -259,6 +269,11 @@
       "at": "2026-08-26T18:46:54.599580+00:00",
       "title": "experiment with qwen3 8 flash next 176b model on nvidia gb300 nvl72 for agentic coding",
       "url": "developer.nvidia.com/blog/experiment-with-qwen3-8-flash-next-176b-model-on-nvidia-gb300-nvl72-for-agentic-coding"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121899": {
+      "at": "2026-08-31T21:43:04.495448+00:00",
+      "title": "scale av perception across vehicle platforms with nvidia omniverse nurec",
+      "url": "developer.nvidia.com/blog/scale-av-perception-across-vehicle-platforms-with-nvidia-omniverse-nurec"
     },
     "rss:https://developer.nvidia.com/blog/?p=121922": {
       "at": "2026-08-26T22:35:55.496746+00:00",
@@ -666,6 +681,11 @@
       "title": "no ai fridays",
       "url": "noaifridays.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=49508982": {
+      "at": "2026-08-31T21:43:04.495459+00:00",
+      "title": "apple caught off guard by ai demand for mac mini and mac studio",
+      "url": "macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -911,6 +931,11 @@
       "at": "2026-08-19T20:13:45.261346+00:00",
       "title": "thinking to recall how reasoning unlocks parametric knowledge in llms",
       "url": "research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms"
+    },
+    "rss:https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/": {
+      "at": "2026-08-31T21:43:04.495291+00:00",
+      "title": "timesfm 3 a zero shot foundation model for multivariate forecasting",
+      "url": "research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting"
     },
     "rss:https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/": {
       "at": "2026-08-19T17:19:19.683345+00:00",
@@ -1501,6 +1526,11 @@
       "title": "anthropic gets its first court win over the pentagon s supply chain risk label",
       "url": "techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
     },
+    "rss:https://techcrunch.com/?p=3158394": {
+      "at": "2026-08-31T21:43:04.495471+00:00",
+      "title": "at techbbq europe s ai conversations kept coming back to who s actually in control",
+      "url": "techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control"
+    },
     "rss:https://techcrunch.com/?p=3158461": {
       "at": "2026-08-28T23:16:04.282422+00:00",
       "title": "open weight ai companies are the valley s hottest acquisition targets",
@@ -1536,10 +1566,30 @@
       "title": "meeting note taker circleback adds a free tier to attract more customers",
       "url": "techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers"
     },
+    "rss:https://techcrunch.com/?p=3158701": {
+      "at": "2026-08-31T21:43:04.495437+00:00",
+      "title": "clipto uses ai to search terabytes of video and is now valued at 250m",
+      "url": "techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation"
+    },
     "rss:https://techcrunch.com/?p=3158734": {
       "at": "2026-08-31T15:35:36.937153+00:00",
       "title": "nvidia s 3 5b mediatek bet reveals its plan for tackling big tech s ai chip buildout",
       "url": "techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
+    },
+    "rss:https://techcrunch.com/?p=3158889": {
+      "at": "2026-08-31T21:43:04.495392+00:00",
+      "title": "harvard law dropout raises 6m for blue voice to build a harvey for police officers",
+      "url": "techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers"
+    },
+    "rss:https://techcrunch.com/?p=3158932": {
+      "at": "2026-08-31T21:43:04.495344+00:00",
+      "title": "the pentagon now has its own version of chatgpt and grok",
+      "url": "techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok"
+    },
+    "rss:https://techcrunch.com/?p=3158959": {
+      "at": "2026-08-31T21:43:04.495358+00:00",
+      "title": "instagram puts new limits on undisclosed ai profiles",
+      "url": "techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -1635,6 +1685,11 @@
       "at": "2026-08-24T11:05:22.951657+00:00",
       "title": "broadening access to skala creates a faster path to predictive dft",
       "url": "microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft"
+    },
+    "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
+      "at": "2026-08-31T21:43:04.495318+00:00",
+      "title": "gigapath flash and gigatime flash toward population scale discovery with efficient pathology foundation models",
+      "url": "microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1vro3vf": {
       "at": "2026-08-19T12:28:12.501868+00:00",
@@ -2920,6 +2975,36 @@
       "title": "how bad do you think models like qwen3 8 27b or glm 5 3 flash would be with h neurons disabled",
       "url": "reddit.com/r/LocalLLaMA/comments/1w3co3k/how_bad_do_you_think_models_like_qwen3827b_or"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3h7rg": {
+      "at": "2026-08-31T21:43:04.495497+00:00",
+      "title": "first time running local models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3h7rg/first_time_running_local_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3hcab": {
+      "at": "2026-08-31T21:43:04.495486+00:00",
+      "title": "what are your hopes for the new mistral",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3hcab/what_are_your_hopes_for_the_new_mistral"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3i7ze": {
+      "at": "2026-08-31T21:43:04.495424+00:00",
+      "title": "sloptv an infinite livestream of ai slop generated from youtube chat comments minimax h3 on 2x5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3i7ze/sloptv_an_infinite_livestream_of_ai_slop"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3kppp": {
+      "at": "2026-08-31T21:43:04.495408+00:00",
+      "title": "glm 5 3 and glm 5 3 flash ran locally on rtx pro 6000 ws and built a penthouse using blendermcp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3n506": {
+      "at": "2026-08-31T21:43:04.495371+00:00",
+      "title": "avx2 speed up large batch size prompt processing of iq models by bartowski1182 pull request 27402 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3n506/avx2_speed_up_large_batch_size_prompt_processing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3pig8": {
+      "at": "2026-08-31T21:43:04.495332+00:00",
+      "title": "doesn t this look like nvidia is price fixing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3pig8/doesnt_this_look_like_nvidia_is_price_fixing"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3169,8 +3254,13 @@
       "at": "2026-08-26T22:35:55.496685+00:00",
       "title": "the inside story on why openai agents hacked hugging face",
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
+    },
+    "rss:https://www.technologyreview.com/?p=1143180": {
+      "at": "2026-08-31T21:43:04.495275+00:00",
+      "title": "hugging face hack could indicate cultural issues at openai",
+      "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-08-31T15:35:36.937344+00:00",
+  "updated_at": "2026-08-31T21:43:04.495539+00:00",
   "version": 2
 }
