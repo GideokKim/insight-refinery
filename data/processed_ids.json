@@ -1017,6 +1017,11 @@
       "title": "introducing hy4 preview",
       "url": "simonwillison.net/2026/Aug/29/hy4"
     },
+    "rss:https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/": {
+      "at": "2026-08-31T00:57:48.327420+00:00",
+      "title": "understanding chatgpt work",
+      "url": "simonwillison.net/2026/Aug/30/understanding-chatgpt-work"
+    },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
       "title": "ex meta scientists want to bring visual ai to the factory floor",
@@ -2830,6 +2835,11 @@
       "title": "are there any interesting architectural innovations that we seem to be on the verge of for llm models or ai models that might be a big deal excluding maybe n gram since everyone is already well aware of that one",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2v97w": {
+      "at": "2026-08-31T00:57:48.327460+00:00",
+      "title": "i collected every single llm coding benchmark and computed their intelligence density",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2v97w/i_collected_every_single_llm_coding_benchmark_and"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3081,6 +3091,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-30T22:12:33.444521+00:00",
+  "updated_at": "2026-08-31T00:57:48.327510+00:00",
   "version": 2
 }

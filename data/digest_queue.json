@@ -287,6 +287,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "title": "Understanding ChatGPT Work",
+        "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+        "author": null,
+        "published_at": "2026-08-30T23:59:47+00:00"
+      },
+      "insight": {
+        "title_ko": "ChatGPT Work의 기능과 특징 분석",
+        "summary_ko": [
+          "ChatGPT Work는 클라우드 기반의 Work Cloud와 로컬 파일 접근이 가능한 Work Local 두 가지로 나뉩니다.",
+          "Work는 일반 채팅과 달리 인터넷 접근이 가능한 코드 실행 환경, 영구 파일 시스템, 다양한 모델 및 추론 레벨 선택 기능을 제공합니다.",
+          "사용량 한도가 일반 채팅과 분리되어 적용되며, 명확한 결과물이 필요한 태스크 처리에 특화되어 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
