@@ -1411,6 +1411,11 @@
       "title": "openai releases its official report on the hugging face breach",
       "url": "techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach"
     },
+    "rss:https://techcrunch.com/?p=3157348": {
+      "at": "2026-08-31T07:48:01.801761+00:00",
+      "title": "the u s is building barriers around drones and robots but china has scale to get around them",
+      "url": "techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale"
+    },
     "rss:https://techcrunch.com/?p=3157364": {
       "at": "2026-08-26T22:35:55.496713+00:00",
       "title": "anthropic continues compute gobbling streak in 45 billion deal with nscale",
@@ -2820,6 +2825,16 @@
       "title": "unpopular opinion qwen 3 8 is hard to understand",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2ncr5/unpopular_opinion_qwen_38_is_hard_to_understand"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2nz07": {
+      "at": "2026-08-31T07:48:01.801846+00:00",
+      "title": "qwen 3 8 flash next locally on simple mobile phone at 3 5 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2nz07/qwen_38_flash_next_locally_on_simple_mobile_phone"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2pvsd": {
+      "at": "2026-08-31T07:48:01.801827+00:00",
+      "title": "here my pretty good qwen3 8 27b setup hope it helps",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2pvsd/here_my_pretty_good_qwen38_27b_setup_hope_it_helps"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2q1hx": {
       "at": "2026-08-30T22:12:33.444434+00:00",
       "title": "whatever happened to openclaw and its derivatives",
@@ -2835,10 +2850,20 @@
       "title": "are there any interesting architectural innovations that we seem to be on the verge of for llm models or ai models that might be a big deal excluding maybe n gram since everyone is already well aware of that one",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2r37q/are_there_any_interesting_architectural"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2ujys": {
+      "at": "2026-08-31T07:48:01.801808+00:00",
+      "title": "qwen 3 8 27b fantastic german capabilities",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w2ujys/qwen_38_27b_fantastic_german_capabilities"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w2v97w": {
       "at": "2026-08-31T00:57:48.327460+00:00",
       "title": "i collected every single llm coding benchmark and computed their intelligence density",
       "url": "reddit.com/r/LocalLLaMA/comments/1w2v97w/i_collected_every_single_llm_coding_benchmark_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w35sc1": {
+      "at": "2026-08-31T07:48:01.801859+00:00",
+      "title": "could this affect m5 ultra price availability",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w35sc1/could_this_affect_m5_ultra_priceavailability"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3091,6 +3116,6 @@
       "url": "technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     }
   },
-  "updated_at": "2026-08-31T00:57:48.327510+00:00",
+  "updated_at": "2026-08-31T07:48:01.801927+00:00",
   "version": 2
 }
