@@ -676,6 +676,11 @@
       "title": "good culture is the biggest productivity hack not ai",
       "url": "newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity"
     },
+    "rss:https://news.ycombinator.com/item?id=49496292": {
+      "at": "2026-09-01T01:30:17.354434+00:00",
+      "title": "smartphone led detects hidden cameras with ai",
+      "url": "chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ"
+    },
     "rss:https://news.ycombinator.com/item?id=49498095": {
       "at": "2026-08-30T17:50:10.351972+00:00",
       "title": "no ai fridays",
@@ -685,6 +690,11 @@
       "at": "2026-08-31T21:43:04.495459+00:00",
       "title": "apple caught off guard by ai demand for mac mini and mac studio",
       "url": "macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand"
+    },
+    "rss:https://news.ycombinator.com/item?id=49512856": {
+      "at": "2026-09-01T01:30:17.354460+00:00",
+      "title": "the safest job from ai may be writing",
+      "url": "muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -803,6 +813,11 @@
       "at": "2026-08-19T12:28:12.501970+00:00",
       "title": "partnering with codeai to prepare the first ai generation",
       "url": "openai.com/index/partnering-with-codeai"
+    },
+    "rss:https://openai.com/index/polimill": {
+      "at": "2026-09-01T01:30:17.354427+00:00",
+      "title": "polimill builds japan s next generation public ai infrastructure",
+      "url": "openai.com/index/polimill"
     },
     "rss:https://openai.com/index/previewing-ultrafast": {
       "at": "2026-08-19T14:23:12.191112+00:00",
@@ -1061,6 +1076,16 @@
       "at": "2026-08-31T00:57:48.327420+00:00",
       "title": "understanding chatgpt work",
       "url": "simonwillison.net/2026/Aug/30/understanding-chatgpt-work"
+    },
+    "rss:https://simonwillison.net/2026/Aug/31/andrew-digby/": {
+      "at": "2026-09-01T01:30:17.354451+00:00",
+      "title": "quoting andrew digby",
+      "url": "simonwillison.net/2026/Aug/31/andrew-digby"
+    },
+    "rss:https://simonwillison.net/2026/Aug/31/introducing-wrapture/": {
+      "at": "2026-09-01T01:30:17.354421+00:00",
+      "title": "introducing wrapture",
+      "url": "simonwillison.net/2026/Aug/31/introducing-wrapture"
     },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
@@ -1590,6 +1615,11 @@
       "at": "2026-08-31T21:43:04.495358+00:00",
       "title": "instagram puts new limits on undisclosed ai profiles",
       "url": "techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles"
+    },
+    "rss:https://techcrunch.com/?p=3159449": {
+      "at": "2026-09-01T01:30:17.354440+00:00",
+      "title": "apple shares shocking evidence against former employee accused of stealing company data for openai",
+      "url": "techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3005,6 +3035,21 @@
       "title": "doesn t this look like nvidia is price fixing",
       "url": "reddit.com/r/LocalLLaMA/comments/1w3pig8/doesnt_this_look_like_nvidia_is_price_fixing"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3pl64": {
+      "at": "2026-09-01T01:30:17.354408+00:00",
+      "title": "qwen3 8 flash next in llama cpp from cpu only to 96gb vram 8 5 to 109 tok s max context and parameters test my findings on rtx 6000 pro",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3pl64/qwen38flashnext_in_llamacpp_from_cpuonly_to_96gb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3qljm": {
+      "at": "2026-09-01T01:30:17.354467+00:00",
+      "title": "the state of open source llm 08 31 2026",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3qljm/the_state_of_open_source_llm_08312026"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3vcvh": {
+      "at": "2026-09-01T01:30:17.354375+00:00",
+      "title": "don t sleep on vision support for coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3vcvh/dont_sleep_on_vision_support_for_coding"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3261,6 +3306,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-08-31T21:43:04.495539+00:00",
+  "updated_at": "2026-09-01T01:30:17.354506+00:00",
   "version": 2
 }

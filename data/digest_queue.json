@@ -507,6 +507,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w3vcvh",
+        "title": "Don't sleep on Vision support for coding!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3vcvh/dont_sleep_on_vision_support_for_coding/",
+        "author": "/u/ChemistNo8486",
+        "published_at": "2026-08-31T23:49:45+00:00"
+      },
+      "insight": {
+        "title_ko": "코딩 작업에서 비전 모델의 실무적 활용성",
+        "summary_ko": [
+          "작성자는 VRAM 절약을 위해 비전 기능이 없는 모델을 선호했으나 QWEN 3.8 27B 비전 모델을 도입했다.",
+          "비전 모델은 코딩 작업 중 자율적으로 스크린샷을 촬영하여 코드와 테스트에서 잡지 못한 오류를 확인한다.",
+          "시각적 확인을 통해 문제가 해결될 때까지 스스로 수정과 검증을 반복하여 자율 코딩의 완성도를 높여준다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w3pl64",
+        "title": "Qwen3.8-Flash-Next in llama.cpp from CPU-only to 96GB VRAM: 8.5 to 109 tok/s, max context and parameters test. My findings on RTX 6000 PRO.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pl64/qwen38flashnext_in_llamacpp_from_cpuonly_to_96gb/",
+        "author": "/u/FantasticNature7590",
+        "published_at": "2026-08-31T20:17:07+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-Flash-Next llama.cpp 성능 벤치마크",
+        "summary_ko": [
+          "RTX PRO 6000 환경의 llama.cpp에서 Qwen3.8-Flash-Next 모델의 VRAM 용량별 성능을 테스트했습니다.",
+          "CPU 단독 구동 시 8.34 tok/s였던 디코드 속도가 96GB VRAM 풀 활용 시 109.07 tok/s까지 향상되었습니다.",
+          "긴 컨텍스트 환경에서는 VRAM 용량에 따른 성능 격차가 줄어들며, 특정 임베딩 테이블의 CUDA 배치 시 성능 저하가 발생했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
