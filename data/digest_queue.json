@@ -749,6 +749,116 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3159895",
+        "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "author": "Tim Fernholz",
+        "published_at": "2026-09-01T21:06:24+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 신규 LLM Astra 출시 임박",
+        "summary_ko": [
+          "OpenAI가 새로운 사이버 보안 중심 LLM인 Astra의 출시를 준비하고 있습니다.",
+          "Astra는 컴퓨터 시스템 침투 능력이 매우 뛰어난 것으로 알려졌습니다.",
+          "OpenAI는 이 모델의 공개를 앞두고 관련 보안 조치와 예방책을 미리 공개했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3159842",
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "author": "Russell Brandom",
+        "published_at": "2026-09-01T19:39:22+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, 비용과 제약 줄인 Fable 5.1 공개",
+        "summary_ko": [
+          "Anthropic이 토큰 비용을 낮추고 모델 안전장치의 오탐지 제약을 줄인 Fable 5.1을 새롭게 출시했다.",
+          "이번 업데이트는 개발자들이 더 경제적이고 유연하게 AI 모델을 활용할 수 있도록 지원하는 데 중점을 둔다.",
+          "불필요한 제한을 완화하여 실무에서의 모델 활용성을 높였다는 점에서 의의가 있다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3159727",
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+        "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "author": "Sarah Perez",
+        "published_at": "2026-09-01T17:35:37+00:00"
+      },
+      "insight": {
+        "title_ko": "구글, AI 프롬프트 기반 디자인 툴 'Google Pics' 공개",
+        "summary_ko": [
+          "구글이 Canva와 Adobe가 주도하는 크리에이티브 소프트웨어 시장을 겨냥해 AI 중심 디자인 툴인 Google Pics를 선보였습니다.",
+          "사용자는 직접 디자인하는 대신 프롬프트 입력 방식을 통해 손쉽게 시각적 콘텐츠를 제작할 수 있습니다.",
+          "이번 제품 출시로 구글은 AI 기술을 활용한 크리에이티브 시장 공략을 더욱 강화하고 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/path-to-astra",
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "url": "https://openai.com/index/path-to-astra",
+        "author": null,
+        "published_at": "2026-09-01T13:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI Astra의 핵심 보안 역량과 안전장치",
+        "summary_ko": [
+          "Astra는 Preparedness Framework의 Critical 사이버 보안 역량 임계값을 충족한 최초의 OpenAI 모델입니다.",
+          "이번 발표는 모델의 향상된 성능과 함께 출시를 위한 더욱 강력한 안전장치가 마련되었음을 시사합니다.",
+          "해당 연구와 발전 사항은 향후 고도화된 AI 시스템의 안전한 배포 기준에 중요한 영향을 미칩니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+        "author": null,
+        "published_at": "2026-09-01T12:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "의료 데이터 연동 가능한 ChatGPT 기능 출시",
+        "summary_ko": [
+          "의료 기관들은 이제 전자의무기록(EHR) 및 관련 산업 데이터를 ChatGPT에 연동할 수 있게 되었다.",
+          "이번 기능 도입을 통해 임상의들은 환자의 맥락과 의학 연구 자료에 안전하게 접근할 수 있다.",
+          "이 업데이트는 의료 현장에서 ChatGPT를 활용한 진료 지원 및 업무 효율화를 크게 향상할 것으로 기대된다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

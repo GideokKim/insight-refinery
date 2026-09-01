@@ -335,6 +335,11 @@
       "title": "anatomy of a frontier lab agent intrusion a technical timeline of the july 2026 incident",
       "url": "huggingface.co/blog/agent-intrusion-technical-timeline"
     },
+    "rss:https://huggingface.co/blog/allenai/benchmirt": {
+      "at": "2026-09-01T22:10:08.411977+00:00",
+      "title": "benchmirt what are llm benchmarks actually measuring",
+      "url": "huggingface.co/blog/allenai/benchmirt"
+    },
     "rss:https://huggingface.co/blog/allenai/olmoearth-embeddings": {
       "at": "2026-08-19T17:19:19.683313+00:00",
       "title": "introducing olmoearth embeddings custom embedding exports from olmoearth studio for downstream analysis",
@@ -726,6 +731,21 @@
       "title": "eff to courts don t rewrite copyright over ai hype",
       "url": "eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
     },
+    "rss:https://news.ycombinator.com/item?id=49523720": {
+      "at": "2026-09-01T22:10:08.412049+00:00",
+      "title": "dwarf fortress creator says the industry s in shambles over ai",
+      "url": "pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis"
+    },
+    "rss:https://news.ycombinator.com/item?id=49526069": {
+      "at": "2026-09-01T22:10:08.412041+00:00",
+      "title": "how accurate have ed zitron s ai skeptic predictions been",
+      "url": "danluu.com/zitron"
+    },
+    "rss:https://openai.com/index/ai-native-company-workflows": {
+      "at": "2026-09-01T22:10:08.412033+00:00",
+      "title": "how ai native companies turn workflows into operating capability",
+      "url": "openai.com/index/ai-native-company-workflows"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -743,6 +763,11 @@
     },
     "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+      "at": "2026-09-01T22:10:08.411924+00:00",
+      "title": "healthcare organizations can now connect ehr and additional industry data to chatgpt",
+      "url": "openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     },
     "rss:https://openai.com/index/chatgpt-for-teens": {
       "at": "2026-08-19T12:28:12.501880+00:00",
@@ -844,6 +869,11 @@
       "title": "partnering with codeai to prepare the first ai generation",
       "url": "openai.com/index/partnering-with-codeai"
     },
+    "rss:https://openai.com/index/path-to-astra": {
+      "at": "2026-09-01T22:10:08.411915+00:00",
+      "title": "path to astra critical capabilities and frontier safeguards",
+      "url": "openai.com/index/path-to-astra"
+    },
     "rss:https://openai.com/index/polimill": {
       "at": "2026-09-01T01:30:17.354427+00:00",
       "title": "polimill builds japan s next generation public ai infrastructure",
@@ -941,6 +971,11 @@
       "at": "2026-08-19T17:19:19.683265+00:00",
       "title": "introducing tabfm a zero shot foundation model for tabular data",
       "url": "research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data"
+    },
+    "rss:https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/": {
+      "at": "2026-09-01T22:10:08.412024+00:00",
+      "title": "mapping global methane emissions from space with deep learning",
+      "url": "research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning"
     },
     "rss:https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/": {
       "at": "2026-08-19T20:13:45.261390+00:00",
@@ -1121,6 +1156,11 @@
       "at": "2026-09-01T01:30:17.354421+00:00",
       "title": "introducing wrapture",
       "url": "simonwillison.net/2026/Aug/31/introducing-wrapture"
+    },
+    "rss:https://simonwillison.net/2026/Sep/1/codex-libreoffice/": {
+      "at": "2026-09-01T22:10:08.412016+00:00",
+      "title": "codex bundles libreoffice",
+      "url": "simonwillison.net/2026/Sep/1/codex-libreoffice"
     },
     "rss:https://simonwillison.net/2026/Sep/1/python-315-rc-2/": {
       "at": "2026-09-01T17:32:37.259739+00:00",
@@ -1690,6 +1730,31 @@
       "at": "2026-09-01T17:32:37.259695+00:00",
       "title": "sequoia incubated empirik launches with 21m to predict outages before they happen",
       "url": "techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen"
+    },
+    "rss:https://techcrunch.com/?p=3159727": {
+      "at": "2026-09-01T22:10:08.411903+00:00",
+      "title": "google s answer to canva is an ai tool where you prompt instead of design",
+      "url": "techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design"
+    },
+    "rss:https://techcrunch.com/?p=3159842": {
+      "at": "2026-09-01T22:10:08.411889+00:00",
+      "title": "anthropic s new fable release is cheaper less restrictive",
+      "url": "techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive"
+    },
+    "rss:https://techcrunch.com/?p=3159895": {
+      "at": "2026-09-01T22:10:08.411846+00:00",
+      "title": "open ai s astra model is on the way and very good at breaking into computer systems",
+      "url": "techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems"
+    },
+    "rss:https://techcrunch.com/?p=3159905": {
+      "at": "2026-09-01T22:10:08.411994+00:00",
+      "title": "google s android update tackles motion sickness accessibility and more",
+      "url": "techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more"
+    },
+    "rss:https://techcrunch.com/?p=3159934": {
+      "at": "2026-09-01T22:10:08.411959+00:00",
+      "title": "afterquery reportedly becomes y combinator s fastest ever unicorn now valued at 3 2b",
+      "url": "techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3180,6 +3245,26 @@
       "title": "intel hints it may get back into memory business",
       "url": "reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4kwyr": {
+      "at": "2026-09-01T22:10:08.412077+00:00",
+      "title": "keeping up with model launches",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4kwyr/keeping_up_with_model_launches"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4l9cp": {
+      "at": "2026-09-01T22:10:08.412066+00:00",
+      "title": "fingers crossed for a 122b or really anything above 31b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4l9cp/fingers_crossed_for_a_122b_or_really_anything"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4mevo": {
+      "at": "2026-09-01T22:10:08.412006+00:00",
+      "title": "kaitchup posted qwen3 8 27b benchmarks for quants from q4 to q1",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4mevo/kaitchup_posted_qwen38_27b_benchmarks_for_quants"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4oadx": {
+      "at": "2026-09-01T22:10:08.412058+00:00",
+      "title": "really stunned by the singularity comment section",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4oadx/really_stunned_by_the_singularity_comment_section"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3436,6 +3521,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-01T17:32:37.259875+00:00",
+  "updated_at": "2026-09-01T22:10:08.412111+00:00",
   "version": 2
 }
