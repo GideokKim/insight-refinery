@@ -573,6 +573,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w44jnv",
+        "title": "ExLlamav3 Recent Updates : CPU offload, GLM-5.3-FLASH, Qwen3.8-Flash, SC Quants ++",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash/",
+        "author": "/u/Unstable_Llama",
+        "published_at": "2026-09-01T07:14:40+00:00"
+      },
+      "insight": {
+        "title_ko": "ExLlamav3 주요 업데이트 및 신규 기능",
+        "summary_ko": [
+          "turboderp의 ExLlamav3에 MoE 專家 CPU 오프로드 및 다양한 신규 모델 지원이 추가되었습니다.",
+          "Qwen-3.8-Flash-Next의 ngram 디스크 오프로드와 새로운 자체 보정 최적화 기법이 도입되었습니다.",
+          "NVIDIA GPU 사용자들을 위한 다양한 성능 최적화와 개선 사항이 함께 적용되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

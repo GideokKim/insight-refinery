@@ -696,6 +696,11 @@
       "title": "the safest job from ai may be writing",
       "url": "muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49518316": {
+      "at": "2026-09-01T12:50:45.652894+00:00",
+      "title": "ai can make you suck faster too",
+      "url": "hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -3065,10 +3070,30 @@
       "title": "deepseek v4 flash vision is out",
       "url": "reddit.com/r/LocalLLaMA/comments/1w3vhv9/deepseek_v4_flash_vision_is_out"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3zyt7": {
+      "at": "2026-09-01T12:50:45.652925+00:00",
+      "title": "mac usb c cable linux box is becoming a thing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3zyt7/mac_usbc_cable_linux_box_is_becoming_a_thing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w403mv": {
+      "at": "2026-09-01T12:50:45.652911+00:00",
+      "title": "a very confusing report from puget systems",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w403mv/a_very_confusing_report_from_puget_systems"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w42biu": {
       "at": "2026-09-01T06:55:24.714973+00:00",
       "title": "mtp released for qwen3 8 flash next gguf",
       "url": "reddit.com/r/LocalLLaMA/comments/1w42biu/mtp_released_for_qwen38flashnextgguf"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w44jnv": {
+      "at": "2026-09-01T12:50:45.652813+00:00",
+      "title": "exllamav3 recent updates cpu offload glm 5 3 flash qwen3 8 flash sc quants",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w47nif": {
+      "at": "2026-09-01T12:50:45.652875+00:00",
+      "title": "new gemma models on arena ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3326,6 +3351,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-01T06:55:24.715043+00:00",
+  "updated_at": "2026-09-01T12:50:45.652975+00:00",
   "version": 2
 }
