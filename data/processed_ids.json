@@ -837,6 +837,11 @@
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
     },
+    "rss:https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
+      "at": "2026-09-01T06:55:24.714997+00:00",
+      "title": "openai supports california s bill to advance youth ai safety",
+      "url": "openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+    },
     "rss:https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
       "at": "2026-08-28T13:29:03.622065+00:00",
       "title": "supporting thailand s next generation of ai startups",
@@ -1645,6 +1650,11 @@
       "at": "2026-08-24T11:19:10.800745+00:00",
       "title": "ainews death of params z ai ceo jie tang on glm 5 3 and the new post training scaling law",
       "url": "latent.space/p/ainews-death-of-params-zai-ceo-jie"
+    },
+    "rss:https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the": {
+      "at": "2026-09-01T06:55:24.714912+00:00",
+      "title": "ainews fal s h3 max live breaks the infinite videogen barrier",
+      "url": "latent.space/p/ainews-fals-h3-max-live-breaks-the"
     },
     "rss:https://www.latent.space/p/ainews-hot-chips-openais-jalapeno": {
       "at": "2026-08-27T04:07:33.744821+00:00",
@@ -3050,6 +3060,16 @@
       "title": "don t sleep on vision support for coding",
       "url": "reddit.com/r/LocalLLaMA/comments/1w3vcvh/dont_sleep_on_vision_support_for_coding"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w3vhv9": {
+      "at": "2026-09-01T06:55:24.714987+00:00",
+      "title": "deepseek v4 flash vision is out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w3vhv9/deepseek_v4_flash_vision_is_out"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w42biu": {
+      "at": "2026-09-01T06:55:24.714973+00:00",
+      "title": "mtp released for qwen3 8 flash next gguf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w42biu/mtp_released_for_qwen38flashnextgguf"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3306,6 +3326,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-01T01:30:17.354506+00:00",
+  "updated_at": "2026-09-01T06:55:24.715043+00:00",
   "version": 2
 }

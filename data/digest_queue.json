@@ -551,6 +551,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+        "title": "[AINews] Fal’s H3 Max Live breaks the infinite videogen barrier",
+        "url": "https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the",
+        "author": null,
+        "published_at": "2026-09-01T04:36:54+00:00"
+      },
+      "insight": {
+        "title_ko": "Fal의 실시간 비디오 생성과 최신 AI 뉴스",
+        "summary_ko": [
+          "Fal은 Minimax의 H3 모델을 후훈련하고 자체 추론 엔진으로 최적화하여 실시간 비디오 생성의 장벽을 넘었습니다.",
+          "Meta는 개발자용 SDK와 구독 플랜을 포함한 Muse Code의 정식 버전을 출시하며 코딩 에이전트 시장을 공략했습니다.",
+          "DeepSeek, GLM, Qwen, Tencent 등 다양한 오픈웨이트 모델들이 벤치마크 성과와 함께 공개되었습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
