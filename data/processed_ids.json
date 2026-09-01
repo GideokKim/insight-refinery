@@ -165,6 +165,11 @@
       "title": "intelligent transcription with gemini 3 5 transcribe",
       "url": "deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe"
     },
+    "rss:https://deepmind.google/blog/introducing-agentic-video-in-gemini/": {
+      "at": "2026-09-01T17:32:37.259503+00:00",
+      "title": "introducing agentic video understanding with gemini",
+      "url": "deepmind.google/blog/introducing-agentic-video-in-gemini"
+    },
     "rss:https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
       "at": "2026-08-27T15:57:38.016067+00:00",
       "title": "piloting the world s first double blind ai evaluations",
@@ -285,6 +290,16 @@
       "title": "deploy an open model from checkpoint to inference in two commands with nvidia tensorrt model connect",
       "url": "developer.nvidia.com/blog/deploy-an-open-model-from-checkpoint-to-inference-in-two-commands-with-nvidia-tensorrt-model-connect"
     },
+    "rss:https://developer.nvidia.com/blog/?p=121993": {
+      "at": "2026-09-01T17:32:37.259647+00:00",
+      "title": "how to size gpus for ai inference and tco without overspending",
+      "url": "developer.nvidia.com/blog/how-to-size-gpus-for-ai-inference-and-tco-without-overspending"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121995": {
+      "at": "2026-09-01T17:32:37.259550+00:00",
+      "title": "building an adaptive agentic cybersecurity system with nvidia nemotron",
+      "url": "developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -402,6 +417,11 @@
       "at": "2026-08-26T14:39:03.699803+00:00",
       "title": "training and finetuning multi vector embedding models with sentence transformers",
       "url": "huggingface.co/blog/train-multi-vector-encoder"
+    },
+    "rss:https://huggingface.co/blog/webgpu-kernels": {
+      "at": "2026-09-01T17:32:37.259677+00:00",
+      "title": "introducing huggingface kernels 200 webgpu kernels for local ai",
+      "url": "huggingface.co/blog/webgpu-kernels"
     },
     "rss:https://news.ycombinator.com/item?id=49299282": {
       "at": "2026-08-19T14:23:12.191457+00:00",
@@ -700,6 +720,11 @@
       "at": "2026-09-01T12:50:45.652894+00:00",
       "title": "ai can make you suck faster too",
       "url": "hermit-tech.com/blog/ai-can-make-you-suck-faster-too"
+    },
+    "rss:https://news.ycombinator.com/item?id=49521315": {
+      "at": "2026-09-01T17:32:37.259663+00:00",
+      "title": "eff to courts don t rewrite copyright over ai hype",
+      "url": "eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype"
     },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
@@ -1096,6 +1121,16 @@
       "at": "2026-09-01T01:30:17.354421+00:00",
       "title": "introducing wrapture",
       "url": "simonwillison.net/2026/Aug/31/introducing-wrapture"
+    },
+    "rss:https://simonwillison.net/2026/Sep/1/python-315-rc-2/": {
+      "at": "2026-09-01T17:32:37.259739+00:00",
+      "title": "python 3 15 0 candidate 2 is here",
+      "url": "simonwillison.net/2026/Sep/1/python-315-rc-2"
+    },
+    "rss:https://simonwillison.net/2026/Sep/1/tarn-adams/": {
+      "at": "2026-09-01T17:32:37.259796+00:00",
+      "title": "quoting tarn adams",
+      "url": "simonwillison.net/2026/Sep/1/tarn-adams"
     },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
@@ -1631,6 +1666,31 @@
       "title": "apple shares shocking evidence against former employee accused of stealing company data for openai",
       "url": "techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai"
     },
+    "rss:https://techcrunch.com/?p=3159529": {
+      "at": "2026-09-01T17:32:37.259572+00:00",
+      "title": "chatgpt health adds epic integration for clinicians to import patient data",
+      "url": "techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data"
+    },
+    "rss:https://techcrunch.com/?p=3159543": {
+      "at": "2026-09-01T17:32:37.259711+00:00",
+      "title": "air raises 50m to help companies vet the skills and add ons ai agents use",
+      "url": "techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use"
+    },
+    "rss:https://techcrunch.com/?p=3159557": {
+      "at": "2026-09-01T17:32:37.259820+00:00",
+      "title": "fambot introduces an ai chief of staff for families",
+      "url": "techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families"
+    },
+    "rss:https://techcrunch.com/?p=3159627": {
+      "at": "2026-09-01T17:32:37.259807+00:00",
+      "title": "amazon alexa can now alert you when something new might tempt you to shop",
+      "url": "techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop"
+    },
+    "rss:https://techcrunch.com/?p=3159706": {
+      "at": "2026-09-01T17:32:37.259695+00:00",
+      "title": "sequoia incubated empirik launches with 21m to predict outages before they happen",
+      "url": "techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -1715,6 +1775,11 @@
       "at": "2026-08-26T18:46:54.599596+00:00",
       "title": "the future of saas is apps that agents can use",
       "url": "latent.space/p/lovable-future-of-saas"
+    },
+    "rss:https://www.latent.space/p/pr-not-welcome": {
+      "at": "2026-09-01T17:32:37.259604+00:00",
+      "title": "prs not welcome how top ai open source projects are managing thousands of contributors",
+      "url": "latent.space/p/pr-not-welcome"
     },
     "rss:https://www.latent.space/p/simile": {
       "at": "2026-08-24T11:05:22.951509+00:00",
@@ -3095,6 +3160,26 @@
       "title": "new gemma models on arena ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4821c": {
+      "at": "2026-09-01T17:32:37.259782+00:00",
+      "title": "qwen 3 8 27b q4km oneshot a super mario clone",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4821c/qwen_38_27b_q4km_oneshot_a_super_mario_clone"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w49id7": {
+      "at": "2026-09-01T17:32:37.259767+00:00",
+      "title": "i pushed qwen3 8 27b to 2 000 prefill per second and 132 decode per second on a rtx 3090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w49id7/i_pushed_qwen3827b_to_2000_prefill_per_second_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4dsrw": {
+      "at": "2026-09-01T17:32:37.259752+00:00",
+      "title": "new model spark x2 5 4b spark x2 5 1 7b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4fp6w": {
+      "at": "2026-09-01T17:32:37.259726+00:00",
+      "title": "intel hints it may get back into memory business",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3351,6 +3436,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-01T12:50:45.652975+00:00",
+  "updated_at": "2026-09-01T17:32:37.259875+00:00",
   "version": 2
 }
