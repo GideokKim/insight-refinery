@@ -70,6 +70,11 @@
       "title": "world humanoid robot games show runners breaking records bursting into flames",
       "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
     },
+    "rss:https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/": {
+      "at": "2026-09-02T22:05:13.086095+00:00",
+      "title": "google releases gemini 3 8 flash its third flash model in six weeks",
+      "url": "arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -149,6 +154,11 @@
       "at": "2026-08-31T21:43:04.495232+00:00",
       "title": "zlibrary my beloved anthropic staff chats extolling piracy cited in sony suit",
       "url": "arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/": {
+      "at": "2026-09-02T22:05:13.086117+00:00",
+      "title": "trump may be forced to reveal secret rules feds use for ai safety testing",
+      "url": "arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing"
     },
     "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "at": "2026-08-24T11:05:22.951784+00:00",
@@ -1242,6 +1252,11 @@
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
       "url": "simonwillison.net/2026/Sep/2/claudes-new-system-prompt"
     },
+    "rss:https://simonwillison.net/2026/Sep/2/llm-gemini/": {
+      "at": "2026-09-02T22:05:13.086149+00:00",
+      "title": "llm gemini 0 34",
+      "url": "simonwillison.net/2026/Sep/2/llm-gemini"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/rick-brewster/": {
       "at": "2026-09-02T06:32:20.251919+00:00",
       "title": "quoting rick brewster",
@@ -1865,6 +1880,11 @@
       "at": "2026-09-02T17:30:27.096474+00:00",
       "title": "india s richest man now wants to turn aging computers into ai ready pcs",
       "url": "techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs"
+    },
+    "rss:https://techcrunch.com/?p=3160225": {
+      "at": "2026-09-02T22:05:13.086048+00:00",
+      "title": "openai s new reasoning technique alarms ai safety experts",
+      "url": "techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3460,6 +3480,31 @@
       "title": "h3 world turning language understanding into world control",
       "url": "reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5bkrf": {
+      "at": "2026-09-02T22:05:13.086209+00:00",
+      "title": "do we forget about another qwen model for a while now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5bkrf/do_we_forget_about_another_qwen_model_for_a_while"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5e9fi": {
+      "at": "2026-09-02T22:05:13.086162+00:00",
+      "title": "vision support merged for deepseek v4 flash vision exp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5e9fi/vision_support_merged_for_deepseekv4flashvisionexp"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5gk2b": {
+      "at": "2026-09-02T22:05:13.086133+00:00",
+      "title": "glm 5 3 flash makes a black hole minecraft mod running locally on 4x rtx pro 6000 ws",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5gk2b/glm_53_flash_makes_a_black_hole_minecraft_mod"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5isz3": {
+      "at": "2026-09-02T22:05:13.086194+00:00",
+      "title": "confirmed bolting q8 ngram into iq4 qwen no speed degradation",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5isz3/confirmed_bolting_q8_ngram_into_iq4_qwen_no_speed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5l8bw": {
+      "at": "2026-09-02T22:05:13.086178+00:00",
+      "title": "muse spark open weights coming soon",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -3721,6 +3766,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-02T17:30:27.096601+00:00",
+  "updated_at": "2026-09-02T22:05:13.086254+00:00",
   "version": 2
 }

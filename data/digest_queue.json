@@ -1057,6 +1057,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3160225",
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "author": "Russell Brandom",
+        "published_at": "2026-09-02T20:19:14+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 새로운 추론 기법에 대한 AI 안전 전문가들의 우려",
+        "summary_ko": [
+          "OpenAI의 차세대 Astra 모델은 기존 추론 모델의 순차적 사고 방식에서 벗어난 재귀적 깊이 기술을 도입합니다.",
+          "이 새로운 기법은 모델이 기존과 다른 방식으로 작동하도록 설계되어 AI 안전 전문가들 사이에서 우려를 불러일으켰습니다.",
+          "새로운 아키텍처 도입은 향후 AI 모델의 안전성 검증 방식에 중요한 기술적 실무 과제를 던져주고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+        "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+        "author": "Ryan Whitwam",
+        "published_at": "2026-09-02T18:13:54+00:00"
+      },
+      "insight": {
+        "title_ko": "Google, 새로운 Gemini 3.8 Flash 공개",
+        "summary_ko": [
+          "Google이 6주 만에 세 번째 Flash 모델인 Gemini 3.8 Flash를 새롭게 출시했습니다.",
+          "이번 모델은 뛰어난 추론 및 코딩 능력을 제공하며 표준 버전과 보안 특화 Cyber 버전으로 제공됩니다.",
+          "API 접근 가격은 연말까지 할인된 요금으로 제공되며 기업들의 AI 도구 활용을 지원합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
