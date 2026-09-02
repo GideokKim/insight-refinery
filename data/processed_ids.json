@@ -794,6 +794,11 @@
       "title": "expanding openai s presence in brazil",
       "url": "openai.com/index/expanding-our-presence-in-brazil"
     },
+    "rss:https://openai.com/index/gilbert-tobin": {
+      "at": "2026-09-02T06:32:20.252029+00:00",
+      "title": "how law firm gilbert tobin governs and scales ai with openai",
+      "url": "openai.com/index/gilbert-tobin"
+    },
     "rss:https://openai.com/index/gpt-5-6-in-kiro": {
       "at": "2026-08-24T20:16:52.945057+00:00",
       "title": "advancing price performance for developers with gpt 5 6 in kiro",
@@ -1167,6 +1172,11 @@
       "title": "codex bundles libreoffice",
       "url": "simonwillison.net/2026/Sep/1/codex-libreoffice"
     },
+    "rss:https://simonwillison.net/2026/Sep/1/datasette-mcp/": {
+      "at": "2026-09-02T06:32:20.252003+00:00",
+      "title": "datasette mcp 0 2",
+      "url": "simonwillison.net/2026/Sep/1/datasette-mcp"
+    },
     "rss:https://simonwillison.net/2026/Sep/1/geojson/": {
       "at": "2026-09-02T00:38:13.031660+00:00",
       "title": "geojson map viewer",
@@ -1181,6 +1191,11 @@
       "at": "2026-09-01T17:32:37.259796+00:00",
       "title": "quoting tarn adams",
       "url": "simonwillison.net/2026/Sep/1/tarn-adams"
+    },
+    "rss:https://simonwillison.net/2026/Sep/2/rick-brewster/": {
+      "at": "2026-09-02T06:32:20.251919+00:00",
+      "title": "quoting rick brewster",
+      "url": "simonwillison.net/2026/Sep/2/rick-brewster"
     },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
@@ -3230,6 +3245,11 @@
       "title": "exllamav3 recent updates cpu offload glm 5 3 flash qwen3 8 flash sc quants",
       "url": "reddit.com/r/LocalLLaMA/comments/1w44jnv/exllamav3_recent_updates_cpu_offload_glm53flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w45t3d": {
+      "at": "2026-09-02T06:32:20.252016+00:00",
+      "title": "qwen4exp fixes in llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w45t3d/qwen4exp_fixes_in_llamacpp"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w47nif": {
       "at": "2026-09-01T12:50:45.652875+00:00",
       "title": "new gemma models on arena ai",
@@ -3284,6 +3304,16 @@
       "at": "2026-09-01T22:10:08.412058+00:00",
       "title": "really stunned by the singularity comment section",
       "url": "reddit.com/r/LocalLLaMA/comments/1w4oadx/really_stunned_by_the_singularity_comment_section"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4wyvg": {
+      "at": "2026-09-02T06:32:20.251977+00:00",
+      "title": "2 5 of my cmp 170hx have died after 2 weeks and the 3rd came with defective tensor cores current prices do not justify the risk you are taking",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4wyvg/25_of_my_cmp_170hx_have_died_after_2_weeks_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w50ur8": {
+      "at": "2026-09-02T06:32:20.252041+00:00",
+      "title": "localllama is unironically one of the best places to go to get up to date ai news",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3541,6 +3571,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-02T00:38:13.031789+00:00",
+  "updated_at": "2026-09-02T06:32:20.252087+00:00",
   "version": 2
 }

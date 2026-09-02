@@ -881,6 +881,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+        "title": "Quoting Rick Brewster",
+        "url": "https://simonwillison.net/2026/Sep/2/rick-brewster/",
+        "author": null,
+        "published_at": "2026-09-02T05:50:57+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude로 구현한 Paint.NET의 Direct2D WINE 호환성 레이어",
+        "summary_ko": [
+          "Paint.NET 개발자는 WINE 환경에서의 Direct2D 한계를 극복하기 위해 Claude를 활용해 호환성 레이어를 처음부터 새로 작성했다.",
+          "이 과정에서 약 18만 줄에 달하는 코드가 생성되었으며 개발자의 지속적인 피드백과 교정이 함께 이루어졌다.",
+          "이번 사례는 거대 언어 모델을 활용한 대규모 코드 리버스 엔지니어링과 실무 적용 가능성을 보여주는 주목할 만한 사건이다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
