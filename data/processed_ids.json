@@ -1157,10 +1157,20 @@
       "title": "introducing wrapture",
       "url": "simonwillison.net/2026/Aug/31/introducing-wrapture"
     },
+    "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
+      "at": "2026-09-02T00:38:13.031615+00:00",
+      "title": "claude fable 5 1 made me a really nice animated pelican",
+      "url": "simonwillison.net/2026/Sep/1/claude-fable-5-1"
+    },
     "rss:https://simonwillison.net/2026/Sep/1/codex-libreoffice/": {
       "at": "2026-09-01T22:10:08.412016+00:00",
       "title": "codex bundles libreoffice",
       "url": "simonwillison.net/2026/Sep/1/codex-libreoffice"
+    },
+    "rss:https://simonwillison.net/2026/Sep/1/geojson/": {
+      "at": "2026-09-02T00:38:13.031660+00:00",
+      "title": "geojson map viewer",
+      "url": "simonwillison.net/2026/Sep/1/geojson"
     },
     "rss:https://simonwillison.net/2026/Sep/1/python-315-rc-2/": {
       "at": "2026-09-01T17:32:37.259739+00:00",
@@ -3240,10 +3250,20 @@
       "title": "new model spark x2 5 4b spark x2 5 1 7b",
       "url": "reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4f8t2": {
+      "at": "2026-09-02T00:38:13.031677+00:00",
+      "title": "deceptive model quantization from atomicchat",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4f8t2/deceptive_model_quantization_from_atomicchat"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4fp6w": {
       "at": "2026-09-01T17:32:37.259726+00:00",
       "title": "intel hints it may get back into memory business",
       "url": "reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4g0oh": {
+      "at": "2026-09-02T00:38:13.031693+00:00",
+      "title": "help me set up local ai for my 85 year old aunt who is blind",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4g0oh/help_me_set_up_local_ai_for_my_85_year_old_aunt"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4kwyr": {
       "at": "2026-09-01T22:10:08.412077+00:00",
@@ -3521,6 +3541,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-01T22:10:08.412111+00:00",
+  "updated_at": "2026-09-02T00:38:13.031789+00:00",
   "version": 2
 }

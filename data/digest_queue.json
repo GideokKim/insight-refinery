@@ -859,6 +859,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+        "title": "Claude Fable 5.1 made me a really nice animated pelican",
+        "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+        "author": null,
+        "published_at": "2026-09-01T23:57:28+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude Fable 5.1 추론 수준별 벤치마크",
+        "summary_ko": [
+          "Anthropic은 코딩과 과학 연구에서 성능이 대폭 향상된 Claude Fable 5.1을 새롭게 공개했다.",
+          "모델의 추론 노력 수준을 low부터 max까지 5단계로 설정하여 테스트를 진행했다.",
+          "xhigh 및 max 설정에서는 복잡한 SVG 생성과 상세한 추론 과정이 시연되었다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
