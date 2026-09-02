@@ -903,6 +903,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+        "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+        "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+        "author": null,
+        "published_at": "2026-09-02T07:46:08+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude Fable/Mythos 5.1 출시",
+        "summary_ko": [
+          "Anthropic은 코딩과 지식 업무를 위한 새로운 플래그십 모델인 Claude Fable 5.1과 Mythos 5.1을 출시했습니다.",
+          "캐시 읽기 가격은 75% 인하되었으나 출력 토큰 사용량이 증가하여 작업당 전체 비용은 소폭 상승했습니다.",
+          "이번 모델은 자율적인 다단계 작업 수행 능력과 향상된 엔터프라이즈 보안 제어 기능을 강조합니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
     }
   ]
 }
