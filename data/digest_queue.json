@@ -925,6 +925,138 @@
         "importance": 5
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122046",
+        "title": "The Modern CUDA Toolbox in Practice: A Step-by-Step Optimization Walkthrough",
+        "url": "https://developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-02T17:15:57+00:00"
+      },
+      "insight": {
+        "title_ko": "CUDA 툴박스를 활용한 GPU 최적화 실습",
+        "summary_ko": [
+          "NVIDIA CUDA는 과학 연산과 대규모 AI 학습을 뒷받침하는 GPU 가속 연산의 핵심 기반입니다.",
+          "본 글은 최신 CUDA 툴박스를 활용해 GPU 성능을 단계적으로 최적화하는 방법을 다룹니다.",
+          "실무 개발자가 실제 코드에서 성능 병목을 해결하고 효율을 높이는 실용적인 지침을 제공합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3160050",
+        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "author": "Amanda Silberling",
+        "published_at": "2026-09-02T17:09:06+00:00"
+      },
+      "insight": {
+        "title_ko": "미국 정부의 LLM 저작권 학습 옹호",
+        "summary_ko": [
+          "미국 정부가 저작권이 있는 자료를 LLM 학습에 활용하는 문제에 대해 OpenAI의 입장을 지지하고 나섰다.",
+          "정부 문건에 따르면 미국은 글로벌 AI 표준을 선도하는 강력하고 경쟁력 있는 산업 육성에 강한 의지를 가지고 있다.",
+          "이번 사안은 향후 인공지능 분야의 저작권 법적 공방과 규제 방향성에 중요한 영향을 미칠 것으로 보인다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122024",
+        "title": "Co-Designing AI Models Using Speculative Decoding for Faster LLM Inference",
+        "url": "https://developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-09-02T16:04:19+00:00"
+      },
+      "insight": {
+        "title_ko": "Speculative Decoding을 통한 LLM 추론 가속화",
+        "summary_ko": [
+          "본문은 AI 모델 공동 설계 시리즈의 일환으로 Speculative Decoding을 활용한 LLM 추론 가속화 방안을 다룬다.",
+          "정확도를 유지하면서도 처리량과 상호작용성을 향상시키는 모델 설계 선택의 영향을 상세히 분석한다.",
+          "Pareto frontier 전반에 걸쳐 초안 길이와 메커니즘을 선택하기 위한 다섯 가지 핵심 지침을 제공한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49536375",
+        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+        "author": "jakobgreenfeld",
+        "published_at": "2026-09-02T13:59:59+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 추천 시스템을 오염시키는 대규모 소프트웨어 페이지",
+        "summary_ko": [
+          "단 세 개의 웹사이트가 AI 추천 시스템을 겨냥해 21만 개가 넘는 소프트웨어 리뷰 페이지를 대량으로 생성했습니다.",
+          "Perplexity와 같은 AI 검색 엔진이 답변 생성 과정에서 이 조작된 출처들을 인용하는 것으로 드러났습니다.",
+          "이번 사례는 AI 추천 및 검색 결과의 신뢰성과 출처 검증 메커니즘에 대한 우려를 제기합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w5akpy",
+        "title": "H3-World: Turning Language Understanding into World Control",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world/",
+        "author": "/u/sachasayan",
+        "published_at": "2026-09-02T13:35:44+00:00"
+      },
+      "insight": {
+        "title_ko": "H3-World: 언어 이해를 통한 월드 컨트롤",
+        "summary_ko": [
+          "H3-World는 캐릭터와 카메라의 행동을 텍스트 지시어로 변환하여 MiniMax-H3의 사전 학습된 텍스트 경로에 주입합니다.",
+          "비디오 잠재 구간마다 하나의 행동 프롬프트를 할당하여 시간이 지남에 따라 정밀한 제어가 가능하도록 지원합니다.",
+          "소수의 게임플레이 샘플과 LoRA 학습만으로 보지 못한 행동 조합까지 효율적으로 제어할 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49534132",
+        "title": "Quasar 438B: Europe's Leading AI Model",
+        "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+        "author": "amunozo",
+        "published_at": "2026-09-02T10:02:41+00:00"
+      },
+      "insight": {
+        "title_ko": "유럽의 주요 AI 모델 Quasar 438B 공개",
+        "summary_ko": [
+          "Multiverse Computing에서 유럽을 선도하는 새로운 AI 모델인 Quasar 438B를 발표했습니다.",
+          "해당 모델은 438B 규모의 파라미터를 갖춘 대형 언어 모델로 주목받고 있습니다.",
+          "유럽 지역의 AI 기술력과 모델 생태계 확장에 중요한 영향을 미칠 것으로 예상됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

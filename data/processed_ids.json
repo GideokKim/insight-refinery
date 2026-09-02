@@ -170,10 +170,20 @@
       "title": "introducing agentic video understanding with gemini",
       "url": "deepmind.google/blog/introducing-agentic-video-in-gemini"
     },
+    "rss:https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": {
+      "at": "2026-09-02T17:30:27.096454+00:00",
+      "title": "introducing gemini 3 8 flash and 3 8 flash cyber",
+      "url": "deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber"
+    },
     "rss:https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
       "at": "2026-08-27T15:57:38.016067+00:00",
       "title": "piloting the world s first double blind ai evaluations",
       "url": "deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations"
+    },
+    "rss:https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": {
+      "at": "2026-09-02T17:30:27.096539+00:00",
+      "title": "proactive cyber defense for governments and enterprises",
+      "url": "deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises"
     },
     "rss:https://developer.nvidia.com/blog/?p=120848": {
       "at": "2026-08-26T22:35:55.496737+00:00",
@@ -300,6 +310,16 @@
       "title": "building an adaptive agentic cybersecurity system with nvidia nemotron",
       "url": "developer.nvidia.com/blog/building-an-adaptive-agentic-cybersecurity-system-with-nvidia-nemotron"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122024": {
+      "at": "2026-09-02T17:30:27.096339+00:00",
+      "title": "co designing ai models using speculative decoding for faster llm inference",
+      "url": "developer.nvidia.com/blog/co-designing-ai-models-using-speculative-decoding-for-faster-llm-inference"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122046": {
+      "at": "2026-09-02T17:30:27.096281+00:00",
+      "title": "the modern cuda toolbox in practice a step by step optimization walkthrough",
+      "url": "developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -377,6 +397,11 @@
       "at": "2026-08-20T11:16:15.525995+00:00",
       "title": "thinking of ace we can do it with fewer tokens",
       "url": "huggingface.co/blog/ibm-research/altk-evolve-sldd"
+    },
+    "rss:https://huggingface.co/blog/ibm-research/real-time-intelligence": {
+      "at": "2026-09-02T17:30:27.096516+00:00",
+      "title": "real time intelligence with ibm time series models on confluent",
+      "url": "huggingface.co/blog/ibm-research/real-time-intelligence"
     },
     "rss:https://huggingface.co/blog/icml-2026-open-reproductions": {
       "at": "2026-08-19T14:23:12.191244+00:00",
@@ -711,6 +736,11 @@
       "title": "no ai fridays",
       "url": "noaifridays.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=49508225": {
+      "at": "2026-09-02T17:30:27.096531+00:00",
+      "title": "you know who hates ai insurance claims adjusters",
+      "url": "wired.com/story/insurance-claims-adjusters-really-hate-ai"
+    },
     "rss:https://news.ycombinator.com/item?id=49508982": {
       "at": "2026-08-31T21:43:04.495459+00:00",
       "title": "apple caught off guard by ai demand for mac mini and mac studio",
@@ -745,6 +775,16 @@
       "at": "2026-09-02T12:20:55.157046+00:00",
       "title": "show hn weedout safari extension that hides youtube ai labeled videos",
       "url": "masteranza.github.io/weedout"
+    },
+    "rss:https://news.ycombinator.com/item?id=49534132": {
+      "at": "2026-09-02T17:30:27.096412+00:00",
+      "title": "quasar 438b europe s leading ai model",
+      "url": "multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model"
+    },
+    "rss:https://news.ycombinator.com/item?id=49536375": {
+      "at": "2026-09-02T17:30:27.096352+00:00",
+      "title": "three sites made 215 128 best software pages for ai perplexity cites them",
+      "url": "trellner.com/reports/manufactured-sources-behind-ai-recommendations"
     },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
@@ -1196,6 +1236,11 @@
       "at": "2026-09-01T17:32:37.259796+00:00",
       "title": "quoting tarn adams",
       "url": "simonwillison.net/2026/Sep/1/tarn-adams"
+    },
+    "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
+      "at": "2026-09-02T17:30:27.096500+00:00",
+      "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
+      "url": "simonwillison.net/2026/Sep/2/claudes-new-system-prompt"
     },
     "rss:https://simonwillison.net/2026/Sep/2/rick-brewster/": {
       "at": "2026-09-02T06:32:20.251919+00:00",
@@ -1756,6 +1801,11 @@
       "title": "amazon alexa can now alert you when something new might tempt you to shop",
       "url": "techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop"
     },
+    "rss:https://techcrunch.com/?p=3159700": {
+      "at": "2026-09-02T17:30:27.096546+00:00",
+      "title": "adobe acquires indian market intelligence startup rilo",
+      "url": "techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo"
+    },
     "rss:https://techcrunch.com/?p=3159706": {
       "at": "2026-09-01T17:32:37.259695+00:00",
       "title": "sequoia incubated empirik launches with 21m to predict outages before they happen",
@@ -1791,15 +1841,50 @@
       "title": "openai faces 30 more lawsuits tied to tumbler ridge shooting",
       "url": "techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting"
     },
+    "rss:https://techcrunch.com/?p=3160035": {
+      "at": "2026-09-02T17:30:27.096483+00:00",
+      "title": "hiddenlayer nabs 100m as enterprises rush to secure their ai deployments",
+      "url": "techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments"
+    },
+    "rss:https://techcrunch.com/?p=3160050": {
+      "at": "2026-09-02T17:30:27.096322+00:00",
+      "title": "us government sides with openai on issue of training llms on copyrighted material",
+      "url": "techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material"
+    },
+    "rss:https://techcrunch.com/?p=3160055": {
+      "at": "2026-09-02T17:30:27.096491+00:00",
+      "title": "psa amazon s shopping ai can now tell you if that message is a scam",
+      "url": "techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam"
+    },
+    "rss:https://techcrunch.com/?p=3160084": {
+      "at": "2026-09-02T17:30:27.096464+00:00",
+      "title": "wonderful more than doubles its valuation to 5b in under 6 months",
+      "url": "techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months"
+    },
+    "rss:https://techcrunch.com/?p=3160089": {
+      "at": "2026-09-02T17:30:27.096474+00:00",
+      "title": "india s richest man now wants to turn aging computers into ai ready pcs",
+      "url": "techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
       "url": "techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3160051": {
+      "at": "2026-09-02T17:30:27.096443+00:00",
+      "title": "we re dangerously close to dead internet theory says pangram s ceo",
+      "url": "techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
       "url": "techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3160054": {
+      "at": "2026-09-02T17:30:27.096428+00:00",
+      "title": "pangram s max spero on why ai detection is harder than real or fake",
+      "url": "techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake"
     },
     "rss:https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x": {
       "at": "2026-08-24T11:05:22.951477+00:00",
@@ -3320,10 +3405,20 @@
       "title": "really stunned by the singularity comment section",
       "url": "reddit.com/r/LocalLLaMA/comments/1w4oadx/really_stunned_by_the_singularity_comment_section"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4rzbd": {
+      "at": "2026-09-02T17:30:27.096563+00:00",
+      "title": "given how common rtx 3090 use is for llms why don t we see more int8 w8a8 models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4rzbd/given_how_common_rtx_3090_use_is_for_llms_why"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4s68k": {
       "at": "2026-09-02T12:20:55.157000+00:00",
       "title": "how i got 280 tok s on qwen3 8 27b on 2xr9700 s and 940k tokens kv cache",
       "url": "reddit.com/r/LocalLLaMA/comments/1w4s68k/how_i_got_280_toks_on_qwen38_27b_on_2xr9700s_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4syn5": {
+      "at": "2026-09-02T17:30:27.096553+00:00",
+      "title": "dgx spark about to jump in price asus ascent gx10 jumped from 3999 to 5999 today",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4syn5/dgx_spark_about_to_jump_in_price_asus_ascent_gx10"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4w8kd": {
       "at": "2026-09-02T12:20:55.157030+00:00",
@@ -3350,10 +3445,20 @@
       "title": "localllama is unironically one of the best places to go to get up to date ai news",
       "url": "reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w53b96": {
+      "at": "2026-09-02T17:30:27.096523+00:00",
+      "title": "android studios native gemma 4 runs on llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w53b96/android_studios_native_gemma_4_runs_on_llamacpp"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w53ti8": {
       "at": "2026-09-02T12:20:55.156970+00:00",
       "title": "qwen will be the king",
       "url": "reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5akpy": {
+      "at": "2026-09-02T17:30:27.096372+00:00",
+      "title": "h3 world turning language understanding into world control",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5akpy/h3world_turning_language_understanding_into_world"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3595,6 +3700,11 @@
       "title": "how to encourage smarter ai use in the classroom",
       "url": "technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     },
+    "rss:https://www.technologyreview.com/?p=1142879": {
+      "at": "2026-09-02T17:30:27.096508+00:00",
+      "title": "facilitating ai integration with simplicity at scale",
+      "url": "technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale"
+    },
     "rss:https://www.technologyreview.com/?p=1142946": {
       "at": "2026-08-26T08:28:40.914665+00:00",
       "title": "bill gates says we ve passed ai s danger thresholds now what",
@@ -3611,6 +3721,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-02T12:20:55.157090+00:00",
+  "updated_at": "2026-09-02T17:30:27.096601+00:00",
   "version": 2
 }
