@@ -70,6 +70,11 @@
       "title": "world humanoid robot games show runners breaking records bursting into flames",
       "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
     },
+    "rss:https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/": {
+      "at": "2026-09-03T21:59:42.659508+00:00",
+      "title": "four major ai models suffer rare overlapping downtime",
+      "url": "arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime"
+    },
     "rss:https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/": {
       "at": "2026-09-02T22:05:13.086095+00:00",
       "title": "google releases gemini 3 8 flash its third flash model in six weeks",
@@ -836,6 +841,11 @@
       "title": "mamdani bans ai in nyc schools",
       "url": "nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49544762": {
+      "at": "2026-09-03T21:59:42.659571+00:00",
+      "title": "go grandmaster shin defeats ai katago with a two stone handicap",
+      "url": "kedglobal.com/artificial-intelligence/newsView/ked202607210007"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -878,6 +888,11 @@
       "at": "2026-08-19T14:23:12.191402+00:00",
       "title": "openai appoints dali rajic as chief revenue officer",
       "url": "openai.com/index/dali-rajic-chief-revenue-officer"
+    },
+    "rss:https://openai.com/index/daybreak-for-frontline-defenders": {
+      "at": "2026-09-03T21:59:42.659547+00:00",
+      "title": "daybreak for frontline defenders 1b to protect essential services",
+      "url": "openai.com/index/daybreak-for-frontline-defenders"
     },
     "rss:https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
       "at": "2026-08-25T11:15:55.505381+00:00",
@@ -934,6 +949,11 @@
       "title": "learning never stops how ai makes learning continuous",
       "url": "openai.com/index/learning-never-stops"
     },
+    "rss:https://openai.com/index/legora-financial-statement-review-with-astra": {
+      "at": "2026-09-03T21:59:42.659555+00:00",
+      "title": "legora reviewed 41 documents in minutes with gpt 6 astra",
+      "url": "openai.com/index/legora-financial-statement-review-with-astra"
+    },
     "rss:https://openai.com/index/loveholidays": {
       "at": "2026-08-26T11:19:14.906066+00:00",
       "title": "how loveholidays is making everyone a builder with codex",
@@ -979,6 +999,11 @@
       "title": "path to astra critical capabilities and frontier safeguards",
       "url": "openai.com/index/path-to-astra"
     },
+    "rss:https://openai.com/index/playco-game-prototyping-with-astra": {
+      "at": "2026-09-03T21:59:42.659563+00:00",
+      "title": "playco cut manual fixes 50 prototyping games with gpt 6 astra",
+      "url": "openai.com/index/playco-game-prototyping-with-astra"
+    },
     "rss:https://openai.com/index/polimill": {
       "at": "2026-09-01T01:30:17.354427+00:00",
       "title": "polimill builds japan s next generation public ai infrastructure",
@@ -993,6 +1018,11 @@
       "at": "2026-08-19T14:23:12.191177+00:00",
       "title": "replit expands access to software creation with gpt 5 6 luna",
       "url": "openai.com/index/replit"
+    },
+    "rss:https://openai.com/index/safety-overview-gpt-6-astra": {
+      "at": "2026-09-03T21:59:42.659460+00:00",
+      "title": "safety overview gpt 6 astra",
+      "url": "openai.com/index/safety-overview-gpt-6-astra"
     },
     "rss:https://openai.com/index/stampli": {
       "at": "2026-08-20T17:18:50.768188+00:00",
@@ -1141,6 +1171,11 @@
       "at": "2026-08-19T17:19:19.683349+00:00",
       "title": "towards demystifying the creativity of diffusion models",
       "url": "research.google/blog/towards-demystifying-the-creativity-of-diffusion-models"
+    },
+    "rss:https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/": {
+      "at": "2026-09-03T21:59:42.659493+00:00",
+      "title": "transfer learning for genomic prediction in underrepresented populations",
+      "url": "research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations"
     },
     "rss:https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": {
       "at": "2026-08-24T11:19:10.800872+00:00",
@@ -1311,6 +1346,11 @@
       "at": "2026-09-02T06:32:20.251919+00:00",
       "title": "quoting rick brewster",
       "url": "simonwillison.net/2026/Sep/2/rick-brewster"
+    },
+    "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
+      "at": "2026-09-03T21:59:42.659387+00:00",
+      "title": "gpt 6 astra",
+      "url": "simonwillison.net/2026/Sep/3/gpt6-astra"
     },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
@@ -1966,6 +2006,26 @@
       "title": "ollie is betting its focus on privacy can help it win the ai assistant race",
       "url": "techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race"
     },
+    "rss:https://techcrunch.com/?p=3160448": {
+      "at": "2026-09-03T21:59:42.659483+00:00",
+      "title": "abliteration ai is making a business out of removing ai guardrails",
+      "url": "techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails"
+    },
+    "rss:https://techcrunch.com/?p=3160462": {
+      "at": "2026-09-03T21:59:42.659501+00:00",
+      "title": "meta is paying to peek at how you use their latest ai model",
+      "url": "techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model"
+    },
+    "rss:https://techcrunch.com/?p=3160480": {
+      "at": "2026-09-03T21:59:42.659408+00:00",
+      "title": "openai launches astra its powerful and controversial new model",
+      "url": "techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model"
+    },
+    "rss:https://techcrunch.com/?p=3160633": {
+      "at": "2026-09-03T21:59:42.659470+00:00",
+      "title": "accel reportedly in talks to lead 1b round for thinking machines at 40b valuation",
+      "url": "techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -2055,6 +2115,11 @@
       "at": "2026-08-26T18:46:54.599626+00:00",
       "title": "we have foundation models for language not for physics anima anandkumar bren professor of computing",
       "url": "latent.space/p/anima"
+    },
+    "rss:https://www.latent.space/p/astra": {
+      "at": "2026-09-03T21:59:42.659350+00:00",
+      "title": "gpt 6 astra an automated ai engineer you can hire for 6 an hour",
+      "url": "latent.space/p/astra"
     },
     "rss:https://www.latent.space/p/attention-interface": {
       "at": "2026-08-24T11:05:22.951496+00:00",
@@ -3695,10 +3760,25 @@
       "title": "apparently chatgpt claude and grok were down",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6aw2a/apparently_chatgpt_claude_and_grok_were_down"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6b26t": {
+      "at": "2026-09-03T21:59:42.659536+00:00",
+      "title": "ling 3 0 flash fin weights released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6b26t/ling30flashfin_weights_released"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6bkkh": {
       "at": "2026-09-03T17:25:47.816226+00:00",
       "title": "modelscope is a hugging face alternative now that nvidias deal is a go",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6bkkh/modelscope_is_a_hugging_face_alternative_now_that"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6ccgs": {
+      "at": "2026-09-03T21:59:42.659435+00:00",
+      "title": "qwen3 8 flash next mtp merged in ik_llama cpp integrated head or separate md file 45 90 tok s on a 5090 128gb works down to a 12gb 4070",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6ccgs/qwen38flashnext_mtp_merged_in_ik_llamacpp"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6egid": {
+      "at": "2026-09-03T21:59:42.659422+00:00",
+      "title": "bernie sanders proposes to ban ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3961,6 +4041,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-03T17:25:47.816322+00:00",
+  "updated_at": "2026-09-03T21:59:42.659605+00:00",
   "version": 2
 }

@@ -1321,6 +1321,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/astra",
+        "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+        "url": "https://www.latent.space/p/astra",
+        "author": null,
+        "published_at": "2026-09-03T21:09:41+00:00"
+      },
+      "insight": {
+        "title_ko": "GPT-6 Astra의 실무 AI 엔지니어링 활용",
+        "summary_ko": [
+          "OpenAI는 FrontierMath와 ARC-AGI-3에서 최고 성능을 기록한 GPT-6 Astra를 출시했습니다.",
+          "이 모델은 모델 훈련, 데이터 라벨링, 디버깅 등을 자율 수행하는 완전한 AI 엔지니어 역량을 보여줍니다.",
+          "실험 결과 시간당 6달러 미만의 비용으로 복잡한 파이프라인 관리와 서브에이전트 제어가 가능합니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+        "title": "GPT‑6 Astra",
+        "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+        "author": null,
+        "published_at": "2026-09-03T20:18:41+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI GPT-6 Astra 공개",
+        "summary_ko": [
+          "OpenAI는 유료 구독자와 API 및 AWS를 통해 새로운 모델인 GPT-6 Astra를 출시하기 시작했습니다.",
+          "Astra는 ARC-AGI 3 벤치마크와 보안 및 장문 컨텍스트 처리에서 뛰어난 성능을 기록했습니다.",
+          "일부 종합 지표에서는 경쟁 모델에 뒤처지지만 코딩 에이전트 비용 효율성 측면에서 우수합니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3160480",
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+        "author": "Lucas Ropek",
+        "published_at": "2026-09-03T18:01:45+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, 신규 AI 모델 Astra 출시",
+        "summary_ko": [
+          "OpenAI가 컴퓨터와 브라우저 사용의 새로운 지평을 여는 신규 모델 Astra를 공식 출시했습니다.",
+          "본 모델은 탁월한 속도와 정확성 및 안전성을 바탕으로 다양한 복잡한 태스크를 처리할 수 있다고 주장합니다.",
+          "업계 전반에 큰 기대를 모으는 동시에 여러 논란도 함께 야기하고 있는 강력한 AI 모델입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w6egid",
+        "title": "Bernie Sanders proposes to ban AI",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai/",
+        "author": "/u/the320x200",
+        "published_at": "2026-09-03T17:44:45+00:00"
+      },
+      "insight": {
+        "title_ko": "버니 샌더스의 AI 금지 법안 발의 논란",
+        "summary_ko": [
+          "버니 샌더스가 인간의 인지 능력을 초과하는 AI의 금지와 징역형을 포함한 법안을 제안했습니다.",
+          "일부 로컬 모델도 해당 규제 범위에 포함될 수 있어 오픈소스 진영에서 우려가 제기되고 있습니다.",
+          "정치권의 규제가 로컬 모델의 접근성과 활용에 직접적인 위협이 될 수 있다는 지적이 나옵니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w6ccgs",
+        "title": "Qwen3.8-Flash-Next MTP merged in ik_llama.cpp (integrated head or separate -md file)... 45 → 90 tok/s on a 5090 + 128GB, works down to a 12GB 4070",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6ccgs/qwen38flashnext_mtp_merged_in_ik_llamacpp/",
+        "author": "/u/Alternative_Will5974",
+        "published_at": "2026-09-03T16:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "ik_llama.cpp의 Qwen3.8 MTP 지원 병합",
+        "summary_ko": [
+          "ik_llama.cpp가 Qwen3.8-Flash-Next의 MTP 지원 기능을 공식 메인 브랜치에 병합했습니다.",
+          "MTP 헤드 적용을 통해 코딩 작업 시 토큰 생성 속도가 RTX 5090 기준 45에서 90 tok/s로 향상되었습니다.",
+          "단일 슬롯 제한과 프롬프트 템플릿에 따른 수락률 변동 등의 제약 사항이 존재합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "title": "Safety overview: GPT-6 Astra",
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+        "author": null,
+        "published_at": "2026-09-03T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "GPT-6 Astra 안전성 및 사이버보안 능력 개요",
+        "summary_ko": [
+          "GPT-6 Astra는 현재 널리 배포된 모델 중 가장 뛰어난 성능을 가진 최신 모델입니다.",
+          "Preparedness Framework 기준에 따라 사이버보안 역량에서 최초로 Critical 등급에 도달했습니다.",
+          "향상된 사이버보안 능력과 함께 모델의 전반적인 안전성 확보 현황을 보여줍니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
