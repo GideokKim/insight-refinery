@@ -1211,6 +1211,116 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+        "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+        "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+        "author": "Michael Acton, Financial Times",
+        "published_at": "2026-09-03T13:34:13+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 Hugging Face 130억 달러 인수",
+        "summary_ko": [
+          "Nvidia가 AI 모델 플랫폼인 Hugging Face를 130억 달러에 인수하기로 합의했습니다.",
+          "이번 인수는 오픈소스 AI 생태계에 대한 영향력을 확대하고 기술 확산을 가속화하기 위한 전략입니다.",
+          "Hugging Face는 수백만 개의 모델과 데이터셋을 보유하며 오픈 AI 시스템의 핵심 역할을 해왔습니다."
+        ],
+        "category": "Industry",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3160347",
+        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+        "author": "Ivan Mehta",
+        "published_at": "2026-09-03T12:42:45+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia, 허깅페이스 129억 달러에 인수",
+        "summary_ko": [
+          "Nvidia가 129억 달러 규모로 Hugging Face를 인수한다고 공식 확인했습니다.",
+          "Hugging Face는 300만 개 이상의 모델을 호스팅하며 1,800만 명 이상의 개발자가 사용하고 있습니다.",
+          "이번 인수는 AI 생태계 전반의 개발자 인프라와 하드웨어 연계에 큰 영향을 미칠 전망입니다."
+        ],
+        "category": "Industry",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google Research Blog",
+        "source_type": "rss",
+        "external_id": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+        "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+        "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+        "author": null,
+        "published_at": "2026-09-03T16:00:03+00:00"
+      },
+      "insight": {
+        "title_ko": "수컷 초파리 뇌 전체 커넥토옴 매핑 완료",
+        "summary_ko": [
+          "Google Research는 수컷 초파리의 전체 뇌 커넥토옴 매핑을 완료하는 중요한 과학적 이정표를 달성했습니다.",
+          "이번 연구는 뇌 신경망 구조를 이해하고 커넥토옴 연구를 진전시키는 데 중요한 기초 데이터를 제공합니다.",
+          "해당 성과는 향후 신경과학 및 관련 AI 모델 연구에 활용될 가능성이 높습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+        "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+        "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+        "author": null,
+        "published_at": "2026-09-03T15:02:08+00:00"
+      },
+      "insight": {
+        "title_ko": "구글 딥마인드, WeatherNext 3 공개",
+        "summary_ko": [
+          "구글 딥마인드가 가장 발전하고 정확한 글로벌 날씨 AI 모델인 WeatherNext 3를 새롭게 소개했습니다.",
+          "이 모델은 전 세계의 기상 예측 정확도를 대폭 향상시키는 성능을 제공할 것으로 기대됩니다.",
+          "정확한 기상 예측 AI의 도입은 관련 산업 분야의 실무적 의사결정에 중요한 영향을 미칠 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w67wso",
+        "title": "IFM/K2-Horizon-MoVA-36B-A4B-GGUF · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w67wso/ifmk2horizonmova36ba4bgguf_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-03T13:47:54+00:00"
+      },
+      "insight": {
+        "title_ko": "K2-Horizon-MoVA-36B 오픈소스 모델 공개",
+        "summary_ko": [
+          "IFM은 36B 파라미터와 4B 활성 파라미터를 갖는 Mixture-of-Experts 모델인 K2-Horizon-MoVA-36B-A4B를 공개했습니다.",
+          "이 모델은 512K의 네이티브 컨텍스트를 지원하며 추론 및 에이전트 벤치마크에서 뛰어난 성능을 보여줍니다.",
+          "연구 커뮤니티를 위해 학습 데이터, 학습 코드, 그리고 중간 체크포인트까지 모두 공개될 예정입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
