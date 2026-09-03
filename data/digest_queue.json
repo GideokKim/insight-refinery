@@ -1123,6 +1123,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w5yyqz",
+        "title": "KV cache might be a bigger problem for local models than parameter count",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5yyqz/kv_cache_might_be_a_bigger_problem_for_local/",
+        "author": "/u/jonejy",
+        "published_at": "2026-09-03T06:04:24+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 LLM 추론에서 KV 캐시가 미치는 영향",
+        "summary_ko": [
+          "로컬 환경에서 LLM을 구동할 때 파라미터 수보다 긴 컨텍스트의 KV 캐시가 더 큰 메모리 병목이 될 수 있습니다.",
+          "GQA와 MQA 및 KV 캐시 양자화가 도움이 되지만 캐시는 여전히 컨텍스트 길이에 따라 증가합니다.",
+          "향후 로컬 모델 최적화는 파라미터 축소보다 메모리 이동과 지속 상태를 줄이는 방향으로 전환될 것입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+        "title": "[AINews] Muse Spark 1.3 matches GPT-5.6-Sol, confirming Meta Superintelligence as the newest Frontier Lab, >90% discount for training",
+        "url": "https://www.latent.space/p/ainews-muse-spark-13-matches-gpt",
+        "author": null,
+        "published_at": "2026-09-03T04:38:33+00:00"
+      },
+      "insight": {
+        "title_ko": "Muse Spark 1.3 출시 및 AI 엔지니어링 동향",
+        "summary_ko": [
+          "Meta의 신규 모델 Muse Spark 1.3이 주요 프론티어 모델과 필적하는 성능을 기록하며 공개되었습니다.",
+          "스탠퍼드 대학교는 에이전트 스킬과 컨텍스트 엔지니어링 중심의 AI 네이티브 소프트웨어 공학 커리큘럼을 전면 개편했습니다.",
+          "아키텍처 측면에서는 루프드 트랜스포머와 레이어 재사용을 통한 연산 효율화 기법에 대한 논의가 주목받고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w5vjp6",
+        "title": "Qwen3.8-Flash-Next on 2x3090 + DDR4: 17 → 25-29 t/s decode with the expert cache PR",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5vjp6/qwen38flashnext_on_2x3090_ddr4_17_2529_ts_decode/",
+        "author": "/u/Extension-Bid-639",
+        "published_at": "2026-09-03T03:04:41+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp 전문가 캐시 적용 후 디코딩 성능 향상",
+        "summary_ko": [
+          "듀얼 RTX 3090 환경에서 llama.cpp의 GPU 상주 LRU 전문가 캐시 PR을 적용하여 Qwen 모델의 디코딩 속도를 대폭 개선했습니다.",
+          "최근 사용된 전문가를 VRAM에 캐싱하는 방식으로 코드 작성 시 80~85% 이상의 높은 적중률을 기록했습니다.",
+          "ubatch 크기 조절과 캐시 최적화를 통해 261k의 긴 컨텍스트 환경에서도 실무적인 추론 성능 향상을 확인했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
