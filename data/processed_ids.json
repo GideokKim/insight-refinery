@@ -796,6 +796,11 @@
       "title": "three sites made 215 128 best software pages for ai perplexity cites them",
       "url": "trellner.com/reports/manufactured-sources-behind-ai-recommendations"
     },
+    "rss:https://news.ycombinator.com/item?id=49542443": {
+      "at": "2026-09-03T00:47:52.878112+00:00",
+      "title": "mamdani bans ai in nyc schools",
+      "url": "nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -805,6 +810,11 @@
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
       "url": "openai.com/index/asana"
+    },
+    "rss:https://openai.com/index/atv-big-air-tour": {
+      "at": "2026-09-03T00:47:52.878181+00:00",
+      "title": "atv big air tour turned 3 days of work into 3 hours with chatgpt",
+      "url": "openai.com/index/atv-big-air-tour"
     },
     "rss:https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
       "at": "2026-08-26T18:46:54.599712+00:00",
@@ -1262,6 +1272,11 @@
       "title": "quoting rick brewster",
       "url": "simonwillison.net/2026/Sep/2/rick-brewster"
     },
+    "rss:https://techcrunch.com/?p=3137969": {
+      "at": "2026-09-03T00:47:52.878208+00:00",
+      "title": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026"
+    },
     "rss:https://techcrunch.com/?p=3139375": {
       "at": "2026-08-26T18:46:54.599664+00:00",
       "title": "ex meta scientists want to bring visual ai to the factory floor",
@@ -1271,6 +1286,11 @@
       "at": "2026-08-28T01:13:09.165287+00:00",
       "title": "anthropic and openai are joining the ai stage at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3149903": {
+      "at": "2026-09-03T00:47:52.878165+00:00",
+      "title": "techcrunch disrupt 2026 s new real world ai stage features nvidia robots and extinct animals",
+      "url": "techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals"
     },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
@@ -1885,6 +1905,11 @@
       "at": "2026-09-02T22:05:13.086048+00:00",
       "title": "openai s new reasoning technique alarms ai safety experts",
       "url": "techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts"
+    },
+    "rss:https://techcrunch.com/?p=3160290": {
+      "at": "2026-09-03T00:47:52.878151+00:00",
+      "title": "palo alto networks paid 500m for thrive backed console sources say",
+      "url": "techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3440,6 +3465,11 @@
       "title": "dgx spark about to jump in price asus ascent gx10 jumped from 3999 to 5999 today",
       "url": "reddit.com/r/LocalLLaMA/comments/1w4syn5/dgx_spark_about_to_jump_in_price_asus_ascent_gx10"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4vg3t": {
+      "at": "2026-09-03T00:47:52.878198+00:00",
+      "title": "gb10 price increases seriously what is the best bang for the buck now mac studio",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w4vg3t/gb10_price_increases_seriously_what_is_the_best"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w4w8kd": {
       "at": "2026-09-02T12:20:55.157030+00:00",
       "title": "the dgx spark joins the 5090 in its price increase",
@@ -3474,6 +3504,11 @@
       "at": "2026-09-02T12:20:55.156970+00:00",
       "title": "qwen will be the king",
       "url": "reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w54fqs": {
+      "at": "2026-09-03T00:47:52.878189+00:00",
+      "title": "your favorite fastest abliterated safety removed 3 6 and 3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w54fqs/your_favorite_fastest_abliteratedsafety_removed"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5akpy": {
       "at": "2026-09-02T17:30:27.096372+00:00",
@@ -3766,6 +3801,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-02T22:05:13.086254+00:00",
+  "updated_at": "2026-09-03T00:47:52.878244+00:00",
   "version": 2
 }

@@ -1101,6 +1101,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49542443",
+        "title": "Mamdani Bans AI in NYC Schools",
+        "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+        "author": "handfuloflight",
+        "published_at": "2026-09-02T20:57:04+00:00"
+      },
+      "insight": {
+        "title_ko": "NYC 학교 내 AI 사용 금지 조치",
+        "summary_ko": [
+          "뉴욕시 교육 당국이 관내 학교에서 AI 사용을 전면 금지하는 조치를 단행했습니다.",
+          "이번 규제는 교육 현장에서의 AI 도입에 대한 우려와 부작용을 통제하기 위한 목적입니다.",
+          "향후 교육계의 기술 수용 정책과 실무 환경에 상당한 영향을 미칠 것으로 예상됩니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
