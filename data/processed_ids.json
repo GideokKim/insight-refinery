@@ -390,10 +390,20 @@
       "title": "baseten on hugging face inference providers",
       "url": "huggingface.co/blog/baseten"
     },
+    "rss:https://huggingface.co/blog/funes": {
+      "at": "2026-09-03T12:20:09.600188+00:00",
+      "title": "give your coding agents a memory you own",
+      "url": "huggingface.co/blog/funes"
+    },
     "rss:https://huggingface.co/blog/gradio-workflow-guide": {
       "at": "2026-08-25T05:22:15.372937+00:00",
       "title": "wire it run it deploy it ai workflows in gradio",
       "url": "huggingface.co/blog/gradio-workflow-guide"
+    },
+    "rss:https://huggingface.co/blog/grpo-with-trl-ifstruct": {
+      "at": "2026-09-03T12:20:09.600120+00:00",
+      "title": "fine tuning a 350m model for better structured outputs in 100 grpo steps",
+      "url": "huggingface.co/blog/grpo-with-trl-ifstruct"
     },
     "rss:https://huggingface.co/blog/ibm-granite/granite-4-2": {
       "at": "2026-08-25T17:21:53.012144+00:00",
@@ -457,6 +467,11 @@
       "at": "2026-08-26T14:39:03.699803+00:00",
       "title": "training and finetuning multi vector embedding models with sentence transformers",
       "url": "huggingface.co/blog/train-multi-vector-encoder"
+    },
+    "rss:https://huggingface.co/blog/train-to-paint-with-code": {
+      "at": "2026-09-03T12:20:09.600195+00:00",
+      "title": "training a coding model to paint watercolours with trl and openenv",
+      "url": "huggingface.co/blog/train-to-paint-with-code"
     },
     "rss:https://huggingface.co/blog/webgpu-kernels": {
       "at": "2026-09-01T17:32:37.259677+00:00",
@@ -3550,6 +3565,11 @@
       "title": "perplexity open sourced their mac inference server for qwen 3 6",
       "url": "reddit.com/r/LocalLLaMA/comments/1w5ozl4/perplexity_opensourced_their_mac_inference_server"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5qbpk": {
+      "at": "2026-09-03T12:20:09.600238+00:00",
+      "title": "qwen3 8 flash next sees corruption everywhere",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5qbpk/qwen38flashnext_sees_corruption_everywhere"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5sb4g": {
       "at": "2026-09-03T06:36:46.739547+00:00",
       "title": "deepseek v4 flash vs glm 5 3 flash on 2 dgx spark",
@@ -3574,6 +3594,21 @@
       "at": "2026-09-03T06:36:46.739417+00:00",
       "title": "kv cache might be a bigger problem for local models than parameter count",
       "url": "reddit.com/r/LocalLLaMA/comments/1w5yyqz/kv_cache_might_be_a_bigger_problem_for_local"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w5zdx4": {
+      "at": "2026-09-03T12:20:09.600227+00:00",
+      "title": "my rule of thumb of choosing a models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w5zdx4/my_rule_of_thumb_of_choosing_a_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w609r6": {
+      "at": "2026-09-03T12:20:09.600180+00:00",
+      "title": "can a 4b local model actually feel like an ai assistant",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w609r6/can_a_4b_local_model_actually_feel_like_an_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w60jr5": {
+      "at": "2026-09-03T12:20:09.600161+00:00",
+      "title": "model add nvidia nemotron 3 puzzle 75b a9b nemotronhpuzzle support by yanissamz pull request 25444 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w60jr5/model_add_nvidia_nemotron3puzzle75ba9b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -3836,6 +3871,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-03T06:36:46.739629+00:00",
+  "updated_at": "2026-09-03T12:20:09.600279+00:00",
   "version": 2
 }

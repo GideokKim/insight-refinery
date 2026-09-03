@@ -1189,6 +1189,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+        "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+        "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+        "author": null,
+        "published_at": "2026-09-03T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "GRPO를 활용한 소형 모델 구조화 출력 미세조정",
+        "summary_ko": [
+          "Hugging Face 블로그는 350M 파라미터 모델을 이용한 구조화된 출력 성능 개선 방법을 다루고 있습니다.",
+          "단 100회의 GRPO 단계를 통해 소형 언어모델의 출력 품질을 효율적으로 끌어올리는 접근법을 소개합니다.",
+          "자원 제약이 있는 환경에서 LLM의 구조화된 데이터 생성 능력을 향상시키려는 실무자에게 유용한 참고 자료입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
