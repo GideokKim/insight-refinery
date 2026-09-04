@@ -70,6 +70,11 @@
       "title": "world humanoid robot games show runners breaking records bursting into flames",
       "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
     },
+    "rss:https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": {
+      "at": "2026-09-04T17:27:10.307559+00:00",
+      "title": "anthropic s 2 trillion ipo puts powerful external trustees in spotlight",
+      "url": "arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight"
+    },
     "rss:https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/": {
       "at": "2026-09-03T21:59:42.659508+00:00",
       "title": "four major ai models suffer rare overlapping downtime",
@@ -349,6 +354,11 @@
       "at": "2026-09-02T17:30:27.096281+00:00",
       "title": "the modern cuda toolbox in practice a step by step optimization walkthrough",
       "url": "developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122184": {
+      "at": "2026-09-04T17:27:10.307623+00:00",
+      "title": "frontier reasoning reaches the edge how to deploy and optimize models on nvidia jetson",
+      "url": "developer.nvidia.com/blog/frontier-reasoning-reaches-the-edge-how-to-deploy-and-optimize-models-on-nvidia-jetson"
     },
     "rss:https://developer.nvidia.com/blog/?p=122235": {
       "at": "2026-09-04T00:30:07.162496+00:00",
@@ -850,6 +860,11 @@
       "at": "2026-09-03T21:59:42.659571+00:00",
       "title": "go grandmaster shin defeats ai katago with a two stone handicap",
       "url": "kedglobal.com/artificial-intelligence/newsView/ked202607210007"
+    },
+    "rss:https://news.ycombinator.com/item?id=49563386": {
+      "at": "2026-09-04T17:27:10.307734+00:00",
+      "title": "google ai mode shows same products 21 6 more expensive than traditional search",
+      "url": "productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
     },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
@@ -2036,6 +2051,11 @@
       "title": "accel reportedly in talks to lead 1b round for thinking machines at 40b valuation",
       "url": "techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation"
     },
+    "rss:https://techcrunch.com/?p=3160690": {
+      "at": "2026-09-04T17:27:10.307790+00:00",
+      "title": "less than 24 hours to apply for your techcrunch disrupt 2026 side event",
+      "url": "techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event"
+    },
     "rss:https://techcrunch.com/?p=3160707": {
       "at": "2026-09-04T06:40:46.474407+00:00",
       "title": "the sameness problem behind those unappetizing ai generated menus",
@@ -2046,6 +2066,16 @@
       "title": "crusoe reportedly raises 3b at a 30b valuation",
       "url": "techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation"
     },
+    "rss:https://techcrunch.com/?p=3160870": {
+      "at": "2026-09-04T17:27:10.307722+00:00",
+      "title": "google s gemini spark can now manage your google photos library",
+      "url": "techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library"
+    },
+    "rss:https://techcrunch.com/?p=3160899": {
+      "at": "2026-09-04T17:27:10.307606+00:00",
+      "title": "another swarm of openai agents reached the open internet without the frontier lab s knowledge",
+      "url": "techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -2055,6 +2085,11 @@
       "at": "2026-09-02T17:30:27.096443+00:00",
       "title": "we re dangerously close to dead internet theory says pangram s ceo",
       "url": "techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3160877": {
+      "at": "2026-09-04T17:27:10.307694+00:00",
+      "title": "apple s ternus era begins as nvidia bets on the whole ai stack",
+      "url": "techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack"
     },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
@@ -3800,10 +3835,20 @@
       "title": "qwen3 8 flash next mtp merged in ik_llama cpp integrated head or separate md file 45 90 tok s on a 5090 128gb works down to a 12gb 4070",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6ccgs/qwen38flashnext_mtp_merged_in_ik_llamacpp"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6e6u2": {
+      "at": "2026-09-04T17:27:10.307745+00:00",
+      "title": "micron explores near gpu nand flash to run bigger llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6e6u2/micron_explores_neargpu_nand_flash_to_run_bigger"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6egid": {
       "at": "2026-09-03T21:59:42.659422+00:00",
       "title": "bernie sanders proposes to ban ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6hlpt": {
+      "at": "2026-09-04T17:27:10.307654+00:00",
+      "title": "google released timesfm 3 a 330m parameter time series foundation model with native multivariate forecasting non commercial license",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6hlpt/google_released_timesfm3_a_330mparameter_time"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6lk6z": {
       "at": "2026-09-04T06:40:46.474368+00:00",
@@ -3825,10 +3870,45 @@
       "title": "can the bubble pop please",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6nihk/can_the_bubble_pop_please"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6ozbj": {
+      "at": "2026-09-04T17:27:10.307634+00:00",
+      "title": "update qwen3 8 flash next on 2x3090 ddr4 part 2 25 29 37 41 t s decode ud q4_k_xl expert cache mtp plus a branch you can build",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6ozbj/update_qwen38flashnext_on_2x3090_ddr4_part_2_2529"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6t0a9": {
+      "at": "2026-09-04T17:27:10.307782+00:00",
+      "title": "has anyone already tried ifm s new k2 horizon mova 36b a4b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6t0a9/has_anyone_already_tried_ifms_new"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w71bax": {
       "at": "2026-09-04T12:24:50.001663+00:00",
       "title": "nvidia s 12 930 300 000 00 acquisition of hugging face contains an easter egg the first 6 numbers of the acquisition price represent the decimal conversion of unicode character u 1f917 the emoji",
       "url": "reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w71p20": {
+      "at": "2026-09-04T17:27:10.307776+00:00",
+      "title": "minisforum ms s1 max p495",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w71p20/minisforum_mss1_maxp495"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w75rp4": {
+      "at": "2026-09-04T17:27:10.307766+00:00",
+      "title": "i built a server with 768gb vram for frontier but all new frontier open source models are likely to be two trillion or above now including next glm 6 am i cooked",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w75rp4/i_built_a_server_with_768gb_vram_for_frontier_but"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w78dmn": {
+      "at": "2026-09-04T17:27:10.307709+00:00",
+      "title": "qwen3 8 27b is the first local model im able to blindly trust",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w78dmn/qwen3827b_is_the_first_local_model_im_able_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w78ztg": {
+      "at": "2026-09-04T17:27:10.307754+00:00",
+      "title": "you can now run a 90m conversational llm on the sony psp hardware from 2004 doesn t get more local than this",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w78ztg/you_can_now_run_a_90m_conversational_llm_on_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7990o": {
+      "at": "2026-09-04T17:27:10.307683+00:00",
+      "title": "georgi gerganov on the nvidia acquisition",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7990o/georgi_gerganov_on_the_nvidia_acquisition"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4096,6 +4176,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-04T12:24:50.001767+00:00",
+  "updated_at": "2026-09-04T17:27:10.307826+00:00",
   "version": 2
 }
