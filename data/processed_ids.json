@@ -1357,6 +1357,11 @@
       "title": "gpt 6 astra",
       "url": "simonwillison.net/2026/Sep/3/gpt6-astra"
     },
+    "rss:https://simonwillison.net/2026/Sep/4/august-newsletter/": {
+      "at": "2026-09-04T06:40:46.474399+00:00",
+      "title": "august newsletter is out",
+      "url": "simonwillison.net/2026/Sep/4/august-newsletter"
+    },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
       "title": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
@@ -2031,6 +2036,16 @@
       "title": "accel reportedly in talks to lead 1b round for thinking machines at 40b valuation",
       "url": "techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation"
     },
+    "rss:https://techcrunch.com/?p=3160707": {
+      "at": "2026-09-04T06:40:46.474407+00:00",
+      "title": "the sameness problem behind those unappetizing ai generated menus",
+      "url": "techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus"
+    },
+    "rss:https://techcrunch.com/?p=3160771": {
+      "at": "2026-09-04T06:40:46.474387+00:00",
+      "title": "crusoe reportedly raises 3b at a 30b valuation",
+      "url": "techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -2075,6 +2090,11 @@
       "at": "2026-09-01T06:55:24.714912+00:00",
       "title": "ainews fal s h3 max live breaks the infinite videogen barrier",
       "url": "latent.space/p/ainews-fals-h3-max-live-breaks-the"
+    },
+    "rss:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest": {
+      "at": "2026-09-04T06:40:46.474315+00:00",
+      "title": "ainews gpt 6 astra openai s biggest llm launch of all time",
+      "url": "latent.space/p/ainews-gpt-6-astra-openais-biggest"
     },
     "rss:https://www.latent.space/p/ainews-hot-chips-openais-jalapeno": {
       "at": "2026-08-27T04:07:33.744821+00:00",
@@ -3785,6 +3805,11 @@
       "title": "bernie sanders proposes to ban ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6lk6z": {
+      "at": "2026-09-04T06:40:46.474368+00:00",
+      "title": "increasing active parameters per token in moe qwen 35b a4b reduce reasoning token by 8 5 and you don t need to train or finetune",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6lk6z/increasing_active_parameters_per_token_in_moe"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6lmmg": {
       "at": "2026-09-04T00:30:07.162537+00:00",
       "title": "i released sanotts smallest complete tts stack in 294k params 337 kb that runs on 3 microcontroller and a 1 46m one that beats models 3x and 10x it s size",
@@ -3794,6 +3819,11 @@
       "at": "2026-09-04T00:30:07.162566+00:00",
       "title": "the benchmarks the big labs don t want you to see",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6nihk": {
+      "at": "2026-09-04T06:40:46.474417+00:00",
+      "title": "can the bubble pop please",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6nihk/can_the_bubble_pop_please"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4056,6 +4086,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-04T00:30:07.162611+00:00",
+  "updated_at": "2026-09-04T06:40:46.474455+00:00",
   "version": 2
 }

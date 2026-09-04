@@ -1497,6 +1497,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+        "title": "[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time",
+        "url": "https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest",
+        "author": null,
+        "published_at": "2026-09-04T05:18:11+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, 플래그십 모델 GPT-6 Astra 공개",
+        "summary_ko": [
+          "OpenAI는 컴퓨터 사용, 소프트웨어 공학, 과학 연구 분야에 특화된 차세대 플래그십 모델 GPT-6 Astra를 발표했습니다.",
+          "이번 출시 초기에는 접근 지연과 인플루언서 우선 제공 등으로 인해 유료 사용자들의 불만이 제기되기도 했습니다.",
+          "일부 전문가들은 향상된 성능과 정렬 수준을 높이 평가하면서도 모니터링 가능성과 평가 방법론에 대한 우려를 표명했습니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w6lk6z",
+        "title": "Increasing active parameters per token in MOE (Qwen 35B A4B+) reduce reasoning token by 8.5% - and you don't need to train or finetune!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6lk6z/increasing_active_parameters_per_token_in_moe/",
+        "author": "/u/Specific-Tax-6700",
+        "published_at": "2026-09-03T21:58:56+00:00"
+      },
+      "insight": {
+        "title_ko": "MoE 모델 런타임 라우팅 최적화 기법",
+        "summary_ko": [
+          "재훈련 없이 추론 시점에 후반부 레이어의 전문가 선택 예산을 늘리는 최적화 기법이 제안되었습니다.",
+          "이 방식을 적용하면 모델의 추론 토큰 수가 8.5% 감소하고 지연 시간이 10.9% 단축되며 정확도는 유지됩니다.",
+          "추론 비용을 절감하고 효율성을 높일 수 있어 실무적으로 유용한 접근입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
