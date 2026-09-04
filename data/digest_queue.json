@@ -1453,6 +1453,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122235",
+        "title": "How to Carry User Identity Across Federated Kubernetes and AI Platforms",
+        "url": "https://developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-03T22:36:02+00:00"
+      },
+      "insight": {
+        "title_ko": "연합 쿠버네티스와 AI 플랫폼의 사용자 신원 관리",
+        "summary_ko": [
+          "현대 AI 플랫폼은 단일 애플리케이션을 넘어 여러 클러스터와 서비스 간의 연동으로 확장되고 있습니다.",
+          "사용자가 워크플로우를 실행할 때 신원 정보는 제어 평면과 데이터 평면의 경계를 넘나들게 됩니다.",
+          "이 과정에서 기존의 단일 로그인 방식이 마주하는 한계와 해결 방안을 다룹니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w6lmmg",
+        "title": "I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6lmmg/i_released_sanotts_smallest_complete_tts_stack_in/",
+        "author": "/u/Affectionate_Hat_585",
+        "published_at": "2026-09-03T22:01:27+00:00"
+      },
+      "insight": {
+        "title_ko": "초경량 신경망 TTS 스택 sanoTTS 공개",
+        "summary_ko": [
+          "개발자가 NPU가 없는 3달러짜리 저가형 마이크로컨트롤러에서도 실행 가능한 초경량 TTS 스택인 sanoTTS를 공개했다.",
+          "sanoTTS는 294k에서 2.2m 사이의 파라미터 크기를 가지며 6개 언어와 11개의 음성을 지원한다.",
+          "양자화된 294k 모델은 337KB 크기에 불과하며 ESP32에서 실시간 음성 생성이 가능하다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

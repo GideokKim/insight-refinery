@@ -350,6 +350,11 @@
       "title": "the modern cuda toolbox in practice a step by step optimization walkthrough",
       "url": "developer.nvidia.com/blog/the-modern-cuda-toolbox-in-practice-a-step-by-step-optimization-walkthrough"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122235": {
+      "at": "2026-09-04T00:30:07.162496+00:00",
+      "title": "how to carry user identity across federated kubernetes and ai platforms",
+      "url": "developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -3780,6 +3785,16 @@
       "title": "bernie sanders proposes to ban ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6egid/bernie_sanders_proposes_to_ban_ai"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6lmmg": {
+      "at": "2026-09-04T00:30:07.162537+00:00",
+      "title": "i released sanotts smallest complete tts stack in 294k params 337 kb that runs on 3 microcontroller and a 1 46m one that beats models 3x and 10x it s size",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6lmmg/i_released_sanotts_smallest_complete_tts_stack_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6myn6": {
+      "at": "2026-09-04T00:30:07.162566+00:00",
+      "title": "the benchmarks the big labs don t want you to see",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4041,6 +4056,6 @@
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
     }
   },
-  "updated_at": "2026-09-03T21:59:42.659605+00:00",
+  "updated_at": "2026-09-04T00:30:07.162611+00:00",
   "version": 2
 }
