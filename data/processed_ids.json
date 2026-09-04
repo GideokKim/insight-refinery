@@ -3825,6 +3825,11 @@
       "title": "can the bubble pop please",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6nihk/can_the_bubble_pop_please"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w71bax": {
+      "at": "2026-09-04T12:24:50.001663+00:00",
+      "title": "nvidia s 12 930 300 000 00 acquisition of hugging face contains an easter egg the first 6 numbers of the acquisition price represent the decimal conversion of unicode character u 1f917 the emoji",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4084,8 +4089,13 @@
       "at": "2026-08-31T21:43:04.495275+00:00",
       "title": "hugging face hack could indicate cultural issues at openai",
       "url": "technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
+    },
+    "rss:https://www.technologyreview.com/?p=1143452": {
+      "at": "2026-09-04T12:24:50.001719+00:00",
+      "title": "data from drones in ukraine is fueling a new wild west marketplace",
+      "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-04T06:40:46.474455+00:00",
+  "updated_at": "2026-09-04T12:24:50.001767+00:00",
   "version": 2
 }
