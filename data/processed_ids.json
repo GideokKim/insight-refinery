@@ -125,6 +125,11 @@
       "title": "microsoft copilot reveals secret input that allowed it to be hacked",
       "url": "arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked"
     },
+    "rss:https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": {
+      "at": "2026-09-04T21:54:55.690937+00:00",
+      "title": "once popular for attacking ai ascii smuggling is embraced by spammers",
+      "url": "arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
       "at": "2026-08-28T01:13:09.165148+00:00",
       "title": "ai industry says trump plans to tax chips in the single dumbest way imaginable",
@@ -364,6 +369,11 @@
       "at": "2026-09-04T00:30:07.162496+00:00",
       "title": "how to carry user identity across federated kubernetes and ai platforms",
       "url": "developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122286": {
+      "at": "2026-09-04T21:54:55.690920+00:00",
+      "title": "building a memory driven agent with nvidia nemoclaw",
+      "url": "developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -865,6 +875,11 @@
       "at": "2026-09-04T17:27:10.307734+00:00",
       "title": "google ai mode shows same products 21 6 more expensive than traditional search",
       "url": "productrise.app/blog/google-ai-mode-prefers-more-expensive-products"
+    },
+    "rss:https://news.ycombinator.com/item?id=49566137": {
+      "at": "2026-09-04T21:54:55.690946+00:00",
+      "title": "corporate america is getting hooked on open source ai",
+      "url": "nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
     },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
@@ -1376,6 +1391,11 @@
       "at": "2026-09-04T06:40:46.474399+00:00",
       "title": "august newsletter is out",
       "url": "simonwillison.net/2026/Sep/4/august-newsletter"
+    },
+    "rss:https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/": {
+      "at": "2026-09-04T21:54:55.690929+00:00",
+      "title": "openai s rogue agents were caught communicating via public wikis",
+      "url": "simonwillison.net/2026/Sep/4/rogue-agent-wikis"
     },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
@@ -2076,6 +2096,11 @@
       "title": "another swarm of openai agents reached the open internet without the frontier lab s knowledge",
       "url": "techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge"
     },
+    "rss:https://techcrunch.com/?p=3160981": {
+      "at": "2026-09-04T21:54:55.690955+00:00",
+      "title": "ai compute provider nscale is looking for 3 5b in pre ipo financing",
+      "url": "techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -2100,6 +2125,11 @@
       "at": "2026-09-02T17:30:27.096428+00:00",
       "title": "pangram s max spero on why ai detection is harder than real or fake",
       "url": "techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3160884": {
+      "at": "2026-09-04T21:54:55.690990+00:00",
+      "title": "what will apple s john ternus era look like",
+      "url": "techcrunch.com/video/what-will-apples-john-ternus-era-look-like"
     },
     "rss:https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x": {
       "at": "2026-08-24T11:05:22.951477+00:00",
@@ -3895,6 +3925,11 @@
       "title": "i built a server with 768gb vram for frontier but all new frontier open source models are likely to be two trillion or above now including next glm 6 am i cooked",
       "url": "reddit.com/r/LocalLLaMA/comments/1w75rp4/i_built_a_server_with_768gb_vram_for_frontier_but"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w77ath": {
+      "at": "2026-09-04T21:54:55.691003+00:00",
+      "title": "drummer s artemis 31b v1 and v1 1 coming back with a bang",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w77ath/drummers_artemis_31b_v1_and_v11_coming_back_with"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w78dmn": {
       "at": "2026-09-04T17:27:10.307709+00:00",
       "title": "qwen3 8 27b is the first local model im able to blindly trust",
@@ -3909,6 +3944,21 @@
       "at": "2026-09-04T17:27:10.307683+00:00",
       "title": "georgi gerganov on the nvidia acquisition",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7990o/georgi_gerganov_on_the_nvidia_acquisition"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7aoau": {
+      "at": "2026-09-04T21:54:55.690981+00:00",
+      "title": "qwen3 8 flash next on a phone cpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7aoau/qwen38flashnext_on_a_phone_cpu"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7c6u4": {
+      "at": "2026-09-04T21:54:55.690968+00:00",
+      "title": "ling 3 0 flash vl built on ling 3 0 flash with visual understanding and visual agent capabilities",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7c6u4/ling30flashvl_built_on_ling30flash_with_visual"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7ee1c": {
+      "at": "2026-09-04T21:54:55.690869+00:00",
+      "title": "i benchmarked 21 qwen3 8 27b variants on 16gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7ee1c/i_benchmarked_21_qwen38_27b_variants_on_16gb_vram"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4105,6 +4155,11 @@
       "title": "aaai 2027 reviewer bidding and assignment integrity d",
       "url": "reddit.com/r/MachineLearning/comments/1vwujcy/aaai_2027_reviewer_bidding_and_assignment"
     },
+    "rss:https://www.technologyreview.com/?p=1140872": {
+      "at": "2026-09-04T21:54:55.690908+00:00",
+      "title": "architecting memory and storage in the ai era",
+      "url": "technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era"
+    },
     "rss:https://www.technologyreview.com/?p=1141740": {
       "at": "2026-08-24T11:05:22.951681+00:00",
       "title": "kids outlearn ai and we still don t know why",
@@ -4176,6 +4231,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-04T17:27:10.307826+00:00",
+  "updated_at": "2026-09-04T21:54:55.691040+00:00",
   "version": 2
 }
