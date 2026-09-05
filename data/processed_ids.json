@@ -2141,6 +2141,11 @@
       "title": "xdof just three months out of stealth is in talks for a series b at a 1 2b valuation",
       "url": "techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
     },
+    "rss:https://techcrunch.com/?p=3161042": {
+      "at": "2026-09-05T18:39:05.172300+00:00",
+      "title": "openai confirms wiki incident says it s working on a framework for more disclosure",
+      "url": "techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -4015,6 +4020,11 @@
       "title": "ling 3 0 flash vl built on ling 3 0 flash with visual understanding and visual agent capabilities",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7c6u4/ling30flashvl_built_on_ling30flash_with_visual"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7dlo5": {
+      "at": "2026-09-05T18:39:05.172380+00:00",
+      "title": "22 less weight vram lossless base 3 packing for ternary ggufs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7dlo5/22_less_weight_vram_lossless_base3_packing_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7ee1c": {
       "at": "2026-09-04T21:54:55.690869+00:00",
       "title": "i benchmarked 21 qwen3 8 27b variants on 16gb vram",
@@ -4045,6 +4055,11 @@
       "title": "rtx 4090 48gb longevity",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7nmc8/rtx_4090_48gb_longevity"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7pdaf": {
+      "at": "2026-09-05T18:39:05.172399+00:00",
+      "title": "chalk one up for the frontier model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7pdaf/chalk_one_up_for_the_frontier_model"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7q92n": {
       "at": "2026-09-05T06:25:52.388571+00:00",
       "title": "qwen3 8 27b beat the wikipedia game in 6 clicks",
@@ -4074,6 +4089,11 @@
       "at": "2026-09-05T16:21:30.568006+00:00",
       "title": "aa update here s how the small models score",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w821fg": {
+      "at": "2026-09-05T18:39:05.172355+00:00",
+      "title": "ninfer vs llama cpp vs vllm quality speed comparison for qwen3 8 27b nvfp4 on rtx 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w821fg/ninfer_vs_llamacpp_vs_vllm_quality_speed"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w825pc": {
       "at": "2026-09-05T16:21:30.567971+00:00",
@@ -4351,6 +4371,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-05T16:21:30.568124+00:00",
+  "updated_at": "2026-09-05T18:39:05.172448+00:00",
   "version": 2
 }
