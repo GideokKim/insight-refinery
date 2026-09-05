@@ -1893,6 +1893,28 @@
         "importance": 5
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49574167",
+        "title": "AI handles incidents, engineers lose touch with their systems",
+        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+        "author": "sylvainkalache",
+        "published_at": "2026-09-05T07:52:50+00:00"
+      },
+      "insight": {
+        "title_ko": "AI의 장애 대응 자동화와 엔지니어의 시스템 이해도 저하",
+        "summary_ko": [
+          "AI가 시스템 장애 대응을 전담하면서 엔지니어들이 실제 시스템에 대한 감각을 잃어가고 있다는 분석이 제기되었습니다.",
+          "이 현상은 자동화된 장애 처리 과정에서 엔지니어의 직접적인 개입과 문제 해결 경험이 줄어들기 때문에 발생합니다.",
+          "실무 환경에서 AI 의존도가 높아짐에 따라 엔지니어의 핵심 역량 유지와 시스템 통제력 확보가 중요한 과제로 대두되고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

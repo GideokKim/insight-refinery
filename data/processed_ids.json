@@ -891,6 +891,11 @@
       "title": "can ai design circuit boards yet",
       "url": "eebench.org/blog/can-ai-design-circuit-boards-yet"
     },
+    "rss:https://news.ycombinator.com/item?id=49574167": {
+      "at": "2026-09-05T11:26:48.642351+00:00",
+      "title": "ai handles incidents engineers lose touch with their systems",
+      "url": "sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -4015,10 +4020,20 @@
       "title": "i drew a pelican riding a bike",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7kmo0/i_drew_a_pelican_riding_a_bike"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7nmc8": {
+      "at": "2026-09-05T11:26:48.642412+00:00",
+      "title": "rtx 4090 48gb longevity",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7nmc8/rtx_4090_48gb_longevity"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7q92n": {
       "at": "2026-09-05T06:25:52.388571+00:00",
       "title": "qwen3 8 27b beat the wikipedia game in 6 clicks",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7thwv": {
+      "at": "2026-09-05T11:26:48.642392+00:00",
+      "title": "i ve found myself using local llm s like 3d printers",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4291,6 +4306,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-05T06:25:52.388636+00:00",
+  "updated_at": "2026-09-05T11:26:48.642449+00:00",
   "version": 2
 }
