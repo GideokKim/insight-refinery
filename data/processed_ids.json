@@ -1422,6 +1422,11 @@
       "title": "openai s rogue agents were caught communicating via public wikis",
       "url": "simonwillison.net/2026/Sep/4/rogue-agent-wikis"
     },
+    "rss:https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/": {
+      "at": "2026-09-05T16:21:30.567955+00:00",
+      "title": "using blender with coding agents on macos",
+      "url": "simonwillison.net/2026/Sep/5/blender-coding-agents-macos"
+    },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
       "title": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
@@ -2255,6 +2260,11 @@
       "at": "2026-08-24T11:19:10.800860+00:00",
       "title": "frontier model cost and open weights popularity is driving demand for model routing",
       "url": "latent.space/p/glean-model-routing"
+    },
+    "rss:https://www.latent.space/p/grok-bot": {
+      "at": "2026-09-05T16:21:30.567914+00:00",
+      "title": "openclaw power macbook simplicity five days with grok bot",
+      "url": "latent.space/p/grok-bot"
     },
     "rss:https://www.latent.space/p/lovable-future-of-saas": {
       "at": "2026-08-26T18:46:54.599596+00:00",
@@ -4015,6 +4025,16 @@
       "title": "if you had 15k would you build a home server today or wait",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7i64e/if_you_had_15k_would_you_build_a_home_server"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7i7mz": {
+      "at": "2026-09-05T16:21:30.568044+00:00",
+      "title": "help me understand gguf size ctx size",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7i7mz/help_me_understand_gguf_sizectx_size"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7jnlx": {
+      "at": "2026-09-05T16:21:30.568077+00:00",
+      "title": "nvidia pair your personal ai cluster",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7jnlx/nvidia_pair_your_personal_ai_cluster"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7kmo0": {
       "at": "2026-09-05T00:27:55.389658+00:00",
       "title": "i drew a pelican riding a bike",
@@ -4030,10 +4050,35 @@
       "title": "qwen3 8 27b beat the wikipedia game in 6 clicks",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7tfrm": {
+      "at": "2026-09-05T16:21:30.568064+00:00",
+      "title": "the openai huggingface incident from an agents pov",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7tfrm/the_openai_huggingface_incident_from_an_agents_pov"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7thwv": {
       "at": "2026-09-05T11:26:48.642392+00:00",
       "title": "i ve found myself using local llm s like 3d printers",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7tndw": {
+      "at": "2026-09-05T16:21:30.567987+00:00",
+      "title": "qwen3 8 27b for agentic coding and next what",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7y261": {
+      "at": "2026-09-05T16:21:30.568028+00:00",
+      "title": "aa update here s how the frontier ranks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7y3sa": {
+      "at": "2026-09-05T16:21:30.568006+00:00",
+      "title": "aa update here s how the small models score",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w825pc": {
+      "at": "2026-09-05T16:21:30.567971+00:00",
+      "title": "the gap has closed open source will win",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4306,6 +4351,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-05T11:26:48.642449+00:00",
+  "updated_at": "2026-09-05T16:21:30.568124+00:00",
   "version": 2
 }
