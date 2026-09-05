@@ -130,6 +130,11 @@
       "title": "once popular for attacking ai ascii smuggling is embraced by spammers",
       "url": "arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers"
     },
+    "rss:https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": {
+      "at": "2026-09-05T00:27:55.389559+00:00",
+      "title": "openai agents discussed ways to escape their sandbox on public wiki",
+      "url": "arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
       "at": "2026-08-28T01:13:09.165148+00:00",
       "title": "ai industry says trump plans to tax chips in the single dumbest way imaginable",
@@ -881,6 +886,11 @@
       "title": "corporate america is getting hooked on open source ai",
       "url": "nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49569366": {
+      "at": "2026-09-05T00:27:55.389613+00:00",
+      "title": "can ai design circuit boards yet",
+      "url": "eebench.org/blog/can-ai-design-circuit-boards-yet"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -1386,6 +1396,11 @@
       "at": "2026-09-03T21:59:42.659387+00:00",
       "title": "gpt 6 astra",
       "url": "simonwillison.net/2026/Sep/3/gpt6-astra"
+    },
+    "rss:https://simonwillison.net/2026/Sep/4/astra-pelicans/": {
+      "at": "2026-09-05T00:27:55.389600+00:00",
+      "title": "the pelican comparison grid for astra is pretty interesting",
+      "url": "simonwillison.net/2026/Sep/4/astra-pelicans"
     },
     "rss:https://simonwillison.net/2026/Sep/4/august-newsletter/": {
       "at": "2026-09-04T06:40:46.474399+00:00",
@@ -2100,6 +2115,16 @@
       "at": "2026-09-04T21:54:55.690955+00:00",
       "title": "ai compute provider nscale is looking for 3 5b in pre ipo financing",
       "url": "techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing"
+    },
+    "rss:https://techcrunch.com/?p=3160997": {
+      "at": "2026-09-05T00:27:55.389513+00:00",
+      "title": "openai s rogue agents keep escaping with no formal process to investigate them",
+      "url": "techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them"
+    },
+    "rss:https://techcrunch.com/?p=3161014": {
+      "at": "2026-09-05T00:27:55.389638+00:00",
+      "title": "xdof just three months out of stealth is in talks for a series b at a 1 2b valuation",
+      "url": "techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3910,6 +3935,11 @@
       "title": "has anyone already tried ifm s new k2 horizon mova 36b a4b",
       "url": "reddit.com/r/LocalLLaMA/comments/1w6t0a9/has_anyone_already_tried_ifms_new"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w6z9oh": {
+      "at": "2026-09-05T00:27:55.389579+00:00",
+      "title": "we open sourced paddock our rust c inference engine with its own cuda kernels mit apache 2 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w6z9oh/we_opensourced_paddock_our_rustc_inference_engine"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w71bax": {
       "at": "2026-09-04T12:24:50.001663+00:00",
       "title": "nvidia s 12 930 300 000 00 acquisition of hugging face contains an easter egg the first 6 numbers of the acquisition price represent the decimal conversion of unicode character u 1f917 the emoji",
@@ -3919,6 +3949,11 @@
       "at": "2026-09-04T17:27:10.307776+00:00",
       "title": "minisforum ms s1 max p495",
       "url": "reddit.com/r/LocalLLaMA/comments/1w71p20/minisforum_mss1_maxp495"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w73aak": {
+      "at": "2026-09-05T00:27:55.389625+00:00",
+      "title": "qwen 3 8 flash next can build funny games",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w73aak/qwen_38_flash_next_can_build_funny_games"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w75rp4": {
       "at": "2026-09-04T17:27:10.307766+00:00",
@@ -3959,6 +3994,16 @@
       "at": "2026-09-04T21:54:55.690869+00:00",
       "title": "i benchmarked 21 qwen3 8 27b variants on 16gb vram",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7ee1c/i_benchmarked_21_qwen38_27b_variants_on_16gb_vram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7i64e": {
+      "at": "2026-09-05T00:27:55.389673+00:00",
+      "title": "if you had 15k would you build a home server today or wait",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7i64e/if_you_had_15k_would_you_build_a_home_server"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7kmo0": {
+      "at": "2026-09-05T00:27:55.389658+00:00",
+      "title": "i drew a pelican riding a bike",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7kmo0/i_drew_a_pelican_riding_a_bike"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4231,6 +4276,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-04T21:54:55.691040+00:00",
+  "updated_at": "2026-09-05T00:27:55.389710+00:00",
   "version": 2
 }
