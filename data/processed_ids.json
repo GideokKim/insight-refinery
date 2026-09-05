@@ -964,6 +964,11 @@
       "title": "advancing price performance for developers with gpt 5 6 in kiro",
       "url": "openai.com/index/gpt-5-6-in-kiro"
     },
+    "rss:https://openai.com/index/gpt-6-astra": {
+      "at": "2026-09-05T06:25:52.388524+00:00",
+      "title": "gpt 6 astra a new generation of intelligence",
+      "url": "openai.com/index/gpt-6-astra"
+    },
     "rss:https://openai.com/index/how-enterprises-put-ai-to-work": {
       "at": "2026-08-19T17:19:19.683319+00:00",
       "title": "from assistance to execution how enterprises put ai to work",
@@ -3965,6 +3970,11 @@
       "title": "drummer s artemis 31b v1 and v1 1 coming back with a bang",
       "url": "reddit.com/r/LocalLLaMA/comments/1w77ath/drummers_artemis_31b_v1_and_v11_coming_back_with"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w77j2t": {
+      "at": "2026-09-05T06:25:52.388592+00:00",
+      "title": "sometimes i be mourning the agents i get before context compacts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w77j2t/sometimes_i_be_mourning_the_agents_i_get_before"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w78dmn": {
       "at": "2026-09-04T17:27:10.307709+00:00",
       "title": "qwen3 8 27b is the first local model im able to blindly trust",
@@ -4004,6 +4014,11 @@
       "at": "2026-09-05T00:27:55.389658+00:00",
       "title": "i drew a pelican riding a bike",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7kmo0/i_drew_a_pelican_riding_a_bike"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7q92n": {
+      "at": "2026-09-05T06:25:52.388571+00:00",
+      "title": "qwen3 8 27b beat the wikipedia game in 6 clicks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4276,6 +4291,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-05T00:27:55.389710+00:00",
+  "updated_at": "2026-09-05T06:25:52.388636+00:00",
   "version": 2
 }

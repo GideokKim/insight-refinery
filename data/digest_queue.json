@@ -1871,6 +1871,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/gpt-6-astra",
+        "title": "GPT-6 Astra: A new generation of intelligence",
+        "url": "https://openai.com/index/gpt-6-astra",
+        "author": null,
+        "published_at": "2026-09-03T11:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, 차세대 모델 GPT-6 Astra 공개",
+        "summary_ko": [
+          "OpenAI는 컴퓨터 사용, 코딩, 사이버 보안, 과학 분야에서 최첨단 성능을 갖춘 차세대 모델 GPT-6 Astra를 발표했다.",
+          "이 모델은 지금까지 출시된 모델 중 가장 지능적이고 정렬된 능력을 제공하는 것이 특징이다.",
+          "실무 환경에서의 AI 활용 범위를 크게 확장할 잠재력이 있어 주목된다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
     }
   ]
 }
