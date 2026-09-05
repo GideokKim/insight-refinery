@@ -2003,6 +2003,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w84mod",
+        "title": "Qwen3.8 Flash Next - Templates Comparison",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w84mod/qwen38_flash_next_templates_comparison/",
+        "author": "/u/HeDo88TH",
+        "published_at": "2026-09-05T16:02:24+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8 Flash Next 템플릿 성능 비교",
+        "summary_ko": [
+          "작성자는 SWE-bench Verified 데이터셋을 활용해 Qwen3.8-Flash-Next-NVFP4 모델의 Stock, Fixed, Sharp 템플릿 성능을 비교했다.",
+          "추론 노력을 xhigh로 높였을 때 Stock과 Fixed 템플릿은 정확도가 크게 향상된 반면 Sharp는 정체되는 양상을 보였다.",
+          "실무에서는 속도와 정확도의 균형을 고려해 medium에서는 Sharp를, 높은 정확도가 필요할 때는 Stock이나 Fixed를 선택하는 것이 유리하다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

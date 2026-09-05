@@ -2146,6 +2146,11 @@
       "title": "openai confirms wiki incident says it s working on a framework for more disclosure",
       "url": "techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"
     },
+    "rss:https://techcrunch.com/?p=3161045": {
+      "at": "2026-09-05T21:46:06.801348+00:00",
+      "title": "hikers rescued after using google gemini for planning",
+      "url": "techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -4080,6 +4085,11 @@
       "title": "qwen3 8 27b for agentic coding and next what",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7tndw/qwen38_27b_for_agentic_coding_and_next_what"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7wb0n": {
+      "at": "2026-09-05T21:46:06.801383+00:00",
+      "title": "llvm developers begin debate over agents md for helping ai agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7wb0n/llvm_developers_begin_debate_over_agentsmd_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7y261": {
       "at": "2026-09-05T16:21:30.568028+00:00",
       "title": "aa update here s how the frontier ranks",
@@ -4099,6 +4109,16 @@
       "at": "2026-09-05T16:21:30.567971+00:00",
       "title": "the gap has closed open source will win",
       "url": "reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w84mod": {
+      "at": "2026-09-05T21:46:06.801306+00:00",
+      "title": "qwen3 8 flash next templates comparison",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w84mod/qwen38_flash_next_templates_comparison"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w85blf": {
+      "at": "2026-09-05T21:46:06.801365+00:00",
+      "title": "otaku an llm frontend",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4371,6 +4391,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-05T18:39:05.172448+00:00",
+  "updated_at": "2026-09-05T21:46:06.801434+00:00",
   "version": 2
 }
