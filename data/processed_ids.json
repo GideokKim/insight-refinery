@@ -1457,6 +1457,11 @@
       "title": "the purpose of dns is to spread scams",
       "url": "simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams"
     },
+    "rss:https://simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get/": {
+      "at": "2026-09-06T21:48:54.318758+00:00",
+      "title": "there s no limit to how bad code can get",
+      "url": "simonwillison.net/2026/Sep/6/theres-no-limit-to-how-bad-code-can-get"
+    },
     "rss:https://simonwillison.net/2026/Sep/6/zach-kehs/": {
       "at": "2026-09-06T11:49:02.765551+00:00",
       "title": "quoting zach kehs",
@@ -2195,6 +2200,11 @@
       "at": "2026-09-06T18:42:56.948074+00:00",
       "title": "travis kalanick s atoms might be getting into the robotaxi business",
       "url": "techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business"
+    },
+    "rss:https://techcrunch.com/?p=3161058": {
+      "at": "2026-09-06T21:48:54.318778+00:00",
+      "title": "authors push back as publishers and agents make claims on anthropic settlement",
+      "url": "techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4275,6 +4285,11 @@
       "title": "2x r9700 64 gb ddr5 is an absolute beast machine with vllm radiance r9v and qwen 3 8 27b and flash next",
       "url": "reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w96xoi": {
+      "at": "2026-09-06T21:48:54.318699+00:00",
+      "title": "deepseek v4 flash vision q8 vs qwen3 8 flash next q8",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4546,6 +4561,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-06T18:42:56.948146+00:00",
+  "updated_at": "2026-09-06T21:48:54.318861+00:00",
   "version": 2
 }
