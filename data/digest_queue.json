@@ -2047,6 +2047,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w8f7bp",
+        "title": "Which agent harness do you use and why?",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why/",
+        "author": "/u/Background-Job-862",
+        "published_at": "2026-09-05T22:57:24+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 에이전트 하네스 성능 벤치마크 비교",
+        "summary_ko": [
+          "작성자는 Claude Managed Agents와 오픈소스 하네스인 TrueForge를 동일한 벤치마크로 비교했습니다.",
+          "TrueForge는 Claude Managed Agents와 동일한 문제 해결률을 기록하면서도 토큰 사용량과 비용을 크게 절감했습니다.",
+          "오픈소스 하네스는 아직 성숙도가 낮고 추가 도구가 필요하지만, 높은 비용 효율성과 모델 독립성을 보여주었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
