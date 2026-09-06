@@ -896,6 +896,16 @@
       "title": "ai handles incidents engineers lose touch with their systems",
       "url": "sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems"
     },
+    "rss:https://news.ycombinator.com/item?id=49582656": {
+      "at": "2026-09-06T16:32:18.475921+00:00",
+      "title": "ai tools and transformation",
+      "url": "ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation"
+    },
+    "rss:https://news.ycombinator.com/item?id=49587128": {
+      "at": "2026-09-06T16:32:18.475939+00:00",
+      "title": "i feel about ai",
+      "url": "beza1e1.tuxen.de/ai_feelings.html"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -1073,6 +1083,11 @@
       "at": "2026-08-19T14:23:12.191177+00:00",
       "title": "replit expands access to software creation with gpt 5 6 luna",
       "url": "openai.com/index/replit"
+    },
+    "rss:https://openai.com/index/research-acceleration-view-inside-openai": {
+      "at": "2026-09-06T16:32:18.475904+00:00",
+      "title": "research acceleration the view inside openai",
+      "url": "openai.com/index/research-acceleration-view-inside-openai"
     },
     "rss:https://openai.com/index/safety-overview-gpt-6-astra": {
       "at": "2026-09-03T21:59:42.659460+00:00",
@@ -1431,6 +1446,11 @@
       "at": "2026-09-06T00:20:57.274327+00:00",
       "title": "introducing gpt 6 astra for developers",
       "url": "simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers"
+    },
+    "rss:https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": {
+      "at": "2026-09-06T16:32:18.475880+00:00",
+      "title": "the purpose of dns is to spread scams",
+      "url": "simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams"
     },
     "rss:https://simonwillison.net/2026/Sep/6/zach-kehs/": {
       "at": "2026-09-06T11:49:02.765551+00:00",
@@ -4170,10 +4190,20 @@
       "title": "which agent harness do you use and why",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8f8fa": {
+      "at": "2026-09-06T16:32:18.475869+00:00",
+      "title": "ninfer fork 555k context fp4 for 5090 with yarn reliable kv host cacheing monitoring jinja opened model support",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8f8fa/ninfer_fork_555k_contextfp4_for_5090_with_yarn"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8ga5y": {
       "at": "2026-09-06T11:49:02.765563+00:00",
       "title": "my only real use case for a local ai use is document management how much vram do i realistically need for a good experience",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8ga5y/my_only_real_use_case_for_a_local_ai_use_is"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8gyez": {
+      "at": "2026-09-06T16:32:18.475931+00:00",
+      "title": "bosgame gorgon halo coming next month october 2026",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8gyez/bosgame_gorgon_halo_coming_next_month_october_2026"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8h0cb": {
       "at": "2026-09-06T06:36:02.119977+00:00",
@@ -4199,6 +4229,26 @@
       "at": "2026-09-06T11:49:02.765487+00:00",
       "title": "villager simulation game poc created with qwen3 8 27b ud q3_k_xl gguf 16gb vram",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8rnyi": {
+      "at": "2026-09-06T16:32:18.475858+00:00",
+      "title": "validate your local llm advertised kv cache against real pressure see exactly how old contexts get evicted from cache",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8rnyi/validate_your_local_llm_advertised_kv_cache"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8rxwg": {
+      "at": "2026-09-06T16:32:18.475889+00:00",
+      "title": "vibeblending locally with qwen 3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8rxwg/vibeblending_locally_with_qwen_38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8us6t": {
+      "at": "2026-09-06T16:32:18.475845+00:00",
+      "title": "coding benchmarks that are quickly showcasing deep capability",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8vx6w": {
+      "at": "2026-09-06T16:32:18.475805+00:00",
+      "title": "8 uncensored qwen 3 8 27b variants one base 167 gpu hours abliterlitics",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4471,6 +4521,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-06T11:49:02.765660+00:00",
+  "updated_at": "2026-09-06T16:32:18.475974+00:00",
   "version": 2
 }

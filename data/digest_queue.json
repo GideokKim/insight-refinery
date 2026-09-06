@@ -2091,6 +2091,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w8vx6w",
+        "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/",
+        "author": "/u/nathandreamfast",
+        "published_at": "2026-09-06T13:15:22+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen 3.8 27B 언센서드 변형 모델 비교 분석",
+        "summary_ko": [
+          "Qwen 3.8 27B 기반의 언센서드 변형 모델 8개를 대상으로 167시간에 걸친 성능 및 검증 비교 리포트가 공개되었습니다.",
+          "정밀한 수정 방식을 적용한 모델들이 우수한 성능을 보인 반면, 과도한 수정을 거친 모델은 사고 루프 문제 등으로 실효성이 떨어진 것으로 나타났습니다.",
+          "연구 결과 화학 및 바이오 관련 제한은 쉽게 해제된 반면, 저작권 관련 제한은 여전히 강력한 장벽으로 작용함이 확인되었습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w8us6t",
+        "title": "Coding benchmarks that are quickly showcasing deep capability",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8us6t/coding_benchmarks_that_are_quickly_showcasing/",
+        "author": "/u/Informal-Trouble2183",
+        "published_at": "2026-09-06T12:23:28+00:00"
+      },
+      "insight": {
+        "title_ko": "소프트웨어 엔지니어링 역량 측정용 차세대 코딩 벤치마크",
+        "summary_ko": [
+          "프론티어 모델의 기존 코딩 벤치마크 점수가 유사해짐에 따라 실무 역량을 깊이 있게 평가하는 차세대 벤치마크가 주목받고 있습니다.",
+          "Program-Bench는 컴파일된 바이너리와 문서만으로 전체 코드베이스를 재구축하는 능력을 평가합니다.",
+          "SRE-Bench와 Code Migration은 소스 코드 없는 바이너리 분석 및 언어 간 코드 재구현 능력을 시험합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w8rnyi",
+        "title": "Validate your local LLM advertised KV cache against real pressure; see exactly how old contexts get evicted from cache",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8rnyi/validate_your_local_llm_advertised_kv_cache/",
+        "author": "/u/t4a8945",
+        "published_at": "2026-09-06T09:38:49+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 LLM KV 캐시 압박 테스트 도구",
+        "summary_ko": [
+          "개발자가 로컬 LLM 환경에서 실제 KV 캐시 압박 상태를 검증하고 오래된 컨텍스트가 축출되는 방식을 확인할 수 있는 오픈소스 도구를 공개했다.",
+          "이 도구는 vLLM 등의 추론 엔진에서 광고하는 캐시 용량과 실제 유지되는 토큰 수 사이의 괴리를 측정하여 정확한 실측 데이터를 제공한다.",
+          "테스트 결과 패치를 적용한 vLLM 환경에서 2M 광고 캐시가 실제 3M 토큰을 유지하는 등 캐시 관리 성능을 객관적으로 비교할 수 있다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w8f8fa",
+        "title": "NInfer fork: 555k context@fp4 for 5090 with YARN, reliable kv host cacheing, monitoring, jinja, opened model support",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8f8fa/ninfer_fork_555k_contextfp4_for_5090_with_yarn/",
+        "author": "/u/Lumpy-Comedian-1027",
+        "published_at": "2026-09-05T22:58:42+00:00"
+      },
+      "insight": {
+        "title_ko": "NInfer 포크 버전 공개",
+        "summary_ko": [
+          "개발자가 실무 활용성을 높이기 위해 NInfer의 커스텀 포크 버전을 구현하고 다양한 기능을 추가했습니다.",
+          "NVFP4 KV 캐시와 아키텍처 최적화를 적용해 품질 저하 없이 VRAM 사용량을 45% 절감했습니다.",
+          "YaRN 기반 컨텍스트 확장과 멀티레벨 프리픽스 재사용 등으로 대규모 세션에서 뛰어난 성능을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
