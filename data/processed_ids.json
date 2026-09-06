@@ -911,6 +911,11 @@
       "title": "how ai native companies turn workflows into operating capability",
       "url": "openai.com/index/ai-native-company-workflows"
     },
+    "rss:https://openai.com/index/an-alien-mind": {
+      "at": "2026-09-06T18:42:56.948103+00:00",
+      "title": "an alien mind",
+      "url": "openai.com/index/an-alien-mind"
+    },
     "rss:https://openai.com/index/asana": {
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
@@ -2185,6 +2190,11 @@
       "at": "2026-09-06T00:20:57.274373+00:00",
       "title": "seattle times and newsday are the latest publications to sue openai and microsoft",
       "url": "techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft"
+    },
+    "rss:https://techcrunch.com/?p=3161054": {
+      "at": "2026-09-06T18:42:56.948074+00:00",
+      "title": "travis kalanick s atoms might be getting into the robotaxi business",
+      "url": "techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4250,6 +4260,21 @@
       "title": "8 uncensored qwen 3 8 27b variants one base 167 gpu hours abliterlitics",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w90igd": {
+      "at": "2026-09-06T18:42:56.948092+00:00",
+      "title": "using gpt astra to teach qwen next how to sculpt in 3d in blender",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w90igd/using_gpt_astra_to_teach_qwen_next_how_to_sculpt"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w90zdc": {
+      "at": "2026-09-06T18:42:56.947992+00:00",
+      "title": "model support for spark2_5forcausallm implementation by knightyao pull request 27868 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w92x3j": {
+      "at": "2026-09-06T18:42:56.948050+00:00",
+      "title": "2x r9700 64 gb ddr5 is an absolute beast machine with vllm radiance r9v and qwen 3 8 27b and flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4521,6 +4546,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-06T16:32:18.475974+00:00",
+  "updated_at": "2026-09-06T18:42:56.948146+00:00",
   "version": 2
 }

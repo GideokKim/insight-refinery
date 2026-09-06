@@ -2179,6 +2179,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w90zdc",
+        "title": "[Model] Support for Spark2_5ForCausalLM implementation by KnightYao · Pull Request #27868 · ggml-org/llama.cpp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-06T16:36:52+00:00"
+      },
+      "insight": {
+        "title_ko": "Spark-X2.5 1.7B·4B 모델의 llama.cpp 지원",
+        "summary_ko": [
+          "XHToken은 네이티브 1M 컨텍스트와 200개 이상의 언어를 지원하는 경량 언어 모델 Spark-X2.5 1.7B와 4B를 공개했습니다.",
+          "이번 업데이트는 하이브리드 어텐션 아키텍처를 통해 긴 컨텍스트 연산 부담을 줄이고 코딩 및 에이전트 성능을 극대화했습니다.",
+          "llama.cpp 등 다양한 추론 프레임워크와 하드웨어를 지원하여 실무 환경에서의 배포 효율성이 높아졌습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
