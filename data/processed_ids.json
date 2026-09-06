@@ -1432,6 +1432,11 @@
       "title": "introducing gpt 6 astra for developers",
       "url": "simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers"
     },
+    "rss:https://simonwillison.net/2026/Sep/6/zach-kehs/": {
+      "at": "2026-09-06T11:49:02.765551+00:00",
+      "title": "quoting zach kehs",
+      "url": "simonwillison.net/2026/Sep/6/zach-kehs"
+    },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
       "title": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
@@ -4120,6 +4125,11 @@
       "title": "aa update here s how the small models score",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w80em5": {
+      "at": "2026-09-06T11:49:02.765597+00:00",
+      "title": "people with non enthusaist hardware how do you use it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w80em5/people_with_nonenthusaist_hardware_how_do_you_use"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w821fg": {
       "at": "2026-09-05T18:39:05.172355+00:00",
       "title": "ninfer vs llama cpp vs vllm quality speed comparison for qwen3 8 27b nvfp4 on rtx 5090",
@@ -4129,6 +4139,11 @@
       "at": "2026-09-05T16:21:30.567971+00:00",
       "title": "the gap has closed open source will win",
       "url": "reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w82kpd": {
+      "at": "2026-09-06T11:49:02.765534+00:00",
+      "title": "gfx906 llama cpp new pp tg gains for mi50 mi60 radeon vii amd gcn",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w82kpd/gfx906llamacpp_new_pptg_gains_for_mi50mi60radeon"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w84mod": {
       "at": "2026-09-05T21:46:06.801306+00:00",
@@ -4140,10 +4155,25 @@
       "title": "otaku an llm frontend",
       "url": "reddit.com/r/LocalLLaMA/comments/1w85blf/otaku_an_llm_frontend"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w86wqp": {
+      "at": "2026-09-06T11:49:02.765579+00:00",
+      "title": "any resource on using blender with local models and which models work best",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w86wqp/any_resource_on_using_blender_with_local_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8dw2g": {
+      "at": "2026-09-06T11:49:02.765613+00:00",
+      "title": "your opinion on ling 3 0 tiny on cpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8dw2g/your_opinion_on_ling_30_tiny_on_cpu"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8f7bp": {
       "at": "2026-09-06T06:36:02.119914+00:00",
       "title": "which agent harness do you use and why",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8f7bp/which_agent_harness_do_you_use_and_why"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8ga5y": {
+      "at": "2026-09-06T11:49:02.765563+00:00",
+      "title": "my only real use case for a local ai use is document management how much vram do i realistically need for a good experience",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8ga5y/my_only_real_use_case_for_a_local_ai_use_is"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8h0cb": {
       "at": "2026-09-06T06:36:02.119977+00:00",
@@ -4154,6 +4184,21 @@
       "at": "2026-09-06T06:36:02.119954+00:00",
       "title": "qwen3 8 27b unhacked my pc",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8jahs/qwen3827b_unhacked_my_pc"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8jflp": {
+      "at": "2026-09-06T11:49:02.765438+00:00",
+      "title": "block kv cache streaming bound vram at long context via a shared cuda phase arena by giveen pull request 357 thetom llama cpp turboquant",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8jflp/block_kv_cache_streaming_bound_vram_at_long"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8qo79": {
+      "at": "2026-09-06T11:49:02.765509+00:00",
+      "title": "qwen3 8 flash next oq4e mtp 45 tok s on m4 max 25 tok s on m2 ultra for local inference llm bench io",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8qo79/qwen38flashnextoq4emtp_45_toks_on_m4_max_25_toks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8r0t9": {
+      "at": "2026-09-06T11:49:02.765487+00:00",
+      "title": "villager simulation game poc created with qwen3 8 27b ud q3_k_xl gguf 16gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8r0t9/villager_simulation_game_poc_created_with"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4426,6 +4471,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-06T06:36:02.120044+00:00",
+  "updated_at": "2026-09-06T11:49:02.765660+00:00",
   "version": 2
 }

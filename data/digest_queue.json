@@ -2069,6 +2069,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w8jflp",
+        "title": "Block KV cache streaming: bound VRAM at long context via a shared CUDA phase arena by giveen · Pull Request #357 · TheTom/llama-cpp-turboquant",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8jflp/block_kv_cache_streaming_bound_vram_at_long/",
+        "author": "/u/giveen",
+        "published_at": "2026-09-06T02:15:32+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp Block KV 캐시 스트리밍 구현",
+        "summary_ko": [
+          "개발자가 긴 컨텍스트에서 VRAM을 제한하기 위해 Block KV cache streaming 기능을 llama.cpp 포크 버전에 포팅하고 확장했습니다.",
+          "기존 Qwen 모델에 국한되었던 원작자의 연구를 다양한 모델로 확장하고 철저한 벤치마크 테스트를 진행했습니다.",
+          "이 개선 작업은 제한된 VRAM 환경에서 대형 언어 모델의 긴 컨텍스트 처리 효율을 높이는 데 기여합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
