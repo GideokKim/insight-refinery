@@ -1427,6 +1427,11 @@
       "title": "using blender with coding agents on macos",
       "url": "simonwillison.net/2026/Sep/5/blender-coding-agents-macos"
     },
+    "rss:https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/": {
+      "at": "2026-09-06T00:20:57.274327+00:00",
+      "title": "introducing gpt 6 astra for developers",
+      "url": "simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers"
+    },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
       "title": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
@@ -2150,6 +2155,11 @@
       "at": "2026-09-05T21:46:06.801348+00:00",
       "title": "hikers rescued after using google gemini for planning",
       "url": "techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning"
+    },
+    "rss:https://techcrunch.com/?p=3161049": {
+      "at": "2026-09-06T00:20:57.274373+00:00",
+      "title": "seattle times and newsday are the latest publications to sue openai and microsoft",
+      "url": "techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4090,6 +4100,16 @@
       "title": "llvm developers begin debate over agents md for helping ai agents",
       "url": "reddit.com/r/LocalLLaMA/comments/1w7wb0n/llvm_developers_begin_debate_over_agentsmd_for"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7wte4": {
+      "at": "2026-09-06T00:20:57.274408+00:00",
+      "title": "qwen3 8 27b on strix the optimized setup",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7wte4/qwen38_27b_on_strix_the_optimized_setup"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7xso4": {
+      "at": "2026-09-06T00:20:57.274392+00:00",
+      "title": "local vibecoding with qwen 3 8 27b and godot",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w7xso4/local_vibecoding_with_qwen_38_27b_and_godot"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w7y261": {
       "at": "2026-09-05T16:21:30.568028+00:00",
       "title": "aa update here s how the frontier ranks",
@@ -4391,6 +4411,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-05T21:46:06.801434+00:00",
+  "updated_at": "2026-09-06T00:20:57.274460+00:00",
   "version": 2
 }
