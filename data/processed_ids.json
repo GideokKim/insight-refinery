@@ -1452,6 +1452,11 @@
       "title": "introducing gpt 6 astra for developers",
       "url": "simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers"
     },
+    "rss:https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/": {
+      "at": "2026-09-07T00:27:44.243496+00:00",
+      "title": "research acceleration the view inside openai",
+      "url": "simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai"
+    },
     "rss:https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/": {
       "at": "2026-09-06T16:32:18.475880+00:00",
       "title": "the purpose of dns is to spread scams",
@@ -4230,6 +4235,11 @@
       "title": "qwen 3 8 flash next max is impressive just to talk with",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8h0cb/qwen_38_flash_next_max_is_impressive_just_to_talk"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8ijos": {
+      "at": "2026-09-07T00:27:44.243591+00:00",
+      "title": "m5 max users what models are you using what tk s are you getting",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8ijos/m5_max_users_what_models_are_you_using_what_tks"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8jahs": {
       "at": "2026-09-06T06:36:02.119954+00:00",
       "title": "qwen3 8 27b unhacked my pc",
@@ -4260,6 +4270,11 @@
       "title": "vibeblending locally with qwen 3 8 27b",
       "url": "reddit.com/r/LocalLLaMA/comments/1w8rxwg/vibeblending_locally_with_qwen_38_27b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8sqp3": {
+      "at": "2026-09-07T00:27:44.243556+00:00",
+      "title": "48 tg s 440 prefill on my grandma s cluster 2xp40 sort of",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w8sqp3/48_tgs_440_prefill_on_my_grandmas_cluster_2xp40"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w8us6t": {
       "at": "2026-09-06T16:32:18.475845+00:00",
       "title": "coding benchmarks that are quickly showcasing deep capability",
@@ -4280,10 +4295,20 @@
       "title": "model support for spark2_5forcausallm implementation by knightyao pull request 27868 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1w90zdc/model_support_for_spark2_5forcausallm"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w92am7": {
+      "at": "2026-09-07T00:27:44.243576+00:00",
+      "title": "planning to get a cheap ish gpu would appreciate some advice",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w92am7/planning_to_get_a_cheapish_gpu_would_appreciate"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w92x3j": {
       "at": "2026-09-06T18:42:56.948050+00:00",
       "title": "2x r9700 64 gb ddr5 is an absolute beast machine with vllm radiance r9v and qwen 3 8 27b and flash next",
       "url": "reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9404e": {
+      "at": "2026-09-07T00:27:44.243538+00:00",
+      "title": "expert expansion with llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w96xoi": {
       "at": "2026-09-06T21:48:54.318699+00:00",
@@ -4561,6 +4586,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-06T21:48:54.318861+00:00",
+  "updated_at": "2026-09-07T00:27:44.243640+00:00",
   "version": 2
 }

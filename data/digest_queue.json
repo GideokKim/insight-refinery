@@ -2201,6 +2201,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+        "author": null,
+        "published_at": "2026-09-06T23:57:40+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 연구 가속화와 재귀적 자기 개선",
+        "summary_ko": [
+          "OpenAI는 재귀적 자기 개선을 뜻하는 RSI를 핵심 개념으로 강조하고 있으며, 이는 새로운 AGI 접근법과 관련이 있습니다.",
+          "2026년 들어 OpenAI 연구원들 사이에서 코딩 에이전트를 활용한 에이전틱 엔지니어링이 본격적으로 도입되었습니다.",
+          "지출 증가 추이를 볼 때 내부 직원들이 차세대 모델인 GPT-6 Astra에 접근하게 되면서 연구 가속화가 일어난 것으로 추정됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
