@@ -90,6 +90,11 @@
       "title": "nvidia buys hugging face the github of ai for 13 billion",
       "url": "arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion"
     },
+    "rss:https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
+      "at": "2026-09-07T13:45:40.011949+00:00",
+      "title": "the complex corporate web behind a 3 2 billion ai data center",
+      "url": "arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -1111,6 +1116,11 @@
       "at": "2026-09-01T06:55:24.714997+00:00",
       "title": "openai supports california s bill to advance youth ai safety",
       "url": "openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+    },
+    "rss:https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+      "at": "2026-09-07T13:45:40.012067+00:00",
+      "title": "supporting independent journalism in ukraine",
+      "url": "openai.com/index/supporting-independent-journalism-in-ukraine"
     },
     "rss:https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
       "at": "2026-08-28T13:29:03.622065+00:00",
@@ -4325,10 +4335,50 @@
       "title": "i built an llm benchmark harness that lets you browse and compare how models answered each question",
       "url": "reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9c8u7": {
+      "at": "2026-09-07T13:45:40.012078+00:00",
+      "title": "4xradeon ai pro r9700 people how are your benchmarks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9c8u7/4xradeon_ai_pro_r9700_people_how_are_your"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9dlf1": {
       "at": "2026-09-07T06:43:50.926706+00:00",
       "title": "new benchmark the struggle bench",
       "url": "reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9jmo8": {
+      "at": "2026-09-07T13:45:40.012039+00:00",
+      "title": "benchmarking calories evaluation with llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9jmo8/benchmarking_calories_evaluation_with_llms"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9nfx8": {
+      "at": "2026-09-07T13:45:40.012028+00:00",
+      "title": "qwen 3 8 next flash is really really really verbose",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9nfx8/qwen_38_next_flash_is_really_really_really_verbose"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9nphc": {
+      "at": "2026-09-07T13:45:40.011996+00:00",
+      "title": "tencent evie 8b and evie 4 5b high capacity visual document retrieval",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9nphc/tencentevie8b_and_evie45b_highcapacity_visual"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9of3u": {
+      "at": "2026-09-07T13:45:40.012087+00:00",
+      "title": "me trying to keep up with all the new ai models being released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9of3u/me_trying_to_keep_up_with_all_the_new_ai_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9p7vy": {
+      "at": "2026-09-07T13:45:40.012055+00:00",
+      "title": "qwen next on 24 64 gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9p7vy/qwen_next_on_24_64_gb_vram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9qvi9": {
+      "at": "2026-09-07T13:45:40.012047+00:00",
+      "title": "little coder vs just pi",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9qvi9/littlecoder_vs_just_pi"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9r73k": {
+      "at": "2026-09-07T13:45:40.012013+00:00",
+      "title": "9 easy steps for llama cpp a local model freecad and pi coding agent to generate solid objects that sound mechanically good and can be also be 3d printed milled",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9r73k/9_easy_steps_for_llamacpp_a_local_model_freecad"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4601,6 +4651,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-07T06:43:50.926781+00:00",
+  "updated_at": "2026-09-07T13:45:40.012129+00:00",
   "version": 2
 }

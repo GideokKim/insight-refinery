@@ -2223,6 +2223,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+        "title": "The complex corporate web behind a $3.2 billion AI data center",
+        "url": "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+        "author": "Petala Ironcloud",
+        "published_at": "2026-09-07T11:00:03+00:00"
+      },
+      "insight": {
+        "title_ko": "32억 달러 규모 AI 데이터센터 화재와 책임 소재",
+        "summary_ko": [
+          "뉴욕주 레이크 매리너의 32억 달러 규모 AI 데이터센터 공사 현장에서 화재가 발생해 소방관들이 큰 위험에 처했다.",
+          "현장에는 작동하는 경보기와 소화 시스템이 없었고 소방 안전 서류마저 소실되어 소방 당국이 진압에 큰 어려움을 겪었다.",
+          "이 시설은 TeraWulf, Fluidstack, 구글, Anthropic 등 복잡한 기업 구조로 얽혀 있어 AI 데이터센터 붐 속의 책임 문제를 드러냈다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w9nphc",
+        "title": "tencent/EVIE-8B and EVIE-4.5B (High-Capacity Visual Document Retrieval)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9nphc/tencentevie8b_and_evie45b_highcapacity_visual/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-07T09:47:10+00:00"
+      },
+      "insight": {
+        "title_ko": "Tencent, 고용량 시각 문서 검색 모델 EVIE 공개",
+        "summary_ko": [
+          "텐센트가 ViDoRe V3에서 최고 수준의 성능을 기록한 시각 문서 검색 모델 EVIE-8B와 EVIE-4.5B를 공개했다.",
+          "EVIE-8B는 레이아웃과 표 구조를 보존하는 고용량 4096D 표현을 제공하여 뛰어난 검색 정확도를 자랑한다.",
+          "EVIE-4.5B는 Prefix-MRL과 훈련이 필요 없는 계층적 클러스터링을 통해 색인 저장 용량을 대폭 절감한다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
