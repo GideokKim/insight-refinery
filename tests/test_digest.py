@@ -96,6 +96,36 @@ class TestSendBoundary:
         assert not is_digest_due(datetime(2026, 8, 21, 23, 45, tzinfo=UTC), HOUR, sent)
 
 
+class TestLateRun:
+    """9월 초 사고. 스케줄러가 밀려 23시 창을 놓치자 메일이 6일간 끊겼다.
+
+    발송 조건이 "지금이 23시대인가"였던 탓에, 23:00 슬롯이 자정을 넘겨
+    도착하면 그날 분이 통째로 사라졌다. 기준은 시각이 아니라 "직전 23:00
+    경계를 지났고 그 뒤로 아직 안 보냈는가"여야 한다.
+    """
+
+    def test_run_delayed_past_midnight_still_sends(self):
+        sent = datetime(2026, 9, 1, 23, 10, tzinfo=UTC)
+        now = datetime(2026, 9, 3, 0, 47, tzinfo=UTC)  # 9/2 23:00 슬롯이 107분 지각
+        assert is_digest_due(now, HOUR, sent)
+
+    def test_dropped_slot_is_caught_up_by_the_next_run(self):
+        """23:00 슬롯이 통째로 사라져도 밀린 분은 다음 실행이 보낸다."""
+        sent = datetime(2026, 8, 28, 23, 16, tzinfo=UTC)
+        now = datetime(2026, 8, 30, 6, 31, tzinfo=UTC)  # 8/29 경계는 실행 자체가 없었다
+        assert is_digest_due(now, HOUR, sent)
+
+    def test_ordinary_daytime_run_does_not_send(self):
+        """지각분을 살리는 것과 아무 때나 보내는 것은 다르다."""
+        sent = datetime(2026, 8, 28, 23, 16, tzinfo=UTC)
+        now = datetime(2026, 8, 29, 6, 31, tzinfo=UTC)  # 05:00 슬롯이 91분 지각한 것뿐
+        assert not is_digest_due(now, HOUR, sent)
+
+    def test_first_ever_run_still_waits_for_the_hour(self):
+        """지각분을 살리려다 최초 실행까지 즉시 발송되면 안 된다."""
+        assert not is_digest_due(datetime(2026, 9, 3, 0, 47, tzinfo=UTC), HOUR, None)
+
+
 class TestDigestNotifier:
     """21일 아침에 메일이 빠졌던 건. 이번 실행 해당분이 0건이면 큐째로 건너뛰었다."""
 
