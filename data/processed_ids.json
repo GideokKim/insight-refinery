@@ -4310,10 +4310,25 @@
       "title": "expert expansion with llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1w9404e/expert_expansion_with_llamacpp"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w94cj4": {
+      "at": "2026-09-07T06:43:50.926724+00:00",
+      "title": "best model setup for remote deployment",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w94cj4/best_model_setup_for_remote_deployment"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w96xoi": {
       "at": "2026-09-06T21:48:54.318699+00:00",
       "title": "deepseek v4 flash vision q8 vs qwen3 8 flash next q8",
       "url": "reddit.com/r/LocalLLaMA/comments/1w96xoi/deepseekv4flashvision_q8_vs_qwen38flashnext_q8"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9ad9q": {
+      "at": "2026-09-07T06:43:50.926665+00:00",
+      "title": "i built an llm benchmark harness that lets you browse and compare how models answered each question",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9ad9q/i_built_an_llm_benchmark_harness_that_lets_you"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9dlf1": {
+      "at": "2026-09-07T06:43:50.926706+00:00",
+      "title": "new benchmark the struggle bench",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4586,6 +4601,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-07T00:27:44.243640+00:00",
+  "updated_at": "2026-09-07T06:43:50.926781+00:00",
   "version": 2
 }
