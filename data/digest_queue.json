@@ -2289,6 +2289,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/aeo",
+        "title": "The Frontier AEO Tracker: What Astra Chooses (and every other frontier model, and what you can do about it)",
+        "url": "https://www.latent.space/p/aeo",
+        "author": null,
+        "published_at": "2026-09-07T21:32:37+00:00"
+      },
+      "insight": {
+        "title_ko": "프론티어 AI 모델의 AEO 트래커",
+        "summary_ko": [
+          "Latent Space가 7개 프론티어 모델과 161개 카테고리를 대상으로 AI 답변 엔진 최적화(AEO) 트래커를 공개했다.",
+          "모델 세대 교체에 따라 추천 결과가 크게 달라지며 모델별 검색 소스 수와 답변 확신도에 차이가 존재함을 확인했다.",
+          "본 연구는 AI 모델의 추천 경향과 주요 인용 소스를 분석하여 실무적인 AEO 전략 수립의 기준을 제시한다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wa06k3",
+        "title": "DeepSeek-V4-Flash-Vision-Exp is amazing at creating game worlds!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa06k3/deepseekv4flashvisionexp_is_amazing_at_creating/",
+        "author": "/u/sloptimizer",
+        "published_at": "2026-09-07T18:27:43+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek-V4-Flash로 게임 세계 제작",
+        "summary_ko": [
+          "DeepSeek-V4-Flash-Vision-Exp은 게임 스크린샷을 분석해 모델과 텍스처를 자동 생성·수정한다.",
+          "이 모델은 시각적 결함을 교정하고 애니메이션용 스크린샷 시퀀스를 작성해 게임 플레이 테스트를 수행한다.",
+          "결과적으로 몇 일 만에 완성도 높은 게임 세계를 만들 수 있어 개발 효율이 크게 향상된다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "groq"
     }
   ]
 }

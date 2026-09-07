@@ -1487,6 +1487,21 @@
       "title": "quoting zach kehs",
       "url": "simonwillison.net/2026/Sep/6/zach-kehs"
     },
+    "rss:https://simonwillison.net/2026/Sep/7/equal-earth/": {
+      "at": "2026-09-07T22:23:57.634952+00:00",
+      "title": "mercator equal earth",
+      "url": "simonwillison.net/2026/Sep/7/equal-earth"
+    },
+    "rss:https://simonwillison.net/2026/Sep/7/video-compressor/": {
+      "at": "2026-09-07T22:23:57.634936+00:00",
+      "title": "video compressor",
+      "url": "simonwillison.net/2026/Sep/7/video-compressor"
+    },
+    "rss:https://techcrunch.com/?p=2973217": {
+      "at": "2026-09-07T22:23:57.634943+00:00",
+      "title": "opaque recurrence and other ai terms that you should probably know",
+      "url": "techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms"
+    },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
       "title": "the builders stage brings practical strategies for scaling startups to techcrunch disrupt 2026",
@@ -2255,6 +2270,11 @@
       "at": "2026-09-04T21:54:55.690990+00:00",
       "title": "what will apple s john ternus era look like",
       "url": "techcrunch.com/video/what-will-apples-john-ternus-era-look-like"
+    },
+    "rss:https://www.latent.space/p/aeo": {
+      "at": "2026-09-07T22:23:57.634886+00:00",
+      "title": "the frontier aeo tracker what astra chooses and every other frontier model and what you can do about it",
+      "url": "latent.space/p/aeo"
     },
     "rss:https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x": {
       "at": "2026-08-24T11:05:22.951477+00:00",
@@ -4425,6 +4445,21 @@
       "title": "i really hope the new gemma 5 family sticks to the chat model first philsophy and doesn t fall into the qwen trap",
       "url": "reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa06k3": {
+      "at": "2026-09-07T22:23:57.634918+00:00",
+      "title": "deepseek v4 flash vision exp is amazing at creating game worlds",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa06k3/deepseekv4flashvisionexp_is_amazing_at_creating"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa26pn": {
+      "at": "2026-09-07T22:23:57.634962+00:00",
+      "title": "friends don t let friends use ollama",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa36d1": {
+      "at": "2026-09-07T22:23:57.634929+00:00",
+      "title": "exllamav3 is underrated",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa36d1/exllamav3_is_underrated"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4696,6 +4731,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-07T18:28:08.911054+00:00",
+  "updated_at": "2026-09-07T22:23:57.634993+00:00",
   "version": 2
 }
