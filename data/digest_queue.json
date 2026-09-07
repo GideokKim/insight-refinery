@@ -2267,6 +2267,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1w9skjz",
+        "title": "MiniCPM5-2B Release Day",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/",
+        "author": "/u/Equivalent-Grass-527",
+        "published_at": "2026-09-07T13:43:45+00:00"
+      },
+      "insight": {
+        "title_ko": "MiniCPM5-2B 모델 출시",
+        "summary_ko": [
+          "OpenBMB가 4B 이하 파라미터를 가진 오픈 웨이트 모델 중 최고 성능을 기록한 MiniCPM5-2B를 출시했습니다.",
+          "이 모델은 Artificial Analysis Intelligence Index v4.2에서 15점을 기록하며 뛰어난 성능을 입증했습니다.",
+          "해당 모델의 가중치와 소스코드는 Hugging Face와 GitHub를 통해 공개되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

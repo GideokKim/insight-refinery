@@ -100,6 +100,11 @@
       "title": "apple s new desktop computers are designed specifically for local ai development",
       "url": "arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference"
     },
+    "rss:https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
+      "at": "2026-09-07T18:28:08.910973+00:00",
+      "title": "the complex corporate web behind a 3 2 billion ai data center",
+      "url": "arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
+    },
     "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
       "at": "2026-08-31T15:35:36.937264+00:00",
       "title": "pocket s ai made my game ideas real now meta controls the results",
@@ -4345,6 +4350,11 @@
       "title": "new benchmark the struggle bench",
       "url": "reddit.com/r/LocalLLaMA/comments/1w9dlf1/new_benchmark_the_struggle_bench"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9fwsw": {
+      "at": "2026-09-07T18:28:08.911021+00:00",
+      "title": "when will open source llm catch up to astra i wonder",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9fwsw/when_will_open_source_llm_catch_up_to_astra_i"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9jmo8": {
       "at": "2026-09-07T13:45:40.012039+00:00",
       "title": "benchmarking calories evaluation with llms",
@@ -4379,6 +4389,41 @@
       "at": "2026-09-07T13:45:40.012013+00:00",
       "title": "9 easy steps for llama cpp a local model freecad and pi coding agent to generate solid objects that sound mechanically good and can be also be 3d printed milled",
       "url": "reddit.com/r/LocalLLaMA/comments/1w9r73k/9_easy_steps_for_llamacpp_a_local_model_freecad"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9skjz": {
+      "at": "2026-09-07T18:28:08.910909+00:00",
+      "title": "minicpm5 2b release day",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9t83y": {
+      "at": "2026-09-07T18:28:08.910963+00:00",
+      "title": "why are the sota open weight models scoring relatively low scores on aa omniscience index",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9t83y/why_are_the_sota_openweight_models_scoring"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9ua08": {
+      "at": "2026-09-07T18:28:08.911011+00:00",
+      "title": "how to squeeze out every last drop of your precious ram on your mac use iphone mirroring",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9ua08/how_to_squeeze_out_every_last_drop_of_your"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9v4yz": {
+      "at": "2026-09-07T18:28:08.910946+00:00",
+      "title": "higher acceptance length slower prose ling s n 1 2 3 mtp test on one spark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9v4yz/higher_acceptance_length_slower_prose_lings_n123"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9v6qp": {
+      "at": "2026-09-07T18:28:08.911000+00:00",
+      "title": "are you running qwen 3 8 27b or qwen flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9v6qp/are_you_running_qwen_38_27b_or_qwen_flash_next"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9wvkb": {
+      "at": "2026-09-07T18:28:08.910992+00:00",
+      "title": "after over a year of my nights and weekends the jenny app is done",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9wvkb/after_over_a_year_of_my_nights_and_weekends_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1w9ylhh": {
+      "at": "2026-09-07T18:28:08.910982+00:00",
+      "title": "i really hope the new gemma 5 family sticks to the chat model first philsophy and doesn t fall into the qwen trap",
+      "url": "reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4651,6 +4696,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-07T13:45:40.012129+00:00",
+  "updated_at": "2026-09-07T18:28:08.911054+00:00",
   "version": 2
 }
