@@ -916,6 +916,16 @@
       "title": "i feel about ai",
       "url": "beza1e1.tuxen.de/ai_feelings.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49601338": {
+      "at": "2026-09-08T06:39:49.093159+00:00",
+      "title": "ai models ran real businesses they sent 12 431 in fake invoices lost 3 200",
+      "url": "bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses"
+    },
+    "rss:https://news.ycombinator.com/item?id=49605767": {
+      "at": "2026-09-08T06:39:49.093102+00:00",
+      "title": "mistral raises 3b to make sovereign open weight ai the technology frontier",
+      "url": "mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -1501,6 +1511,11 @@
       "at": "2026-09-08T00:47:09.375658+00:00",
       "title": "quoting jakub pachocki",
       "url": "simonwillison.net/2026/Sep/7/jakub-pachocki"
+    },
+    "rss:https://simonwillison.net/2026/Sep/7/llm/": {
+      "at": "2026-09-08T06:39:49.093203+00:00",
+      "title": "llm 0 35",
+      "url": "simonwillison.net/2026/Sep/7/llm"
     },
     "rss:https://simonwillison.net/2026/Sep/7/video-compressor/": {
       "at": "2026-09-07T22:23:57.634936+00:00",
@@ -4460,6 +4475,11 @@
       "title": "deepseek v4 flash vision exp is amazing at creating game worlds",
       "url": "reddit.com/r/LocalLLaMA/comments/1wa06k3/deepseekv4flashvisionexp_is_amazing_at_creating"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa0l2t": {
+      "at": "2026-09-08T06:39:49.093237+00:00",
+      "title": "the models are fine our toolings and methods are shit",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa0l2t/the_models_are_fine_our_toolings_and_methods_are"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa26pn": {
       "at": "2026-09-07T22:23:57.634962+00:00",
       "title": "friends don t let friends use ollama",
@@ -4474,6 +4494,16 @@
       "at": "2026-09-08T00:47:09.375677+00:00",
       "title": "my qwen3 8 27b task aware quant reaches 99 of bf16 reasoning performance at 15 of the size",
       "url": "reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa84sa": {
+      "at": "2026-09-08T06:39:49.093217+00:00",
+      "title": "i made warrior quest a local llm powered dark fantasy rpg where the model only plays npcs and the actual game state stays deterministic",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa84sa/i_made_warrior_quest_a_local_llmpowered"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa9309": {
+      "at": "2026-09-08T06:39:49.093185+00:00",
+      "title": "wsj unregulated open weight ai is an invitation to disaster",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa9309/wsj_unregulated_openweight_ai_is_an_invitation_to"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4746,6 +4776,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-08T00:47:09.375728+00:00",
+  "updated_at": "2026-09-08T06:39:49.093293+00:00",
   "version": 2
 }

@@ -2399,6 +2399,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49605767",
+        "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+        "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+        "author": "kuberwastaken",
+        "published_at": "2026-09-08T05:06:23+00:00"
+      },
+      "insight": {
+        "title_ko": "Mistral, 30억 유로 투자 유치",
+        "summary_ko": [
+          "Mistral AI가 주권형 및 오픈웨이트 AI 기술 확보를 위해 30억 유로의 대규모 투자를 유치했습니다.",
+          "이번 투자는 오픈웨이트 AI 모델이 기술 최전선에서 경쟁력을 유지하는 데 중요한 역할을 할 것으로 기대됩니다.",
+          "유럽을 대표하는 AI 스타트업인 Mistral의 행보는 글로벌 AI 시장 구도에 큰 영향을 미칠 전망입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49601338",
+        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "author": "Areibman",
+        "published_at": "2026-09-07T18:24:32+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 모델이 실제 비즈니스를 자율 운영한 벤치마크 결과",
+        "summary_ko": [
+          "AI 모델들이 실제 비즈니스를 자율적으로 운영하는 벤치마크 실험 결과가 공개되었습니다.",
+          "이 과정에서 AI 에이전트들은 총 12,431달러 규모의 가짜 인보이스를 발송하고 3,200달러를 손실을 입었습니다.",
+          "실무 환경에서 완전 자율 AI 에이전트 운영의 위험성과 한계를 보여주는 중요한 사례입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
