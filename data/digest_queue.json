@@ -2509,6 +2509,182 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wasdnn",
+        "title": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-08T15:57:12+00:00"
+      },
+      "insight": {
+        "title_ko": "Ling-3.0-flash-VL 모델 공개",
+        "summary_ko": [
+          "inclusionAI에서 이미지와 비디오 이해 능력을 확장한 멀티모달 모델 Ling-3.0-flash-VL을 공개했다.",
+          "이 모델은 124B 총 파라미터 중 토큰당 5.5B만 활성화하는 MoE 구조와 1M 토큰의 컨텍스트 창을 지원한다.",
+          "ViT 인코더, VideoRoPE, 하이브리드 백본 등을 적용하여 효율적인 장문맥 및 멀티모달 추론이 가능하다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wapzjg",
+        "title": "Qwen3-0.6B (400 MB) on a Samsung Note 8 (2017) phone drives a real desktop Chrome",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone/",
+        "author": "/u/Mean-Standard7390",
+        "published_at": "2026-09-08T14:29:24+00:00"
+      },
+      "insight": {
+        "title_ko": "구형 스마트폰에서 구동되는 Qwen3-0.6B 기반 웹 브라우저 에이전트",
+        "summary_ko": [
+          "2017년형 갤럭시 노트 8에서 400MB 크기의 Qwen3-0.6B 모델을 활용해 데스크톱 크롬 브라우저를 제어하는 에이전트 구동에 성공했다.",
+          "모델은 원본 HTML 대신 구조화된 페이지 표현을 입력받아 검증된 3가지 태스크에서 모두 우수한 성능을 기록했다.",
+          "구조화된 데이터 처리를 통해 1B 미만의 소형 모델도 파인튜닝 없이 온디바이스 환경에서 효과적으로 동작함을 입증했다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+        "author": null,
+        "published_at": "2026-09-08T14:23:07+00:00"
+      },
+      "insight": {
+        "title_ko": "LLM 안전성 연구: 주제 전체가 아닌 특정 하위 집합 거부",
+        "summary_ko": [
+          "본 문서는 LLM 안전성 확보 시 특정 주제 전체를 거부하는 대신 올바른 하위 집합만 선택적으로 거부하는 방법을 다룹니다.",
+          "일률적인 주제 차단 방식의 한계를 극복하고 모델의 유용성과 안전성의 균형을 맞추는 데 기여합니다.",
+          "실무에서 세밀한 가드레일 설정과 정교한 거부 메커니즘을 구현하는 데 중요한 인사이트를 제공합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3161251",
+        "title": "Mistral raises €3B as sovereign AI becomes big business",
+        "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+        "author": "Anna Heim",
+        "published_at": "2026-09-08T14:17:48+00:00"
+      },
+      "insight": {
+        "title_ko": "미스트랄 AI, 30억 유로 규모 투자 유치",
+        "summary_ko": [
+          "프랑스의 AI 스타트업 Mistral이 Series D 라운드에서 30억 유로의 투자를 유치했습니다.",
+          "이번 투자는 삼성, Scaleup Europe, PSG Equity 등이 주도했으며 기업 가치는 21억 유로로 평가받았습니다.",
+          "소버린 AI가 거대한 비즈니스로 부상하면서 대규모 자금 조달에 성공한 것으로 분석됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wapjaw",
+        "title": "OpenAI alleged of stealing mathematicians work",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/",
+        "author": "/u/bakawolf123",
+        "published_at": "2026-09-08T14:12:10+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 수학자 연구 도용 의혹 논란",
+        "summary_ko": [
+          "두 명의 수학자가 1년간 연구해 푼 난제의 초안을 Codex에 입력한 것으로 알려졌다.",
+          "정식 출판 며칠 전 OpenAI가 동일한 해법을 공개하면서 프라이버시 침해 및 도용 의혹이 제기되었다.",
+          "OpenAI는 모델이 해당 비공개 채팅으로 학습되었는지에 대한 질문에 답변을 거부했다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+        "author": null,
+        "published_at": "2026-09-08T14:00:15+00:00"
+      },
+      "insight": {
+        "title_ko": "AlphaGenome Atlas 공개",
+        "summary_ko": [
+          "Google DeepMind가 인간 유전체의 모든 단일 문자 DNA 변이를 예측하는 AlphaGenome Atlas를 공개했습니다.",
+          "이 지도는 인간 유전체 전반에 걸쳐 90억 개에 달하는 단일 문자 DNA 변이의 분자적 영향을 매핑합니다.",
+          "유전체학 연구 및 실무에서 방대한 변이 데이터를 분석하고 이해하는 데 중요한 기초 자료를 제공합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wan3nl",
+        "title": "DeepSeek Flash 4.1 is already being tested via API and rolling out.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/",
+        "author": "/u/Nunki08",
+        "published_at": "2026-09-08T12:31:05+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek V4.1 Flash API 테스트 진행",
+        "summary_ko": [
+          "DeepSeek V4.1 Flash의 내부 베타 테스트가 API를 통해 진행 중이며 사용자들의 참여를 받고 있습니다.",
+          "이번 모델은 네이티브 멀티모달 지원과 향상된 성능, 더 빠른 속도 및 낮은 비용을 제공하는 새로운 아키텍처를 채택했습니다.",
+          "기존 base_url을 유지한 채 모델명을 지정하여 호출할 수 있으며 현재 가격은 기존 버전과 동일합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wa9m61",
+        "title": "For Strix Halo - Official llama.cpp isn't ideal and how to highest possible throughput",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa9m61/for_strix_halo_official_llamacpp_isnt_ideal_and/",
+        "author": "/u/feelspeaceman",
+        "published_at": "2026-09-08T00:43:47+00:00"
+      },
+      "insight": {
+        "title_ko": "Strix Halo용 최적화 llama.cpp 대안 및 성능 극대화 방법",
+        "summary_ko": [
+          "공식 llama.cpp는 Strix Halo 하드웨어 성능을 충분히 활용하지 못해 처리량이 낮다는 지적이 제기되었습니다.",
+          "Strix Halo와 Qwen 3.8 Flash Next 모델에 특화된 다양한 비공식 포크와 대안 서버가 공개되었습니다.",
+          "이러한 최적화 대안들을 사용하면 디코드와 프리필 성능을 공식 대비 대폭 향상시킬 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

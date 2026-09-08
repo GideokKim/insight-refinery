@@ -195,6 +195,11 @@
       "title": "trump may be forced to reveal secret rules feds use for ai safety testing",
       "url": "arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing"
     },
+    "rss:https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
+      "at": "2026-09-08T17:40:11.523007+00:00",
+      "title": "alphagenome atlas a predictive map of every possible dna letter change in the human genome",
+      "url": "deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
+    },
     "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "at": "2026-08-24T11:05:22.951784+00:00",
       "title": "from atari to eve online building on 15 years of ai research in games",
@@ -429,6 +434,11 @@
       "at": "2026-08-25T14:38:26.133941+00:00",
       "title": "quantization aware healing a compressed 4 bit model that outperforms its full precision original",
       "url": "huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
+    },
+    "rss:https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom": {
+      "at": "2026-09-08T17:40:11.522963+00:00",
+      "title": "safety for whom refusing the right subset of a topic not the whole topic",
+      "url": "huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
     },
     "rss:https://huggingface.co/blog/agent-intrusion-technical-timeline": {
       "at": "2026-08-19T17:19:19.683244+00:00",
@@ -931,6 +941,16 @@
       "title": "mistral raises 3b to make sovereign open weight ai the technology frontier",
       "url": "mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
     },
+    "rss:https://news.ycombinator.com/item?id=49610229": {
+      "at": "2026-09-08T17:40:11.523169+00:00",
+      "title": "we must return to the office to use ai in person",
+      "url": "mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person"
+    },
+    "rss:https://news.ycombinator.com/item?id=49610538": {
+      "at": "2026-09-08T17:40:11.523126+00:00",
+      "title": "libreoffice breaks download records after declaring it has no ai features",
+      "url": "manualdousuario.net/en/libreoffice-download-record-no-ai"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -1142,10 +1162,20 @@
       "title": "supporting independent journalism in ukraine",
       "url": "openai.com/index/supporting-independent-journalism-in-ukraine"
     },
+    "rss:https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
+      "at": "2026-09-08T17:40:11.523158+00:00",
+      "title": "openai expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+    },
     "rss:https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
       "at": "2026-08-28T13:29:03.622065+00:00",
       "title": "supporting thailand s next generation of ai startups",
       "url": "openai.com/index/supporting-next-generation-ai-startups-thailand"
+    },
+    "rss:https://openai.com/index/teen-development-research-grants": {
+      "at": "2026-09-08T17:40:11.523104+00:00",
+      "title": "funding grants for new research into ai and teen development",
+      "url": "openai.com/index/teen-development-research-grants"
     },
     "rss:https://openai.com/index/the-defenders-window": {
       "at": "2026-08-19T12:28:12.501963+00:00",
@@ -1156,6 +1186,11 @@
       "at": "2026-08-25T17:21:53.012133+00:00",
       "title": "the full stack behind abundant intelligence",
       "url": "openai.com/index/the-full-stack-behind-abundant-intelligence"
+    },
+    "rss:https://openai.com/index/the-work-now-within-reach": {
+      "at": "2026-09-08T17:40:11.523137+00:00",
+      "title": "the work now within reach",
+      "url": "openai.com/index/the-work-now-within-reach"
     },
     "rss:https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
       "at": "2026-08-28T01:13:09.165373+00:00",
@@ -2270,6 +2305,26 @@
       "at": "2026-09-06T21:48:54.318778+00:00",
       "title": "authors push back as publishers and agents make claims on anthropic settlement",
       "url": "techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement"
+    },
+    "rss:https://techcrunch.com/?p=3161251": {
+      "at": "2026-09-08T17:40:11.522978+00:00",
+      "title": "mistral raises 3b as sovereign ai becomes big business",
+      "url": "techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business"
+    },
+    "rss:https://techcrunch.com/?p=3161321": {
+      "at": "2026-09-08T17:40:11.523079+00:00",
+      "title": "chrome is now shipping updates every 2 weeks as ai changes the security landscape",
+      "url": "techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape"
+    },
+    "rss:https://techcrunch.com/?p=3161424": {
+      "at": "2026-09-08T17:40:11.523067+00:00",
+      "title": "google cloud races to catch up in the ai deployment wars with accenture deal",
+      "url": "techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal"
+    },
+    "rss:https://techcrunch.com/?p=3161522": {
+      "at": "2026-09-08T17:40:11.523054+00:00",
+      "title": "openai fought dirty on career making math problem says nyu mathematician",
+      "url": "techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4485,6 +4540,11 @@
       "title": "the models are fine our toolings and methods are shit",
       "url": "reddit.com/r/LocalLLaMA/comments/1wa0l2t/the_models_are_fine_our_toolings_and_methods_are"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa0ucq": {
+      "at": "2026-09-08T17:40:11.523114+00:00",
+      "title": "cybersecurity is local ai model s killer use case",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa0ucq/cybersecurity_is_local_ai_models_killer_use_case"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa26pn": {
       "at": "2026-09-07T22:23:57.634962+00:00",
       "title": "friends don t let friends use ollama",
@@ -4510,10 +4570,45 @@
       "title": "wsj unregulated open weight ai is an invitation to disaster",
       "url": "reddit.com/r/LocalLLaMA/comments/1wa9309/wsj_unregulated_openweight_ai_is_an_invitation_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa9m61": {
+      "at": "2026-09-08T17:40:11.523038+00:00",
+      "title": "for strix halo official llama cpp isn t ideal and how to highest possible throughput",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa9m61/for_strix_halo_official_llamacpp_isnt_ideal_and"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waefz4": {
       "at": "2026-09-08T12:23:09.383433+00:00",
       "title": "voice conversations between gemma4 12b and e2b on gpu and jetson orin",
       "url": "reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wake1h": {
+      "at": "2026-09-08T17:40:11.523146+00:00",
+      "title": "which local model is actually good at knowing when to stop and ask you a question",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wake1h/which_local_model_is_actually_good_at_knowing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wan3nl": {
+      "at": "2026-09-08T17:40:11.523018+00:00",
+      "title": "deepseek flash 4 1 is already being tested via api and rolling out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wapjaw": {
+      "at": "2026-09-08T17:40:11.522995+00:00",
+      "title": "openai alleged of stealing mathematicians work",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wapzjg": {
+      "at": "2026-09-08T17:40:11.522945+00:00",
+      "title": "qwen3 0 6b 400 mb on a samsung note 8 2017 phone drives a real desktop chrome",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wapzjg/qwen306b_400_mb_on_a_samsung_note_8_2017_phone"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waq7hu": {
+      "at": "2026-09-08T17:40:11.523092+00:00",
+      "title": "gpu guide gb per dollar bandwidth",
+      "url": "reddit.com/r/LocalLLaMA/comments/1waq7hu/gpu_guide_gb_per_dollar_bandwidth"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wasdnn": {
+      "at": "2026-09-08T17:40:11.522881+00:00",
+      "title": "inclusionai ling 3 0 flash vl hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4791,6 +4886,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-08T12:23:09.383473+00:00",
+  "updated_at": "2026-09-08T17:40:11.523214+00:00",
   "version": 2
 }
