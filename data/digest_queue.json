@@ -2443,6 +2443,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122285",
+        "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-08T12:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA, Rust 기반 GPU 프로그래밍 지원 공식화",
+        "summary_ko": [
+          "NVIDIA가 Rust를 활용한 네이티브 GPU 프로그래밍 지원을 공식 발표했다.",
+          "기존의 CUDA C++ 및 CUDA Python에 이어 CUDA Rust 툴체인을 본격적으로 육성할 계획이다.",
+          "AI 인프라와 시스템 레이어의 변화에 대응하여 개발자 생태계를 확장하려는 의도이다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1142088",
+        "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+        "author": "Mat Honan",
+        "published_at": "2026-09-08T10:34:00+00:00"
+      },
+      "insight": {
+        "title_ko": "예측 가능한 AI 에이전트와 휴머노이드 로봇",
+        "summary_ko": [
+          "구글 브레인과 딥마인드 출신의 연구원 Danijar Hafner가 미지의 환경에 적응하는 AI를 개발하는 은닉 스타트업을 창업했다.",
+          "이들은 model-based 강화학습과 월드 모델을 활용하여 로봇이 실제 환경과 유사한 시뮬레이션 속에서 미리 학습하고 대처하도록 만든다.",
+          "기존의 복잡한 실세계 시행착오 과정을 거치지 않고도 에이전트가 복잡한 작업을 수행할 수 있도록 돕는 것이 핵심이다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1waefz4",
+        "title": "Voice conversations between Gemma4 12B and E2B on GPU and Jetson Orin",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on/",
+        "author": "/u/cortexist",
+        "published_at": "2026-09-08T04:36:49+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemma 4 기반 음성 대화 오픈소스 파이프라인",
+        "summary_ko": [
+          "RTX PRO 4500 Blackwell과 Jetson Orin에서 구동되는 Gemma 4 모델 기반의 음성 대화 시스템이 공개되었습니다.",
+          "C 언어로 작성된 CUDA 전용 엔진을 사용하여 Jetson Orin 환경에서 llama.cpp보다 빠른 속도와 안정적인 성능을 보여줍니다.",
+          "립싱크, 표정, 제스처를 지원하는 전체 파이프라인과 엔진 소스 코드가 오픈소스로 제공됩니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -385,6 +385,11 @@
       "title": "how to carry user identity across federated kubernetes and ai platforms",
       "url": "developer.nvidia.com/blog/how-to-carry-user-identity-across-federated-kubernetes-and-ai-platforms"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122285": {
+      "at": "2026-09-08T12:23:09.383362+00:00",
+      "title": "introducing cuda rust two tracks for writing gpu kernels",
+      "url": "developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122286": {
       "at": "2026-09-04T21:54:55.690920+00:00",
       "title": "building a memory driven agent with nvidia nemoclaw",
@@ -4505,6 +4510,11 @@
       "title": "wsj unregulated open weight ai is an invitation to disaster",
       "url": "reddit.com/r/LocalLLaMA/comments/1wa9309/wsj_unregulated_openweight_ai_is_an_invitation_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waefz4": {
+      "at": "2026-09-08T12:23:09.383433+00:00",
+      "title": "voice conversations between gemma4 12b and e2b on gpu and jetson orin",
+      "url": "reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4730,6 +4740,11 @@
       "title": "unlocking hidden revenue streams with market models",
       "url": "technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models"
     },
+    "rss:https://www.technologyreview.com/?p=1142088": {
+      "at": "2026-09-08T12:23:09.383414+00:00",
+      "title": "this ai entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents"
+    },
     "rss:https://www.technologyreview.com/?p=1142188": {
       "at": "2026-08-24T11:19:10.800915+00:00",
       "title": "ai s recursive self improvement might not come so quickly after all",
@@ -4776,6 +4791,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-08T06:39:49.093293+00:00",
+  "updated_at": "2026-09-08T12:23:09.383473+00:00",
   "version": 2
 }
