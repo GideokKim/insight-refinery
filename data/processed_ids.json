@@ -1487,10 +1487,20 @@
       "title": "quoting zach kehs",
       "url": "simonwillison.net/2026/Sep/6/zach-kehs"
     },
+    "rss:https://simonwillison.net/2026/Sep/7/creepy-crawlies/": {
+      "at": "2026-09-08T00:47:09.375619+00:00",
+      "title": "creepy crawlies",
+      "url": "simonwillison.net/2026/Sep/7/creepy-crawlies"
+    },
     "rss:https://simonwillison.net/2026/Sep/7/equal-earth/": {
       "at": "2026-09-07T22:23:57.634952+00:00",
       "title": "mercator equal earth",
       "url": "simonwillison.net/2026/Sep/7/equal-earth"
+    },
+    "rss:https://simonwillison.net/2026/Sep/7/jakub-pachocki/": {
+      "at": "2026-09-08T00:47:09.375658+00:00",
+      "title": "quoting jakub pachocki",
+      "url": "simonwillison.net/2026/Sep/7/jakub-pachocki"
     },
     "rss:https://simonwillison.net/2026/Sep/7/video-compressor/": {
       "at": "2026-09-07T22:23:57.634936+00:00",
@@ -4460,6 +4470,11 @@
       "title": "exllamav3 is underrated",
       "url": "reddit.com/r/LocalLLaMA/comments/1wa36d1/exllamav3_is_underrated"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wa5dp9": {
+      "at": "2026-09-08T00:47:09.375677+00:00",
+      "title": "my qwen3 8 27b task aware quant reaches 99 of bf16 reasoning performance at 15 of the size",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4731,6 +4746,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-07T22:23:57.634993+00:00",
+  "updated_at": "2026-09-08T00:47:09.375728+00:00",
   "version": 2
 }

@@ -2333,6 +2333,72 @@
         "importance": 4
       },
       "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+        "title": "Creepy crawlies",
+        "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies/",
+        "author": null,
+        "published_at": "2026-09-07T23:08:58+00:00"
+      },
+      "insight": {
+        "title_ko": "Linux 커널 저장소의 웹 스크레이퍼 과부하 문제",
+        "summary_ko": [
+          "Konstantin Ryabitsev는 git.kernel.org에서 악성 웹 스크레이퍼의 백그라운드 크롤링 부하가 심각한 수준에 이르렀다고 지적했습니다.",
+          "Linux 커널 저장소는 정상적인 접근보다 스크레이퍼의 커밋 렌더링에 더 많은 CPU 자원을 소모하고 있습니다.",
+          "이러한 무분별한 크롤링은 대규모 웹페이지를 서비스하는 개발자들에게 실무적인 인프라 부담과 우려를 가중시키고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+        "title": "Quoting Jakub Pachocki",
+        "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+        "author": null,
+        "published_at": "2026-09-07T22:26:25+00:00"
+      },
+      "insight": {
+        "title_ko": "강력한 AI 방어 시스템 구축의 필요성",
+        "summary_ko": [
+          "OpenAI의 Chief Scientist인 Jakub Pachocki는 더 스마트한 모델을 계속 훈련해야 하는 가장 강력한 근거로 AI 위협에 대응할 방어 시스템 구축을 꼽았습니다.",
+          "인프라 보안과 악성 에이전트 방어 등을 위해 강력하고 정렬된 AI가 필수적이며, 이는 OpenAI 배포 노력의 주요 초점이 될 것입니다.",
+          "다만 이러한 방어의 필요성이 무모한 개발을 정당화하는 excuse가 될 수 없으며, 위험성의 심각성을 인지할 때 무조건적인 속도 경쟁은 불합리하다고 강조했습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wa5dp9",
+        "title": "My Qwen3.8-27B task-aware quant reaches 99% of BF16 reasoning performance at 15% of the size.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16/",
+        "author": "/u/devildip",
+        "published_at": "2026-09-07T21:42:09+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-27B 태스크 인지 양자화 기법",
+        "summary_ko": [
+          "작성자는 태스크 인지 양자화 기법인 TAK를 활용해 Qwen3.8-27B 모델의 추론 성능을 BF16의 99% 수준으로 유지했습니다.",
+          "TAK는 태스크별 코퍼스를 기반으로 iMatrix와 텐서별 예산 할당을 결합하여 범용 복구가 아닌 목적 맞춤형 양자화를 수행합니다.",
+          "테스트 결과 TAK는 다양한 모델 아키텍처에서 기존 Unsloth 대비 향상된 추론 벤치마크 점수를 기록했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
