@@ -115,6 +115,11 @@
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
       "url": "arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs"
     },
+    "rss:https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": {
+      "at": "2026-09-08T22:07:38.642424+00:00",
+      "title": "update to google s ai weather model improves forecast accuracy",
+      "url": "arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data"
+    },
     "rss:https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/": {
       "at": "2026-08-27T15:57:38.015918+00:00",
       "title": "claude codex and hermes installed unowned code inside corporate networks",
@@ -134,6 +139,11 @@
       "at": "2026-08-24T11:19:10.800658+00:00",
       "title": "microsoft copilot reveals secret input that allowed it to be hacked",
       "url": "arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked"
+    },
+    "rss:https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": {
+      "at": "2026-09-08T22:07:38.642362+00:00",
+      "title": "why this month s microsoft patch release is a doozy",
+      "url": "arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical"
     },
     "rss:https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": {
       "at": "2026-09-04T21:54:55.690937+00:00",
@@ -189,6 +199,11 @@
       "at": "2026-08-31T21:43:04.495232+00:00",
       "title": "zlibrary my beloved anthropic staff chats extolling piracy cited in sony suit",
       "url": "arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/": {
+      "at": "2026-09-08T22:07:38.642408+00:00",
+      "title": "this is the ai men actually use meta ads pushed apps nudifying real teens",
+      "url": "arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/": {
       "at": "2026-09-02T22:05:13.086117+00:00",
@@ -951,6 +966,16 @@
       "title": "libreoffice breaks download records after declaring it has no ai features",
       "url": "manualdousuario.net/en/libreoffice-download-record-no-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=49615537": {
+      "at": "2026-09-08T22:07:38.642493+00:00",
+      "title": "muse meta s personal ai agent features and capabilities",
+      "url": "ai.meta.com/muse"
+    },
+    "rss:https://openai.com/index/1password": {
+      "at": "2026-09-08T22:07:38.642539+00:00",
+      "title": "1password increases engineering productivity 21 with codex",
+      "url": "openai.com/index/1password"
+    },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
@@ -993,6 +1018,11 @@
       "at": "2026-08-19T12:28:12.501880+00:00",
       "title": "introducing chatgpt for teens built for learning backed by protections",
       "url": "openai.com/index/chatgpt-for-teens"
+    },
+    "rss:https://openai.com/index/codex-quantum-computing-experiments": {
+      "at": "2026-09-08T22:07:38.642461+00:00",
+      "title": "how gpt 5 6 sol helps run quantum computing experiments",
+      "url": "openai.com/index/codex-quantum-computing-experiments"
     },
     "rss:https://openai.com/index/dali-rajic-chief-revenue-officer": {
       "at": "2026-08-19T14:23:12.191402+00:00",
@@ -1054,6 +1084,11 @@
       "title": "introducing ai futures",
       "url": "openai.com/index/introducing-ai-futures"
     },
+    "rss:https://openai.com/index/introducing-chatgpt-images-2-5": {
+      "at": "2026-09-08T22:07:38.642519+00:00",
+      "title": "introducing chatgpt images 2 5",
+      "url": "openai.com/index/introducing-chatgpt-images-2-5"
+    },
     "rss:https://openai.com/index/jalapeno-first-results": {
       "at": "2026-08-25T17:21:53.012020+00:00",
       "title": "jalapeño s first results show industry leading speed and efficiency in ai inference",
@@ -1073,6 +1108,11 @@
       "at": "2026-08-26T11:19:14.906066+00:00",
       "title": "how loveholidays is making everyone a builder with codex",
       "url": "openai.com/index/loveholidays"
+    },
+    "rss:https://openai.com/index/navier-stokes-solution": {
+      "at": "2026-09-08T22:07:38.642315+00:00",
+      "title": "on the navier stokes millennium prize problem",
+      "url": "openai.com/index/navier-stokes-solution"
     },
     "rss:https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
       "at": "2026-08-19T14:23:12.191291+00:00",
@@ -2316,15 +2356,30 @@
       "title": "chrome is now shipping updates every 2 weeks as ai changes the security landscape",
       "url": "techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape"
     },
+    "rss:https://techcrunch.com/?p=3161372": {
+      "at": "2026-09-08T22:07:38.642395+00:00",
+      "title": "meta debuts its muse ai agent will consumers trust it",
+      "url": "techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it"
+    },
     "rss:https://techcrunch.com/?p=3161424": {
       "at": "2026-09-08T17:40:11.523067+00:00",
       "title": "google cloud races to catch up in the ai deployment wars with accenture deal",
       "url": "techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal"
     },
+    "rss:https://techcrunch.com/?p=3161463": {
+      "at": "2026-09-08T22:07:38.642382+00:00",
+      "title": "hackers are stealing claude tokens from subscribers",
+      "url": "techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers"
+    },
     "rss:https://techcrunch.com/?p=3161522": {
       "at": "2026-09-08T17:40:11.523054+00:00",
       "title": "openai fought dirty on career making math problem says nyu mathematician",
       "url": "techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
+    },
+    "rss:https://techcrunch.com/?p=3161658": {
+      "at": "2026-09-08T22:07:38.642472+00:00",
+      "title": "cognition hits 48b valuation signaling investors believe ai coding is far from a winner take all market",
+      "url": "techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4580,10 +4635,20 @@
       "title": "voice conversations between gemma4 12b and e2b on gpu and jetson orin",
       "url": "reddit.com/r/LocalLLaMA/comments/1waefz4/voice_conversations_between_gemma4_12b_and_e2b_on"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waif2b": {
+      "at": "2026-09-08T22:07:38.642526+00:00",
+      "title": "i made a custom llama cpp build optimized for 7900xtx one or two for qwen 3 8 next and 27b includes optimizations for pcie x4 and tensor parallel read inside no ai slop",
+      "url": "reddit.com/r/LocalLLaMA/comments/1waif2b/i_made_a_custom_llamacpp_build_optimized_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wake1h": {
       "at": "2026-09-08T17:40:11.523146+00:00",
       "title": "which local model is actually good at knowing when to stop and ask you a question",
       "url": "reddit.com/r/LocalLLaMA/comments/1wake1h/which_local_model_is_actually_good_at_knowing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1walsw6": {
+      "at": "2026-09-08T22:07:38.642510+00:00",
+      "title": "fallout 2 x fallout bakersfield x h3 as interactive reactive world model let s go",
+      "url": "reddit.com/r/LocalLLaMA/comments/1walsw6/fallout_2_x_fallout_bakersfield_x_h3_as"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wan3nl": {
       "at": "2026-09-08T17:40:11.523018+00:00",
@@ -4609,6 +4674,21 @@
       "at": "2026-09-08T17:40:11.522881+00:00",
       "title": "inclusionai ling 3 0 flash vl hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wat4ay": {
+      "at": "2026-09-08T22:07:38.642501+00:00",
+      "title": "nex agi nex n2 5 mini 35b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wat4ay/nexaginexn25mini_35b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wauxg9": {
+      "at": "2026-09-08T22:07:38.642438+00:00",
+      "title": "qwen qwen drive 1 0 4b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waz5a0": {
+      "at": "2026-09-08T22:07:38.642483+00:00",
+      "title": "qwen 3 8 27b with pi agent pushed to its 3d graphic game limits",
+      "url": "reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -4886,6 +4966,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-08T17:40:11.523214+00:00",
+  "updated_at": "2026-09-08T22:07:38.642583+00:00",
   "version": 2
 }
