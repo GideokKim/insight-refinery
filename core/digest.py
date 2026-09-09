@@ -12,7 +12,7 @@ from __future__ import annotations
 
 import json
 import logging
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any, Iterable, Sequence
 
@@ -148,17 +148,23 @@ def is_digest_due(
     """지금이 다이제스트를 보낼 실행인지 판단한다.
 
     시각만 비교하면 같은 시간대에 두 번 실행될 때(수동 실행 등) 두 통이 나간다.
-    마지막 발송 날짜를 함께 봐서 하루 한 통을 보장한다.
+    마지막 발송 시각을 함께 봐서 발송 주기당 한 통을 보장한다.
     """
-    if now.hour < digest_hour:
-        return False
     if last_sent_at is None:
-        return True
+        # 최초 실행은 발송 시각을 기다린다. 큐를 처음 채우는 사이클에서
+        # 예고 없이 메일이 나가는 것보다 한 주기 늦게 시작하는 편이 낫다.
+        return now.hour >= digest_hour
 
     # 날짜를 비교하면 안 된다. 발송 시각이 23시 UTC라 날짜 경계와 어긋나서,
     # 같은 날 낮에 수동 발송을 한 번 하면 그날 저녁 정기 발송이 막힌다.
-    # 기준은 "이번 발송 시각 이후에 이미 보냈는가"다.
+    # 기준은 "직전 발송 경계 이후에 이미 보냈는가"다.
     boundary = now.replace(hour=digest_hour, minute=0, second=0, microsecond=0)
+    if boundary > now:
+        # 아직 오늘 경계에 닿지 않았으면 직전 경계는 어제 것이다. 이 한 줄이
+        # "지금이 23시대인가"와 갈리는 지점이다. 스케줄러가 밀려 23:00 슬롯이
+        # 자정을 넘겨 도착해도, 그 실행이 어제분을 보내야 한다.
+        boundary -= timedelta(days=1)
+
     if last_sent_at.tzinfo is None:
         last_sent_at = last_sent_at.replace(tzinfo=timezone.utc)
     return last_sent_at < boundary

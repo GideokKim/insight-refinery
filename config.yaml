@@ -83,9 +83,10 @@ notifier:
       - kdkim@hbtechnology.co.kr
     subject_prefix: "[insight-refinery]"
 
-    # 이 UTC 시각의 실행에서만 발송하고, 나머지 실행에서는 큐에 쌓아둔다.
+    # 이 UTC 시각을 지난 첫 실행에서 발송하고, 나머지 실행에서는 큐에 쌓아둔다.
     # 23 UTC = 08:00 KST (아침 브리핑).
-    # 반드시 워크플로 cron이 도는 시각 중 하나여야 한다. 아니면 영영 안 나간다.
+    # 워크플로 cron이 이 시각 직후에 돌도록 맞춰 두는 편이 좋다. 어긋나거나
+    # 스케줄러가 밀려도 다음 실행이 밀린 분을 보내지만, 그만큼 늦게 도착한다.
     digest_hour: 23
     queue_path: data/digest_queue.json
 
