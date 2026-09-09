@@ -70,6 +70,11 @@
       "title": "world humanoid robot games show runners breaking records bursting into flames",
       "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
     },
+    "rss:https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/": {
+      "at": "2026-09-09T17:52:30.546213+00:00",
+      "title": "anthropic researcher quits with a warning self improving ai could kill us all",
+      "url": "arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all"
+    },
     "rss:https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": {
       "at": "2026-09-04T17:27:10.307559+00:00",
       "title": "anthropic s 2 trillion ipo puts powerful external trustees in spotlight",
@@ -114,6 +119,11 @@
       "at": "2026-08-25T17:21:53.012088+00:00",
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
       "url": "arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs"
+    },
+    "rss:https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/": {
+      "at": "2026-09-09T17:52:30.546263+00:00",
+      "title": "google s ai genome system evaluates every possible one base change",
+      "url": "arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change"
     },
     "rss:https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/": {
       "at": "2026-09-08T22:07:38.642424+00:00",
@@ -199,6 +209,11 @@
       "at": "2026-08-31T21:43:04.495232+00:00",
       "title": "zlibrary my beloved anthropic staff chats extolling piracy cited in sony suit",
       "url": "arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": {
+      "at": "2026-09-09T17:52:30.546337+00:00",
+      "title": "man told chatgpt he was feeling delusional chatgpt insisted he was jesus",
+      "url": "arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/": {
       "at": "2026-09-08T22:07:38.642408+00:00",
@@ -512,6 +527,11 @@
       "at": "2026-08-20T11:16:15.525995+00:00",
       "title": "thinking of ace we can do it with fewer tokens",
       "url": "huggingface.co/blog/ibm-research/altk-evolve-sldd"
+    },
+    "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
+      "at": "2026-09-09T17:52:30.546282+00:00",
+      "title": "ibm releases sota granite time series patchtst fm r2 model with commercial friendly license",
+      "url": "huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
     },
     "rss:https://huggingface.co/blog/ibm-research/real-time-intelligence": {
       "at": "2026-09-02T17:30:27.096516+00:00",
@@ -976,6 +996,11 @@
       "title": "tao open math problems being non renewably mined by ai",
       "url": "mathstodon.xyz/@tao/117237320796901560"
     },
+    "rss:https://news.ycombinator.com/item?id=49624163": {
+      "at": "2026-09-09T17:52:30.546475+00:00",
+      "title": "how an ai math breakthrough ignited a controversy",
+      "url": "science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1158,6 +1183,11 @@
       "at": "2026-09-01T22:10:08.411915+00:00",
       "title": "path to astra critical capabilities and frontier safeguards",
       "url": "openai.com/index/path-to-astra"
+    },
+    "rss:https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+      "at": "2026-09-09T17:52:30.546370+00:00",
+      "title": "paul christiano joins openai foundation board",
+      "url": "openai.com/index/paul-christiano-joins-openai-foundation-board"
     },
     "rss:https://openai.com/index/playco-game-prototyping-with-astra": {
       "at": "2026-09-03T21:59:42.659563+00:00",
@@ -2381,6 +2411,11 @@
       "title": "meta debuts its muse ai agent will consumers trust it",
       "url": "techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it"
     },
+    "rss:https://techcrunch.com/?p=3161376": {
+      "at": "2026-09-09T17:52:30.546450+00:00",
+      "title": "instacart launches an ai grocery shopping assistant called clementine",
+      "url": "techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine"
+    },
     "rss:https://techcrunch.com/?p=3161424": {
       "at": "2026-09-08T17:40:11.523067+00:00",
       "title": "google cloud races to catch up in the ai deployment wars with accenture deal",
@@ -2396,10 +2431,50 @@
       "title": "openai fought dirty on career making math problem says nyu mathematician",
       "url": "techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
     },
+    "rss:https://techcrunch.com/?p=3161574": {
+      "at": "2026-09-09T17:52:30.546441+00:00",
+      "title": "sequoia doubles down on cymphony as ai agents create new enterprise security risks",
+      "url": "techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks"
+    },
     "rss:https://techcrunch.com/?p=3161658": {
       "at": "2026-09-08T22:07:38.642472+00:00",
       "title": "cognition hits 48b valuation signaling investors believe ai coding is far from a winner take all market",
       "url": "techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market"
+    },
+    "rss:https://techcrunch.com/?p=3161663": {
+      "at": "2026-09-09T17:52:30.546458+00:00",
+      "title": "besxar is building an orbital semiconductor factory one spacex rocket at a time",
+      "url": "techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets"
+    },
+    "rss:https://techcrunch.com/?p=3161803": {
+      "at": "2026-09-09T17:52:30.546466+00:00",
+      "title": "suno replaces its ai models with a new one trained on licensed music as copyright suits pile up",
+      "url": "techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up"
+    },
+    "rss:https://techcrunch.com/?p=3161886": {
+      "at": "2026-09-09T17:52:30.546419+00:00",
+      "title": "ai spend per employee slumped at top firms in august summer doldrums or a warning sign",
+      "url": "techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign"
+    },
+    "rss:https://techcrunch.com/?p=3161895": {
+      "at": "2026-09-09T17:52:30.546402+00:00",
+      "title": "viral ai assistant instinct now has its own email address",
+      "url": "techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address"
+    },
+    "rss:https://techcrunch.com/?p=3161903": {
+      "at": "2026-09-09T17:52:30.546410+00:00",
+      "title": "shipt becomes the latest delivery app with an ai shopping assistant",
+      "url": "techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant"
+    },
+    "rss:https://techcrunch.com/?p=3161915": {
+      "at": "2026-09-09T17:52:30.546299+00:00",
+      "title": "gambling with our lives anthropic researcher quits warns against self improving ai",
+      "url": "techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai"
+    },
+    "rss:https://techcrunch.com/?p=3162083": {
+      "at": "2026-09-09T17:52:30.546354+00:00",
+      "title": "apple ceo john ternus says the best ai device is still the iphone",
+      "url": "techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -2416,6 +2491,11 @@
       "title": "apple s ternus era begins as nvidia bets on the whole ai stack",
       "url": "techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3162039": {
+      "at": "2026-09-09T17:52:30.546390+00:00",
+      "title": "controlai s connor leahy on why superintelligence is not a weapon it s an adversary",
+      "url": "techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -2430,6 +2510,11 @@
       "at": "2026-09-04T21:54:55.690990+00:00",
       "title": "what will apple s john ternus era look like",
       "url": "techcrunch.com/video/what-will-apples-john-ternus-era-look-like"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3162044": {
+      "at": "2026-09-09T17:52:30.546380+00:00",
+      "title": "superintelligence is coming should we let it",
+      "url": "techcrunch.com/video/superintelligence-is-coming-should-we-let-it"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -4745,6 +4830,46 @@
       "title": "qwen3 8 flash next on mlx serve 1m context is released",
       "url": "reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbejtp": {
+      "at": "2026-09-09T17:52:30.546491+00:00",
+      "title": "mimo x pro preview and mimo x flash preview new mimo model found in mimo desktop preview announcement",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbejtp/mimoxpropreview_and_mimoxflashpreview_new_mimo"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbemg0": {
+      "at": "2026-09-09T17:52:30.546483+00:00",
+      "title": "new nex model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbemg0/new_nex_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbfrut": {
+      "at": "2026-09-09T17:52:30.546525+00:00",
+      "title": "deepseek has soft retired deepseek v4 pro",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbir6v": {
+      "at": "2026-09-09T17:52:30.546511+00:00",
+      "title": "now this is a serious local machine",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbir6v/now_this_is_a_serious_local_machine"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbkpnw": {
+      "at": "2026-09-09T17:52:30.546320+00:00",
+      "title": "glm 5 3 flash q4 60tps 550tps on m3 ultra",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbkpnw/glm_53_flash_q4_60tps_550tps_on_m3_ultra"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wble79": {
+      "at": "2026-09-09T17:52:30.546502+00:00",
+      "title": "why the hell is lm studio making lm studio so difficult to download",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wble79/why_the_hell_is_lm_studio_making_lm_studio_so"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbmo0k": {
+      "at": "2026-09-09T17:52:30.546429+00:00",
+      "title": "qwen3 8 27b uncensored genesis v1 gguf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbmo0k/qwen3827buncensoredgenesisv1gguf"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbpf6i": {
+      "at": "2026-09-09T17:52:30.546518+00:00",
+      "title": "mention if a new model is a finetune",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbpf6i/mention_if_a_new_model_is_a_finetune"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -5026,6 +5151,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-09T06:50:19.410860+00:00",
+  "updated_at": "2026-09-09T17:52:30.546558+00:00",
   "version": 2
 }
