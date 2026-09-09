@@ -220,6 +220,11 @@
       "title": "this is the ai men actually use meta ads pushed apps nudifying real teens",
       "url": "arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/": {
+      "at": "2026-09-09T22:35:04.331469+00:00",
+      "title": "six chinese ai firms accused of aggressively copying us frontier models",
+      "url": "arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/": {
       "at": "2026-09-02T22:05:13.086117+00:00",
       "title": "trump may be forced to reveal secret rules feds use for ai safety testing",
@@ -279,6 +284,11 @@
       "at": "2026-08-24T11:05:22.951670+00:00",
       "title": "how generative recommenders are redefining recsys at scale",
       "url": "developer.nvidia.com/blog/how-generative-recommenders-are-redefining-recsys-at-scale"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121255": {
+      "at": "2026-09-09T22:35:04.331451+00:00",
+      "title": "cuda toolkit 13 4 adds windows on arm support and greater control over shared gpus",
+      "url": "developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus"
     },
     "rss:https://developer.nvidia.com/blog/?p=121287": {
       "at": "2026-08-24T11:19:10.800887+00:00",
@@ -429,6 +439,11 @@
       "at": "2026-09-04T21:54:55.690920+00:00",
       "title": "building a memory driven agent with nvidia nemoclaw",
       "url": "developer.nvidia.com/blog/building-a-memory-driven-agent-with-nvidia-nemoclaw"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122311": {
+      "at": "2026-09-09T22:35:04.331411+00:00",
+      "title": "when to use encode prefill decode disaggregation to accelerate multimodal model serving",
+      "url": "developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -1093,6 +1108,11 @@
       "at": "2026-09-05T06:25:52.388524+00:00",
       "title": "gpt 6 astra a new generation of intelligence",
       "url": "openai.com/index/gpt-6-astra"
+    },
+    "rss:https://openai.com/index/gpt-6-astra-next-generation-work": {
+      "at": "2026-09-09T22:35:04.331372+00:00",
+      "title": "gpt 6 astra the next generation in intelligence for work",
+      "url": "openai.com/index/gpt-6-astra-next-generation-work"
     },
     "rss:https://openai.com/index/how-enterprises-put-ai-to-work": {
       "at": "2026-08-19T17:19:19.683319+00:00",
@@ -2471,10 +2491,45 @@
       "title": "gambling with our lives anthropic researcher quits warns against self improving ai",
       "url": "techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai"
     },
+    "rss:https://techcrunch.com/?p=3162041": {
+      "at": "2026-09-09T22:35:04.331568+00:00",
+      "title": "massachusetts hits data centers with new clean power rules",
+      "url": "techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules"
+    },
     "rss:https://techcrunch.com/?p=3162083": {
       "at": "2026-09-09T17:52:30.546354+00:00",
       "title": "apple ceo john ternus says the best ai device is still the iphone",
       "url": "techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone"
+    },
+    "rss:https://techcrunch.com/?p=3162124": {
+      "at": "2026-09-09T22:35:04.331639+00:00",
+      "title": "apple s revamped health app will calculate your health age and readiness score",
+      "url": "techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score"
+    },
+    "rss:https://techcrunch.com/?p=3162127": {
+      "at": "2026-09-09T22:35:04.331654+00:00",
+      "title": "apple has a new way to prove your iphone photos aren t ai slop",
+      "url": "techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop"
+    },
+    "rss:https://techcrunch.com/?p=3162168": {
+      "at": "2026-09-09T22:35:04.331620+00:00",
+      "title": "the hinge for apple s new foldable phone was built with ai",
+      "url": "techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai"
+    },
+    "rss:https://techcrunch.com/?p=3162193": {
+      "at": "2026-09-09T22:35:04.331590+00:00",
+      "title": "apple watch s new ai features are normalizing the idea that technology is always listening",
+      "url": "techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening"
+    },
+    "rss:https://techcrunch.com/?p=3162222": {
+      "at": "2026-09-09T22:35:04.331605+00:00",
+      "title": "everything apple announced at its fall iphone event from the foldable iphone duo to an always listening apple watch",
+      "url": "techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch"
+    },
+    "rss:https://techcrunch.com/?p=3162350": {
+      "at": "2026-09-09T22:35:04.331555+00:00",
+      "title": "openai adds a prominent ai doomer to its board of directors",
+      "url": "techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4830,6 +4885,16 @@
       "title": "qwen3 8 flash next on mlx serve 1m context is released",
       "url": "reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wb9prm": {
+      "at": "2026-09-09T22:35:04.331540+00:00",
+      "title": "us accuses chinese ai firms of malicious copying of ai technology",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbagpr": {
+      "at": "2026-09-09T22:35:04.331681+00:00",
+      "title": "what openbmb 1b version is this",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbagpr/what_openbmb_1b_version_is_this"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbejtp": {
       "at": "2026-09-09T17:52:30.546491+00:00",
       "title": "mimo x pro preview and mimo x flash preview new mimo model found in mimo desktop preview announcement",
@@ -4844,6 +4909,11 @@
       "at": "2026-09-09T17:52:30.546525+00:00",
       "title": "deepseek has soft retired deepseek v4 pro",
       "url": "reddit.com/r/LocalLLaMA/comments/1wbfrut/deepseek_has_soft_retired_deepseek_v4_pro"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbi5u1": {
+      "at": "2026-09-09T22:35:04.331518+00:00",
+      "title": "deepseek v4 flash vision exp 285b moe on 10 12x rtx 3090 spec decoding vision",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbi5u1/deepseekv4flashvisionexp_285b_moe_on_1012x_rtx"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbir6v": {
       "at": "2026-09-09T17:52:30.546511+00:00",
@@ -4860,15 +4930,35 @@
       "title": "why the hell is lm studio making lm studio so difficult to download",
       "url": "reddit.com/r/LocalLLaMA/comments/1wble79/why_the_hell_is_lm_studio_making_lm_studio_so"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbm50k": {
+      "at": "2026-09-09T22:35:04.331497+00:00",
+      "title": "1 bit 27b in the browser 25 30 tok s on a 6 gb rtx 3060 laptop webgpu no install",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbm50k/1bit_27b_in_the_browser_2530_toks_on_a_6_gb_rtx"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbmo0k": {
       "at": "2026-09-09T17:52:30.546429+00:00",
       "title": "qwen3 8 27b uncensored genesis v1 gguf",
       "url": "reddit.com/r/LocalLLaMA/comments/1wbmo0k/qwen3827buncensoredgenesisv1gguf"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbmz1y": {
+      "at": "2026-09-09T22:35:04.331482+00:00",
+      "title": "sota imagegen locally nvidia cosmos3 64b int4 quants cuda mlx",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbmz1y/sota_imagegen_locally_nvidia_cosmos364b_int4"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbpf6i": {
       "at": "2026-09-09T17:52:30.546518+00:00",
       "title": "mention if a new model is a finetune",
       "url": "reddit.com/r/LocalLLaMA/comments/1wbpf6i/mention_if_a_new_model_is_a_finetune"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbufx5": {
+      "at": "2026-09-09T22:35:04.331667+00:00",
+      "title": "don t let fomo win if you re interested in local llm from a hobby learning aspect",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbufx5/dont_let_fomo_win_if_youre_interested_in_local"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wby2cm": {
+      "at": "2026-09-09T22:35:04.331579+00:00",
+      "title": "surveillance plagiarism by openai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wby2cm/surveillance_plagiarism_by_openai"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5151,6 +5241,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-09T17:52:30.546558+00:00",
+  "updated_at": "2026-09-09T22:35:04.331726+00:00",
   "version": 2
 }

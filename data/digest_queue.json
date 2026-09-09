@@ -1,5 +1,182 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-09T17:52:27.165253+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "title": "GPT-6 Astra: The next generation in intelligence for work",
+        "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "author": null,
+        "published_at": "2026-09-09T11:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "차세대 업무용 AI 모델 GPT-6 Astra 공개",
+        "summary_ko": [
+          "OpenAI가 기업 업무에 특화된 차세대 AI 모델 GPT-6 Astra를 발표했습니다.",
+          "이 모델은 고도화된 추론 능력과 컴퓨터 직접 제어 기능을 제공합니다.",
+          "향상된 작문 및 디자인 판단력을 바탕으로 비즈니스 생산성을 크게 높여줍니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122311",
+        "title": "When to Use Encode-Prefill-Decode Disaggregation to Accelerate Multimodal Model Serving",
+        "url": "https://developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-09-09T20:31:04+00:00"
+      },
+      "insight": {
+        "title_ko": "멀티모달 모델 서빙을 위한 EPD 분리 기법",
+        "summary_ko": [
+          "Encode-prefill-decode 분리는 비전 인코더를 분리하여 멀티모달 모델의 추론을 최적화하는 기술입니다.",
+          "이미지가 많은 프롬프트와 양자화된 MoE 모델에서 처리 성능을 높이는 데 가장 효과적입니다.",
+          "NVIDIA Dynamo를 활용해 최대 5배의 성능 향상을 달성하는 방법을 다룹니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=121255",
+        "title": "CUDA Toolkit 13.4 Adds Windows on Arm Support and Greater Control over Shared GPUs",
+        "url": "https://developer.nvidia.com/blog/cuda-toolkit-13-4-adds-windows-on-arm-support-and-greater-control-over-shared-gpus/",
+        "author": "Jonathan Bentz",
+        "published_at": "2026-09-09T20:24:12+00:00"
+      },
+      "insight": {
+        "title_ko": "CUDA Toolkit 13.4 Windows on Arm 지원 추가",
+        "summary_ko": [
+          "NVIDIA는 CUDA Toolkit 13.4를 통해 Windows on Arm 플랫폼에 대한 지원을 새롭게 추가했다.",
+          "기존 Linux 기반의 Arm 플랫폼 지원을 Windows 환경까지 확장하여 개발자들의 활용도를 높였다.",
+          "이번 업데이트는 개발자들이 다양한 하드웨어 환경에서 NVIDIA GPU 성능을 더 효과적으로 활용하도록 돕는다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+        "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
+        "url": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-09-09T20:06:28+00:00"
+      },
+      "insight": {
+        "title_ko": "미국, 중국 AI 기업 6곳을 모델 모방 혐의로 지목",
+        "summary_ko": [
+          "미국 정보기관들이 딥식 등 중국 AI 기업 6곳이 미국 프론티어 모델을 대규모로 모방했다고 공동 발표했습니다.",
+          "해당 기업들은 클로드와 GPT 등의 모델을 무단 추출하여 막대한 개발 비용과 시간을 절감한 혐의를 받고 있습니다.",
+          "이번 조치는 중국 정부의 인지 하에 미국 AI 기술력을 탈취하려는 산업적 공격에 대응하기 위해 이루어졌습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wbmz1y",
+        "title": "SOTA ImageGen Locally NVIDIA Cosmos3(64B) INT4 quants CUDA/MLX",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbmz1y/sota_imagegen_locally_nvidia_cosmos364b_int4/",
+        "author": "/u/Formal-Swordfish-228",
+        "published_at": "2026-09-09T14:21:16+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Cosmos3 64B INT4 양자화 모델 공개",
+        "summary_ko": [
+          "NVIDIA의 SOTA급 ImageGen 모델인 Cosmos3 64B의 INT4 양자화 버전 가중치와 코드가 공개되었습니다.",
+          "CUDA 및 Apple Silicon의 MLX 환경을 지원하여 로컬에서 효율적으로 구동할 수 있습니다.",
+          "M4 Max 128GB Mac 환경에서 단일 클립 생성에 약 5분이 소요되는 실무 활용도가 높은 업데이트입니다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wbm50k",
+        "title": "1-bit 27B in the browser: 25–30 tok/s on a 6 GB RTX 3060 Laptop (WebGPU, no install)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbm50k/1bit_27b_in_the_browser_2530_toks_on_a_6_gb_rtx/",
+        "author": "/u/mentria-ai",
+        "published_at": "2026-09-09T13:49:13+00:00"
+      },
+      "insight": {
+        "title_ko": "브라우저 기반 1-bit 27B 모델",
+        "summary_ko": [
+          "개발자가 웹 브라우저에서 별도의 설치 없이 구동되는 WebGPU 기반의 1-bit 추론 엔진 mentria.ai를 개발했다.",
+          "Bonsai-27B 모델을 적용하여 6GB VRAM의 RTX 3060 노트북에서 초당 25~30 토큰의 속도를 달성했다.",
+          "메모리 뱅크 충돌 해결과 커널 최적화를 통해 제한된 하드웨어 환경에서도 효율적인 로컬 AI 구동이 가능해졌다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wbi5u1",
+        "title": "DeepSeek-V4-Flash-Vision-Exp (285B MoE) on 10-12x RTX 3090 — spec decoding, vision",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wbi5u1/deepseekv4flashvisionexp_285b_moe_on_1012x_rtx/",
+        "author": "/u/ciprianveg",
+        "published_at": "2026-09-09T10:50:10+00:00"
+      },
+      "insight": {
+        "title_ko": "소비자용 GPU로 구동하는 DeepSeek-V4-Flash-Vision-Exp",
+        "summary_ko": [
+          "사용자가 10-12개의 RTX 3090 GPU 환경에서 DeepSeek-V4-Flash-Vision-Exp 모델을 구동하는 데 성공했습니다.",
+          "이 세팅은 FP4 전문가 가중치와 FP8 어텐션을 적용하여 60에서 120 토큰 이상의 디코딩 속도를 달성합니다.",
+          "비전 기능과 스펙큘러 디코딩, 도구 호출 등이 모두 작동하며 최대 4M 컨텍스트를 지원합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wb9prm",
+        "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wb9prm/us_accuses_chinese_ai_firms_of_malicious_copying/",
+        "author": "/u/External_Mood4719",
+        "published_at": "2026-09-09T03:06:39+00:00"
+      },
+      "insight": {
+        "title_ko": "미국, 중국 AI 기업의 기술 도용 비난",
+        "summary_ko": [
+          "미국 정부가 중국의 주요 AI 기업들이 미국 AI 기술을 악의적으로 복제했다고 비난했습니다.",
+          "이번 사안은 딥식(DeepSeek)과 알리바바(Alibaba) 등 중국 개발사들의 대규모 기술 절도 혐의와 연관되어 있습니다.",
+          "미·중 간 AI 기술 패권 경쟁 속에서 지식재산권과 보안 문제가 더욱 강화될 전망입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
