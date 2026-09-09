@@ -2861,6 +2861,116 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+        "title": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+        "author": null,
+        "published_at": "2026-09-08T23:55:12+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 나비에-스토크스 방정식 해결",
+        "summary_ko": [
+          "OpenAI는 미출시 모델을 활용해 밀레니엄 난제 중 하나인 나비에-스토크스 방정식 존재성과 매끄러움 문제를 해결했다고 밝혔습니다.",
+          "뉴욕대 교수 트리스탄 벅마스터와 앤트로픽 소속 레벤트 알포게가 선행 연구를 진행한 가운데, 연구 윤리와 정보 유출 의혹을 두고 논란이 제기되었습니다.",
+          "OpenAI 에이전트는 약 88시간 동안 수백억 개의 토큰을 소모하며 문제를 해결하고 Lean을 통해 검증을 마쳤습니다."
+        ],
+        "category": "Research",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+        "title": "Quoting Terence Tao",
+        "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+        "author": null,
+        "published_at": "2026-09-09T00:20:17+00:00"
+      },
+      "insight": {
+        "title_ko": "AI가 오픈 과학 전통에 미치는 영향",
+        "summary_ko": [
+          "Terence Tao는 유망한 연구 문제들이 AI에 의해 비가역적으로 고갈될 위험이 있다고 경고했습니다.",
+          "연구 진행에 대한 소문만으로도 AI 기반의 막대한 자원이 투입되어 원래 연구의 가치가 훼손될 수 있습니다.",
+          "이로 인해 연구자들이 유망한 방향을 공유하지 않게 되어 수 세대 동안 이어온 오픈 과학 전통이 위협받고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+        "title": "Introducing ChatGPT Images 2.5",
+        "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+        "author": null,
+        "published_at": "2026-09-08T22:46:33+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, ChatGPT Images 2.5 공개",
+        "summary_ko": [
+          "OpenAI는 멀티턴 지시어 이행력과 참조 사진의 피사체 유지력이 향상된 ChatGPT Images 2.5를 새롭게 출시했습니다.",
+          "API에는 편집 정밀도가 높은 sunburst와 고속 생성을 위한 flare 등 두 가지 새로운 모델 ID가 추가되었습니다.",
+          "개발자 Simon Willison은 자사의 CLI 도구를 업데이트하여 새로운 이미지 생성 모델과 참조 이미지 입력 기능을 연동했습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49616968",
+        "title": "Tao: Open math problems being non-renewably mined by AI",
+        "url": "https://mathstodon.xyz/@tao/117237320796901560",
+        "author": "_alternator_",
+        "published_at": "2026-09-08T21:00:52+00:00"
+      },
+      "insight": {
+        "title_ko": "AI에 의한 수학 미해결 문제 고갈 우려",
+        "summary_ko": [
+          "Terence Tao는 AI가 공개된 수학 문제를 고갈시키고 있다고 지적했습니다.",
+          "이 현상은 AI 학습에 활용되는 고품질 수학 문제 데이터의 한계를 보여줍니다.",
+          "수학 분야에서 AI 모델의 성능 평가와 데이터 수집 방식에 중대한 영향을 미칩니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1waydqj",
+        "title": "Qwen3.8-Flash-Next in llama.cpp vs SGLang vs FreeToken: 35s vs 258s to first token at full context. My findings on new PRs coming to engines.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waydqj/qwen38flashnext_in_llamacpp_vs_sglang_vs/",
+        "author": "/u/FantasticNature7590",
+        "published_at": "2026-09-08T19:26:41+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-Flash-Next 추론 엔진별 성능 비교",
+        "summary_ko": [
+          "동일한 워크스테이션 환경에서 Qwen3.8-Flash-Next 모델을 llama.cpp, SGLang, FreeToken 엔진으로 구동하여 성능을 비교했습니다.",
+          "262K 전체 컨텍스트 윈도우에서 첫 토큰 생성 시간(TTFT)은 SGLang이 35.4초로 가장 빨랐고 llama.cpp 베이스라인은 258.4초가 소요되었습니다.",
+          "반면 시작 응답 속도는 llama.cpp가 더 빨랐으며 양자화, KV 캐시 형식, 추론 기법에 따라 엔진별 성능 차이가 발생했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

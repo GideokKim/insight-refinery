@@ -971,6 +971,11 @@
       "title": "muse meta s personal ai agent features and capabilities",
       "url": "ai.meta.com/muse"
     },
+    "rss:https://news.ycombinator.com/item?id=49616968": {
+      "at": "2026-09-09T00:48:36.624026+00:00",
+      "title": "tao open math problems being non renewably mined by ai",
+      "url": "mathstodon.xyz/@tao/117237320796901560"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1601,6 +1606,21 @@
       "at": "2026-09-07T22:23:57.634936+00:00",
       "title": "video compressor",
       "url": "simonwillison.net/2026/Sep/7/video-compressor"
+    },
+    "rss:https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/": {
+      "at": "2026-09-09T00:48:36.624013+00:00",
+      "title": "introducing chatgpt images 2 5",
+      "url": "simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25"
+    },
+    "rss:https://simonwillison.net/2026/Sep/8/on-navier-stokes/": {
+      "at": "2026-09-09T00:48:36.623956+00:00",
+      "title": "on the navier stokes millennium prize problem",
+      "url": "simonwillison.net/2026/Sep/8/on-navier-stokes"
+    },
+    "rss:https://simonwillison.net/2026/Sep/9/terence-tao/": {
+      "at": "2026-09-09T00:48:36.623998+00:00",
+      "title": "quoting terence tao",
+      "url": "simonwillison.net/2026/Sep/9/terence-tao"
     },
     "rss:https://techcrunch.com/?p=2973217": {
       "at": "2026-09-07T22:23:57.634943+00:00",
@@ -4640,6 +4660,11 @@
       "title": "i made a custom llama cpp build optimized for 7900xtx one or two for qwen 3 8 next and 27b includes optimizations for pcie x4 and tensor parallel read inside no ai slop",
       "url": "reddit.com/r/LocalLLaMA/comments/1waif2b/i_made_a_custom_llamacpp_build_optimized_for"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waj4k4": {
+      "at": "2026-09-09T00:48:36.624076+00:00",
+      "title": "what are some practical tasks i can assign to my local ai models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1waj4k4/what_are_some_practical_tasks_i_can_assign_to_my"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wake1h": {
       "at": "2026-09-08T17:40:11.523146+00:00",
       "title": "which local model is actually good at knowing when to stop and ask you a question",
@@ -4680,10 +4705,20 @@
       "title": "nex agi nex n2 5 mini 35b",
       "url": "reddit.com/r/LocalLLaMA/comments/1wat4ay/nexaginexn25mini_35b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wau1zt": {
+      "at": "2026-09-09T00:48:36.624060+00:00",
+      "title": "are there any small 10b models that you would say are a good collaborator",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wau1zt/are_there_any_small_10b_models_that_you_would_say"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wauxg9": {
       "at": "2026-09-08T22:07:38.642438+00:00",
       "title": "qwen qwen drive 1 0 4b hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waydqj": {
+      "at": "2026-09-09T00:48:36.624040+00:00",
+      "title": "qwen3 8 flash next in llama cpp vs sglang vs freetoken 35s vs 258s to first token at full context my findings on new prs coming to engines",
+      "url": "reddit.com/r/LocalLLaMA/comments/1waydqj/qwen38flashnext_in_llamacpp_vs_sglang_vs"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1waz5a0": {
       "at": "2026-09-08T22:07:38.642483+00:00",
@@ -4966,6 +5001,6 @@
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
     }
   },
-  "updated_at": "2026-09-08T22:07:38.642583+00:00",
+  "updated_at": "2026-09-09T00:48:36.624126+00:00",
   "version": 2
 }
