@@ -2451,6 +2451,11 @@
       "title": "ainews claude fable mythos 5 1 new sota model 75 cache price cut but 70 more output tokens",
       "url": "latent.space/p/ainews-claude-fablemythos-51-new"
     },
+    "rss:https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed": {
+      "at": "2026-09-09T06:50:19.410709+00:00",
+      "title": "ainews collusion wiki a second undisclosed openai agent swarm incident",
+      "url": "latent.space/p/ainews-collusionwiki-a-second-undisclosed"
+    },
     "rss:https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie": {
       "at": "2026-08-24T11:19:10.800745+00:00",
       "title": "ainews death of params z ai ceo jie tang on glm 5 3 and the new post training scaling law",
@@ -2485,6 +2490,11 @@
       "at": "2026-08-27T04:07:33.744780+00:00",
       "title": "ainews nvidia buys huggingface for 13b as openai publishes their hf incident retro",
       "url": "latent.space/p/ainews-nvidia-buys-huggingface-for"
+    },
+    "rss:https://www.latent.space/p/ainews-openai-reports-navier-stokes": {
+      "at": "2026-09-09T06:50:19.410752+00:00",
+      "title": "ainews openai reports navier stokes singularity find in 88 hours using astra next roughly 10 000 agents and 130b tokens 40m a contender for second ever millennium prize awarded",
+      "url": "latent.space/p/ainews-openai-reports-navier-stokes"
     },
     "rss:https://www.latent.space/p/ainews-openai-shuts-off-cursor": {
       "at": "2026-08-29T08:23:49.748160+00:00",
@@ -4725,6 +4735,16 @@
       "title": "qwen 3 8 27b with pi agent pushed to its 3d graphic game limits",
       "url": "reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wazzes": {
+      "at": "2026-09-09T06:50:19.410813+00:00",
+      "title": "on the value of human ideas what data poisoning research reveals about autonomous ai breakthroughs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wazzes/on_the_value_of_human_ideas_what_data_poisoning"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wb7p70": {
+      "at": "2026-09-09T06:50:19.410799+00:00",
+      "title": "qwen3 8 flash next on mlx serve 1m context is released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wb7p70/qwen38flashnext_on_mlxserve_1m_context_is_released"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -4999,8 +5019,13 @@
       "at": "2026-09-04T12:24:50.001719+00:00",
       "title": "data from drones in ukraine is fueling a new wild west marketplace",
       "url": "technologyreview.com/2026/09/04/1143452/drone-data-wild-west"
+    },
+    "rss:https://www.technologyreview.com/?p=1143747": {
+      "at": "2026-09-09T06:50:19.410778+00:00",
+      "title": "what openai s latest controversy tells us about the future of math",
+      "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-09T00:48:36.624126+00:00",
+  "updated_at": "2026-09-09T06:50:19.410860+00:00",
   "version": 2
 }
