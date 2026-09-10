@@ -215,6 +215,11 @@
       "title": "man told chatgpt he was feeling delusional chatgpt insisted he was jesus",
       "url": "arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
+      "at": "2026-09-10T22:36:21.831782+00:00",
+      "title": "panic builds over bankrupt spirit s looming data sale to google",
+      "url": "arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/": {
       "at": "2026-09-08T22:07:38.642408+00:00",
       "title": "this is the ai men actually use meta ads pushed apps nudifying real teens",
@@ -1169,6 +1174,11 @@
       "title": "introducing ai futures",
       "url": "openai.com/index/introducing-ai-futures"
     },
+    "rss:https://openai.com/index/introducing-chatgpt-financial-services": {
+      "at": "2026-09-10T22:36:21.831752+00:00",
+      "title": "introducing chatgpt for financial services",
+      "url": "openai.com/index/introducing-chatgpt-financial-services"
+    },
     "rss:https://openai.com/index/introducing-chatgpt-images-2-5": {
       "at": "2026-09-08T22:07:38.642519+00:00",
       "title": "introducing chatgpt images 2 5",
@@ -1178,6 +1188,11 @@
       "at": "2026-09-10T17:44:00.126795+00:00",
       "title": "build more natural voice experiences with gpt live 1 in the api",
       "url": "openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
+    "rss:https://openai.com/index/introducing-the-agents-api": {
+      "at": "2026-09-10T22:36:21.831651+00:00",
+      "title": "introducing the agents api",
+      "url": "openai.com/index/introducing-the-agents-api"
     },
     "rss:https://openai.com/index/jalapeno-first-results": {
       "at": "2026-08-25T17:21:53.012020+00:00",
@@ -1621,6 +1636,11 @@
       "at": "2026-09-10T01:04:47.895708+00:00",
       "title": "quoting calif research",
       "url": "simonwillison.net/2026/Sep/10/calif-research"
+    },
+    "rss:https://simonwillison.net/2026/Sep/10/shopify-react-native/": {
+      "at": "2026-09-10T22:36:21.831687+00:00",
+      "title": "native is now the future of mobile at shopify",
+      "url": "simonwillison.net/2026/Sep/10/shopify-react-native"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -2601,10 +2621,45 @@
       "title": "ai research startup listen labs scrubbed a 1 5b funding round for salesforce talks",
       "url": "techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
     },
+    "rss:https://techcrunch.com/?p=3162605": {
+      "at": "2026-09-10T22:36:21.831832+00:00",
+      "title": "india s pocket fm doubles revenue run rate to 500m as ai powers 93 of audio content",
+      "url": "techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content"
+    },
     "rss:https://techcrunch.com/?p=3162667": {
       "at": "2026-09-10T17:44:00.126821+00:00",
       "title": "ai agents are flooding public services with new requests",
       "url": "techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests"
+    },
+    "rss:https://techcrunch.com/?p=3162704": {
+      "at": "2026-09-10T22:36:21.831887+00:00",
+      "title": "mark wahlberg is coming to techcrunch disrupt 2026 and he wants to talk about your work not his",
+      "url": "techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3162739": {
+      "at": "2026-09-10T22:36:21.831802+00:00",
+      "title": "anthropic reveals rogue ai agents hate captchas just like you",
+      "url": "techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you"
+    },
+    "rss:https://techcrunch.com/?p=3162873": {
+      "at": "2026-09-10T22:36:21.831764+00:00",
+      "title": "jensen huang explains why nvidia will grow an astounding 70 next year",
+      "url": "techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year"
+    },
+    "rss:https://techcrunch.com/?p=3162897": {
+      "at": "2026-09-10T22:36:21.831872+00:00",
+      "title": "meta s ai agent muse is now the no 2 app in the us",
+      "url": "techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us"
+    },
+    "rss:https://techcrunch.com/?p=3162919": {
+      "at": "2026-09-10T22:36:21.831720+00:00",
+      "title": "anthropic details distillation campaigns from alibaba moonshot ai and deepseek",
+      "url": "techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
+    },
+    "rss:https://techcrunch.com/?p=3162967": {
+      "at": "2026-09-10T22:36:21.831705+00:00",
+      "title": "openai puts pro subscriptions on hold due to astra demand",
+      "url": "techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5100,6 +5155,26 @@
       "title": "another researcher accuses openai of training on conversations and then claiming a breakthrough",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcpppm": {
+      "at": "2026-09-10T22:36:21.831849+00:00",
+      "title": "cybertiel 35b a3b s uncensored 4 bit quant beats opus 4 6 medium cleanly on real codebase issues in 27 of the time qwen3 8 27b medium takes",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcpppm/cybertiel_35ba3bs_uncensored_4bit_quant_beats"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcqa03": {
+      "at": "2026-09-10T22:36:21.831818+00:00",
+      "title": "oui 1 a model that generates bespoke ui elements",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcujgg": {
+      "at": "2026-09-10T22:36:21.831735+00:00",
+      "title": "pi agent users nvidia released sol pi a pi extension based on autoresearch loops to make the harness more efficient",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcujgg/pi_agent_users_nvidia_released_solpi_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcvmuo": {
+      "at": "2026-09-10T22:36:21.831902+00:00",
+      "title": "i find it funny that a flash model is now 512gb",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcvmuo/i_find_it_funny_that_a_flash_model_is_now_512gb"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -5386,6 +5461,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-10T17:44:00.126910+00:00",
+  "updated_at": "2026-09-10T22:36:21.831948+00:00",
   "version": 2
 }

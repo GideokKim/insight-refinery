@@ -243,6 +243,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/introducing-the-agents-api",
+        "title": "Introducing the Agents API",
+        "url": "https://openai.com/index/introducing-the-agents-api",
+        "author": null,
+        "published_at": "2026-09-10T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, Agents API 출시",
+        "summary_ko": [
+          "OpenAI는 클라우드 에이전트의 빌드와 배포를 지원하는 Agents API를 새롭게 출시했습니다.",
+          "이 서비스는 오케스트레이션과 장기 세션, 그리고 도구 사용을 위한 Codex 하네스 기반으로 구동됩니다.",
+          "개발자는 이를 통해 효율적인 클라우드 기반 AI 에이전트 시스템을 구축하고 관리할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+        "title": "Native is now the future of mobile at Shopify",
+        "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+        "author": null,
+        "published_at": "2026-09-10T21:11:15+00:00"
+      },
+      "insight": {
+        "title_ko": "Shopify의 네이티브 모바일 전환과 AI 코딩 에이전트",
+        "summary_ko": [
+          "Shopify는 React Native에서 다시 Swift와 Kotlin 기반의 별도 네이티브 코드베이스로 모바일 개발 방식을 전환합니다.",
+          "과거에는 중복 개발 방지와 효율성을 위해 React Native를 채택했으나, AI 코딩 에이전트의 발전으로 상황이 변화했습니다.",
+          "코딩 에이전트가 구현, 번역, 테스트 등을 보조할 수 있게 되면서 플랫폼별 개발 비용이라는 기존의 제약이 줄어들었습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3162967",
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "author": "Sarah Perez",
+        "published_at": "2026-09-10T20:59:51+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, Astra 수요 폭증으로 Pro 구독 일시 중단",
+        "summary_ko": [
+          "OpenAI는 Astra에 대한 폭발적인 수요로 인해 Pro 구독 신규 가입을 일시적으로 중단했습니다.",
+          "Pro 구독 서비스가 시스템에 가장 큰 부하를 주고 있어 가입을 멈추고 서버 용량을 확충하고 있습니다.",
+          "이번 조치는 시스템 안정성을 확보하고 향후 더 많은 사용자에게 원활한 서비스를 제공하기 위한 것입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3162919",
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "author": "Russell Brandom",
+        "published_at": "2026-09-10T20:57:30+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, 중국 AI 기업의 모델 증류 공격 공개",
+        "summary_ko": [
+          "Anthropic은 목요일 발표한 보고서를 통해 중국 AI 기업들이 지속적인 모델 증류 공격을 감행하고 있다고 주장했습니다.",
+          "이번 공격은 최근 AI 분야의 경쟁이 격화되면서 수개월 동안 더욱 심화된 양상을 보이고 있습니다.",
+          "이러한 보안 위협은 주요 AI 모델들의 지식 재산권 보호와 관련하여 실무적으로 중요한 시사점을 제공합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wcujgg",
+        "title": "Pi Agent Users - Nvidia Released Sol-Pi - A Pi-Extension based on AutoResearch loops to make the Harness more efficient",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcujgg/pi_agent_users_nvidia_released_solpi_a/",
+        "author": "/u/Thrumpwart",
+        "published_at": "2026-09-10T20:17:05+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia, Pi 에이전트 효율성 개선 확장 기능 Sol-Pi 공개",
+        "summary_ko": [
+          "Nvidia는 에이전트 하네스의 효율성을 높이기 위해 자동 연구 루프 기반의 Pi 확장 기능인 Sol-Pi를 출시했습니다.",
+          "Sol-Pi는 도구 호출 통합, 관찰 결과 압축, 증거 보존형 축소, 온라인 문맥 압축 등 네 가지 효율화 메커니즘을 제공합니다.",
+          "모든 기능은 기본적으로 비활성화되어 있으며 원본 Pi 소스 수정 없이 공개 API를 통해 선택적으로 적용할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/introducing-chatgpt-financial-services",
+        "title": "Introducing ChatGPT for Financial Services",
+        "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+        "author": null,
+        "published_at": "2026-09-10T07:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "금융 서비스용 ChatGPT 출시",
+        "summary_ko": [
+          "OpenAI가 금융 서비스 분야에 특화된 새로운 ChatGPT를 공식 출시했습니다.",
+          "내장된 금융 데이터와 GPT-6 Astra를 결합하여 연구, 모델링, 고객용 자료 작성을 지원합니다.",
+          "금융 산업 실무자들이 AI를 활용해 복잡한 분석 업무를 효율적으로 처리할 수 있게 됩니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
