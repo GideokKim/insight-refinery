@@ -445,6 +445,16 @@
       "title": "when to use encode prefill decode disaggregation to accelerate multimodal model serving",
       "url": "developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122343": {
+      "at": "2026-09-10T17:44:00.126771+00:00",
+      "title": "high throughput structure prediction with bionemo inference runtime",
+      "url": "developer.nvidia.com/blog/high-throughput-structure-prediction-with-bionemo-inference-runtime"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122372": {
+      "at": "2026-09-10T17:44:00.126703+00:00",
+      "title": "how full stack nim optimizations deliver 2 5x more users on nemotron 3 ultra",
+      "url": "developer.nvidia.com/blog/how-full-stack-nim-optimizations-deliver-2-5x-more-users-on-nemotron-3-ultra"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122401": {
       "at": "2026-09-10T12:57:12.319564+00:00",
       "title": "from wafer out to first token codifying supply chain expertise with nemotron and palantir foundry",
@@ -1109,6 +1119,11 @@
       "title": "a milestone in expanding access to ai",
       "url": "openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
     },
+    "rss:https://openai.com/index/expanding-ai-access-us-government": {
+      "at": "2026-09-10T17:44:00.126845+00:00",
+      "title": "expanding ai access and cyber defense for federal state local and tribal governments",
+      "url": "openai.com/index/expanding-ai-access-us-government"
+    },
     "rss:https://openai.com/index/expanding-our-presence-in-brazil": {
       "at": "2026-08-27T12:49:39.361064+00:00",
       "title": "expanding openai s presence in brazil",
@@ -1158,6 +1173,11 @@
       "at": "2026-09-08T22:07:38.642519+00:00",
       "title": "introducing chatgpt images 2 5",
       "url": "openai.com/index/introducing-chatgpt-images-2-5"
+    },
+    "rss:https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+      "at": "2026-09-10T17:44:00.126795+00:00",
+      "title": "build more natural voice experiences with gpt live 1 in the api",
+      "url": "openai.com/index/introducing-gpt-live-1-in-the-api"
     },
     "rss:https://openai.com/index/jalapeno-first-results": {
       "at": "2026-08-25T17:21:53.012020+00:00",
@@ -1244,6 +1264,11 @@
       "title": "previewing ultrafast mode gpt 5 6 sol at up to 14x the speed",
       "url": "openai.com/index/previewing-ultrafast"
     },
+    "rss:https://openai.com/index/put-data-to-work": {
+      "at": "2026-09-10T17:44:00.126760+00:00",
+      "title": "now everyone can put data to work",
+      "url": "openai.com/index/put-data-to-work"
+    },
     "rss:https://openai.com/index/replit": {
       "at": "2026-08-19T14:23:12.191177+00:00",
       "title": "replit expands access to software creation with gpt 5 6 luna",
@@ -1306,6 +1331,11 @@
       "at": "2026-09-08T17:40:11.523137+00:00",
       "title": "the work now within reach",
       "url": "openai.com/index/the-work-now-within-reach"
+    },
+    "rss:https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
+      "at": "2026-09-10T17:44:00.126743+00:00",
+      "title": "how a researcher uses codex and chatgpt to search for new antimicrobial molecules",
+      "url": "openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
     },
     "rss:https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
       "at": "2026-08-28T01:13:09.165373+00:00",
@@ -2531,6 +2561,11 @@
       "title": "apple ceo john ternus says the best ai device is still the iphone",
       "url": "techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone"
     },
+    "rss:https://techcrunch.com/?p=3162108": {
+      "at": "2026-09-10T17:44:00.126835+00:00",
+      "title": "maven robotics wants to steal your robot deployment deal",
+      "url": "techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal"
+    },
     "rss:https://techcrunch.com/?p=3162124": {
       "at": "2026-09-09T22:35:04.331639+00:00",
       "title": "apple s revamped health app will calculate your health age and readiness score",
@@ -2565,6 +2600,11 @@
       "at": "2026-09-10T01:04:47.895784+00:00",
       "title": "ai research startup listen labs scrubbed a 1 5b funding round for salesforce talks",
       "url": "techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
+    },
+    "rss:https://techcrunch.com/?p=3162667": {
+      "at": "2026-09-10T17:44:00.126821+00:00",
+      "title": "ai agents are flooding public services with new requests",
+      "url": "techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5040,6 +5080,26 @@
       "title": "deepseek v4 1 flash surprised",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcdati/deepseekv41flash_surprised"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcgdz8": {
+      "at": "2026-09-10T17:44:00.126866+00:00",
+      "title": "deepseek v4 1 flash release video made with deepseek v4 1 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcgdz8/deepseek_v41_flash_release_video_made_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wchl1x": {
+      "at": "2026-09-10T17:44:00.126784+00:00",
+      "title": "gigachat 3 5 reasoning",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wchl1x/gigachat35reasoning"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcj5q3": {
+      "at": "2026-09-10T17:44:00.126876+00:00",
+      "title": "harness does matter",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcj5q3/harness_does_matter"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcmgbn": {
+      "at": "2026-09-10T17:44:00.126856+00:00",
+      "title": "another researcher accuses openai of training on conversations and then claiming a breakthrough",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -5326,6 +5386,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-10T12:57:12.319690+00:00",
+  "updated_at": "2026-09-10T17:44:00.126910+00:00",
   "version": 2
 }
