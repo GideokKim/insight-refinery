@@ -445,6 +445,11 @@
       "title": "when to use encode prefill decode disaggregation to accelerate multimodal model serving",
       "url": "developer.nvidia.com/blog/when-to-use-encode-prefill-decode-disaggregation-to-accelerate-multimodal-model-serving"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122401": {
+      "at": "2026-09-10T12:57:12.319564+00:00",
+      "title": "from wafer out to first token codifying supply chain expertise with nemotron and palantir foundry",
+      "url": "developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -519,6 +524,11 @@
       "at": "2026-09-03T12:20:09.600188+00:00",
       "title": "give your coding agents a memory you own",
       "url": "huggingface.co/blog/funes"
+    },
+    "rss:https://huggingface.co/blog/gradio-workflow-1111": {
+      "at": "2026-09-10T12:57:12.319630+00:00",
+      "title": "rebuilding automatic1111 with gradio workflow",
+      "url": "huggingface.co/blog/gradio-workflow-1111"
     },
     "rss:https://huggingface.co/blog/gradio-workflow-guide": {
       "at": "2026-08-25T05:22:15.372937+00:00",
@@ -5010,6 +5020,26 @@
       "title": "deepseek v4 1 flash stronger faster more accessible",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcbid7": {
+      "at": "2026-09-10T12:57:12.319586+00:00",
+      "title": "deepseek v4 1 flash is out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcbt99": {
+      "at": "2026-09-10T12:57:12.319616+00:00",
+      "title": "closed ai doesn t like biological research user turns to open weight models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcbt99/closed_ai_doesnt_like_biological_research_user"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcd4rx": {
+      "at": "2026-09-10T12:57:12.319601+00:00",
+      "title": "deepseek v4 1 flash is 748b not 552b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcd4rx/deepseek_v41_flash_is_748b_not_552b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcdati": {
+      "at": "2026-09-10T12:57:12.319643+00:00",
+      "title": "deepseek v4 1 flash surprised",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcdati/deepseekv41flash_surprised"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -5210,6 +5240,11 @@
       "title": "architecting memory and storage in the ai era",
       "url": "technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era"
     },
+    "rss:https://www.technologyreview.com/?p=1141649": {
+      "at": "2026-09-10T12:57:12.319525+00:00",
+      "title": "powering ai is an architecture problem",
+      "url": "technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem"
+    },
     "rss:https://www.technologyreview.com/?p=1141740": {
       "at": "2026-08-24T11:05:22.951681+00:00",
       "title": "kids outlearn ai and we still don t know why",
@@ -5291,6 +5326,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-10T07:18:59.902053+00:00",
+  "updated_at": "2026-09-10T12:57:12.319690+00:00",
   "version": 2
 }

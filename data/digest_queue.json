@@ -45,6 +45,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1141649",
+        "title": "Powering AI is an architecture problem",
+        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+        "author": "Ricardo De Azevedo",
+        "published_at": "2026-09-10T11:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 데이터센터 전력망 아키텍처 문제",
+        "summary_ko": [
+          "버지니아주 데이터센터 밀집 지역의 정전은 전력 공급 부족이 아니라 전력망 아키텍처의 한계에서 비롯되었습니다.",
+          "AI 데이터센터는 밀리초 단위로 전력 부하를 급격히 변동시키며 기존의 전력망과 보호 계전 체계를 불안정하게 만듭니다.",
+          "안정적인 AI 인프라 구축을 위해서는 변전소 부근의 중전압 영역으로 전력 시스템을 재설계하는 구조적 개선이 필요합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122401",
+        "title": "From Wafer-Out to First Token: Codifying Supply Chain Expertise with Nemotron and Palantir Foundry",
+        "url": "https://developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-10T09:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA와 Palantir의 공급망 전문성 통합",
+        "summary_ko": [
+          "NVIDIA는 Nemotron과 Palantir Foundry를 활용해 복잡한 공급망 전문성을 체계화하고 있습니다.",
+          "공급망의 성능은 웨이퍼 출고부터 첫 번째 토큰 생성까지의 전 과정을 통해 측정됩니다.",
+          "해당 과정은 데이터센터 조립까지의 시간과 전력 및 소프트웨어를 포함한 토큰 생성 시간으로 나뉩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wcbid7",
+        "title": "DeepSeek V4-1 Flash is out",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/",
+        "author": "/u/tiguidoio",
+        "published_at": "2026-09-10T06:54:19+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek V4-1 Flash 모델 공개",
+        "summary_ko": [
+          "DeepSeek이 새로운 멀티모달 Mixture-of-Experts 모델인 V4-1 Flash를 출시했습니다.",
+          "해당 모델은 552B 규모의 백본 파라미터를 탑재하고 최대 100만 토큰의 컨텍스트를 지원합니다.",
+          "대규모 컨텍스트 처리와 고성능 멀티모달 기능으로 실무 환경에서의 활용도가 주목받고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
