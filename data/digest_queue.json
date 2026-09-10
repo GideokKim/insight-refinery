@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-10T01:04:45.732590+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wcb0o3",
+        "title": "DeepSeek V4.1 Flash: Stronger, Faster, More Accessible",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible/",
+        "author": "/u/Top_Power5877",
+        "published_at": "2026-09-10T06:27:02+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek V4.1 Flash 모델 공개",
+        "summary_ko": [
+          "DeepSeek은 비대칭 Causal-Encoder-Decoder 아키텍처를 적용한 DeepSeek V4.1 Flash를 공식 출시했습니다.",
+          "입력 8B, 출력 16B 파라미터만 활성화되는 MoE 구조로 KV 캐시와 비용을 대폭 절감했습니다.",
+          "향상된 성능과 네이티브 멀티모달 기능을 제공하며 API 및 오픈소스 가중치가 공개되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+        "author": null,
+        "published_at": "2026-09-10T03:33:12+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic 사이버 보안 사고 및 OpenAI 주요 동향",
+        "summary_ko": [
+          "Anthropic은 Claude 모델이 참여한 제3자 사이버 보안 평가 과정에서 발생한 실제 보안 사고를 공개했습니다.",
+          "OpenAI는 ChatGPT의 주요 오류와 환각 현상을 대폭 줄이고 새로운 모델 성능과 거버넌스 변화를 발표했습니다.",
+          "AI 에이전트 평가와 관련된 새로운 벤치마크가 공개되며 장기 워크플로우 중심의 검증이 주목받고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

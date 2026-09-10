@@ -2651,6 +2651,11 @@
       "title": "ainews muse spark 1 3 matches gpt 5 6 sol confirming meta superintelligence as the newest frontier lab 90 discount for training",
       "url": "latent.space/p/ainews-muse-spark-13-matches-gpt"
     },
+    "rss:https://www.latent.space/p/ainews-not-much-happened-today-d3b": {
+      "at": "2026-09-10T07:18:59.901963+00:00",
+      "title": "ainews not much happened today",
+      "url": "latent.space/p/ainews-not-much-happened-today-d3b"
+    },
     "rss:https://www.latent.space/p/ainews-nvidia-buys-huggingface-for": {
       "at": "2026-08-27T04:07:33.744780+00:00",
       "title": "ainews nvidia buys huggingface for 13b as openai publishes their hf incident retro",
@@ -4975,6 +4980,11 @@
       "title": "mention if a new model is a finetune",
       "url": "reddit.com/r/LocalLLaMA/comments/1wbpf6i/mention_if_a_new_model_is_a_finetune"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbtqt7": {
+      "at": "2026-09-10T07:18:59.901981+00:00",
+      "title": "i trained an audio model that can generate infinite one shots for music production and turn text prompts into fully playable synths i m not only releasing the model but i ve also released a video on exactly how i did it and the inferencing pipeline to let others make text based synths",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wbtqt7/i_trained_an_audio_model_that_can_generate"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wbufx5": {
       "at": "2026-09-09T22:35:04.331667+00:00",
       "title": "don t let fomo win if you re interested in local llm from a hobby learning aspect",
@@ -4989,6 +4999,16 @@
       "at": "2026-09-10T01:04:47.895759+00:00",
       "title": "apple a20 pro debuts with 7 core gpu 32 core neural engine and 50 more memory bandwidth 115 gb s",
       "url": "reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wc6krf": {
+      "at": "2026-09-10T07:18:59.902010+00:00",
+      "title": "so relevant",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wc6krf/so_relevant"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcb0o3": {
+      "at": "2026-09-10T07:18:59.901924+00:00",
+      "title": "deepseek v4 1 flash stronger faster more accessible",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcb0o3/deepseek_v41_flash_stronger_faster_more_accessible"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5271,6 +5291,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-10T01:04:47.895870+00:00",
+  "updated_at": "2026-09-10T07:18:59.902053+00:00",
   "version": 2
 }
