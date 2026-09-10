@@ -1016,6 +1016,11 @@
       "title": "how an ai math breakthrough ignited a controversy",
       "url": "science.org/content/article/how-ai-math-breakthrough-ignited-controversy"
     },
+    "rss:https://news.ycombinator.com/item?id=49636345": {
+      "at": "2026-09-10T01:04:47.895824+00:00",
+      "title": "muse the band lost its social media handles to muse meta s new ai agent",
+      "url": "engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1025,6 +1030,11 @@
       "at": "2026-09-01T22:10:08.412033+00:00",
       "title": "how ai native companies turn workflows into operating capability",
       "url": "openai.com/index/ai-native-company-workflows"
+    },
+    "rss:https://openai.com/index/ai-policy-window": {
+      "at": "2026-09-10T01:04:47.895811+00:00",
+      "title": "the ai policy window is open we need to act",
+      "url": "openai.com/index/ai-policy-window"
     },
     "rss:https://openai.com/index/an-alien-mind": {
       "at": "2026-09-06T18:42:56.948103+00:00",
@@ -1567,6 +1577,11 @@
       "title": "quoting tarn adams",
       "url": "simonwillison.net/2026/Sep/1/tarn-adams"
     },
+    "rss:https://simonwillison.net/2026/Sep/10/calif-research/": {
+      "at": "2026-09-10T01:04:47.895708+00:00",
+      "title": "quoting calif research",
+      "url": "simonwillison.net/2026/Sep/10/calif-research"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
@@ -1666,6 +1681,11 @@
       "at": "2026-09-09T00:48:36.623956+00:00",
       "title": "on the navier stokes millennium prize problem",
       "url": "simonwillison.net/2026/Sep/8/on-navier-stokes"
+    },
+    "rss:https://simonwillison.net/2026/Sep/9/blender-viewer/": {
+      "at": "2026-09-10T01:04:47.895800+00:00",
+      "title": "blend url viewer",
+      "url": "simonwillison.net/2026/Sep/9/blender-viewer"
     },
     "rss:https://simonwillison.net/2026/Sep/9/terence-tao/": {
       "at": "2026-09-09T00:48:36.623998+00:00",
@@ -2530,6 +2550,11 @@
       "at": "2026-09-09T22:35:04.331555+00:00",
       "title": "openai adds a prominent ai doomer to its board of directors",
       "url": "techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors"
+    },
+    "rss:https://techcrunch.com/?p=3162445": {
+      "at": "2026-09-10T01:04:47.895784+00:00",
+      "title": "ai research startup listen labs scrubbed a 1 5b funding round for salesforce talks",
+      "url": "techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4960,6 +4985,11 @@
       "title": "surveillance plagiarism by openai",
       "url": "reddit.com/r/LocalLLaMA/comments/1wby2cm/surveillance_plagiarism_by_openai"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wc0ekw": {
+      "at": "2026-09-10T01:04:47.895759+00:00",
+      "title": "apple a20 pro debuts with 7 core gpu 32 core neural engine and 50 more memory bandwidth 115 gb s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wc0ekw/apple_a20_pro_debuts_with_7core_gpu_32core_neural"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -5241,6 +5271,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-09T22:35:04.331726+00:00",
+  "updated_at": "2026-09-10T01:04:47.895870+00:00",
   "version": 2
 }
