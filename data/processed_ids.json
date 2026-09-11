@@ -1046,6 +1046,11 @@
       "title": "muse the band lost its social media handles to muse meta s new ai agent",
       "url": "engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent"
     },
+    "rss:https://news.ycombinator.com/item?id=49647300": {
+      "at": "2026-09-11T07:18:32.034999+00:00",
+      "title": "detecting and countering misuse of ai september 2026",
+      "url": "anthropic.com/threat-intelligence-report-september-2026"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1651,6 +1656,11 @@
       "at": "2026-09-11T01:06:22.014333+00:00",
       "title": "any nix package live in your browser",
       "url": "simonwillison.net/2026/Sep/10/trynix"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/datasette-security/": {
+      "at": "2026-09-11T07:18:32.034930+00:00",
+      "title": "datasette 1 0a39 and 0 65 4 security releases",
+      "url": "simonwillison.net/2026/Sep/11/datasette-security"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -5175,6 +5185,11 @@
       "title": "oui 1 a model that generates bespoke ui elements",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcsj6v": {
+      "at": "2026-09-11T07:18:32.035091+00:00",
+      "title": "new tensor type layouts for my gguf uploads",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wctos6": {
       "at": "2026-09-11T01:06:22.014405+00:00",
       "title": "notes on a hobby sub going mainstream",
@@ -5189,6 +5204,21 @@
       "at": "2026-09-10T22:36:21.831902+00:00",
       "title": "i find it funny that a flash model is now 512gb",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcvmuo/i_find_it_funny_that_a_flash_model_is_now_512gb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcxxm8": {
+      "at": "2026-09-11T07:18:32.035077+00:00",
+      "title": "artificial analysis is not broken and they prove it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcxxm8/artificial_analysis_is_not_broken_and_they_prove"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wd19c7": {
+      "at": "2026-09-11T07:18:32.035052+00:00",
+      "title": "new music model yue2 3b released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wd19c7/new_music_model_yue23b_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wd4xxv": {
+      "at": "2026-09-11T07:18:32.035032+00:00",
+      "title": "someone apparently managed to kind of replicate what v4 1 flash does on kv for fast prefill on qwen",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5476,6 +5506,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-11T01:06:22.014445+00:00",
+  "updated_at": "2026-09-11T07:18:32.035132+00:00",
   "version": 2
 }
