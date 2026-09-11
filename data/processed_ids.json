@@ -215,6 +215,11 @@
       "title": "zlibrary my beloved anthropic staff chats extolling piracy cited in sony suit",
       "url": "arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/": {
+      "at": "2026-09-11T22:37:07.341100+00:00",
+      "title": "chatgpt using lawyer punished for citing fake testimony from made up witnesses",
+      "url": "arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": {
       "at": "2026-09-09T17:52:30.546337+00:00",
       "title": "man told chatgpt he was feeling delusional chatgpt insisted he was jesus",
@@ -1081,10 +1086,25 @@
       "title": "show hn hacker news without ai",
       "url": "hcker.news/?ai=exclude"
     },
+    "rss:https://news.ycombinator.com/item?id=49660482": {
+      "at": "2026-09-11T22:37:07.341131+00:00",
+      "title": "hacker news with reduced priority for ai driven content",
+      "url": "sprinklz.io/public/pdwt4dve5uai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49660783": {
+      "at": "2026-09-11T22:37:07.341216+00:00",
+      "title": "show hn hacker news without ai",
+      "url": "unslop.news/"
+    },
     "rss:https://news.ycombinator.com/item?id=49661506": {
       "at": "2026-09-11T17:45:49.029588+00:00",
       "title": "feeling sad about ai",
       "url": "artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49662371": {
+      "at": "2026-09-11T22:37:07.340975+00:00",
+      "title": "a misalignment of ai in mathematics",
+      "url": "mathandai.org/"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -1697,10 +1717,20 @@
       "title": "any nix package live in your browser",
       "url": "simonwillison.net/2026/Sep/10/trynix"
     },
+    "rss:https://simonwillison.net/2026/Sep/11/boris-cherny/": {
+      "at": "2026-09-11T22:37:07.340957+00:00",
+      "title": "quoting boris cherny",
+      "url": "simonwillison.net/2026/Sep/11/boris-cherny"
+    },
     "rss:https://simonwillison.net/2026/Sep/11/datasette-security/": {
       "at": "2026-09-11T07:18:32.034930+00:00",
       "title": "datasette 1 0a39 and 0 65 4 security releases",
       "url": "simonwillison.net/2026/Sep/11/datasette-security"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": {
+      "at": "2026-09-11T22:37:07.341116+00:00",
+      "title": "feeling sad about ai",
+      "url": "simonwillison.net/2026/Sep/11/feeling-sad-about-ai"
     },
     "rss:https://simonwillison.net/2026/Sep/11/hugging-face-security/": {
       "at": "2026-09-11T17:45:49.029556+00:00",
@@ -2686,6 +2716,11 @@
       "title": "everything apple announced at its fall iphone event from the foldable iphone duo to an always listening apple watch",
       "url": "techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch"
     },
+    "rss:https://techcrunch.com/?p=3162257": {
+      "at": "2026-09-11T22:37:07.341257+00:00",
+      "title": "one week left to book your exhibit table at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026"
+    },
     "rss:https://techcrunch.com/?p=3162350": {
       "at": "2026-09-09T22:35:04.331555+00:00",
       "title": "openai adds a prominent ai doomer to its board of directors",
@@ -2741,6 +2776,26 @@
       "title": "nscale adds former openai exec fidji simo to its board ahead of potential ipo",
       "url": "techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo"
     },
+    "rss:https://techcrunch.com/?p=3163158": {
+      "at": "2026-09-11T22:37:07.341269+00:00",
+      "title": "final final final call for techcrunch disrupt 2026 side events",
+      "url": "techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events"
+    },
+    "rss:https://techcrunch.com/?p=3163179": {
+      "at": "2026-09-11T22:37:07.341032+00:00",
+      "title": "y combinator s garry tan wants u s open weight ai labs to distill frontier models too",
+      "url": "techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too"
+    },
+    "rss:https://techcrunch.com/?p=3163181": {
+      "at": "2026-09-11T22:37:07.341052+00:00",
+      "title": "openai s feud with mathematicians is only escalating",
+      "url": "techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating"
+    },
+    "rss:https://techcrunch.com/?p=3163189": {
+      "at": "2026-09-11T22:37:07.341086+00:00",
+      "title": "kimi maker moonshot ai targets 2b in annual revenue",
+      "url": "techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -2760,6 +2815,11 @@
       "at": "2026-09-09T17:52:30.546390+00:00",
       "title": "controlai s connor leahy on why superintelligence is not a weapon it s an adversary",
       "url": "techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3163177": {
+      "at": "2026-09-11T22:37:07.340912+00:00",
+      "title": "an anthropic researcher s doomsday warning comes at a very interesting time",
+      "url": "techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time"
     },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
@@ -5295,6 +5355,11 @@
       "title": "someone apparently managed to kind of replicate what v4 1 flash does on kv for fast prefill on qwen",
       "url": "reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wd96dk": {
+      "at": "2026-09-11T22:37:07.341245+00:00",
+      "title": "what can you run on 8gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wd96dk/what_can_you_run_on_8gb_vram"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdbal8": {
       "at": "2026-09-11T17:45:49.029505+00:00",
       "title": "cuda hip flash attention tuning gfx1201 by pwilkin pull request 28102 ggml org llama cpp",
@@ -5315,10 +5380,45 @@
       "title": "terminal bench v4 scores",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdc7r9/terminal_bench_v4_scores"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdclxn": {
+      "at": "2026-09-11T22:37:07.341232+00:00",
+      "title": "7900 xtx 32 64gb ram for qwen 3 8 flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdclxn/7900_xtx_3264gb_ram_for_qwen_38_flash_next"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdhb24": {
+      "at": "2026-09-11T22:37:07.341010+00:00",
+      "title": "fine tuning qwen 3 4b base on 100 zebra puzzles yielded 31 on math 500 6 5 min single h100 h200 reproduction notebook included",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdhb24/finetuning_qwen_3_4b_base_on_100_zebra_puzzles"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdi8au": {
+      "at": "2026-09-11T22:37:07.340989+00:00",
+      "title": "thinking that we ll get safety by cot traces is wishful thinking safety lives in the harness not the chain of thought",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdi8au/thinking_that_well_get_safety_by_cot_traces_is"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdk2he": {
+      "at": "2026-09-11T22:37:07.341143+00:00",
+      "title": "orukeet new asr model based on parakeet",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdl2qa": {
       "at": "2026-09-11T17:45:49.029462+00:00",
       "title": "qwen3 8 27b humanlike chat a model i tuned to imitate realistic human to human conversation",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdl7vp": {
+      "at": "2026-09-11T22:37:07.341204+00:00",
+      "title": "any 12gb vram users out there",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdl7vp/any_12gb_vram_users_out_there"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdqnpq": {
+      "at": "2026-09-11T22:37:07.341185+00:00",
+      "title": "is a zima board 2 rtx 2000 ada the cheapest path to a decent qwen 3 8 27b self contained endpoint",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdrvru": {
+      "at": "2026-09-11T22:37:07.341069+00:00",
+      "title": "nvidia rtx 5090 with 96gb of vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5604,8 +5704,13 @@
       "at": "2026-09-09T06:50:19.410778+00:00",
       "title": "what openai s latest controversy tells us about the future of math",
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
+    },
+    "rss:https://www.technologyreview.com/?p=1143936": {
+      "at": "2026-09-11T22:37:07.341163+00:00",
+      "title": "roundtables ai s apocalypse crisis",
+      "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-11T17:45:49.029635+00:00",
+  "updated_at": "2026-09-11T22:37:07.341341+00:00",
   "version": 2
 }
