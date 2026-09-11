@@ -1462,6 +1462,11 @@
       "title": "timesfm 3 a zero shot foundation model for multivariate forecasting",
       "url": "research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting"
     },
+    "rss:https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/": {
+      "at": "2026-09-11T01:06:22.014389+00:00",
+      "title": "toolgrad efficient tool use dataset generation with textual gradients",
+      "url": "research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients"
+    },
     "rss:https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors/": {
       "at": "2026-08-19T17:19:19.683345+00:00",
       "title": "towards a quantum computer that learns from its errors",
@@ -1641,6 +1646,11 @@
       "at": "2026-09-10T22:36:21.831687+00:00",
       "title": "native is now the future of mobile at shopify",
       "url": "simonwillison.net/2026/Sep/10/shopify-react-native"
+    },
+    "rss:https://simonwillison.net/2026/Sep/10/trynix/": {
+      "at": "2026-09-11T01:06:22.014333+00:00",
+      "title": "any nix package live in your browser",
+      "url": "simonwillison.net/2026/Sep/10/trynix"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -5165,6 +5175,11 @@
       "title": "oui 1 a model that generates bespoke ui elements",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wctos6": {
+      "at": "2026-09-11T01:06:22.014405+00:00",
+      "title": "notes on a hobby sub going mainstream",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wctos6/notes_on_a_hobby_sub_going_mainstream"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcujgg": {
       "at": "2026-09-10T22:36:21.831735+00:00",
       "title": "pi agent users nvidia released sol pi a pi extension based on autoresearch loops to make the harness more efficient",
@@ -5461,6 +5476,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-10T22:36:21.831948+00:00",
+  "updated_at": "2026-09-11T01:06:22.014445+00:00",
   "version": 2
 }
