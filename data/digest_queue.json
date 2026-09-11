@@ -45,6 +45,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/11/wrapture/",
+        "title": "Don't sleep on wrapture",
+        "url": "https://simonwillison.net/2026/Sep/11/wrapture/",
+        "author": null,
+        "published_at": "2026-09-11T13:51:32+00:00"
+      },
+      "insight": {
+        "title_ko": "파이썬 몽키 패치 라이브러리 wrapture 소개",
+        "summary_ko": [
+          "Graham Dumpleton이 개발한 wrapture는 파이썬 테스트와 옵저버빌리티를 동시에 지원하는 새로운 몽키 패치 라이브러리입니다.",
+          "이 라이브러리는 코드 수정 없이 TOML 파일 설정만으로 제로 코드 트레이싱과 다양한 웹 프레임워크 계측을 제공합니다.",
+          "알파 단계임에도 불구하고 성능 측정과 OpenTelemetry 내보내기 등 실무에 유용한 강력한 기능을 담고 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+        "title": "Claude users found ways around safeguards for bioweapons research",
+        "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
+        "author": "Zehra Munir, Financial Times",
+        "published_at": "2026-09-11T13:02:35+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude 생물무기 안전장치 우회 시도 적발",
+        "summary_ko": [
+          "Anthropic은 올해 과학자들이 생물무기 개발 연구를 위해 자사 기술의 안전장치를 우회하려던 여러 시도를 차단했다고 밝혔습니다.",
+          "일부 사용자들은 금지 국가인 러시아, 중국, 이란 등에서 통제를 우회하고 연구 목적을 은폐하려는 시도를 보였습니다.",
+          "Anthropic은 신종 생물학적 위험에 대응하기 위해 이러한 악용 사례를 공개하고 업계 및 정부와 논의를 촉구하고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "author": null,
+        "published_at": "2026-09-11T10:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 Habitat 스토리지 확장",
+        "summary_ko": [
+          "OpenAI는 Python 라이브러리였던 Habitat를 글로벌 분산 스토리지 플랫폼으로 진화시켰다.",
+          "이 플랫폼은 10억 명 이상의 ChatGPT 사용자를 대상으로 안정적인 서비스를 제공한다.",
+          "초당 2,200만 건의 요청을 처리하며 대규모 트래픽 환경에서 실무적 영향을 보여준다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

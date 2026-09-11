@@ -80,6 +80,11 @@
       "title": "anthropic s 2 trillion ipo puts powerful external trustees in spotlight",
       "url": "arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight"
     },
+    "rss:https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/": {
+      "at": "2026-09-11T17:45:49.029438+00:00",
+      "title": "claude users found ways around safeguards for bioweapons research",
+      "url": "arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research"
+    },
     "rss:https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/": {
       "at": "2026-09-03T21:59:42.659508+00:00",
       "title": "four major ai models suffer rare overlapping downtime",
@@ -1046,6 +1051,11 @@
       "title": "muse the band lost its social media handles to muse meta s new ai agent",
       "url": "engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent"
     },
+    "rss:https://news.ycombinator.com/item?id=49644179": {
+      "at": "2026-09-11T17:45:49.029580+00:00",
+      "title": "ai is breaking this thing we call trust",
+      "url": "terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust"
+    },
     "rss:https://news.ycombinator.com/item?id=49647300": {
       "at": "2026-09-11T07:18:32.034999+00:00",
       "title": "detecting and countering misuse of ai september 2026",
@@ -1060,6 +1070,21 @@
       "at": "2026-09-11T12:51:20.191240+00:00",
       "title": "the waymo effect how ai is quietly making research less collaborative",
       "url": "researchagenda.news/articles/the-waymo-effect.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=49657850": {
+      "at": "2026-09-11T17:45:49.029565+00:00",
+      "title": "ask hn can we please limit the ai news flood",
+      "url": "news.ycombinator.com/item?id=49657850"
+    },
+    "rss:https://news.ycombinator.com/item?id=49659647": {
+      "at": "2026-09-11T17:45:49.029596+00:00",
+      "title": "show hn hacker news without ai",
+      "url": "hcker.news/?ai=exclude"
+    },
+    "rss:https://news.ycombinator.com/item?id=49661506": {
+      "at": "2026-09-11T17:45:49.029588+00:00",
+      "title": "feeling sad about ai",
+      "url": "artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -1313,6 +1338,11 @@
       "at": "2026-09-03T21:59:42.659460+00:00",
       "title": "safety overview gpt 6 astra",
       "url": "openai.com/index/safety-overview-gpt-6-astra"
+    },
+    "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
+      "at": "2026-09-11T17:45:49.029451+00:00",
+      "title": "rapidly scaling online storage to serve over 1 billion chatgpt users",
+      "url": "openai.com/index/scaling-storage-one-billion-users-part-one"
     },
     "rss:https://openai.com/index/stampli": {
       "at": "2026-08-20T17:18:50.768188+00:00",
@@ -1671,6 +1701,21 @@
       "at": "2026-09-11T07:18:32.034930+00:00",
       "title": "datasette 1 0a39 and 0 65 4 security releases",
       "url": "simonwillison.net/2026/Sep/11/datasette-security"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/hugging-face-security/": {
+      "at": "2026-09-11T17:45:49.029556+00:00",
+      "title": "quoting huggingface co security txt",
+      "url": "simonwillison.net/2026/Sep/11/hugging-face-security"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": {
+      "at": "2026-09-11T17:45:49.029474+00:00",
+      "title": "soft deprecating re match",
+      "url": "simonwillison.net/2026/Sep/11/soft-deprecating-re-match"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/wrapture/": {
+      "at": "2026-09-11T17:45:49.029400+00:00",
+      "title": "don t sleep on wrapture",
+      "url": "simonwillison.net/2026/Sep/11/wrapture"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -2690,6 +2735,11 @@
       "at": "2026-09-10T22:36:21.831705+00:00",
       "title": "openai puts pro subscriptions on hold due to astra demand",
       "url": "techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand"
+    },
+    "rss:https://techcrunch.com/?p=3163102": {
+      "at": "2026-09-11T17:45:49.029543+00:00",
+      "title": "nscale adds former openai exec fidji simo to its board ahead of potential ipo",
+      "url": "techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5245,10 +5295,30 @@
       "title": "someone apparently managed to kind of replicate what v4 1 flash does on kv for fast prefill on qwen",
       "url": "reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdbal8": {
+      "at": "2026-09-11T17:45:49.029505+00:00",
+      "title": "cuda hip flash attention tuning gfx1201 by pwilkin pull request 28102 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdbal8/cudahip_flash_attention_tuning_gfx1201_by_pwilkin"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdbd0b": {
+      "at": "2026-09-11T17:45:49.029492+00:00",
+      "title": "nex n2 5 pro 407gb released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdbd0b/nex_n25_pro_407gb_released"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdbvlt": {
       "at": "2026-09-11T12:51:20.191297+00:00",
       "title": "hugging face security txt",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdc7r9": {
+      "at": "2026-09-11T17:45:49.029484+00:00",
+      "title": "terminal bench v4 scores",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdc7r9/terminal_bench_v4_scores"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdl2qa": {
+      "at": "2026-09-11T17:45:49.029462+00:00",
+      "title": "qwen3 8 27b humanlike chat a model i tuned to imitate realistic human to human conversation",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5536,6 +5606,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-11T12:51:20.191370+00:00",
+  "updated_at": "2026-09-11T17:45:49.029635+00:00",
   "version": 2
 }
