@@ -1051,6 +1051,16 @@
       "title": "detecting and countering misuse of ai september 2026",
       "url": "anthropic.com/threat-intelligence-report-september-2026"
     },
+    "rss:https://news.ycombinator.com/item?id=49651372": {
+      "at": "2026-09-11T12:51:20.191278+00:00",
+      "title": "thelio mira ai linux workstation 192 gb gpu memory",
+      "url": "system76.com/workstations/thelio-mira-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=49656496": {
+      "at": "2026-09-11T12:51:20.191240+00:00",
+      "title": "the waymo effect how ai is quietly making research less collaborative",
+      "url": "researchagenda.news/articles/the-waymo-effect.html"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -5175,6 +5185,11 @@
       "title": "another researcher accuses openai of training on conversations and then claiming a breakthrough",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcng44": {
+      "at": "2026-09-11T12:51:20.191288+00:00",
+      "title": "deepseek v4 1 flash is available in huggingchat",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcng44/deepseek_v41_flash_is_available_in_huggingchat"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcpppm": {
       "at": "2026-09-10T22:36:21.831849+00:00",
       "title": "cybertiel 35b a3b s uncensored 4 bit quant beats opus 4 6 medium cleanly on real codebase issues in 27 of the time qwen3 8 27b medium takes",
@@ -5189,6 +5204,11 @@
       "at": "2026-09-11T07:18:32.035091+00:00",
       "title": "new tensor type layouts for my gguf uploads",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcsj6v/new_tensor_type_layouts_for_my_gguf_uploads"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wctnq7": {
+      "at": "2026-09-11T12:51:20.191314+00:00",
+      "title": "antirez working on dsv4 1 support for ds4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wctnq7/antirez_working_on_dsv41_support_for_ds4"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wctos6": {
       "at": "2026-09-11T01:06:22.014405+00:00",
@@ -5205,6 +5225,11 @@
       "title": "i find it funny that a flash model is now 512gb",
       "url": "reddit.com/r/LocalLLaMA/comments/1wcvmuo/i_find_it_funny_that_a_flash_model_is_now_512gb"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcwa7i": {
+      "at": "2026-09-11T12:51:20.191305+00:00",
+      "title": "muse glimmer 30b really punches above its weight s for creative writing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wcwa7i/museglimmer30b_really_punches_above_its_weights"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wcxxm8": {
       "at": "2026-09-11T07:18:32.035077+00:00",
       "title": "artificial analysis is not broken and they prove it",
@@ -5219,6 +5244,11 @@
       "at": "2026-09-11T07:18:32.035032+00:00",
       "title": "someone apparently managed to kind of replicate what v4 1 flash does on kv for fast prefill on qwen",
       "url": "reddit.com/r/LocalLLaMA/comments/1wd4xxv/someone_apparently_managed_to_kind_of_replicate"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdbvlt": {
+      "at": "2026-09-11T12:51:20.191297+00:00",
+      "title": "hugging face security txt",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5506,6 +5536,6 @@
       "url": "technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math"
     }
   },
-  "updated_at": "2026-09-11T07:18:32.035132+00:00",
+  "updated_at": "2026-09-11T12:51:20.191370+00:00",
   "version": 2
 }
