@@ -2876,6 +2876,11 @@
       "title": "anthropic ceo outlines plan to pace the frontier",
       "url": "techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier"
     },
+    "rss:https://techcrunch.com/?p=3163386": {
+      "at": "2026-09-12T22:18:24.776051+00:00",
+      "title": "openai s sam altman says it would be ill advised to go public in 2026",
+      "url": "techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -5565,6 +5570,11 @@
       "title": "3 8 27b has ruined 3 5 3 6 35b s for me it s just absurdly superior",
       "url": "reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we9mv0": {
+      "at": "2026-09-12T22:18:24.776110+00:00",
+      "title": "i am impressed and i owe you one qwen 3 8 flash next vision",
+      "url": "reddit.com/r/LocalLLaMA/comments/1we9mv0/i_am_impressed_and_i_owe_you_one_qwen_38_flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1web1jd": {
       "at": "2026-09-12T19:24:09.593271+00:00",
       "title": "anybody use frontier models like astra fable for planning judging and qwen3 8 as the main workhorse curious to hear about your setups",
@@ -5589,6 +5599,11 @@
       "at": "2026-09-12T19:24:09.593251+00:00",
       "title": "looks like a coordination to stop distribution of intelligence",
       "url": "reddit.com/r/LocalLLaMA/comments/1wehlyi/looks_like_a_coordination_to_stop_distribution_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wemcdc": {
+      "at": "2026-09-12T22:18:24.776136+00:00",
+      "title": "real swe benchmark new",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5881,6 +5896,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-12T19:24:09.593342+00:00",
+  "updated_at": "2026-09-12T22:18:24.776211+00:00",
   "version": 2
 }
