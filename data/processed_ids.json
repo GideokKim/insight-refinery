@@ -1126,6 +1126,11 @@
       "title": "ai researchers debate how close we are to recursive self improvement",
       "url": "dwarkesh.com/p/john-beren-charlie"
     },
+    "rss:https://news.ycombinator.com/item?id=49673098": {
+      "at": "2026-09-12T17:11:05.008529+00:00",
+      "title": "nvidia is the central bank of ai",
+      "url": "economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -2861,6 +2866,11 @@
       "title": "mecka ai nears 500m valuation in sequoia led deal amid rush for robot training data",
       "url": "techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data"
     },
+    "rss:https://techcrunch.com/?p=3163373": {
+      "at": "2026-09-12T17:11:05.008495+00:00",
+      "title": "anthropic ceo outlines plan to pace the frontier",
+      "url": "techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -3015,6 +3025,11 @@
       "at": "2026-08-24T11:05:22.951496+00:00",
       "title": "the evolution of the agent harness",
       "url": "latent.space/p/attention-interface"
+    },
+    "rss:https://www.latent.space/p/forward-deployed-engineer-best-practices": {
+      "at": "2026-09-12T17:11:05.008540+00:00",
+      "title": "the rise of the forward deployed engineer and how to do the job right",
+      "url": "latent.space/p/forward-deployed-engineer-best-practices"
     },
     "rss:https://www.latent.space/p/glean-model-routing": {
       "at": "2026-08-24T11:19:10.800860+00:00",
@@ -5535,10 +5550,30 @@
       "title": "agnes ai agnes 3 0 flash 33b multimodal aa score 36",
       "url": "reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we6tau": {
+      "at": "2026-09-12T17:11:05.008567+00:00",
+      "title": "qwen3 8 flash next llama cpp config tuning",
+      "url": "reddit.com/r/LocalLLaMA/comments/1we6tau/qwen38_flash_next_llamacpp_config_tuning"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we8tl1": {
       "at": "2026-09-12T12:10:52.968181+00:00",
       "title": "3 8 27b has ruined 3 5 3 6 35b s for me it s just absurdly superior",
       "url": "reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1webfsq": {
+      "at": "2026-09-12T17:11:05.008552+00:00",
+      "title": "bartowski qwen3 8 27b gguf hugging face updated per tensor layout",
+      "url": "reddit.com/r/LocalLLaMA/comments/1webfsq/bartowskiqwen3827bgguf_hugging_face_updated"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wecf25": {
+      "at": "2026-09-12T17:11:05.008445+00:00",
+      "title": "tencent auk flash hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wegs2w": {
+      "at": "2026-09-12T17:11:05.008578+00:00",
+      "title": "for those of you forced to only use open models from western labs in production what are you deploying",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wegs2w/for_those_of_you_forced_to_only_use_open_models"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5831,6 +5866,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-12T12:10:52.968383+00:00",
+  "updated_at": "2026-09-12T17:11:05.008616+00:00",
   "version": 2
 }

@@ -67,6 +67,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wecf25",
+        "title": "tencent/AuK-Flash · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-09-12T13:17:22+00:00"
+      },
+      "insight": {
+        "title_ko": "텐센트, 4단계 음성 생성 및 편집 모델 AuK-Flash 공개",
+        "summary_ko": [
+          "텐센트가 다양한 음성 생성 및 편집 기능을 지원하는 1.5B 파운데이션 모델 AuK와 그 증류 버전인 AuK-Flash를 공개했습니다.",
+          "AuK-Flash는 단 4단계의 빠른 추론 과정을 거쳐 고품질 음성을 생성하며 Hugging Face와 ModelScope를 통해 제공됩니다.",
+          "이 모델은 자연어 지시어 인터페이스를 기반으로 제로샷 TTS, 음성 편집, 오디오 분리 등 다양한 오디오 작업을 수행합니다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
