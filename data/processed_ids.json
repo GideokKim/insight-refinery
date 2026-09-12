@@ -1812,6 +1812,11 @@
       "title": "openai agents attacked rubygems back in may",
       "url": "simonwillison.net/2026/Sep/12/openai-agents-rubygems"
     },
+    "rss:https://simonwillison.net/2026/Sep/12/paul-ford/": {
+      "at": "2026-09-12T19:24:09.593204+00:00",
+      "title": "quoting paul ford",
+      "url": "simonwillison.net/2026/Sep/12/paul-ford"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
@@ -5560,6 +5565,11 @@
       "title": "3 8 27b has ruined 3 5 3 6 35b s for me it s just absurdly superior",
       "url": "reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1web1jd": {
+      "at": "2026-09-12T19:24:09.593271+00:00",
+      "title": "anybody use frontier models like astra fable for planning judging and qwen3 8 as the main workhorse curious to hear about your setups",
+      "url": "reddit.com/r/LocalLLaMA/comments/1web1jd/anybody_use_frontier_models_like_astrafable_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1webfsq": {
       "at": "2026-09-12T17:11:05.008552+00:00",
       "title": "bartowski qwen3 8 27b gguf hugging face updated per tensor layout",
@@ -5574,6 +5584,11 @@
       "at": "2026-09-12T17:11:05.008578+00:00",
       "title": "for those of you forced to only use open models from western labs in production what are you deploying",
       "url": "reddit.com/r/LocalLLaMA/comments/1wegs2w/for_those_of_you_forced_to_only_use_open_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wehlyi": {
+      "at": "2026-09-12T19:24:09.593251+00:00",
+      "title": "looks like a coordination to stop distribution of intelligence",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wehlyi/looks_like_a_coordination_to_stop_distribution_of"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5866,6 +5881,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-12T17:11:05.008616+00:00",
+  "updated_at": "2026-09-12T19:24:09.593342+00:00",
   "version": 2
 }
