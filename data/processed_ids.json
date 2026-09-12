@@ -115,6 +115,11 @@
       "title": "the complex corporate web behind a 3 2 billion ai data center",
       "url": "arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
     },
+    "rss:https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/": {
+      "at": "2026-09-12T12:10:52.968243+00:00",
+      "title": "i spent 4 000 on a robot dog from china",
+      "url": "arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china"
+    },
     "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
       "at": "2026-08-31T15:35:36.937264+00:00",
       "title": "pocket s ai made my game ideas real now meta controls the results",
@@ -1115,6 +1120,11 @@
       "at": "2026-09-11T22:37:07.340975+00:00",
       "title": "a misalignment of ai in mathematics",
       "url": "mathandai.org/"
+    },
+    "rss:https://news.ycombinator.com/item?id=49665711": {
+      "at": "2026-09-12T12:10:52.968228+00:00",
+      "title": "ai researchers debate how close we are to recursive self improvement",
+      "url": "dwarkesh.com/p/john-beren-charlie"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -5480,6 +5490,11 @@
       "title": "codefinetuner fine tune a local code autocomplete model on your own codebase",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdp9qc/codefinetuner_finetune_a_local_code_autocomplete"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdqit1": {
+      "at": "2026-09-12T12:10:52.968134+00:00",
+      "title": "running qwen3 8 27b q4 at max context on a 32 gb gpu while avoiding kvcache quantization",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdqit1/running_qwen3827bq4_at_max_context_on_a_32_gb_gpu"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdqnpq": {
       "at": "2026-09-11T22:37:07.341185+00:00",
       "title": "is a zima board 2 rtx 2000 ada the cheapest path to a decent qwen 3 8 27b self contained endpoint",
@@ -5500,10 +5515,30 @@
       "title": "countering misuse of ai september 2026 anthropic",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdxspd/countering_misuse_of_ai_september_2026_anthropic"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we2fi6": {
+      "at": "2026-09-12T12:10:52.968328+00:00",
+      "title": "unsloth ud quants qwen 3 8 27b for example worth using 8 bit or stick with faster 6 bit for coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1we2fi6/unsloth_udquants_qwen_38_27b_for_example_worth"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we2rp2": {
       "at": "2026-09-12T07:11:52.013059+00:00",
       "title": "concerning humanlike models and chatbot rp in general",
       "url": "reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we5jne": {
+      "at": "2026-09-12T12:10:52.968305+00:00",
+      "title": "antirez deepseek 4 1 flash gguf on hf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1we5jne/antirez_deepseek_41_flash_gguf_on_hf"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we6lrn": {
+      "at": "2026-09-12T12:10:52.968209+00:00",
+      "title": "agnes ai agnes 3 0 flash 33b multimodal aa score 36",
+      "url": "reddit.com/r/LocalLLaMA/comments/1we6lrn/agnesaiagnes30flash_33b_multimodal_aa_score_36"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we8tl1": {
+      "at": "2026-09-12T12:10:52.968181+00:00",
+      "title": "3 8 27b has ruined 3 5 3 6 35b s for me it s just absurdly superior",
+      "url": "reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5796,6 +5831,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-12T07:11:52.013126+00:00",
+  "updated_at": "2026-09-12T12:10:52.968383+00:00",
   "version": 2
 }
