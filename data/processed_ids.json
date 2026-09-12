@@ -2926,6 +2926,11 @@
       "title": "ainews death of params z ai ceo jie tang on glm 5 3 and the new post training scaling law",
       "url": "latent.space/p/ainews-death-of-params-zai-ceo-jie"
     },
+    "rss:https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b": {
+      "at": "2026-09-12T07:11:52.012943+00:00",
+      "title": "ainews deepseek v4 1 flash 763b p8b d16b novel causal encoder decoder architecture with vision marks the return of the whale",
+      "url": "latent.space/p/ainews-deepseek-v41-flash-763b-p8b"
+    },
     "rss:https://www.latent.space/p/ainews-fals-h3-max-live-breaks-the": {
       "at": "2026-09-01T06:55:24.714912+00:00",
       "title": "ainews fal s h3 max live breaks the infinite videogen barrier",
@@ -5470,6 +5475,11 @@
       "title": "any 12gb vram users out there",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdl7vp/any_12gb_vram_users_out_there"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdp9qc": {
+      "at": "2026-09-12T07:11:52.013018+00:00",
+      "title": "codefinetuner fine tune a local code autocomplete model on your own codebase",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdp9qc/codefinetuner_finetune_a_local_code_autocomplete"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdqnpq": {
       "at": "2026-09-11T22:37:07.341185+00:00",
       "title": "is a zima board 2 rtx 2000 ada the cheapest path to a decent qwen 3 8 27b self contained endpoint",
@@ -5479,6 +5489,21 @@
       "at": "2026-09-11T22:37:07.341069+00:00",
       "title": "nvidia rtx 5090 with 96gb of vram",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdx463": {
+      "at": "2026-09-12T07:11:52.013074+00:00",
+      "title": "qwen next seems worse to me then 3 8 27b for coding but i feel like i must be missing something",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdx463/qwennext_seems_worse_to_me_then_38_27b_for_coding"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdxspd": {
+      "at": "2026-09-12T07:11:52.013041+00:00",
+      "title": "countering misuse of ai september 2026 anthropic",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdxspd/countering_misuse_of_ai_september_2026_anthropic"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1we2rp2": {
+      "at": "2026-09-12T07:11:52.013059+00:00",
+      "title": "concerning humanlike models and chatbot rp in general",
+      "url": "reddit.com/r/LocalLLaMA/comments/1we2rp2/concerning_humanlike_models_and_chatbot_rp_in"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5771,6 +5796,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-12T01:07:41.366544+00:00",
+  "updated_at": "2026-09-12T07:11:52.013126+00:00",
   "version": 2
 }

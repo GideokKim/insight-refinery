@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-12T01:07:39.479948+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+        "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+        "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+        "author": null,
+        "published_at": "2026-09-12T05:56:05+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek v4.1-Flash 공개와 새로운 아키텍처",
+        "summary_ko": [
+          "DeepSeek는 763B 총 파라미터와 혁신적인 Encoder-Decoder 구조를 갖춘 v4.1-Flash를 전격 공개했습니다.",
+          "이 모델은 prefill과 decode를 분리하여 KV 캐시 풋프린트를 대폭 줄이고 장기 실행 에이전트의 효율성을 극대화했습니다.",
+          "기존 벤치마크 점수를 넘어서는 비용 효율성과 비전 기능을 통합하여 실무 AI 생태계에 큰 영향을 미칠 전망입니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wdp9qc",
+        "title": "CodeFinetuner: Fine-tune a local code autocomplete model on your own codebase",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdp9qc/codefinetuner_finetune_a_local_code_autocomplete/",
+        "author": "/u/MountainTop321",
+        "published_at": "2026-09-11T18:56:39+00:00"
+      },
+      "insight": {
+        "title_ko": "코드 자동완성 로컬 파인튜닝 파이프라인 CodeFinetuner",
+        "summary_ko": [
+          "CodeFinetuner는 자체 코드베이스를 활용해 로컬 코드 자동완성 모델을 LoRA 방식으로 파인튜닝하는 전체 파이프라인을 제공합니다.",
+          "이 도구는 tree-sitter 기반 파싱부터 LoRA 학습, 성능 평가, GGUF 변환까지의 과정을 Mac과 NVIDIA GPU 환경에서 지원합니다.",
+          "실무 개발자는 이를 통해 Qwen2.5-Coder 같은 소형 모델을 자신의 코드 스타일에 맞춰 최적화하고 로컬 환경에서 실행할 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
