@@ -1016,6 +1016,11 @@
       "title": "i feel about ai",
       "url": "beza1e1.tuxen.de/ai_feelings.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49596610": {
+      "at": "2026-09-12T01:07:41.366454+00:00",
+      "title": "initial effects of ai technology on employment look positive",
+      "url": "economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here"
+    },
     "rss:https://news.ycombinator.com/item?id=49601338": {
       "at": "2026-09-08T06:39:49.093159+00:00",
       "title": "ai models ran real businesses they sent 12 431 in fake invoices lost 3 200",
@@ -1101,6 +1106,11 @@
       "title": "feeling sad about ai",
       "url": "artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=49662116": {
+      "at": "2026-09-12T01:07:41.366384+00:00",
+      "title": "a misalignment of ai in mathematics",
+      "url": "terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics"
+    },
     "rss:https://news.ycombinator.com/item?id=49662371": {
       "at": "2026-09-11T22:37:07.340975+00:00",
       "title": "a misalignment of ai in mathematics",
@@ -1163,6 +1173,11 @@
       "at": "2026-09-08T22:07:38.642461+00:00",
       "title": "how gpt 5 6 sol helps run quantum computing experiments",
       "url": "openai.com/index/codex-quantum-computing-experiments"
+    },
+    "rss:https://openai.com/index/cognition-devin-testing-with-astra": {
+      "at": "2026-09-12T01:07:41.366393+00:00",
+      "title": "cognition helps devin test its own work with gpt 6 astra",
+      "url": "openai.com/index/cognition-devin-testing-with-astra"
     },
     "rss:https://openai.com/index/dali-rajic-chief-revenue-officer": {
       "at": "2026-08-19T14:23:12.191402+00:00",
@@ -1323,6 +1338,11 @@
       "at": "2026-09-09T17:52:30.546370+00:00",
       "title": "paul christiano joins openai foundation board",
       "url": "openai.com/index/paul-christiano-joins-openai-foundation-board"
+    },
+    "rss:https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+      "at": "2026-09-12T01:07:41.366294+00:00",
+      "title": "perplexity trusts gpt 6 astra with end to end systems",
+      "url": "openai.com/index/perplexity-improving-accuracy-with-astra"
     },
     "rss:https://openai.com/index/playco-game-prototyping-with-astra": {
       "at": "2026-09-03T21:59:42.659563+00:00",
@@ -1722,20 +1742,45 @@
       "title": "quoting boris cherny",
       "url": "simonwillison.net/2026/Sep/11/boris-cherny"
     },
+    "rss:https://simonwillison.net/2026/Sep/11/datasette-2/": {
+      "at": "2026-09-12T01:07:41.366444+00:00",
+      "title": "datasette 1 0a39",
+      "url": "simonwillison.net/2026/Sep/11/datasette-2"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/datasette-publish-fly/": {
+      "at": "2026-09-12T01:07:41.366497+00:00",
+      "title": "datasette publish fly 1 4",
+      "url": "simonwillison.net/2026/Sep/11/datasette-publish-fly"
+    },
     "rss:https://simonwillison.net/2026/Sep/11/datasette-security/": {
       "at": "2026-09-11T07:18:32.034930+00:00",
       "title": "datasette 1 0a39 and 0 65 4 security releases",
       "url": "simonwillison.net/2026/Sep/11/datasette-security"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/datasette/": {
+      "at": "2026-09-12T01:07:41.366431+00:00",
+      "title": "datasette 0 65 4",
+      "url": "simonwillison.net/2026/Sep/11/datasette"
     },
     "rss:https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/": {
       "at": "2026-09-11T22:37:07.341116+00:00",
       "title": "feeling sad about ai",
       "url": "simonwillison.net/2026/Sep/11/feeling-sad-about-ai"
     },
+    "rss:https://simonwillison.net/2026/Sep/11/github-to-sqlite/": {
+      "at": "2026-09-12T01:07:41.366506+00:00",
+      "title": "github to sqlite 2 9 1",
+      "url": "simonwillison.net/2026/Sep/11/github-to-sqlite"
+    },
     "rss:https://simonwillison.net/2026/Sep/11/hugging-face-security/": {
       "at": "2026-09-11T17:45:49.029556+00:00",
       "title": "quoting huggingface co security txt",
       "url": "simonwillison.net/2026/Sep/11/hugging-face-security"
+    },
+    "rss:https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/": {
+      "at": "2026-09-12T01:07:41.366423+00:00",
+      "title": "so you want to use openrouter",
+      "url": "simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter"
     },
     "rss:https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match/": {
       "at": "2026-09-11T17:45:49.029474+00:00",
@@ -1746,6 +1791,11 @@
       "at": "2026-09-11T17:45:49.029400+00:00",
       "title": "don t sleep on wrapture",
       "url": "simonwillison.net/2026/Sep/11/wrapture"
+    },
+    "rss:https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/": {
+      "at": "2026-09-12T01:07:41.366369+00:00",
+      "title": "openai agents attacked rubygems back in may",
+      "url": "simonwillison.net/2026/Sep/12/openai-agents-rubygems"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -2795,6 +2845,11 @@
       "at": "2026-09-11T22:37:07.341086+00:00",
       "title": "kimi maker moonshot ai targets 2b in annual revenue",
       "url": "techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue"
+    },
+    "rss:https://techcrunch.com/?p=3163323": {
+      "at": "2026-09-12T01:07:41.366412+00:00",
+      "title": "mecka ai nears 500m valuation in sequoia led deal amid rush for robot training data",
+      "url": "techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5400,6 +5455,11 @@
       "title": "orukeet new asr model based on parakeet",
       "url": "reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdl1d0": {
+      "at": "2026-09-12T01:07:41.366484+00:00",
+      "title": "hot expert reload on gpu is what this community needs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wdl1d0/hot_expert_reload_on_gpu_is_what_this_community"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wdl2qa": {
       "at": "2026-09-11T17:45:49.029462+00:00",
       "title": "qwen3 8 27b humanlike chat a model i tuned to imitate realistic human to human conversation",
@@ -5711,6 +5771,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-11T22:37:07.341341+00:00",
+  "updated_at": "2026-09-12T01:07:41.366544+00:00",
   "version": 2
 }
