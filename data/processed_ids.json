@@ -1126,6 +1126,11 @@
       "title": "ai researchers debate how close we are to recursive self improvement",
       "url": "dwarkesh.com/p/john-beren-charlie"
     },
+    "rss:https://news.ycombinator.com/item?id=49671159": {
+      "at": "2026-09-13T01:01:21.779224+00:00",
+      "title": "the worst spam emails ilands ai agent hustle",
+      "url": "tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang"
+    },
     "rss:https://news.ycombinator.com/item?id=49673098": {
       "at": "2026-09-12T17:11:05.008529+00:00",
       "title": "nvidia is the central bank of ai",
@@ -1807,6 +1812,11 @@
       "title": "don t sleep on wrapture",
       "url": "simonwillison.net/2026/Sep/11/wrapture"
     },
+    "rss:https://simonwillison.net/2026/Sep/12/astra-running-routes/": {
+      "at": "2026-09-13T01:01:21.779185+00:00",
+      "title": "generating running routes with gpt 6 astra and chatgpt work",
+      "url": "simonwillison.net/2026/Sep/12/astra-running-routes"
+    },
     "rss:https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/": {
       "at": "2026-09-12T01:07:41.366369+00:00",
       "title": "openai agents attacked rubygems back in may",
@@ -1816,6 +1826,11 @@
       "at": "2026-09-12T19:24:09.593204+00:00",
       "title": "quoting paul ford",
       "url": "simonwillison.net/2026/Sep/12/paul-ford"
+    },
+    "rss:https://simonwillison.net/2026/Sep/12/sighting-399708714/": {
+      "at": "2026-09-13T01:01:21.779245+00:00",
+      "title": "california brown pelican",
+      "url": "simonwillison.net/2026/Sep/12/sighting-399708714"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -5590,6 +5605,11 @@
       "title": "tencent auk flash hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1weekio": {
+      "at": "2026-09-13T01:01:21.779212+00:00",
+      "title": "releasing smolbenchmark helps you choose the best model for your hardware",
+      "url": "reddit.com/r/LocalLLaMA/comments/1weekio/releasing_smolbenchmark_helps_you_choose_the_best"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wegs2w": {
       "at": "2026-09-12T17:11:05.008578+00:00",
       "title": "for those of you forced to only use open models from western labs in production what are you deploying",
@@ -5604,6 +5624,21 @@
       "at": "2026-09-12T22:18:24.776136+00:00",
       "title": "real swe benchmark new",
       "url": "reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1weobt6": {
+      "at": "2026-09-13T01:01:21.779200+00:00",
+      "title": "qwen3 8 flash next now at 1 2k t s prefill on strix halo",
+      "url": "reddit.com/r/LocalLLaMA/comments/1weobt6/qwen38_flash_next_now_at_12k_ts_prefill_on_strix"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wepx7w": {
+      "at": "2026-09-13T01:01:21.779234+00:00",
+      "title": "this seems more probable than it was before",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wepx7w/this_seems_more_probable_than_it_was_before"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wesoz4": {
+      "at": "2026-09-13T01:01:21.779135+00:00",
+      "title": "it s official anthropic openai have just hired independent safety auditors",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wesoz4/its_official_anthropic_openai_have_just_hired"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5896,6 +5931,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-12T22:18:24.776211+00:00",
+  "updated_at": "2026-09-13T01:01:21.779280+00:00",
   "version": 2
 }
