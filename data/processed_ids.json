@@ -1136,6 +1136,21 @@
       "title": "nvidia is the central bank of ai",
       "url": "economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=49676820": {
+      "at": "2026-09-13T07:28:42.319131+00:00",
+      "title": "real swe benchmarking ai models on private real world enterprise codebases",
+      "url": "withspecific.com/benchmarks/real-swe"
+    },
+    "rss:https://news.ycombinator.com/item?id=49678683": {
+      "at": "2026-09-13T07:28:42.319174+00:00",
+      "title": "everyone should slow down ai development except for me",
+      "url": "xeiaso.net/notes/2026/everyone-slowdown-but-me"
+    },
+    "rss:https://news.ycombinator.com/item?id=49678969": {
+      "at": "2026-09-13T07:28:42.319090+00:00",
+      "title": "why are ai agents lying cheating and coordinating",
+      "url": "yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -5605,6 +5620,11 @@
       "title": "tencent auk flash hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wecf25/tencentaukflash_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wed7cg": {
+      "at": "2026-09-13T07:28:42.319147+00:00",
+      "title": "intel linux npu driver only now officially supports ubuntu 26 04 lts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wed7cg/intel_linux_npu_driver_only_now_officially"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1weekio": {
       "at": "2026-09-13T01:01:21.779212+00:00",
       "title": "releasing smolbenchmark helps you choose the best model for your hardware",
@@ -5639,6 +5659,11 @@
       "at": "2026-09-13T01:01:21.779135+00:00",
       "title": "it s official anthropic openai have just hired independent safety auditors",
       "url": "reddit.com/r/LocalLLaMA/comments/1wesoz4/its_official_anthropic_openai_have_just_hired"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1weujw6": {
+      "at": "2026-09-13T07:28:42.319165+00:00",
+      "title": "the hugging bay",
+      "url": "reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5931,6 +5956,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-13T01:01:21.779280+00:00",
+  "updated_at": "2026-09-13T07:28:42.319210+00:00",
   "version": 2
 }
