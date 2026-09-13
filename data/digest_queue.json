@@ -45,6 +45,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wf3wt2",
+        "title": "internlm/Intern-S2 · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-13T10:19:48+00:00"
+      },
+      "insight": {
+        "title_ko": "Intern-S2-397B 멀티모달 모델 공개",
+        "summary_ko": [
+          "InternLM은 과학적 지능과 장기 에이전트를 위한 멀티모달 파운데이션 모델 Intern-S2-397B를 공개했습니다.",
+          "이 모델은 새로운 시각적 사전 학습 패러다임을 통해 과학 문서의 텍스트와 시각 정보를 직접 학습하여 공간 및 시각적 추론 능력을 강화합니다.",
+          "20개 이상의 도메인에서 과학적 강화학습을 수행하며 오픈소스 모델 중 뛰어난 일반 추론 및 전문 과학 태스크 성능을 달성했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

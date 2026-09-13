@@ -5655,6 +5655,11 @@
       "title": "this seems more probable than it was before",
       "url": "reddit.com/r/LocalLLaMA/comments/1wepx7w/this_seems_more_probable_than_it_was_before"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wers2v": {
+      "at": "2026-09-13T13:19:06.996036+00:00",
+      "title": "what s the story with agnes 3 0 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wers2v/whats_the_story_with_agnes30flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wesoz4": {
       "at": "2026-09-13T01:01:21.779135+00:00",
       "title": "it s official anthropic openai have just hired independent safety auditors",
@@ -5664,6 +5669,36 @@
       "at": "2026-09-13T07:28:42.319165+00:00",
       "title": "the hugging bay",
       "url": "reddit.com/r/LocalLLaMA/comments/1weujw6/the_hugging_bay"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wewz9p": {
+      "at": "2026-09-13T13:19:06.996001+00:00",
+      "title": "ds 4 1 and the new harness",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wewz9p/ds_41_and_the_new_harness"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wey19g": {
+      "at": "2026-09-13T13:19:06.995978+00:00",
+      "title": "huggingface_hub silently fingerprints which ai coding agent you re using and sends it as telemetry",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wey19g/huggingface_hub_silently_fingerprints_which_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wez30k": {
+      "at": "2026-09-13T13:19:06.996027+00:00",
+      "title": "should i sell my rtx 5090 for a mac studio m5 ultra 96gb",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wez30k/should_i_sell_my_rtx_5090_for_a_mac_studio_m5"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wezm58": {
+      "at": "2026-09-13T13:19:06.996018+00:00",
+      "title": "is there still strong interest in a dense 9b model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wezm58/is_there_still_strong_interest_in_a_dense_9b_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wf3i1m": {
+      "at": "2026-09-13T13:19:06.996009+00:00",
+      "title": "the local llm community feels like the golden era of the internet all over again",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wf3i1m/the_local_llm_community_feels_like_the_golden_era"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wf3wt2": {
+      "at": "2026-09-13T13:19:06.995921+00:00",
+      "title": "internlm intern s2 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wf3wt2/internlminterns2_hugging_face"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -5956,6 +5991,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-13T07:28:42.319210+00:00",
+  "updated_at": "2026-09-13T13:19:06.996070+00:00",
   "version": 2
 }
