@@ -2916,6 +2916,11 @@
       "title": "obama urges democrats to have a clear plan for ai safeguards",
       "url": "techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards"
     },
+    "rss:https://techcrunch.com/?p=3163449": {
+      "at": "2026-09-13T22:25:00.343340+00:00",
+      "title": "what s behind the ai industry s latest warnings of doom",
+      "url": "techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -5725,6 +5730,26 @@
       "title": "hoping for optimized smarter upcoming models like deepseek v4 1 flash kvcache engram in small medium big sizes",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfe9zt": {
+      "at": "2026-09-13T22:25:00.343395+00:00",
+      "title": "3k 128gb vram 256gb ram ddr4 server",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfefc4": {
+      "at": "2026-09-13T22:25:00.343381+00:00",
+      "title": "talk me out of buying a 3rd spark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfefc4/talk_me_out_of_buying_a_3rd_spark"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfg0sb": {
+      "at": "2026-09-13T22:25:00.343365+00:00",
+      "title": "aurora1 0 150m releases",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfg0sb/aurora10150m_releases"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfhiqx": {
+      "at": "2026-09-13T22:25:00.343281+00:00",
+      "title": "plot twist",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -6016,6 +6041,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-13T17:25:53.020639+00:00",
+  "updated_at": "2026-09-13T22:25:00.343448+00:00",
   "version": 2
 }
