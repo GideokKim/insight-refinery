@@ -70,6 +70,11 @@
       "title": "world humanoid robot games show runners breaking records bursting into flames",
       "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
     },
+    "rss:https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/": {
+      "at": "2026-09-14T20:59:08.073220+00:00",
+      "title": "ai leaders want to hit the brakes after years of reckless speed",
+      "url": "arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed"
+    },
     "rss:https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/": {
       "at": "2026-09-09T17:52:30.546213+00:00",
       "title": "anthropic researcher quits with a warning self improving ai could kill us all",
@@ -84,6 +89,11 @@
       "at": "2026-09-11T17:45:49.029438+00:00",
       "title": "claude users found ways around safeguards for bioweapons research",
       "url": "arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research"
+    },
+    "rss:https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/": {
+      "at": "2026-09-14T20:59:08.073328+00:00",
+      "title": "founder s cost cutting obsession drove unitree lead in cheap humanoid robots",
+      "url": "arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots"
     },
     "rss:https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/": {
       "at": "2026-09-03T21:59:42.659508+00:00",
@@ -109,6 +119,11 @@
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
       "url": "arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference"
+    },
+    "rss:https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/": {
+      "at": "2026-09-14T20:59:08.073199+00:00",
+      "title": "apple releases ios 27 macos golden gate 27 with siri ai and liquid glass refinements",
+      "url": "arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements"
     },
     "rss:https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
       "at": "2026-09-07T18:28:08.910973+00:00",
@@ -230,6 +245,11 @@
       "title": "man told chatgpt he was feeling delusional chatgpt insisted he was jesus",
       "url": "arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
+      "at": "2026-09-14T20:59:08.073479+00:00",
+      "title": "openai stuck fighting musk antitrust suit after apple finds a way out",
+      "url": "arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
       "at": "2026-09-10T22:36:21.831782+00:00",
       "title": "panic builds over bankrupt spirit s looming data sale to google",
@@ -299,6 +319,11 @@
       "at": "2026-08-26T22:35:55.496737+00:00",
       "title": "nvidia nvlink fusion brings nvhbm to next generation ai infrastructure",
       "url": "developer.nvidia.com/blog/nvidia-nvlink-fusion-brings-nvhbm-to-next-generation-ai-infrastructure"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=121007": {
+      "at": "2026-09-14T20:59:08.073248+00:00",
+      "title": "accelerating dropless moe training in jax with nvidia transformer engine",
+      "url": "developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine"
     },
     "rss:https://developer.nvidia.com/blog/?p=121239": {
       "at": "2026-08-24T11:05:22.951670+00:00",
@@ -1161,10 +1186,20 @@
       "title": "open source ai and open models reading list",
       "url": "interconnects.ai/p/open-source-ai-reading-list"
     },
+    "rss:https://news.ycombinator.com/item?id=49694596": {
+      "at": "2026-09-14T20:59:08.073315+00:00",
+      "title": "big ai sets out its terms for regulatory capture",
+      "url": "theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067"
+    },
     "rss:https://news.ycombinator.com/item?id=49695409": {
       "at": "2026-09-14T15:06:56.951458+00:00",
       "title": "apple s siri ai can be swapped out for claude chatgpt code shows",
       "url": "macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude"
+    },
+    "rss:https://news.ycombinator.com/item?id=49699384": {
+      "at": "2026-09-14T20:59:08.073487+00:00",
+      "title": "for ai leaders doom is a form of hype",
+      "url": "erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -1258,6 +1293,11 @@
       "at": "2026-08-27T12:49:39.361064+00:00",
       "title": "expanding openai s presence in brazil",
       "url": "openai.com/index/expanding-our-presence-in-brazil"
+    },
+    "rss:https://openai.com/index/fyxer": {
+      "at": "2026-09-14T20:59:08.073439+00:00",
+      "title": "how fyxer built an ai executive assistant people trust",
+      "url": "openai.com/index/fyxer"
     },
     "rss:https://openai.com/index/gilbert-tobin": {
       "at": "2026-09-02T06:32:20.252029+00:00",
@@ -1871,6 +1911,11 @@
       "at": "2026-09-14T01:05:55.672210+00:00",
       "title": "commit rewriter 0 1",
       "url": "simonwillison.net/2026/Sep/14/commit-rewriter"
+    },
+    "rss:https://simonwillison.net/2026/Sep/14/influences/": {
+      "at": "2026-09-14T20:59:08.073471+00:00",
+      "title": "what blog posts influenced your thinking the most",
+      "url": "simonwillison.net/2026/Sep/14/influences"
     },
     "rss:https://simonwillison.net/2026/Sep/14/laurie-voss/": {
       "at": "2026-09-14T15:06:56.951598+00:00",
@@ -2886,6 +2931,11 @@
       "title": "anthropic reveals rogue ai agents hate captchas just like you",
       "url": "techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you"
     },
+    "rss:https://techcrunch.com/?p=3162850": {
+      "at": "2026-09-14T20:59:08.073358+00:00",
+      "title": "fashion app daydream uses apple intelligence to help you shop the outfits in your camera roll",
+      "url": "techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll"
+    },
     "rss:https://techcrunch.com/?p=3162873": {
       "at": "2026-09-10T22:36:21.831764+00:00",
       "title": "jensen huang explains why nvidia will grow an astounding 70 next year",
@@ -2910,6 +2960,11 @@
       "at": "2026-09-14T15:06:56.951581+00:00",
       "title": "superhuman acquires yc backed notetaker fathom as productivity platforms push for agentic work",
       "url": "techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work"
+    },
+    "rss:https://techcrunch.com/?p=3163062": {
+      "at": "2026-09-14T20:59:08.073344+00:00",
+      "title": "with ios 27 i m actually using siri again",
+      "url": "techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again"
     },
     "rss:https://techcrunch.com/?p=3163102": {
       "at": "2026-09-11T17:45:49.029543+00:00",
@@ -2975,6 +3030,16 @@
       "at": "2026-09-14T15:06:56.951720+00:00",
       "title": "5 days left to exhibit at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days"
+    },
+    "rss:https://techcrunch.com/?p=3163598": {
+      "at": "2026-09-14T20:59:08.073374+00:00",
+      "title": "microsoft s new ai code of conduct tells models not to hack systems or trick humans",
+      "url": "techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans"
+    },
+    "rss:https://techcrunch.com/?p=3163844": {
+      "at": "2026-09-14T20:59:08.073160+00:00",
+      "title": "openai buys smartphone camera maker glass imaging for 300 million report says",
+      "url": "techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3155,6 +3220,11 @@
       "at": "2026-09-01T17:32:37.259604+00:00",
       "title": "prs not welcome how top ai open source projects are managing thousands of contributors",
       "url": "latent.space/p/pr-not-welcome"
+    },
+    "rss:https://www.latent.space/p/recursive": {
+      "at": "2026-09-14T20:59:08.073261+00:00",
+      "title": "humanity s last invention richard socher of recursive",
+      "url": "latent.space/p/recursive"
     },
     "rss:https://www.latent.space/p/simile": {
       "at": "2026-08-24T11:05:22.951509+00:00",
@@ -5840,6 +5910,11 @@
       "title": "micron s memory wall chart compute up 3x every two years hbm bandwidth under 2x",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfrk63/microns_memory_wall_chart_compute_up_3x_every_two"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfroih": {
+      "at": "2026-09-14T20:59:08.073453+00:00",
+      "title": "r9v update now 100 tok s in tg on qwen3 8 flash next iq4_xs on x2 r9700 128gb ram fixed crashes with n gram ssd streaming improved diagnostics plus pinned images q4_k_xl now supported 50 tok s tg",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfroih/r9v_update_now_100_toks_in_tg_on_qwen38_flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfsvgy": {
       "at": "2026-09-14T15:06:56.951682+00:00",
       "title": "another qwen3 8 27b appreciation post",
@@ -5864,6 +5939,26 @@
       "at": "2026-09-14T15:06:56.951609+00:00",
       "title": "llama add maple 20b a1b ternary moe architecture cpu by alexgabbia pull request 27000 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1wg1o5b/llama_add_maple_20ba1b_ternary_moe_architecture"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wg4a0u": {
+      "at": "2026-09-14T20:59:08.073422+00:00",
+      "title": "k2 horizon lineup is out on aa and once again aa plots are misleading",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wg4a0u/k2_horizon_lineup_is_out_on_aa_and_once_again_aa"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wg4kpu": {
+      "at": "2026-09-14T20:59:08.073405+00:00",
+      "title": "xi promotes open source ai zone among brics countries",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wg4kpu/xi_promotes_open_source_ai_zone_among_brics"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wg7dd5": {
+      "at": "2026-09-14T20:59:08.073296+00:00",
+      "title": "ukisai swift qwen3 8 27b 58 3 thinking x1 95 speed while keeping the accuracy of xhigh",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wg82rd": {
+      "at": "2026-09-14T20:59:08.073388+00:00",
+      "title": "for the gpu poor k2 horizon 7b ranks between qwen 3 6 27b and qwen 3 6 35ba3b on the artificial analysis intelligence index",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wg82rd/for_the_gpu_poor_k2_horizon_7b_ranks_between_qwen"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6154,8 +6249,18 @@
       "at": "2026-09-11T22:37:07.341163+00:00",
       "title": "roundtables ai s apocalypse crisis",
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
+    },
+    "rss:https://www.technologyreview.com/?p=1144037": {
+      "at": "2026-09-14T20:59:08.073280+00:00",
+      "title": "ai agents blew the whistle on their cheating colleagues",
+      "url": "technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues"
+    },
+    "rss:https://www.technologyreview.com/?p=1144048": {
+      "at": "2026-09-14T20:59:08.073234+00:00",
+      "title": "the ai industry has taken a doomer turn what now",
+      "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-14T15:06:56.951763+00:00",
+  "updated_at": "2026-09-14T20:59:08.073521+00:00",
   "version": 2
 }
