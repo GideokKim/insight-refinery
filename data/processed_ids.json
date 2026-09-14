@@ -5740,6 +5740,11 @@
       "title": "hoping for optimized smarter upcoming models like deepseek v4 1 flash kvcache engram in small medium big sizes",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfcewd": {
+      "at": "2026-09-14T07:54:34.333303+00:00",
+      "title": "migration from claude code to a private local harness questions",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfcewd/migration_from_claude_code_to_a_private_local"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfdtm7": {
       "at": "2026-09-14T01:05:55.672144+00:00",
       "title": "dear 24g owners try vllm you might be able to run qwen3 8 27b int4 144k fp8 kv on rtx 3090 with better speed tldr vllm aot",
@@ -5769,6 +5774,26 @@
       "at": "2026-09-14T01:05:55.672237+00:00",
       "title": "trump downplays the need to check ai development and says he doesn t want to cede edge to china i think you have a lot of negative forces that are bringing up things that won t happen whoever wins with ai wins",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfm3v4/trump_downplays_the_need_to_check_ai_development"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfpwhj": {
+      "at": "2026-09-14T07:54:34.333250+00:00",
+      "title": "deepseek v4 1 flash beats astra on aa s new benchmark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfpwhj/deepseek_v41_flash_beats_astra_on_aas_new"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfpyvv": {
+      "at": "2026-09-14T07:54:34.333287+00:00",
+      "title": "decided to build a game and test the ceiling of qwen3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfpyvv/decided_to_build_a_game_and_test_the_ceiling_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfqwfh": {
+      "at": "2026-09-14T07:54:34.333210+00:00",
+      "title": "right to intelligence protect your right to run local ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfqwfh/right_to_intelligence_protect_your_right_to_run"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wft5v9": {
+      "at": "2026-09-14T07:54:34.333271+00:00",
+      "title": "5090 stock is almost gone",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wft5v9/5090_stock_is_almost_gone"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6061,6 +6086,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-14T01:05:55.672337+00:00",
+  "updated_at": "2026-09-14T07:54:34.333394+00:00",
   "version": 2
 }
