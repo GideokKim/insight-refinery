@@ -1847,6 +1847,16 @@
       "title": "california brown pelican",
       "url": "simonwillison.net/2026/Sep/12/sighting-399708714"
     },
+    "rss:https://simonwillison.net/2026/Sep/13/shot-scraper/": {
+      "at": "2026-09-14T01:05:55.672280+00:00",
+      "title": "shot scraper 1 12",
+      "url": "simonwillison.net/2026/Sep/13/shot-scraper"
+    },
+    "rss:https://simonwillison.net/2026/Sep/14/commit-rewriter/": {
+      "at": "2026-09-14T01:05:55.672210+00:00",
+      "title": "commit rewriter 0 1",
+      "url": "simonwillison.net/2026/Sep/14/commit-rewriter"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
@@ -5730,6 +5740,11 @@
       "title": "hoping for optimized smarter upcoming models like deepseek v4 1 flash kvcache engram in small medium big sizes",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfbnhc/hoping_for_optimized_smarter_upcoming_models_like"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfdtm7": {
+      "at": "2026-09-14T01:05:55.672144+00:00",
+      "title": "dear 24g owners try vllm you might be able to run qwen3 8 27b int4 144k fp8 kv on rtx 3090 with better speed tldr vllm aot",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfdtm7/dear_24g_owners_try_vllm_you_might_be_able_to_run"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfe9zt": {
       "at": "2026-09-13T22:25:00.343395+00:00",
       "title": "3k 128gb vram 256gb ram ddr4 server",
@@ -5749,6 +5764,11 @@
       "at": "2026-09-13T22:25:00.343281+00:00",
       "title": "plot twist",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfm3v4": {
+      "at": "2026-09-14T01:05:55.672237+00:00",
+      "title": "trump downplays the need to check ai development and says he doesn t want to cede edge to china i think you have a lot of negative forces that are bringing up things that won t happen whoever wins with ai wins",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfm3v4/trump_downplays_the_need_to_check_ai_development"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6041,6 +6061,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-13T22:25:00.343448+00:00",
+  "updated_at": "2026-09-14T01:05:55.672337+00:00",
   "version": 2
 }
