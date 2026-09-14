@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-14T01:05:53.564893+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49695409",
+        "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+        "author": "tosh",
+        "published_at": "2026-09-14T12:01:32+00:00"
+      },
+      "insight": {
+        "title_ko": "애플 Siri에 외부 AI 모델 연동 가능성 포착",
+        "summary_ko": [
+          "최근 공개된 코드 분석 결과에 따르면 애플의 Siri AI를 Claude나 ChatGPT로 대체할 수 있는 기능이 확인되었습니다.",
+          "이러한 기능은 사용자가 기본 어시스턴트 외에 선호하는 외부 LLM을 선택하여 활용할 수 있음을 시사합니다.",
+          "향후 애플 기기 내에서 다양한 생성형 AI 모델과의 통합이 더욱 유연해질 것으로 전망됩니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wfxi36",
+        "title": "RTX PRO 5500 Blackwell (84GB) released",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfxi36/rtx_pro_5500_blackwell_84gb_released/",
+        "author": "/u/TechNerd10191",
+        "published_at": "2026-09-14T08:19:57+00:00"
+      },
+      "insight": {
+        "title_ko": "RTX PRO 5500 Blackwell 84GB 출시",
+        "summary_ko": [
+          "Blackwell 아키텍처 기반의 RTX PRO 5500 Blackwell 84GB가 새롭게 출시되었습니다.",
+          "대용량 VRAM을 탑재하여 로컬 환경에서 대형 언어 모델을 구동하는 실무자들에게 주목받고 있습니다.",
+          "구체적인 성능과 가격 정보는 아직 본문에 공개되지 않았습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wfrk63",
+        "title": "Micron's memory wall chart. Compute up ~3x every two years, HBM bandwidth under 2x",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfrk63/microns_memory_wall_chart_compute_up_3x_every_two/",
+        "author": "/u/Summit-Star001",
+        "published_at": "2026-09-14T02:56:12+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 컴퓨팅과 HBM 대역폭의 성장 격차 분석",
+        "summary_ko": [
+          "Hot Chips 2026에서 발표된 Micron의 자료에 따르면 연산 능력은 2년마다 약 3배 증가하는 반면 HBM 대역폭은 2배 미만으로 증가하고 있습니다.",
+          "로그 스케일로 표시된 연산과 메모리 성능의 격차는 실제보다 훨씬 크며 이른바 메모리 벽 문제가 심화되고 있습니다.",
+          "업계에서는 연산 장치 옆이나 가까이에 메모리를 배치하거나 메모리 내부에 연산 유치를 넣는 방식으로 대응하고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+        "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+        "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+        "author": null,
+        "published_at": "2026-09-10T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "HF Jobs 기반 비동기 GRPO와 LoRA 학습",
+        "summary_ko": [
+          "Hugging Face Blog에서 NCCL 없이 버킷과 프록시를 활용하는 Async GRPO와 LoRA 학습 기법을 공개했습니다.",
+          "이 방식은 복잡한 통신 설정을 제거하여 분산 환경에서의 학습 효율성을 높이는 것을 목표로 합니다.",
+          "실무 엔지니어들은 Hugging Face Jobs 환경에서 더 간단하게 강화학습 파이프라인을 구축할 수 있게 됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

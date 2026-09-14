@@ -545,6 +545,11 @@
       "title": "measuring benchmark optimization in speech recognition",
       "url": "huggingface.co/blog/asr-benchmark-optimization"
     },
+    "rss:https://huggingface.co/blog/asyncgrpo-lora-hfjobs": {
+      "at": "2026-09-14T15:06:56.951566+00:00",
+      "title": "async grpo with lora across hf jobs a bucket a proxy and no nccl",
+      "url": "huggingface.co/blog/asyncgrpo-lora-hfjobs"
+    },
     "rss:https://huggingface.co/blog/baseten": {
       "at": "2026-08-19T17:19:19.683328+00:00",
       "title": "baseten on hugging face inference providers",
@@ -1150,6 +1155,16 @@
       "at": "2026-09-13T07:28:42.319090+00:00",
       "title": "why are ai agents lying cheating and coordinating",
       "url": "yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating"
+    },
+    "rss:https://news.ycombinator.com/item?id=49690260": {
+      "at": "2026-09-14T15:06:56.951695+00:00",
+      "title": "open source ai and open models reading list",
+      "url": "interconnects.ai/p/open-source-ai-reading-list"
+    },
+    "rss:https://news.ycombinator.com/item?id=49695409": {
+      "at": "2026-09-14T15:06:56.951458+00:00",
+      "title": "apple s siri ai can be swapped out for claude chatgpt code shows",
+      "url": "macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -1857,6 +1872,11 @@
       "title": "commit rewriter 0 1",
       "url": "simonwillison.net/2026/Sep/14/commit-rewriter"
     },
+    "rss:https://simonwillison.net/2026/Sep/14/laurie-voss/": {
+      "at": "2026-09-14T15:06:56.951598+00:00",
+      "title": "quoting laurie voss",
+      "url": "simonwillison.net/2026/Sep/14/laurie-voss"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
@@ -1991,6 +2011,11 @@
       "at": "2026-09-03T00:47:52.878165+00:00",
       "title": "techcrunch disrupt 2026 s new real world ai stage features nvidia robots and extinct animals",
       "url": "techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals"
+    },
+    "rss:https://techcrunch.com/?p=3151802": {
+      "at": "2026-09-14T15:06:56.951668+00:00",
+      "title": "a vinyl bar in shibuya is a startup offering fun music apps without any ai prompting",
+      "url": "techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting"
     },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
@@ -2881,6 +2906,11 @@
       "title": "openai puts pro subscriptions on hold due to astra demand",
       "url": "techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand"
     },
+    "rss:https://techcrunch.com/?p=3163060": {
+      "at": "2026-09-14T15:06:56.951581+00:00",
+      "title": "superhuman acquires yc backed notetaker fathom as productivity platforms push for agentic work",
+      "url": "techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work"
+    },
     "rss:https://techcrunch.com/?p=3163102": {
       "at": "2026-09-11T17:45:49.029543+00:00",
       "title": "nscale adds former openai exec fidji simo to its board ahead of potential ipo",
@@ -2930,6 +2960,21 @@
       "at": "2026-09-13T22:25:00.343340+00:00",
       "title": "what s behind the ai industry s latest warnings of doom",
       "url": "techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom"
+    },
+    "rss:https://techcrunch.com/?p=3163478": {
+      "at": "2026-09-14T15:06:56.951708+00:00",
+      "title": "only at techcrunch disrupt 2026 what happens when openai ships your roadmap",
+      "url": "techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap"
+    },
+    "rss:https://techcrunch.com/?p=3163493": {
+      "at": "2026-09-14T15:06:56.951651+00:00",
+      "title": "hear how ai can engineer nature s comeback at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3163516": {
+      "at": "2026-09-14T15:06:56.951720+00:00",
+      "title": "5 days left to exhibit at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5790,10 +5835,35 @@
       "title": "right to intelligence protect your right to run local ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfqwfh/right_to_intelligence_protect_your_right_to_run"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfrk63": {
+      "at": "2026-09-14T15:06:56.951548+00:00",
+      "title": "micron s memory wall chart compute up 3x every two years hbm bandwidth under 2x",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfrk63/microns_memory_wall_chart_compute_up_3x_every_two"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfsvgy": {
+      "at": "2026-09-14T15:06:56.951682+00:00",
+      "title": "another qwen3 8 27b appreciation post",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfsvgy/another_qwen3827b_appreciation_post"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wft5v9": {
       "at": "2026-09-14T07:54:34.333271+00:00",
       "title": "5090 stock is almost gone",
       "url": "reddit.com/r/LocalLLaMA/comments/1wft5v9/5090_stock_is_almost_gone"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfxi36": {
+      "at": "2026-09-14T15:06:56.951527+00:00",
+      "title": "rtx pro 5500 blackwell 84gb released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfxi36/rtx_pro_5500_blackwell_84gb_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wg0vqz": {
+      "at": "2026-09-14T15:06:56.951636+00:00",
+      "title": "the new k2 horizon models seem like an absolute beast",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wg0vqz/the_new_k2_horizon_models_seem_like_an_absolute"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wg1o5b": {
+      "at": "2026-09-14T15:06:56.951609+00:00",
+      "title": "llama add maple 20b a1b ternary moe architecture cpu by alexgabbia pull request 27000 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wg1o5b/llama_add_maple_20ba1b_ternary_moe_architecture"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6086,6 +6156,6 @@
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     }
   },
-  "updated_at": "2026-09-14T07:54:34.333394+00:00",
+  "updated_at": "2026-09-14T15:06:56.951763+00:00",
   "version": 2
 }
