@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-15T01:28:34.606683+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+        "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+        "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+        "author": null,
+        "published_at": "2026-09-15T04:50:36+00:00"
+      },
+      "insight": {
+        "title_ko": "제3자 AI 평가 표준 AEF-1 등장",
+        "summary_ko": [
+          "주요 AI 기업들이 안전성 검증을 위해 제3자 독립 평가 기관의 상시 접근을 허용하는 AEF-1 표준에 동참했습니다.",
+          "Anthropic은 임직원 수준의 권한과 사무실 공간을 제공하는 임베디드 평가자 제도를 단독으로 약속했습니다.",
+          "업계에서는 AI 발전 속도 조절과 통제 중심의 안전성을 둘러싼 논쟁이 더욱 격화되고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

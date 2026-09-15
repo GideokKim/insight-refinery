@@ -1201,10 +1201,20 @@
       "title": "apple s siri ai can be swapped out for claude chatgpt code shows",
       "url": "macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude"
     },
+    "rss:https://news.ycombinator.com/item?id=49697094": {
+      "at": "2026-09-15T07:45:26.936793+00:00",
+      "title": "adversarial fashion makes a statement on ai panopticon",
+      "url": "spectrum.ieee.org/adversarial-fashion"
+    },
     "rss:https://news.ycombinator.com/item?id=49699384": {
       "at": "2026-09-14T20:59:08.073487+00:00",
       "title": "for ai leaders doom is a form of hype",
       "url": "erkansaka.net/2026/09/10/ai-doom-rhetoric-safety-hype"
+    },
+    "rss:https://news.ycombinator.com/item?id=49706223": {
+      "at": "2026-09-15T07:45:26.936692+00:00",
+      "title": "ex ftc boss khan break out the handcuffs for ai ceos citing 1934 precedent",
+      "url": "theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -3056,6 +3066,11 @@
       "title": "nvidia ceo jensen huang tells trump we re not going to let an ai slowdown happen",
       "url": "techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen"
     },
+    "rss:https://techcrunch.com/?p=3164024": {
+      "at": "2026-09-15T07:45:26.936760+00:00",
+      "title": "jensen huang took a call from trump and showed off something else too",
+      "url": "techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -3110,6 +3125,11 @@
       "at": "2026-08-24T11:05:22.951477+00:00",
       "title": "ainews 10 worse 100x cheaper 10000x faster why simulation is taking over",
       "url": "latent.space/p/ainews-10-worse-100x-cheaper-10000x"
+    },
+    "rss:https://www.latent.space/p/ainews-aef-1-standard-emerges-for": {
+      "at": "2026-09-15T07:45:26.936621+00:00",
+      "title": "ainews aef 1 standard emerges for third party evaluators as xai openai and anthropic all cosign",
+      "url": "latent.space/p/ainews-aef-1-standard-emerges-for"
     },
     "rss:https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering": {
       "at": "2026-08-25T05:22:15.372847+00:00",
@@ -5945,6 +5965,11 @@
       "title": "rtx pro 5500 blackwell 84gb released",
       "url": "reddit.com/r/LocalLLaMA/comments/1wfxi36/rtx_pro_5500_blackwell_84gb_released"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wfxl0m": {
+      "at": "2026-09-15T07:45:26.936744+00:00",
+      "title": "running qwen 3 8 next on 16vram 32ram a useful fun post for the gpu poors",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wfxl0m/running_qwen_38_next_on_16vram32ram_a_usefulfun"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wg0vqz": {
       "at": "2026-09-14T15:06:56.951636+00:00",
       "title": "the new k2 horizon models seem like an absolute beast",
@@ -5985,10 +6010,30 @@
       "title": "nvidia s rtx 5090 vanishes from online retail in the us third party sellers now demand as much as 9 500 for nvidia s fastest gpu",
       "url": "reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgg4sx": {
+      "at": "2026-09-15T07:45:26.936729+00:00",
+      "title": "animated transition from aa intelligence index v4 1 to v4 3",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgg4sx/animated_transition_from_aa_intelligence_index"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgiefk": {
+      "at": "2026-09-15T07:45:26.936712+00:00",
+      "title": "running qwen3 8 flash next locally on a 12gb vram card",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgiefk/running_qwen38flashnext_locally_on_a_12gb_vram"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgii3h": {
       "at": "2026-09-15T01:28:36.050074+00:00",
       "title": "deepseek engineer relections on rsi burying my talent to yesterday",
       "url": "reddit.com/r/LocalLLaMA/comments/1wgii3h/deepseek_engineer_relections_on_rsi_burying_my"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgjg9a": {
+      "at": "2026-09-15T07:45:26.936779+00:00",
+      "title": "i think muse glimmer is slept on",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgjg9a/i_think_muse_glimmer_is_slept_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgmhon": {
+      "at": "2026-09-15T07:45:26.936667+00:00",
+      "title": "if you have a 3090 or other 30xx for local llms i have something for you",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgmhon/if_you_have_a_3090_or_other_30xx_for_local_llms_i"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6291,6 +6336,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-15T01:28:36.050407+00:00",
+  "updated_at": "2026-09-15T07:45:26.936838+00:00",
   "version": 2
 }
