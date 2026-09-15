@@ -310,6 +310,11 @@
       "title": "introducing gemini 3 8 flash and 3 8 flash cyber",
       "url": "deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber"
     },
+    "rss:https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
+      "at": "2026-09-15T18:14:05.265473+00:00",
+      "title": "introducing gemini 3 8 live and 3 8 live extended thinking",
+      "url": "deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
+    },
     "rss:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": {
       "at": "2026-09-03T17:25:47.816122+00:00",
       "title": "introducing weathernext 3 our most advanced and accurate global weather ai model",
@@ -515,6 +520,26 @@
       "title": "from wafer out to first token codifying supply chain expertise with nemotron and palantir foundry",
       "url": "developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122482": {
+      "at": "2026-09-15T18:14:05.265532+00:00",
+      "title": "how nvidia groq 3 lpx deterministic execution drives power efficient high interactivity inference on nvidia vera rubin",
+      "url": "developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122508": {
+      "at": "2026-09-15T18:14:05.265514+00:00",
+      "title": "dense vs moe models active parameters throughput and when to choose each",
+      "url": "developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122518": {
+      "at": "2026-09-15T18:14:05.265544+00:00",
+      "title": "how nvidia nvlink 6 delivers multi layer resiliency for ai factories",
+      "url": "developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122520": {
+      "at": "2026-09-15T18:14:05.265561+00:00",
+      "title": "scaling federated learning across docker kubernetes and slurm with nvidia flare",
+      "url": "developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -614,6 +639,11 @@
       "at": "2026-08-25T17:21:53.012144+00:00",
       "title": "granite 4 2 llms how they re built",
       "url": "huggingface.co/blog/ibm-granite/granite-4-2"
+    },
+    "rss:https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
+      "at": "2026-09-15T18:14:05.265604+00:00",
+      "title": "your agent aced the task will it do it again",
+      "url": "huggingface.co/blog/ibm-research/altk-evolve-consistency"
     },
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-hmm": {
       "at": "2026-08-19T12:14:50.156795+00:00"
@@ -1225,6 +1255,11 @@
       "at": "2026-09-15T07:45:26.936692+00:00",
       "title": "ex ftc boss khan break out the handcuffs for ai ceos citing 1934 precedent",
       "url": "theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
+    },
+    "rss:https://news.ycombinator.com/item?id=49715113": {
+      "at": "2026-09-15T18:14:05.265594+00:00",
+      "title": "there s a 100 chance ai agents are ruining the internet",
+      "url": "404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -3061,10 +3096,20 @@
       "title": "hear how ai can engineer nature s comeback at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026"
     },
+    "rss:https://techcrunch.com/?p=3163504": {
+      "at": "2026-09-15T18:14:05.265665+00:00",
+      "title": "discover how to take your startup from prototype to production at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026"
+    },
     "rss:https://techcrunch.com/?p=3163516": {
       "at": "2026-09-14T15:06:56.951720+00:00",
       "title": "5 days left to exhibit at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days"
+    },
+    "rss:https://techcrunch.com/?p=3163539": {
+      "at": "2026-09-15T18:14:05.265630+00:00",
+      "title": "former tiktok execs built an app that uses ai to teach you how to pose for a photo",
+      "url": "techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo"
     },
     "rss:https://techcrunch.com/?p=3163598": {
       "at": "2026-09-14T20:59:08.073374+00:00",
@@ -3090,6 +3135,31 @@
       "at": "2026-09-15T07:45:26.936760+00:00",
       "title": "jensen huang took a call from trump and showed off something else too",
       "url": "techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too"
+    },
+    "rss:https://techcrunch.com/?p=3164027": {
+      "at": "2026-09-15T18:14:05.265672+00:00",
+      "title": "4 days left to exhibit at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3164139": {
+      "at": "2026-09-15T18:14:05.265613+00:00",
+      "title": "aeo startup profound hits unicorn valuation raises 180m series d 7 months after last round",
+      "url": "techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round"
+    },
+    "rss:https://techcrunch.com/?p=3164278": {
+      "at": "2026-09-15T18:14:05.265552+00:00",
+      "title": "openai anthropic google have been in talks on ai safety for weeks",
+      "url": "techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks"
+    },
+    "rss:https://techcrunch.com/?p=3164295": {
+      "at": "2026-09-15T18:14:05.265584+00:00",
+      "title": "meta expands subscription push with new ai focused plans",
+      "url": "techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans"
+    },
+    "rss:https://techcrunch.com/?p=3164419": {
+      "at": "2026-09-15T18:14:05.265622+00:00",
+      "title": "ai agents now have a place to snitch",
+      "url": "techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6050,6 +6120,11 @@
       "title": "i think muse glimmer is slept on",
       "url": "reddit.com/r/LocalLLaMA/comments/1wgjg9a/i_think_muse_glimmer_is_slept_on"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgm5dg": {
+      "at": "2026-09-15T18:14:05.265647+00:00",
+      "title": "what are open source views on slowing down ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgm5dg/what_are_opensource_views_on_slowing_down_ai"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgmhon": {
       "at": "2026-09-15T07:45:26.936667+00:00",
       "title": "if you have a 3090 or other 30xx for local llms i have something for you",
@@ -6074,6 +6149,21 @@
       "at": "2026-09-15T13:33:56.692225+00:00",
       "title": "closed source ai is more dangerous than open source ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1wgyqnm/closed_source_ai_is_more_dangerous_than_open"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgz8fo": {
+      "at": "2026-09-15T18:14:05.265639+00:00",
+      "title": "occamy 1 0 by accio lab",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgz8fo/occamy10_by_accio_lab"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh21e9": {
+      "at": "2026-09-15T18:14:05.265570+00:00",
+      "title": "byteshape qwen 3 8 27b to kl diverge or not to kl diverge part 2 metric boogaloo",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wh21e9/byteshape_qwen_38_27b_to_kl_diverge_or_not_to_kl"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh2cga": {
+      "at": "2026-09-15T18:14:05.265655+00:00",
+      "title": "got it unopened off craigslist for 4k excited to start hosting my own models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wh2cga/got_it_unopened_off_craigslist_for_4k_excited_to"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6381,6 +6471,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-15T13:33:56.692295+00:00",
+  "updated_at": "2026-09-15T18:14:05.265706+00:00",
   "version": 2
 }

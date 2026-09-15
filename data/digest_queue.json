@@ -111,6 +111,160 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+        "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+        "author": null,
+        "published_at": "2026-09-15T17:05:57+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemini 3.8 Live 및 Extended Thinking 공개",
+        "summary_ko": [
+          "Google DeepMind가 Gemini 3.8 Live와 3.8 Live Extended Thinking을 새롭게 공개했습니다.",
+          "실시간 상호작용 기능과 확장된 사고 능력이 결합되어 더욱 고도화된 응답을 제공합니다.",
+          "실무 환경에서 복잡한 추론과 실시간 대화가 필요한 AI 모델 활용 방식을 개선할 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122508",
+        "title": "Dense vs. MoE Models: Active Parameters, Throughput, and When to Choose Each",
+        "url": "https://developer.nvidia.com/blog/dense-vs-moe-models-active-parameters-throughput-and-when-to-choose-each/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-15T17:00:11+00:00"
+      },
+      "insight": {
+        "title_ko": "Dense 모델과 MoE 모델의 구조 및 특징 비교",
+        "summary_ko": [
+          "Dense 모델과 MoE 모델은 파라미터를 조직하는 방식에 따라 활성화되는 방식과 성능에 차이를 보인다.",
+          "Nemotron 3.5 Lightning은 MoE 아키텍처를 사용하여 토큰마다 일부 파라미터만 선택적으로 활성화한다.",
+          "실무자는 모델 아키텍처별 활성 파라미터와 처리량의 특성을 이해하고 상황에 맞게 선택해야 한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122482",
+        "title": "How NVIDIA Groq 3 LPX Deterministic Execution Drives Power-Efficient High-Interactivity Inference on NVIDIA Vera Rubin",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-groq-3-lpx-deterministic-execution-drives-power-efficient-high-interactivity-inference-on-nvidia-vera-rubin/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-09-15T16:55:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Vera Rubin의 전력 효율적 추론",
+        "summary_ko": [
+          "전력은 AI 팩토리 구축과 운영에 있어 가장 핵심적인 제약 사항으로 부각되고 있습니다.",
+          "NVIDIA Vera Rubin 플랫폼은 제한된 전력 예산 내에서 최대의 성능을 발휘하도록 설계되었습니다.",
+          "Groq 3 LPX의 결정론적 실행 방식은 고효율 고대화 추론 작업을 가능하게 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122518",
+        "title": "How NVIDIA NVLink 6 Delivers Multi-Layer Resiliency for AI Factories",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-nvlink-6-delivers-multi-layer-resiliency-for-ai-factories/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-15T16:55:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA NVLink 6의 AI 팩토리 복원력 확보 방안",
+        "summary_ko": [
+          "대규모 AI 팩토리 운영에서는 가동 중단 없는 연속적인 처리량 극대화가 생산성에 핵심적입니다.",
+          "대규모 AI 학습 시 클러스터 내 모든 GPU는 초당 수천 번의 집합 연산을 통해 그라디언트를 동기화해야 합니다.",
+          "추론 과정에서도 계획되지 않은 다운타임은 전체 요청 처리량을 감소시키고 수익 창출을 제한합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3164278",
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-09-15T15:47:03+00:00"
+      },
+      "insight": {
+        "title_ko": "주요 AI 기업들의 AI 안전성 논의 진행",
+        "summary_ko": [
+          "OpenAI, Anthropic, Google DeepMind가 수주간 AI 안전성에 관한 논의를 지속해 온 것으로 확인되었습니다.",
+          "이번 논의는 트럼프 행정부 팀이 AI 안전성 우려를 일축하고 중국과의 경쟁 속도를 강조하는 가운데 이루어졌습니다.",
+          "업계 주요 플레이어들이 규제 및 안전 공조 방안을 모색하고 있다는 점에서 실무적으로 중요한 의미를 가집니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122520",
+        "title": "Scaling Federated Learning Across Docker, Kubernetes, and Slurm with NVIDIA FLARE",
+        "url": "https://developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-15T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA FLARE를 활용한 연합학습 인프라 확장",
+        "summary_ko": [
+          "연합학습 프로젝트가 성장함에 따라 알고리즘 실행을 넘어 공유 인프라 운영의 중요성이 대두되고 있습니다.",
+          "NVIDIA FLARE는 Docker, Kubernetes, Slurm 환경 전반에서 연합학습의 원활한 확장을 지원합니다.",
+          "실무 환경에서 GPU 할당과 연구 분리 및 참여 기관의 데이터 통제권을 유지하며 연합학습을 확장할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wh21e9",
+        "title": "ByteShape Qwen 3.8 27B: To KL Diverge or Not to KL Diverge, Part 2: Metric Boogaloo",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh21e9/byteshape_qwen_38_27b_to_kl_diverge_or_not_to_kl/",
+        "author": "/u/enrique-byteshape",
+        "published_at": "2026-09-15T14:31:23+00:00"
+      },
+      "insight": {
+        "title_ko": "ByteShape Qwen 3.8 27B GGUF 모델 출시",
+        "summary_ko": [
+          "ByteShape 팀이 Qwen 3.8 27B 모델에 대한 ShapeLearn GGUF 양자화 버전을 새롭게 공개했습니다.",
+          "3.84 bpw 모델은 BF16 성능의 99.63%에 달하는 정확도를 기록하며 다양한 GPU에서 우수한 품질과 속도를 보여줍니다.",
+          "KL Divergence가 낮다고 해서 반드시 실제 태스크 성능이 더 우수하지는 않다는 연구 내용도 함께 다루었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
