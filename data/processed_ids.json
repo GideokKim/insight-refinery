@@ -95,6 +95,11 @@
       "title": "claude users found ways around safeguards for bioweapons research",
       "url": "arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research"
     },
+    "rss:https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/": {
+      "at": "2026-09-15T13:33:56.692050+00:00",
+      "title": "exclusive paying for frontier ai models buys 4 month head start at 5x the cost",
+      "url": "arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models"
+    },
     "rss:https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/": {
       "at": "2026-09-14T20:59:08.073328+00:00",
       "title": "founder s cost cutting obsession drove unitree lead in cheap humanoid robots",
@@ -1205,6 +1210,11 @@
       "at": "2026-09-15T07:45:26.936793+00:00",
       "title": "adversarial fashion makes a statement on ai panopticon",
       "url": "spectrum.ieee.org/adversarial-fashion"
+    },
+    "rss:https://news.ycombinator.com/item?id=49697477": {
+      "at": "2026-09-15T13:33:56.692206+00:00",
+      "title": "dropping ebpf cpu cost by about 90 with memoization not ai gen",
+      "url": "nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90"
     },
     "rss:https://news.ycombinator.com/item?id=49699384": {
       "at": "2026-09-14T20:59:08.073487+00:00",
@@ -3011,6 +3021,11 @@
       "title": "kimi maker moonshot ai targets 2b in annual revenue",
       "url": "techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue"
     },
+    "rss:https://techcrunch.com/?p=3163310": {
+      "at": "2026-09-15T13:33:56.692166+00:00",
+      "title": "early anthropic hire former metr coo have found a way to rein in rogue ai agents",
+      "url": "techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents"
+    },
     "rss:https://techcrunch.com/?p=3163323": {
       "at": "2026-09-12T01:07:41.366412+00:00",
       "title": "mecka ai nears 500m valuation in sequoia led deal amid rush for robot training data",
@@ -3065,6 +3080,11 @@
       "at": "2026-09-15T01:28:36.050194+00:00",
       "title": "nvidia ceo jensen huang tells trump we re not going to let an ai slowdown happen",
       "url": "techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen"
+    },
+    "rss:https://techcrunch.com/?p=3163913": {
+      "at": "2026-09-15T13:33:56.692096+00:00",
+      "title": "salesforce and nvidia s new reasoning model is everything the ai labs should fear",
+      "url": "techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear"
     },
     "rss:https://techcrunch.com/?p=3164024": {
       "at": "2026-09-15T07:45:26.936760+00:00",
@@ -6035,6 +6055,26 @@
       "title": "if you have a 3090 or other 30xx for local llms i have something for you",
       "url": "reddit.com/r/LocalLLaMA/comments/1wgmhon/if_you_have_a_3090_or_other_30xx_for_local_llms_i"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgszma": {
+      "at": "2026-09-15T13:33:56.692144+00:00",
+      "title": "voodoo dynamic quant now mit licensed",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgwe4n": {
+      "at": "2026-09-15T13:33:56.692182+00:00",
+      "title": "crofai cheapest inference provider in the world gets exposed as an openrouter wrapper routing requests to smaller cheaper models at up to 20x markup crofai responds to wire fraud allegations by denying everything then backtracking then 3 hours later wiping their entire online presence",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgwe4n/crofai_cheapest_inference_provider_in_the_world"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgwh7k": {
+      "at": "2026-09-15T13:33:56.692245+00:00",
+      "title": "qwen3 8 27b turbo fable cold fusion 735 882 heretic uncensored neo coder max mtp gguf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgyqnm": {
+      "at": "2026-09-15T13:33:56.692225+00:00",
+      "title": "closed source ai is more dangerous than open source ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgyqnm/closed_source_ai_is_more_dangerous_than_open"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -6325,6 +6365,11 @@
       "title": "roundtables ai s apocalypse crisis",
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     },
+    "rss:https://www.technologyreview.com/?p=1144028": {
+      "at": "2026-09-15T13:33:56.692124+00:00",
+      "title": "what s at stake in ai s trillion dollar gamble",
+      "url": "technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk"
+    },
     "rss:https://www.technologyreview.com/?p=1144037": {
       "at": "2026-09-14T20:59:08.073280+00:00",
       "title": "ai agents blew the whistle on their cheating colleagues",
@@ -6336,6 +6381,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-15T07:45:26.936838+00:00",
+  "updated_at": "2026-09-15T13:33:56.692295+00:00",
   "version": 2
 }

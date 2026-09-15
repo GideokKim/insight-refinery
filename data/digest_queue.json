@@ -23,6 +23,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+        "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
+        "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
+        "author": "Jeremy Hsu",
+        "published_at": "2026-09-15T12:00:41+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 AI와 프론티어 모델의 성능 격차 축소",
+        "summary_ko": [
+          "Mozilla 보고서에 따르면 미국 프론티어 AI와 중국 오픈웨이트 모델의 성능 격차가 4.4개월로 좁혀졌습니다.",
+          "Moonshot AI의 Kimi K3는 Anthropic의 Fable 5와 성능이 유사하면서도 비용은 30퍼센트 수준에 불과합니다.",
+          "전문적인 고난도 작업이나 고강도 검색 등을 제외하면 대다수 조직이 저렴한 오픈 모델을 기본으로 채택하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3163913",
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+        "author": "Julie Bort",
+        "published_at": "2026-09-15T12:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Salesforce와 Nvidia의 새로운 AI 추론 모델 공개",
+        "summary_ko": [
+          "Salesforce와 Nvidia는 영업, 마케팅, 고객 지원 업무를 수행하도록 훈련된 새로운 추론 모델 Koa를 공개했습니다.",
+          "Koa 모델은 Nvidia의 오픈 웨이트 Nemotron 모델을 기반으로 구축되었습니다.",
+          "이번 협력 모델은 기존 AI 연구소들에 큰 위협이 될 수 있는 실무 특화 성능을 보여줍니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1144028",
+        "title": "What’s at stake in AI’s trillion-dollar gamble",
+        "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+        "author": "David Rotman",
+        "published_at": "2026-09-15T10:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 인프라 투자의 거대한 경제적 리스크",
+        "summary_ko": [
+          "하이퍼스케일러들은 AI 데이터 센터에 막대한 자금을 투자하고 있으며 2027년까지 지출이 1조 1천억 달러에 이를 것으로 예상된다.",
+          "연구에 따르면 2030년까지 손익분기점을 넘으려면 AI 기업들은 생산성을 2.7배 높여야 하며 실패 시 역사상 최대 규모의 자본 오배정이 될 수 있다.",
+          "현재 천문학적인 인프라 투자 규모에 비해 AI 수익은 이에 미치지 못하고 있어 기업들의 재무 건전성과 거시경제에 큰 부담으로 작용하고 있다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wgszma",
+        "title": "Voodoo Dynamic Quant - Now MIT Licensed",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed/",
+        "author": "/u/1ncehost",
+        "published_at": "2026-09-15T06:59:33+00:00"
+      },
+      "insight": {
+        "title_ko": "Voodoo Dynamic Quant MIT 라이선스 공개",
+        "summary_ko": [
+          "Voodoo Dynamic Quant가 MIT 라이선스로 오픈소스 공개되어 개발자들이 직접 커스텀 동적 양자화를 수행할 수 있게 되었습니다.",
+          "이 기법은 경사 하강법을 활용해 텐서별 최적의 양자화 수준을 찾아내며, 특히 공격적인 저비트 양자화에서 뛰어난 성능을 보입니다.",
+          "KL divergence와 목표 파일 크기를 손실 함수로 사용하여 참조 모델과의 성능 차이를 최소화합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
