@@ -265,6 +265,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3164453",
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "author": "Sarah Perez",
+        "published_at": "2026-09-15T20:12:53+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta, WhatsApp Business 설정용 AI 에이전트 지원",
+        "summary_ko": [
+          "Meta는 개발자가 AI 코딩 에이전트를 활용해 WhatsApp Business 설정을 자동화할 수 있는 MCP 서버를 새롭게 도입했습니다.",
+          "이 기능을 통해 Claude, Cursor, Codex, ChatGPT 등의 도구로 메시지 템플릿 작성과 테스트를 처리할 수 있습니다.",
+          "반복적인 설정과 문제 해결 과정을 효율화하여 개발자의 실무 생산성을 향상시키는 데 기여합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/good-start-labs",
+        "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+        "url": "https://www.latent.space/p/good-start-labs",
+        "author": "Richard MacManus",
+        "published_at": "2026-09-15T20:11:54+00:00"
+      },
+      "insight": {
+        "title_ko": "게임 기반 AI 학습을 통한 실무 역량 전이 연구",
+        "summary_ko": [
+          "Good Start Labs는 전략 게임을 활용하여 AI 모델의 실무 역량을 강화하는 연구를 진행하고 있습니다.",
+          "철도 주식 게임으로 학습시킨 모델이 실제 금융 리서치 작업 성능을 향상시키는 결과를 보였습니다.",
+          "강화학습 환경의 설계 방식에 따라 AI가 습득한 기술이 실제 업무 환경으로 전이될 수 있음이 입증되었습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google Research Blog",
+        "source_type": "rss",
+        "external_id": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+        "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+        "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+        "author": null,
+        "published_at": "2026-09-15T20:00:35+00:00"
+      },
+      "insight": {
+        "title_ko": "Retrieve-for-Train을 통한 AI 검색 가속화",
+        "summary_ko": [
+          "Google Research는 복잡한 AI 검색에서 발생하는 추론 병목 현상을 우회하는 방법을 소개했습니다.",
+          "Retrieve-for-Train 기법을 활용하여 AI 검색 과정을 가속화하는 연구 내용을 다루고 있습니다.",
+          "해당 알고리즘과 이론적 접근은 향후 대규모 AI 모델의 효율성 개선에 기여할 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+        "title": "Agility’s new humanoid robot will stop, squat to avoid harming human coworkers",
+        "url": "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
+        "author": "Jeremy Hsu",
+        "published_at": "2026-09-15T18:33:02+00:00"
+      },
+      "insight": {
+        "title_ko": "Agility, 인간 협업 안전성 강화한 신형 휴머노이드 공개",
+        "summary_ko": [
+          "Agility Robotics가 인간과 안전하게 함께 일할 수 있도록 설계된 신형 휴머노이드 로봇을 공개했다.",
+          "신형 로봇은 인간 감지 시 이동을 멈추거나 회피하고, 근접 시 웅크리는 등의 자율 안전 조치를 수행한다.",
+          "이러한 안전 기능은 물리적 격리 없이 창고나 자동차 공장에서의 로봇 활용 범위를 크게 넓힐 것으로 기대된다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wh5elt",
+        "title": "Cut Qwen3.8-27B Reasoning Tokens by 40% -- 3.8 'ThinkingCap' benchmarked!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5elt/cut_qwen3827b_reasoning_tokens_by_40_38/",
+        "author": "/u/returnity",
+        "published_at": "2026-09-15T16:36:21+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-27B 추론 토큰 최적화 모델",
+        "summary_ko": [
+          "UkisAI는 Qwen3.8-27B 모델의 과도한 추론을 줄이기 위해 RL 등을 활용한 Swift-Qwen3.8-27B를 공개했다.",
+          "이 파인튜닝 모델은 기존 대비 30~50% 적은 추론 토큰을 사용하면서도 동등한 성능과 품질을 유지한다.",
+          "실제 평가 결과 처리 시간이 절반으로 단축되어 효율성이 크게 향상된 것으로 검증되었다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wgu62z",
+        "title": "jinfer: An open-source AI inference engine for the JVM. Finally, AI in jar.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgu62z/jinfer_an_opensource_ai_inference_engine_for_the/",
+        "author": "/u/mukel90",
+        "published_at": "2026-09-15T08:09:43+00:00"
+      },
+      "insight": {
+        "title_ko": "JVM 기반 오픈소스 AI 추론 엔진 jinfer 공개",
+        "summary_ko": [
+          "jinfer는 Python 런타임이나 외부 프로세스 없이 JVM 환경에서 직접 동작하도록 설계된 오픈소스 AI 추론 엔진입니다.",
+          "채팅, 비전, 오디오 변환, 임베딩, 텍스트 음성 변환 등 다양한 멀티모달 모델과 대중적인 가중치 형식을 지원합니다.",
+          "Spring AI 및 LangChain4j와 통합되며 GraalVM Native Image를 지원하여 엔터프라이즈 환경에서의 활용도가 높습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

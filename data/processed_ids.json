@@ -70,6 +70,11 @@
       "title": "world humanoid robot games show runners breaking records bursting into flames",
       "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
     },
+    "rss:https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/": {
+      "at": "2026-09-15T22:54:27.656860+00:00",
+      "title": "agility s new humanoid robot will stop squat to avoid harming human coworkers",
+      "url": "arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers"
+    },
     "rss:https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/": {
       "at": "2026-09-15T01:28:36.050314+00:00",
       "title": "ai bots timmy ren and jackie are flooding social media with slop",
@@ -1617,6 +1622,11 @@
       "title": "an ai tool for prioritizing candidate biomarkers from wearable sensor data",
       "url": "research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data"
     },
+    "rss:https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/": {
+      "at": "2026-09-15T22:54:27.656843+00:00",
+      "title": "bypassing inference bottlenecks accelerating complex ai search with retrieve for train",
+      "url": "research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train"
+    },
     "rss:https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/": {
       "at": "2026-08-19T17:19:19.683361+00:00",
       "title": "empty shelves or lost keys recall is the bottleneck for parametric factuality",
@@ -2976,6 +2986,11 @@
       "title": "ai research startup listen labs scrubbed a 1 5b funding round for salesforce talks",
       "url": "techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
     },
+    "rss:https://techcrunch.com/?p=3162590": {
+      "at": "2026-09-15T22:54:27.656962+00:00",
+      "title": "the ai graveyard a running list of projects and startups that didn t make it",
+      "url": "techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it"
+    },
     "rss:https://techcrunch.com/?p=3162605": {
       "at": "2026-09-10T22:36:21.831832+00:00",
       "title": "india s pocket fm doubles revenue run rate to 500m as ai powers 93 of audio content",
@@ -3161,6 +3176,21 @@
       "title": "ai agents now have a place to snitch",
       "url": "techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch"
     },
+    "rss:https://techcrunch.com/?p=3164442": {
+      "at": "2026-09-15T22:54:27.656932+00:00",
+      "title": "us data centers could consume more natural gas than germany and japan combined by 2035",
+      "url": "techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035"
+    },
+    "rss:https://techcrunch.com/?p=3164453": {
+      "at": "2026-09-15T22:54:27.656783+00:00",
+      "title": "meta now lets ai agents handle the boring parts of whatsapp business setup",
+      "url": "techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup"
+    },
+    "rss:https://techcrunch.com/?p=3164506": {
+      "at": "2026-09-15T22:54:27.656915+00:00",
+      "title": "the ai data center boom is colliding with cities scarred by big industry",
+      "url": "techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -3330,6 +3360,11 @@
       "at": "2026-08-24T11:19:10.800860+00:00",
       "title": "frontier model cost and open weights popularity is driving demand for model routing",
       "url": "latent.space/p/glean-model-routing"
+    },
+    "rss:https://www.latent.space/p/good-start-labs": {
+      "at": "2026-09-15T22:54:27.656822+00:00",
+      "title": "can skills learned in games transfer to real world work",
+      "url": "latent.space/p/good-start-labs"
     },
     "rss:https://www.latent.space/p/grok-bot": {
       "at": "2026-09-05T16:21:30.567914+00:00",
@@ -6135,6 +6170,16 @@
       "title": "voodoo dynamic quant now mit licensed",
       "url": "reddit.com/r/LocalLLaMA/comments/1wgszma/voodoo_dynamic_quant_now_mit_licensed"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgu62z": {
+      "at": "2026-09-15T22:54:27.656898+00:00",
+      "title": "jinfer an open source ai inference engine for the jvm finally ai in jar",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgu62z/jinfer_an_opensource_ai_inference_engine_for_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgvw4j": {
+      "at": "2026-09-15T22:54:27.656992+00:00",
+      "title": "best hardware for qwen 3 8",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgvw4j/best_hardware_for_qwen_38"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgwe4n": {
       "at": "2026-09-15T13:33:56.692182+00:00",
       "title": "crofai cheapest inference provider in the world gets exposed as an openrouter wrapper routing requests to smaller cheaper models at up to 20x markup crofai responds to wire fraud allegations by denying everything then backtracking then 3 hours later wiping their entire online presence",
@@ -6164,6 +6209,21 @@
       "at": "2026-09-15T18:14:05.265655+00:00",
       "title": "got it unopened off craigslist for 4k excited to start hosting my own models",
       "url": "reddit.com/r/LocalLLaMA/comments/1wh2cga/got_it_unopened_off_craigslist_for_4k_excited_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh4gai": {
+      "at": "2026-09-15T22:54:27.656978+00:00",
+      "title": "qwen3 8 27b nvfp4 1m context so far so good",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wh4gai/qwen3827bnvfp4_1m_context_so_far_so_good"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh5elt": {
+      "at": "2026-09-15T22:54:27.656881+00:00",
+      "title": "cut qwen3 8 27b reasoning tokens by 40 3 8 thinkingcap benchmarked",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wh5elt/cut_qwen3827b_reasoning_tokens_by_40_38"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh5fpa": {
+      "at": "2026-09-15T22:54:27.656948+00:00",
+      "title": "apple foundation models local ai natively on macos 27",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6471,6 +6531,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-15T18:14:05.265706+00:00",
+  "updated_at": "2026-09-15T22:54:27.657070+00:00",
   "version": 2
 }
