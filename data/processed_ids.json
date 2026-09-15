@@ -70,6 +70,11 @@
       "title": "world humanoid robot games show runners breaking records bursting into flames",
       "url": "arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames"
     },
+    "rss:https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/": {
+      "at": "2026-09-15T01:28:36.050314+00:00",
+      "title": "ai bots timmy ren and jackie are flooding social media with slop",
+      "url": "arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam"
+    },
     "rss:https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/": {
       "at": "2026-09-14T20:59:08.073220+00:00",
       "title": "ai leaders want to hit the brakes after years of reckless speed",
@@ -1922,6 +1927,11 @@
       "title": "quoting laurie voss",
       "url": "simonwillison.net/2026/Sep/14/laurie-voss"
     },
+    "rss:https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/": {
+      "at": "2026-09-15T01:28:36.050240+00:00",
+      "title": "the contagion of fear",
+      "url": "simonwillison.net/2026/Sep/14/the-contagion-of-fear"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
@@ -3040,6 +3050,11 @@
       "at": "2026-09-14T20:59:08.073160+00:00",
       "title": "openai buys smartphone camera maker glass imaging for 300 million report says",
       "url": "techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says"
+    },
+    "rss:https://techcrunch.com/?p=3163882": {
+      "at": "2026-09-15T01:28:36.050194+00:00",
+      "title": "nvidia ceo jensen huang tells trump we re not going to let an ai slowdown happen",
+      "url": "techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5960,6 +5975,21 @@
       "title": "for the gpu poor k2 horizon 7b ranks between qwen 3 6 27b and qwen 3 6 35ba3b on the artificial analysis intelligence index",
       "url": "reddit.com/r/LocalLLaMA/comments/1wg82rd/for_the_gpu_poor_k2_horizon_7b_ranks_between_qwen"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgd14p": {
+      "at": "2026-09-15T01:28:36.050149+00:00",
+      "title": "nvidia unveils rtx pro 5500 blackwell workstation gpu with 84 gb gddr7 memory",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgd14p/nvidia_unveils_rtx_pro_5500_blackwell_workstation"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgeo55": {
+      "at": "2026-09-15T01:28:36.050270+00:00",
+      "title": "nvidia s rtx 5090 vanishes from online retail in the us third party sellers now demand as much as 9 500 for nvidia s fastest gpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgii3h": {
+      "at": "2026-09-15T01:28:36.050074+00:00",
+      "title": "deepseek engineer relections on rsi burying my talent to yesterday",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgii3h/deepseek_engineer_relections_on_rsi_burying_my"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -6261,6 +6291,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-14T20:59:08.073521+00:00",
+  "updated_at": "2026-09-15T01:28:36.050407+00:00",
   "version": 2
 }
