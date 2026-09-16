@@ -1997,6 +1997,11 @@
       "title": "the contagion of fear",
       "url": "simonwillison.net/2026/Sep/14/the-contagion-of-fear"
     },
+    "rss:https://simonwillison.net/2026/Sep/15/gemini-live/": {
+      "at": "2026-09-16T01:25:52.358012+00:00",
+      "title": "gemini live audio",
+      "url": "simonwillison.net/2026/Sep/15/gemini-live"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
@@ -3185,6 +3190,11 @@
       "at": "2026-09-15T22:54:27.656783+00:00",
       "title": "meta now lets ai agents handle the boring parts of whatsapp business setup",
       "url": "techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup"
+    },
+    "rss:https://techcrunch.com/?p=3164495": {
+      "at": "2026-09-16T01:25:52.358067+00:00",
+      "title": "we don t need ai regulation leave safety to us nvidia s jensen huang says",
+      "url": "techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says"
     },
     "rss:https://techcrunch.com/?p=3164506": {
       "at": "2026-09-15T22:54:27.656915+00:00",
@@ -6190,6 +6200,11 @@
       "title": "qwen3 8 27b turbo fable cold fusion 735 882 heretic uncensored neo coder max mtp gguf",
       "url": "reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgy6tm": {
+      "at": "2026-09-16T01:25:52.358050+00:00",
+      "title": "deepseek v4 1f q4 on m3 ultra with native dspark mtp 40tps 800tps",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wgy6tm/deepseek_v41f_q4_on_m3_ultra_with_native_dspark"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wgyqnm": {
       "at": "2026-09-15T13:33:56.692225+00:00",
       "title": "closed source ai is more dangerous than open source ai",
@@ -6224,6 +6239,11 @@
       "at": "2026-09-15T22:54:27.656948+00:00",
       "title": "apple foundation models local ai natively on macos 27",
       "url": "reddit.com/r/LocalLLaMA/comments/1wh5fpa/apple_foundation_models_local_ai_natively_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whf7ov": {
+      "at": "2026-09-16T01:25:52.358084+00:00",
+      "title": "don t buy a 9k rtx 5090 instead",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whf7ov/dont_buy_a_9k_rtx_5090_instead"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6531,6 +6551,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-15T22:54:27.657070+00:00",
+  "updated_at": "2026-09-16T01:25:52.358124+00:00",
   "version": 2
 }
