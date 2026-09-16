@@ -1261,6 +1261,11 @@
       "title": "ex ftc boss khan break out the handcuffs for ai ceos citing 1934 precedent",
       "url": "theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325"
     },
+    "rss:https://news.ycombinator.com/item?id=49713999": {
+      "at": "2026-09-16T07:41:46.642755+00:00",
+      "title": "cartesian ai 3d modeling for design",
+      "url": "formas.ai/cartesian"
+    },
     "rss:https://news.ycombinator.com/item?id=49715113": {
       "at": "2026-09-15T18:14:05.265594+00:00",
       "title": "there s a 100 chance ai agents are ruining the internet",
@@ -6245,6 +6250,21 @@
       "title": "don t buy a 9k rtx 5090 instead",
       "url": "reddit.com/r/LocalLLaMA/comments/1whf7ov/dont_buy_a_9k_rtx_5090_instead"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whiz3y": {
+      "at": "2026-09-16T07:41:46.642785+00:00",
+      "title": "what s the next local model you are excited about",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whiz3y/whats_the_next_local_model_you_are_excited_about"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whjezk": {
+      "at": "2026-09-16T07:41:46.642707+00:00",
+      "title": "lact pr to let nvidia gpus go lower than stock vbios limit so below 400w for 5090 or below 250w for 6000 pro maxq",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whjezk/lact_pr_to_let_nvidia_gpus_go_lower_than_stock"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whk35i": {
+      "at": "2026-09-16T07:41:46.642772+00:00",
+      "title": "qwen3 8 27b game dev part 2",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whk35i/qwen38_27b_game_dev_part_2"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -6551,6 +6571,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-16T01:25:52.358124+00:00",
+  "updated_at": "2026-09-16T07:41:46.642821+00:00",
   "version": 2
 }

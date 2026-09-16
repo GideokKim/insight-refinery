@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-16T01:25:50.114064+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1whjezk",
+        "title": "LACT PR to let NVIDIA gpus go lower than stock VBIOS limit (so below 400W for 5090, or below 250W for 6000 PRO MaxQ)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whjezk/lact_pr_to_let_nvidia_gpus_go_lower_than_stock/",
+        "author": "/u/panchovix",
+        "published_at": "2026-09-16T01:37:45+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA GPU 전력 제한을 낮추는 LACT PR 공개",
+        "summary_ko": [
+          "LACT에 NVIDIA GPU의 기본 VBIOS 전력 제한 이하로 설정할 수 있는 풀 리퀘스트가 등록되었습니다.",
+          "이 기능을 통해 RTX 5090과 같은 고성능 카드의 전력 소모를 줄이면서도 텍스트 생성 성능 저하를 최소화할 수 있습니다.",
+          "기본 VBIOS 한계로 전력 제어가 어려웠던 션트 모드 카드 등의 세밀한 전력 관리 효율성이 향상됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
