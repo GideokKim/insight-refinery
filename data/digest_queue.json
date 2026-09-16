@@ -23,6 +23,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3164755",
+        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+        "author": "Kate Park",
+        "published_at": "2026-09-16T13:23:02+00:00"
+      },
+      "insight": {
+        "title_ko": "SK하이닉스, 미국 내 메모리 반도체 생산 논의",
+        "summary_ko": [
+          "SK하이닉스가 미국 내 메모리 반도체 생산을 위해 Intel과 논의 중인 것으로 알려졌다.",
+          "이번 협의는 AI 인프라 확충에 필수적인 메모리 반도체의 현지 공급망 구축과 관련이 깊다.",
+          "다만 SK하이닉스 측은 아직 확정된 구체적인 계획이나 결정 사항은 없다고 밝혔다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+        "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+        "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+        "author": null,
+        "published_at": "2026-09-16T11:09:53+00:00"
+      },
+      "insight": {
+        "title_ko": "TypeSafe Jev 및 Periodic Labs Neon 공개",
+        "summary_ko": [
+          "TypeSafe가 코드 생성이나 추론 대신 분류와 라우팅에 특화된 System One 모델 Jev를 공개하여 주목받고 있습니다.",
+          "Periodic Labs는 물리 실험 데이터와 강화학습을 결합한 Neon 모델을 통해 소재 과학 분야에서 범용 프론티어 모델을 능가하는 성능을 입증했습니다.",
+          "이번 동향은 전통적인 대형 LLM 외에도 특정 목적에 최적화된 고속 모델과 도메인 특화 RL 인프라의 실무적 중요성이 커지고 있음을 보여줍니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1whu67w",
+        "title": "[Release] SOTA GGUFs for Qwen3.8-Flash-Next: GSQ-RCO Providing Near Baseline Performance",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whu67w/release_sota_ggufs_for_qwen38flashnext_gsqrco/",
+        "author": "/u/BullfrogScary8947",
+        "published_at": "2026-09-16T11:09:38+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-Flash-Next GSQ-RCO GGUF 모델 공개",
+        "summary_ko": [
+          "Qwen3.8-Flash-Next 모델을 위한 새로운 GSQ-RCO 양자화 버전이 공개되었습니다.",
+          "이 모델은 베이스 성능을 거의 유지하면서 파일 크기를 크게 줄여 실무 활용성을 높입니다.",
+          "특히 속도 중심의 Q2_0 변형은 코딩 작업에서 향상된 프롬프트 처리량을 제공합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49723408",
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "url": "https://mistral.ai/news/mistral-x-mozilla/",
+        "author": "vertigoruntime",
+        "published_at": "2026-09-16T08:08:57+00:00"
+      },
+      "insight": {
+        "title_ko": "Mistral과 Mozilla의 프라이빗 멀티링궐 AI 브라우징 협력",
+        "summary_ko": [
+          "Mistral과 Mozilla가 프라이빗 멀티링궐 AI 브라우징을 위한 협력을 발표했습니다.",
+          "이번 협력을 통해 사용자는 브라우저 환경에서 프라이버시가 보호되는 AI 기능을 경험할 수 있습니다.",
+          "다국어 지원과 보안을 강조한 AI 브라우징 기능이 실무 환경에 미치는 영향이 주목됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

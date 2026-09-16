@@ -1271,6 +1271,11 @@
       "title": "there s a 100 chance ai agents are ruining the internet",
       "url": "404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet"
     },
+    "rss:https://news.ycombinator.com/item?id=49723408": {
+      "at": "2026-09-16T13:31:59.765700+00:00",
+      "title": "mistral x mozilla private multilingual ai browsing",
+      "url": "mistral.ai/news/mistral-x-mozilla"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -3181,6 +3186,11 @@
       "title": "meta expands subscription push with new ai focused plans",
       "url": "techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans"
     },
+    "rss:https://techcrunch.com/?p=3164327": {
+      "at": "2026-09-16T13:31:59.765731+00:00",
+      "title": "amazon launches alexa in india with hindi support",
+      "url": "techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support"
+    },
     "rss:https://techcrunch.com/?p=3164419": {
       "at": "2026-09-15T18:14:05.265622+00:00",
       "title": "ai agents now have a place to snitch",
@@ -3205,6 +3215,11 @@
       "at": "2026-09-15T22:54:27.656915+00:00",
       "title": "the ai data center boom is colliding with cities scarred by big industry",
       "url": "techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry"
+    },
+    "rss:https://techcrunch.com/?p=3164755": {
+      "at": "2026-09-16T13:31:59.765602+00:00",
+      "title": "sk hynix reportedly in talks with intel to build memory chips in us",
+      "url": "techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3305,6 +3320,11 @@
       "at": "2026-08-27T04:07:33.744821+00:00",
       "title": "ainews hot chips openai s jalapeño cerebras cs 5 groq 3 lpx apple m6",
       "url": "latent.space/p/ainews-hot-chips-openais-jalapeno"
+    },
+    "rss:https://www.latent.space/p/ainews-jev-a-system-one-model-that": {
+      "at": "2026-09-16T13:31:59.765644+00:00",
+      "title": "ainews jev a system one model that only decides classifies routes scores 100x faster 200x cheaper than small frontier llms",
+      "url": "latent.space/p/ainews-jev-a-system-one-model-that"
     },
     "rss:https://www.latent.space/p/ainews-memory-prices-up-500-in-12": {
       "at": "2026-08-24T11:19:10.800848+00:00",
@@ -6230,6 +6250,16 @@
       "title": "got it unopened off craigslist for 4k excited to start hosting my own models",
       "url": "reddit.com/r/LocalLLaMA/comments/1wh2cga/got_it_unopened_off_craigslist_for_4k_excited_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh3ek8": {
+      "at": "2026-09-16T13:31:59.765781+00:00",
+      "title": "10 performance improvement on moe ssd streaming with expert lookahead",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wh3ek8/10_performance_improvement_on_moe_ssdstreaming"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh4cg9": {
+      "at": "2026-09-16T13:31:59.765825+00:00",
+      "title": "koboldcpp v1 121 released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wh4gai": {
       "at": "2026-09-15T22:54:27.656978+00:00",
       "title": "qwen3 8 27b nvfp4 1m context so far so good",
@@ -6255,6 +6285,11 @@
       "title": "what s the next local model you are excited about",
       "url": "reddit.com/r/LocalLLaMA/comments/1whiz3y/whats_the_next_local_model_you_are_excited_about"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whj1fv": {
+      "at": "2026-09-16T13:31:59.765766+00:00",
+      "title": "open source appreciation post",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whj1fv/open_source_appreciation_post"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whjezk": {
       "at": "2026-09-16T07:41:46.642707+00:00",
       "title": "lact pr to let nvidia gpus go lower than stock vbios limit so below 400w for 5090 or below 250w for 6000 pro maxq",
@@ -6264,6 +6299,26 @@
       "at": "2026-09-16T07:41:46.642772+00:00",
       "title": "qwen3 8 27b game dev part 2",
       "url": "reddit.com/r/LocalLLaMA/comments/1whk35i/qwen38_27b_game_dev_part_2"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whngur": {
+      "at": "2026-09-16T13:31:59.765810+00:00",
+      "title": "mlabonne lfm2 5 230m chess hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whngur/mlabonnelfm25230mchess_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whqm2c": {
+      "at": "2026-09-16T13:31:59.765796+00:00",
+      "title": "hey meta where s those muse spark weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whqm2c/hey_meta_wheres_those_muse_spark_weights"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whsw2g": {
+      "at": "2026-09-16T13:31:59.765746+00:00",
+      "title": "mozilla report china u s ai model capability gap narrows to 4 4 months",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whsw2g/mozilla_report_chinaus_ai_model_capability_gap"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whu67w": {
+      "at": "2026-09-16T13:31:59.765680+00:00",
+      "title": "release sota ggufs for qwen3 8 flash next gsq rco providing near baseline performance",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whu67w/release_sota_ggufs_for_qwen38flashnext_gsqrco"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6555,6 +6610,11 @@
       "title": "roundtables ai s apocalypse crisis",
       "url": "technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
     },
+    "rss:https://www.technologyreview.com/?p=1144014": {
+      "at": "2026-09-16T13:31:59.765716+00:00",
+      "title": "building the materials foundation for ai",
+      "url": "technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai"
+    },
     "rss:https://www.technologyreview.com/?p=1144028": {
       "at": "2026-09-15T13:33:56.692124+00:00",
       "title": "what s at stake in ai s trillion dollar gamble",
@@ -6571,6 +6631,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-16T07:41:46.642821+00:00",
+  "updated_at": "2026-09-16T13:31:59.765895+00:00",
   "version": 2
 }
