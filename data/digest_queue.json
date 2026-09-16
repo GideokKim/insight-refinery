@@ -111,6 +111,160 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/aiuc",
+        "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+        "url": "https://www.latent.space/p/aiuc",
+        "author": null,
+        "published_at": "2026-09-16T18:07:45+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트 신뢰와 보험 표준을 다루는 AIUC",
+        "summary_ko": [
+          "AIUC는 AI 에이전트의 보안과 신뢰성을 보장하는 표준인 AIUC-1을 기반으로 4,000만 달러 규모의 시리즈 A 투자 유치를 발표했다.",
+          "본 인터뷰에서는 자율주행 모델의 실패와 법적 책임 문제 등 AI 도입의 최대 걸림돌인 신뢰와 보험 인프라의 중요성을 심층적으로 다룬다.",
+          "Cursor, Harvey 등 주요 AI 기업들이 참여하는 가운데, 향후 AI 에이전트의 위험 관리와 제3자 감사의 필요성이 강조되었다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wi32jg",
+        "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/",
+        "author": "/u/DustNearby2848",
+        "published_at": "2026-09-16T17:02:19+00:00"
+      },
+      "insight": {
+        "title_ko": "중국 오픈웨이트 AI 모델의 격차 단축",
+        "summary_ko": [
+          "모질라 보고서에 따르면 중국의 오픈웨이트 AI 모델이 미국 최첨단 모델과의 성능 격차를 단지 4개월 수준으로 좁혔다고 합니다.",
+          "일부 벤치마크에서는 여전히 뒤처지지만 사용 비용이 현저히 저렴하다는 장점이 있습니다.",
+          "이러한 동향은 글로벌 AI 시장에서 비용 효율성과 오픈소스 생태계의 중요성을 시사합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3164815",
+        "title": "Your AI agents can now control your Google Home devices",
+        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "author": "Sarah Perez",
+        "published_at": "2026-09-16T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Google Home MCP 서버 출시",
+        "summary_ko": [
+          "구글이 Google Home을 위한 새로운 MCP 서버의 얼리 액세스를 출시했습니다.",
+          "이를 통해 Claude와 ChatGPT 같은 AI 에이전트가 자연어로 스마트홈 기기를 제어할 수 있습니다.",
+          "사용자는 연결된 기기 관리뿐만 아니라 카메라 요약과 활동 기록에도 접근할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122428",
+        "title": "Translating CUDA Tile Operations from Python to Rust Using Agentic AI",
+        "url": "https://developer.nvidia.com/blog/translating-cuda-tile-operations-from-python-to-rust-using-agentic-ai/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-09-16T16:28:59+00:00"
+      },
+      "insight": {
+        "title_ko": "Agentic AI를 활용한 CUDA Tile 연산의 Rust 변환",
+        "summary_ko": [
+          "cuTile Rust는 Rust 언어에서 안전하고 관용적인 GPU 커널 작성을 지원하는 타일 기반 시스템입니다.",
+          "이 시스템은 Rust의 소유권 모델을 GPU 커널까지 확장하여 가변 출력을 분할하고 호스트 측의 소유권 계약을 유지합니다.",
+          "또한 개발자는 필요할 때 저수준 제어를 위해 국소적으로 소유권 규칙에서 벗어날 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1why9ao",
+        "title": "Apple May Return to Server Market With Nvidia Technology",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/",
+        "author": "/u/gappyvalley",
+        "published_at": "2026-09-16T14:07:07+00:00"
+      },
+      "insight": {
+        "title_ko": "애플, Nvidia 기술 탑재 AI 서버 시장 진출 검토",
+        "summary_ko": [
+          "애플은 M8 칩과 Nvidia 네트워킹 하드웨어를 결합한 AI 서버를 외부 기업에 판매하는 방안을 고려하고 있습니다.",
+          "이번 프로젝트는 사내 장비로 AI 모델을 구동하려는 기업을 타겟으로 하며 특히 추론 작업에 집중할 예정입니다.",
+          "출시 시점은 2029년으로 예상되나 Nvidia와의 협력이나 제품 개발 여부는 아직 확정되지 않았습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1whx5xi",
+        "title": "You can offload most of Qwen3.8-Flash-Next's KV cache to RAM with little decode slowdown",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whx5xi/you_can_offload_most_of_qwen38flashnexts_kv_cache/",
+        "author": "/u/sadnessdevil",
+        "published_at": "2026-09-16T13:24:26+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-Flash-Next KV 캐시 RAM 오프로드",
+        "summary_ko": [
+          "Qwen3.8-Flash-Next 모델은 델타넷과 QSA 구조를 활용하여 KV 캐시의 대부분을 시스템 RAM으로 오프로드할 수 있습니다.",
+          "인덱서가 2048개의 위치만 선택하여 읽기 때문에 디코드 단계에서 필요한 대역폭이 크게 줄어듭니다.",
+          "이를 통해 PCIe 대역폭 병목 현상 없이 긴 컨텍스트에서도 고속의 디코드 성능을 유지할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49694035",
+        "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+        "url": "https://arxiv.org/abs/2511.07885",
+        "author": "pythonic_hell",
+        "published_at": "2026-09-14T09:16:39+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 AI의 지능 효율성 측정을 위한 와트당 지능",
+        "summary_ko": [
+          "본 논문은 로컬 AI 시스템의 지능 효율성을 측정하기 위한 와트당 지능 개념을 다룹니다.",
+          "엣지 디바이스와 온프레미스 환경에서 AI 모델의 성능 대비 전력 소비 효율을 평가하는 지표를 제시합니다.",
+          "실무에서 전력 제약이 큰 환경의 로컬 AI 모델 선택과 최적화 기준을 마련하는 데 기여합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
