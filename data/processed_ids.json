@@ -95,6 +95,11 @@
       "title": "anthropic s 2 trillion ipo puts powerful external trustees in spotlight",
       "url": "arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight"
     },
+    "rss:https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/": {
+      "at": "2026-09-16T22:57:26.123670+00:00",
+      "title": "apple reportedly building server packed with m series ultra chips for ai",
+      "url": "arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai"
+    },
     "rss:https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/": {
       "at": "2026-09-11T17:45:49.029438+00:00",
       "title": "claude users found ways around safeguards for bioweapons research",
@@ -549,6 +554,11 @@
       "at": "2026-09-15T18:14:05.265561+00:00",
       "title": "scaling federated learning across docker kubernetes and slurm with nvidia flare",
       "url": "developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122604": {
+      "at": "2026-09-16T22:57:26.123719+00:00",
+      "title": "tensorrt edge llm completes the mlperf edge agentic benchmark 6 4x faster on jetson agx thor",
+      "url": "developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -1414,6 +1424,11 @@
       "title": "from assistance to execution how enterprises put ai to work",
       "url": "openai.com/index/how-enterprises-put-ai-to-work"
     },
+    "rss:https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
+      "at": "2026-09-16T22:57:26.123856+00:00",
+      "title": "how to connect ai usage to business value",
+      "url": "openai.com/index/how-to-connect-ai-usage-to-business-value"
+    },
     "rss:https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
       "at": "2026-08-26T22:35:55.496761+00:00",
       "title": "the hugging face incident and the road ahead",
@@ -1468,6 +1483,11 @@
       "at": "2026-08-26T11:19:14.906066+00:00",
       "title": "how loveholidays is making everyone a builder with codex",
       "url": "openai.com/index/loveholidays"
+    },
+    "rss:https://openai.com/index/model-misalignment-reporting-framework": {
+      "at": "2026-09-16T22:57:26.123754+00:00",
+      "title": "our framework for reporting model misalignment",
+      "url": "openai.com/index/model-misalignment-reporting-framework"
     },
     "rss:https://openai.com/index/navier-stokes-solution": {
       "at": "2026-09-08T22:07:38.642315+00:00",
@@ -2041,6 +2061,11 @@
       "at": "2026-09-16T18:14:09.223469+00:00",
       "title": "quoting mustafa suleyman",
       "url": "simonwillison.net/2026/Sep/16/mustafa-suleyman"
+    },
+    "rss:https://simonwillison.net/2026/Sep/16/one-claude/": {
+      "at": "2026-09-16T22:57:26.123740+00:00",
+      "title": "claude cowork and chat are now one claude",
+      "url": "simonwillison.net/2026/Sep/16/one-claude"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -3231,6 +3256,11 @@
       "title": "ai agents now have a place to snitch",
       "url": "techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch"
     },
+    "rss:https://techcrunch.com/?p=3164427": {
+      "at": "2026-09-16T22:57:26.123820+00:00",
+      "title": "ai labs want in house auditors but maybe they should shut the front door first",
+      "url": "techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first"
+    },
     "rss:https://techcrunch.com/?p=3164442": {
       "at": "2026-09-15T22:54:27.656932+00:00",
       "title": "us data centers could consume more natural gas than germany and japan combined by 2035",
@@ -3285,6 +3315,16 @@
       "at": "2026-09-16T18:14:09.223379+00:00",
       "title": "your ai agents can now control your google home devices",
       "url": "techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices"
+    },
+    "rss:https://techcrunch.com/?p=3164997": {
+      "at": "2026-09-16T22:57:26.123797+00:00",
+      "title": "after accusations of selling perv glasses meta prepares to sell a pair without a camera",
+      "url": "techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera"
+    },
+    "rss:https://techcrunch.com/?p=3165076": {
+      "at": "2026-09-16T22:57:26.123767+00:00",
+      "title": "anthropic and openai want to embed safety evaluators will they really be independent",
+      "url": "techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6410,6 +6450,11 @@
       "title": "apple may return to server market with nvidia technology",
       "url": "reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1whzy7j": {
+      "at": "2026-09-16T22:57:26.123838+00:00",
+      "title": "qwen3 5 4b grabbing logits is almost jev or even just qwen reranker",
+      "url": "reddit.com/r/LocalLLaMA/comments/1whzy7j/qwen35_4b_grabbing_logits_is_almost_jev_or_even"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi0dme": {
       "at": "2026-09-16T18:14:09.223478+00:00",
       "title": "qwen3 8 max 0902 scores 45 on the artificial analysis intelligence index up 5 points in a month and back on top of china s leaderboard nosing out glm 5 3 44 9 and kimi k3 43 8",
@@ -6419,6 +6464,21 @@
       "at": "2026-09-16T18:14:09.223348+00:00",
       "title": "china s open weight ai models are now just 4 months behind frontier us offerings mozilla report claims models still lag in some benchmarks but are drastically cheaper to use",
       "url": "reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi5rx2": {
+      "at": "2026-09-16T22:57:26.123920+00:00",
+      "title": "frontier llm development simplified for politicians",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi9ebm": {
+      "at": "2026-09-16T22:57:26.123904+00:00",
+      "title": "xiaomi mimo 2 6 live training dashboard",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi9fau": {
+      "at": "2026-09-16T22:57:26.123781+00:00",
+      "title": "qwen 3 8 27b running for 63 hours on a rtx 3090 to solve the riemann hypothesis",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6731,6 +6791,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-16T18:14:09.223614+00:00",
+  "updated_at": "2026-09-16T22:57:26.123976+00:00",
   "version": 2
 }

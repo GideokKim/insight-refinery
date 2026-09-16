@@ -265,6 +265,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+        "author": "Jeremy Hsu",
+        "published_at": "2026-09-16T22:02:46+00:00"
+      },
+      "insight": {
+        "title_ko": "애플, AI용 M 시리즈 울트라 칩 탑재 서버 개발 중",
+        "summary_ko": [
+          "애플은 데스크톱에 사용되는 M 시리즈 Ultra 칩을 탑재한 AI 서버를 개발하고 있는 것으로 알려졌다.",
+          "해당 엔터프라이즈 서버는 2개의 M8 Ultra 칩 또는 4개의 M8 Ultra 칩을 탑재하는 두 가지 구성으로 출시될 예정이다.",
+          "이번 프로젝트는 AI 개발자들 사이에서 맥(Mac) 제품군의 인기가 급증하는 가운데 추진되는 것이다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122604",
+        "title": "TensorRT Edge-LLM Completes the MLPerf Edge Agentic Benchmark 6.4x Faster on Jetson AGX Thor",
+        "url": "https://developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-16T20:37:07+00:00"
+      },
+      "insight": {
+        "title_ko": "TensorRT Edge-LLM의 Jetson AGX Thor 벤치마크 결과",
+        "summary_ko": [
+          "AI 에이전트가 클라우드에서 차량과 로봇 같은 엣지 디바이스로 확장되면서 새로운 엣지 추론 요구사항이 대두되고 있습니다.",
+          "TensorRT Edge-LLM은 Jetson AGX Thor에서 MLPerf Edge Agentic 벤치마크를 기존 대비 6.4배 빠른 속도로 완료했습니다.",
+          "이번 결과는 복잡한 다단계 추론과 빠른 토큰 생성이 필요한 엣지 AI 애플리케이션의 실무 적용 가능성을 크게 높여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/16/one-claude/",
+        "title": "Claude Cowork and chat are now one Claude",
+        "url": "https://simonwillison.net/2026/Sep/16/one-claude/",
+        "author": null,
+        "published_at": "2026-09-16T18:09:49+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude Cowork과 Chat의 통합",
+        "summary_ko": [
+          "Anthropic은 사용자 혼란을 줄이기 위해 Claude Cowork과 일반 Chat 기능을 하나의 Claude로 통합한다고 발표했습니다.",
+          "이번 통합을 통해 간단한 질문부터 정오까지 제출해야 하는 보고서 작성까지 단일 인터페이스에서 처리할 수 있게 됩니다.",
+          "해당 업데이트는 Pro와 Max 플랜 사용자를 대상으로 웹, 데스크톱, 모바일 앱에서 순차적으로 적용될 예정입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/model-misalignment-reporting-framework",
+        "title": "Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "author": null,
+        "published_at": "2026-09-16T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "모델 오정렬 보고를 위한 새로운 프레임워크 공개",
+        "summary_ko": [
+          "OpenAI가 AI 모델의 오정렬을 추적, 조사, 공개하기 위한 새로운 프레임워크를 공유했습니다.",
+          "이번 발표에는 예상치 못하거나 우려되는 모델 행동 사례를 다룬 6건의 보고서가 함께 포함되었습니다.",
+          "해당 프레임워크는 AI 모델의 안전성 검증과 이상 행동 대응 체계를 강화하는 데 기여합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
