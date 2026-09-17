@@ -130,6 +130,11 @@
       "title": "google releases gemini 3 8 flash its third flash model in six weeks",
       "url": "arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks"
     },
+    "rss:https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/": {
+      "at": "2026-09-17T22:53:10.073249+00:00",
+      "title": "small ai models let drones autonomously identify and attack battlefield targets",
+      "url": "arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions"
+    },
     "rss:https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": {
       "at": "2026-09-03T17:25:47.816075+00:00",
       "title": "nvidia buys hugging face the github of ai for 13 billion",
@@ -165,6 +170,11 @@
       "title": "pocket s ai made my game ideas real now meta controls the results",
       "url": "arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results"
     },
+    "rss:https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/": {
+      "at": "2026-09-17T22:53:10.073443+00:00",
+      "title": "google announces new experimental cc ai agent for families",
+      "url": "arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families"
+    },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
@@ -199,6 +209,11 @@
       "at": "2026-08-24T11:19:10.800658+00:00",
       "title": "microsoft copilot reveals secret input that allowed it to be hacked",
       "url": "arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked"
+    },
+    "rss:https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/": {
+      "at": "2026-09-17T22:53:10.073379+00:00",
+      "title": "llms respond differently to harmful prompts when ai watermarking is used",
+      "url": "arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts"
     },
     "rss:https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": {
       "at": "2026-09-08T22:07:38.642362+00:00",
@@ -269,6 +284,11 @@
       "at": "2026-09-09T17:52:30.546337+00:00",
       "title": "man told chatgpt he was feeling delusional chatgpt insisted he was jesus",
       "url": "arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/": {
+      "at": "2026-09-17T22:53:10.073337+00:00",
+      "title": "microsoft exec called ai scraping the largest theft of labor in human history",
+      "url": "arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
       "at": "2026-09-14T20:59:08.073479+00:00",
@@ -1316,6 +1336,16 @@
       "title": "ai safety is mostly a sex cult",
       "url": "skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
     },
+    "rss:https://news.ycombinator.com/item?id=49740105": {
+      "at": "2026-09-17T22:53:10.073520+00:00",
+      "title": "show hn share your ai setup learn from others",
+      "url": "mysetup.ai/"
+    },
+    "rss:https://news.ycombinator.com/item?id=49746163": {
+      "at": "2026-09-17T22:53:10.073424+00:00",
+      "title": "bend a language that blocks ai mistakes via proof on cpu and gpu",
+      "url": "bend-lang.com/"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1340,6 +1370,11 @@
       "at": "2026-08-19T12:28:12.501782+00:00",
       "title": "asana cleared 5 years of engineering work in 2 weeks with codex",
       "url": "openai.com/index/asana"
+    },
+    "rss:https://openai.com/index/astra-for-law": {
+      "at": "2026-09-17T22:53:10.073390+00:00",
+      "title": "introducing astra for law",
+      "url": "openai.com/index/astra-for-law"
     },
     "rss:https://openai.com/index/atv-big-air-tour": {
       "at": "2026-09-03T00:47:52.878181+00:00",
@@ -1767,6 +1802,11 @@
       "title": "symptomai towards a conversational ai agent for everyday symptom assessment",
       "url": "research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment"
     },
+    "rss:https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/": {
+      "at": "2026-09-17T22:53:10.073411+00:00",
+      "title": "the future of practice enabling teachers to create learning interactives with generative ui",
+      "url": "research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui"
+    },
     "rss:https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/": {
       "at": "2026-08-19T17:19:19.683371+00:00",
       "title": "the power of collaboration how we can reduce traffic congestion",
@@ -2096,6 +2136,11 @@
       "at": "2026-09-16T22:57:26.123740+00:00",
       "title": "claude cowork and chat are now one claude",
       "url": "simonwillison.net/2026/Sep/16/one-claude"
+    },
+    "rss:https://simonwillison.net/2026/Sep/17/compaction-summaries/": {
+      "at": "2026-09-17T22:53:10.073302+00:00",
+      "title": "self generated prompt injections in compaction summaries",
+      "url": "simonwillison.net/2026/Sep/17/compaction-summaries"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -3356,10 +3401,20 @@
       "title": "your ai agents can now control your google home devices",
       "url": "techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices"
     },
+    "rss:https://techcrunch.com/?p=3164863": {
+      "at": "2026-09-17T22:53:10.073453+00:00",
+      "title": "un turns to google to make its global data ready for ai agents",
+      "url": "techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents"
+    },
     "rss:https://techcrunch.com/?p=3164997": {
       "at": "2026-09-16T22:57:26.123797+00:00",
       "title": "after accusations of selling perv glasses meta prepares to sell a pair without a camera",
       "url": "techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera"
+    },
+    "rss:https://techcrunch.com/?p=3165059": {
+      "at": "2026-09-17T22:53:10.073505+00:00",
+      "title": "is the ai safety debate about safety or control",
+      "url": "techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control"
     },
     "rss:https://techcrunch.com/?p=3165076": {
       "at": "2026-09-16T22:57:26.123767+00:00",
@@ -3401,10 +3456,40 @@
       "title": "pinterest teases a new restyle feature that lets you redesign your room with ai",
       "url": "techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai"
     },
+    "rss:https://techcrunch.com/?p=3165541": {
+      "at": "2026-09-17T22:53:10.073494+00:00",
+      "title": "prismml hopes its tiny llm will change how we all use ai",
+      "url": "techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai"
+    },
+    "rss:https://techcrunch.com/?p=3165543": {
+      "at": "2026-09-17T22:53:10.073513+00:00",
+      "title": "even the king of england has his hesitations about ai",
+      "url": "techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai"
+    },
     "rss:https://techcrunch.com/?p=3165579": {
       "at": "2026-09-17T18:14:48.336775+00:00",
       "title": "base labs launches an open weight ai safety partnership with hugging face and goodfire",
       "url": "techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire"
+    },
+    "rss:https://techcrunch.com/?p=3165591": {
+      "at": "2026-09-17T22:53:10.073364+00:00",
+      "title": "microsoft exec called ai scraping the largest theft of labor in human history new unredacted filings reveal",
+      "url": "techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal"
+    },
+    "rss:https://techcrunch.com/?p=3165707": {
+      "at": "2026-09-17T22:53:10.073327+00:00",
+      "title": "openai caught its models leaving notes to successors to hide bad behavior",
+      "url": "techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior"
+    },
+    "rss:https://techcrunch.com/?p=3165739": {
+      "at": "2026-09-17T22:53:10.073435+00:00",
+      "title": "the fix for rogue ai agents could be more ai",
+      "url": "techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai"
+    },
+    "rss:https://techcrunch.com/?p=3165784": {
+      "at": "2026-09-17T22:53:10.073399+00:00",
+      "title": "the faa s plan to fix air traffic 875 million worth of ai",
+      "url": "techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6625,6 +6710,31 @@
       "title": "153 tok s on 1x amd radeon r9700 running qwen3 8 27b nvfp4 470 tok s 8 conc requests prefill 3 619 tok s",
       "url": "reddit.com/r/LocalLLaMA/comments/1wiws8e/153_toks_on_1x_amd_radeon_r9700_running_qwen38"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wiy8ga": {
+      "at": "2026-09-17T22:53:10.073526+00:00",
+      "title": "shots fired at dario from glm",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wiy8ga/shots_fired_at_dario_from_glm"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wj28vh": {
+      "at": "2026-09-17T22:53:10.073474+00:00",
+      "title": "amd plans 10 price hike across gpus chipsets and possibly cpus",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wj28vh/amd_plans_10_price_hike_across_gpus_chipsets_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wj3s31": {
+      "at": "2026-09-17T22:53:10.073462+00:00",
+      "title": "thank you swift qwen 3 8 27b now has 100k downloads is 1 finetune and 9 model on huggingface trending",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wj3s31/thank_you_swift_qwen_38_27b_now_has_100k"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wj4qj4": {
+      "at": "2026-09-17T22:53:10.073352+00:00",
+      "title": "cactus needle 3 a sliceable 8 29mb automation foundation model that matches deepseek v4 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wj4qj4/cactus_needle_3_a_sliceable_829mb_automation"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wj6c4l": {
+      "at": "2026-09-17T22:53:10.073284+00:00",
+      "title": "ternary bonsai 2 27b just released on hugging face at 6gb in size it can even run locally in browser on webgpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -6936,6 +7046,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-17T18:14:48.336913+00:00",
+  "updated_at": "2026-09-17T22:53:10.073570+00:00",
   "version": 2
 }
