@@ -560,6 +560,11 @@
       "title": "tensorrt edge llm completes the mlperf edge agentic benchmark 6 4x faster on jetson agx thor",
       "url": "developer.nvidia.com/blog/tensorrt-edge-llm-completes-the-mlperf-edge-agentic-benchmark-6-4x-faster-on-jetson-agx-thor"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122626": {
+      "at": "2026-09-17T01:25:57.837200+00:00",
+      "title": "how to use ai agents to prepare 3d scenes for simulation",
+      "url": "developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -2056,6 +2061,16 @@
       "at": "2026-09-16T01:25:52.358012+00:00",
       "title": "gemini live audio",
       "url": "simonwillison.net/2026/Sep/15/gemini-live"
+    },
+    "rss:https://simonwillison.net/2026/Sep/16/datasette-2/": {
+      "at": "2026-09-17T01:25:57.837149+00:00",
+      "title": "datasette 0 65 5",
+      "url": "simonwillison.net/2026/Sep/16/datasette-2"
+    },
+    "rss:https://simonwillison.net/2026/Sep/16/datasette/": {
+      "at": "2026-09-17T01:25:57.837217+00:00",
+      "title": "datasette 1 0a40",
+      "url": "simonwillison.net/2026/Sep/16/datasette"
     },
     "rss:https://simonwillison.net/2026/Sep/16/mustafa-suleyman/": {
       "at": "2026-09-16T18:14:09.223469+00:00",
@@ -6470,6 +6485,11 @@
       "title": "frontier llm development simplified for politicians",
       "url": "reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi6ew4": {
+      "at": "2026-09-17T01:25:57.837230+00:00",
+      "title": "i left gpu poor range",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wi6ew4/i_left_gpu_poor_range"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi9ebm": {
       "at": "2026-09-16T22:57:26.123904+00:00",
       "title": "xiaomi mimo 2 6 live training dashboard",
@@ -6791,6 +6811,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-16T22:57:26.123976+00:00",
+  "updated_at": "2026-09-17T01:25:57.837275+00:00",
   "version": 2
 }
