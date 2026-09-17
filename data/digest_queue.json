@@ -23,6 +23,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wimf5p",
+        "title": "XingChen-AGI/Xing4.0-29B-A4B MoE",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe/",
+        "author": "/u/Skyline34rGt",
+        "published_at": "2026-09-17T06:46:38+00:00"
+      },
+      "insight": {
+        "title_ko": "중국 텔레콤의 Xing4.0-29B-A4B MoE 모델 공개",
+        "summary_ko": [
+          "중국텔레콤은 총 29B 파라미터에 토큰당 4B가 활성화되는 MoE 구조의 차세대 대형 언어 모델인 Xing4.0-29B-A4B를 공개했습니다.",
+          "이 모델은 Ascend NPU 플랫폼과 MindSpore 프레임워크를 기반으로 전면 학습된 최초의 대규모 모델로 주목받고 있습니다.",
+          "네이티브 256K 컨텍스트 길이를 지원하며, 에이전트 작업과 복잡한 엔지니어링 태스크에 최적화된 성능을 제공합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

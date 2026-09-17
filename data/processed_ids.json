@@ -1306,6 +1306,11 @@
       "title": "openspec a lightweight and configurable ai spec framework",
       "url": "openspec.dev/"
     },
+    "rss:https://news.ycombinator.com/item?id=49737985": {
+      "at": "2026-09-17T13:28:02.382912+00:00",
+      "title": "ai safety is mostly a sex cult",
+      "url": "skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -6505,6 +6510,11 @@
       "title": "qwen3 8 max 0902 scores 45 on the artificial analysis intelligence index up 5 points in a month and back on top of china s leaderboard nosing out glm 5 3 44 9 and kimi k3 43 8",
       "url": "reddit.com/r/LocalLLaMA/comments/1wi0dme/qwen38_max_0902_scores_45_on_the_artificial"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi28lv": {
+      "at": "2026-09-17T13:28:02.382896+00:00",
+      "title": "what s the current best llm uncensoring method",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wi28lv/whats_the_current_best_llm_uncensoring_method"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wi32jg": {
       "at": "2026-09-16T18:14:09.223348+00:00",
       "title": "china s open weight ai models are now just 4 months behind frontier us offerings mozilla report claims models still lag in some benchmarks but are drastically cheaper to use",
@@ -6539,6 +6549,16 @@
       "at": "2026-09-17T07:40:04.716949+00:00",
       "title": "i literally built the jev architecture one year back and completely open sourced it with model dataset and paper",
       "url": "reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wimf5p": {
+      "at": "2026-09-17T13:28:02.382828+00:00",
+      "title": "xingchen agi xing4 0 29b a4b moe",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wis23s": {
+      "at": "2026-09-17T13:28:02.382875+00:00",
+      "title": "update small model engram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wis23s/update_small_model_engram"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6851,6 +6871,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-17T07:40:04.717037+00:00",
+  "updated_at": "2026-09-17T13:28:02.382957+00:00",
   "version": 2
 }
