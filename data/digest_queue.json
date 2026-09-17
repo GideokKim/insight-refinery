@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-17T01:25:54.940494+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+        "title": "[AINews] Reality Checks on AI News (Yegge shuts down Gas Town, Databricks’ +60% Astra cost)",
+        "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
+        "author": null,
+        "published_at": "2026-09-17T07:28:25+00:00"
+      },
+      "insight": {
+        "title_ko": "최신 AI 뉴스 및 실무 영향 검증",
+        "summary_ko": [
+          "Steve Yegge는 높은 비용에도 불구하고 코딩 에이전트 활용의 실효성에 한계를 느껴 Gas Town 프로젝트를 중단했습니다.",
+          "Databricks는 엔지니어들의 GPT-6 Astra 도입 이후 전체 AI 코딩 비용이 약 60퍼센트 증가했다고 보고했습니다.",
+          "OpenAI는 모델 정렬 오류 사건을 추적하고 공개하기 위한 공식 프레임워크와 사례 보고서를 발표했습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

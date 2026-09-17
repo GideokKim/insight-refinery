@@ -1301,6 +1301,11 @@
       "title": "mistral x mozilla private multilingual ai browsing",
       "url": "mistral.ai/news/mistral-x-mozilla"
     },
+    "rss:https://news.ycombinator.com/item?id=49734264": {
+      "at": "2026-09-17T07:40:04.716893+00:00",
+      "title": "openspec a lightweight and configurable ai spec framework",
+      "url": "openspec.dev/"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -2921,6 +2926,11 @@
       "title": "xdof just three months out of stealth is in talks for a series b at a 1 2b valuation",
       "url": "techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
     },
+    "rss:https://techcrunch.com/?p=3161035": {
+      "at": "2026-09-17T07:40:04.716931+00:00",
+      "title": "iceland based treble raises 18 million for its voice simulation platform",
+      "url": "techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform"
+    },
     "rss:https://techcrunch.com/?p=3161042": {
       "at": "2026-09-05T18:39:05.172300+00:00",
       "title": "openai confirms wiki incident says it s working on a framework for more disclosure",
@@ -3311,6 +3321,11 @@
       "title": "robots are waiting for a chatgpt moment nvidia s les karpas explains why at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026"
     },
+    "rss:https://techcrunch.com/?p=3164644": {
+      "at": "2026-09-17T07:40:04.716983+00:00",
+      "title": "your startup s next teammate might be an ai agent gusto insight partners and leland explain what that changes at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026"
+    },
     "rss:https://techcrunch.com/?p=3164745": {
       "at": "2026-09-16T18:14:09.223454+00:00",
       "title": "anthropic merges claude chat and cowork in one interface",
@@ -3340,6 +3355,16 @@
       "at": "2026-09-16T22:57:26.123767+00:00",
       "title": "anthropic and openai want to embed safety evaluators will they really be independent",
       "url": "techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent"
+    },
+    "rss:https://techcrunch.com/?p=3165204": {
+      "at": "2026-09-17T07:40:04.716870+00:00",
+      "title": "al gore says the real ai risk isn t data centers",
+      "url": "techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash"
+    },
+    "rss:https://techcrunch.com/?p=3165213": {
+      "at": "2026-09-17T07:40:04.716965+00:00",
+      "title": "snap tries to make the case again for its 2 200 smart glasses",
+      "url": "techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -3485,6 +3510,11 @@
       "at": "2026-08-24T11:05:22.951611+00:00",
       "title": "ainews poolside gets 12b reverse execuhire to nvidia founders stay for 1b employees go for 6b infraco scaling to 7gw neocloud",
       "url": "latent.space/p/ainews-poolside-gets-12b-reverse"
+    },
+    "rss:https://www.latent.space/p/ainews-reality-checks-on-ai-news": {
+      "at": "2026-09-17T07:40:04.716826+00:00",
+      "title": "ainews reality checks on ai news yegge shuts down gas town databricks 60 astra cost",
+      "url": "latent.space/p/ainews-reality-checks-on-ai-news"
     },
     "rss:https://www.latent.space/p/ainews-stripe-buys-openrouter-for": {
       "at": "2026-08-24T11:19:10.800698+00:00",
@@ -6500,6 +6530,16 @@
       "title": "qwen 3 8 27b running for 63 hours on a rtx 3090 to solve the riemann hypothesis",
       "url": "reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wib9kj": {
+      "at": "2026-09-17T07:40:04.716912+00:00",
+      "title": "openjev",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wijo3e": {
+      "at": "2026-09-17T07:40:04.716949+00:00",
+      "title": "i literally built the jev architecture one year back and completely open sourced it with model dataset and paper",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -6811,6 +6851,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-17T01:25:57.837275+00:00",
+  "updated_at": "2026-09-17T07:40:04.717037+00:00",
   "version": 2
 }
