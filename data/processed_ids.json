@@ -105,6 +105,11 @@
       "title": "claude users found ways around safeguards for bioweapons research",
       "url": "arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research"
     },
+    "rss:https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/": {
+      "at": "2026-09-17T18:14:48.336702+00:00",
+      "title": "covert uploads and megalomania openai details new misaligned agent incidents",
+      "url": "arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents"
+    },
     "rss:https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/": {
       "at": "2026-09-15T13:33:56.692050+00:00",
       "title": "exclusive paying for frontier ai models buys 4 month head start at 5x the cost",
@@ -3366,10 +3371,40 @@
       "title": "al gore says the real ai risk isn t data centers",
       "url": "techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash"
     },
+    "rss:https://techcrunch.com/?p=3165205": {
+      "at": "2026-09-17T18:14:48.336878+00:00",
+      "title": "2 days left to exhibit at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026"
+    },
     "rss:https://techcrunch.com/?p=3165213": {
       "at": "2026-09-17T07:40:04.716965+00:00",
       "title": "snap tries to make the case again for its 2 200 smart glasses",
       "url": "techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses"
+    },
+    "rss:https://techcrunch.com/?p=3165381": {
+      "at": "2026-09-17T18:14:48.336812+00:00",
+      "title": "rival ai agents instinct and meta s muse both add the ability to make calls",
+      "url": "techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls"
+    },
+    "rss:https://techcrunch.com/?p=3165426": {
+      "at": "2026-09-17T18:14:48.336762+00:00",
+      "title": "google nvidia and anthropic want emerald ai to find space on the grid for more data centers",
+      "url": "techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers"
+    },
+    "rss:https://techcrunch.com/?p=3165448": {
+      "at": "2026-09-17T18:14:48.336743+00:00",
+      "title": "huawei plans q1 2027 launch of new ai chip as it takes on nvidia",
+      "url": "techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia"
+    },
+    "rss:https://techcrunch.com/?p=3165515": {
+      "at": "2026-09-17T18:14:48.336785+00:00",
+      "title": "pinterest teases a new restyle feature that lets you redesign your room with ai",
+      "url": "techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai"
+    },
+    "rss:https://techcrunch.com/?p=3165579": {
+      "at": "2026-09-17T18:14:48.336775+00:00",
+      "title": "base labs launches an open weight ai safety partnership with hugging face and goodfire",
+      "url": "techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6545,6 +6580,11 @@
       "title": "openjev",
       "url": "reddit.com/r/LocalLLaMA/comments/1wib9kj/openjev"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wii0qe": {
+      "at": "2026-09-17T18:14:48.336860+00:00",
+      "title": "qwen 3 8 27b is a amazing model for the first time i see a local model found its own away to open a browser and test",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wii0qe/qwen_38_27b_is_a_amazing_model_for_the_first_time"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wijo3e": {
       "at": "2026-09-17T07:40:04.716949+00:00",
       "title": "i literally built the jev architecture one year back and completely open sourced it with model dataset and paper",
@@ -6555,10 +6595,35 @@
       "title": "xingchen agi xing4 0 29b a4b moe",
       "url": "reddit.com/r/LocalLLaMA/comments/1wimf5p/xingchenagixing4029ba4b_moe"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wirvb0": {
+      "at": "2026-09-17T18:14:48.336850+00:00",
+      "title": "china s huawei says ai chip demand outstrips supply as it steps up nvidia challenge",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wirvb0/chinas_huawei_says_ai_chip_demand_outstrips"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wis23s": {
       "at": "2026-09-17T13:28:02.382875+00:00",
       "title": "update small model engram",
       "url": "reddit.com/r/LocalLLaMA/comments/1wis23s/update_small_model_engram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wisr6h": {
+      "at": "2026-09-17T18:14:48.336837+00:00",
+      "title": "first m5 ultra benchmarks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wisr6h/first_m5_ultra_benchmarks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wiu7xj": {
+      "at": "2026-09-17T18:14:48.336826+00:00",
+      "title": "keeping vllm s prefix cache warm between agent turns",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wiu7xj/keeping_vllms_prefix_cache_warm_between_agent"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wivlo8": {
+      "at": "2026-09-17T18:14:48.336870+00:00",
+      "title": "does anyone use uncensored models purely for coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wivlo8/does_anyone_use_uncensored_models_purely_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wiws8e": {
+      "at": "2026-09-17T18:14:48.336798+00:00",
+      "title": "153 tok s on 1x amd radeon r9700 running qwen3 8 27b nvfp4 470 tok s 8 conc requests prefill 3 619 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wiws8e/153_toks_on_1x_amd_radeon_r9700_running_qwen38"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -6871,6 +6936,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-17T13:28:02.382957+00:00",
+  "updated_at": "2026-09-17T18:14:48.336913+00:00",
   "version": 2
 }
