@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-18T01:17:37.186479+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-612",
+        "author": null,
+        "published_at": "2026-09-18T06:28:43+00:00"
+      },
+      "insight": {
+        "title_ko": "최신 AI 뉴스 동향 및 에이전트 인프라 발전",
+        "summary_ko": [
+          "Anthropic은 Claude Code에 단일 대화로 여러 클라우드 세션을 병렬 실행하는 Projects 기능을 도입했다.",
+          "Google은 관리형 에이전트를 위한 자격 증명 및 파일 API를 업데이트하며 에이전트 인프라 표준화를 추진하고 있다.",
+          "개발자들은 시스템 내에서 라우팅과 구조화된 결정을 내리는 프리미티브로서 Jev 모델을 활용하는 추세다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wjieap",
+        "title": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/",
+        "author": "/u/Nandakishor_ml",
+        "published_at": "2026-09-18T06:25:03+00:00"
+      },
+      "insight": {
+        "title_ko": "Jev 아키텍처 기반 오픈소스 모델 Laya 공개",
+        "summary_ko": [
+          "개발자가 대규모 실제 데이터셋으로 훈련한 421M 파라미터 규모의 비자기회귀 결정 모델 Laya를 공개했습니다.",
+          "이 모델은 ModernBERT-large 인코더와 Transformer 헤드를 결합하여 단일 포워드 패스로 타입화된 스키마를 처리합니다.",
+          "정책 그래디언트 강화학습 기법을 적용하여 수학적으로 보정된 확률 출력을 보장하며 저사양 PC에서도 구동 가능합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wj2hsm",
+        "title": "IFM/K2-Horizon-7B-Uno · Hugging Face - 5200tps with no quality loss",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj2hsm/ifmk2horizon7buno_hugging_face_5200tps_with_no/",
+        "author": "/u/Zulfiqaar",
+        "published_at": "2026-09-17T18:43:10+00:00"
+      },
+      "insight": {
+        "title_ko": "K2-Horizon-7B: 품질 손실 없는 초고속 확산 LLM",
+        "summary_ko": [
+          "IFM이 인과적 LLM 아키텍처에 플러그앤플레이 확산 어댑터를 결합한 K2-Horizon-7B를 공개했다.",
+          "이 모델은 자기회귀 가중치와 함께 확산 방식을 적용하여 품질 손실 없이 최대 5200 tps의 속도를 지원한다고 주장한다.",
+          "관련 논문을 통해 확산 증강형 LLM의 구체적인 구현 방식과 성능 검증 내용을 확인할 수 있다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
