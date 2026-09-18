@@ -221,6 +221,182 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+        "author": "Kyle Orland",
+        "published_at": "2026-09-18T20:26:33+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 환각으로 촉발될 뻔한 미·중 군사적 충돌 위기",
+        "summary_ko": [
+          "미국 특수작전사령부 분석가가 AI 도구를 활용해 작성한 허위 정보로 인해 중국 선박을 나포하려는 위험한 상황이 발생할 뻔했다.",
+          "해당 정보는 중국 선박이 중동을 통해 핵무기 부품을 운송하고 있다고 주장했으나, 보고서 작성에 사용된 챗봇이 화물을 잘못 식별한 것으로 드러났다.",
+          "미국 군 당국은 공중 지원하에 선박을 차단하고 승선할 준비를 하던 중 오류를 발견하여 실제 충돌을 겨우 면할 수 있었다."
+        ],
+        "category": "Policy",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+        "title": "Quoting Thariq Shihipar",
+        "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar/",
+        "author": null,
+        "published_at": "2026-09-18T19:09:27+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude Code의 AGENTS.md 지원 추가",
+        "summary_ko": [
+          "Claude Code 버전 2.1.277부터 CLAUDE.md가 없는 경우 AGENTS.md 파일을 탐색하여 활용하는 기능이 추가되었습니다.",
+          "이번 지원은 프로젝트 지시사항을 커스텀하기 위한 Claude Code mods 기능을 기반으로 구현되었습니다.",
+          "사용자는 내장된 모드 외에도 직접 커스텀 프로젝트 지시사항 버전을 구축할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122587",
+        "title": "Benchmarking LLM Inference at Scale with AIPerf",
+        "url": "https://developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-18T19:04:41+00:00"
+      },
+      "insight": {
+        "title_ko": "AIPerf를 활용한 LLM 추론 대규모 벤치마킹",
+        "summary_ko": [
+          "NVIDIA는 대규모 LLM 추론 시스템의 성능을 정확히 측정할 수 있는 AIPerf를 소개했습니다.",
+          "기존의 임시 스크립트나 단일 프로세스 방식은 Python의 GIL 제한 등으로 인해 동시성 측정에 한계가 있었습니다.",
+          "본 도구를 통해 엔지니어들은 실제 운영 환경에서 모델의 추론 속도와 부하를 신뢰성 있게 평가할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3165837",
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "author": "Tim Fernholz",
+        "published_at": "2026-09-18T18:49:30+00:00"
+      },
+      "insight": {
+        "title_ko": "ChatGPT 개발자의 새로운 AI 모델 Jev 공개",
+        "summary_ko": [
+          "ChatGPT 개발자가 참여한 새로운 유형의 AI 모델 Jev가 개발자들 사이에서 주목받고 있습니다.",
+          "이 모델은 소프트웨어 인텔리전스를 구현하는 더 저렴하고 빠른 경로를 제시합니다.",
+          "효율적인 성능을 통해 실무에서 AI 도입 비용을 절감하는 대안이 될 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wjyn95",
+        "title": "Is HF starting to move against abliterated models?",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models/",
+        "author": "/u/returnity",
+        "published_at": "2026-09-18T18:43:03+00:00"
+      },
+      "insight": {
+        "title_ko": "Hugging Face의 abliterated 모델 규제 가능성",
+        "summary_ko": [
+          "Baseten은 Hugging Face 및 Goodfire AI와 협력하여 오픈웨이트 모델을 위한 안전성 평가 및 모니터링 인프라를 구축한다고 발표했습니다.",
+          "이번 발표는 검열을 해제한 abliterated 모델의 위험성에 대한 우려가 커지는 가운데 나왔으며 플랫폼에 6,000개 이상의 해당 모델이 존재합니다.",
+          "업계에서는 이러한 안전성 인프라 협력이 향후 Hugging Face의 오픈소스 모델 호스팅 정책에 어떤 영향을 미칠지 주목하고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49757520",
+        "title": "US Military had close call after using AI for hallucinated intelligence report",
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+        "author": "realsarm",
+        "published_at": "2026-09-18T17:28:01+00:00"
+      },
+      "insight": {
+        "title_ko": "미 미군, AI 환각 오류로 인한 오보 사태 발생",
+        "summary_ko": [
+          "미군이 인공지능을 활용해 정보 보고서를 작성하던 중 심각한 환각 오류가 발생하여 하마터면 큰 위기로 이어질 뻔했습니다.",
+          "해당 보고서는 중국 군함과 관련된 잘못된 정보를 담고 있었으며 군사 작전에서의 AI 신뢰성에 대한 우려를 높이고 있습니다.",
+          "이 사건은 군사 및 안보 분야에서 AI 시스템을 도입할 때 철저한 검증과 인적 통제가 필수적임을 보여줍니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wjtav9",
+        "title": "inclusionAI/Realtime-Venus · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-18T15:27:14+00:00"
+      },
+      "insight": {
+        "title_ko": "Realtime-Venus 오디오-비주얼 옴니 모델 공개",
+        "summary_ko": [
+          "MiniCPM-o 4.5 기반의 Realtime-Venus 오디오-비주얼 옴니 모델과 오디오 전용 모델 체크포인트가 허깅페이스에 공개되었습니다.",
+          "이 모델은 실시간 전이중 대화와 능동적 상호작용, 그리고 학습이 필요 없는 장시간 비디오 메모리 기능을 지원합니다.",
+          "스트리밍 타임라인 상에서 비동기 외부 툴 연동과 텍스트 및 음성 동시 출력이 가능하여 실무에 유용합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/hex-gpt-6-astra",
+        "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+        "url": "https://openai.com/index/hex-gpt-6-astra",
+        "author": null,
+        "published_at": "2026-09-16T12:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Hex, GPT-6 Astra 기반 시각화 보고서 기능 도입",
+        "summary_ko": [
+          "Hex는 데이터 에이전트가 복잡한 분석을 대화형 시각화 보고서로 변환할 수 있도록 지원하는 기능을 공개했다.",
+          "이번 기능에는 GPT-6 Astra가 활용되어 직원이 쉽게 공유할 수 있는 결과물을 생성한다.",
+          "이 업데이트를 통해 기업 내 데이터 분석 작업의 효율성과 가시성이 크게 향상될 것으로 기대된다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

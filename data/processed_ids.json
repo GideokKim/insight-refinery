@@ -115,6 +115,11 @@
       "title": "exclusive paying for frontier ai models buys 4 month head start at 5x the cost",
       "url": "arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models"
     },
+    "rss:https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/": {
+      "at": "2026-09-18T22:36:03.238590+00:00",
+      "title": "faa tees up 875m ai tool to help manage air traffic congestion",
+      "url": "arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion"
+    },
     "rss:https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/": {
       "at": "2026-09-14T20:59:08.073328+00:00",
       "title": "founder s cost cutting obsession drove unitree lead in cheap humanoid robots",
@@ -139,6 +144,11 @@
       "at": "2026-09-03T17:25:47.816075+00:00",
       "title": "nvidia buys hugging face the github of ai for 13 billion",
       "url": "arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion"
+    },
+    "rss:https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/": {
+      "at": "2026-09-18T22:36:03.238478+00:00",
+      "title": "ai hallucination of chinese nuclear components almost led to us military attack",
+      "url": "arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report"
     },
     "rss:https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/": {
       "at": "2026-09-18T17:41:47.674298+00:00",
@@ -589,6 +599,11 @@
       "at": "2026-09-15T18:14:05.265561+00:00",
       "title": "scaling federated learning across docker kubernetes and slurm with nvidia flare",
       "url": "developer.nvidia.com/blog/scaling-federated-learning-across-docker-kubernetes-and-slurm-with-nvidia-flare"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122587": {
+      "at": "2026-09-18T22:36:03.238519+00:00",
+      "title": "benchmarking llm inference at scale with aiperf",
+      "url": "developer.nvidia.com/blog/benchmarking-llm-inference-at-scale-with-aiperf"
     },
     "rss:https://developer.nvidia.com/blog/?p=122604": {
       "at": "2026-09-16T22:57:26.123719+00:00",
@@ -1361,6 +1376,16 @@
       "title": "sex ai and the apocalypse",
       "url": "iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse"
     },
+    "rss:https://news.ycombinator.com/item?id=49755590": {
+      "at": "2026-09-18T22:36:03.238662+00:00",
+      "title": "ai is an elite crime spree",
+      "url": "thebignewsletter.com/p/ai-is-an-elite-crime-spree"
+    },
+    "rss:https://news.ycombinator.com/item?id=49757520": {
+      "at": "2026-09-18T22:36:03.238541+00:00",
+      "title": "us military had close call after using ai for hallucinated intelligence report",
+      "url": "cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1493,6 +1518,11 @@
       "at": "2026-09-16T18:14:09.223531+00:00",
       "title": "helping older adults use ai in everyday life",
       "url": "openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    "rss:https://openai.com/index/hex-gpt-6-astra": {
+      "at": "2026-09-18T22:36:03.238559+00:00",
+      "title": "hex turns complex analysis into visual reports with gpt 6 astra",
+      "url": "openai.com/index/hex-gpt-6-astra"
     },
     "rss:https://openai.com/index/how-enterprises-put-ai-to-work": {
       "at": "2026-08-19T17:19:19.683319+00:00",
@@ -1791,6 +1821,11 @@
       "at": "2026-09-01T22:10:08.412024+00:00",
       "title": "mapping global methane emissions from space with deep learning",
       "url": "research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning"
+    },
+    "rss:https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/": {
+      "at": "2026-09-18T22:36:03.238613+00:00",
+      "title": "millemiglia a realistic instance generator for middle mile logistics",
+      "url": "research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics"
     },
     "rss:https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/": {
       "at": "2026-08-19T20:13:45.261390+00:00",
@@ -2171,6 +2206,16 @@
       "at": "2026-09-18T01:17:38.909609+00:00",
       "title": "be alert targeted attacks on prominent rustaceans",
       "url": "simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans"
+    },
+    "rss:https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": {
+      "at": "2026-09-18T22:36:03.238654+00:00",
+      "title": "note on 18th september 2026",
+      "url": "simonwillison.net/2026/Sep/18/probably-gonna-eat-you"
+    },
+    "rss:https://simonwillison.net/2026/Sep/18/thariq-shihipar/": {
+      "at": "2026-09-18T22:36:03.238512+00:00",
+      "title": "quoting thariq shihipar",
+      "url": "simonwillison.net/2026/Sep/18/thariq-shihipar"
     },
     "rss:https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit/": {
       "at": "2026-09-18T17:41:47.674459+00:00",
@@ -3541,6 +3586,11 @@
       "title": "crusoe raises 3 9b to build massive data centers and small modular ai factories",
       "url": "techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories"
     },
+    "rss:https://techcrunch.com/?p=3165837": {
+      "at": "2026-09-18T22:36:03.238526+00:00",
+      "title": "a new kind of ai model from a chatgpt inventor is thrilling developers",
+      "url": "techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers"
+    },
     "rss:https://techcrunch.com/?p=3165952": {
       "at": "2026-09-18T17:41:47.674448+00:00",
       "title": "robinhood s abhishek fatehpuria on winning the modern financial consumer at techcrunch disrupt 2026",
@@ -3566,10 +3616,25 @@
       "title": "manus seeks 4b valuation in new 500m fundraise as it resumes independent ops",
       "url": "techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops"
     },
+    "rss:https://techcrunch.com/?p=3166196": {
+      "at": "2026-09-18T22:36:03.238632+00:00",
+      "title": "world model companies are keeping a lot of secrets",
+      "url": "techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets"
+    },
     "rss:https://techcrunch.com/?p=3166205": {
       "at": "2026-09-18T17:41:47.674330+00:00",
       "title": "google s new cc is an ai agent that helps families run their households",
       "url": "techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households"
+    },
+    "rss:https://techcrunch.com/?p=3166240": {
+      "at": "2026-09-18T22:36:03.238602+00:00",
+      "title": "disney s first cto led an ai startup it once accused of copying its characters",
+      "url": "techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters"
+    },
+    "rss:https://techcrunch.com/?p=3166479": {
+      "at": "2026-09-18T22:36:03.238574+00:00",
+      "title": "anthropic s first embedded evaluator is accenture",
+      "url": "techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6885,6 +6950,11 @@
       "title": "us government website used ai search tool qwen from china that fbi said copied anthropic",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjmomv/us_government_website_used_ai_search_tool_qwen"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjnklv": {
+      "at": "2026-09-18T22:36:03.238668+00:00",
+      "title": "bonsai s document reveal how much cherry picked their headlines are",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjnklv/bonsais_document_reveal_how_much_cherry_picked"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjocnh": {
       "at": "2026-09-18T17:41:47.674433+00:00",
       "title": "question ukisai swift ternary bonsai 2 27b",
@@ -6894,6 +6964,21 @@
       "at": "2026-09-18T17:41:47.674388+00:00",
       "title": "768gb vram for less than the price of one rtx 6000",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjtav9": {
+      "at": "2026-09-18T22:36:03.238547+00:00",
+      "title": "inclusionai realtime venus hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wju8ky": {
+      "at": "2026-09-18T22:36:03.238623+00:00",
+      "title": "prism ml bonsai 2 joins our qwen3 8 quantization comparison",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wju8ky/prismml_bonsai_2_joins_our_qwen38_quantization"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjyn95": {
+      "at": "2026-09-18T22:36:03.238533+00:00",
+      "title": "is hf starting to move against abliterated models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7211,6 +7296,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-18T17:41:47.674503+00:00",
+  "updated_at": "2026-09-18T22:36:03.238706+00:00",
   "version": 2
 }
