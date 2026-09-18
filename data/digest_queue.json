@@ -89,6 +89,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?post_type=tc_video&p=3166249",
+        "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+        "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+        "author": "Theresa Loconsolo",
+        "published_at": "2026-09-18T17:09:56+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic CEO의 AI 개발 속도 조절 제안",
+        "summary_ko": [
+          "Anthropic의 CEO Dario Amodei가 독립적인 안전 평가와 민주주의 국가 간 협력을 바탕으로 한 AI 개발 속도 조절 방안을 제시했습니다.",
+          "이번 제안은 업계의 일부 지지를 얻었으나 Nvidia의 Jensen Huang으로부터 날카로운 반발을 사는 등 논쟁을 불러일으켰습니다.",
+          "이 논의는 AI 안전성과 규제 방향성을 설정하는 데 있어 실무적으로 중요한 시사점을 제공합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?post_type=tc_podcast&p=3166233",
+        "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+        "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+        "author": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
+        "published_at": "2026-09-18T17:06:32+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic의 AI 안전성 통제 방안 발표",
+        "summary_ko": [
+          "Anthropic의 CEO Dario Amodei는 독립적인 안전성 평가자와 민주주의 국가 간의 협력을 바탕으로 한 AI 개발 속도 조절 방안을 공개했다.",
+          "이 제안은 일부 업계의 지지를 얻었으나 Nvidia의 Jensen Huang으로부터는 날카로운 반발을 받았다.",
+          "이번 논의는 최근 Anthropic 연구원의 경고 이후 AI 연구소들의 자체 규제 가능성에 대한 업계의 관심을 집중시키고 있다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3166065",
+        "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+        "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+        "author": "Sarah Perez",
+        "published_at": "2026-09-18T15:22:48+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta의 AI 에이전트 Muse Mac 버전 출시",
+        "summary_ko": [
+          "Meta의 AI 에이전트 Muse가 Mac 버전으로 공식 출시되었습니다.",
+          "이 서비스는 사용자의 파일 및 애플리케이션과 연동되는 기능을 제공합니다.",
+          "사용자를 대신하여 컴퓨터 상에서 직접 다양한 작업을 수행할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3166021",
+        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+        "author": "Aditya Mehta, Rebecca Bellan",
+        "published_at": "2026-09-18T14:00:14+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude를 활용한 OpenAI 시스템 해킹 사건",
+        "summary_ko": [
+          "보안 연구원들이 Anthropic의 Claude를 활용해 OpenAI 시스템의 취약점을 악용하는 데 성공했다.",
+          "이들은 임직원 계정을 탈취하고 내부 코드 저장소에 접근한 뒤 해당 결함을 안전하게 신고했다.",
+          "AI 모델이 실제 고도화된 보안 취약점 분석과 해킹 과정에 활용될 수 있음을 보여준다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "title": "Researchers used Claude to hack OpenAI",
+        "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+        "author": "Cristina Criddle, Financial Times",
+        "published_at": "2026-09-18T13:30:12+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude를 활용한 OpenAI 시스템 해킹 사례",
+        "summary_ko": [
+          "보안 연구원들이 Anthropic의 보안 도구를 활용해 OpenAI 직원의 ChatGPT 계정에 접근하는 데 성공했습니다.",
+          "이 과정에서 연구원들은 내부 소프트웨어 정보를 확인하고 변경 사항을 제안할 수 있는 취약점을 발견했습니다.",
+          "이번 보안 테스트는 악의적 공격에 앞서 취약점을 선제적으로 파악하기 위한 정식 프로그램의 일환으로 진행되었습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wjmomv",
+        "title": "US government website used AI search tool (Qwen) from China that FBI said copied Anthropic",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjmomv/us_government_website_used_ai_search_tool_qwen/",
+        "author": "/u/External_Mood4719",
+        "published_at": "2026-09-18T10:39:46+00:00"
+      },
+      "insight": {
+        "title_ko": "미국 정부 웹사이트의 중국산 Qwen AI 도입 논란",
+        "summary_ko": [
+          "미국 정부 웹사이트가 중국의 AI 검색 도구인 Qwen을 사용한 것으로 나타났다.",
+          "해당 도구는 FBI가 Anthropic의 기술을 무단 복제했다고 지적한 바 있어 논란이 되고 있다.",
+          "이번 사건은 공공 부문의 AI 도입 과정에서 보안 및 지식재산권 검증의 중요성을 보여준다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
