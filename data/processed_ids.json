@@ -1346,6 +1346,11 @@
       "title": "bend a language that blocks ai mistakes via proof on cpu and gpu",
       "url": "bend-lang.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=49746654": {
+      "at": "2026-09-18T01:17:38.909762+00:00",
+      "title": "sex ai and the apocalypse",
+      "url": "iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1413,6 +1418,11 @@
       "at": "2026-09-12T01:07:41.366393+00:00",
       "title": "cognition helps devin test its own work with gpt 6 astra",
       "url": "openai.com/index/cognition-devin-testing-with-astra"
+    },
+    "rss:https://openai.com/index/cooley-gopublic": {
+      "at": "2026-09-18T01:17:38.909714+00:00",
+      "title": "how cooley is accelerating ipo work with chatgpt",
+      "url": "openai.com/index/cooley-gopublic"
     },
     "rss:https://openai.com/index/dali-rajic-chief-revenue-officer": {
       "at": "2026-08-19T14:23:12.191402+00:00",
@@ -2141,6 +2151,16 @@
       "at": "2026-09-17T22:53:10.073302+00:00",
       "title": "self generated prompt injections in compaction summaries",
       "url": "simonwillison.net/2026/Sep/17/compaction-summaries"
+    },
+    "rss:https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/": {
+      "at": "2026-09-18T01:17:38.909697+00:00",
+      "title": "how to write with an llm",
+      "url": "simonwillison.net/2026/Sep/17/how-to-write-with-an-llm"
+    },
+    "rss:https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans/": {
+      "at": "2026-09-18T01:17:38.909609+00:00",
+      "title": "be alert targeted attacks on prominent rustaceans",
+      "url": "simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans"
     },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
@@ -3490,6 +3510,16 @@
       "at": "2026-09-17T22:53:10.073399+00:00",
       "title": "the faa s plan to fix air traffic 875 million worth of ai",
       "url": "techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai"
+    },
+    "rss:https://techcrunch.com/?p=3165803": {
+      "at": "2026-09-18T01:17:38.909732+00:00",
+      "title": "google deepmind launches institute to widen the agi debate",
+      "url": "techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate"
+    },
+    "rss:https://techcrunch.com/?p=3165830": {
+      "at": "2026-09-18T01:17:38.909666+00:00",
+      "title": "crusoe raises 3 9b to build massive data centers and small modular ai factories",
+      "url": "techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6735,6 +6765,11 @@
       "title": "ternary bonsai 2 27b just released on hugging face at 6gb in size it can even run locally in browser on webgpu",
       "url": "reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wj84nz": {
+      "at": "2026-09-18T01:17:38.909747+00:00",
+      "title": "ternary bonsai 2 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -7046,6 +7081,6 @@
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     }
   },
-  "updated_at": "2026-09-17T22:53:10.073570+00:00",
+  "updated_at": "2026-09-18T01:17:38.909818+00:00",
   "version": 2
 }
