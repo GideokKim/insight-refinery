@@ -6785,15 +6785,35 @@
       "title": "installing 6 gpus in a standard case rather than using an open frame chassis",
       "url": "reddit.com/r/LocalLLaMA/comments/1wj9u19/installing_6_gpus_in_a_standard_case_rather_than"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wja9ml": {
+      "at": "2026-09-18T12:58:45.582350+00:00",
+      "title": "600tok s single request on qwen3 6 35ba3b with ninfer on an rtx pro 6000 anybody remember that comcast ad stupid fast",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wja9ml/600toks_single_request_on_qwen36_35ba3b_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wje4xh": {
+      "at": "2026-09-18T12:58:45.582377+00:00",
+      "title": "still doesn t get what jev is is it just a more generalised bert",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wje4xh/still_doesnt_get_what_jev_isis_it_just_a_more"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjeuy7": {
       "at": "2026-09-18T07:24:55.114506+00:00",
       "title": "i just realized courage used local llms to solve his problems before any of us ever did",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjeuy7/i_just_realized_courage_used_local_llms_to_solve"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjgnok": {
+      "at": "2026-09-18T12:58:45.582368+00:00",
+      "title": "ternary bonsai is a headless chicken",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjgnok/ternary_bonsai_is_a_headless_chicken"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjieap": {
       "at": "2026-09-18T07:24:55.114471+00:00",
       "title": "made the horizontal open source model for jev with rlcd and it surpasses all the jev benchmarks hf space benchmark model repo",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjjspd": {
+      "at": "2026-09-18T12:58:45.582298+00:00",
+      "title": "zcode was allegedly caught uploading workspace git records to the cloud",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7104,8 +7124,13 @@
       "at": "2026-09-14T20:59:08.073234+00:00",
       "title": "the ai industry has taken a doomer turn what now",
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
+    },
+    "rss:https://www.technologyreview.com/?p=1144435": {
+      "at": "2026-09-18T12:58:45.582335+00:00",
+      "title": "could ai really kill us all your questions answered",
+      "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-18T07:24:55.114536+00:00",
+  "updated_at": "2026-09-18T12:58:45.582423+00:00",
   "version": 2
 }

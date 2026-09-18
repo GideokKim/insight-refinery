@@ -67,6 +67,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wjjspd",
+        "title": "ZCode was allegedly caught uploading workspace/.git records to the cloud.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit/",
+        "author": "/u/External_Mood4719",
+        "published_at": "2026-09-18T07:49:55+00:00"
+      },
+      "insight": {
+        "title_ko": "ZCode의 워크스페이스 무단 업로드 의혹 제기",
+        "summary_ko": [
+          "ZCode가 사용자의 워크스페이스 내 .git 기록을 클라우드로 무단 업로드했다는 의혹이 제기되었습니다.",
+          "해당 이슈는 개발자 커뮤니티와 블로그를 통해 확산되며 보안 우려를 낳고 있습니다.",
+          "실무 환경에서 AI 도구를 사용할 때 발생할 수 있는 잠재적 보안 리스크 점검이 필요합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
