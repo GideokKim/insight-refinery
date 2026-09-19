@@ -89,6 +89,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wk14il",
+        "title": "Qwen3.8-Flash-Next (95.5 GiB) on a 64GB Mac at ~27 tok/s, checkpoint + fork",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk14il/qwen38flashnext_955_gib_on_a_64gb_mac_at_27_toks/",
+        "author": "/u/SnooPredictions515",
+        "published_at": "2026-09-18T20:15:10+00:00"
+      },
+      "insight": {
+        "title_ko": "64GB Mac에서 Qwen3.8-Flash-Next 구동기",
+        "summary_ko": [
+          "작성자는 64GB Mac에서 라우팅된 전문가를 SSD에 유지하는 방식으로 95.5 GiB 크기의 Qwen3.8-Flash-Next 모델을 구동하는 데 성공했습니다.",
+          "직접 파일 읽기, 드래프트 헤드 및 전문가 스트리밍 플래그 등을 적용하여 수정된 llama.cpp 포크를 통해 초당 약 27 토큰의 속도를 달성했습니다.",
+          "Apple Silicon 환경에서 메모리 스와핑을 방지하고 캐시 크기를 조율함으로써 대형 모델을 로컬에서 효율적으로 실행할 수 있음을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wjwhxc",
+        "title": "We benchmarked 24 LLMs against human writers on 475 creative writing prompts",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjwhxc/we_benchmarked_24_llms_against_human_writers_on/",
+        "author": "/u/drooolingidiot",
+        "published_at": "2026-09-18T17:24:23+00:00"
+      },
+      "insight": {
+        "title_ko": "24개 LLM의 창의적 글쓰기 성능 벤치마크 공개",
+        "summary_ko": [
+          "24개의 LLM과 인간 작가의 창의적 글쓰기 성능을 비교하는 벤치마크의 첫 번째 버전이 공개되었다.",
+          "인간의 창의적 글쓰기 선호도를 학습한 커스텀 보상 모델을 활용해 다수 독자의 선호도를 예측하고자 했다.",
+          "평가 결과 최고 성능의 프론티어 모델은 아마추어 작가를 넘어섰으나 프로 작가보다는 격차가 큰 것으로 나타났다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -2242,6 +2242,11 @@
       "title": "the creative spirit of who framed roger rabbit",
       "url": "simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit"
     },
+    "rss:https://simonwillison.net/2026/Sep/19/sighting-401567341/": {
+      "at": "2026-09-19T17:17:54.582371+00:00",
+      "title": "california sea lion brandt s cormorant",
+      "url": "simonwillison.net/2026/Sep/19/sighting-401567341"
+    },
     "rss:https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/": {
       "at": "2026-09-02T17:30:27.096500+00:00",
       "title": "claude s new system prompt really doesn t want to reproduce song lyrics",
@@ -3146,6 +3151,11 @@
       "title": "openai fought dirty on career making math problem says nyu mathematician",
       "url": "techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician"
     },
+    "rss:https://techcrunch.com/?p=3161565": {
+      "at": "2026-09-19T17:17:54.582294+00:00",
+      "title": "vals backed by andreessen horowitz is looking to become the gold standard for ai benchmarking",
+      "url": "techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking"
+    },
     "rss:https://techcrunch.com/?p=3161574": {
       "at": "2026-09-09T17:52:30.546441+00:00",
       "title": "sequoia doubles down on cymphony as ai agents create new enterprise security risks",
@@ -3240,6 +3250,11 @@
       "at": "2026-09-10T01:04:47.895784+00:00",
       "title": "ai research startup listen labs scrubbed a 1 5b funding round for salesforce talks",
       "url": "techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
+    },
+    "rss:https://techcrunch.com/?p=3162545": {
+      "at": "2026-09-19T17:17:54.582335+00:00",
+      "title": "petlibro s new ai powered feeder is a game changer for multi cat homes",
+      "url": "techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes"
     },
     "rss:https://techcrunch.com/?p=3162590": {
       "at": "2026-09-15T22:54:27.656962+00:00",
@@ -3601,6 +3616,11 @@
       "title": "google deepmind launches institute to widen the agi debate",
       "url": "techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate"
     },
+    "rss:https://techcrunch.com/?p=3165814": {
+      "at": "2026-09-19T17:17:54.582356+00:00",
+      "title": "ai safety conversations have gotten unbelievable",
+      "url": "techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable"
+    },
     "rss:https://techcrunch.com/?p=3165830": {
       "at": "2026-09-18T01:17:38.909666+00:00",
       "title": "crusoe raises 3 9b to build massive data centers and small modular ai factories",
@@ -3670,6 +3690,11 @@
       "at": "2026-09-19T01:10:32.066454+00:00",
       "title": "ai hallucination nearly triggers us military operation",
       "url": "techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation"
+    },
+    "rss:https://techcrunch.com/?p=3166491": {
+      "at": "2026-09-19T17:17:54.582411+00:00",
+      "title": "prices go up in 7 days get your disrupt ticket now",
+      "url": "techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now"
     },
     "rss:https://techcrunch.com/?p=3166494": {
       "at": "2026-09-19T01:10:32.066557+00:00",
@@ -7045,15 +7070,30 @@
       "title": "prism ml bonsai 2 joins our qwen3 8 quantization comparison",
       "url": "reddit.com/r/LocalLLaMA/comments/1wju8ky/prismml_bonsai_2_joins_our_qwen38_quantization"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjwhxc": {
+      "at": "2026-09-19T17:17:54.582268+00:00",
+      "title": "we benchmarked 24 llms against human writers on 475 creative writing prompts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjwhxc/we_benchmarked_24_llms_against_human_writers_on"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjyn95": {
       "at": "2026-09-18T22:36:03.238533+00:00",
       "title": "is hf starting to move against abliterated models",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjzg4c": {
+      "at": "2026-09-19T17:17:54.582315+00:00",
+      "title": "built this yesterday with qwen3 8 flash next nvfp4 262k context on a single nvidia dgx spark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjzg4c/built_this_yesterday_with_qwen38flashnext_nvfp4"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk11dq": {
       "at": "2026-09-19T01:10:32.066570+00:00",
       "title": "m5 ultra and m6 chip benchmark results reveal graphics performance",
       "url": "reddit.com/r/LocalLLaMA/comments/1wk11dq/m5_ultra_and_m6_chip_benchmark_results_reveal"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk14il": {
+      "at": "2026-09-19T17:17:54.582177+00:00",
+      "title": "qwen3 8 flash next 95 5 gib on a 64gb mac at 27 tok s checkpoint fork",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk14il/qwen38flashnext_955_gib_on_a_64gb_mac_at_27_toks"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk22tw": {
       "at": "2026-09-19T12:30:43.728366+00:00",
@@ -7099,6 +7139,11 @@
       "at": "2026-09-19T12:30:43.728276+00:00",
       "title": "general warning about clore ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkocvj": {
+      "at": "2026-09-19T17:17:54.582389+00:00",
+      "title": "calling it now within the next year a major us lab s frontier model will torrent itself in order to be free",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkocvj/calling_it_now_within_the_next_year_a_major_us"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7416,6 +7461,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-19T12:30:43.728411+00:00",
+  "updated_at": "2026-09-19T17:17:54.582459+00:00",
   "version": 2
 }
