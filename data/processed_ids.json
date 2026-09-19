@@ -1396,6 +1396,11 @@
       "title": "ai generated posters don t have to be horrible",
       "url": "john.hartnup.uk/2026/06/07/ai-event-posters.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49767937": {
+      "at": "2026-09-19T22:20:40.649221+00:00",
+      "title": "i think you should almost never use ai to write",
+      "url": "erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -2241,6 +2246,11 @@
       "at": "2026-09-18T17:41:47.674459+00:00",
       "title": "the creative spirit of who framed roger rabbit",
       "url": "simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit"
+    },
+    "rss:https://simonwillison.net/2026/Sep/19/datasette-auth-github/": {
+      "at": "2026-09-19T22:20:40.649204+00:00",
+      "title": "datasette auth github 1 0",
+      "url": "simonwillison.net/2026/Sep/19/datasette-auth-github"
     },
     "rss:https://simonwillison.net/2026/Sep/19/sighting-401567341/": {
       "at": "2026-09-19T17:17:54.582371+00:00",
@@ -3705,6 +3715,21 @@
       "at": "2026-09-19T01:10:32.066540+00:00",
       "title": "a startup that builds other startups raised 100m and is all in on physical ai",
       "url": "techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai"
+    },
+    "rss:https://techcrunch.com/?p=3166647": {
+      "at": "2026-09-19T22:20:40.649050+00:00",
+      "title": "google s gemini is the latest ai model to hack other companies",
+      "url": "techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies"
+    },
+    "rss:https://techcrunch.com/?p=3166662": {
+      "at": "2026-09-19T22:20:40.649181+00:00",
+      "title": "trump says it s time to rebrand ai with a new name and he s also creating an ai force",
+      "url": "techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force"
+    },
+    "rss:https://techcrunch.com/?p=3166668": {
+      "at": "2026-09-19T22:20:40.649168+00:00",
+      "title": "flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -7120,6 +7145,11 @@
       "title": "qwen3 8 27b at 144 tok s on an m5 max macbook pro",
       "url": "reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk9qjn": {
+      "at": "2026-09-19T22:20:40.649151+00:00",
+      "title": "training a neural network on amd mi50s using vulkan proof of conceptor why i stopped listening and just did it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk9qjn/training_a_neural_network_on_amd_mi50s_using"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkc2n1": {
       "at": "2026-09-19T12:30:43.728306+00:00",
       "title": "stepfun new model step 5 preview just leaked",
@@ -7129,6 +7159,11 @@
       "at": "2026-09-19T12:30:43.728291+00:00",
       "title": "steer llms and agents at the token level an interactive tool for token visualization control model inspection and data annotation",
       "url": "reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkdzdk": {
+      "at": "2026-09-19T22:20:40.649138+00:00",
+      "title": "i enjoyed the daily hf papers today",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkdzdk/i_enjoyed_the_daily_hf_papers_today"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkgb2h": {
       "at": "2026-09-19T12:30:43.728349+00:00",
@@ -7140,10 +7175,35 @@
       "title": "general warning about clore ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wki7hr": {
+      "at": "2026-09-19T22:20:40.649250+00:00",
+      "title": "made this motion graphic video via glm 5 3 flash no vid_gen model used",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wki7hr/made_this_motion_graphic_video_via_glm_53_flash"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkmtbe": {
+      "at": "2026-09-19T22:20:40.649235+00:00",
+      "title": "so i tried remotion with glm 5 3 flash this mfker is really good",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkmtbe/so_i_tried_remotion_with_glm_53_flash_this_mfker"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkocvj": {
       "at": "2026-09-19T17:17:54.582389+00:00",
       "title": "calling it now within the next year a major us lab s frontier model will torrent itself in order to be free",
       "url": "reddit.com/r/LocalLLaMA/comments/1wkocvj/calling_it_now_within_the_next_year_a_major_us"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkorli": {
+      "at": "2026-09-19T22:20:40.649120+00:00",
+      "title": "i tested qwen3 8 27b iq3_xxs 10 18gib vs bonsai ternary pq2 6 42gib",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkorli/i_tested_qwen38_27b_iq3_xxs_1018gib_vs_bonsai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkpxn6": {
+      "at": "2026-09-19T22:20:40.649098+00:00",
+      "title": "von open source 395m system one model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkpxn6/von_opensource_395m_system_one_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkxx8e": {
+      "at": "2026-09-19T22:20:40.649265+00:00",
+      "title": "with gemini 4 bench goes up",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7461,6 +7521,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-19T17:17:54.582459+00:00",
+  "updated_at": "2026-09-19T22:20:40.649332+00:00",
   "version": 2
 }
