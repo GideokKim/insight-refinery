@@ -2207,6 +2207,11 @@
       "title": "be alert targeted attacks on prominent rustaceans",
       "url": "simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans"
     },
+    "rss:https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/": {
+      "at": "2026-09-19T01:10:32.066503+00:00",
+      "title": "gemini hacked three companies in first known breakout by google s ai",
+      "url": "simonwillison.net/2026/Sep/18/gemini-hacked-three-companies"
+    },
     "rss:https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you/": {
       "at": "2026-09-18T22:36:03.238654+00:00",
       "title": "note on 18th september 2026",
@@ -3631,10 +3636,30 @@
       "title": "disney s first cto led an ai startup it once accused of copying its characters",
       "url": "techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters"
     },
+    "rss:https://techcrunch.com/?p=3166409": {
+      "at": "2026-09-19T01:10:32.066581+00:00",
+      "title": "india forces caller id apps to feed spam reports to telcos",
+      "url": "techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos"
+    },
     "rss:https://techcrunch.com/?p=3166479": {
       "at": "2026-09-18T22:36:03.238574+00:00",
       "title": "anthropic s first embedded evaluator is accenture",
       "url": "techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture"
+    },
+    "rss:https://techcrunch.com/?p=3166487": {
+      "at": "2026-09-19T01:10:32.066454+00:00",
+      "title": "ai hallucination nearly triggers us military operation",
+      "url": "techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation"
+    },
+    "rss:https://techcrunch.com/?p=3166494": {
+      "at": "2026-09-19T01:10:32.066557+00:00",
+      "title": "anthropic is operating a lab that conducts biology experiments",
+      "url": "techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments"
+    },
+    "rss:https://techcrunch.com/?p=3166504": {
+      "at": "2026-09-19T01:10:32.066540+00:00",
+      "title": "a startup that builds other startups raised 100m and is all in on physical ai",
+      "url": "techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6965,6 +6990,11 @@
       "title": "768gb vram for less than the price of one rtx 6000",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjs62f": {
+      "at": "2026-09-19T01:10:32.066527+00:00",
+      "title": "minimax code goes open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjs62f/minimax_code_goes_open_source"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjtav9": {
       "at": "2026-09-18T22:36:03.238547+00:00",
       "title": "inclusionai realtime venus hugging face",
@@ -6979,6 +7009,11 @@
       "at": "2026-09-18T22:36:03.238533+00:00",
       "title": "is hf starting to move against abliterated models",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk11dq": {
+      "at": "2026-09-19T01:10:32.066570+00:00",
+      "title": "m5 ultra and m6 chip benchmark results reveal graphics performance",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk11dq/m5_ultra_and_m6_chip_benchmark_results_reveal"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7296,6 +7331,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-18T22:36:03.238706+00:00",
+  "updated_at": "2026-09-19T01:10:32.066626+00:00",
   "version": 2
 }
