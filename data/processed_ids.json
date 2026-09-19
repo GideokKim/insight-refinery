@@ -1376,6 +1376,11 @@
       "title": "sex ai and the apocalypse",
       "url": "iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse"
     },
+    "rss:https://news.ycombinator.com/item?id=49754250": {
+      "at": "2026-09-19T07:20:41.559561+00:00",
+      "title": "ai chatbots are becoming experts at changing people s minds",
+      "url": "science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret"
+    },
     "rss:https://news.ycombinator.com/item?id=49755590": {
       "at": "2026-09-18T22:36:03.238662+00:00",
       "title": "ai is an elite crime spree",
@@ -1420,6 +1425,11 @@
       "at": "2026-09-03T00:47:52.878181+00:00",
       "title": "atv big air tour turned 3 days of work into 3 hours with chatgpt",
       "url": "openai.com/index/atv-big-air-tour"
+    },
+    "rss:https://openai.com/index/australian-youth-safety-blueprint": {
+      "at": "2026-09-19T07:20:41.559572+00:00",
+      "title": "introducing the australian youth safety blueprint",
+      "url": "openai.com/index/australian-youth-safety-blueprint"
     },
     "rss:https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
       "at": "2026-08-26T18:46:54.599712+00:00",
@@ -3641,6 +3651,11 @@
       "title": "india forces caller id apps to feed spam reports to telcos",
       "url": "techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos"
     },
+    "rss:https://techcrunch.com/?p=3166469": {
+      "at": "2026-09-19T07:20:41.559595+00:00",
+      "title": "tilly norwood s press tour is going about as well as you d expect for an ai",
+      "url": "techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai"
+    },
     "rss:https://techcrunch.com/?p=3166479": {
       "at": "2026-09-18T22:36:03.238574+00:00",
       "title": "anthropic s first embedded evaluator is accenture",
@@ -3765,6 +3780,11 @@
       "at": "2026-09-04T06:40:46.474315+00:00",
       "title": "ainews gpt 6 astra openai s biggest llm launch of all time",
       "url": "latent.space/p/ainews-gpt-6-astra-openais-biggest"
+    },
+    "rss:https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in": {
+      "at": "2026-09-19T07:20:41.559515+00:00",
+      "title": "ainews here are 6 clones of jev in 2 days",
+      "url": "latent.space/p/ainews-here-are-6-clones-of-jev-in"
     },
     "rss:https://www.latent.space/p/ainews-hot-chips-openais-jalapeno": {
       "at": "2026-08-27T04:07:33.744821+00:00",
@@ -6965,10 +6985,25 @@
       "title": "qwen 3 8 next flash appreciation post",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjio00/qwen_38_next_flash_appreciation_post"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjjecz": {
+      "at": "2026-09-19T07:20:41.559626+00:00",
+      "title": "jev architecture",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjjecz/jev_architecture"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjjspd": {
       "at": "2026-09-18T12:58:45.582298+00:00",
       "title": "zcode was allegedly caught uploading workspace git records to the cloud",
       "url": "reddit.com/r/LocalLLaMA/comments/1wjjspd/zcode_was_allegedly_caught_uploading_workspacegit"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjla7f": {
+      "at": "2026-09-19T07:20:41.559610+00:00",
+      "title": "bonsai 1 7b can solve simple physics problems on a 12 watt intel n97 at about 9 1 t s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjla7f/bonsai_17b_can_solve_simple_physics_problems_on_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjlyzr": {
+      "at": "2026-09-19T07:20:41.559583+00:00",
+      "title": "still on the jev waitlist i hosted openjev it s free go play with it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wjlyzr/still_on_the_jev_waitlist_i_hosted_openjev_its"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wjmomv": {
       "at": "2026-09-18T17:41:47.674313+00:00",
@@ -7014,6 +7049,16 @@
       "at": "2026-09-19T01:10:32.066570+00:00",
       "title": "m5 ultra and m6 chip benchmark results reveal graphics performance",
       "url": "reddit.com/r/LocalLLaMA/comments/1wk11dq/m5_ultra_and_m6_chip_benchmark_results_reveal"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk979c": {
+      "at": "2026-09-19T07:20:41.559636+00:00",
+      "title": "i truly think every major ai lab is purposefully making fear mongering headlines to get regulations that hurt open source models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk979c/i_truly_think_every_major_ai_lab_is_purposefully"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk9fag": {
+      "at": "2026-09-19T07:20:41.559548+00:00",
+      "title": "alibaba open sources medical ai model that can detect cancer and nearly 150 conditions",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7331,6 +7376,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-19T01:10:32.066626+00:00",
+  "updated_at": "2026-09-19T07:20:41.559674+00:00",
   "version": 2
 }

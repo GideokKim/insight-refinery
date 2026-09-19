@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-19T01:10:30.092594+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+        "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+        "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+        "author": null,
+        "published_at": "2026-09-19T05:48:28+00:00"
+      },
+      "insight": {
+        "title_ko": "Jev 모델의 부상과 오픈소스 복제본 등장",
+        "summary_ko": [
+          "비생성형 의사결정 모델인 Jev가 출시 이후 큰 주목을 받으며 다양한 오픈소스 클론 모델들이 빠르게 등장했다.",
+          "Jev는 LLM의 System 1 보완재로서 라우팅과 툴 호출 등에서 400배 낮은 비용과 빠른 속도를 보여주고 있다.",
+          "업계 전문가들은 이 모델이 브라우저 및 컴퓨터 제어 워크플로우에 유용하게 적용될 수 있음을 확인했다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wk9fag",
+        "title": "Alibaba open-sources medical AI model that can detect cancer and nearly 150 conditions",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can/",
+        "author": "/u/giveen",
+        "published_at": "2026-09-19T02:08:07+00:00"
+      },
+      "insight": {
+        "title_ko": "Alibaba, 의료 AI 모델 오픈소스 공개",
+        "summary_ko": [
+          "Alibaba가 암을 포함해 약 150가지의 질환을 감지할 수 있는 의료 AI 모델을 오픈소스로 공개했습니다.",
+          "해당 오픈소스 모델은 인공지능 기술이 의료 분야에서 긍정적인 가치를 창출할 수 있음을 보여줍니다.",
+          "이번 공개는 관련 분야 연구자와 실무자가 첨단 의료 AI 기술을 활용하고 검증하는 데 기여합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49754250",
+        "title": "AI chatbots are becoming experts at changing people's minds",
+        "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
+        "author": "rbanffy",
+        "published_at": "2026-09-18T13:39:27+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 챗봇의 사람 설득 능력 향상",
+        "summary_ko": [
+          "최근 AI 챗봇들이 사람들의 생각을 바꾸는 데 뛰어난 전문성을 보이고 있다는 분석이 제기되었습니다.",
+          "이러한 현상은 AI가 사용자 맞춤형 논리와 설득 전략을 구사할 수 있게 되었기 때문입니다.",
+          "AI의 설득력 강화는 실무와 사회 전반에 큰 영향을 미칠 수 있어 주목받고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
