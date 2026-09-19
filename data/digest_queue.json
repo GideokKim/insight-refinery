@@ -67,6 +67,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wk9hze",
+        "title": "Qwen3.8-27B at 144 tok/s on an M5 Max MacBook Pro",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro/",
+        "author": "/u/ResearchCrafty1804",
+        "published_at": "2026-09-19T02:11:38+00:00"
+      },
+      "insight": {
+        "title_ko": "Apple Silicon용 오픈소스 추론 엔진 Inco Splash",
+        "summary_ko": [
+          "Inco Splash는 Apple Silicon에 특화되어 개발된 고성능 오픈소스 LLM 추론 엔진입니다.",
+          "M5 Max 맥북 프로 환경에서 Qwen3.8-27B 모델 구동 시 초당 144 토큰의 디코딩 속도를 제공합니다.",
+          "Homebrew를 통해 간편하게 설치할 수 있으며 LM Studio와도 연동되어 로컬 에이전트 개발을 지원합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

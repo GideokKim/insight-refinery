@@ -1391,6 +1391,11 @@
       "title": "us military had close call after using ai for hallucinated intelligence report",
       "url": "cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship"
     },
+    "rss:https://news.ycombinator.com/item?id=49764791": {
+      "at": "2026-09-19T12:30:43.728334+00:00",
+      "title": "ai generated posters don t have to be horrible",
+      "url": "john.hartnup.uk/2026/06/07/ai-event-posters.html"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -7050,6 +7055,16 @@
       "title": "m5 ultra and m6 chip benchmark results reveal graphics performance",
       "url": "reddit.com/r/LocalLLaMA/comments/1wk11dq/m5_ultra_and_m6_chip_benchmark_results_reveal"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk22tw": {
+      "at": "2026-09-19T12:30:43.728366+00:00",
+      "title": "ngl i m hyped to see if qwen3 8 27b can make me a sandwich instant buy for me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk22tw/ngl_im_hyped_to_see_if_qwen38_27b_can_make_me_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk8jef": {
+      "at": "2026-09-19T12:30:43.728318+00:00",
+      "title": "tuning qwen 3 8 27b and omp as a coding agent on 2 3090s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk8jef/tuning_qwen_38_27b_and_omp_as_a_coding_agent_on_2"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk979c": {
       "at": "2026-09-19T07:20:41.559636+00:00",
       "title": "i truly think every major ai lab is purposefully making fear mongering headlines to get regulations that hurt open source models",
@@ -7059,6 +7074,31 @@
       "at": "2026-09-19T07:20:41.559548+00:00",
       "title": "alibaba open sources medical ai model that can detect cancer and nearly 150 conditions",
       "url": "reddit.com/r/LocalLLaMA/comments/1wk9fag/alibaba_opensources_medical_ai_model_that_can"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wk9hze": {
+      "at": "2026-09-19T12:30:43.728220+00:00",
+      "title": "qwen3 8 27b at 144 tok s on an m5 max macbook pro",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wk9hze/qwen3827b_at_144_toks_on_an_m5_max_macbook_pro"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkc2n1": {
+      "at": "2026-09-19T12:30:43.728306+00:00",
+      "title": "stepfun new model step 5 preview just leaked",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkc2n1/stepfun_new_model_step_5_preview_just_leaked"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkc4c9": {
+      "at": "2026-09-19T12:30:43.728291+00:00",
+      "title": "steer llms and agents at the token level an interactive tool for token visualization control model inspection and data annotation",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkc4c9/steer_llms_and_agents_at_the_token_level_an"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkgb2h": {
+      "at": "2026-09-19T12:30:43.728349+00:00",
+      "title": "built a home server from an old pc with gpu upgrade qwen3 8 27b runs at 30 tokens per second",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkgb2h/built_a_home_server_from_an_old_pc_with_gpu"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkgs01": {
+      "at": "2026-09-19T12:30:43.728276+00:00",
+      "title": "general warning about clore ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkgs01/general_warning_about_cloreai"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7376,6 +7416,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-19T07:20:41.559674+00:00",
+  "updated_at": "2026-09-19T12:30:43.728411+00:00",
   "version": 2
 }
