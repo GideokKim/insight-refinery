@@ -1401,6 +1401,11 @@
       "title": "i think you should almost never use ai to write",
       "url": "erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=49768921": {
+      "at": "2026-09-20T01:09:31.807748+00:00",
+      "title": "microsoft director ai scraping the largest theft of labor in human history",
+      "url": "tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -7205,6 +7210,16 @@
       "title": "with gemini 4 bench goes up",
       "url": "reddit.com/r/LocalLLaMA/comments/1wkxx8e/with_gemini_4_bench_goes_up"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkyny9": {
+      "at": "2026-09-20T01:09:31.807811+00:00",
+      "title": "qwen3 8 flash next at 1m context on strix halo 38 tok s decode 18 min prefill halogen 0 12 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkyny9/qwen38flashnext_at_1m_context_on_strix_halo_38"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl1hlj": {
+      "at": "2026-09-20T01:09:31.807834+00:00",
+      "title": "radeon rx 10800 xt can outperform the rtx 5090 by 15 25 in 4k gaming and local ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl1hlj/radeon_rx_10800_xt_can_outperform_the_rtx_5090_by"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -7521,6 +7536,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-19T22:20:40.649332+00:00",
+  "updated_at": "2026-09-20T01:09:31.807893+00:00",
   "version": 2
 }
