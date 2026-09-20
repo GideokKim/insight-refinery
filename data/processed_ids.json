@@ -7205,6 +7205,11 @@
       "title": "von open source 395m system one model",
       "url": "reddit.com/r/LocalLLaMA/comments/1wkpxn6/von_opensource_395m_system_one_model"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkwz69": {
+      "at": "2026-09-20T07:45:16.829326+00:00",
+      "title": "ternary bonsai 2 27b pq2_0 is not completely lobotomized",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wkwz69/ternarybonsai227bpq2_0_is_not_completely"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wkxx8e": {
       "at": "2026-09-19T22:20:40.649265+00:00",
       "title": "with gemini 4 bench goes up",
@@ -7219,6 +7224,26 @@
       "at": "2026-09-20T01:09:31.807834+00:00",
       "title": "radeon rx 10800 xt can outperform the rtx 5090 by 15 25 in 4k gaming and local ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1wl1hlj/radeon_rx_10800_xt_can_outperform_the_rtx_5090_by"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl1yzq": {
+      "at": "2026-09-20T07:45:16.829260+00:00",
+      "title": "i gave jev laya finetuned modernce and qwen3 5 the controls to doom",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl1yzq/i_gave_jev_laya_finetuned_modernce_and_qwen35_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl56g2": {
+      "at": "2026-09-20T07:45:16.829307+00:00",
+      "title": "please stop with the fp4 inference engines for the love of god",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl56g2/please_stop_with_the_fp4_inference_engines_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl6gro": {
+      "at": "2026-09-20T07:45:16.829283+00:00",
+      "title": "this looks promising stepfun ai step 5 preview bf16 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl6gro/this_looks_promising_stepfunaistep5previewbf16"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl9c2o": {
+      "at": "2026-09-20T07:45:16.829206+00:00",
+      "title": "china s cxmt says new memory chip platform enters mass production",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl9c2o/chinas_cxmt_says_new_memorychip_platform_enters"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7536,6 +7561,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-20T01:09:31.807893+00:00",
+  "updated_at": "2026-09-20T07:45:16.829388+00:00",
   "version": 2
 }
