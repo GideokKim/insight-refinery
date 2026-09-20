@@ -1406,6 +1406,11 @@
       "title": "microsoft director ai scraping the largest theft of labor in human history",
       "url": "tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
     },
+    "rss:https://news.ycombinator.com/item?id=49774329": {
+      "at": "2026-09-20T13:03:31.463988+00:00",
+      "title": "ai and the destruction of the creative commons",
+      "url": "chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -7230,10 +7235,20 @@
       "title": "i gave jev laya finetuned modernce and qwen3 5 the controls to doom",
       "url": "reddit.com/r/LocalLLaMA/comments/1wl1yzq/i_gave_jev_laya_finetuned_modernce_and_qwen35_the"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl3828": {
+      "at": "2026-09-20T13:03:31.464057+00:00",
+      "title": "what are you all using for long term project conversational memory these days",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl3828/what_are_you_all_using_for_long_term"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl56g2": {
       "at": "2026-09-20T07:45:16.829307+00:00",
       "title": "please stop with the fp4 inference engines for the love of god",
       "url": "reddit.com/r/LocalLLaMA/comments/1wl56g2/please_stop_with_the_fp4_inference_engines_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl680s": {
+      "at": "2026-09-20T13:03:31.464034+00:00",
+      "title": "finally got qwen 3 8 next running on my v100 6gpu setup tp2 pp3",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl680s/finally_got_qwen_38_next_running_on_my_v100_6gpu"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl6gro": {
       "at": "2026-09-20T07:45:16.829283+00:00",
@@ -7244,6 +7259,11 @@
       "at": "2026-09-20T07:45:16.829206+00:00",
       "title": "china s cxmt says new memory chip platform enters mass production",
       "url": "reddit.com/r/LocalLLaMA/comments/1wl9c2o/chinas_cxmt_says_new_memorychip_platform_enters"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wleg4w": {
+      "at": "2026-09-20T13:03:31.464079+00:00",
+      "title": "what is jev and what is it used for",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wleg4w/what_is_jev_and_what_is_it_used_for"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7561,6 +7581,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-20T07:45:16.829388+00:00",
+  "updated_at": "2026-09-20T13:03:31.464151+00:00",
   "version": 2
 }
