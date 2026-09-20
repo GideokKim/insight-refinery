@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-20T01:09:29.911953+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wlgrft",
+        "title": "Qwen-Image-2.1 released!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/",
+        "author": "/u/ResearchCrafty1804",
+        "published_at": "2026-09-20T13:12:41+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen-Image-2.1 오픈소스 모델 출시",
+        "summary_ko": [
+          "Qwen-Image 시리즈의 최신 모델인 Qwen-Image-2.1이 오픈 웨이트로 공개되었습니다.",
+          "이 모델은 7B 아키텍처를 기반으로 이미지 생성과 편집을 동시에 지원하며 빠른 추론 속도를 제공합니다.",
+          "네이티브 투명도 지원과 최대 10개의 참조 이미지 활용 등 다채로운 고기능 편집 기능을 탑재했습니다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wl06np",
+        "title": "Qwen-3.8-Flash-Next on 1x RTX 5090: TG=50 t/s, PP=2300 t/s - with FreeToken",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wl06np/qwen38flashnext_on_1x_rtx_5090_tg50_ts_pp2300_ts/",
+        "author": "/u/dir3ctly",
+        "published_at": "2026-09-19T22:55:28+00:00"
+      },
+      "insight": {
+        "title_ko": "RTX 5090에서 FreeToken을 활용한 Qwen-3.8-Flash-Next 구동 성능",
+        "summary_ko": [
+          "llama.cpp에서 MoE 모델의 Expert Caching 부재로 인해 Qwen-3.8-Flash-Next 구동 성능에 한계가 있었다.",
+          "FreeToken 솔루션을 도입하여 단일 RTX 5090 환경에서 토큰 생성 속도 50 t/s와 프롬프트 처리 2300 t/s를 달성했다.",
+          "이 방식은 전문가 캐싱을 활용해 대규모 컨텍스트에서도 안정적인 성능을 제공하며 다른 MoE 모델에도 적용 가능하다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

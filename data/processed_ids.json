@@ -1406,6 +1406,11 @@
       "title": "microsoft director ai scraping the largest theft of labor in human history",
       "url": "tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit"
     },
+    "rss:https://news.ycombinator.com/item?id=49770847": {
+      "at": "2026-09-20T17:29:03.717665+00:00",
+      "title": "can you tell which images are ai generated",
+      "url": "slop-sense.labtoagi.com/games/is-this-image-ai"
+    },
     "rss:https://news.ycombinator.com/item?id=49774329": {
       "at": "2026-09-20T13:03:31.463988+00:00",
       "title": "ai and the destruction of the creative commons",
@@ -3740,6 +3745,11 @@
       "at": "2026-09-19T22:20:40.649168+00:00",
       "title": "flock reportedly tries to shrink workforce with employee buyouts",
       "url": "techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts"
+    },
+    "rss:https://techcrunch.com/?p=3166682": {
+      "at": "2026-09-20T17:29:03.717681+00:00",
+      "title": "6 days left to get ahead at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -7225,6 +7235,11 @@
       "title": "qwen3 8 flash next at 1m context on strix halo 38 tok s decode 18 min prefill halogen 0 12 0",
       "url": "reddit.com/r/LocalLLaMA/comments/1wkyny9/qwen38flashnext_at_1m_context_on_strix_halo_38"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl06np": {
+      "at": "2026-09-20T17:29:03.717584+00:00",
+      "title": "qwen 3 8 flash next on 1x rtx 5090 tg 50 t s pp 2300 t s with freetoken",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl06np/qwen38flashnext_on_1x_rtx_5090_tg50_ts_pp2300_ts"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl1hlj": {
       "at": "2026-09-20T01:09:31.807834+00:00",
       "title": "radeon rx 10800 xt can outperform the rtx 5090 by 15 25 in 4k gaming and local ai",
@@ -7255,6 +7270,11 @@
       "title": "this looks promising stepfun ai step 5 preview bf16 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wl6gro/this_looks_promising_stepfunaistep5previewbf16"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl9amq": {
+      "at": "2026-09-20T17:29:03.717642+00:00",
+      "title": "reached 1 89 tb s memory bandwidth overclocking the cmp 170hx",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wl9amq/reached_189_tbs_memory_bandwidth_overclocking_the"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wl9c2o": {
       "at": "2026-09-20T07:45:16.829206+00:00",
       "title": "china s cxmt says new memory chip platform enters mass production",
@@ -7264,6 +7284,16 @@
       "at": "2026-09-20T13:03:31.464079+00:00",
       "title": "what is jev and what is it used for",
       "url": "reddit.com/r/LocalLLaMA/comments/1wleg4w/what_is_jev_and_what_is_it_used_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlgrft": {
+      "at": "2026-09-20T17:29:03.717545+00:00",
+      "title": "qwen image 2 1 released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wljzix": {
+      "at": "2026-09-20T17:29:03.717614+00:00",
+      "title": "i tested 9 llms on the exact same web dev prompt for 8 hours rtx 3060 12gb results rate the best",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wljzix/i_tested_9_llms_on_the_exact_same_webdev_prompt"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7581,6 +7611,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-20T13:03:31.464151+00:00",
+  "updated_at": "2026-09-20T17:29:03.717726+00:00",
   "version": 2
 }
