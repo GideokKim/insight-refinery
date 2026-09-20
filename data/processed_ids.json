@@ -2287,6 +2287,16 @@
       "title": "quoting rick brewster",
       "url": "simonwillison.net/2026/Sep/2/rick-brewster"
     },
+    "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui/": {
+      "at": "2026-09-20T22:26:55.343486+00:00",
+      "title": "llm keys ui 0 1",
+      "url": "simonwillison.net/2026/Sep/20/llm-keys-ui"
+    },
+    "rss:https://simonwillison.net/2026/Sep/20/voxium/": {
+      "at": "2026-09-20T22:26:55.343416+00:00",
+      "title": "quoting voxium",
+      "url": "simonwillison.net/2026/Sep/20/voxium"
+    },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
       "title": "gpt 6 astra",
@@ -2416,6 +2426,11 @@
       "at": "2026-09-16T18:14:09.223502+00:00",
       "title": "former infosys chief s ai startup nabs another 53m",
       "url": "techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise"
+    },
+    "rss:https://techcrunch.com/?p=3152751": {
+      "at": "2026-09-20T22:26:55.343581+00:00",
+      "title": "vocci s ring adds a new form factor to meeting note taking",
+      "url": "techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking"
     },
     "rss:https://techcrunch.com/?p=3153341": {
       "at": "2026-08-19T12:28:12.501947+00:00",
@@ -3656,6 +3671,11 @@
       "title": "a new kind of ai model from a chatgpt inventor is thrilling developers",
       "url": "techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers"
     },
+    "rss:https://techcrunch.com/?p=3165886": {
+      "at": "2026-09-20T22:26:55.343599+00:00",
+      "title": "scrolled wants to turn textbooks into tiktok",
+      "url": "techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok"
+    },
     "rss:https://techcrunch.com/?p=3165952": {
       "at": "2026-09-18T17:41:47.674448+00:00",
       "title": "robinhood s abhishek fatehpuria on winning the modern financial consumer at techcrunch disrupt 2026",
@@ -3750,6 +3770,11 @@
       "at": "2026-09-20T17:29:03.717681+00:00",
       "title": "6 days left to get ahead at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3166716": {
+      "at": "2026-09-20T22:26:55.343566+00:00",
+      "title": "is the ai industry really ready to slow down",
+      "url": "techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -7295,6 +7320,31 @@
       "title": "i tested 9 llms on the exact same web dev prompt for 8 hours rtx 3060 12gb results rate the best",
       "url": "reddit.com/r/LocalLLaMA/comments/1wljzix/i_tested_9_llms_on_the_exact_same_webdev_prompt"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlkxjw": {
+      "at": "2026-09-20T22:26:55.343512+00:00",
+      "title": "cuda enable sparse fa for qwen4 by am17an pull request 28770 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlkxjw/cuda_enable_sparse_fa_for_qwen4_by_am17an_pull"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlmkm9": {
+      "at": "2026-09-20T22:26:55.343472+00:00",
+      "title": "laya cpp optimized laya near instant decision making",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlmkm9/layacpp_optimized_laya_nearinstant_decision_making"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlo52v": {
+      "at": "2026-09-20T22:26:55.343499+00:00",
+      "title": "lawsuit says anthropic openai spacexai and google made illegal agreement on ai slowdown",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlo52v/lawsuit_says_anthropic_openai_spacexai_and_google"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wloora": {
+      "at": "2026-09-20T22:26:55.343453+00:00",
+      "title": "the bear can dance qwen 3 8 27b on one 3090 for 3 weeks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlqxeu": {
+      "at": "2026-09-20T22:26:55.343549+00:00",
+      "title": "qwen3 8 flash next cosmic arcade oneshot slop game",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -7611,6 +7661,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-20T17:29:03.717726+00:00",
+  "updated_at": "2026-09-20T22:26:55.343643+00:00",
   "version": 2
 }

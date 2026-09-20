@@ -45,6 +45,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/20/voxium/",
+        "title": "Quoting voxium",
+        "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+        "author": null,
+        "published_at": "2026-09-20T21:06:43+00:00"
+      },
+      "insight": {
+        "title_ko": "대기업의 무분별한 AI 코드 생성 강요 실태",
+        "summary_ko": [
+          "한 대기업 엔지니어가 입사 후 모든 사내 문서와 코드가 Claude Code로 작성되고 있는 현실을 고발했습니다.",
+          "경영진은 코드 배포가 병목이 아니라며 개발 속도를 압박하고 있어 직원들이 하루 12시간 이상 과도한 업무에 시달리고 있습니다.",
+          "주니어부터 시니어에 이르기까지 모든 구성원이 실질적인 코드 검토 없이 AI 도구 사용을 강요받는 부작용이 발생하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wloora",
+        "title": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/",
+        "author": "/u/skeole",
+        "published_at": "2026-09-20T18:26:30+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen 27B 모델의 3주간 자율 엔지니어링 실험",
+        "summary_ko": [
+          "단일 RTX 3090 환경에서 Qwen 3.8 27B 기반 로컬 에이전트가 3주 동안 자율적으로 CUDA 추론 엔진 구축을 수행했습니다.",
+          "엄격한 규칙과 핸드오프 프로토콜을 통해 수일간 비지도 학습을 유지하며 작동 가능한 커널과 벤치마크 결과를 생성했습니다.",
+          "자원 경합으로 인한 OOM 문제와 프로토콜 예외가 있었으나, 소비자용 하드웨어에서 장기적인 코딩 목표 수행 가능성을 입증했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wlmkm9",
+        "title": "laya.cpp: Optimized laya near-instant decision making",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlmkm9/layacpp_optimized_laya_nearinstant_decision_making/",
+        "author": "/u/lkarlslund",
+        "published_at": "2026-09-20T17:06:02+00:00"
+      },
+      "insight": {
+        "title_ko": "laya.cpp: 고속 Laya C++ 추론 구현체 공개",
+        "summary_ko": [
+          "개발자가 ggml과 커스텀 CUDA 커널을 기반으로 Laya 모델의 C++ 단독 추론 구현체인 laya.cpp를 공개했습니다.",
+          "이 구현체는 Python이나 PyTorch 없이 작동하며, 네이티브 토크나이제이션과 JEV 호환 HTTP 서버를 지원합니다.",
+          "불필요한 변환과 복사 제거, 연산 융합 등을 통해 기존 Python 대비 대폭 향상된 초당 처리 성능을 기록했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
