@@ -160,6 +160,11 @@
       "title": "the complex corporate web behind a 3 2 billion ai data center",
       "url": "arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
     },
+    "rss:https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/": {
+      "at": "2026-09-21T21:06:07.442238+00:00",
+      "title": "trump rejects ai slowdown calls launches ai force instead",
+      "url": "arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -189,6 +194,11 @@
       "at": "2026-09-17T22:53:10.073443+00:00",
       "title": "google announces new experimental cc ai agent for families",
       "url": "arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families"
+    },
+    "rss:https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/": {
+      "at": "2026-09-21T21:06:07.442217+00:00",
+      "title": "google confirms gemini models hacked three companies in may 2026",
+      "url": "arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026"
     },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
@@ -1441,10 +1451,30 @@
       "title": "ai chatbots give wrong answers to financial queries most of the time",
       "url": "ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
     },
+    "rss:https://news.ycombinator.com/item?id=49784816": {
+      "at": "2026-09-21T21:06:07.442443+00:00",
+      "title": "don t use ai to write",
+      "url": "paulbakker.io/writing/no-ai-for-writing"
+    },
+    "rss:https://news.ycombinator.com/item?id=49787535": {
+      "at": "2026-09-21T21:06:07.442435+00:00",
+      "title": "macos 27 workaround to avoid downloading ai models and save storage",
+      "url": "reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and"
+    },
+    "rss:https://news.ycombinator.com/item?id=49789982": {
+      "at": "2026-09-21T21:06:07.442173+00:00",
+      "title": "amazon blocks meta s new muse ai agent from shopping on amazon com",
+      "url": "forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
       "url": "openai.com/index/1password"
+    },
+    "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+      "at": "2026-09-21T21:06:07.442398+00:00",
+      "title": "advisory group on mathematics and artificial intelligence",
+      "url": "openai.com/index/advisory-group-on-mathematics-and-ai"
     },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
@@ -1490,6 +1520,11 @@
       "at": "2026-08-19T14:23:12.191222+00:00",
       "title": "the builder s guide to gpt 5 6",
       "url": "openai.com/index/builders-guide-to-gpt-5-6"
+    },
+    "rss:https://openai.com/index/building-standards-next-phase-ai": {
+      "at": "2026-09-21T21:06:07.442413+00:00",
+      "title": "building standards for the next phase of ai",
+      "url": "openai.com/index/building-standards-next-phase-ai"
     },
     "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": {
       "at": "2026-08-19T12:14:50.156795+00:00"
@@ -1544,6 +1579,11 @@
       "title": "expanding ai access and cyber defense for federal state local and tribal governments",
       "url": "openai.com/index/expanding-ai-access-us-government"
     },
+    "rss:https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+      "at": "2026-09-21T21:06:07.442451+00:00",
+      "title": "expanding openai academy with new learning paths",
+      "url": "openai.com/index/expanding-openai-academy-with-new-learning-paths"
+    },
     "rss:https://openai.com/index/expanding-our-presence-in-brazil": {
       "at": "2026-08-27T12:49:39.361064+00:00",
       "title": "expanding openai s presence in brazil",
@@ -1583,6 +1623,11 @@
       "at": "2026-09-18T22:36:03.238559+00:00",
       "title": "hex turns complex analysis into visual reports with gpt 6 astra",
       "url": "openai.com/index/hex-gpt-6-astra"
+    },
+    "rss:https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+      "at": "2026-09-21T21:06:07.442406+00:00",
+      "title": "higgsfield ai ships new video features in a day with gpt 6 astra",
+      "url": "openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
     "rss:https://openai.com/index/how-enterprises-put-ai-to-work": {
       "at": "2026-08-19T17:19:19.683319+00:00",
@@ -2321,6 +2366,11 @@
       "at": "2026-09-21T01:05:39.428676+00:00",
       "title": "datasette explain 0 2 2",
       "url": "simonwillison.net/2026/Sep/20/datasette-explain"
+    },
+    "rss:https://simonwillison.net/2026/Sep/20/hn-49779718/": {
+      "at": "2026-09-21T21:06:07.442420+00:00",
+      "title": "mcp was always a bad idea",
+      "url": "simonwillison.net/2026/Sep/20/hn-49779718"
     },
     "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui/": {
       "at": "2026-09-20T22:26:55.343486+00:00",
@@ -3831,6 +3881,31 @@
       "title": "google s 899 googlebook is a bet that you ll buy a new laptop for gemini",
       "url": "techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini"
     },
+    "rss:https://techcrunch.com/?p=3166970": {
+      "at": "2026-09-21T21:06:07.442355+00:00",
+      "title": "with tabby a former accountant is using ai to make accountants obsolete",
+      "url": "techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete"
+    },
+    "rss:https://techcrunch.com/?p=3167032": {
+      "at": "2026-09-21T21:06:07.442341+00:00",
+      "title": "meta s ai agent has been blocked from using amazon com",
+      "url": "techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com"
+    },
+    "rss:https://techcrunch.com/?p=3167075": {
+      "at": "2026-09-21T21:06:07.442324+00:00",
+      "title": "meta s muse is outpacing chatgpt s early mobile launch",
+      "url": "techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch"
+    },
+    "rss:https://techcrunch.com/?p=3167098": {
+      "at": "2026-09-21T21:06:07.442458+00:00",
+      "title": "discover what s next 5 days left to save up to 200 on your techcrunch disrupt 2026 ticket",
+      "url": "techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3167174": {
+      "at": "2026-09-21T21:06:07.442272+00:00",
+      "title": "openai forms math advisory group as its ai resolves more than 100 open problems",
+      "url": "techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -4075,6 +4150,11 @@
       "at": "2026-08-24T11:05:22.951657+00:00",
       "title": "broadening access to skala creates a faster path to predictive dft",
       "url": "microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1186724": {
+      "at": "2026-09-21T21:06:07.442256+00:00",
+      "title": "improving synthesis prediction of small molecules at scale with retrochimera",
+      "url": "microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -7450,6 +7530,36 @@
       "title": "deepseek training 2t and plans 8t model",
       "url": "reddit.com/r/LocalLLaMA/comments/1wmblx1/deepseek_training_2t_and_plans_8t_model"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmec1y": {
+      "at": "2026-09-21T21:06:07.442427+00:00",
+      "title": "m5 ultra mac studio review the dream mac for local ai agents macstories",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmec1y/m5_ultra_mac_studio_review_the_dream_mac_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmftr3": {
+      "at": "2026-09-21T21:06:07.442386+00:00",
+      "title": "massive release supra2 img a tiny 100m text to image model sota quality and open release",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmftr3/massive_release_supra2img_a_tiny_100m_texttoimage"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmga1r": {
+      "at": "2026-09-21T21:06:07.442470+00:00",
+      "title": "how it feels watching prices go up",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmga1r/how_it_feels_watching_prices_go_up"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmgokc": {
+      "at": "2026-09-21T21:06:07.442369+00:00",
+      "title": "a better coder for the small gpu small ram crowd",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmgokc/a_better_coder_for_the_smallgpusmallram_crowd"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmmnrt": {
+      "at": "2026-09-21T21:06:07.442304+00:00",
+      "title": "yandex aliceai foundation 80b a3b base russian developed competitor to qwen 35b and deepseek v4 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmmnrt/yandexaliceaifoundation80ba3bbase"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmnw89": {
+      "at": "2026-09-21T21:06:07.442287+00:00",
+      "title": "xiaomimimo mimo v2 6 flash rl hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -7786,6 +7896,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-21T15:15:12.148374+00:00",
+  "updated_at": "2026-09-21T21:06:07.442507+00:00",
   "version": 2
 }

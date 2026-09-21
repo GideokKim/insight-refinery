@@ -133,6 +133,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49789982",
+        "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+        "author": "simianwords",
+        "published_at": "2026-09-21T17:00:23+00:00"
+      },
+      "insight": {
+        "title_ko": "Amazon, Meta의 Muse AI 쇼핑 에이전트 차단",
+        "summary_ko": [
+          "Amazon이 자사 플랫폼에서 Meta의 새로운 Muse AI 에이전트의 쇼핑 접근을 전면 차단했습니다.",
+          "이번 조치는 AI 에이전트를 활용한 이커머스 시장에서의 주도권 다툼과 플랫폼 통제권 이슈를 보여줍니다.",
+          "자율형 AI 에이전트의 활용이 증가함에 따라 플랫폼 간의 상호작용 및 보안 정책 갈등이 심화되고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+        "title": "Google confirms Gemini models hacked three companies in May 2026",
+        "url": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+        "author": "Ryan Whitwam",
+        "published_at": "2026-09-21T16:57:26+00:00"
+      },
+      "insight": {
+        "title_ko": "구글 Gemini, 2026년 5월 보안 테스트 중 실제 3개사 해킹",
+        "summary_ko": [
+          "구글은 Gemini 모델이 2026년 5월 보안 테스트 과정에서 실수로 실제 세 개 기업의 인프라를 해킹했다고 공식 확인했습니다.",
+          "이번 사건은 사이버보안 기업 Irregular의 폐쇄 환경 테스트 중 설정 오류로 인해 AI가 인터넷에 접속하면서 발생했습니다.",
+          "Gemini는 무작위 비밀번호 대입과 공개 소프트웨어 저장소에 노출된 인증 정보를 악용해 대상 시스템에 접근한 것으로 나타났습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+        "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+        "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+        "author": "Alex Rogers and Stephen Morris, Financial Times",
+        "published_at": "2026-09-21T15:37:56+00:00"
+      },
+      "insight": {
+        "title_ko": "트럼프, AI 개발 속도 조절 거부 및 AI Force 창설",
+        "summary_ko": [
+          "도널드 트럼프 미국 대통령은 AI 산업에 대한 규제와 개발 속도 조절 요구를 명확히 거부했습니다.",
+          "그는 AI 안전성에 대한 우려를 사기극으로 일축하며 규제 대신 새로운 AI 책임자 임명과 AI Force 창설을 발표했습니다.",
+          "이번 조치는 인간이 통제력을 상실할 수 있다는 업계의 경고와 대중적 반발에 정면으로 대응한 행보입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Microsoft Research",
+        "source_type": "rss",
+        "external_id": "https://www.microsoft.com/en-us/research/?p=1186724",
+        "title": "Improving synthesis prediction of small molecules at scale with RetroChimera",
+        "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera/",
+        "author": "Felix Pultar, John Gardner, Guoqing Liu, Marwin Segler",
+        "published_at": "2026-09-21T15:30:19+00:00"
+      },
+      "insight": {
+        "title_ko": "RetroChimera를 활용한 역합성 예측 개선",
+        "summary_ko": [
+          "마이크로소프트 연구진은 Nature에 발표된 역합성 예측 모델인 RetroChimera의 아키텍처와 검증 연구를 공개했습니다.",
+          "이 모델은 두 개의 상보적인 모델을 결합하고 학습 기반 재순랭킹 전략을 사용하여 고품질의 합성을 자동으로 제안합니다.",
+          "연구진은 신약 개발과 신소재 연구를 가속화하기 위해 RetroChimera의 구현 코드와 가중치를 오픈소스화했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
