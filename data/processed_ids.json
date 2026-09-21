@@ -2287,6 +2287,11 @@
       "title": "quoting rick brewster",
       "url": "simonwillison.net/2026/Sep/2/rick-brewster"
     },
+    "rss:https://simonwillison.net/2026/Sep/20/datasette-explain/": {
+      "at": "2026-09-21T01:05:39.428676+00:00",
+      "title": "datasette explain 0 2 2",
+      "url": "simonwillison.net/2026/Sep/20/datasette-explain"
+    },
     "rss:https://simonwillison.net/2026/Sep/20/llm-keys-ui/": {
       "at": "2026-09-20T22:26:55.343486+00:00",
       "title": "llm keys ui 0 1",
@@ -7345,6 +7350,16 @@
       "title": "qwen3 8 flash next cosmic arcade oneshot slop game",
       "url": "reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wltts7": {
+      "at": "2026-09-21T01:05:39.428621+00:00",
+      "title": "would you buy a qwen3 8 27b taalas chip for 1k if it could run at 7 000 tps",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wltts7/would_you_buy_a_qwen3827b_taalas_chip_for_1k_if"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlvv8h": {
+      "at": "2026-09-21T01:05:39.428698+00:00",
+      "title": "seeing how differently people prompt llms is funny",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlvv8h/seeing_how_differently_people_prompt_llms_is_funny"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -7661,6 +7676,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-20T22:26:55.343643+00:00",
+  "updated_at": "2026-09-21T01:05:39.428778+00:00",
   "version": 2
 }
