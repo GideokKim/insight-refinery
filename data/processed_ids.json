@@ -7355,10 +7355,35 @@
       "title": "would you buy a qwen3 8 27b taalas chip for 1k if it could run at 7 000 tps",
       "url": "reddit.com/r/LocalLLaMA/comments/1wltts7/would_you_buy_a_qwen3827b_taalas_chip_for_1k_if"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlu9rd": {
+      "at": "2026-09-21T07:58:24.055982+00:00",
+      "title": "diy jev",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlu9rd/diy_jev"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlvv8h": {
       "at": "2026-09-21T01:05:39.428698+00:00",
       "title": "seeing how differently people prompt llms is funny",
       "url": "reddit.com/r/LocalLLaMA/comments/1wlvv8h/seeing_how_differently_people_prompt_llms_is_funny"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlxpaw": {
+      "at": "2026-09-21T07:58:24.056115+00:00",
+      "title": "you can use any llm just like jev",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlxpaw/you_can_use_any_llm_just_like_jev"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wlzvcx": {
+      "at": "2026-09-21T07:58:24.056096+00:00",
+      "title": "zcode is now open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wlzvcx/zcode_is_now_open_source"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wm1gab": {
+      "at": "2026-09-21T07:58:24.056038+00:00",
+      "title": "mini agi dynamically grown 530m params currently and growing continual learning model trained from scratch on 8gb vram laptop from batch 1 stream of data",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wm1gab/miniagi_dynamically_grown_530m_params_currently"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wm4o8x": {
+      "at": "2026-09-21T07:58:24.056016+00:00",
+      "title": "clarification on the qwen image 2 1 license",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7676,6 +7701,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-21T01:05:39.428778+00:00",
+  "updated_at": "2026-09-21T07:58:24.056161+00:00",
   "version": 2
 }

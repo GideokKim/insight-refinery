@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-21T01:05:37.865501+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wlu9rd",
+        "title": "DIY Jev",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlu9rd/diy_jev/",
+        "author": "/u/Malfeitor1235",
+        "published_at": "2026-09-20T21:59:59+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈 웨이트 LLM을 활용한 DIY Jev 추론 방식",
+        "summary_ko": [
+          "작성자는 별도의 NLI 파인튜닝 없이 오픈 웨이트 LLM과 프롬프트 조작만으로 Jev 유사 추론 설정을 구현했습니다.",
+          "후보 답변에 대한 boolean 검증 후 true/false 로짓을 읽고 소프트맥스 연산하는 방식을 llama.cpp로 배치 처리했습니다.",
+          "수정하지 않은 모델로도 기존 파인튜닝 방식보다 우수한 성능을 낼 수 있음을 벤치마크를 통해 확인했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
