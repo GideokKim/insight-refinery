@@ -575,6 +575,11 @@
       "title": "from wafer out to first token codifying supply chain expertise with nemotron and palantir foundry",
       "url": "developer.nvidia.com/blog/from-wafer-out-to-first-token-codifying-supply-chain-expertise-with-nemotron-and-palantir-foundry"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122427": {
+      "at": "2026-09-21T15:15:12.148156+00:00",
+      "title": "turn your latest observations into timely weather decisions with nvidia earth 2",
+      "url": "developer.nvidia.com/blog/turn-your-latest-observations-into-timely-weather-decisions-with-nvidia-earth-2"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122428": {
       "at": "2026-09-16T18:14:09.223394+00:00",
       "title": "translating cuda tile operations from python to rust using agentic ai",
@@ -644,6 +649,11 @@
       "at": "2026-08-19T17:19:19.683222+00:00",
       "title": "making knowledge distillation cheap enough to run at scale",
       "url": "huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+    },
+    "rss:https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
+      "at": "2026-09-21T15:15:12.148034+00:00",
+      "title": "pruning llms like a physicist block removal as an ising optimization problem",
+      "url": "huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
     },
     "rss:https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing": {
       "at": "2026-08-25T14:38:26.133941+00:00",
@@ -777,6 +787,11 @@
       "at": "2026-08-19T14:23:12.191390+00:00",
       "title": "state of open models summer 2026 observations",
       "url": "huggingface.co/blog/state-of-open-models-summer-2026"
+    },
+    "rss:https://huggingface.co/blog/tokenizers-v1": {
+      "at": "2026-09-21T15:15:12.148143+00:00",
+      "title": "tokenizers v1 encode decode and scaling measured",
+      "url": "huggingface.co/blog/tokenizers-v1"
     },
     "rss:https://huggingface.co/blog/train-multi-vector-encoder": {
       "at": "2026-08-26T14:39:03.699803+00:00",
@@ -1416,6 +1431,16 @@
       "title": "ai and the destruction of the creative commons",
       "url": "chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons"
     },
+    "rss:https://news.ycombinator.com/item?id=49774795": {
+      "at": "2026-09-21T15:15:12.148260+00:00",
+      "title": "if ai coding is lowering your code quality you re not managing quality right",
+      "url": "i-kh.net/p/if-ai-coding-is-lowering-your-code"
+    },
+    "rss:https://news.ycombinator.com/item?id=49783062": {
+      "at": "2026-09-21T15:15:12.148118+00:00",
+      "title": "ai chatbots give wrong answers to financial queries most of the time",
+      "url": "ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1786,6 +1811,11 @@
       "at": "2026-09-10T17:44:00.126743+00:00",
       "title": "how a researcher uses codex and chatgpt to search for new antimicrobial molecules",
       "url": "openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+    },
+    "rss:https://openai.com/index/v7": {
+      "at": "2026-09-21T15:15:12.148132+00:00",
+      "title": "how v7 gives ai agents institutional memory",
+      "url": "openai.com/index/v7"
     },
     "rss:https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
       "at": "2026-08-28T01:13:09.165373+00:00",
@@ -3780,6 +3810,26 @@
       "at": "2026-09-20T22:26:55.343566+00:00",
       "title": "is the ai industry really ready to slow down",
       "url": "techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down"
+    },
+    "rss:https://techcrunch.com/?p=3166726": {
+      "at": "2026-09-21T15:15:12.148288+00:00",
+      "title": "from first users to billions google s robby stein joins techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3166744": {
+      "at": "2026-09-21T15:15:12.148273+00:00",
+      "title": "where will the next breakout startup come from benchmark s full partnership weighs in at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3166772": {
+      "at": "2026-09-21T15:15:12.148317+00:00",
+      "title": "meet the next wave of vcs judging startup battlefield 200 at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3166866": {
+      "at": "2026-09-21T15:15:12.148171+00:00",
+      "title": "google s 899 googlebook is a bet that you ll buy a new laptop for gemini",
+      "url": "techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -7385,6 +7435,21 @@
       "title": "clarification on the qwen image 2 1 license",
       "url": "reddit.com/r/LocalLLaMA/comments/1wm4o8x/clarification_on_the_qwenimage21_license"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wm65le": {
+      "at": "2026-09-21T15:15:12.148331+00:00",
+      "title": "i really don t understand jev hype",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wm65le/i_really_dont_understand_jev_hype"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmb875": {
+      "at": "2026-09-21T15:15:12.148197+00:00",
+      "title": "16gb and in many cases 12gb is the max vram most people will ever reasonably have",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmblx1": {
+      "at": "2026-09-21T15:15:12.148102+00:00",
+      "title": "deepseek training 2t and plans 8t model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmblx1/deepseek_training_2t_and_plans_8t_model"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -7695,12 +7760,32 @@
       "title": "the ai industry has taken a doomer turn what now",
       "url": "technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
     },
+    "rss:https://www.technologyreview.com/?p=1144161": {
+      "at": "2026-09-21T15:15:12.148302+00:00",
+      "title": "how we made the first comprehensive map of deaths along the us border s virtual wall",
+      "url": "technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology"
+    },
+    "rss:https://www.technologyreview.com/?p=1144164": {
+      "at": "2026-09-21T15:15:12.148215+00:00",
+      "title": "4 ways to address the failures we found along the us border s virtual wall",
+      "url": "technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations"
+    },
+    "rss:https://www.technologyreview.com/?p=1144166": {
+      "at": "2026-09-21T15:15:12.148232+00:00",
+      "title": "the us spent billions on border surveillance why can t it catch people before they die",
+      "url": "technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation"
+    },
+    "rss:https://www.technologyreview.com/?p=1144170": {
+      "at": "2026-09-21T15:15:12.148248+00:00",
+      "title": "she died at the san diego border a surveillance camera was in plain sight",
+      "url": "technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature"
+    },
     "rss:https://www.technologyreview.com/?p=1144435": {
       "at": "2026-09-18T12:58:45.582335+00:00",
       "title": "could ai really kill us all your questions answered",
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-21T07:58:24.056161+00:00",
+  "updated_at": "2026-09-21T15:15:12.148374+00:00",
   "version": 2
 }
