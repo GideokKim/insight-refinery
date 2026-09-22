@@ -160,6 +160,11 @@
       "title": "the complex corporate web behind a 3 2 billion ai data center",
       "url": "arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
     },
+    "rss:https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/": {
+      "at": "2026-09-22T18:13:43.596043+00:00",
+      "title": "toyota orders workers to train humanoid robots but says humans won t be replaced",
+      "url": "arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers"
+    },
     "rss:https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/": {
       "at": "2026-09-21T21:06:07.442238+00:00",
       "title": "trump rejects ai slowdown calls launches ai force instead",
@@ -184,6 +189,11 @@
       "at": "2026-09-12T12:10:52.968243+00:00",
       "title": "i spent 4 000 on a robot dog from china",
       "url": "arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china"
+    },
+    "rss:https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/": {
+      "at": "2026-09-22T18:13:43.596225+00:00",
+      "title": "dyson s most overengineered gadget may have a waterproofing problem",
+      "url": "arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why"
     },
     "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
       "at": "2026-08-31T15:35:36.937264+00:00",
@@ -650,6 +660,16 @@
       "title": "simplifying model serving across multiple gpus with nvidia tensorrt multi device integration in nvidia dynamo triton",
       "url": "developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122756": {
+      "at": "2026-09-22T18:13:43.596014+00:00",
+      "title": "enabling private high performance production ai inference with nvidia confidential computing",
+      "url": "developer.nvidia.com/blog/enabling-private-high-performance-production-ai-inference-with-nvidia-confidential-computing"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122765": {
+      "at": "2026-09-22T18:13:43.596031+00:00",
+      "title": "topology aware workload scheduling with nvidia topograph",
+      "url": "developer.nvidia.com/blog/topology-aware-workload-scheduling-with-nvidia-topograph"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122769": {
       "at": "2026-09-22T13:28:38.238772+00:00",
       "title": "what s new for game developers dlss 5 with 3d guided neural rendering nvidia ace updates and new rtx kit capabilities",
@@ -734,6 +754,11 @@
       "at": "2026-08-19T17:19:19.683328+00:00",
       "title": "baseten on hugging face inference providers",
       "url": "huggingface.co/blog/baseten"
+    },
+    "rss:https://huggingface.co/blog/evaleval-aisi": {
+      "at": "2026-09-22T18:13:43.596069+00:00",
+      "title": "how uk aisi and evaleval are making benchmark results reproducible",
+      "url": "huggingface.co/blog/evaleval-aisi"
     },
     "rss:https://huggingface.co/blog/funes": {
       "at": "2026-09-03T12:20:09.600188+00:00",
@@ -1819,6 +1844,11 @@
       "title": "previewing ultrafast mode gpt 5 6 sol at up to 14x the speed",
       "url": "openai.com/index/previewing-ultrafast"
     },
+    "rss:https://openai.com/index/priorities-principles-third-party-assessments": {
+      "at": "2026-09-22T18:13:43.596176+00:00",
+      "title": "priorities and principles for effective third party assessments",
+      "url": "openai.com/index/priorities-principles-third-party-assessments"
+    },
     "rss:https://openai.com/index/put-data-to-work": {
       "at": "2026-09-10T17:44:00.126760+00:00",
       "title": "now everyone can put data to work",
@@ -2441,6 +2471,16 @@
       "at": "2026-09-22T01:37:19.689576+00:00",
       "title": "jev introduces a new shape of llm system one aka decision models",
       "url": "simonwillison.net/2026/Sep/21/jev"
+    },
+    "rss:https://simonwillison.net/2026/Sep/22/llm-typesafe/": {
+      "at": "2026-09-22T18:13:43.596080+00:00",
+      "title": "llm typesafe 0 1a0",
+      "url": "simonwillison.net/2026/Sep/22/llm-typesafe"
+    },
+    "rss:https://simonwillison.net/2026/Sep/22/therealcornpop/": {
+      "at": "2026-09-22T18:13:43.596187+00:00",
+      "title": "quoting therealcornpop",
+      "url": "simonwillison.net/2026/Sep/22/therealcornpop"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -3941,6 +3981,11 @@
       "title": "google s 899 googlebook is a bet that you ll buy a new laptop for gemini",
       "url": "techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini"
     },
+    "rss:https://techcrunch.com/?p=3166965": {
+      "at": "2026-09-22T18:13:43.596274+00:00",
+      "title": "exhibit tables added one last chance to showcase your startup at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30"
+    },
     "rss:https://techcrunch.com/?p=3166970": {
       "at": "2026-09-21T21:06:07.442355+00:00",
       "title": "with tabby a former accountant is using ai to make accountants obsolete",
@@ -3980,6 +4025,36 @@
       "at": "2026-09-22T13:28:38.238856+00:00",
       "title": "nscale s ipo will test wall street s appetite for concentrated ai bets once again",
       "url": "techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again"
+    },
+    "rss:https://techcrunch.com/?p=3167345": {
+      "at": "2026-09-22T18:13:43.596284+00:00",
+      "title": "4 days to save up to 200 reason 2 of 5 to be at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3167356": {
+      "at": "2026-09-22T18:13:43.596210+00:00",
+      "title": "techcrunch disrupt 2026 aaron edsinger brings hello robot s stretch 4 to life onstage",
+      "url": "techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage"
+    },
+    "rss:https://techcrunch.com/?p=3167384": {
+      "at": "2026-09-22T18:13:43.596198+00:00",
+      "title": "five ai safety sessions every founder should have on their techcrunch disrupt 2026 agenda",
+      "url": "techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda"
+    },
+    "rss:https://techcrunch.com/?p=3167451": {
+      "at": "2026-09-22T18:13:43.596130+00:00",
+      "title": "astroforge is putting ai in command of its next spacecraft",
+      "url": "techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft"
+    },
+    "rss:https://techcrunch.com/?p=3167580": {
+      "at": "2026-09-22T18:13:43.596057+00:00",
+      "title": "anthropic releases opus 5 5 with lower prices and fable level performance",
+      "url": "techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance"
+    },
+    "rss:https://techcrunch.com/?p=3167633": {
+      "at": "2026-09-22T18:13:43.595976+00:00",
+      "title": "openai launches gpt 6 sol and luna boasting lower cost and fewer mistakes",
+      "url": "techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -7685,6 +7760,26 @@
       "title": "ngram and world knowledge why are we just building a coding model",
       "url": "reddit.com/r/LocalLLaMA/comments/1wn2ybk/ngram_and_world_knowledge_why_are_we_just"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wn4c4e": {
+      "at": "2026-09-22T18:13:43.596249+00:00",
+      "title": "did alibaba abandon 35b a3b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wn4c4e/did_alibaba_abandon_35b_a3b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wn59vj": {
+      "at": "2026-09-22T18:13:43.596159+00:00",
+      "title": "xiaomimimo mimo v2 6 distill qwen 9b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wn59vj/xiaomimimomimov26distillqwen9b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wn6qwi": {
+      "at": "2026-09-22T18:13:43.596239+00:00",
+      "title": "about mimo 2 6 architecture",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wn6qwi/about_mimo_26_architecture"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnfo3b": {
+      "at": "2026-09-22T18:13:43.596259+00:00",
+      "title": "ai will be renamed super intelligence in all us documents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnfo3b/ai_will_be_renamed_super_intelligence_in_all_us"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -8024,8 +8119,13 @@
       "at": "2026-09-22T13:28:38.238834+00:00",
       "title": "don t be fooled by this summer of ai hype",
       "url": "technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype"
+    },
+    "rss:https://www.technologyreview.com/?p=1144890": {
+      "at": "2026-09-22T18:13:43.596145+00:00",
+      "title": "roundtables the deadly failures of the virtual border wall",
+      "url": "technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall"
     }
   },
-  "updated_at": "2026-09-22T13:28:38.238964+00:00",
+  "updated_at": "2026-09-22T18:13:43.596321+00:00",
   "version": 2
 }
