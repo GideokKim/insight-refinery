@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-22T01:37:17.374759+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+        "title": "[AINews] Xiaomi MiMo-V2.6-Pro 1T-A42B: the new top Open Weights model, trained for $3M",
+        "url": "https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b",
+        "author": null,
+        "published_at": "2026-09-22T06:30:56+00:00"
+      },
+      "insight": {
+        "title_ko": "샤오미 MiMo-V2.6 오픈 웨이트 모델 공개",
+        "summary_ko": [
+          "샤오미는 네이티브 옴니모달 구조를 갖춘 MiMo-V2.6 시리즈를 새롭게 공개했습니다.",
+          "이번 모델은 비동기 아키텍처와 강화학습을 활용해 효율적인 학습과 고속 생성을 지원합니다.",
+          "샤오미는 환경 코드와 학습 레시피를 오픈소스화하여 개발자 생태계 확장에 기여하고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wmyh9z",
+        "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10/",
+        "author": "/u/tengo_harambe",
+        "published_at": "2026-09-22T03:35:45+00:00"
+      },
+      "insight": {
+        "title_ko": "Alibaba, 조 단위 파라미터 AI 모델 및 신규 칩 개발 계획",
+        "summary_ko": [
+          "Alibaba가 5조에서 10조 파라미터 규모의 거대 AI 모델을 개발할 계획이라고 밝혔다.",
+          "이와 함께 AI 연산을 지원하기 위한 새로운 칩을 공개하며 하드웨어 역량 강화에 나섰다.",
+          "해당 발표는 초대형 AI 모델과 인프라 구축을 둘러싼 기술 경쟁 동향을 보여준다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wmxfjs",
+        "title": "Qwen 4 Announced at Apsara Conference",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/",
+        "author": "/u/Salah_H_Hasan",
+        "published_at": "2026-09-22T02:45:42+00:00"
+      },
+      "insight": {
+        "title_ko": "Alibaba, Apsara Conference에서 Qwen 4 공식 발표",
+        "summary_ko": [
+          "Alibaba는 Apsara Conference에서 차세대 언어 모델인 Qwen 4를 공식 발표했습니다.",
+          "이번 발표는 오픈소스 및 로컬 LLM 생태계에 중요한 성능 변화를 가져올 것으로 기대됩니다.",
+          "향후 공개될 상세 스펙과 벤치마크 결과가 실무 도입에 큰 영향을 미칠 전망입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wms904",
+        "title": "Uncensor an LLM without touching weights: inject a tiny trained KV-cache bank (~18MB) and unload it anytime",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wms904/uncensor_an_llm_without_touching_weights_inject_a/",
+        "author": "/u/Anony6666",
+        "published_at": "2026-09-21T22:55:57+00:00"
+      },
+      "insight": {
+        "title_ko": "모델 가중치 수정 없는 LLM 검열 우회 시스템 phantom-kv",
+        "summary_ko": [
+          "phantom-kv는 모델의 가중치를 직접 수정하지 않고 학습된 KV 텐서를 주입하여 LLM의 검열을 해제하는 시스템입니다.",
+          "체크포인트 재작성이나 런타임 훅 없이 KV 캐시만 교체하는 방식으로 동적이며 손쉽게 모드 전환이 가능합니다.",
+          "보안 분석가와 인가된 운영자를 위해 방어 및 공격 도메인별 맞춤형 케이퍼빌리티 모드를 제공합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

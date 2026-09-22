@@ -798,6 +798,11 @@
       "title": "build low latency multilingual voice agents open weights full deployment control with nvidia magpie tts",
       "url": "huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
     },
+    "rss:https://huggingface.co/blog/omlx": {
+      "at": "2026-09-22T07:43:11.181440+00:00",
+      "title": "jun kim omlx creator and maintainer joins hugging face to support the mlx community",
+      "url": "huggingface.co/blog/omlx"
+    },
     "rss:https://huggingface.co/blog/open-asr-leaderboard-global-south": {
       "at": "2026-08-28T23:16:04.282516+00:00",
       "title": "the open asr leaderboard adds its first global south language",
@@ -1480,6 +1485,11 @@
       "at": "2026-09-21T21:06:07.442173+00:00",
       "title": "amazon blocks meta s new muse ai agent from shopping on amazon com",
       "url": "forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom"
+    },
+    "rss:https://news.ycombinator.com/item?id=49791647": {
+      "at": "2026-09-22T07:43:11.181457+00:00",
+      "title": "frontier ai on your own hardware",
+      "url": "timdettmers.com/2026/09/21/dlab-open-source-week"
     },
     "rss:https://news.ycombinator.com/item?id=49792067": {
       "at": "2026-09-22T01:37:19.689730+00:00",
@@ -4115,6 +4125,11 @@
       "at": "2026-08-24T11:19:10.800698+00:00",
       "title": "ainews stripe buys openrouter for 7b",
       "url": "latent.space/p/ainews-stripe-buys-openrouter-for"
+    },
+    "rss:https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b": {
+      "at": "2026-09-22T07:43:11.181332+00:00",
+      "title": "ainews xiaomi mimo v2 6 pro 1t a42b the new top open weights model trained for 3m",
+      "url": "latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b"
     },
     "rss:https://www.latent.space/p/aiuc": {
       "at": "2026-09-16T18:14:09.223298+00:00",
@@ -7610,6 +7625,21 @@
       "title": "xiaomimimo mimo v2 6 distill qwen 9b",
       "url": "reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wms904": {
+      "at": "2026-09-22T07:43:11.181421+00:00",
+      "title": "uncensor an llm without touching weights inject a tiny trained kv cache bank 18mb and unload it anytime",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wms904/uncensor_an_llm_without_touching_weights_inject_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmxfjs": {
+      "at": "2026-09-22T07:43:11.181405+00:00",
+      "title": "qwen 4 announced at apsara conference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmyh9z": {
+      "at": "2026-09-22T07:43:11.181380+00:00",
+      "title": "alibaba plans ai model with 5 trillion to 10 trillion parameters unveils new chip",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmyh9z/alibaba_plans_ai_model_with_5_trillion_to_10"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -7946,6 +7976,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-22T01:37:19.689854+00:00",
+  "updated_at": "2026-09-22T07:43:11.181504+00:00",
   "version": 2
 }
