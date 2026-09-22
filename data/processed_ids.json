@@ -245,6 +245,11 @@
       "title": "why this month s microsoft patch release is a doozy",
       "url": "arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical"
     },
+    "rss:https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/": {
+      "at": "2026-09-22T01:37:19.689648+00:00",
+      "title": "muse meta s extraordinarily privileged ai assistant has a serious 0 day",
+      "url": "arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
+    },
     "rss:https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/": {
       "at": "2026-09-04T21:54:55.690937+00:00",
       "title": "once popular for attacking ai ascii smuggling is embraced by spammers",
@@ -629,6 +634,16 @@
       "at": "2026-09-17T01:25:57.837200+00:00",
       "title": "how to use ai agents to prepare 3d scenes for simulation",
       "url": "developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122686": {
+      "at": "2026-09-22T01:37:19.689714+00:00",
+      "title": "how to evaluate ai agents from tool calls to task completion",
+      "url": "developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122739": {
+      "at": "2026-09-22T01:37:19.689695+00:00",
+      "title": "simplifying model serving across multiple gpus with nvidia tensorrt multi device integration in nvidia dynamo triton",
+      "url": "developer.nvidia.com/blog/simplifying-model-serving-across-multiple-gpus-with-nvidia-tensorrt-multi-device-integration-in-nvidia-dynamo-triton"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -1465,6 +1480,11 @@
       "at": "2026-09-21T21:06:07.442173+00:00",
       "title": "amazon blocks meta s new muse ai agent from shopping on amazon com",
       "url": "forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom"
+    },
+    "rss:https://news.ycombinator.com/item?id=49792067": {
+      "at": "2026-09-22T01:37:19.689730+00:00",
+      "title": "ai coding has made ci a bottleneck so we reworked ours to keep up",
+      "url": "linear.app/now/ci-bottleneck-reworked"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -2381,6 +2401,16 @@
       "at": "2026-09-20T22:26:55.343416+00:00",
       "title": "quoting voxium",
       "url": "simonwillison.net/2026/Sep/20/voxium"
+    },
+    "rss:https://simonwillison.net/2026/Sep/21/cloudflare-python-worker/": {
+      "at": "2026-09-22T01:37:19.689627+00:00",
+      "title": "cloudflare python workers are now generally available",
+      "url": "simonwillison.net/2026/Sep/21/cloudflare-python-worker"
+    },
+    "rss:https://simonwillison.net/2026/Sep/21/jev/": {
+      "at": "2026-09-22T01:37:19.689576+00:00",
+      "title": "jev introduces a new shape of llm system one aka decision models",
+      "url": "simonwillison.net/2026/Sep/21/jev"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -3906,6 +3936,11 @@
       "title": "openai forms math advisory group as its ai resolves more than 100 open problems",
       "url": "techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems"
     },
+    "rss:https://techcrunch.com/?p=3167267": {
+      "at": "2026-09-22T01:37:19.689778+00:00",
+      "title": "the man who built apple s stores doesn t buy silicon valley s bet on ai shopping",
+      "url": "techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -4120,6 +4155,11 @@
       "at": "2026-09-05T16:21:30.567914+00:00",
       "title": "openclaw power macbook simplicity five days with grok bot",
       "url": "latent.space/p/grok-bot"
+    },
+    "rss:https://www.latent.space/p/jev": {
+      "at": "2026-09-22T01:37:19.689667+00:00",
+      "title": "jev system one models for prod not god with diogo almeida ceo typesafe ai",
+      "url": "latent.space/p/jev"
     },
     "rss:https://www.latent.space/p/lovable-future-of-saas": {
       "at": "2026-08-26T18:46:54.599596+00:00",
@@ -7550,6 +7590,11 @@
       "title": "a better coder for the small gpu small ram crowd",
       "url": "reddit.com/r/LocalLLaMA/comments/1wmgokc/a_better_coder_for_the_smallgpusmallram_crowd"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmm89l": {
+      "at": "2026-09-22T01:37:19.689752+00:00",
+      "title": "huawei shelves global ai chip rollout as china s own demand outstrips supply amd and nvidia no longer have to worry",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmm89l/huawei_shelves_global_ai_chip_rollout_as_chinas"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmmnrt": {
       "at": "2026-09-21T21:06:07.442304+00:00",
       "title": "yandex aliceai foundation 80b a3b base russian developed competitor to qwen 35b and deepseek v4 flash",
@@ -7559,6 +7604,11 @@
       "at": "2026-09-21T21:06:07.442287+00:00",
       "title": "xiaomimimo mimo v2 6 flash rl hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wmp2di": {
+      "at": "2026-09-22T01:37:19.689800+00:00",
+      "title": "xiaomimimo mimo v2 6 distill qwen 9b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wmp2di/xiaomimimomimov26distillqwen9b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -7896,6 +7946,6 @@
       "url": "technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered"
     }
   },
-  "updated_at": "2026-09-21T21:06:07.442507+00:00",
+  "updated_at": "2026-09-22T01:37:19.689854+00:00",
   "version": 2
 }
