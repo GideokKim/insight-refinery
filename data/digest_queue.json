@@ -309,6 +309,248 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49806430",
+        "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "author": "devonnull",
+        "published_at": "2026-09-22T19:03:38+00:00"
+      },
+      "insight": {
+        "title_ko": "국방부, 이란 학교 미사일 공습의 원인으로 AI 과의존 지목",
+        "summary_ko": [
+          "미국 국방부가 이란의 한 학교에 대한 미사일 공습의 원인으로 인공지능에 대한 과도한 의존을 지목했습니다.",
+          "이번 사건은 군사 작전에서 인공지능 시스템 도입이 가져올 수 있는 심각한 위험성을 보여줍니다.",
+          "AI 기술의 실무 적용에 있어 신뢰성과 책임성 검증의 중요성이 더욱 강조되고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "title": "Introducing GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "author": null,
+        "published_at": "2026-09-22T18:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, GPT-6 Sol과 Luna 공개",
+        "summary_ko": [
+          "OpenAI가 새로운 모델인 GPT-6 Sol과 Luna를 공식 발표했습니다.",
+          "두 모델은 성능과 비용의 균형을 다르게 맞추어 일상적인 업무에 최첨단 지능을 제공합니다.",
+          "다양한 실무 환경에서 효율적으로 활용될 수 있도록 설계되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+        "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+        "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+        "author": "Samuel Axon",
+        "published_at": "2026-09-22T21:25:18+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI와 Anthropic의 저비용 고효율 신규 모델 출시",
+        "summary_ko": [
+          "OpenAI와 Anthropic이 비용을 대폭 낮추면서 성능을 개선한 새로운 AI 모델들을 발표했습니다.",
+          "Anthropic은 코딩 및 복잡한 지식 작업을 위한 주력 모델인 Opus 5.5를 공개했습니다.",
+          "OpenAI는 효율성과 속도에 초점을 맞춘 중소형 모델 라인업인 GPT-6 Sol과 Luna를 선보였습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/john-platt",
+        "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
+        "url": "https://www.latent.space/p/john-platt",
+        "author": "Brandon Anderson",
+        "published_at": "2026-09-22T21:07:39+00:00"
+      },
+      "insight": {
+        "title_ko": "구글 ERA와 과학 연구용 AI",
+        "summary_ko": [
+          "구글의 존 플랫과 연구팀은 점수화할 수 있는 모든 과학적 문제를 해결하기 위한 ERA 시스템을 개발했다.",
+          "ERA는 LLM과 몬테카를로 트리 탐색을 결합하여 실험 노트를 진화시키며 다양한 과학 난제를 해결하고 있다.",
+          "연구진은 강력한 최적화 도구인 ERA를 활용할 때 과적합과 굿하트 법칙을 경계해야 한다고 조언한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "title": "Better prompt caching for GPT-6",
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "author": null,
+        "published_at": "2026-09-22T21:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "GPT-6의 향상된 프롬프트 캐싱 기능",
+        "summary_ko": [
+          "OpenAI는 GPT-6를 통해 더 높은 캐시 적중률과 새로운 진단 기능을 제공하는 향상된 프롬프트 캐싱을 공개했다.",
+          "이번 업데이트는 명시적 중단점과 제어 기능을 도입하여 대기 시간을 줄이고 비용을 절감하도록 설계되었다.",
+          "실무자는 이를 통해 LLM 활용 시 성능을 최적화하고 운영 효율성을 높일 수 있다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3166854",
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "author": "Ivan Mehta",
+        "published_at": "2026-09-22T20:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Qualcomm, AI 성능 강화된 신규 스마트폰 칩 출시",
+        "summary_ko": [
+          "Qualcomm이 AI 기능에 중점을 둔 두 개의 새로운 스마트폰 칩을 출시했다.",
+          "특히 상위 칩 모델은 30B 규모의 mixture-of-experts 모델을 로컬 환경에서 구동할 수 있다.",
+          "이번 신제품 출시로 모바일 기기에서의 온디바이스 AI 성능이 한층 강화될 것으로 기대된다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+        "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+        "author": "Dan Goodin",
+        "published_at": "2026-09-22T19:45:47+00:00"
+      },
+      "insight": {
+        "title_ko": "마이크로소프트, AI 악성 플랫폼 차단",
+        "summary_ko": [
+          "마이크로소프트는 AI 챗봇을 활용해 1만 2천여 개의 계정을 탈취한 사기 플랫폼 'EvilTokens'를 차단했습니다.",
+          "이 구독형 플랫폼은 텔레그램을 통해 유통되었으며, 이메일 분석과 표적 선정 및 사기 메시지 작성 등을 자동화했습니다.",
+          "특히 플랫폼 내 AI는 피해자 인박스를 분석하여 자금 이체를 유도하는 맞춤형 사기 전략을 추천하는 데 사용되었습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+        "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
+        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-09-22T19:28:23+00:00"
+      },
+      "insight": {
+        "title_ko": "캐나다 총기 난사 관련 OpenAI 소송",
+        "summary_ko": [
+          "캐나다 브리티시컬럼비아주는 총기 난사 사건에 사용된 ChatGPT의 책임을 물어 OpenAI를 상대로 소송을 제기했다.",
+          "범행에 연루된 학교가 철거되면서 피해 지역의 재건과 회복을 위한 막대한 비용을 OpenAI가 부담해야 한다고 주장했다.",
+          "이번 소송은 AI 기술 악용에 대한 기업의 사전 경고 실패와 사회적 책임을 묻는 중요한 법적 분쟁이다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wnipcz",
+        "title": "New 6B image model coming, AntLing just open sourced the Ming-Image-0.1-Design family",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open/",
+        "author": "/u/Sitkin_Marrel",
+        "published_at": "2026-09-22T19:06:22+00:00"
+      },
+      "insight": {
+        "title_ko": "AntLing, 6B 이미지 모델 Ming-Image 공개",
+        "summary_ko": [
+          "AntLing이 6B 파라미터 규모의 Ming-Image-0.1-Design 및 Ming-Image-0.1-Design-Layer 모델을 오픈소스로 공개했다.",
+          "해당 모델은 Artificial Analysis의 UI/UX 디자인 리더보드에서 오픈 웨이트 모델 중 1위를 기록했다.",
+          "함께 공개된 Ling UI 디자인 스킬과 이미지-수정 가능 PPT 스킬 등의 에이전트 스킬도 활용할 수 있다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wnh7tk",
+        "title": "AntLing open sourced the Ming-Image-0.1-Design family",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family/",
+        "author": "/u/niacolhealth",
+        "published_at": "2026-09-22T18:12:56+00:00"
+      },
+      "insight": {
+        "title_ko": "AntLing, Ming-Image-0.1-Design 오픈소스 공개",
+        "summary_ko": [
+          "AntLing은 6B 파라미터 규모의 Ming-Image-0.1-Design 모델 가족을 오픈소스로 공개했습니다.",
+          "이번 공개에는 Ling UI Design 및 Image-to-Editable-PPT 등 두 가지 오픈소스 Agent Skills가 포함되어 있습니다.",
+          "특히 이 모델은 Artificial Analysis의 UI/UX 디자인 리더보드에서 오픈 웨이트 모델 중 1위를 기록했습니다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+        "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+        "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+        "author": null,
+        "published_at": "2026-09-22T12:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "GPT-6 Astra로 연구 시간 및 비용 절감",
+        "summary_ko": [
+          "Parallel은 GPT-6 Astra를 활용해 노동 시장 데이터를 연구하고 종합하는 작업을 수행했습니다.",
+          "이 모델은 이전 모델과 비교하여 작업 소요 시간과 비용을 각각 절반으로 줄였습니다.",
+          "해당 사례는 차세대 LLM이 실제 데이터 분석 및 에이전트 업무 효율성을 크게 향상시킴을 보여줍니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -140,6 +140,11 @@
       "title": "small ai models let drones autonomously identify and attack battlefield targets",
       "url": "arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions"
     },
+    "rss:https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/": {
+      "at": "2026-09-22T22:59:04.939902+00:00",
+      "title": "new anthropic openai models make same promise a little more for a lot less money",
+      "url": "arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money"
+    },
     "rss:https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/": {
       "at": "2026-09-03T17:25:47.816075+00:00",
       "title": "nvidia buys hugging face the github of ai for 13 billion",
@@ -250,6 +255,11 @@
       "title": "llms respond differently to harmful prompts when ai watermarking is used",
       "url": "arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts"
     },
+    "rss:https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/": {
+      "at": "2026-09-22T22:59:04.939948+00:00",
+      "title": "microsoft disrupts ai assisted platform that compromised 12 000 accounts",
+      "url": "arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000"
+    },
     "rss:https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/": {
       "at": "2026-09-08T22:07:38.642362+00:00",
       "title": "why this month s microsoft patch release is a doozy",
@@ -319,6 +329,11 @@
       "at": "2026-09-11T22:37:07.341100+00:00",
       "title": "chatgpt using lawyer punished for citing fake testimony from made up witnesses",
       "url": "arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/": {
+      "at": "2026-09-22T22:59:04.939958+00:00",
+      "title": "lawsuit demands openai pay for new school after chatgpt used in shooting",
+      "url": "arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/": {
       "at": "2026-09-09T17:52:30.546337+00:00",
@@ -1541,6 +1556,11 @@
       "title": "ai has no wisdom and neither will you",
       "url": "alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you"
     },
+    "rss:https://news.ycombinator.com/item?id=49806430": {
+      "at": "2026-09-22T22:59:04.939866+00:00",
+      "title": "pentagon says overreliance on ai contributed to missile strike on iran school",
+      "url": "bloomberg.com/graphics/2026-iran-school-attack"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1585,6 +1605,11 @@
       "at": "2026-09-19T07:20:41.559572+00:00",
       "title": "introducing the australian youth safety blueprint",
       "url": "openai.com/index/australian-youth-safety-blueprint"
+    },
+    "rss:https://openai.com/index/better-prompt-caching-for-gpt-6": {
+      "at": "2026-09-22T22:59:04.939925+00:00",
+      "title": "better prompt caching for gpt 6",
+      "url": "openai.com/index/better-prompt-caching-for-gpt-6"
     },
     "rss:https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
       "at": "2026-08-26T18:46:54.599712+00:00",
@@ -1739,6 +1764,11 @@
       "title": "introducing chatgpt images 2 5",
       "url": "openai.com/index/introducing-chatgpt-images-2-5"
     },
+    "rss:https://openai.com/index/introducing-gpt-6-sol-and-luna": {
+      "at": "2026-09-22T22:59:04.939892+00:00",
+      "title": "introducing gpt 6 sol and luna",
+      "url": "openai.com/index/introducing-gpt-6-sol-and-luna"
+    },
     "rss:https://openai.com/index/introducing-gpt-live-1-in-the-api": {
       "at": "2026-09-10T17:44:00.126795+00:00",
       "title": "build more natural voice experiences with gpt live 1 in the api",
@@ -1808,6 +1838,11 @@
       "at": "2026-08-19T12:28:12.501769+00:00",
       "title": "pacing model development in an era of cyber critical capabilities",
       "url": "openai.com/index/pacing-model-development-cyber-capabilities"
+    },
+    "rss:https://openai.com/index/parallel-cuts-time-and-cost-with-astra": {
+      "at": "2026-09-22T22:59:04.939983+00:00",
+      "title": "parallel cut research time and cost in half with gpt 6 astra",
+      "url": "openai.com/index/parallel-cuts-time-and-cost-with-astra"
     },
     "rss:https://openai.com/index/partnering-with-codeai": {
       "at": "2026-08-19T12:28:12.501970+00:00",
@@ -3976,6 +4011,11 @@
       "title": "meet the next wave of vcs judging startup battlefield 200 at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026"
     },
+    "rss:https://techcrunch.com/?p=3166854": {
+      "at": "2026-09-22T22:59:04.939932+00:00",
+      "title": "qualcomm launches two new smartphone chips with emphasis on ai",
+      "url": "techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai"
+    },
     "rss:https://techcrunch.com/?p=3166866": {
       "at": "2026-09-21T15:15:12.148171+00:00",
       "title": "google s 899 googlebook is a bet that you ll buy a new laptop for gemini",
@@ -4055,6 +4095,16 @@
       "at": "2026-09-22T18:13:43.595976+00:00",
       "title": "openai launches gpt 6 sol and luna boasting lower cost and fewer mistakes",
       "url": "techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna"
+    },
+    "rss:https://techcrunch.com/?p=3167713": {
+      "at": "2026-09-22T22:59:04.940004+00:00",
+      "title": "meta admits muse s likeness to openclaw isn t a coincidence",
+      "url": "techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence"
+    },
+    "rss:https://techcrunch.com/?p=3167901": {
+      "at": "2026-09-22T22:59:04.939995+00:00",
+      "title": "snorkel ai triples valuation to 3 5b as demand for ai training data booms",
+      "url": "techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4280,6 +4330,11 @@
       "at": "2026-09-22T01:37:19.689667+00:00",
       "title": "jev system one models for prod not god with diogo almeida ceo typesafe ai",
       "url": "latent.space/p/jev"
+    },
+    "rss:https://www.latent.space/p/john-platt": {
+      "at": "2026-09-22T22:59:04.939912+00:00",
+      "title": "an oscar two asteroids and the algorithm in your sklearn john platt on ai for science",
+      "url": "latent.space/p/john-platt"
     },
     "rss:https://www.latent.space/p/lovable-future-of-saas": {
       "at": "2026-08-26T18:46:54.599596+00:00",
@@ -7775,10 +7830,50 @@
       "title": "about mimo 2 6 architecture",
       "url": "reddit.com/r/LocalLLaMA/comments/1wn6qwi/about_mimo_26_architecture"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnechu": {
+      "at": "2026-09-22T22:59:04.940019+00:00",
+      "title": "qwen 3 8 27b at 3 bpw on an rtx 3060 gsq vs byteshape iq3 xxs 2 88bpw",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnechu/qwen_38_27b_at_3_bpw_on_an_rtx_3060_gsq_vs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnf162": {
+      "at": "2026-09-22T22:59:04.940046+00:00",
+      "title": "am i going insane for thinking that these are all bot comments",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnf162/am_i_going_insane_for_thinking_that_these_are_all"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnf4q2": {
+      "at": "2026-09-22T22:59:04.940040+00:00",
+      "title": "laya model playing flappy bird on a cpu using openvino int8 inference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnf4q2/laya_model_playing_flappy_bird_on_a_cpu_using"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnfo3b": {
       "at": "2026-09-22T18:13:43.596259+00:00",
       "title": "ai will be renamed super intelligence in all us documents",
       "url": "reddit.com/r/LocalLLaMA/comments/1wnfo3b/ai_will_be_renamed_super_intelligence_in_all_us"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnh7tk": {
+      "at": "2026-09-22T22:59:04.939976+00:00",
+      "title": "antling open sourced the ming image 0 1 design family",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnh7tk/antling_open_sourced_the_mingimage01design_family"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnhlbl": {
+      "at": "2026-09-22T22:59:04.940033+00:00",
+      "title": "now opus 5 5 is 58 on artificial analysis how long do you have wait until an open model hits 58",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnhlbl/now_opus_55_is_58_on_artificial_analysis_how_long"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnhq8d": {
+      "at": "2026-09-22T22:59:04.940012+00:00",
+      "title": "qwen image 2 1 fast fp8 generates premium quality images",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnipcz": {
+      "at": "2026-09-22T22:59:04.939966+00:00",
+      "title": "new 6b image model coming antling just open sourced the ming image 0 1 design family",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnn6ui": {
+      "at": "2026-09-22T22:59:04.940028+00:00",
+      "title": "my local llm when i tell it to do any changes to my vllm service",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -8126,6 +8221,6 @@
       "url": "technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall"
     }
   },
-  "updated_at": "2026-09-22T18:13:43.596321+00:00",
+  "updated_at": "2026-09-22T22:59:04.940070+00:00",
   "version": 2
 }
