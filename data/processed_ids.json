@@ -205,6 +205,16 @@
       "title": "owners mourn spoiled food after firmware update bricks samsung smart fridges",
       "url": "arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges"
     },
+    "rss:https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/": {
+      "at": "2026-09-23T22:59:06.946295+00:00",
+      "title": "xprize wildfire winners spotted fires within 10 min but couldn t stop them",
+      "url": "arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them"
+    },
+    "rss:https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/": {
+      "at": "2026-09-23T22:59:06.946403+00:00",
+      "title": "youtube promises custom feeds and a lot more ai later this year",
+      "url": "arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year"
+    },
     "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
       "at": "2026-08-31T15:35:36.937264+00:00",
       "title": "pocket s ai made my game ideas real now meta controls the results",
@@ -334,6 +344,11 @@
       "at": "2026-09-11T22:37:07.341100+00:00",
       "title": "chatgpt using lawyer punished for citing fake testimony from made up witnesses",
       "url": "arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/": {
+      "at": "2026-09-23T22:59:06.946273+00:00",
+      "title": "trump s china rivalry and ai race delusion may endanger us experts say",
+      "url": "arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/": {
       "at": "2026-09-22T22:59:04.939958+00:00",
@@ -685,6 +700,11 @@
       "title": "how to evaluate ai agents from tool calls to task completion",
       "url": "developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122705": {
+      "at": "2026-09-23T22:59:06.946066+00:00",
+      "title": "introducing nv reason ct open 3d ct vlm for radiologist chain of thought reasoning",
+      "url": "developer.nvidia.com/blog/introducing-nv-reason-ct-open-3d-ct-vlm-for-radiologist-chain-of-thought-reasoning"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122739": {
       "at": "2026-09-22T01:37:19.689695+00:00",
       "title": "simplifying model serving across multiple gpus with nvidia tensorrt multi device integration in nvidia dynamo triton",
@@ -705,10 +725,20 @@
       "title": "what s new for game developers dlss 5 with 3d guided neural rendering nvidia ace updates and new rtx kit capabilities",
       "url": "developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122823": {
+      "at": "2026-09-23T22:59:06.946112+00:00",
+      "title": "validate gpu cluster readiness before ai workloads land",
+      "url": "developer.nvidia.com/blog/validate-gpu-cluster-readiness-before-ai-workloads-land"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122835": {
       "at": "2026-09-23T18:26:13.104913+00:00",
       "title": "how swe serve exposes the gap between local tests and live serving",
       "url": "developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122854": {
+      "at": "2026-09-23T22:59:06.946134+00:00",
+      "title": "manage kubernetes node fleets with nodewright",
+      "url": "developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -862,6 +892,11 @@
       "at": "2026-08-19T17:19:19.683237+00:00",
       "title": "nvidia cosmos h dreams bringing real time generative simulation to surgical robotics",
       "url": "huggingface.co/blog/nvidia/cosmos-h-dreams"
+    },
+    "rss:https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
+      "at": "2026-09-23T22:59:06.946353+00:00",
+      "title": "how to use nvidia warp and mjwarp to accelerate robotics simulation and learning workflows",
+      "url": "huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
     },
     "rss:https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": {
       "at": "2026-08-19T17:19:19.683212+00:00",
@@ -1611,6 +1646,11 @@
       "title": "the ai policy window is open we need to act",
       "url": "openai.com/index/ai-policy-window"
     },
+    "rss:https://openai.com/index/airbnb-gpt-6-astra": {
+      "at": "2026-09-23T22:59:06.946237+00:00",
+      "title": "airbnb widens access to gpt 6 astra and openai frontier models",
+      "url": "openai.com/index/airbnb-gpt-6-astra"
+    },
     "rss:https://openai.com/index/an-alien-mind": {
       "at": "2026-09-06T18:42:56.948103+00:00",
       "title": "an alien mind",
@@ -1749,6 +1789,11 @@
       "title": "grab and openai bring practical ai skills to southeast asia",
       "url": "openai.com/index/grab-openai-ai-skills-southeast-asia"
     },
+    "rss:https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+      "at": "2026-09-23T22:59:06.946196+00:00",
+      "title": "harvey turns legal context into stronger drafts with gpt 6 astra",
+      "url": "openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
     "rss:https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
       "at": "2026-09-16T18:14:09.223531+00:00",
       "title": "helping older adults use ai in everyday life",
@@ -1809,10 +1854,20 @@
       "title": "build more natural voice experiences with gpt live 1 in the api",
       "url": "openai.com/index/introducing-gpt-live-1-in-the-api"
     },
+    "rss:https://openai.com/index/introducing-mentalhealthbench": {
+      "at": "2026-09-23T22:59:06.946389+00:00",
+      "title": "introducing mentalhealthbench",
+      "url": "openai.com/index/introducing-mentalhealthbench"
+    },
     "rss:https://openai.com/index/introducing-the-agents-api": {
       "at": "2026-09-10T22:36:21.831651+00:00",
       "title": "introducing the agents api",
       "url": "openai.com/index/introducing-the-agents-api"
+    },
+    "rss:https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+      "at": "2026-09-23T22:59:06.946434+00:00",
+      "title": "how invideo improves color grading 3x with gpt 6 astra",
+      "url": "openai.com/index/invideo-builds-with-gpt-6-astra"
     },
     "rss:https://openai.com/index/jalapeno-first-results": {
       "at": "2026-08-25T17:21:53.012020+00:00",
@@ -1953,6 +2008,11 @@
       "at": "2026-09-03T21:59:42.659460+00:00",
       "title": "safety overview gpt 6 astra",
       "url": "openai.com/index/safety-overview-gpt-6-astra"
+    },
+    "rss:https://openai.com/index/sam-altman-un-security-council-remarks": {
+      "at": "2026-09-23T22:59:06.946172+00:00",
+      "title": "sam altman s remarks at the united nations security council",
+      "url": "openai.com/index/sam-altman-un-security-council-remarks"
     },
     "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
       "at": "2026-09-11T17:45:49.029451+00:00",
@@ -2586,6 +2646,16 @@
       "at": "2026-09-23T07:45:54.854660+00:00",
       "title": "sf october 14th a birds of a feather session on agentic engineering",
       "url": "simonwillison.net/2026/Sep/23/bof-agentic-engineering"
+    },
+    "rss:https://simonwillison.net/2026/Sep/23/gemini-tts-playground/": {
+      "at": "2026-09-23T22:59:06.946154+00:00",
+      "title": "gemini 3 8 tts playground",
+      "url": "simonwillison.net/2026/Sep/23/gemini-tts-playground"
+    },
+    "rss:https://simonwillison.net/2026/Sep/23/shadow-roots/": {
+      "at": "2026-09-23T22:59:06.946419+00:00",
+      "title": "shadow roots explained with live examples",
+      "url": "simonwillison.net/2026/Sep/23/shadow-roots"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -4230,6 +4300,16 @@
       "at": "2026-09-23T18:26:13.105006+00:00",
       "title": "youtube music gets more conversational with new ai features",
       "url": "techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features"
+    },
+    "rss:https://techcrunch.com/?p=3168393": {
+      "at": "2026-09-23T22:59:06.946316+00:00",
+      "title": "enveda secures 311m to bring more nature derived ai drugs into clinical trials",
+      "url": "techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials"
+    },
+    "rss:https://techcrunch.com/?p=3168463": {
+      "at": "2026-09-23T22:59:06.946256+00:00",
+      "title": "anthropic says its biology lab has already found something big",
+      "url": "techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -8090,6 +8170,21 @@
       "title": "mimo v2 6 both pro and flash is a benchmaxxed scam",
       "url": "reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woe70t": {
+      "at": "2026-09-23T22:59:06.946369+00:00",
+      "title": "jev isn t new tech its marketing targets people who think ai started with llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wof9kk": {
+      "at": "2026-09-23T22:59:06.946336+00:00",
+      "title": "introducing support for local ai models in the antigravity sdk",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wogfjx": {
+      "at": "2026-09-23T22:59:06.946458+00:00",
+      "title": "please google for the love of god",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wogfjx/please_google_for_the_love_of_god"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -8434,8 +8529,13 @@
       "at": "2026-09-22T18:13:43.596145+00:00",
       "title": "roundtables the deadly failures of the virtual border wall",
       "url": "technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall"
+    },
+    "rss:https://www.technologyreview.com/?p=1144940": {
+      "at": "2026-09-23T22:59:06.946215+00:00",
+      "title": "the ai hype index ai loves cheating",
+      "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-23T18:26:13.105158+00:00",
+  "updated_at": "2026-09-23T22:59:06.946532+00:00",
   "version": 2
 }
