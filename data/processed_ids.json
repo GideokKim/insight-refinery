@@ -848,6 +848,11 @@
       "title": "build low latency multilingual voice agents open weights full deployment control with nvidia magpie tts",
       "url": "huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
     },
+    "rss:https://huggingface.co/blog/nvidia/nemotron-diarization": {
+      "at": "2026-09-23T13:44:54.793757+00:00",
+      "title": "know who spoke when build real time multi speaker ai with nvidia nemotron 3 diarization",
+      "url": "huggingface.co/blog/nvidia/nemotron-diarization"
+    },
     "rss:https://huggingface.co/blog/omlx": {
       "at": "2026-09-22T07:43:11.181440+00:00",
       "title": "jun kim omlx creator and maintainer joins hugging face to support the mlx community",
@@ -1714,6 +1719,11 @@
       "title": "gpt 6 astra the next generation in intelligence for work",
       "url": "openai.com/index/gpt-6-astra-next-generation-work"
     },
+    "rss:https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
+      "at": "2026-09-23T13:44:54.793879+00:00",
+      "title": "grab and openai bring practical ai skills to southeast asia",
+      "url": "openai.com/index/grab-openai-ai-skills-southeast-asia"
+    },
     "rss:https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
       "at": "2026-09-16T18:14:09.223531+00:00",
       "title": "helping older adults use ai in everyday life",
@@ -1823,6 +1833,11 @@
       "at": "2026-08-19T20:13:45.261183+00:00",
       "title": "offering zero data retention for frontier models",
       "url": "openai.com/index/offering-zero-data-retention-for-frontier-models"
+    },
+    "rss:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
+      "at": "2026-09-23T13:44:54.793894+00:00",
+      "title": "openai extends cyber access to ukraine for civilian defense",
+      "url": "openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
     },
     "rss:https://openai.com/index/openai-joins-ports-pike-project": {
       "at": "2026-08-19T14:23:12.191427+00:00",
@@ -4111,6 +4126,16 @@
       "title": "astroforge is putting ai in command of its next spacecraft",
       "url": "techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft"
     },
+    "rss:https://techcrunch.com/?p=3167528": {
+      "at": "2026-09-23T13:44:54.793778+00:00",
+      "title": "spotify s is giving you the keys to its recommendation algorithm with us launch of taste profile",
+      "url": "techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile"
+    },
+    "rss:https://techcrunch.com/?p=3167529": {
+      "at": "2026-09-23T13:44:54.793827+00:00",
+      "title": "ema raises 77m as ai starts eating into enterprise software and services",
+      "url": "techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services"
+    },
     "rss:https://techcrunch.com/?p=3167580": {
       "at": "2026-09-22T18:13:43.596057+00:00",
       "title": "anthropic releases opus 5 5 with lower prices and fable level performance",
@@ -4340,6 +4365,11 @@
       "at": "2026-08-24T11:05:22.951496+00:00",
       "title": "the evolution of the agent harness",
       "url": "latent.space/p/attention-interface"
+    },
+    "rss:https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric": {
+      "at": "2026-09-23T13:44:54.793706+00:00",
+      "title": "bio security is an ai arms race eric nguyen ceo radical numerics",
+      "url": "latent.space/p/bio-security-is-an-ai-arms-race-eric"
     },
     "rss:https://www.latent.space/p/forward-deployed-engineer-best-practices": {
       "at": "2026-09-12T17:11:05.008540+00:00",
@@ -7940,6 +7970,31 @@
       "title": "pirate face pirate bay for llms",
       "url": "reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnxm0r": {
+      "at": "2026-09-23T13:44:54.793738+00:00",
+      "title": "ggufs in transformers natively",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnxm0r/ggufs_in_transformers_natively"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnzlav": {
+      "at": "2026-09-23T13:44:54.793923+00:00",
+      "title": "this is not even a competition at this point this is embarrassing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnzlav/this_is_not_even_a_competition_at_this_point_this"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnzu2f": {
+      "at": "2026-09-23T13:44:54.793859+00:00",
+      "title": "engram gone wild 2b model update",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnzu2f/engram_gone_wild_2b_model_update"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wo07r8": {
+      "at": "2026-09-23T13:44:54.793907+00:00",
+      "title": "jev in 25 lines of python",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wo07r8/jev_in_25_lines_of_python"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wo1bct": {
+      "at": "2026-09-23T13:44:54.793846+00:00",
+      "title": "cost of intelligence is dropping fast",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wo1bct/cost_of_intelligence_is_dropping_fast"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -8286,6 +8341,6 @@
       "url": "technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall"
     }
   },
-  "updated_at": "2026-09-23T07:45:54.854722+00:00",
+  "updated_at": "2026-09-23T13:44:54.793963+00:00",
   "version": 2
 }

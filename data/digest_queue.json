@@ -45,6 +45,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+        "title": "🔬Bio-security is an AI Arms Race - Eric Nguyen (CEO, Radical Numerics)",
+        "url": "https://www.latent.space/p/bio-security-is-an-ai-arms-race-eric",
+        "author": "RJ Honicky",
+        "published_at": "2026-09-23T13:27:18+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 바이오 보안과 Genomic Language Models",
+        "summary_ko": [
+          "Radical Numerics의 공동 창립자 Eric Nguyen은 팟캐스트를 통해 바이오 보안이 AI 군비 경쟁 상태임을 강조했습니다.",
+          "Evo 및 Evo 2 같은 Genomic Language Models는 긴 컨텍스트를 활용해 처음부터 유전체를 생성하고 생물학적 지능을 확장하고 있습니다.",
+          "DNA 언어를 학습한 모델은 RNA와 단백질까지 일반화되며, 향후 방어 역량 강화를 위해 첨단 모델의 발전이 필요하다고 주장합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wnxm0r",
+        "title": "GGUFs in transformers natively!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxm0r/ggufs_in_transformers_natively/",
+        "author": "/u/Disastrous-Work-1632",
+        "published_at": "2026-09-23T05:57:39+00:00"
+      },
+      "insight": {
+        "title_ko": "Hugging Face transformers의 GGUF 네이티브 지원",
+        "summary_ko": [
+          "Hugging Face의 transformers 라이브러리가 GGUF 양자화 모델을 네이티브로 지원하기 시작했다.",
+          "사용자는 일반적인 transformers API를 통해 GGUF 모델을 직접 로드하고 다양한 PyTorch 도구를 활용할 수 있다.",
+          "Apple Silicon 환경에서는 ggml 커널을 재사용하여 효율적인 성능을 제공하며 디버깅과 평가가 용이해진다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
