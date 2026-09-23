@@ -2532,6 +2532,11 @@
       "title": "quoting therealcornpop",
       "url": "simonwillison.net/2026/Sep/22/therealcornpop"
     },
+    "rss:https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/": {
+      "at": "2026-09-23T07:45:54.854660+00:00",
+      "title": "sf october 14th a birds of a feather session on agentic engineering",
+      "url": "simonwillison.net/2026/Sep/23/bof-agentic-engineering"
+    },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
       "title": "gpt 6 astra",
@@ -4126,6 +4131,11 @@
       "title": "snorkel ai triples valuation to 3 5b as demand for ai training data booms",
       "url": "techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms"
     },
+    "rss:https://techcrunch.com/?p=3167972": {
+      "at": "2026-09-23T07:45:54.854610+00:00",
+      "title": "we re already fighting yesterday s battle greece s prime minister gets candid about ai",
+      "url": "techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -4205,6 +4215,11 @@
       "at": "2026-09-02T12:20:55.156913+00:00",
       "title": "ainews claude fable mythos 5 1 new sota model 75 cache price cut but 70 more output tokens",
       "url": "latent.space/p/ainews-claude-fablemythos-51-new"
+    },
+    "rss:https://www.latent.space/p/ainews-claude-opus-55-the-new-default": {
+      "at": "2026-09-23T07:45:54.854532+00:00",
+      "title": "ainews claude opus 5 5 the new default model for ainews and everybody cuts prices 40 50",
+      "url": "latent.space/p/ainews-claude-opus-55-the-new-default"
     },
     "rss:https://www.latent.space/p/ainews-collusionwiki-a-second-undisclosed": {
       "at": "2026-09-09T06:50:19.410709+00:00",
@@ -7905,6 +7920,26 @@
       "title": "my local llm when i tell it to do any changes to my vllm service",
       "url": "reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnrh76": {
+      "at": "2026-09-23T07:45:54.854675+00:00",
+      "title": "unsloth studio vs lm studio which one do you prefer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnrh76/unsloth_studio_vs_lm_studio_which_one_do_you"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnu53i": {
+      "at": "2026-09-23T07:45:54.854584+00:00",
+      "title": "nathan lambert s written congressional testimony on the state of open models chinese open weight downloads now 2x america s 80 of openrouter open model usage",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnu53i/nathan_lamberts_written_congressional_testimony"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnv85k": {
+      "at": "2026-09-23T07:45:54.854630+00:00",
+      "title": "deepseek and moonshot ai face beijing s probe over potential data leaks to anthropic",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnv85k/deepseek_and_moonshot_ai_face_beijings_probe_over"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnxhji": {
+      "at": "2026-09-23T07:45:54.854647+00:00",
+      "title": "pirate face pirate bay for llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -8251,6 +8286,6 @@
       "url": "technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall"
     }
   },
-  "updated_at": "2026-09-23T01:31:01.665211+00:00",
+  "updated_at": "2026-09-23T07:45:54.854722+00:00",
   "version": 2
 }

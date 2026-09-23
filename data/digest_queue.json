@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-23T01:30:59.546128+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+        "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
+        "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
+        "author": null,
+        "published_at": "2026-09-23T06:41:41+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude Opus 5.5 및 주요 모델 출시",
+        "summary_ko": [
+          "Anthropic은 Claude 5.5 패밀리의 첫 모델인 Claude Opus 5.5를 출시하고 API 비용을 40% 인하했습니다.",
+          "이번 신모델은 향상된 글쓰기 성능과 속도를 제공하며 OpenAI의 GPT-6 솔과 루나에 대응합니다.",
+          "향상된 효율성과 함께 에이전틱 코딩 및 지식 노동 분야에서 강력한 성능을 발휘합니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wnu53i",
+        "title": "Nathan Lambert's written Congressional testimony on the state of open models - Chinese open-weight downloads now 2x America's, >80% of OpenRouter open-model usage",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnu53i/nathan_lamberts_written_congressional_testimony/",
+        "author": "/u/khiladi1729",
+        "published_at": "2026-09-23T02:56:39+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 AI 모델의 미·중 세력 균형 분석",
+        "summary_ko": [
+          "Nathan Lambert가 미국 의회에 제출한 오픈 모델 관련 서면 증언에 따르면 중국산 오픈 웨이트 모델의 다운로드 수가 미국산의 두 배에 달합니다.",
+          "OpenRouter 내 오픈 모델 트래픽 중 중국산 모델이 80% 이상을 차지하며, 에이전틱 코딩 분야에서 격차가 가장 작게 나타났습니다.",
+          "중국산 오픈 웨이트 모델은 폐쇄형 프런티어 모델보다 2~5개월 뒤처진 반면, 미국산 오픈 모델은 6~9개월 뒤처진 것으로 추정됩니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
