@@ -200,6 +200,11 @@
       "title": "dyson s most overengineered gadget may have a waterproofing problem",
       "url": "arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why"
     },
+    "rss:https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/": {
+      "at": "2026-09-23T18:26:13.104978+00:00",
+      "title": "owners mourn spoiled food after firmware update bricks samsung smart fridges",
+      "url": "arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges"
+    },
     "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
       "at": "2026-08-31T15:35:36.937264+00:00",
       "title": "pocket s ai made my game ideas real now meta controls the results",
@@ -375,6 +380,11 @@
       "title": "us government website used chinese model the fbi called malicious",
       "url": "arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious"
     },
+    "rss:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
+      "at": "2026-09-23T18:26:13.104900+00:00",
+      "title": "advancing private ai compute with secure server side memory",
+      "url": "deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+    },
     "rss:https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
       "at": "2026-09-08T17:40:11.523007+00:00",
       "title": "alphagenome atlas a predictive map of every possible dna letter change in the human genome",
@@ -424,6 +434,11 @@
       "at": "2026-09-02T17:30:27.096539+00:00",
       "title": "proactive cyber defense for governments and enterprises",
       "url": "deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises"
+    },
+    "rss:https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": {
+      "at": "2026-09-23T18:26:13.104993+00:00",
+      "title": "gemini 3 8 text to speech says hello",
+      "url": "deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"
     },
     "rss:https://developer.nvidia.com/blog/?p=120848": {
       "at": "2026-08-26T22:35:55.496737+00:00",
@@ -689,6 +704,11 @@
       "at": "2026-09-22T13:28:38.238772+00:00",
       "title": "what s new for game developers dlss 5 with 3d guided neural rendering nvidia ace updates and new rtx kit capabilities",
       "url": "developer.nvidia.com/blog/whats-new-for-game-developers-dlss-5-with-3d-guided-neural-rendering-nvidia-ace-updates-and-new-rtx-kit-capabilities"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122835": {
+      "at": "2026-09-23T18:26:13.104913+00:00",
+      "title": "how swe serve exposes the gap between local tests and live serving",
+      "url": "developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -1566,6 +1586,11 @@
       "title": "pentagon says overreliance on ai contributed to missile strike on iran school",
       "url": "bloomberg.com/graphics/2026-iran-school-attack"
     },
+    "rss:https://news.ycombinator.com/item?id=49815982": {
+      "at": "2026-09-23T18:26:13.105044+00:00",
+      "title": "stripe s knowledge ai platform",
+      "url": "stripe.dev/blog/meet-stripes-knowledge-ai-platform"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1919,6 +1944,11 @@
       "title": "research acceleration the view inside openai",
       "url": "openai.com/index/research-acceleration-view-inside-openai"
     },
+    "rss:https://openai.com/index/ringg": {
+      "at": "2026-09-23T18:26:13.104954+00:00",
+      "title": "ringg s ai agents resolve up to 65 of customer calls with openai",
+      "url": "openai.com/index/ringg"
+    },
     "rss:https://openai.com/index/safety-overview-gpt-6-astra": {
       "at": "2026-09-03T21:59:42.659460+00:00",
       "title": "safety overview gpt 6 astra",
@@ -1976,6 +2006,11 @@
       "at": "2026-09-08T17:40:11.523137+00:00",
       "title": "the work now within reach",
       "url": "openai.com/index/the-work-now-within-reach"
+    },
+    "rss:https://openai.com/index/two-years-of-openai-academy": {
+      "at": "2026-09-23T18:26:13.105078+00:00",
+      "title": "two years of openai academy",
+      "url": "openai.com/index/two-years-of-openai-academy"
     },
     "rss:https://openai.com/index/unlocking-new-ways-of-working": {
       "at": "2026-09-16T18:14:09.223524+00:00",
@@ -4141,6 +4176,11 @@
       "title": "anthropic releases opus 5 5 with lower prices and fable level performance",
       "url": "techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance"
     },
+    "rss:https://techcrunch.com/?p=3167584": {
+      "at": "2026-09-23T18:26:13.105032+00:00",
+      "title": "youtube releases new ai features for creators within its studio app",
+      "url": "techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app"
+    },
     "rss:https://techcrunch.com/?p=3167633": {
       "at": "2026-09-22T18:13:43.595976+00:00",
       "title": "openai launches gpt 6 sol and luna boasting lower cost and fewer mistakes",
@@ -4160,6 +4200,36 @@
       "at": "2026-09-23T07:45:54.854610+00:00",
       "title": "we re already fighting yesterday s battle greece s prime minister gets candid about ai",
       "url": "techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai"
+    },
+    "rss:https://techcrunch.com/?p=3167991": {
+      "at": "2026-09-23T18:26:13.105088+00:00",
+      "title": "strictlyvc at techcrunch disrupt 2026 inside the changing rules of venture capital",
+      "url": "techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital"
+    },
+    "rss:https://techcrunch.com/?p=3168018": {
+      "at": "2026-09-23T18:26:13.105100+00:00",
+      "title": "3 days left to save up to 200 and make impactful connections at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3168123": {
+      "at": "2026-09-23T18:26:13.105055+00:00",
+      "title": "even americans who use ai every day are worried about it",
+      "url": "techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it"
+    },
+    "rss:https://techcrunch.com/?p=3168131": {
+      "at": "2026-09-23T18:26:13.104942+00:00",
+      "title": "youtube will let you build your own algorithm with ai",
+      "url": "techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai"
+    },
+    "rss:https://techcrunch.com/?p=3168173": {
+      "at": "2026-09-23T18:26:13.104829+00:00",
+      "title": "chatgpt mobile app gets voice based agentic features",
+      "url": "techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features"
+    },
+    "rss:https://techcrunch.com/?p=3168211": {
+      "at": "2026-09-23T18:26:13.105006+00:00",
+      "title": "youtube music gets more conversational with new ai features",
+      "url": "techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4435,6 +4505,11 @@
       "at": "2026-09-21T21:06:07.442256+00:00",
       "title": "improving synthesis prediction of small molecules at scale with retrochimera",
       "url": "microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1186774": {
+      "at": "2026-09-23T18:26:13.104887+00:00",
+      "title": "offloaded inference for real world physical ai robotics",
+      "url": "microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -7975,6 +8050,11 @@
       "title": "ggufs in transformers natively",
       "url": "reddit.com/r/LocalLLaMA/comments/1wnxm0r/ggufs_in_transformers_natively"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnyvl6": {
+      "at": "2026-09-23T18:26:13.105067+00:00",
+      "title": "most powerful harness for qwen 3 8",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnyvl6/most_powerful_harness_for_qwen_38"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnzlav": {
       "at": "2026-09-23T13:44:54.793923+00:00",
       "title": "this is not even a competition at this point this is embarrassing",
@@ -7994,6 +8074,21 @@
       "at": "2026-09-23T13:44:54.793846+00:00",
       "title": "cost of intelligence is dropping fast",
       "url": "reddit.com/r/LocalLLaMA/comments/1wo1bct/cost_of_intelligence_is_dropping_fast"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wo6o0f": {
+      "at": "2026-09-23T18:26:13.105113+00:00",
+      "title": "mods can we do something about half the forum getting filled with these advertising posts for jev",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wo7mr6": {
+      "at": "2026-09-23T18:26:13.105017+00:00",
+      "title": "mimo v3 is getting a new architecture the core of it hysparse2 is out today",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woa5d3": {
+      "at": "2026-09-23T18:26:13.104868+00:00",
+      "title": "mimo v2 6 both pro and flash is a benchmaxxed scam",
+      "url": "reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -8341,6 +8436,6 @@
       "url": "technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall"
     }
   },
-  "updated_at": "2026-09-23T13:44:54.793963+00:00",
+  "updated_at": "2026-09-23T18:26:13.105158+00:00",
   "version": 2
 }

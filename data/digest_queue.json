@@ -89,6 +89,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3168173",
+        "title": "ChatGPT mobile app gets voice-based agentic features",
+        "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+        "author": "Ivan Mehta",
+        "published_at": "2026-09-23T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "ChatGPT 모바일 앱, 음성 기반 에이전트 기능 도입",
+        "summary_ko": [
+          "ChatGPT 모바일 앱에 Pro 및 Plus 사용자를 위한 음성 기반 에이전트 기능이 추가되었습니다.",
+          "사용자는 휴대폰의 Work 탭을 사용하여 다양한 에이전트 작업을 직접 수행할 수 있습니다.",
+          "이번 업데이트는 모바일 환경에서 AI를 활용한 실무 작업 처리 능력을 크게 향상시킵니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1woa5d3",
+        "title": "MiMo-V2.6 (both Pro and Flash) is a benchmaxxed scam",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam/",
+        "author": "/u/crusaderky",
+        "published_at": "2026-09-23T16:05:14+00:00"
+      },
+      "insight": {
+        "title_ko": "MiMo-V2.6 모델 실무 검증 후기",
+        "summary_ko": [
+          "시니어 소프트웨어 엔지니어가 MiMo-V2.6 Pro와 Flash 모델을 직접 테스트한 결과 실무 활용에 심각한 결함이 발견되었습니다.",
+          "Pro 모델은 보안 설정에서 기본적인 우회 취약점들을 노출했으며, Flash 모델은 손상된 Git 환경에서 비정상적인 환각 증상을 보였습니다.",
+          "벤치마크 점수와 달리 실제 코드 작성 및 문제 해결 능력은 기대에 미치지 못해 실무 적용 시 주의가 필요합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Microsoft Research",
+        "source_type": "rss",
+        "external_id": "https://www.microsoft.com/en-us/research/?p=1186774",
+        "title": "Offloaded inference for real-world physical AI robotics",
+        "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics/",
+        "author": "Ganesh Ananthanarayanan, Matthew Balkwill, Xenofon Foukas, Sanjeev Mehrotra, Bozidar Radunovic, Connor Settle, Ankit Verma, David White, Shawn Cicoria, Mark Martin, Rachel Johnson, Mayur Patel",
+        "published_at": "2026-09-23T16:01:36+00:00"
+      },
+      "insight": {
+        "title_ko": "로봇 물리 AI를 위한 오프로드 추론",
+        "summary_ko": [
+          "마이크로소프트 연구진은 로봇 온보드 GPU에서만 AI 추론을 실행하는 기존 방식의 한계를 지적했습니다.",
+          "추론 연산을 엣지나 클라우드로 오프로드하면 작업 성공률이 향상되고 배터리 수명이 연장됨을 입증했습니다.",
+          "개발자들은 쿠버네티스 기반 도구를 활용해 로봇, 엣지, 클라우드 간에 AI 워크로드를 분산 배포할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+        "title": "Advancing Private AI Compute with secure, server-side memory",
+        "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+        "author": null,
+        "published_at": "2026-09-23T16:00:57+00:00"
+      },
+      "insight": {
+        "title_ko": "Private AI Compute를 위한 보안 서버 메모리 도입",
+        "summary_ko": [
+          "Google DeepMind가 개인용 AI를 위한 Private AI Compute에 안전한 서버 사이드 메모리를 새롭게 도입했습니다.",
+          "이 기술은 사용자 데이터의 프라이버시를 강화하고 안전한 연산을 지원하는 것을 목표로 합니다.",
+          "향상된 보안 메모리 기능을 통해 개인화된 AI 서비스의 신뢰성과 데이터 보호 수준이 높아집니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122835",
+        "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+        "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-09-23T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "SWE-Serve로 보는 로컬 테스트와 라이브 서빙의 간극",
+        "summary_ko": [
+          "AI 코딩 에이전트의 패치가 테스트를 통과하더라도 실제 모델 로드 및 요청 처리 시 실패할 수 있습니다.",
+          "추론 서빙 소프트웨어의 변경 사항을 평가하려면 퍼블릭 인터페이스를 통한 올바른 결과 반환 여부를 포함한 전체 서빙 경로를 점검해야 합니다.",
+          "SGLang 팀의 피드백을 받아 개발된 SWE-Serve는 53개의 태스크를 통해 로컬 테스트와 실제 서빙 환경 간의 이러한 간극을 평가합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3168131",
+        "title": "YouTube will let you build your own algorithm with AI",
+        "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+        "author": "Sarah Perez",
+        "published_at": "2026-09-23T14:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "유튜브, AI 기반 맞춤형 알고리즘 피드 도입",
+        "summary_ko": [
+          "유튜브가 사용자가 직접 원하는 동영상을 설명하고 AI를 통해 맞춤형 피드를 만들 수 있는 기능을 도입했다.",
+          "이번 기능은 Gemini를 활용하여 사용자의 요청에 맞춘 개인화된 동영상 피드를 구성하는 것이 핵심이다.",
+          "이 기능은 사용자가 자신의 시청 경험을 직접 제어하고 선호하는 콘텐츠를 더 쉽게 발견할 수 있도록 돕는다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
