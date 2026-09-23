@@ -2507,10 +2507,25 @@
       "title": "jev introduces a new shape of llm system one aka decision models",
       "url": "simonwillison.net/2026/Sep/21/jev"
     },
+    "rss:https://simonwillison.net/2026/Sep/22/llm-anthropic/": {
+      "at": "2026-09-23T01:31:01.665152+00:00",
+      "title": "llm anthropic 0 29",
+      "url": "simonwillison.net/2026/Sep/22/llm-anthropic"
+    },
     "rss:https://simonwillison.net/2026/Sep/22/llm-typesafe/": {
       "at": "2026-09-22T18:13:43.596080+00:00",
       "title": "llm typesafe 0 1a0",
       "url": "simonwillison.net/2026/Sep/22/llm-typesafe"
+    },
+    "rss:https://simonwillison.net/2026/Sep/22/llm/": {
+      "at": "2026-09-23T01:31:01.665125+00:00",
+      "title": "llm 0 36",
+      "url": "simonwillison.net/2026/Sep/22/llm"
+    },
+    "rss:https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/": {
+      "at": "2026-09-23T01:31:01.665079+00:00",
+      "title": "claude opus 5 5 gpt 6 sol gpt 6 luna and a new price war",
+      "url": "simonwillison.net/2026/Sep/22/opus-and-sol-and-luna"
     },
     "rss:https://simonwillison.net/2026/Sep/22/therealcornpop/": {
       "at": "2026-09-22T18:13:43.596187+00:00",
@@ -4080,6 +4095,11 @@
       "at": "2026-09-22T18:13:43.596198+00:00",
       "title": "five ai safety sessions every founder should have on their techcrunch disrupt 2026 agenda",
       "url": "techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda"
+    },
+    "rss:https://techcrunch.com/?p=3167417": {
+      "at": "2026-09-23T01:31:01.665169+00:00",
+      "title": "techcrunch founder summit s agenda revealed unlock fundraising hiring and ai insights in boston on november 4",
+      "url": "techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4"
     },
     "rss:https://techcrunch.com/?p=3167451": {
       "at": "2026-09-22T18:13:43.596130+00:00",
@@ -7830,6 +7850,11 @@
       "title": "about mimo 2 6 architecture",
       "url": "reddit.com/r/LocalLLaMA/comments/1wn6qwi/about_mimo_26_architecture"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wn9a2w": {
+      "at": "2026-09-23T01:31:01.665160+00:00",
+      "title": "what underrated ai tools have actually made you more productive in 2026",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wn9a2w/what_underrated_ai_tools_have_actually_made_you"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnechu": {
       "at": "2026-09-22T22:59:04.940019+00:00",
       "title": "qwen 3 8 27b at 3 bpw on an rtx 3060 gsq vs byteshape iq3 xxs 2 88bpw",
@@ -7849,6 +7874,11 @@
       "at": "2026-09-22T18:13:43.596259+00:00",
       "title": "ai will be renamed super intelligence in all us documents",
       "url": "reddit.com/r/LocalLLaMA/comments/1wnfo3b/ai_will_be_renamed_super_intelligence_in_all_us"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnggz5": {
+      "at": "2026-09-23T01:31:01.665139+00:00",
+      "title": "mini agi continual learning dynamically looped transformer with evolutionary grown on a laptop",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wnggz5/miniagi_continuallearning_dynamically_looped"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wnh7tk": {
       "at": "2026-09-22T22:59:04.939976+00:00",
@@ -8221,6 +8251,6 @@
       "url": "technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall"
     }
   },
-  "updated_at": "2026-09-22T22:59:04.940070+00:00",
+  "updated_at": "2026-09-23T01:31:01.665211+00:00",
   "version": 2
 }
