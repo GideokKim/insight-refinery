@@ -1631,6 +1631,16 @@
       "title": "feds target ai critics as foreign agents",
       "url": "kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
     },
+    "rss:https://news.ycombinator.com/item?id=49826565": {
+      "at": "2026-09-24T13:48:03.937618+00:00",
+      "title": "early rogue ai agent activity and attempts to hack found on urlquery net",
+      "url": "transluce.org/agent-activity"
+    },
+    "rss:https://news.ycombinator.com/item?id=49827794": {
+      "at": "2026-09-24T13:48:03.937638+00:00",
+      "title": "meta takes down a critical video about meta ai glasses after filming at meta",
+      "url": "reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -4336,6 +4346,11 @@
       "title": "meta made a tamagotchi like wearable for its muse ai agent",
       "url": "techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent"
     },
+    "rss:https://techcrunch.com/?p=3168743": {
+      "at": "2026-09-24T13:48:03.937581+00:00",
+      "title": "australia to investigate if openai hack of government health website broke the law",
+      "url": "techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -4465,6 +4480,11 @@
       "at": "2026-08-24T11:19:10.800848+00:00",
       "title": "ainews memory prices up 500 in 12 months",
       "url": "latent.space/p/ainews-memory-prices-up-500-in-12"
+    },
+    "rss:https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses": {
+      "at": "2026-09-24T13:48:03.937604+00:00",
+      "title": "ainews meta connect 2026 muse glasses voice video and charm",
+      "url": "latent.space/p/ainews-meta-connect-2026-muse-glasses"
     },
     "rss:https://www.latent.space/p/ainews-muse-spark-13-matches-gpt": {
       "at": "2026-09-03T06:36:46.739458+00:00",
@@ -8205,6 +8225,11 @@
       "title": "mimo v2 6 both pro and flash is a benchmaxxed scam",
       "url": "reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wod7l0": {
+      "at": "2026-09-24T13:48:03.937632+00:00",
+      "title": "bfl releases flux 3 action a 7b robot model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wod7l0/bfl_releases_flux_3_action_a_7b_robot_model"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wodf84": {
       "at": "2026-09-24T07:36:59.875007+00:00",
       "title": "apple lensvlm 9b hugging face",
@@ -8234,6 +8259,21 @@
       "at": "2026-09-24T01:24:26.283793+00:00",
       "title": "using uncensored models makes working less of a headache",
       "url": "reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wou3gr": {
+      "at": "2026-09-24T13:48:03.937625+00:00",
+      "title": "my foray into local ai two bc 250 ex mining apus running qwen3 6 35b a3b q4_k_m at 60 tok s with 64k context",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wou3gr/my_foray_into_local_ai_two_bc250_ex_mining_apus"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wouby6": {
+      "at": "2026-09-24T13:48:03.937613+00:00",
+      "title": "jev almost dead clm vs jev",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wouby6/jev_almost_dead_clm_vs_jev"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wovkw5": {
+      "at": "2026-09-24T13:48:03.937647+00:00",
+      "title": "folks have you purchased the mac m5 ultra with 256gb yet we need serious benchmarks because we only get youtube clowns influencers results",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wovkw5/folks_have_you_purchased_the_mac_m5_ultra_with"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -8586,6 +8626,6 @@
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-24T07:36:59.875129+00:00",
+  "updated_at": "2026-09-24T13:48:03.937672+00:00",
   "version": 2
 }
