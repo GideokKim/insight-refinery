@@ -1676,6 +1676,11 @@
       "title": "meta takes down a critical video about meta ai glasses after filming at meta",
       "url": "reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai"
     },
+    "rss:https://news.ycombinator.com/item?id=49829650": {
+      "at": "2026-09-24T23:13:27.775405+00:00",
+      "title": "that s so ai what gen alpha s biggest insult tells us",
+      "url": "theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -2176,6 +2181,11 @@
       "at": "2026-09-15T22:54:27.656843+00:00",
       "title": "bypassing inference bottlenecks accelerating complex ai search with retrieve for train",
       "url": "research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train"
+    },
+    "rss:https://research.google/blog/coherent-long-form-video-generation/": {
+      "at": "2026-09-24T23:13:27.775313+00:00",
+      "title": "automating coherent long form video generation",
+      "url": "research.google/blog/coherent-long-form-video-generation"
     },
     "rss:https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/": {
       "at": "2026-08-19T17:19:19.683361+00:00",
@@ -2711,6 +2721,16 @@
       "at": "2026-09-23T22:59:06.946419+00:00",
       "title": "shadow roots explained with live examples",
       "url": "simonwillison.net/2026/Sep/23/shadow-roots"
+    },
+    "rss:https://simonwillison.net/2026/Sep/24/commit-rewriter/": {
+      "at": "2026-09-24T23:13:27.775299+00:00",
+      "title": "commit rewriter 0 2",
+      "url": "simonwillison.net/2026/Sep/24/commit-rewriter"
+    },
+    "rss:https://simonwillison.net/2026/Sep/24/datasette/": {
+      "at": "2026-09-24T23:13:27.775328+00:00",
+      "title": "datasette 1 0a41",
+      "url": "simonwillison.net/2026/Sep/24/datasette"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -4440,6 +4460,16 @@
       "at": "2026-09-24T18:33:26.171378+00:00",
       "title": "oracle sends force majeure notice on its new mexico stargate data center",
       "url": "techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center"
+    },
+    "rss:https://techcrunch.com/?p=3169128": {
+      "at": "2026-09-24T23:13:27.775340+00:00",
+      "title": "prismml brings its tiny llms to qualcomm powered smart glasses",
+      "url": "techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses"
+    },
+    "rss:https://techcrunch.com/?p=3169215": {
+      "at": "2026-09-24T23:13:27.775460+00:00",
+      "title": "bring your co founder partner or colleague and get 50 off a second techcrunch disrupt 2026 pass",
+      "url": "techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -8360,6 +8390,11 @@
       "title": "qwen 3 8 flash next q4_k_m 130k context q8 cache on 16gb vram ann 64gb ram 15 20 t s on 4080",
       "url": "reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woq1yg": {
+      "at": "2026-09-24T23:13:27.775421+00:00",
+      "title": "what tps is too slow for you",
+      "url": "reddit.com/r/LocalLLaMA/comments/1woq1yg/what_tps_is_too_slow_for_you"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woscea": {
       "at": "2026-09-24T18:33:26.171509+00:00",
       "title": "contrastive language models",
@@ -8390,15 +8425,45 @@
       "title": "qwen 3 8 27b is good enough that i stopped using api",
       "url": "reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp2hqk": {
+      "at": "2026-09-24T23:13:27.775355+00:00",
+      "title": "r9v update created and adopted kva projections based on deepseek v4 1 flash hysparse2 mimo v3 for qwen3 8 flash next this is a game changer for models that don t natively implement it 1 45 1 85x speedup in prefill to 3k at a small deficit to perplexity 2x r9700 128gb ddr5",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp2hqk/r9v_update_created_and_adopted_kva_projections"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp36gx": {
       "at": "2026-09-24T18:33:26.171357+00:00",
       "title": "list of entities hacked by openai grows by one",
       "url": "reddit.com/r/LocalLLaMA/comments/1wp36gx/list_of_entities_hacked_by_openai_grows_by_one"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp5vqr": {
+      "at": "2026-09-24T23:13:27.775275+00:00",
+      "title": "thinkingcap 3 8 27b vs swift 3 8 27b vs qwen 3 8 27b benchmarks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp5vqr/thinkingcap_3827b_vs_swift_3827b_vs_qwen_3827b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp5yp6": {
+      "at": "2026-09-24T23:13:27.775389+00:00",
+      "title": "open ai in the wild",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp5yp6/open_ai_in_the_wild"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp6gal": {
       "at": "2026-09-24T18:33:26.171261+00:00",
       "title": "ukisai swift series 27b flash next and bonsai 2 gsq rco 63 4 thinking x1 95 speed with xhigh accuracy",
       "url": "reddit.com/r/LocalLLaMA/comments/1wp6gal/ukisai_swift_series_27b_flash_next_and_bonsai_2"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp7zyb": {
+      "at": "2026-09-24T23:13:27.775225+00:00",
+      "title": "qwen3 8 flash next on 12gb vram 65 tokens per second",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpbeb7": {
+      "at": "2026-09-24T23:13:27.775447+00:00",
+      "title": "meta muse appears to be excited to give away its system data",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpbeb7/meta_muse_appears_to_be_excited_to_give_away_its"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpdho8": {
+      "at": "2026-09-24T23:13:27.775434+00:00",
+      "title": "qwen 3 8 27b be like",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -8751,6 +8816,6 @@
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-24T18:33:26.171554+00:00",
+  "updated_at": "2026-09-24T23:13:27.775520+00:00",
   "version": 2
 }
