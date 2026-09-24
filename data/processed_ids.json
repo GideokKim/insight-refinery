@@ -4311,6 +4311,21 @@
       "title": "anthropic says its biology lab has already found something big",
       "url": "techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big"
     },
+    "rss:https://techcrunch.com/?p=3168527": {
+      "at": "2026-09-24T01:24:26.283708+00:00",
+      "title": "everything new coming to meta s ai agent muse",
+      "url": "techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse"
+    },
+    "rss:https://techcrunch.com/?p=3168626": {
+      "at": "2026-09-24T01:24:26.283779+00:00",
+      "title": "meta introduces camera free ai glasses",
+      "url": "techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses"
+    },
+    "rss:https://techcrunch.com/?p=3168692": {
+      "at": "2026-09-24T01:24:26.283761+00:00",
+      "title": "meta made a tamagotchi like wearable for its muse ai agent",
+      "url": "techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -8185,6 +8200,11 @@
       "title": "please google for the love of god",
       "url": "reddit.com/r/LocalLLaMA/comments/1wogfjx/please_google_for_the_love_of_god"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wol7zc": {
+      "at": "2026-09-24T01:24:26.283793+00:00",
+      "title": "using uncensored models makes working less of a headache",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -8536,6 +8556,6 @@
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-23T22:59:06.946532+00:00",
+  "updated_at": "2026-09-24T01:24:26.283839+00:00",
   "version": 2
 }
