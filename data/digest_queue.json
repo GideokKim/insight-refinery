@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-24T01:24:24.907370+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wodf84",
+        "title": "apple/LensVLM-9B · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-23T18:04:25+00:00"
+      },
+      "insight": {
+        "title_ko": "Apple, 텍스트 비전 모델 LensVLM-9B 공개",
+        "summary_ko": [
+          "Apple이 압축된 텍스트 이미지를 스캔하고 관련 페이지만 선택적으로 확장하는 9B 규모의 Vision Language Model인 LensVLM-9B를 공개했다.",
+          "이 모델은 학습된 도구를 활용하여 필요한 부분만 원본 형태로 확장함으로써 시각적 텍스트 표현을 효율적으로 처리한다.",
+          "연구용 코드와 함께 Hugging Face를 통해 GGUF 형식 등으로 제공되며 Apple Machine Learning Research License가 적용된다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

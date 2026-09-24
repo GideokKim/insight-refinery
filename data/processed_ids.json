@@ -1626,6 +1626,11 @@
       "title": "stripe s knowledge ai platform",
       "url": "stripe.dev/blog/meet-stripes-knowledge-ai-platform"
     },
+    "rss:https://news.ycombinator.com/item?id=49824686": {
+      "at": "2026-09-24T07:36:59.875040+00:00",
+      "title": "feds target ai critics as foreign agents",
+      "url": "kenklippenstein.com/p/feds-think-ai-critics-are-foreign"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -1698,6 +1703,11 @@
     },
     "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+      "at": "2026-09-24T07:36:59.875057+00:00",
+      "title": "chatgpt ads expands to southeast asia and taiwan",
+      "url": "openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan"
     },
     "rss:https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
       "at": "2026-09-01T22:10:08.411924+00:00",
@@ -8180,10 +8190,25 @@
       "title": "mimo v3 is getting a new architecture the core of it hysparse2 is out today",
       "url": "reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wo7sfo": {
+      "at": "2026-09-24T07:36:59.875070+00:00",
+      "title": "perhaps the highest quality mainline quants of qwen3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wo7sfo/perhaps_the_highest_quality_mainline_quants_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wo8tr5": {
+      "at": "2026-09-24T07:36:59.875050+00:00",
+      "title": "streaming nemotron 3 diarization",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wo8tr5/streaming_nemotron_3_diarization"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woa5d3": {
       "at": "2026-09-23T18:26:13.104868+00:00",
       "title": "mimo v2 6 both pro and flash is a benchmaxxed scam",
       "url": "reddit.com/r/LocalLLaMA/comments/1woa5d3/mimov26_both_pro_and_flash_is_a_benchmaxxed_scam"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wodf84": {
+      "at": "2026-09-24T07:36:59.875007+00:00",
+      "title": "apple lensvlm 9b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wodf84/applelensvlm9b_hugging_face"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woe70t": {
       "at": "2026-09-23T22:59:06.946369+00:00",
@@ -8199,6 +8224,11 @@
       "at": "2026-09-23T22:59:06.946458+00:00",
       "title": "please google for the love of god",
       "url": "reddit.com/r/LocalLLaMA/comments/1wogfjx/please_google_for_the_love_of_god"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woi2ho": {
+      "at": "2026-09-24T07:36:59.875063+00:00",
+      "title": "qwen fn vs 27b think i m saturated",
+      "url": "reddit.com/r/LocalLLaMA/comments/1woi2ho/qwen_fn_vs_27b_think_im_saturated"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wol7zc": {
       "at": "2026-09-24T01:24:26.283793+00:00",
@@ -8556,6 +8586,6 @@
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-24T01:24:26.283839+00:00",
+  "updated_at": "2026-09-24T07:36:59.875129+00:00",
   "version": 2
 }
