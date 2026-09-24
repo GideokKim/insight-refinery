@@ -135,6 +135,11 @@
       "title": "google releases gemini 3 8 flash its third flash model in six weeks",
       "url": "arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks"
     },
+    "rss:https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/": {
+      "at": "2026-09-24T18:33:26.171417+00:00",
+      "title": "meta puts its ai assistant on a keychain",
+      "url": "arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain"
+    },
     "rss:https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/": {
       "at": "2026-09-17T22:53:10.073249+00:00",
       "title": "small ai models let drones autonomously identify and attack battlefield targets",
@@ -149,6 +154,11 @@
       "at": "2026-09-03T17:25:47.816075+00:00",
       "title": "nvidia buys hugging face the github of ai for 13 billion",
       "url": "arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion"
+    },
+    "rss:https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/": {
+      "at": "2026-09-24T18:33:26.171331+00:00",
+      "title": "openai agent didn t accept no for an answer in australian government breach",
+      "url": "arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach"
     },
     "rss:https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/": {
       "at": "2026-09-18T22:36:03.238478+00:00",
@@ -229,6 +239,11 @@
       "at": "2026-09-21T21:06:07.442217+00:00",
       "title": "google confirms gemini models hacked three companies in may 2026",
       "url": "arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026"
+    },
+    "rss:https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/": {
+      "at": "2026-09-24T18:33:26.171322+00:00",
+      "title": "google s first suncatcher orbital data center test launches october 1",
+      "url": "arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1"
     },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
@@ -370,6 +385,11 @@
       "title": "openai stuck fighting musk antitrust suit after apple finds a way out",
       "url": "arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/": {
+      "at": "2026-09-24T18:33:26.171367+00:00",
+      "title": "new jersey fines data center 1 1m after satellite pics expose 62 gas generators",
+      "url": "arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
       "at": "2026-09-10T22:36:21.831782+00:00",
       "title": "panic builds over bankrupt spirit s looming data sale to google",
@@ -434,6 +454,11 @@
       "at": "2026-09-15T18:14:05.265473+00:00",
       "title": "introducing gemini 3 8 live and 3 8 live extended thinking",
       "url": "deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking"
+    },
+    "rss:https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
+      "at": "2026-09-24T18:33:26.171311+00:00",
+      "title": "introducing gemini 3 8 live with live avatar",
+      "url": "deepmind.google/blog/introducing-gemini-38-live-with-live-avatar"
     },
     "rss:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": {
       "at": "2026-09-03T17:25:47.816122+00:00",
@@ -740,6 +765,11 @@
       "title": "manage kubernetes node fleets with nodewright",
       "url": "developer.nvidia.com/blog/manage-kubernetes-node-fleets-with-nodewright"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122860": {
+      "at": "2026-09-24T18:33:26.171351+00:00",
+      "title": "efficient moe training for biological foundation models",
+      "url": "developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -754,6 +784,11 @@
       "at": "2026-09-03T17:25:47.816198+00:00",
       "title": "neomme an efficient multimodal native and multilingual encoder",
       "url": "huggingface.co/blog/Hcompany/neomme"
+    },
+    "rss:https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark": {
+      "at": "2026-09-24T18:33:26.171409+00:00",
+      "title": "accelerating vision language models with lfm2 5 vl dspark",
+      "url": "huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
     },
     "rss:https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
       "at": "2026-08-20T17:18:50.768043+00:00",
@@ -4301,6 +4336,11 @@
       "title": "3 days left to save up to 200 and make impactful connections at techcrunch disrupt 2026",
       "url": "techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026"
     },
+    "rss:https://techcrunch.com/?p=3168031": {
+      "at": "2026-09-24T18:33:26.171392+00:00",
+      "title": "lovable s annualized revenue crosses 600m as vibe coding takes off",
+      "url": "techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off"
+    },
     "rss:https://techcrunch.com/?p=3168123": {
       "at": "2026-09-23T18:26:13.105055+00:00",
       "title": "even americans who use ai every day are worried about it",
@@ -4341,15 +4381,65 @@
       "title": "meta introduces camera free ai glasses",
       "url": "techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses"
     },
+    "rss:https://techcrunch.com/?p=3168635": {
+      "at": "2026-09-24T18:33:26.171485+00:00",
+      "title": "techcrunch founder summit 2026 everything you need to know",
+      "url": "techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know"
+    },
+    "rss:https://techcrunch.com/?p=3168643": {
+      "at": "2026-09-24T18:33:26.171499+00:00",
+      "title": "2 days left to save up to 200 on a techcrunch disrupt 2026 pass reason 4 of 5 to attend",
+      "url": "techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend"
+    },
     "rss:https://techcrunch.com/?p=3168692": {
       "at": "2026-09-24T01:24:26.283761+00:00",
       "title": "meta made a tamagotchi like wearable for its muse ai agent",
       "url": "techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent"
     },
+    "rss:https://techcrunch.com/?p=3168701": {
+      "at": "2026-09-24T18:33:26.171475+00:00",
+      "title": "techcrunch disrupt 2026 cal ai s zach yadegari on how to create viral growth and capitalize on it",
+      "url": "techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it"
+    },
     "rss:https://techcrunch.com/?p=3168743": {
       "at": "2026-09-24T13:48:03.937581+00:00",
       "title": "australia to investigate if openai hack of government health website broke the law",
       "url": "techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law"
+    },
+    "rss:https://techcrunch.com/?p=3168750": {
+      "at": "2026-09-24T18:33:26.171492+00:00",
+      "title": "shield ai waabi and general motors on building ai when failure is not an option at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3168786": {
+      "at": "2026-09-24T18:33:26.171401+00:00",
+      "title": "ando wants to take on slack with a team messaging app that lets humans and agents work together",
+      "url": "techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together"
+    },
+    "rss:https://techcrunch.com/?p=3168825": {
+      "at": "2026-09-24T18:33:26.171386+00:00",
+      "title": "google tests letting gemini call businesses for you",
+      "url": "techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners"
+    },
+    "rss:https://techcrunch.com/?p=3168895": {
+      "at": "2026-09-24T18:33:26.171458+00:00",
+      "title": "google photos clueless inspired virtual closet is now available on android and ios",
+      "url": "techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios"
+    },
+    "rss:https://techcrunch.com/?p=3169009": {
+      "at": "2026-09-24T18:33:26.171449+00:00",
+      "title": "meta s muse charm looks like a tamagotchi but it s tapping into a much newer trend",
+      "url": "techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend"
+    },
+    "rss:https://techcrunch.com/?p=3169016": {
+      "at": "2026-09-24T18:33:26.171467+00:00",
+      "title": "20 minutes with the ceo of elevenlabs now reportedly valued at 22b",
+      "url": "techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion"
+    },
+    "rss:https://techcrunch.com/?p=3169077": {
+      "at": "2026-09-24T18:33:26.171378+00:00",
+      "title": "oracle sends force majeure notice on its new mexico stargate data center",
+      "url": "techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4570,6 +4660,11 @@
       "at": "2026-09-12T17:11:05.008540+00:00",
       "title": "the rise of the forward deployed engineer and how to do the job right",
       "url": "latent.space/p/forward-deployed-engineer-best-practices"
+    },
+    "rss:https://www.latent.space/p/foundries-vs-navigators-lowering": {
+      "at": "2026-09-24T18:33:26.171343+00:00",
+      "title": "foundries vs navigators lowering the cost of science",
+      "url": "latent.space/p/foundries-vs-navigators-lowering"
     },
     "rss:https://www.latent.space/p/glean-model-routing": {
       "at": "2026-08-24T11:19:10.800860+00:00",
@@ -8260,6 +8355,16 @@
       "title": "using uncensored models makes working less of a headache",
       "url": "reddit.com/r/LocalLLaMA/comments/1wol7zc/using_uncensored_models_makes_working_less_of_a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wom3fe": {
+      "at": "2026-09-24T18:33:26.171439+00:00",
+      "title": "qwen 3 8 flash next q4_k_m 130k context q8 cache on 16gb vram ann 64gb ram 15 20 t s on 4080",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wom3fe/qwen_38_flash_next_q4_k_m_130k_context_q8_cache"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woscea": {
+      "at": "2026-09-24T18:33:26.171509+00:00",
+      "title": "contrastive language models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1woscea/contrastive_language_models"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wou3gr": {
       "at": "2026-09-24T13:48:03.937625+00:00",
       "title": "my foray into local ai two bc 250 ex mining apus running qwen3 6 35b a3b q4_k_m at 60 tok s with 64k context",
@@ -8274,6 +8379,26 @@
       "at": "2026-09-24T13:48:03.937647+00:00",
       "title": "folks have you purchased the mac m5 ultra with 256gb yet we need serious benchmarks because we only get youtube clowns influencers results",
       "url": "reddit.com/r/LocalLLaMA/comments/1wovkw5/folks_have_you_purchased_the_mac_m5_ultra_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1woxw7s": {
+      "at": "2026-09-24T18:33:26.171431+00:00",
+      "title": "lesson learned don t blindly trust repos and make sure everything is stable for a long running multi weeks benchmark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1woxw7s/lesson_learned_dont_blindly_trust_repos_and_make"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp0z3i": {
+      "at": "2026-09-24T18:33:26.171423+00:00",
+      "title": "qwen 3 8 27b is good enough that i stopped using api",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp0z3i/qwen3827b_is_good_enough_that_i_stopped_using_api"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp36gx": {
+      "at": "2026-09-24T18:33:26.171357+00:00",
+      "title": "list of entities hacked by openai grows by one",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp36gx/list_of_entities_hacked_by_openai_grows_by_one"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp6gal": {
+      "at": "2026-09-24T18:33:26.171261+00:00",
+      "title": "ukisai swift series 27b flash next and bonsai 2 gsq rco 63 4 thinking x1 95 speed with xhigh accuracy",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp6gal/ukisai_swift_series_27b_flash_next_and_bonsai_2"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -8626,6 +8751,6 @@
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-24T13:48:03.937672+00:00",
+  "updated_at": "2026-09-24T18:33:26.171554+00:00",
   "version": 2
 }
