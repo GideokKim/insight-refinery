@@ -210,6 +210,11 @@
       "title": "dyson s most overengineered gadget may have a waterproofing problem",
       "url": "arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why"
     },
+    "rss:https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/": {
+      "at": "2026-09-25T18:41:37.869473+00:00",
+      "title": "microsoft stops insisting you need a copilot pc",
+      "url": "arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc"
+    },
     "rss:https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/": {
       "at": "2026-09-23T18:26:13.104978+00:00",
       "title": "owners mourn spoiled food after firmware update bricks samsung smart fridges",
@@ -1696,6 +1701,11 @@
       "title": "tutoring company tells parents to save their money and use ai instead",
       "url": "afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
     },
+    "rss:https://news.ycombinator.com/item?id=49845952": {
+      "at": "2026-09-25T18:41:37.869453+00:00",
+      "title": "classified estimates show the nsa is paying billions to test ai models",
+      "url": "washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -2053,6 +2063,11 @@
       "at": "2026-09-22T18:13:43.596176+00:00",
       "title": "priorities and principles for effective third party assessments",
       "url": "openai.com/index/priorities-principles-third-party-assessments"
+    },
+    "rss:https://openai.com/index/proaction": {
+      "at": "2026-09-25T18:41:37.869525+00:00",
+      "title": "proaction boosts sales 60 and saves 75 hours with codex",
+      "url": "openai.com/index/proaction"
     },
     "rss:https://openai.com/index/put-data-to-work": {
       "at": "2026-09-10T17:44:00.126760+00:00",
@@ -2746,6 +2761,21 @@
       "at": "2026-09-24T23:13:27.775328+00:00",
       "title": "datasette 1 0a41",
       "url": "simonwillison.net/2026/Sep/24/datasette"
+    },
+    "rss:https://simonwillison.net/2026/Sep/24/harder/": {
+      "at": "2026-09-25T18:41:37.869520+00:00",
+      "title": "note on 24th september 2026",
+      "url": "simonwillison.net/2026/Sep/24/harder"
+    },
+    "rss:https://simonwillison.net/2026/Sep/25/john-gruber/": {
+      "at": "2026-09-25T18:41:37.869433+00:00",
+      "title": "quoting john gruber",
+      "url": "simonwillison.net/2026/Sep/25/john-gruber"
+    },
+    "rss:https://simonwillison.net/2026/Sep/25/sighting-403293902/": {
+      "at": "2026-09-25T18:41:37.869573+00:00",
+      "title": "northern gannet great blue heron california brown pelican",
+      "url": "simonwillison.net/2026/Sep/25/sighting-403293902"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -4481,6 +4511,16 @@
       "title": "prismml brings its tiny llms to qualcomm powered smart glasses",
       "url": "techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses"
     },
+    "rss:https://techcrunch.com/?p=3169207": {
+      "at": "2026-09-25T18:41:37.869558+00:00",
+      "title": "affected by layoffs don t miss this 75 deal for your techcrunch disrupt 2026 expo pass",
+      "url": "techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars"
+    },
+    "rss:https://techcrunch.com/?p=3169211": {
+      "at": "2026-09-25T18:41:37.869424+00:00",
+      "title": "some supabase customers are publicly exposing reams of people s data to the web",
+      "url": "techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web"
+    },
     "rss:https://techcrunch.com/?p=3169215": {
       "at": "2026-09-24T23:13:27.775460+00:00",
       "title": "bring your co founder partner or colleague and get 50 off a second techcrunch disrupt 2026 pass",
@@ -4490,6 +4530,41 @@
       "at": "2026-09-25T07:48:57.702653+00:00",
       "title": "lightspeed targets 250m for new india fund focusing on early stage ai",
       "url": "techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai"
+    },
+    "rss:https://techcrunch.com/?p=3169293": {
+      "at": "2026-09-25T18:41:37.869500+00:00",
+      "title": "for months openai s agent swarms have been attacking online databases to find obscure facts",
+      "url": "techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"
+    },
+    "rss:https://techcrunch.com/?p=3169398": {
+      "at": "2026-09-25T18:41:37.869566+00:00",
+      "title": "last 24 hours to save up to 200 on techcrunch disrupt 2026 reason 5 of 5 to attend momentum",
+      "url": "techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-of-5-to-attend-momentum"
+    },
+    "rss:https://techcrunch.com/?p=3169500": {
+      "at": "2026-09-25T18:41:37.869530+00:00",
+      "title": "techcrunch disrupt 2026 ricursive intelligence s anna goldie and azalia mirhoseini on when ai starts designing its own hardware",
+      "url": "techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware"
+    },
+    "rss:https://techcrunch.com/?p=3169621": {
+      "at": "2026-09-25T18:41:37.869495+00:00",
+      "title": "meta is putting its muscle behind muse as the ai app takes off",
+      "url": "techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off"
+    },
+    "rss:https://techcrunch.com/?p=3169652": {
+      "at": "2026-09-25T18:41:37.869508+00:00",
+      "title": "anthropic s founders seek voting control ahead of ipo",
+      "url": "techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3169728": {
+      "at": "2026-09-25T18:41:37.869488+00:00",
+      "title": "astra and opus just passed turing s other test",
+      "url": "techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test"
+    },
+    "rss:https://techcrunch.com/?p=3169917": {
+      "at": "2026-09-25T18:41:37.869364+00:00",
+      "title": "ahead of u s ipo british ai neocloud nscale secures 3 36b in convertible finacing",
+      "url": "techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4521,6 +4596,11 @@
       "title": "automattic s 33 hour coup and can ai labs police themselves",
       "url": "techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3169914": {
+      "at": "2026-09-25T18:41:37.869409+00:00",
+      "title": "meta s muse just stole the ai spotlight from openai and anthropic",
+      "url": "techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -4545,6 +4625,11 @@
       "at": "2026-09-18T17:41:47.674198+00:00",
       "title": "dario amodei and other ai leaders want to pace the frontier but how",
       "url": "techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3169926": {
+      "at": "2026-09-25T18:41:37.869440+00:00",
+      "title": "meta s ai tamagotchi bet is working",
+      "url": "techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -8490,6 +8575,11 @@
       "title": "qwen3 8 flash next on 12gb vram 65 tokens per second",
       "url": "reddit.com/r/LocalLLaMA/comments/1wp7zyb/qwen38flashnext_on_12gb_vram_65_tokens_per_second"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpaxud": {
+      "at": "2026-09-25T18:41:37.869461+00:00",
+      "title": "freedomintelligence huatuogpt 3 27b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpaxud/freedomintelligencehuatuogpt327b_hugging_face"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpbeb7": {
       "at": "2026-09-24T23:13:27.775447+00:00",
       "title": "meta muse appears to be excited to give away its system data",
@@ -8504,6 +8594,11 @@
       "at": "2026-09-25T13:48:26.429984+00:00",
       "title": "qwen3 8 27b practical modeling for 3d printing",
       "url": "reddit.com/r/LocalLLaMA/comments/1wpet4j/qwen38_27b_practical_modeling_for_3d_printing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpg4a8": {
+      "at": "2026-09-25T18:41:37.869551+00:00",
+      "title": "i m trying to post train aliceai foundation 80b a3b base myself",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpg4a8/im_trying_to_posttrain"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpgyfh": {
       "at": "2026-09-25T07:48:57.702699+00:00",
@@ -8535,10 +8630,30 @@
       "title": "former intel ceo hbm is lousy high bandwidth flash is coming",
       "url": "reddit.com/r/LocalLLaMA/comments/1wpprlr/former_intel_ceo_hbm_is_lousy_high_bandwidth"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpqyaz": {
+      "at": "2026-09-25T18:41:37.869545+00:00",
+      "title": "gemma 4 developer agent competition",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpqyaz/gemma_4_developer_agent_competition"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wptimb": {
+      "at": "2026-09-25T18:41:37.869514+00:00",
+      "title": "psa for m5ultra owners running llms set your prefill step to 8192",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wptimb/psa_for_m5ultra_owners_running_llms_set_your"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpvep4": {
       "at": "2026-09-25T13:48:26.429903+00:00",
       "title": "qwengram 0 8b i transferred qwen3 8 flash next s n gram memory into qwen3 5 0 8b 5 05 lower validation perplexity",
       "url": "reddit.com/r/LocalLLaMA/comments/1wpvep4/qwengram08b_i_transferred_qwen38_flashnexts_ngram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpxh2g": {
+      "at": "2026-09-25T18:41:37.869539+00:00",
+      "title": "how do you use subagents multiple agent with local models and how many",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpxh2g/how_do_you_use_subagents_multiple_agent_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq2hfc": {
+      "at": "2026-09-25T18:41:37.869481+00:00",
+      "title": "jev vs kev open source jev alternative tested side by side",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq2hfc/jev_vs_kev_opensource_jev_alternative_tested_side"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -8896,6 +9011,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-25T13:48:26.430032+00:00",
+  "updated_at": "2026-09-25T18:41:37.869599+00:00",
   "version": 2
 }

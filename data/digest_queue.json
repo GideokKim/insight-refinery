@@ -89,6 +89,160 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3169917",
+        "title": "Ahead of U.S. IPO, British AI neocloud Nscale secures $3.36B in convertible finacing",
+        "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+        "author": "Marina Temkin",
+        "published_at": "2026-09-25T18:33:59+00:00"
+      },
+      "insight": {
+        "title_ko": "영국 AI 네오클라우드 Nscale 33.6억 달러 조달",
+        "summary_ko": [
+          "영국의 AI 네오클라우드 기업 Nscale이 미국 IPO를 앞두고 33억 6000만 달러 규모의 전환사채 자금을 확보했습니다.",
+          "이번 투자에는 Third Point와 Nvidia 등이 참여하여 대규모 AI 데이터센터 인프라 확장을 지원합니다.",
+          "확보된 자금은 급증하는 AI 컴퓨팅 수요에 대응하기 위한 대규모 데이터센터 건설에 전액 투입될 예정입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?post_type=tc_podcast&p=3169914",
+        "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+        "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+        "author": "Anthony Ha, Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
+        "published_at": "2026-09-25T18:22:47+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta의 개인 AI 에이전트 Muse 출시",
+        "summary_ko": [
+          "Meta는 최근 새로운 개인 AI 에이전트 Muse를 공개하며 업계의 주목을 받고 있습니다.",
+          "이번 발표는 Anthropic의 Opus 5.5와 OpenAI의 GPT-6 업데이트와 맞물려 치열한 경쟁 구도를 형성했습니다.",
+          "Muse는 초기 ChatGPT를 능가하는 사용량 수치를 기록하며 향후 스마트 안경 등에 탑재될 예정입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3169211",
+        "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+        "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+        "author": "Zack Whittaker",
+        "published_at": "2026-09-25T17:29:46+00:00"
+      },
+      "insight": {
+        "title_ko": "Supabase 고객사 앱의 민감 데이터 노출",
+        "summary_ko": [
+          "일부 Supabase 고객사의 애플리케이션에서 사용자 데이터가 웹에 공개적으로 노출되는 보안 문제가 확인되었습니다.",
+          "이번 사건은 AI로 생성되거나 바이브 코딩 방식으로 만들어진 앱들이 적절히 설정 및 보안되지 않을 때 발생하는 위험을 보여줍니다.",
+          "개발자들은 AI 기반 도구로 개발된 애플리케이션을 배포할 때 철저한 보안 설정과 구성 검토를 수행해야 합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+        "title": "Quoting John Gruber",
+        "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+        "author": null,
+        "published_at": "2026-09-25T17:22:01+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta의 AI 에이전트 Muse의 위험성과 잠재력",
+        "summary_ko": [
+          "Meta가 공개한 Muse는 사용자마다 개별 Linux VM을 할당하는 기술적 혁신과 사용 편의성으로 큰 주목을 받고 있습니다.",
+          "Muse는 일반 소비자가 쉽게 접근할 수 있는 최초의 에이전틱 AI 시스템이지만, 그 강력한 성능만큼 위험성도 내포하고 있습니다.",
+          "전문가들은 소비자들이 이러한 강력한 AI 도구가 가진 보안 및 잠재적 위험성을 제대로 이해하고 있는지 의문을 제기합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?post_type=tc_video&p=3169926",
+        "title": "Meta’s AI Tamagotchi bet is…working?",
+        "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
+        "author": "Theresa Loconsolo",
+        "published_at": "2026-09-25T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta의 AI 에이전트 Muse 흥행과 모델 경쟁",
+        "summary_ko": [
+          "OpenAI와 Anthropic이 각각 GPT-6 업데이트와 Opus 5.5를 출시하며 모델 경쟁을 벌이고 있습니다.",
+          "이러한 대형 모델 출시 속에서도 Meta의 개인용 AI 에이전트 Muse가 초기 ChatGPT를 뛰어넘는 성과를 보이고 있습니다.",
+          "Meta의 AI 에이전트 Muse는 향후 스마트 기기와 안경 등에 탑재될 예정입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49845952",
+        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "author": "rdmuser",
+        "published_at": "2026-09-25T15:27:35+00:00"
+      },
+      "insight": {
+        "title_ko": "NSA의 대규모 AI 모델 테스트",
+        "summary_ko": [
+          "비밀 추정치에 따르면 NSA가 AI 모델 테스트를 위해 수십억 달러를 지출하고 있다.",
+          "정부 기관이 첨단 AI 모델의 성능과 안정성을 검증하는 데 막대한 예산을 투입 중이다.",
+          "국가 안보 분야에서 AI 기술의 도입과 평가가 본격적으로 진행되고 있음을 보여준다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wpaxud",
+        "title": "FreedomIntelligence/HuatuoGPT-3-27B · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpaxud/freedomintelligencehuatuogpt327b_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-24T19:20:54+00:00"
+      },
+      "insight": {
+        "title_ko": "의학용 오픈소스 LLM HuatuoGPT-3-27B 공개",
+        "summary_ko": [
+          "FreedomIntelligence는 Qwen3.8-27B 기반의 의료용 LLM인 HuatuoGPT-3-27B를 허깅페이스에 공개했습니다.",
+          "이 모델은 사전 도메인 파인튜닝 없이 강화학습 단계를 거치는 OnePO 기법을 적용하여 의료 분야에 특화되었습니다.",
+          "연구팀은 학습 코드와 의료용 강화학습 데이터셋뿐만 아니라 8B 규모의 루브릭 채점기도 함께 오픈소스화했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
