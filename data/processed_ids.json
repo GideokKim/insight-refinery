@@ -250,6 +250,11 @@
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
       "url": "arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs"
     },
+    "rss:https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/": {
+      "at": "2026-09-25T13:48:26.429947+00:00",
+      "title": "trump admin using ai to deny medical care for seniors in disastrous experiment",
+      "url": "arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment"
+    },
     "rss:https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/": {
       "at": "2026-09-09T17:52:30.546263+00:00",
       "title": "google s ai genome system evaluates every possible one base change",
@@ -8495,6 +8500,11 @@
       "title": "qwen 3 8 27b be like",
       "url": "reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpet4j": {
+      "at": "2026-09-25T13:48:26.429984+00:00",
+      "title": "qwen3 8 27b practical modeling for 3d printing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpet4j/qwen38_27b_practical_modeling_for_3d_printing"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpgyfh": {
       "at": "2026-09-25T07:48:57.702699+00:00",
       "title": "is qwen flash next at like q2 better than 27b at q4",
@@ -8514,6 +8524,21 @@
       "at": "2026-09-25T07:48:57.702669+00:00",
       "title": "m5 ultra 80core glm 5 3 flash on dwarfstar speeds",
       "url": "reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpp28m": {
+      "at": "2026-09-25T13:48:26.429994+00:00",
+      "title": "did anyone do a full bench of e g qwen flash next iq4 and qwen 27b fp8 here are some",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpp28m/did_anyone_do_a_full_bench_of_eg_qwen_flash_next"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpprlr": {
+      "at": "2026-09-25T13:48:26.429962+00:00",
+      "title": "former intel ceo hbm is lousy high bandwidth flash is coming",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpprlr/former_intel_ceo_hbm_is_lousy_high_bandwidth"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpvep4": {
+      "at": "2026-09-25T13:48:26.429903+00:00",
+      "title": "qwengram 0 8b i transferred qwen3 8 flash next s n gram memory into qwen3 5 0 8b 5 05 lower validation perplexity",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpvep4/qwengram08b_i_transferred_qwen38_flashnexts_ngram"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -8864,8 +8889,13 @@
       "at": "2026-09-23T22:59:06.946215+00:00",
       "title": "the ai hype index ai loves cheating",
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
+    },
+    "rss:https://www.technologyreview.com/?p=1145144": {
+      "at": "2026-09-25T13:48:26.429974+00:00",
+      "title": "the pentagon wants 30 million to build an ai powered lie detector",
+      "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-25T07:48:57.702800+00:00",
+  "updated_at": "2026-09-25T13:48:26.430032+00:00",
   "version": 2
 }

@@ -23,6 +23,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wpvep4",
+        "title": "Qwengram-0.8B: I transferred Qwen3.8 Flash-Next’s n-gram memory into Qwen3.5-0.8B — 5.05% lower validation perplexity",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpvep4/qwengram08b_i_transferred_qwen38_flashnexts_ngram/",
+        "author": "/u/Nicolodeva",
+        "published_at": "2026-09-25T12:46:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwengram-0.8B 모델 개발",
+        "summary_ko": [
+          "대형 모델의 PLE n-gram 메모리를 소형 Qwen3.5-0.8B 모델에 이전하여 검증 퍼플렉시티를 5.05% 낮추었습니다.",
+          "동적 토큰 수준 게이트와 리더 구조를 도입해 백본 미세조정 없이 성능 손실을 최소화했습니다.",
+          "llama.cpp 런타임 구현과 GGUF 아티팩트를 공개하여 로컬 환경에서의 재현과 확장이 가능합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+        "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+        "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+        "author": "Beth Mole",
+        "published_at": "2026-09-25T11:00:28+00:00"
+      },
+      "insight": {
+        "title_ko": "트럼프 행정부의 노인 의료 AI 사전승인 도입 논란",
+        "summary_ko": [
+          "트럼프 행정부는 지난 1월 Medicare 환자의 의료 서비스 승인 여부를 결정하는 AI 파일럿 프로그램 WISeR를 도입했습니다.",
+          "이 프로그램은 기술적 결함과 불합리한 진료 거부로 인해 환자와 의료진에게 심각한 고통을 안겨주며 큰 비판을 받고 있습니다.",
+          "정부 책무성 GAO는 해당 프로그램의 절차적 위법성을 지적했음에도 불구하고 정부는 향후 확장을 추진 중입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wpprlr",
+        "title": "Former Intel CEO: \"HBM is lousy\". High Bandwidth Flash Is Coming",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpprlr/former_intel_ceo_hbm_is_lousy_high_bandwidth/",
+        "author": "/u/Glittering_Depth_722",
+        "published_at": "2026-09-25T07:15:37+00:00"
+      },
+      "insight": {
+        "title_ko": "HBM의 한계와 고대역폭 플래시 대두",
+        "summary_ko": [
+          "전직 인텔 CEO와 SK하이닉스 부사장이 HBM 메모리의 기술적 한계와 비효율성을 지적했습니다.",
+          "HBM 적층 구조가 높아질수록 각 코어 다이의 처리량이 저하되는 문제가 발생할 수 있습니다.",
+          "향후 HBM을 대체할 고대역폭 플래시 기술이 메모리 병목 현상의 새로운 해결책으로 주목받고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
