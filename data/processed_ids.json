@@ -4736,6 +4736,11 @@
       "title": "humanity s last invention richard socher of recursive",
       "url": "latent.space/p/recursive"
     },
+    "rss:https://www.latent.space/p/runway": {
+      "at": "2026-09-25T01:36:01.536830+00:00",
+      "title": "runway s worldprompt and the engineering of real time worlds",
+      "url": "latent.space/p/runway"
+    },
     "rss:https://www.latent.space/p/simile": {
       "at": "2026-08-24T11:05:22.951509+00:00",
       "title": "simulation the new scaling law joon sung park simile ai",
@@ -8435,6 +8440,11 @@
       "title": "list of entities hacked by openai grows by one",
       "url": "reddit.com/r/LocalLLaMA/comments/1wp36gx/list_of_entities_hacked_by_openai_grows_by_one"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp5668": {
+      "at": "2026-09-25T01:36:01.536876+00:00",
+      "title": "psa llama cpp cram should be increased for agentic workflows default is 8192",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wp5668/psa_llamacpp_cram_should_be_increased_for_agentic"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wp5vqr": {
       "at": "2026-09-24T23:13:27.775275+00:00",
       "title": "thinkingcap 3 8 27b vs swift 3 8 27b vs qwen 3 8 27b benchmarks",
@@ -8816,6 +8826,6 @@
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-24T23:13:27.775520+00:00",
+  "updated_at": "2026-09-25T01:36:01.536919+00:00",
   "version": 2
 }

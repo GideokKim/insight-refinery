@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-24T23:13:25.824183+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/runway",
+        "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
+        "url": "https://www.latent.space/p/runway",
+        "author": "Richard MacManus",
+        "published_at": "2026-09-25T01:30:57+00:00"
+      },
+      "insight": {
+        "title_ko": "Runway GWM Worlds 2와 WorldPrompt 분석",
+        "summary_ko": [
+          "Runway는 고화질 비디오와 오디오를 실시간 인터랙티브 시뮬레이션으로 전환하는 GWM Worlds 2를 공개했다.",
+          "새롭게 도입된 WorldPrompt는 사용자가 캐릭터와 카메라 및 환경을 제어할 수 있는 입력 포맷을 제공한다.",
+          "이 기술은 스크립팅 없이도 프롬프트만으로 동기화된 가상 세계를 생성하여 실시간 월드 모델의 가능성을 확장한다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
