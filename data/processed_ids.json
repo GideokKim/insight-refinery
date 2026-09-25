@@ -85,6 +85,11 @@
       "title": "ai leaders want to hit the brakes after years of reckless speed",
       "url": "arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed"
     },
+    "rss:https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/": {
+      "at": "2026-09-25T23:18:56.768206+00:00",
+      "title": "ai was supposed to hit new grads hard so far unemployment data says otherwise",
+      "url": "arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise"
+    },
     "rss:https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/": {
       "at": "2026-09-09T17:52:30.546213+00:00",
       "title": "anthropic researcher quits with a warning self improving ai could kill us all",
@@ -169,6 +174,11 @@
       "at": "2026-09-18T17:41:47.674298+00:00",
       "title": "researchers used claude to hack openai",
       "url": "arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai"
+    },
+    "rss:https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/": {
+      "at": "2026-09-25T23:18:56.768142+00:00",
+      "title": "tesla workers balk at training optimus humanoid robots as replacements",
+      "url": "arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements"
     },
     "rss:https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
       "at": "2026-09-07T13:45:40.011949+00:00",
@@ -374,6 +384,11 @@
       "at": "2026-09-23T22:59:06.946273+00:00",
       "title": "trump s china rivalry and ai race delusion may endanger us experts say",
       "url": "arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/": {
+      "at": "2026-09-25T23:18:56.768030+00:00",
+      "title": "court rules trump can blacklist anthropic for refusing to enable claude features",
+      "url": "arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/": {
       "at": "2026-09-22T22:59:04.939958+00:00",
@@ -4561,10 +4576,30 @@
       "title": "astra and opus just passed turing s other test",
       "url": "techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test"
     },
+    "rss:https://techcrunch.com/?p=3169815": {
+      "at": "2026-09-25T23:18:56.768103+00:00",
+      "title": "anthropic to pay akamai 11 6 billion over seven years in cloud deal",
+      "url": "techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal"
+    },
     "rss:https://techcrunch.com/?p=3169917": {
       "at": "2026-09-25T18:41:37.869364+00:00",
       "title": "ahead of u s ipo british ai neocloud nscale secures 3 36b in convertible finacing",
       "url": "techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing"
+    },
+    "rss:https://techcrunch.com/?p=3170007": {
+      "at": "2026-09-25T23:18:56.768267+00:00",
+      "title": "meta opens early access program for new muse features",
+      "url": "techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features"
+    },
+    "rss:https://techcrunch.com/?p=3170030": {
+      "at": "2026-09-25T23:18:56.768124+00:00",
+      "title": "crusoe abandons 1 25b plan to use boom turbines at ai data centers",
+      "url": "techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers"
+    },
+    "rss:https://techcrunch.com/?p=3170070": {
+      "at": "2026-09-25T23:18:56.768003+00:00",
+      "title": "unsecured openai agents posted 53 user images on the internet without the lab s knowledge",
+      "url": "techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4835,6 +4870,11 @@
       "at": "2026-08-26T18:46:54.599596+00:00",
       "title": "the future of saas is apps that agents can use",
       "url": "latent.space/p/lovable-future-of-saas"
+    },
+    "rss:https://www.latent.space/p/openrouter": {
+      "at": "2026-09-25T23:18:56.767944+00:00",
+      "title": "openrouter from seed to stripe with openrouter s alex atallah amp s anjney midha",
+      "url": "latent.space/p/openrouter"
     },
     "rss:https://www.latent.space/p/pr-not-welcome": {
       "at": "2026-09-01T17:32:37.259604+00:00",
@@ -8650,10 +8690,40 @@
       "title": "how do you use subagents multiple agent with local models and how many",
       "url": "reddit.com/r/LocalLLaMA/comments/1wpxh2g/how_do_you_use_subagents_multiple_agent_with"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq1rmf": {
+      "at": "2026-09-25T23:18:56.768238+00:00",
+      "title": "make volta fast again",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq1rmf/make_volta_fast_again"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq2hfc": {
       "at": "2026-09-25T18:41:37.869481+00:00",
       "title": "jev vs kev open source jev alternative tested side by side",
       "url": "reddit.com/r/LocalLLaMA/comments/1wq2hfc/jev_vs_kev_opensource_jev_alternative_tested_side"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq3wn6": {
+      "at": "2026-09-25T23:18:56.768226+00:00",
+      "title": "trained my first small language model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq3wn6/trained_my_first_small_language_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq56pf": {
+      "at": "2026-09-25T23:18:56.768183+00:00",
+      "title": "swift1 5 qwen3 8 flash next is phenomenal vs base 3 8 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq56pf/swift15qwen38flashnext_is_phenomenal_vs_base"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq672b": {
+      "at": "2026-09-25T23:18:56.768076+00:00",
+      "title": "i ran the actual break even math on buying vs renting an h200 box and it is not where i expected",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq672b/i_ran_the_actual_breakeven_math_on_buying_vs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq7e74": {
+      "at": "2026-09-25T23:18:56.768164+00:00",
+      "title": "4 5 days replacing claude w qwen 3 8 next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq7e74/45_days_replacing_claude_w_qwen_38_next"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq8e5u": {
+      "at": "2026-09-25T23:18:56.768250+00:00",
+      "title": "how long can i expect to wait until the local 30b a3b frontier catches up to glm 5 3 flash quality",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9011,6 +9081,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-25T18:41:37.869599+00:00",
+  "updated_at": "2026-09-25T23:18:56.768310+00:00",
   "version": 2
 }
