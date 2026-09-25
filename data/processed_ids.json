@@ -1681,6 +1681,16 @@
       "title": "that s so ai what gen alpha s biggest insult tells us",
       "url": "theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us"
     },
+    "rss:https://news.ycombinator.com/item?id=49831269": {
+      "at": "2026-09-25T07:48:57.702730+00:00",
+      "title": "ai safety is mostly a sex cult in berkeley",
+      "url": "verysane.ai/p/ai-safety-is-mostly-a-sex-cult-in"
+    },
+    "rss:https://news.ycombinator.com/item?id=49831690": {
+      "at": "2026-09-25T07:48:57.702712+00:00",
+      "title": "tutoring company tells parents to save their money and use ai instead",
+      "url": "afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -4471,6 +4481,11 @@
       "title": "bring your co founder partner or colleague and get 50 off a second techcrunch disrupt 2026 pass",
       "url": "techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass"
     },
+    "rss:https://techcrunch.com/?p=3169287": {
+      "at": "2026-09-25T07:48:57.702653+00:00",
+      "title": "lightspeed targets 250m for new india fund focusing on early stage ai",
+      "url": "techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -4655,6 +4670,11 @@
       "at": "2026-08-24T11:19:10.800698+00:00",
       "title": "ainews stripe buys openrouter for 7b",
       "url": "latent.space/p/ainews-stripe-buys-openrouter-for"
+    },
+    "rss:https://www.latent.space/p/ainews-the-future-of-latent-space": {
+      "at": "2026-09-25T07:48:57.702583+00:00",
+      "title": "ainews the future of latent space",
+      "url": "latent.space/p/ainews-the-future-of-latent-space"
     },
     "rss:https://www.latent.space/p/ainews-xiaomi-mimo-v26-pro-1t-a42b": {
       "at": "2026-09-22T07:43:11.181332+00:00",
@@ -8475,6 +8495,26 @@
       "title": "qwen 3 8 27b be like",
       "url": "reddit.com/r/LocalLLaMA/comments/1wpdho8/qwen_38_27b_be_like"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpgyfh": {
+      "at": "2026-09-25T07:48:57.702699+00:00",
+      "title": "is qwen flash next at like q2 better than 27b at q4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpgyfh/is_qwen_flash_next_at_like_q2_better_than_27b_at"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wphb3w": {
+      "at": "2026-09-25T07:48:57.702683+00:00",
+      "title": "asianometry high bandwidth flash what is it good for",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wphb3w/asianometry_high_bandwidth_flash_what_is_it_good"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpieby": {
+      "at": "2026-09-25T07:48:57.702630+00:00",
+      "title": "i added openvino support to laya 40 ms per question on cpu 3 4x faster than pytorch",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpieby/i_added_openvino_support_to_laya_40_ms_per"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wpkz0o": {
+      "at": "2026-09-25T07:48:57.702669+00:00",
+      "title": "m5 ultra 80core glm 5 3 flash on dwarfstar speeds",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wpkz0o/m5_ultra_80core_glm53flash_on_dwarfstar_speeds"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -8826,6 +8866,6 @@
       "url": "technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
     }
   },
-  "updated_at": "2026-09-25T01:36:01.536919+00:00",
+  "updated_at": "2026-09-25T07:48:57.702800+00:00",
   "version": 2
 }
