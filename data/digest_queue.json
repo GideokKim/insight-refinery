@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-25T23:18:54.649536+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wqahbz",
+        "title": "Mica v0.1 4B got an iron pickaxe in real Minecraft without generating a single token",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqahbz/mica_v01_4b_got_an_iron_pickaxe_in_real_minecraft/",
+        "author": "/u/Top-Evidence174",
+        "published_at": "2026-09-25T22:55:19+00:00"
+      },
+      "insight": {
+        "title_ko": "토큰 생성 없이 마인크래프트를 플레이하는 Mica v0.1 4B",
+        "summary_ko": [
+          "Mica v0.1 4B 모델은 텍스트를 생성하는 대신 후보 명령어 토큰의 확률을 읽어 마인크래프트를 플레이합니다.",
+          "이 모델은 빈 인벤토리에서 시작해 23번의 결정만으로 철 곡괭이를 제작하는 과정을 성공적으로 수행했습니다.",
+          "llama.cpp와 RTX 3090 환경에서 결정당 약 90~150ms의 속도를 기록하며 실무적 가치를 보여줍니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wq76f6",
+        "title": "Qwen3.8-27B: Using KV Cache Transplants to Boost Output Quality",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq76f6/qwen3827b_using_kv_cache_transplants_to_boost/",
+        "author": "/u/wadeAlexC",
+        "published_at": "2026-09-25T20:35:28+00:00"
+      },
+      "insight": {
+        "title_ko": "KV Cache 이식과 동적 양자화 기법",
+        "summary_ko": [
+          "동일한 아키텍처를 가진 LLM 간에 KV Cache를 직접 이식하는 기법을 활용해 추론 성능을 높이는 실험이 진행되었습니다.",
+          "고정밀 양자화 모델로 추론을 시작한 뒤 메모리 부족 시 저정밀 양자화 모델로 전환하는 동적 전략이 검증되었습니다.",
+          "벤치마크 결과, 동적 양자화와 KV Cache 활용을 결합한 방식이 저정밀 모델을 단독으로 사용할 때보다 더 나은 결과를 보였습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

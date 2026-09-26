@@ -4521,6 +4521,11 @@
       "title": "oracle sends force majeure notice on its new mexico stargate data center",
       "url": "techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center"
     },
+    "rss:https://techcrunch.com/?p=3169081": {
+      "at": "2026-09-26T07:41:57.595284+00:00",
+      "title": "at meta connect the company s smart glasses were everywhere",
+      "url": "techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere"
+    },
     "rss:https://techcrunch.com/?p=3169128": {
       "at": "2026-09-24T23:13:27.775340+00:00",
       "title": "prismml brings its tiny llms to qualcomm powered smart glasses",
@@ -8705,6 +8710,11 @@
       "title": "trained my first small language model",
       "url": "reddit.com/r/LocalLLaMA/comments/1wq3wn6/trained_my_first_small_language_model"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq53j1": {
+      "at": "2026-09-26T07:41:57.595317+00:00",
+      "title": "is there a lightweight version of hermes agent",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq53j1/is_there_a_lightweight_version_of_hermes_agent"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq56pf": {
       "at": "2026-09-25T23:18:56.768183+00:00",
       "title": "swift1 5 qwen3 8 flash next is phenomenal vs base 3 8 flash",
@@ -8715,6 +8725,11 @@
       "title": "i ran the actual break even math on buying vs renting an h200 box and it is not where i expected",
       "url": "reddit.com/r/LocalLLaMA/comments/1wq672b/i_ran_the_actual_breakeven_math_on_buying_vs"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq76f6": {
+      "at": "2026-09-26T07:41:57.595229+00:00",
+      "title": "qwen3 8 27b using kv cache transplants to boost output quality",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wq76f6/qwen3827b_using_kv_cache_transplants_to_boost"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wq7e74": {
       "at": "2026-09-25T23:18:56.768164+00:00",
       "title": "4 5 days replacing claude w qwen 3 8 next",
@@ -8724,6 +8739,31 @@
       "at": "2026-09-25T23:18:56.768250+00:00",
       "title": "how long can i expect to wait until the local 30b a3b frontier catches up to glm 5 3 flash quality",
       "url": "reddit.com/r/LocalLLaMA/comments/1wq8e5u/how_long_can_i_expect_to_wait_until_the_local_30b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqahbz": {
+      "at": "2026-09-26T07:41:57.595187+00:00",
+      "title": "mica v0 1 4b got an iron pickaxe in real minecraft without generating a single token",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqahbz/mica_v01_4b_got_an_iron_pickaxe_in_real_minecraft"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqc09e": {
+      "at": "2026-09-26T07:41:57.595303+00:00",
+      "title": "are there still any hidden gem gpu s left",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqc09e/are_there_still_any_hidden_gem_gpus_left"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqcil9": {
+      "at": "2026-09-26T07:41:57.595333+00:00",
+      "title": "blabbermouth ai coding agents hate this one weird trick",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqcil9/blabbermouth_ai_coding_agents_hate_this_one_weird"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqcki2": {
+      "at": "2026-09-26T07:41:57.595269+00:00",
+      "title": "custom models in oh my pi vllm llama cpp sglang and more",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqcki2/custom_models_in_oh_my_pi_vllm_llamacpp_sglang"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqcrly": {
+      "at": "2026-09-26T07:41:57.595252+00:00",
+      "title": "ling tiny 3 0 is a glimpse of the future",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9081,6 +9121,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-25T23:18:56.768310+00:00",
+  "updated_at": "2026-09-26T07:41:57.595380+00:00",
   "version": 2
 }
