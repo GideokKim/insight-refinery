@@ -1716,10 +1716,20 @@
       "title": "tutoring company tells parents to save their money and use ai instead",
       "url": "afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
     },
+    "rss:https://news.ycombinator.com/item?id=49844896": {
+      "at": "2026-09-26T13:06:08.680893+00:00",
+      "title": "microsoft abandons personal ai chatbot race with copilot reboot",
+      "url": "bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot"
+    },
     "rss:https://news.ycombinator.com/item?id=49845952": {
       "at": "2026-09-25T18:41:37.869453+00:00",
       "title": "classified estimates show the nsa is paying billions to test ai models",
       "url": "washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models"
+    },
+    "rss:https://news.ycombinator.com/item?id=49849625": {
+      "at": "2026-09-26T13:06:08.680925+00:00",
+      "title": "too ai didn t read",
+      "url": "tai-dr.com/"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -8765,6 +8775,21 @@
       "title": "ling tiny 3 0 is a glimpse of the future",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqj4zg": {
+      "at": "2026-09-26T13:06:08.680864+00:00",
+      "title": "ggml cpu tiled mul_mat for k quants by jbooth pull request 27851 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqj4zg/ggmlcpu_tiled_mul_mat_for_kquants_by_jbooth_pull"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqkb3v": {
+      "at": "2026-09-26T13:06:08.680911+00:00",
+      "title": "swift 1 5 27b swift qwen just got faster",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqkb3v/swift_15_27b_swift_qwen_just_got_faster"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqlyp8": {
+      "at": "2026-09-26T13:06:08.680820+00:00",
+      "title": "introducing koboldcpp agent and a plea for help",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -9121,6 +9146,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-26T07:41:57.595380+00:00",
+  "updated_at": "2026-09-26T13:06:08.680969+00:00",
   "version": 2
 }

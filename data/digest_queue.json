@@ -45,6 +45,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wqlyp8",
+        "title": "Introducing KoboldCpp Agent (and a plea for help)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help/",
+        "author": "/u/HadesThrowaway",
+        "published_at": "2026-09-26T09:13:29+00:00"
+      },
+      "insight": {
+        "title_ko": "KoboldCpp 에이전트 기능 및 피싱 사이트 주의",
+        "summary_ko": [
+          "KoboldCpp가 복잡한 외부 도구를 대체하는 내장 에이전트 하네스를 새롭게 출시했습니다.",
+          "이 에이전트는 9개의 기본 도구와 2k 토큰의 작은 시스템 프롬프트로 가볍게 작동합니다.",
+          "개발자는 구글 검색에 노출된 악성 피싱 사이트(kobolcpp.com)에 대한 주의와 신고 동참을 호소했습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wqj4zg",
+        "title": "ggml-cpu: tiled mul_mat for k-quants by jbooth · Pull Request #27851 · ggml-org/llama.cpp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqj4zg/ggmlcpu_tiled_mul_mat_for_kquants_by_jbooth_pull/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-26T06:18:19+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp, CPU 프롬프트 처리 속도 개선 PR 등록",
+        "summary_ko": [
+          "llama.cpp 프로젝트의 ggml-cpu에서 K-quants를 위한 타일링된 mul_mat 연산 개선이 제안되었습니다.",
+          "VNNI 기술을 활용하여 코드 복잡도를 최소화하면서도 CPU 행렬곱 연산 속도를 3배에서 7배까지 향상시킵니다.",
+          "이번 업데이트는 로컬 환경에서 대규모 언어 모델의 CPU 프롬프트 처리 성능을 크게 높여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49844896",
+        "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+        "author": "sbulaev",
+        "published_at": "2026-09-25T14:07:08+00:00"
+      },
+      "insight": {
+        "title_ko": "마이크로소프트, Copilot 개편으로 개인용 AI 챗봇 경쟁 철수",
+        "summary_ko": [
+          "마이크로소프트가 Copilot 개편을 통해 개인용 AI 챗봇 시장 경쟁에서 철수하는 움직임을 보였다.",
+          "이번 전략 수정은 범용 챗봇 중심에서 실무와 생산성 도구 위주로 AI 방향성을 전환하려는 의도로 분석된다.",
+          "해당 변화는 향후 빅테크 기업들의 AI 제품군 재편과 시장 전략에 중요한 영향을 미칠 전망이다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
