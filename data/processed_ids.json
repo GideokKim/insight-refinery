@@ -1716,6 +1716,11 @@
       "title": "tutoring company tells parents to save their money and use ai instead",
       "url": "afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r"
     },
+    "rss:https://news.ycombinator.com/item?id=49836579": {
+      "at": "2026-09-26T22:50:49.893827+00:00",
+      "title": "how i changed teaching after ai managed to do all my homework assignments",
+      "url": "thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
+    },
     "rss:https://news.ycombinator.com/item?id=49844896": {
       "at": "2026-09-26T13:06:08.680893+00:00",
       "title": "microsoft abandons personal ai chatbot race with copilot reboot",
@@ -4625,6 +4630,11 @@
       "at": "2026-09-25T23:18:56.768003+00:00",
       "title": "unsecured openai agents posted 53 user images on the internet without the lab s knowledge",
       "url": "techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge"
+    },
+    "rss:https://techcrunch.com/?p=3170285": {
+      "at": "2026-09-26T22:50:49.893799+00:00",
+      "title": "insurers claim ai is already increasing healthcare costs",
+      "url": "techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -8765,6 +8775,11 @@
       "title": "mica v0 1 4b got an iron pickaxe in real minecraft without generating a single token",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqahbz/mica_v01_4b_got_an_iron_pickaxe_in_real_minecraft"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqai4b": {
+      "at": "2026-09-26T22:50:49.893813+00:00",
+      "title": "kev 4b topped out in every tetris game i ran mica v0 1 4b cleared about 4x more lines and survived two of them to the end",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqai4b/kev_4b_topped_out_in_every_tetris_game_i_ran_mica"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqc09e": {
       "at": "2026-09-26T07:41:57.595303+00:00",
       "title": "are there still any hidden gem gpu s left",
@@ -8785,6 +8800,11 @@
       "title": "ling tiny 3 0 is a glimpse of the future",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqcrly/ling_tiny_30_is_a_glimpse_of_the_future"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqidhr": {
+      "at": "2026-09-26T22:50:49.893866+00:00",
+      "title": "what are you doing between prompts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqidhr/what_are_you_doing_between_prompts"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqj4zg": {
       "at": "2026-09-26T13:06:08.680864+00:00",
       "title": "ggml cpu tiled mul_mat for k quants by jbooth pull request 27851 ggml org llama cpp",
@@ -8794,6 +8814,11 @@
       "at": "2026-09-26T13:06:08.680911+00:00",
       "title": "swift 1 5 27b swift qwen just got faster",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqkb3v/swift_15_27b_swift_qwen_just_got_faster"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqloas": {
+      "at": "2026-09-26T22:50:49.893759+00:00",
+      "title": "internlm intern decision 4b and 0 8b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqloas/internlminterndecision_4b_and_08b"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqlyp8": {
       "at": "2026-09-26T13:06:08.680820+00:00",
@@ -8805,10 +8830,20 @@
       "title": "the future of local ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqo8zm/the_future_of_local_ai"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqrajy": {
+      "at": "2026-09-26T22:50:49.893838+00:00",
+      "title": "for the longest time i ve felt this sub should have a pinned section where a detailed post about each model should get featured",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqrajy/for_the_longest_time_ive_felt_this_sub_should"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqs2t8": {
       "at": "2026-09-26T17:46:46.824676+00:00",
       "title": "2400cc inference racer dual rtx 3090 motors nvlink turbo naked 7840u thinkpad ecu vw golf radiator",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqwzk3": {
+      "at": "2026-09-26T22:50:49.893856+00:00",
+      "title": "new to playing around with local ai why are they free",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9166,6 +9201,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-26T17:46:46.824807+00:00",
+  "updated_at": "2026-09-26T22:50:49.893925+00:00",
   "version": 2
 }

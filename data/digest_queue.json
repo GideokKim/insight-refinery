@@ -111,6 +111,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wqloas",
+        "title": "internlm/Intern-Decision 4B and 0.8B",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqloas/internlminterndecision_4b_and_08b/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-09-26T08:54:52+00:00"
+      },
+      "insight": {
+        "title_ko": "Intern-Decision 다중 모달 구조화 결정 모델 출시",
+        "summary_ko": [
+          "internlm 팀은 Qwen3.5-4B 기반으로 미세조정한 Intern-Decision 4B와 0.8B 모델을 공개했습니다.",
+          "이 모델은 공유 상태와 질문 스키마를 입력받아 한 번의 순방향 연산으로 모든 질문에 대한 응답 분포를 반환합니다.",
+          "자유 형식의 텍스트 생성 대신 후보 심볼 로짓을 통한 구조화된 결정 스코어링 방식을 사용합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
