@@ -1731,6 +1731,11 @@
       "title": "too ai didn t read",
       "url": "tai-dr.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=49855018": {
+      "at": "2026-09-26T17:46:46.824753+00:00",
+      "title": "one month without ai",
+      "url": "blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -4405,6 +4410,11 @@
       "at": "2026-09-22T22:59:04.940004+00:00",
       "title": "meta admits muse s likeness to openclaw isn t a coincidence",
       "url": "techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence"
+    },
+    "rss:https://techcrunch.com/?p=3167791": {
+      "at": "2026-09-26T17:46:46.824720+00:00",
+      "title": "i created an interactive digital avatar of myself and you can talk to it",
+      "url": "techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it"
     },
     "rss:https://techcrunch.com/?p=3167901": {
       "at": "2026-09-22T22:59:04.939995+00:00",
@@ -8790,6 +8800,16 @@
       "title": "introducing koboldcpp agent and a plea for help",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqo8zm": {
+      "at": "2026-09-26T17:46:46.824740+00:00",
+      "title": "the future of local ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqo8zm/the_future_of_local_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqs2t8": {
+      "at": "2026-09-26T17:46:46.824676+00:00",
+      "title": "2400cc inference racer dual rtx 3090 motors nvlink turbo naked 7840u thinkpad ecu vw golf radiator",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -9146,6 +9166,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-26T13:06:08.680969+00:00",
+  "updated_at": "2026-09-26T17:46:46.824807+00:00",
   "version": 2
 }
