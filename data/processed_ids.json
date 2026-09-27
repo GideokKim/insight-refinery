@@ -4636,6 +4636,11 @@
       "title": "unsecured openai agents posted 53 user images on the internet without the lab s knowledge",
       "url": "techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge"
     },
+    "rss:https://techcrunch.com/?p=3170226": {
+      "at": "2026-09-27T08:11:01.522167+00:00",
+      "title": "google tests buying from walmart owned flipkart through gemini and ai mode in india",
+      "url": "techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india"
+    },
     "rss:https://techcrunch.com/?p=3170285": {
       "at": "2026-09-26T22:50:49.893799+00:00",
       "title": "insurers claim ai is already increasing healthcare costs",
@@ -8850,10 +8855,20 @@
       "title": "how accessible is local ai actually and what happens if affordable access to frontier models doesn t last",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqtrfi/how_accessible_is_local_ai_actually_and_what"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqv0qj": {
+      "at": "2026-09-27T08:11:01.522209+00:00",
+      "title": "just bought a second 3090 but now i don t see the benefits right now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqv0qj/just_bought_a_second_3090_but_now_i_dont_see_the"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqv9o8": {
       "at": "2026-09-27T01:27:58.218430+00:00",
       "title": "getting stupidly good results on my 4x3060ti setup",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqv9o8/getting_stupidly_good_results_on_my_4x3060ti_setup"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqw9rn": {
+      "at": "2026-09-27T08:11:01.522131+00:00",
+      "title": "splash 1 1 0 released gguf quants support mlx import and more",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqw9rn/splash_110_released_gguf_quants_support_mlx"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqwzk3": {
       "at": "2026-09-26T22:50:49.893856+00:00",
@@ -8869,6 +8884,11 @@
       "at": "2026-09-27T01:27:58.218419+00:00",
       "title": "improved and fixed template for gpt oss again includes preserve_thinking and fix for unsloth induced bug",
       "url": "reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wr1qlz": {
+      "at": "2026-09-27T08:11:01.522190+00:00",
+      "title": "run qwen3 8 flash next and tiny models on apple silicon up to 3x faster",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wr1qlz/run_qwen38flashnext_and_tiny_models_on_apple"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wr5ylm": {
       "at": "2026-09-27T01:27:58.218360+00:00",
@@ -9231,6 +9251,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-27T01:27:58.218488+00:00",
+  "updated_at": "2026-09-27T08:11:01.522256+00:00",
   "version": 2
 }
