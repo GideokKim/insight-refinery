@@ -4661,6 +4661,16 @@
       "title": "anthropic s dario amodei gets the snl treatment",
       "url": "techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment"
     },
+    "rss:https://techcrunch.com/?p=3170334": {
+      "at": "2026-09-27T23:03:47.325444+00:00",
+      "title": "can muse overcome meta s trust issues",
+      "url": "techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues"
+    },
+    "rss:https://techcrunch.com/?p=3170341": {
+      "at": "2026-09-27T23:03:47.325413+00:00",
+      "title": "anthropic s ceo is about to have dinner with president trump",
+      "url": "techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -8915,6 +8925,11 @@
       "title": "supersoniclabs julia 1 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wr8d4d/supersoniclabsjulia1_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrcy7x": {
+      "at": "2026-09-27T23:03:47.325475+00:00",
+      "title": "when is the next generation of b tier models releasing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrcy7x/when_is_the_next_generation_of_b_tier_models"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrd1p1": {
       "at": "2026-09-27T18:24:32.358817+00:00",
       "title": "splash fork optimised for m5 max 1 5 faster 1 25 single request",
@@ -8955,10 +8970,30 @@
       "title": "adding logit penalty for wait maybe and perhaps to qwen models improves their accuracy",
       "url": "reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrpiru": {
+      "at": "2026-09-27T23:03:47.325466+00:00",
+      "title": "updated from 3x3090 2x3090 1x3090ti to 2x5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrpiru/updated_from_3x30902x3090_1x3090ti_to_2x5090"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrq71o": {
       "at": "2026-09-27T18:24:32.358928+00:00",
       "title": "mimo v2 6 flash mopd",
       "url": "reddit.com/r/LocalLLaMA/comments/1wrq71o/mimo_v26_flash_mopd"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrrgex": {
+      "at": "2026-09-27T23:03:47.325454+00:00",
+      "title": "don t trust frontier models when asking about budget hardware",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrrgex/dont_trust_frontier_models_when_asking_about"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrs1dw": {
+      "at": "2026-09-27T23:03:47.325430+00:00",
+      "title": "public mcp server for canadian privacy law data free no auth works with any client that speaks streamable http",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrs1dw/public_mcp_server_for_canadian_privacy_law_data"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrs58t": {
+      "at": "2026-09-27T23:03:47.325370+00:00",
+      "title": "naive n0 5 flash 309b a15 5b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrs58t/naiven05flash_309ba155b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9316,6 +9351,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-27T18:24:32.359003+00:00",
+  "updated_at": "2026-09-27T23:03:47.325513+00:00",
   "version": 2
 }
