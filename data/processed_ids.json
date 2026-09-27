@@ -1721,6 +1721,11 @@
       "title": "how i changed teaching after ai managed to do all my homework assignments",
       "url": "thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed"
     },
+    "rss:https://news.ycombinator.com/item?id=49839567": {
+      "at": "2026-09-27T14:05:38.865698+00:00",
+      "title": "evolving programming languages in the ai era",
+      "url": "dashbit.co/blog/evolving-ai-era"
+    },
     "rss:https://news.ycombinator.com/item?id=49844896": {
       "at": "2026-09-26T13:06:08.680893+00:00",
       "title": "microsoft abandons personal ai chatbot race with copilot reboot",
@@ -8895,6 +8900,31 @@
       "title": "42x faster prompt lookup drafting in llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wr8d4d": {
+      "at": "2026-09-27T14:05:38.865654+00:00",
+      "title": "supersoniclabs julia 1 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wr8d4d/supersoniclabsjulia1_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrf7ac": {
+      "at": "2026-09-27T14:05:38.865738+00:00",
+      "title": "5 items in mimo v2 6",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrf7ac/5_items_in_mimov26"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrfp50": {
+      "at": "2026-09-27T14:05:38.865609+00:00",
+      "title": "another harness matters post codex cli pi and opencode",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrfp50/another_harness_matters_post_codex_cli_pi_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrgk8z": {
+      "at": "2026-09-27T14:05:38.865723+00:00",
+      "title": "which of the 16gb vram qwen3 8 27b s is the best",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrgk8z/which_of_the_16gb_vram_qwen38_27bs_is_the_best"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrjlls": {
+      "at": "2026-09-27T14:05:38.865710+00:00",
+      "title": "the opus 5 5 posts about motion graphics are cool but qwen 27b made this on a 4090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -9251,6 +9281,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-27T08:11:01.522256+00:00",
+  "updated_at": "2026-09-27T14:05:38.865802+00:00",
   "version": 2
 }
