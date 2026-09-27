@@ -1746,6 +1746,11 @@
       "title": "one month without ai",
       "url": "blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49868083": {
+      "at": "2026-09-27T18:24:32.358896+00:00",
+      "title": "there are no rogue ai agents",
+      "url": "eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+    },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
@@ -4650,6 +4655,11 @@
       "at": "2026-09-26T22:50:49.893799+00:00",
       "title": "insurers claim ai is already increasing healthcare costs",
       "url": "techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs"
+    },
+    "rss:https://techcrunch.com/?p=3170300": {
+      "at": "2026-09-27T18:24:32.358871+00:00",
+      "title": "anthropic s dario amodei gets the snl treatment",
+      "url": "techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -8905,6 +8915,11 @@
       "title": "supersoniclabs julia 1 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wr8d4d/supersoniclabsjulia1_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrd1p1": {
+      "at": "2026-09-27T18:24:32.358817+00:00",
+      "title": "splash fork optimised for m5 max 1 5 faster 1 25 single request",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrd1p1/splash_fork_optimised_for_m5_max_15_faster_125"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrf7ac": {
       "at": "2026-09-27T14:05:38.865738+00:00",
       "title": "5 items in mimo v2 6",
@@ -8920,10 +8935,30 @@
       "title": "which of the 16gb vram qwen3 8 27b s is the best",
       "url": "reddit.com/r/LocalLLaMA/comments/1wrgk8z/which_of_the_16gb_vram_qwen38_27bs_is_the_best"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrh7b2": {
+      "at": "2026-09-27T18:24:32.358796+00:00",
+      "title": "nonobench v1 2 43 llms on nonogram puzzles open weight deepseek v4 pro ties for 4th and no open model solves the new 20 20 hard mode",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrh7b2/nonobench_v12_43_llms_on_nonogram_puzzles"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrjlls": {
       "at": "2026-09-27T14:05:38.865710+00:00",
       "title": "the opus 5 5 posts about motion graphics are cool but qwen 27b made this on a 4090",
       "url": "reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wro7hg": {
+      "at": "2026-09-27T18:24:32.358913+00:00",
+      "title": "how do you guys give your models web browsing capabilities",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wro7hg/how_do_you_guys_give_your_models_web_browsing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wromzr": {
+      "at": "2026-09-27T18:24:32.358756+00:00",
+      "title": "adding logit penalty for wait maybe and perhaps to qwen models improves their accuracy",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrq71o": {
+      "at": "2026-09-27T18:24:32.358928+00:00",
+      "title": "mimo v2 6 flash mopd",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrq71o/mimo_v26_flash_mopd"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9281,6 +9316,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-27T14:05:38.865802+00:00",
+  "updated_at": "2026-09-27T18:24:32.359003+00:00",
   "version": 2
 }
