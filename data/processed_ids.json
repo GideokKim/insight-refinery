@@ -2812,6 +2812,11 @@
       "title": "northern gannet great blue heron california brown pelican",
       "url": "simonwillison.net/2026/Sep/25/sighting-403293902"
     },
+    "rss:https://simonwillison.net/2026/Sep/26/kakapo-party/": {
+      "at": "2026-09-27T01:27:58.218404+00:00",
+      "title": "kākāpō party",
+      "url": "simonwillison.net/2026/Sep/26/kakapo-party"
+    },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
       "title": "gpt 6 astra",
@@ -8840,10 +8845,35 @@
       "title": "2400cc inference racer dual rtx 3090 motors nvlink turbo naked 7840u thinkpad ecu vw golf radiator",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqtrfi": {
+      "at": "2026-09-27T01:27:58.218439+00:00",
+      "title": "how accessible is local ai actually and what happens if affordable access to frontier models doesn t last",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqtrfi/how_accessible_is_local_ai_actually_and_what"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqv9o8": {
+      "at": "2026-09-27T01:27:58.218430+00:00",
+      "title": "getting stupidly good results on my 4x3060ti setup",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqv9o8/getting_stupidly_good_results_on_my_4x3060ti_setup"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqwzk3": {
       "at": "2026-09-26T22:50:49.893856+00:00",
       "title": "new to playing around with local ai why are they free",
       "url": "reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wqzx12": {
+      "at": "2026-09-27T01:27:58.218452+00:00",
+      "title": "qwen 3 8 flash next is based on qwen 4 architecture if the announced qwen 4 27b is also the same architecture with n grams does it mean i can actually have faster inference on a single 3090 without tweaking much",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wqzx12/qwen_38_flash_next_is_based_on_qwen_4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wr0wki": {
+      "at": "2026-09-27T01:27:58.218419+00:00",
+      "title": "improved and fixed template for gpt oss again includes preserve_thinking and fix for unsloth induced bug",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wr5ylm": {
+      "at": "2026-09-27T01:27:58.218360+00:00",
+      "title": "42x faster prompt lookup drafting in llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wr5ylm/42x_faster_prompt_lookup_drafting_in_llamacpp"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9201,6 +9231,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-26T22:50:49.893925+00:00",
+  "updated_at": "2026-09-27T01:27:58.218488+00:00",
   "version": 2
 }
