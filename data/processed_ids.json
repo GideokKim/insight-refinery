@@ -165,6 +165,11 @@
       "title": "openai agent didn t accept no for an answer in australian government breach",
       "url": "arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach"
     },
+    "rss:https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/": {
+      "at": "2026-09-28T18:39:15.588508+00:00",
+      "title": "openai halts frontier model training amid string of agent misalignment incidents",
+      "url": "arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents"
+    },
     "rss:https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/": {
       "at": "2026-09-18T22:36:03.238478+00:00",
       "title": "ai hallucination of chinese nuclear components almost led to us military attack",
@@ -404,6 +409,11 @@
       "at": "2026-09-17T22:53:10.073337+00:00",
       "title": "microsoft exec called ai scraping the largest theft of labor in human history",
       "url": "arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/": {
+      "at": "2026-09-28T18:39:15.588766+00:00",
+      "title": "microsoft goes quiet after church groups ask for 1 of data center costs",
+      "url": "arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/": {
       "at": "2026-09-14T20:59:08.073479+00:00",
@@ -795,6 +805,16 @@
       "title": "efficient moe training for biological foundation models",
       "url": "developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122891": {
+      "at": "2026-09-28T18:39:15.588681+00:00",
+      "title": "add runtime controls to ai agents with nvidia openshell",
+      "url": "developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=122896": {
+      "at": "2026-09-28T18:39:15.588672+00:00",
+      "title": "nvidia open agent safety platform a reference for continuous in silicon agent monitoring",
+      "url": "developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122898": {
       "at": "2026-09-28T01:40:17.658628+00:00",
       "title": "how nvidia dsx maxlps maximizes ai factory throughput and efficiency",
@@ -809,6 +829,11 @@
       "at": "2026-08-19T12:28:12.501822+00:00",
       "title": "same cluster 33 points more utilization what changed was the order",
       "url": "huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+    },
+    "rss:https://huggingface.co/blog/Hcompany/holo4": {
+      "at": "2026-09-28T18:39:15.588775+00:00",
+      "title": "holo4 powering generalist computer use agents",
+      "url": "huggingface.co/blog/Hcompany/holo4"
     },
     "rss:https://huggingface.co/blog/Hcompany/neomme": {
       "at": "2026-09-03T17:25:47.816198+00:00",
@@ -1760,6 +1785,16 @@
       "at": "2026-09-27T18:24:32.358896+00:00",
       "title": "there are no rogue ai agents",
       "url": "eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
+    },
+    "rss:https://news.ycombinator.com/item?id=49875148": {
+      "at": "2026-09-28T18:39:15.588808+00:00",
+      "title": "ai companies in race to demonstrate their model most threatening to humanity",
+      "url": "thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity"
+    },
+    "rss:https://news.ycombinator.com/item?id=49880312": {
+      "at": "2026-09-28T18:39:15.588699+00:00",
+      "title": "the problem is not ai code but not knowing about system architecture or intent",
+      "url": "ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -4621,6 +4656,11 @@
       "title": "bring your co founder partner or colleague and get 50 off a second techcrunch disrupt 2026 pass",
       "url": "techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass"
     },
+    "rss:https://techcrunch.com/?p=3169260": {
+      "at": "2026-09-28T18:39:15.588708+00:00",
+      "title": "after a deepfake voice fooled her grandfather this founder sprang into action",
+      "url": "techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action"
+    },
     "rss:https://techcrunch.com/?p=3169287": {
       "at": "2026-09-25T07:48:57.702653+00:00",
       "title": "lightspeed targets 250m for new india fund focusing on early stage ai",
@@ -4655,6 +4695,11 @@
       "at": "2026-09-25T18:41:37.869488+00:00",
       "title": "astra and opus just passed turing s other test",
       "url": "techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test"
+    },
+    "rss:https://techcrunch.com/?p=3169782": {
+      "at": "2026-09-28T18:39:15.588789+00:00",
+      "title": "your final chance to grab your exhibit table at techcrunch disrupt 2026 is october 2",
+      "url": "techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2"
     },
     "rss:https://techcrunch.com/?p=3169815": {
       "at": "2026-09-25T23:18:56.768103+00:00",
@@ -4691,6 +4736,11 @@
       "title": "insurers claim ai is already increasing healthcare costs",
       "url": "techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs"
     },
+    "rss:https://techcrunch.com/?p=3170298": {
+      "at": "2026-09-28T18:39:15.588716+00:00",
+      "title": "modulate raises 25m for its voice models and analysis suite",
+      "url": "techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite"
+    },
     "rss:https://techcrunch.com/?p=3170300": {
       "at": "2026-09-27T18:24:32.358871+00:00",
       "title": "anthropic s dario amodei gets the snl treatment",
@@ -4701,10 +4751,55 @@
       "title": "can muse overcome meta s trust issues",
       "url": "techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues"
     },
+    "rss:https://techcrunch.com/?p=3170338": {
+      "at": "2026-09-28T18:39:15.588759+00:00",
+      "title": "insurtech outmarket raises 34 5m just months after prior round",
+      "url": "techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round"
+    },
     "rss:https://techcrunch.com/?p=3170341": {
       "at": "2026-09-27T23:03:47.325413+00:00",
       "title": "anthropic s ceo is about to have dinner with president trump",
       "url": "techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump"
+    },
+    "rss:https://techcrunch.com/?p=3170359": {
+      "at": "2026-09-28T18:39:15.588751+00:00",
+      "title": "next 5 vcs judging startup battlefield 200 contenders at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3170437": {
+      "at": "2026-09-28T18:39:15.588741+00:00",
+      "title": "anthropic gamma and clay share what happens when enterprises actually deploy ai at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3170483": {
+      "at": "2026-09-28T18:39:15.588724+00:00",
+      "title": "viral ai agent instinct raises 1b series c at a 10b valuation",
+      "url": "techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation"
+    },
+    "rss:https://techcrunch.com/?p=3170628": {
+      "at": "2026-09-28T18:39:15.588581+00:00",
+      "title": "openai still doesn t seem to have a handle on all of its rogue ai activity",
+      "url": "techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity"
+    },
+    "rss:https://techcrunch.com/?p=3170644": {
+      "at": "2026-09-28T18:39:15.588564+00:00",
+      "title": "anthropic releases sonnet 5 5 which it calls a significantly cheaper faster work partner",
+      "url": "techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner"
+    },
+    "rss:https://techcrunch.com/?p=3170647": {
+      "at": "2026-09-28T18:39:15.588547+00:00",
+      "title": "nvidia launches new platform for reining in rogue ai agents",
+      "url": "techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3170653": {
+      "at": "2026-09-28T18:39:15.588614+00:00",
+      "title": "meta launches enterprise ai platform hires mongodb ceo to lead new initiative",
+      "url": "techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative"
+    },
+    "rss:https://techcrunch.com/?p=3170736": {
+      "at": "2026-09-28T18:39:15.588689+00:00",
+      "title": "google is killing off gemini s gems in favor of skills",
+      "url": "techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -9070,6 +9165,31 @@
       "title": "gpt 3 is discontinued today",
       "url": "reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws9ydg": {
+      "at": "2026-09-28T18:39:15.588655+00:00",
+      "title": "nvidia shipped openshell an open source sandbox that gives local and open agents real runtime limits instead of prompt rules over 100 firms joined the safety stack openai did not",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ws9ydg/nvidia_shipped_openshell_an_open_source_sandbox"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsc0iz": {
+      "at": "2026-09-28T18:39:15.588797+00:00",
+      "title": "guys i promise it wasn t me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsc0iz/guys_i_promise_it_wasnt_me"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsdyd2": {
+      "at": "2026-09-28T18:39:15.588732+00:00",
+      "title": "you can just merge qwen3 6 3 8 27b to get decent performance with much fewer token generation",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsdyd2/you_can_just_merge_qwen36_38_27b_to_get_decent"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsgrma": {
+      "at": "2026-09-28T18:39:15.588627+00:00",
+      "title": "imajev 4b i spent 15 days fine tuning a 4b model to make business decisions from text and photos and it just ranked 1 of 91 on jevbench ahead of gpt 5 6 luna on decisionbench",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsgrma/imajev4b_i_spent_15_days_finetuning_a_4b_model_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsiepp": {
+      "at": "2026-09-28T18:39:15.588782+00:00",
+      "title": "finally found a model my hardware can run at full precision me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -9429,8 +9549,13 @@
       "at": "2026-09-28T08:42:25.921659+00:00",
       "title": "who s liable when ai agents go rogue",
       "url": "technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue"
+    },
+    "rss:https://www.technologyreview.com/?p=1145230": {
+      "at": "2026-09-28T18:39:15.588601+00:00",
+      "title": "when can we say ai made a scientific discovery",
+      "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
     }
   },
-  "updated_at": "2026-09-28T08:42:25.921873+00:00",
+  "updated_at": "2026-09-28T18:39:15.588845+00:00",
   "version": 2
 }
