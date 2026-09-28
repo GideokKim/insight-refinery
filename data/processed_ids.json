@@ -1751,6 +1751,11 @@
       "title": "one month without ai",
       "url": "blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49867775": {
+      "at": "2026-09-28T08:42:25.921830+00:00",
+      "title": "show hn tinyaiarena watch ai agents battle it out",
+      "url": "tinyaiarena.com/"
+    },
     "rss:https://news.ycombinator.com/item?id=49868083": {
       "at": "2026-09-27T18:24:32.358896+00:00",
       "title": "there are no rogue ai agents",
@@ -2797,6 +2802,11 @@
       "title": "gemini 3 8 tts playground",
       "url": "simonwillison.net/2026/Sep/23/gemini-tts-playground"
     },
+    "rss:https://simonwillison.net/2026/Sep/23/hn-49823961/": {
+      "at": "2026-09-28T08:42:25.921766+00:00",
+      "title": "we just shipped support for the ugliest part of http vary",
+      "url": "simonwillison.net/2026/Sep/23/hn-49823961"
+    },
     "rss:https://simonwillison.net/2026/Sep/23/shadow-roots/": {
       "at": "2026-09-23T22:59:06.946419+00:00",
       "title": "shadow roots explained with live examples",
@@ -2836,6 +2846,21 @@
       "at": "2026-09-28T01:40:17.658677+00:00",
       "title": "2026 in llms so far",
       "url": "simonwillison.net/2026/Sep/27/2026-in-llms-so-far"
+    },
+    "rss:https://simonwillison.net/2026/Sep/27/bluesky-bot-check/": {
+      "at": "2026-09-28T08:42:25.921754+00:00",
+      "title": "bluesky reply bot checker",
+      "url": "simonwillison.net/2026/Sep/27/bluesky-bot-check"
+    },
+    "rss:https://simonwillison.net/2026/Sep/27/hn-49871741/": {
+      "at": "2026-09-28T08:42:25.921817+00:00",
+      "title": "s3 is the future s3 is the past",
+      "url": "simonwillison.net/2026/Sep/27/hn-49871741"
+    },
+    "rss:https://simonwillison.net/2026/Sep/28/muse-ai-agent/": {
+      "at": "2026-09-28T08:42:25.921725+00:00",
+      "title": "quoting muse ai agent",
+      "url": "simonwillison.net/2026/Sep/28/muse-ai-agent"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -9010,6 +9035,16 @@
       "title": "so yeah",
       "url": "reddit.com/r/LocalLLaMA/comments/1wrutx9/so_yeah"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrv6bp": {
+      "at": "2026-09-28T08:42:25.921738+00:00",
+      "title": "swift 1 5 qwen3 8 27b a must have for low thinking",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrxap8": {
+      "at": "2026-09-28T08:42:25.921702+00:00",
+      "title": "qwen3 8 flash next 177b nvfp4 119gib ssd streaming at 9 10 tok s on one 16 gb rtx 5060 ti 32 gb ram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrxap8/qwen38flashnext_177b_nvfp4119gib_ssd_streaming_at"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wry136": {
       "at": "2026-09-28T01:40:17.658698+00:00",
       "title": "qwen plays world of warcraft",
@@ -9024,6 +9059,16 @@
       "at": "2026-09-28T01:40:17.658663+00:00",
       "title": "ft corporate america rejects overpriced frontier embraces open models",
       "url": "reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws49si": {
+      "at": "2026-09-28T08:42:25.921794+00:00",
+      "title": "i m calling this the monstrosity 5 ex mining bc 250 boards qwen3 coder next q4 at 40 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ws49si/im_calling_this_the_monstrosity_5_ex_mining_bc250"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws67x4": {
+      "at": "2026-09-28T08:42:25.921779+00:00",
+      "title": "gpt 3 is discontinued today",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9379,8 +9424,13 @@
       "at": "2026-09-25T13:48:26.429974+00:00",
       "title": "the pentagon wants 30 million to build an ai powered lie detector",
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
+    },
+    "rss:https://www.technologyreview.com/?p=1145197": {
+      "at": "2026-09-28T08:42:25.921659+00:00",
+      "title": "who s liable when ai agents go rogue",
+      "url": "technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue"
     }
   },
-  "updated_at": "2026-09-28T01:40:17.658745+00:00",
+  "updated_at": "2026-09-28T08:42:25.921873+00:00",
   "version": 2
 }
