@@ -795,6 +795,11 @@
       "title": "efficient moe training for biological foundation models",
       "url": "developer.nvidia.com/blog/efficient-moe-training-for-biological-foundation-models"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122898": {
+      "at": "2026-09-28T01:40:17.658628+00:00",
+      "title": "how nvidia dsx maxlps maximizes ai factory throughput and efficiency",
+      "url": "developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -2826,6 +2831,11 @@
       "at": "2026-09-27T01:27:58.218404+00:00",
       "title": "kākāpō party",
       "url": "simonwillison.net/2026/Sep/26/kakapo-party"
+    },
+    "rss:https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/": {
+      "at": "2026-09-28T01:40:17.658677+00:00",
+      "title": "2026 in llms so far",
+      "url": "simonwillison.net/2026/Sep/27/2026-in-llms-so-far"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -8995,6 +9005,26 @@
       "title": "naive n0 5 flash 309b a15 5b",
       "url": "reddit.com/r/LocalLLaMA/comments/1wrs58t/naiven05flash_309ba155b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrutx9": {
+      "at": "2026-09-28T01:40:17.658708+00:00",
+      "title": "so yeah",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrutx9/so_yeah"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wry136": {
+      "at": "2026-09-28T01:40:17.658698+00:00",
+      "title": "qwen plays world of warcraft",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wry136/qwen_plays_world_of_warcraft"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrz9py": {
+      "at": "2026-09-28T01:40:17.658688+00:00",
+      "title": "qwen company already rushed out a jev competitor no open weights yet",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrz9py/qwen_company_already_rushed_out_a_jev_competitor"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wrzpzg": {
+      "at": "2026-09-28T01:40:17.658663+00:00",
+      "title": "ft corporate america rejects overpriced frontier embraces open models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wrzpzg/ft_corporate_america_rejects_overpriced_frontier"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -9351,6 +9381,6 @@
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     }
   },
-  "updated_at": "2026-09-27T23:03:47.325513+00:00",
+  "updated_at": "2026-09-28T01:40:17.658745+00:00",
   "version": 2
 }
