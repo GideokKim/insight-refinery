@@ -100,6 +100,11 @@
       "title": "anthropic s 2 trillion ipo puts powerful external trustees in spotlight",
       "url": "arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight"
     },
+    "rss:https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/": {
+      "at": "2026-09-29T16:55:08.088386+00:00",
+      "title": "anthropic s ipo pitch includes a warning about human extinction",
+      "url": "arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction"
+    },
     "rss:https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/": {
       "at": "2026-09-16T22:57:26.123670+00:00",
       "title": "apple reportedly building server packed with m series ultra chips for ai",
@@ -175,6 +180,11 @@
       "title": "openai halts frontier model training amid string of agent misalignment incidents",
       "url": "arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents"
     },
+    "rss:https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/": {
+      "at": "2026-09-29T16:55:08.088334+00:00",
+      "title": "openai says planned gpt 6 1 is too insecure to release",
+      "url": "arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release"
+    },
     "rss:https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/": {
       "at": "2026-09-18T22:36:03.238478+00:00",
       "title": "ai hallucination of chinese nuclear components almost led to us military attack",
@@ -234,6 +244,11 @@
       "at": "2026-09-25T18:41:37.869473+00:00",
       "title": "microsoft stops insisting you need a copilot pc",
       "url": "arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc"
+    },
+    "rss:https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/": {
+      "at": "2026-09-29T16:55:08.088498+00:00",
+      "title": "interview firefox s chief on why he hopes a redesign will help win users from chrome",
+      "url": "arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice"
     },
     "rss:https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/": {
       "at": "2026-09-23T18:26:13.104978+00:00",
@@ -870,6 +885,11 @@
       "title": "making knowledge distillation cheap enough to run at scale",
       "url": "huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
     },
+    "rss:https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source": {
+      "at": "2026-09-29T16:55:08.088490+00:00",
+      "title": "getting the source right not just the fact source aware verification for mcp agents",
+      "url": "huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+    },
     "rss:https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an": {
       "at": "2026-09-21T15:15:12.148034+00:00",
       "title": "pruning llms like a physicist block removal as an ising optimization problem",
@@ -997,6 +1017,11 @@
       "at": "2026-09-23T22:59:06.946353+00:00",
       "title": "how to use nvidia warp and mjwarp to accelerate robotics simulation and learning workflows",
       "url": "huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
+    },
+    "rss:https://huggingface.co/blog/nvidia/kumo-tabular": {
+      "at": "2026-09-29T16:55:08.088372+00:00",
+      "title": "nvidia kumo tabular sets a new accuracy efficiency frontier for tabular prediction",
+      "url": "huggingface.co/blog/nvidia/kumo-tabular"
     },
     "rss:https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents": {
       "at": "2026-08-19T17:19:19.683212+00:00",
@@ -1830,6 +1855,21 @@
       "at": "2026-09-29T00:24:42.024058+00:00",
       "title": "it s time to investigate the ai labs",
       "url": "calnewport.com/its-time-to-investigate-the-ai-labs"
+    },
+    "rss:https://news.ycombinator.com/item?id=49886005": {
+      "at": "2026-09-29T16:55:08.088442+00:00",
+      "title": "anthropic s ipo prospectus shows ai vision surging costs",
+      "url": "reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28"
+    },
+    "rss:https://news.ycombinator.com/item?id=49890226": {
+      "at": "2026-09-29T16:55:08.088419+00:00",
+      "title": "a privacy analysis of web and mobile conversational ai agents pdf",
+      "url": "jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf"
+    },
+    "rss:https://news.ycombinator.com/item?id=49893709": {
+      "at": "2026-09-29T16:55:08.088464+00:00",
+      "title": "unsurprisingly meta s new muse ai agent blatantly ignores users permissions",
+      "url": "appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -2966,6 +3006,11 @@
       "at": "2026-09-28T08:42:25.921725+00:00",
       "title": "quoting muse ai agent",
       "url": "simonwillison.net/2026/Sep/28/muse-ai-agent"
+    },
+    "rss:https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/": {
+      "at": "2026-09-29T16:55:08.088545+00:00",
+      "title": "openai devday 2026 live blog",
+      "url": "simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -4871,6 +4916,11 @@
       "title": "meta launches enterprise ai platform hires mongodb ceo to lead new initiative",
       "url": "techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative"
     },
+    "rss:https://techcrunch.com/?p=3170733": {
+      "at": "2026-09-29T16:55:08.088516+00:00",
+      "title": "reco raises 55m as ai agent security startups crowd the market",
+      "url": "techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market"
+    },
     "rss:https://techcrunch.com/?p=3170736": {
       "at": "2026-09-28T18:39:15.588689+00:00",
       "title": "google is killing off gemini s gems in favor of skills",
@@ -4905,6 +4955,26 @@
       "at": "2026-09-29T08:32:03.504214+00:00",
       "title": "anthropic s prospectus details losses growth and yes a warning that its ai could end humanity",
       "url": "techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity"
+    },
+    "rss:https://techcrunch.com/?p=3171141": {
+      "at": "2026-09-29T16:55:08.088508+00:00",
+      "title": "openai apologizes to australia after its ai agents breached government sites",
+      "url": "techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites"
+    },
+    "rss:https://techcrunch.com/?p=3171204": {
+      "at": "2026-09-29T16:55:08.088473+00:00",
+      "title": "with dazzle marissa mayer bets your camera roll has more info on your life than your inbox",
+      "url": "techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox"
+    },
+    "rss:https://techcrunch.com/?p=3171208": {
+      "at": "2026-09-29T16:55:08.088482+00:00",
+      "title": "meta is expanding its ai agent muse to small businesses",
+      "url": "techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses"
+    },
+    "rss:https://techcrunch.com/?p=3171272": {
+      "at": "2026-09-29T16:55:08.088553+00:00",
+      "title": "instinct founder said more than 50 of transactions on the platform are travel related",
+      "url": "techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5240,6 +5310,11 @@
       "at": "2026-09-29T00:24:42.024228+00:00",
       "title": "one year in how microsoft research asia singapore is advancing research partnership and talent for real world impact",
       "url": "microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1186958": {
+      "at": "2026-09-29T16:55:08.088400+00:00",
+      "title": "introducing quine an ai research system designed for the complexity of biology",
+      "url": "microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -9390,6 +9465,36 @@
       "title": "first few days of qwen3 8 flash next on 4x r9700 it s been really interesting so far",
       "url": "reddit.com/r/LocalLLaMA/comments/1wsxgbo/first_few_days_of_qwen38flashnext_on_4x_r9700_its"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt1ees": {
+      "at": "2026-09-29T16:55:08.088537+00:00",
+      "title": "do you need some extra memory on your dgx spark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wt1ees/do_you_need_some_extra_memory_on_your_dgx_spark"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt33uu": {
+      "at": "2026-09-29T16:55:08.088572+00:00",
+      "title": "is ai profitable yet",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wt33uu/is_ai_profitable_yet"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt4s88": {
+      "at": "2026-09-29T16:55:08.088427+00:00",
+      "title": "release gsq rco ggufs for qwen3 8 flash next plus a 50 expert pruned coder build at 1 89 bpw",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wt4s88/release_gsqrco_ggufs_for_qwen38flashnext_plus_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt5f4e": {
+      "at": "2026-09-29T16:55:08.088524+00:00",
+      "title": "looks like the era of subsidised compute is coming to an end the old chatgpt pro 200 20x plan will be halved the new 500 plan will have similar limits as the old 200 plan",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt7e94": {
+      "at": "2026-09-29T16:55:08.088563+00:00",
+      "title": "reflection 70b was released two years ago september 2024",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wt7e94/reflection_70b_was_released_two_years_ago"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtc4j9": {
+      "at": "2026-09-29T16:55:08.088453+00:00",
+      "title": "amd s new 256 core epyc has 16 channel ddr5 12800 91 memory bandwidth of an rtx 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -9745,6 +9850,11 @@
       "title": "the pentagon wants 30 million to build an ai powered lie detector",
       "url": "technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     },
+    "rss:https://www.technologyreview.com/?p=1145186": {
+      "at": "2026-09-29T16:55:08.088410+00:00",
+      "title": "making ai an asset not an expense",
+      "url": "technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense"
+    },
     "rss:https://www.technologyreview.com/?p=1145197": {
       "at": "2026-09-28T08:42:25.921659+00:00",
       "title": "who s liable when ai agents go rogue",
@@ -9756,6 +9866,6 @@
       "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
     }
   },
-  "updated_at": "2026-09-29T08:32:03.504305+00:00",
+  "updated_at": "2026-09-29T16:55:08.088607+00:00",
   "version": 2
 }
