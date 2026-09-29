@@ -1786,6 +1786,11 @@
       "title": "one month without ai",
       "url": "blog.bustikiller.com/2026/09/25/one-month-without-ai.html"
     },
+    "rss:https://news.ycombinator.com/item?id=49861755": {
+      "at": "2026-09-29T08:32:03.504259+00:00",
+      "title": "what reversing modernising old games tells us about the economic impact of ai",
+      "url": "this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ"
+    },
     "rss:https://news.ycombinator.com/item?id=49867775": {
       "at": "2026-09-28T08:42:25.921830+00:00",
       "title": "show hn tinyaiarena watch ai agents battle it out",
@@ -1810,6 +1815,11 @@
       "at": "2026-09-29T00:24:42.024077+00:00",
       "title": "what would a serious ai product look like",
       "url": "blog.glyph.im/2026/09/serious-ai-product.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=49879883": {
+      "at": "2026-09-29T08:32:03.504204+00:00",
+      "title": "nvidia wants to put a watchdog chip next to every ai agent",
+      "url": "cnbc.com/2026/09/28/nvidia-releases.html"
     },
     "rss:https://news.ycombinator.com/item?id=49880312": {
       "at": "2026-09-28T18:39:15.588699+00:00",
@@ -2028,6 +2038,11 @@
       "at": "2026-09-16T22:57:26.123856+00:00",
       "title": "how to connect ai usage to business value",
       "url": "openai.com/index/how-to-connect-ai-usage-to-business-value"
+    },
+    "rss:https://openai.com/index/how-we-will-do-better-for-australia": {
+      "at": "2026-09-29T08:32:03.504246+00:00",
+      "title": "how we will do better for australia",
+      "url": "openai.com/index/how-we-will-do-better-for-australia"
     },
     "rss:https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
       "at": "2026-08-26T22:35:55.496761+00:00",
@@ -2286,6 +2301,11 @@
       "at": "2026-09-08T17:40:11.523137+00:00",
       "title": "the work now within reach",
       "url": "openai.com/index/the-work-now-within-reach"
+    },
+    "rss:https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+      "at": "2026-09-29T08:32:03.504196+00:00",
+      "title": "towards safety cases for frontier ai training",
+      "url": "openai.com/index/towards-safety-cases-for-frontier-ai-training"
     },
     "rss:https://openai.com/index/two-years-of-openai-academy": {
       "at": "2026-09-23T18:26:13.105078+00:00",
@@ -4831,6 +4851,11 @@
       "title": "openai still doesn t seem to have a handle on all of its rogue ai activity",
       "url": "techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity"
     },
+    "rss:https://techcrunch.com/?p=3170634": {
+      "at": "2026-09-29T08:32:03.504264+00:00",
+      "title": "peak xv ups surge seed investment ceiling to 5m unveils 18 startup cohort",
+      "url": "techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises"
+    },
     "rss:https://techcrunch.com/?p=3170644": {
       "at": "2026-09-28T18:39:15.588564+00:00",
       "title": "anthropic releases sonnet 5 5 which it calls a significantly cheaper faster work partner",
@@ -4856,6 +4881,11 @@
       "title": "shopify opens checkout to browser based ai agents",
       "url": "techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents"
     },
+    "rss:https://techcrunch.com/?p=3170771": {
+      "at": "2026-09-29T08:32:03.504240+00:00",
+      "title": "the ai boom took over climate week and not everyone is happy about it",
+      "url": "techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it"
+    },
     "rss:https://techcrunch.com/?p=3170932": {
       "at": "2026-09-29T00:24:42.023758+00:00",
       "title": "amd will acquire fei fei li s world labs for 8 2 billion",
@@ -4870,6 +4900,11 @@
       "at": "2026-09-29T00:24:42.024003+00:00",
       "title": "openai reportedly ditches model over safety concerns",
       "url": "techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns"
+    },
+    "rss:https://techcrunch.com/?p=3171132": {
+      "at": "2026-09-29T08:32:03.504214+00:00",
+      "title": "anthropic s prospectus details losses growth and yes a warning that its ai could end humanity",
+      "url": "techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -4950,6 +4985,11 @@
       "at": "2026-09-15T07:45:26.936621+00:00",
       "title": "ainews aef 1 standard emerges for third party evaluators as xai openai and anthropic all cosign",
       "url": "latent.space/p/ainews-aef-1-standard-emerges-for"
+    },
+    "rss:https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b": {
+      "at": "2026-09-29T08:32:03.504112+00:00",
+      "title": "ainews amd buys world labs for 8 2b as atlas solves sparse reconstruction problem for robotics design and more",
+      "url": "latent.space/p/ainews-amd-buys-world-labs-for-82b"
     },
     "rss:https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering": {
       "at": "2026-08-25T05:22:15.372847+00:00",
@@ -5050,6 +5090,11 @@
       "at": "2026-08-28T13:29:03.621944+00:00",
       "title": "ainews openai to reach agi bar by end 2026",
       "url": "latent.space/p/ainews-openai-to-reach-agi-bar-by"
+    },
+    "rss:https://www.latent.space/p/ainews-opus-55-is-good-at-explainer": {
+      "at": "2026-09-29T08:32:03.504151+00:00",
+      "title": "ainews opus 5 5 is good at explainer videos",
+      "url": "latent.space/p/ainews-opus-55-is-good-at-explainer"
     },
     "rss:https://www.latent.space/p/ainews-poolside-gets-12b-reverse": {
       "at": "2026-08-24T11:05:22.951611+00:00",
@@ -5165,6 +5210,11 @@
       "at": "2026-08-24T11:05:22.951509+00:00",
       "title": "simulation the new scaling law joon sung park simile ai",
       "url": "latent.space/p/simile"
+    },
+    "rss:https://www.latent.space/p/thariq": {
+      "at": "2026-09-29T08:32:03.504161+00:00",
+      "title": "claude code s next era thariq shihipar anthropic",
+      "url": "latent.space/p/thariq"
     },
     "rss:https://www.latent.space/p/wayfinder-skill": {
       "at": "2026-08-24T11:05:22.951642+00:00",
@@ -9280,6 +9330,11 @@
       "title": "what model sits between qwen 3 8 27b and flash next for coding",
       "url": "reddit.com/r/LocalLLaMA/comments/1wsekkj/what_model_sits_between_qwen_38_27b_and_flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsfjmb": {
+      "at": "2026-09-29T08:32:03.504251+00:00",
+      "title": "mica v0 1 4b got diamonds in survival minecraft on its first run 26 decisions from an empty inventory",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsfjmb/mica_v01_4b_got_diamonds_in_survival_minecraft_on"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsgrma": {
       "at": "2026-09-28T18:39:15.588627+00:00",
       "title": "imajev 4b i spent 15 days fine tuning a 4b model to make business decisions from text and photos and it just ranked 1 of 91 on jevbench ahead of gpt 5 6 luna on decisionbench",
@@ -9300,10 +9355,40 @@
       "title": "i am concerned about all these disparate hard forks that target specific architectures instead of opening a pr against upstream",
       "url": "reddit.com/r/LocalLLaMA/comments/1wsn59w/i_am_concerned_about_all_these_disparate_hard"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsq0pa": {
+      "at": "2026-09-29T08:32:03.504277+00:00",
+      "title": "can we get some quality control on all these model perf posts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsq0pa/can_we_get_some_quality_control_on_all_these"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsq6r5": {
       "at": "2026-09-29T00:24:42.024028+00:00",
       "title": "qwen next 3 8 and 3 8 27b vs sonnet 5 5 low and sonnet 5 5 medium",
       "url": "reddit.com/r/LocalLLaMA/comments/1wsq6r5/qwen_next_38_and_38_27b_vs_sonnet_55_low_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wss436": {
+      "at": "2026-09-29T08:32:03.504232+00:00",
+      "title": "searching for 3 8 35b qwen3 6 35b a3b testing 5 finetunes vs base",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wss436/searching_for_38_35b_qwen3635ba3b_testing_5"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsscrw": {
+      "at": "2026-09-29T08:32:03.504270+00:00",
+      "title": "debugging pcie link retraining on an x8 x8 splitter with two rtx 3090s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsscrw/debugging_pcie_link_retraining_on_an_x8x8"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsuag0": {
+      "at": "2026-09-29T08:32:03.504190+00:00",
+      "title": "speculative reward hacking in coding agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsuag0/speculative_reward_hacking_in_coding_agents"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsuqmb": {
+      "at": "2026-09-29T08:32:03.504175+00:00",
+      "title": "nvidia nvidia nemotron labs 3 competitive coding 550b a55b nvfp4 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsuqmb/nvidianvidianemotronlabs3competitivecoding550ba55b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsxgbo": {
+      "at": "2026-09-29T08:32:03.504224+00:00",
+      "title": "first few days of qwen3 8 flash next on 4x r9700 it s been really interesting so far",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsxgbo/first_few_days_of_qwen38flashnext_on_4x_r9700_its"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9671,6 +9756,6 @@
       "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
     }
   },
-  "updated_at": "2026-09-29T00:24:42.024392+00:00",
+  "updated_at": "2026-09-29T08:32:03.504305+00:00",
   "version": 2
 }
