@@ -90,6 +90,11 @@
       "title": "ai was supposed to hit new grads hard so far unemployment data says otherwise",
       "url": "arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise"
     },
+    "rss:https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/": {
+      "at": "2026-09-29T21:26:11.893806+00:00",
+      "title": "amd acquires world labs ai pioneer fei fei li s world models startup",
+      "url": "arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup"
+    },
     "rss:https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/": {
       "at": "2026-09-09T17:52:30.546213+00:00",
       "title": "anthropic researcher quits with a warning self improving ai could kill us all",
@@ -149,6 +154,11 @@
       "at": "2026-09-02T22:05:13.086095+00:00",
       "title": "google releases gemini 3 8 flash its third flash model in six weeks",
       "url": "arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks"
+    },
+    "rss:https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/": {
+      "at": "2026-09-29T21:26:11.893866+00:00",
+      "title": "here s what actually happened in openai s australian gov t server hack",
+      "url": "arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack"
     },
     "rss:https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/": {
       "at": "2026-09-24T18:33:26.171417+00:00",
@@ -844,6 +854,16 @@
       "at": "2026-09-28T01:40:17.658628+00:00",
       "title": "how nvidia dsx maxlps maximizes ai factory throughput and efficiency",
       "url": "developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123017": {
+      "at": "2026-09-29T21:26:11.893854+00:00",
+      "title": "lower the cost of building and running visual ai agents with nvidia vss blueprint 3 3",
+      "url": "developer.nvidia.com/blog/lower-the-cost-of-building-and-running-visual-ai-agents-with-nvidia-vss-blueprint-3-3"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123036": {
+      "at": "2026-09-29T21:26:11.893948+00:00",
+      "title": "ai native by design lessons learned from building nvidia tensorrt model connect",
+      "url": "developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -1871,6 +1891,16 @@
       "title": "unsurprisingly meta s new muse ai agent blatantly ignores users permissions",
       "url": "appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions"
     },
+    "rss:https://news.ycombinator.com/item?id=49896050": {
+      "at": "2026-09-29T21:26:11.893915+00:00",
+      "title": "draftkings is using ai to behaviorally target chronic gamblers",
+      "url": "eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising"
+    },
+    "rss:https://news.ycombinator.com/item?id=49898952": {
+      "at": "2026-09-29T21:26:11.893829+00:00",
+      "title": "ai needs 6t in annual revenue to justify data centre boom",
+      "url": "thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -1994,6 +2024,11 @@
       "title": "daybreak for frontline defenders 1b to protect essential services",
       "url": "openai.com/index/daybreak-for-frontline-defenders"
     },
+    "rss:https://openai.com/index/devday-2026-recap": {
+      "at": "2026-09-29T21:26:11.893797+00:00",
+      "title": "devday 2026 recap",
+      "url": "openai.com/index/devday-2026-recap"
+    },
     "rss:https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
       "at": "2026-08-25T11:15:55.505381+00:00",
       "title": "disrupting a new covert influence campaign from russia",
@@ -2108,6 +2143,16 @@
       "at": "2026-09-08T22:07:38.642519+00:00",
       "title": "introducing chatgpt images 2 5",
       "url": "openai.com/index/introducing-chatgpt-images-2-5"
+    },
+    "rss:https://openai.com/index/introducing-dots": {
+      "at": "2026-09-29T21:26:11.893932+00:00",
+      "title": "introducing dots",
+      "url": "openai.com/index/introducing-dots"
+    },
+    "rss:https://openai.com/index/introducing-gpt-6-1-sol": {
+      "at": "2026-09-29T21:26:11.893784+00:00",
+      "title": "introducing gpt 6 1 sol",
+      "url": "openai.com/index/introducing-gpt-6-1-sol"
     },
     "rss:https://openai.com/index/introducing-gpt-6-sol-and-luna": {
       "at": "2026-09-22T22:59:04.939892+00:00",
@@ -2426,6 +2471,11 @@
       "at": "2026-08-26T18:46:54.599561+00:00",
       "title": "glucofm foundation model for continuous glucose monitoring",
       "url": "research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring"
+    },
+    "rss:https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/": {
+      "at": "2026-09-29T21:26:11.893840+00:00",
+      "title": "how diffusion controller unifies and simplifies ai image generation",
+      "url": "research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation"
     },
     "rss:https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/": {
       "at": "2026-08-21T20:12:48.536153+00:00",
@@ -4946,6 +4996,11 @@
       "title": "source inference provider modal labs closing in on 750m round at 15 75b valuation",
       "url": "techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation"
     },
+    "rss:https://techcrunch.com/?p=3171020": {
+      "at": "2026-09-29T21:26:11.893957+00:00",
+      "title": "here s why openai is absent from nvidia s industry wide effort to end rogue ai agents",
+      "url": "techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents"
+    },
     "rss:https://techcrunch.com/?p=3171035": {
       "at": "2026-09-29T00:24:42.024003+00:00",
       "title": "openai reportedly ditches model over safety concerns",
@@ -4971,10 +5026,55 @@
       "title": "meta is expanding its ai agent muse to small businesses",
       "url": "techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses"
     },
+    "rss:https://techcrunch.com/?p=3171209": {
+      "at": "2026-09-29T21:26:11.893888+00:00",
+      "title": "openai launches dots its bubbly agentic avatar",
+      "url": "techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar"
+    },
+    "rss:https://techcrunch.com/?p=3171268": {
+      "at": "2026-09-29T21:26:11.893907+00:00",
+      "title": "openai gives codex reusable cloud environments that work across devices",
+      "url": "techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices"
+    },
     "rss:https://techcrunch.com/?p=3171272": {
       "at": "2026-09-29T16:55:08.088553+00:00",
       "title": "instinct founder said more than 50 of transactions on the platform are travel related",
       "url": "techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related"
+    },
+    "rss:https://techcrunch.com/?p=3171280": {
+      "at": "2026-09-29T21:26:11.893876+00:00",
+      "title": "openai takes on microsoft with the launch of what feels a whole lot like chatgpt s own office suite",
+      "url": "techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite"
+    },
+    "rss:https://techcrunch.com/?p=3171292": {
+      "at": "2026-09-29T21:26:11.893745+00:00",
+      "title": "openai launches gpt 6 1 sol says it nearly matches gpt 6 astra and costs less",
+      "url": "techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less"
+    },
+    "rss:https://techcrunch.com/?p=3171312": {
+      "at": "2026-09-29T21:26:11.893896+00:00",
+      "title": "openai expands chatgpt s plugins with app like interfaces and automations",
+      "url": "techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations"
+    },
+    "rss:https://techcrunch.com/?p=3171428": {
+      "at": "2026-09-29T21:26:11.893974+00:00",
+      "title": "can a chatbot fix the government maze the white house is about to find out",
+      "url": "techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out"
+    },
+    "rss:https://techcrunch.com/?p=3171437": {
+      "at": "2026-09-29T21:26:11.893967+00:00",
+      "title": "ai powered app maker wabi pivots to a messaging experience",
+      "url": "techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience"
+    },
+    "rss:https://techcrunch.com/?p=3171583": {
+      "at": "2026-09-29T21:26:11.893816+00:00",
+      "title": "openai s latest features take direct aim at the app store model",
+      "url": "techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model"
+    },
+    "rss:https://techcrunch.com/?p=3171634": {
+      "at": "2026-09-29T21:26:11.893939+00:00",
+      "title": "openai repotedly in talks to raise 30b round at 1 4t valuation",
+      "url": "techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -9485,6 +9585,11 @@
       "title": "looks like the era of subsidised compute is coming to an end the old chatgpt pro 200 20x plan will be halved the new 500 plan will have similar limits as the old 200 plan",
       "url": "reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt6gkp": {
+      "at": "2026-09-29T21:26:11.893923+00:00",
+      "title": "iquestlab iquest q1 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wt6gkp/iquestlabiquestq1_hugging_face"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt7e94": {
       "at": "2026-09-29T16:55:08.088563+00:00",
       "title": "reflection 70b was released two years ago september 2024",
@@ -9494,6 +9599,21 @@
       "at": "2026-09-29T16:55:08.088453+00:00",
       "title": "amd s new 256 core epyc has 16 channel ddr5 12800 91 memory bandwidth of an rtx 5090",
       "url": "reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtg0vd": {
+      "at": "2026-09-29T21:26:11.893999+00:00",
+      "title": "glm 5 3 and the spread of advanced cyber capabilities anthropic",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtg1hs": {
+      "at": "2026-09-29T21:26:11.893990+00:00",
+      "title": "deepseek harness app is out now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtg1hs/deepseek_harness_app_is_out_now"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wth4iz": {
+      "at": "2026-09-29T21:26:11.893982+00:00",
+      "title": "anthropic just dropped the greatest advertisement for glm ever",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9866,6 +9986,6 @@
       "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
     }
   },
-  "updated_at": "2026-09-29T16:55:08.088607+00:00",
+  "updated_at": "2026-09-29T21:26:11.894036+00:00",
   "version": 2
 }
