@@ -125,6 +125,11 @@
       "title": "faa tees up 875m ai tool to help manage air traffic congestion",
       "url": "arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion"
     },
+    "rss:https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/": {
+      "at": "2026-09-29T00:24:42.023928+00:00",
+      "title": "florida invokes extinction fears in legal bid to halt openai development",
+      "url": "arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development"
+    },
     "rss:https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/": {
       "at": "2026-09-14T20:59:08.073328+00:00",
       "title": "founder s cost cutting obsession drove unitree lead in cheap humanoid robots",
@@ -424,6 +429,11 @@
       "at": "2026-09-24T18:33:26.171367+00:00",
       "title": "new jersey fines data center 1 1m after satellite pics expose 62 gas generators",
       "url": "arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/": {
+      "at": "2026-09-29T00:24:42.023868+00:00",
+      "title": "experts worry about nvidia s ai chip sales in china and influence over trump",
+      "url": "arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows"
     },
     "rss:https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/": {
       "at": "2026-09-10T22:36:21.831782+00:00",
@@ -1786,15 +1796,35 @@
       "title": "there are no rogue ai agents",
       "url": "eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents"
     },
+    "rss:https://news.ycombinator.com/item?id=49873241": {
+      "at": "2026-09-29T00:24:42.024183+00:00",
+      "title": "thinking fast and slow in ai the role of metacognition 2021",
+      "url": "arxiv.org/abs/2110.01834"
+    },
     "rss:https://news.ycombinator.com/item?id=49875148": {
       "at": "2026-09-28T18:39:15.588808+00:00",
       "title": "ai companies in race to demonstrate their model most threatening to humanity",
       "url": "thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity"
     },
+    "rss:https://news.ycombinator.com/item?id=49876148": {
+      "at": "2026-09-29T00:24:42.024077+00:00",
+      "title": "what would a serious ai product look like",
+      "url": "blog.glyph.im/2026/09/serious-ai-product.html"
+    },
     "rss:https://news.ycombinator.com/item?id=49880312": {
       "at": "2026-09-28T18:39:15.588699+00:00",
       "title": "the problem is not ai code but not knowing about system architecture or intent",
       "url": "ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore"
+    },
+    "rss:https://news.ycombinator.com/item?id=49883471": {
+      "at": "2026-09-29T00:24:42.024058+00:00",
+      "title": "it s time to investigate the ai labs",
+      "url": "calnewport.com/its-time-to-investigate-the-ai-labs"
+    },
+    "rss:https://openai.com/form/codex-originals": {
+      "at": "2026-09-29T00:24:42.024347+00:00",
+      "title": "are you a codex original",
+      "url": "openai.com/form/codex-originals"
     },
     "rss:https://openai.com/index/1password": {
       "at": "2026-09-08T22:07:38.642539+00:00",
@@ -1845,6 +1875,11 @@
       "at": "2026-09-19T07:20:41.559572+00:00",
       "title": "introducing the australian youth safety blueprint",
       "url": "openai.com/index/australian-youth-safety-blueprint"
+    },
+    "rss:https://openai.com/index/basis-tax-workbook-with-astra": {
+      "at": "2026-09-29T00:24:42.024205+00:00",
+      "title": "basis completes a tax workbook 2x faster with gpt 6 astra",
+      "url": "openai.com/index/basis-tax-workbook-with-astra"
     },
     "rss:https://openai.com/index/better-prompt-caching-for-gpt-6": {
       "at": "2026-09-22T22:59:04.939925+00:00",
@@ -2058,6 +2093,11 @@
       "at": "2026-09-03T21:59:42.659555+00:00",
       "title": "legora reviewed 41 documents in minutes with gpt 6 astra",
       "url": "openai.com/index/legora-financial-statement-review-with-astra"
+    },
+    "rss:https://openai.com/index/lenfest-ai-collaborative-expansion": {
+      "at": "2026-09-29T00:24:42.024098+00:00",
+      "title": "the lenfest institute grows landmark program with expanded openai support",
+      "url": "openai.com/index/lenfest-ai-collaborative-expansion"
     },
     "rss:https://openai.com/index/loveholidays": {
       "at": "2026-08-26T11:19:14.906066+00:00",
@@ -2891,6 +2931,16 @@
       "at": "2026-09-28T08:42:25.921817+00:00",
       "title": "s3 is the future s3 is the past",
       "url": "simonwillison.net/2026/Sep/27/hn-49871741"
+    },
+    "rss:https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/": {
+      "at": "2026-09-29T00:24:42.023839+00:00",
+      "title": "claude sonnet 5 5",
+      "url": "simonwillison.net/2026/Sep/28/claude-sonnet-5-5"
+    },
+    "rss:https://simonwillison.net/2026/Sep/28/joedaroo/": {
+      "at": "2026-09-29T00:24:42.023976+00:00",
+      "title": "quoting joedaroo",
+      "url": "simonwillison.net/2026/Sep/28/joedaroo"
     },
     "rss:https://simonwillison.net/2026/Sep/28/muse-ai-agent/": {
       "at": "2026-09-28T08:42:25.921725+00:00",
@@ -4801,6 +4851,26 @@
       "title": "google is killing off gemini s gems in favor of skills",
       "url": "techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills"
     },
+    "rss:https://techcrunch.com/?p=3170763": {
+      "at": "2026-09-29T00:24:42.023952+00:00",
+      "title": "shopify opens checkout to browser based ai agents",
+      "url": "techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3170932": {
+      "at": "2026-09-29T00:24:42.023758+00:00",
+      "title": "amd will acquire fei fei li s world labs for 8 2 billion",
+      "url": "techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion"
+    },
+    "rss:https://techcrunch.com/?p=3170936": {
+      "at": "2026-09-29T00:24:42.023897+00:00",
+      "title": "source inference provider modal labs closing in on 750m round at 15 75b valuation",
+      "url": "techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation"
+    },
+    "rss:https://techcrunch.com/?p=3171035": {
+      "at": "2026-09-29T00:24:42.024003+00:00",
+      "title": "openai reportedly ditches model over safety concerns",
+      "url": "techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -5115,6 +5185,11 @@
       "at": "2026-09-23T18:26:13.104887+00:00",
       "title": "offloaded inference for real world physical ai robotics",
       "url": "microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1186954": {
+      "at": "2026-09-29T00:24:42.024228+00:00",
+      "title": "one year in how microsoft research asia singapore is advancing research partnership and talent for real world impact",
+      "url": "microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -9165,6 +9240,26 @@
       "title": "gpt 3 is discontinued today",
       "url": "reddit.com/r/LocalLLaMA/comments/1ws67x4/gpt3_is_discontinued_today"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws6bmh": {
+      "at": "2026-09-29T00:24:42.024151+00:00",
+      "title": "liked muse so i cut the 30b model in half by width distilled it back and it does 57 of 60 tool tasks its parent does 60 of",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ws6bmh/liked_muse_so_i_cut_the_30b_model_in_half_by"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws6bwf": {
+      "at": "2026-09-29T00:24:42.024332+00:00",
+      "title": "3090 nvlink bridges are there clones of these why are they so insanely expensive",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ws6bwf/3090_nvlink_bridges_are_there_clones_of_these_why"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws77kn": {
+      "at": "2026-09-29T00:24:42.024316+00:00",
+      "title": "minisforum ms s1 max p495 7 799 00",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ws77kn/minisforum_mss1_maxp495_779900"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws8f1r": {
+      "at": "2026-09-29T00:24:42.024304+00:00",
+      "title": "3090 for 1500",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ws8f1r/3090_for_1500"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ws9ydg": {
       "at": "2026-09-28T18:39:15.588655+00:00",
       "title": "nvidia shipped openshell an open source sandbox that gives local and open agents real runtime limits instead of prompt rules over 100 firms joined the safety stack openai did not",
@@ -9180,6 +9275,11 @@
       "title": "you can just merge qwen3 6 3 8 27b to get decent performance with much fewer token generation",
       "url": "reddit.com/r/LocalLLaMA/comments/1wsdyd2/you_can_just_merge_qwen36_38_27b_to_get_decent"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsekkj": {
+      "at": "2026-09-29T00:24:42.024292+00:00",
+      "title": "what model sits between qwen 3 8 27b and flash next for coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsekkj/what_model_sits_between_qwen_38_27b_and_flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsgrma": {
       "at": "2026-09-28T18:39:15.588627+00:00",
       "title": "imajev 4b i spent 15 days fine tuning a 4b model to make business decisions from text and photos and it just ranked 1 of 91 on jevbench ahead of gpt 5 6 luna on decisionbench",
@@ -9189,6 +9289,21 @@
       "at": "2026-09-28T18:39:15.588782+00:00",
       "title": "finally found a model my hardware can run at full precision me",
       "url": "reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsmsnx": {
+      "at": "2026-09-29T00:24:42.024266+00:00",
+      "title": "what do you think about tomoe v2 paper converting dense model to moe model at near lossless accuracy i feel qwen3 8 27b a16b or something along those lines would be amazing though there are architectural hurdles as well as need folr training data",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsmsnx/what_do_you_think_about_tomoe_v2_paper_converting"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsn59w": {
+      "at": "2026-09-29T00:24:42.024252+00:00",
+      "title": "i am concerned about all these disparate hard forks that target specific architectures instead of opening a pr against upstream",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsn59w/i_am_concerned_about_all_these_disparate_hard"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wsq6r5": {
+      "at": "2026-09-29T00:24:42.024028+00:00",
+      "title": "qwen next 3 8 and 3 8 27b vs sonnet 5 5 low and sonnet 5 5 medium",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wsq6r5/qwen_next_38_and_38_27b_vs_sonnet_55_low_and"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9556,6 +9671,6 @@
       "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
     }
   },
-  "updated_at": "2026-09-28T18:39:15.588845+00:00",
+  "updated_at": "2026-09-29T00:24:42.024392+00:00",
   "version": 2
 }
