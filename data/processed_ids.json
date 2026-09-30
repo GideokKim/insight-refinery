@@ -185,6 +185,11 @@
       "title": "openai agent didn t accept no for an answer in australian government breach",
       "url": "arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach"
     },
+    "rss:https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/": {
+      "at": "2026-09-30T16:51:17.984726+00:00",
+      "title": "openai delays ipo over ai safety concerns",
+      "url": "arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns"
+    },
     "rss:https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/": {
       "at": "2026-09-28T18:39:15.588508+00:00",
       "title": "openai halts frontier model training amid string of agent misalignment incidents",
@@ -295,6 +300,11 @@
       "title": "google confirms gemini models hacked three companies in may 2026",
       "url": "arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026"
     },
+    "rss:https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/": {
+      "at": "2026-09-30T16:51:17.984599+00:00",
+      "title": "google s early attempt to pay websites for ai answers is struggling",
+      "url": "arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny"
+    },
     "rss:https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/": {
       "at": "2026-09-24T18:33:26.171322+00:00",
       "title": "google s first suncatcher orbital data center test launches october 1",
@@ -309,6 +319,11 @@
       "at": "2026-09-25T13:48:26.429947+00:00",
       "title": "trump admin using ai to deny medical care for seniors in disastrous experiment",
       "url": "arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment"
+    },
+    "rss:https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/": {
+      "at": "2026-09-30T16:51:17.984672+00:00",
+      "title": "google figures out how to watermark ai designed proteins",
+      "url": "arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins"
     },
     "rss:https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/": {
       "at": "2026-09-09T17:52:30.546263+00:00",
@@ -534,6 +549,11 @@
       "at": "2026-09-24T18:33:26.171311+00:00",
       "title": "introducing gemini 3 8 live with live avatar",
       "url": "deepmind.google/blog/introducing-gemini-38-live-with-live-avatar"
+    },
+    "rss:https://deepmind.google/blog/introducing-synthid-bio/": {
+      "at": "2026-09-30T16:51:17.984690+00:00",
+      "title": "introducing synthid bio",
+      "url": "deepmind.google/blog/introducing-synthid-bio"
     },
     "rss:https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/": {
       "at": "2026-09-03T17:25:47.816122+00:00",
@@ -870,6 +890,11 @@
       "title": "ai native by design lessons learned from building nvidia tensorrt model connect",
       "url": "developer.nvidia.com/blog/ai-native-by-design-lessons-learned-from-building-nvidia-tensorrt-model-connect"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123038": {
+      "at": "2026-09-30T16:51:17.984650+00:00",
+      "title": "tracing agent harness behavior with nvidia nemo relay",
+      "url": "developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1067,6 +1092,11 @@
       "at": "2026-08-28T23:16:04.282516+00:00",
       "title": "the open asr leaderboard adds its first global south language",
       "url": "huggingface.co/blog/open-asr-leaderboard-global-south"
+    },
+    "rss:https://huggingface.co/blog/open-tts-leaderboard": {
+      "at": "2026-09-30T16:51:17.984894+00:00",
+      "title": "open tts leaderboard scalable evaluation for multilingual text to speech and voice cloning",
+      "url": "huggingface.co/blog/open-tts-leaderboard"
     },
     "rss:https://huggingface.co/blog/pwc-search": {
       "at": "2026-08-25T14:38:26.133980+00:00",
@@ -1906,6 +1936,11 @@
       "title": "ai needs 6t in annual revenue to justify data centre boom",
       "url": "thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres"
     },
+    "rss:https://news.ycombinator.com/item?id=49910553": {
+      "at": "2026-09-30T16:51:17.984933+00:00",
+      "title": "the ai race just got awkward",
+      "url": "insufferable.dev/posts/the-ai-race-just-got-awkward"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2098,6 +2133,11 @@
       "at": "2026-09-16T18:14:09.223531+00:00",
       "title": "helping older adults use ai in everyday life",
       "url": "openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+    },
+    "rss:https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+      "at": "2026-09-30T16:51:17.984940+00:00",
+      "title": "helping small businesses put ai to work",
+      "url": "openai.com/index/helping-small-businesses-put-ai-to-work"
     },
     "rss:https://openai.com/index/hex-gpt-6-astra": {
       "at": "2026-09-18T22:36:03.238559+00:00",
@@ -3076,6 +3116,11 @@
       "at": "2026-09-29T16:55:08.088545+00:00",
       "title": "openai devday 2026 live blog",
       "url": "simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog"
+    },
+    "rss:https://simonwillison.net/2026/Sep/29/photo-scrubber/": {
+      "at": "2026-09-30T16:51:17.984904+00:00",
+      "title": "photo scrubber local face blur metadata removal",
+      "url": "simonwillison.net/2026/Sep/29/photo-scrubber"
     },
     "rss:https://simonwillison.net/2026/Sep/3/gpt6-astra/": {
       "at": "2026-09-03T21:59:42.659387+00:00",
@@ -4301,6 +4346,11 @@
       "title": "the ai data center boom is colliding with cities scarred by big industry",
       "url": "techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry"
     },
+    "rss:https://techcrunch.com/?p=3164565": {
+      "at": "2026-09-30T16:51:17.984913+00:00",
+      "title": "destro ai s secret sauce is getting robots and humans on the same page",
+      "url": "techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page"
+    },
     "rss:https://techcrunch.com/?p=3164598": {
       "at": "2026-09-16T18:14:09.223566+00:00",
       "title": "next wave of vcs judging startup battlefield 200 contenders at techcrunch disrupt 2026 revealed",
@@ -5086,6 +5136,11 @@
       "title": "openai s latest features take direct aim at the app store model",
       "url": "techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model"
     },
+    "rss:https://techcrunch.com/?p=3171595": {
+      "at": "2026-09-30T16:51:17.984948+00:00",
+      "title": "3 days left to exhibit turn visibility into your next opportunity at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2"
+    },
     "rss:https://techcrunch.com/?p=3171634": {
       "at": "2026-09-29T21:26:11.893939+00:00",
       "title": "openai repotedly in talks to raise 30b round at 1 4t valuation",
@@ -5100,6 +5155,36 @@
       "at": "2026-09-30T02:08:35.472339+00:00",
       "title": "america gov gets really weird when you ask it about minecraft but it s not a glitch",
       "url": "techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch"
+    },
+    "rss:https://techcrunch.com/?p=3171828": {
+      "at": "2026-09-30T16:51:17.984853+00:00",
+      "title": "cerebras systems andrew feldman on whether ai can keep scaling at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3171925": {
+      "at": "2026-09-30T16:51:17.984864+00:00",
+      "title": "airbnb adds ai search more social features",
+      "url": "techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features"
+    },
+    "rss:https://techcrunch.com/?p=3172103": {
+      "at": "2026-09-30T16:51:17.984705+00:00",
+      "title": "restate lands 20m as the need for durable infrastructure increases with ai agents",
+      "url": "techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3172149": {
+      "at": "2026-09-30T16:51:17.984923+00:00",
+      "title": "instinct s new product recommendations are giving some users the ick",
+      "url": "techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick"
+    },
+    "rss:https://techcrunch.com/?p=3172181": {
+      "at": "2026-09-30T16:51:17.984837+00:00",
+      "title": "doordash launches an ai agent you can text to order food",
+      "url": "techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food"
+    },
+    "rss:https://techcrunch.com/?p=3172182": {
+      "at": "2026-09-30T16:51:17.984825+00:00",
+      "title": "meta disputes claim that muse read a user s private messages without permission",
+      "url": "techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5425,6 +5510,11 @@
       "at": "2026-08-24T11:05:22.951657+00:00",
       "title": "broadening access to skala creates a faster path to predictive dft",
       "url": "microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1186605": {
+      "at": "2026-09-30T16:51:17.984845+00:00",
+      "title": "forecasting space weather risks on power grids",
+      "url": "microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids"
     },
     "rss:https://www.microsoft.com/en-us/research/?p=1186724": {
       "at": "2026-09-21T21:06:07.442256+00:00",
@@ -9685,6 +9775,31 @@
       "title": "thank you mradermacher",
       "url": "reddit.com/r/LocalLLaMA/comments/1wtvx1g/thank_you_mradermacher"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wty1k6": {
+      "at": "2026-09-30T16:51:17.984884+00:00",
+      "title": "1248 gb s on 5060ti 40 with 5500 memory overclocks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wty1k6/1248_gbs_on_5060ti_40_with_5500_memory_overclocks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtz1i3": {
+      "at": "2026-09-30T16:51:17.984810+00:00",
+      "title": "deepseek now trained on ascend 950",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtz1i3/deepseek_now_trained_on_ascend_950"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtzedu": {
+      "at": "2026-09-30T16:51:17.984791+00:00",
+      "title": "baai arex 2 27b agent model based on qwen3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtzedu/baaiarex2_27b_agent_model_based_on_qwen38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wu0bdf": {
+      "at": "2026-09-30T16:51:17.984871+00:00",
+      "title": "add glm 5 3 flash glm5 next support by timkhronos pull request 27773 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wu0bdf/add_glm53flash_glm5next_support_by_timkhronos"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wu2jjy": {
+      "at": "2026-09-30T16:51:17.984741+00:00",
+      "title": "oído speech recognition that beats whisper tiny running on a 5 microcontroller open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -10054,8 +10169,13 @@
       "at": "2026-09-28T18:39:15.588601+00:00",
       "title": "when can we say ai made a scientific discovery",
       "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
+    },
+    "rss:https://www.technologyreview.com/?p=1145339": {
+      "at": "2026-09-30T16:51:17.984767+00:00",
+      "title": "we re not going to shoot ourselves in the foot over hack fallout says openai s chief research officer",
+      "url": "technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     }
   },
-  "updated_at": "2026-09-30T08:34:30.422507+00:00",
+  "updated_at": "2026-09-30T16:51:17.984991+00:00",
   "version": 2
 }
