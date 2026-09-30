@@ -225,6 +225,11 @@
       "title": "trump rejects ai slowdown calls launches ai force instead",
       "url": "arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead"
     },
+    "rss:https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/": {
+      "at": "2026-09-30T02:08:35.472380+00:00",
+      "title": "protests against openai get increasingly creative",
+      "url": "arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -3057,6 +3062,16 @@
       "title": "quoting muse ai agent",
       "url": "simonwillison.net/2026/Sep/28/muse-ai-agent"
     },
+    "rss:https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/": {
+      "at": "2026-09-30T02:08:35.472259+00:00",
+      "title": "quoting anthropic frontier red team",
+      "url": "simonwillison.net/2026/Sep/29/anthropic-frontier-red-team"
+    },
+    "rss:https://simonwillison.net/2026/Sep/29/hn-49898129/": {
+      "at": "2026-09-30T02:08:35.472277+00:00",
+      "title": "gpt 6 1 sol near astra intelligence for a fifth of the price",
+      "url": "simonwillison.net/2026/Sep/29/hn-49898129"
+    },
     "rss:https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/": {
       "at": "2026-09-29T16:55:08.088545+00:00",
       "title": "openai devday 2026 live blog",
@@ -5075,6 +5090,16 @@
       "at": "2026-09-29T21:26:11.893939+00:00",
       "title": "openai repotedly in talks to raise 30b round at 1 4t valuation",
       "url": "techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation"
+    },
+    "rss:https://techcrunch.com/?p=3171681": {
+      "at": "2026-09-30T02:08:35.472362+00:00",
+      "title": "the internet is convinced elon musk s xai trolled openai s dots launch",
+      "url": "techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch"
+    },
+    "rss:https://techcrunch.com/?p=3171769": {
+      "at": "2026-09-30T02:08:35.472339+00:00",
+      "title": "america gov gets really weird when you ask it about minecraft but it s not a glitch",
+      "url": "techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -9590,6 +9615,11 @@
       "title": "iquestlab iquest q1 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1wt6gkp/iquestlabiquestq1_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt7e8l": {
+      "at": "2026-09-30T02:08:35.472325+00:00",
+      "title": "qwen 3 8 27b q4 with 100k context on a 16 gb rx 7800 xt guide",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wt7e8l/qwen_38_27b_q4_with_100k_context_on_a_16_gb_rx"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wt7e94": {
       "at": "2026-09-29T16:55:08.088563+00:00",
       "title": "reflection 70b was released two years ago september 2024",
@@ -9614,6 +9644,26 @@
       "at": "2026-09-29T21:26:11.893982+00:00",
       "title": "anthropic just dropped the greatest advertisement for glm ever",
       "url": "reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtjp1j": {
+      "at": "2026-09-30T02:08:35.472393+00:00",
+      "title": "another case of censorship",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtjp1j/another_case_of_censorship"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtp87p": {
+      "at": "2026-09-30T02:08:35.472308+00:00",
+      "title": "amd boosting ai llm performance for radeon igpus as much as 18 23 with linux 7 4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtp87p/amd_boosting_aillm_performance_for_radeon_igpus"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtp9x4": {
+      "at": "2026-09-30T02:08:35.472293+00:00",
+      "title": "are you worried about a potential ban of chinese open weight models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtpntt": {
+      "at": "2026-09-30T02:08:35.472186+00:00",
+      "title": "qwen family llms are quietly becoming the backbone of modern audio models one chart for the architectures of 100 audio models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -9986,6 +10036,6 @@
       "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
     }
   },
-  "updated_at": "2026-09-29T21:26:11.894036+00:00",
+  "updated_at": "2026-09-30T02:08:35.472434+00:00",
   "version": 2
 }
