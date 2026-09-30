@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-09-30T02:08:33.146331+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+        "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+        "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+        "author": null,
+        "published_at": "2026-09-30T05:53:10+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI DevDay 2026 주요 발표 요약",
+        "summary_ko": [
+          "OpenAI는 DevDay 2026에서 클라우드 컴퓨터 기반의 상시 에이전트 서비스인 Dots와 협업 공간인 ChatGPT Spaces를 공개했습니다.",
+          "고성능과 저렴한 비용을 동시에 제공하는 새로운 모델 GPT-6.1 Sol과 함께 초고속 모드 및 Decisions API 등 다양한 플랫폼 업데이트가 발표되었습니다.",
+          "이번 발표는 기업용 AI 예산 확보를 위한 새로운 B2B 마켓플레이스 및 요금제 개편도 포함하여 실무 전반에 큰 영향을 미칠 전망입니다."
+        ],
+        "category": "Product",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wtg12r",
+        "title": "RAM Offloading with vLLM - tcclaviger appreciation post",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation/",
+        "author": "/u/sloptimizer",
+        "published_at": "2026-09-29T17:14:45+00:00"
+      },
+      "insight": {
+        "title_ko": "vLLM의 RAM 오프로딩 지원",
+        "summary_ko": [
+          "vLLM에 개발자 tcclaviger의 기여로 전문가 모델의 RAM 오프로딩 지원 기능이 추가되었습니다.",
+          "이 업데이트를 통해 로컬 환경에서도 대형 프론티어 모델을 훨씬 더 쉽게 구동할 수 있게 되었습니다.",
+          "실제 사용자들은 하드웨어 제약을 극복하고 복잡한 파라미터 설정을 통해 대형 모델을 실행하는 데 성공했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

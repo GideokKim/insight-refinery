@@ -5271,6 +5271,11 @@
       "title": "ainews nvidia buys huggingface for 13b as openai publishes their hf incident retro",
       "url": "latent.space/p/ainews-nvidia-buys-huggingface-for"
     },
+    "rss:https://www.latent.space/p/ainews-openai-devday-2026-dots-61": {
+      "at": "2026-09-30T08:34:30.422375+00:00",
+      "title": "ainews openai devday 2026 dots 6 1 sol ultrafast decisions api agents api spaces marketplace and 1 2 billion chatgpt wau",
+      "url": "latent.space/p/ainews-openai-devday-2026-dots-61"
+    },
     "rss:https://www.latent.space/p/ainews-openai-reports-navier-stokes": {
       "at": "2026-09-09T06:50:19.410752+00:00",
       "title": "ainews openai reports navier stokes singularity find in 88 hours using astra next roughly 10 000 agents and 130b tokens 40m a contender for second ever millennium prize awarded",
@@ -9635,6 +9640,11 @@
       "title": "glm 5 3 and the spread of advanced cyber capabilities anthropic",
       "url": "reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtg12r": {
+      "at": "2026-09-30T08:34:30.422422+00:00",
+      "title": "ram offloading with vllm tcclaviger appreciation post",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtg12r/ram_offloading_with_vllm_tcclaviger_appreciation"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtg1hs": {
       "at": "2026-09-29T21:26:11.893990+00:00",
       "title": "deepseek harness app is out now",
@@ -9664,6 +9674,16 @@
       "at": "2026-09-30T02:08:35.472186+00:00",
       "title": "qwen family llms are quietly becoming the backbone of modern audio models one chart for the architectures of 100 audio models",
       "url": "reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtv43r": {
+      "at": "2026-09-30T08:34:30.422441+00:00",
+      "title": "qwen3 8 flash next ista daslab gguf 50t s tg and 1500t s pp with 12gb vram and 64gb ram laptop on strata engine",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtv43r/qwen38_flash_next_istadaslab_gguf_50ts_tg_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wtvx1g": {
+      "at": "2026-09-30T08:34:30.422460+00:00",
+      "title": "thank you mradermacher",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wtvx1g/thank_you_mradermacher"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10036,6 +10056,6 @@
       "url": "technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery"
     }
   },
-  "updated_at": "2026-09-30T02:08:35.472434+00:00",
+  "updated_at": "2026-09-30T08:34:30.422507+00:00",
   "version": 2
 }
