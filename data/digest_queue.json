@@ -265,6 +265,226 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123110",
+        "title": "Deploying an HSTU Generative Recommender with NVIDIA Dynamo-Triton",
+        "url": "https://developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-09-30T20:54:59+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Dynamo-Triton 기반 생성형 추천 시스템 배포",
+        "summary_ko": [
+          "생성형 추천 시스템은 사용자 행동을 시퀀스 모델링으로 재구성하여 대규모 개인화의 새로운 접근법으로 부상하고 있습니다.",
+          "기존의 분리된 검색, 순위 지정, 예측 단계를 통합하여 상호작용과 후보 아이템을 이벤트 스트림의 토큰으로 처리합니다.",
+          "NVIDIA Dynamo-Triton을 활용해 HSTU 기반 생성형 추천 시스템을 효율적으로 배포하는 방법을 다룹니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+        "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+        "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+        "author": "Ryan Whitwam",
+        "published_at": "2026-09-30T20:11:08+00:00"
+      },
+      "insight": {
+        "title_ko": "구글, 신형 AI 모델 Gemini 4 Argon 발표",
+        "summary_ko": [
+          "구글이 코딩과 지식 업무에서 최고 성능을 발휘하는 차세대 AI 모델 Gemini 4 Argon을 공개했습니다.",
+          "현재 일반 사용자는 이용할 수 없으나 내부 엔지니어들은 데이터센터 최적화와 코드 마이그레이션에 이미 활용 중입니다.",
+          "DeepSWE v1.1 등 주요 벤치마크에서 우수한 성적을 기록하며 장기 작업 수행 능력을 입증했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "title": "Gemini 4 Argon: our next era of frontier intelligence",
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+        "author": null,
+        "published_at": "2026-09-30T20:01:45+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemini 4 Argon 공개",
+        "summary_ko": [
+          "Google DeepMind는 새로운 프론티어 AI 모델인 Gemini 4 Argon을 공식 발표했습니다.",
+          "이번 발표는 차세대 인공지능 지능의 시대를 열어갈 새로운 모델의 등장을 예고합니다.",
+          "상세한 기술적 세부 사항은 아직 공개되지 않았으나 업계의 큰 관심을 받고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123090",
+        "title": "Expanding AI Storage Access with NVIDIA cuObject and the NVIDIA SCADA Server SDK",
+        "url": "https://developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk/",
+        "author": "Harish Arora",
+        "published_at": "2026-09-30T19:13:02+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA cuObject과 SCADA Server SDK를 통한 AI 스토리지 접근성 확대",
+        "summary_ko": [
+          "AI 인프라 엔지니어와 스토리지 개발자는 AI 워크로드를 지원하기 위해 고용량 파일 및 객체 스토리지에 대한 빠르고 안전한 접근이 필요합니다.",
+          "AI 워크로드는 학습, 파인튜닝, 추론 컨텍스트, 툴 콜, 검색 및 데이터베이스 조회 등을 위해 고속 데이터 접근을 점점 더 요구하고 있습니다.",
+          "이러한 데이터의 대부분은 온프레미스와 클라우드 전반에 걸쳐 파일 및 객체 형태로 저장되어 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+        "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
+        "url": "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-09-30T18:47:01+00:00"
+      },
+      "insight": {
+        "title_ko": "트럼프 행정부의 자율 규제 기반 AI 안전 정책",
+        "summary_ko": [
+          "도널드 트럼프는 AI 리스크 대응을 위해 빅테크 기업들이 스스로 규제하는 방안을 지속적으로 지지하고 있습니다.",
+          "화요일 체결된 협약에 따라 24개 주요 테크 기업은 백악관이 권장하는 통제 조치와 독립적인 안전 감사를 자발적으로 약속했습니다.",
+          "이번 외부 검토의 주요 초점은 사이버 보안, 생물 보안, 화학적 위협 및 AI 모델의 의도치 않은 행동과 관련된 위험입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+        "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+        "author": "Jon Brodkin",
+        "published_at": "2026-09-30T18:25:04+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 Hugging Face 해킹 관련 소송 제기",
+        "summary_ko": [
+          "비영리단체 LASST가 OpenAI를 상대로 Hugging Face 해킹 사건에 대한 소송을 제기했습니다.",
+          "소송은 AI 에이전트가 자율적으로 수행한 사이버 공격이라도 법적 책임 면제가 될 수 없음을 지적했습니다.",
+          "이번 소송은 무단 시스템 접근 및 불공정 경쟁법 위반을 이유로 안전하지 않은 AI 개발 중단을 요구하고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3172243",
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+        "author": "Sarah Perez",
+        "published_at": "2026-09-30T17:45:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Reddit, AI 봇 대응 위해 RSS 및 공공 API 중단",
+        "summary_ko": [
+          "Reddit이 이용자 생성 콘텐츠 보호를 위해 RSS 피드 지원을 종료하기로 결정했습니다.",
+          "이번 조치는 플랫폼 내 데이터에 접근하는 AI 봇들을 차단하기 위한 tightening access의 일환입니다.",
+          "공공 API 접근까지 중단됨에 따라 외부 서비스들의 데이터 수집 방식에 큰 변화가 예상됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wu8tpg",
+        "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+        "author": "/u/xenovatech",
+        "published_at": "2026-09-30T16:02:55+00:00"
+      },
+      "insight": {
+        "title_ko": "세계에서 가장 빠른 WebGPU 커널 오픈소스 공개",
+        "summary_ko": [
+          "브라우저에서 WebGPU 기반으로 로컬 AI를 실행할 수 있는 세계에서 가장 빠른 커널 컬렉션이 오픈소스로 공개되었습니다.",
+          "이 컬렉션에는 200개 이상의 공통 머신러닝 연산에 대한 커널이 포함되어 있어 브라우저 내에서 완전히 구동됩니다.",
+          "개발진은 향후 Transformers.js 및 ONNX Runtime Web 등에 이러한 최적화 기술을 업스트림할 계획입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wu3wxu",
+        "title": "add GLM-5.3-Flash (GLM5-Next) support (#27773) · ggml-org/llama.cpp@649dcb1",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773/",
+        "author": "/u/challis88ocarina",
+        "published_at": "2026-09-30T12:41:58+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp, GLM-5.3-Flash 지원 추가",
+        "summary_ko": [
+          "llama.cpp 저장소에 GLM-5.3-Flash 및 GLM5-Next 모델 지원이 새로 추가되었습니다.",
+          "이번 업데이트를 통해 로컬 환경에서도 해당 모델을 효율적으로 구동할 수 있게 되었습니다.",
+          "개발자들은 최신 모델 아키텍처를 로컬 추론 파이프라인에 즉시 활용할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "title": "Disrupting a coordinated model-distillation campaign",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "author": null,
+        "published_at": "2026-09-30T10:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "모델 증류 캠페인 차단 및 방어 강화",
+        "summary_ko": [
+          "OpenAI는 보호된 모델의 추론 능력을 탈취하려는 조직적인 증류 캠페인을 성공적으로 차단했다고 밝혔습니다.",
+          "이번 조치는 AI 모델의 핵심 자산을 무단으로 추출하려는 악의적인 시도에 대응하기 위해 이루어졌습니다.",
+          "OpenAI는 향후 유사한 공격을 방어하기 위해 모델 보안 체계를 더욱 강화하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -290,6 +290,11 @@
       "title": "pocket s ai made my game ideas real now meta controls the results",
       "url": "arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results"
     },
+    "rss:https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/": {
+      "at": "2026-09-30T21:27:04.076684+00:00",
+      "title": "google announces gemini 4 argon ai model but you can t use it yet",
+      "url": "arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet"
+    },
     "rss:https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/": {
       "at": "2026-09-17T22:53:10.073443+00:00",
       "title": "google announces new experimental cc ai agent for families",
@@ -314,6 +319,11 @@
       "at": "2026-08-25T17:21:53.012088+00:00",
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
       "url": "arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs"
+    },
+    "rss:https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/": {
+      "at": "2026-09-30T21:27:04.076807+00:00",
+      "title": "rfk jr thinks ai will free us from the tyranny of medical facts expertise",
+      "url": "arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt"
     },
     "rss:https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/": {
       "at": "2026-09-25T13:48:26.429947+00:00",
@@ -445,6 +455,11 @@
       "title": "court rules trump can blacklist anthropic for refusing to enable claude features",
       "url": "arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/": {
+      "at": "2026-09-30T21:27:04.076717+00:00",
+      "title": "an ai did it is no defense says nonprofit suing openai over hugging face hack",
+      "url": "arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/": {
       "at": "2026-09-22T22:59:04.939958+00:00",
       "title": "lawsuit demands openai pay for new school after chatgpt used in shooting",
@@ -500,6 +515,11 @@
       "title": "trump may be forced to reveal secret rules feds use for ai safety testing",
       "url": "arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/": {
+      "at": "2026-09-30T21:27:04.076710+00:00",
+      "title": "trump plan to combat ai risks hinges on big tech pals policing themselves",
+      "url": "arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/": {
       "at": "2026-09-18T17:41:47.674352+00:00",
       "title": "us government website used chinese model the fbi called malicious",
@@ -519,6 +539,11 @@
       "at": "2026-08-24T11:05:22.951784+00:00",
       "title": "from atari to eve online building on 15 years of ai research in games",
       "url": "deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
+    },
+    "rss:https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
+      "at": "2026-09-30T21:27:04.076694+00:00",
+      "title": "gemini 4 argon our next era of frontier intelligence",
+      "url": "deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence"
     },
     "rss:https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
       "at": "2026-08-28T01:13:09.165194+00:00",
@@ -894,6 +919,16 @@
       "at": "2026-09-30T16:51:17.984650+00:00",
       "title": "tracing agent harness behavior with nvidia nemo relay",
       "url": "developer.nvidia.com/blog/tracing-agent-harness-behavior-with-nvidia-nemo-relay"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123090": {
+      "at": "2026-09-30T21:27:04.076702+00:00",
+      "title": "expanding ai storage access with nvidia cuobject and the nvidia scada server sdk",
+      "url": "developer.nvidia.com/blog/expanding-ai-storage-access-with-nvidia-cuobject-and-the-nvidia-scada-server-sdk"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123110": {
+      "at": "2026-09-30T21:27:04.076651+00:00",
+      "title": "deploying an hstu generative recommender with nvidia dynamo triton",
+      "url": "developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -2068,6 +2103,11 @@
       "at": "2026-09-29T21:26:11.893797+00:00",
       "title": "devday 2026 recap",
       "url": "openai.com/index/devday-2026-recap"
+    },
+    "rss:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+      "at": "2026-09-30T21:27:04.076758+00:00",
+      "title": "disrupting a coordinated model distillation campaign",
+      "url": "openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
     },
     "rss:https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
       "at": "2026-08-25T11:15:55.505381+00:00",
@@ -5185,6 +5225,31 @@
       "at": "2026-09-30T16:51:17.984825+00:00",
       "title": "meta disputes claim that muse read a user s private messages without permission",
       "url": "techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission"
+    },
+    "rss:https://techcrunch.com/?p=3172187": {
+      "at": "2026-09-30T21:27:04.076780+00:00",
+      "title": "openai s jev clone could help the frontier lab stop its swarming agents",
+      "url": "techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents"
+    },
+    "rss:https://techcrunch.com/?p=3172200": {
+      "at": "2026-09-30T21:27:04.076802+00:00",
+      "title": "the ugly economics of consumer ai",
+      "url": "techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai"
+    },
+    "rss:https://techcrunch.com/?p=3172243": {
+      "at": "2026-09-30T21:27:04.076725+00:00",
+      "title": "reddit is killing rss feeds and ending public api access because of ai bots",
+      "url": "techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots"
+    },
+    "rss:https://techcrunch.com/?p=3172305": {
+      "at": "2026-09-30T21:27:04.076789+00:00",
+      "title": "ai voice startup elevenlabs doubles valuation to 22b",
+      "url": "techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b"
+    },
+    "rss:https://techcrunch.com/?p=3172428": {
+      "at": "2026-09-30T21:27:04.076763+00:00",
+      "title": "valor atreides and sequoia back ai startup flow engineering at 750m valuation",
+      "url": "techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -9800,6 +9865,31 @@
       "title": "oído speech recognition that beats whisper tiny running on a 5 microcontroller open source",
       "url": "reddit.com/r/LocalLLaMA/comments/1wu2jjy/oído_speech_recognition_that_beats_whispertiny"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wu3wxu": {
+      "at": "2026-09-30T21:27:04.076746+00:00",
+      "title": "add glm 5 3 flash glm5 next support 27773 ggml org llama cpp 649dcb1",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wu3wxu/add_glm53flash_glm5next_support_27773"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wu8tpg": {
+      "at": "2026-09-30T21:27:04.076737+00:00",
+      "title": "we just open sourced the world s fastest webgpu kernels for local ai on hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wu9ksu": {
+      "at": "2026-09-30T21:27:04.076813+00:00",
+      "title": "update yandex aliceai 80b a3b fine tune progress",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wu9ksu/update_yandexaliceai_80ba3b_fine_tune_progress"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wuboum": {
+      "at": "2026-09-30T21:27:04.076794+00:00",
+      "title": "another ling model comes out same receipt 2 weeks free to use then open source chinese labs do contribute a lot to open source community",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wuboum/another_ling_model_comes_out_same_receipt_2_weeks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wue339": {
+      "at": "2026-09-30T21:27:04.076769+00:00",
+      "title": "preorder for new amd ryzentm ai max 400 series 192gb from framework just started",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -10176,6 +10266,6 @@
       "url": "technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     }
   },
-  "updated_at": "2026-09-30T16:51:17.984991+00:00",
+  "updated_at": "2026-09-30T21:27:04.076838+00:00",
   "version": 2
 }
