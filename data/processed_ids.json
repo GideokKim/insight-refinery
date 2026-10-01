@@ -3167,6 +3167,11 @@
       "title": "gpt 6 astra",
       "url": "simonwillison.net/2026/Sep/3/gpt6-astra"
     },
+    "rss:https://simonwillison.net/2026/Sep/30/he-built-this-city/": {
+      "at": "2026-10-01T02:10:07.535184+00:00",
+      "title": "he built this city",
+      "url": "simonwillison.net/2026/Sep/30/he-built-this-city"
+    },
     "rss:https://simonwillison.net/2026/Sep/4/astra-pelicans/": {
       "at": "2026-09-05T00:27:55.389600+00:00",
       "title": "the pelican comparison grid for astra is pretty interesting",
@@ -5251,6 +5256,11 @@
       "title": "valor atreides and sequoia back ai startup flow engineering at 750m valuation",
       "url": "techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation"
     },
+    "rss:https://techcrunch.com/?p=3172532": {
+      "at": "2026-10-01T02:10:07.535062+00:00",
+      "title": "google releases gemini 4 argon called its most powerful model yet",
+      "url": "techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -5495,6 +5505,11 @@
       "at": "2026-09-23T13:44:54.793706+00:00",
       "title": "bio security is an ai arms race eric nguyen ceo radical numerics",
       "url": "latent.space/p/bio-security-is-an-ai-arms-race-eric"
+    },
+    "rss:https://www.latent.space/p/devday-2026": {
+      "at": "2026-10-01T02:10:07.535110+00:00",
+      "title": "why dwarkesh is wrong about computer use how openai shipped its jev competitor in 1 week",
+      "url": "latent.space/p/devday-2026"
     },
     "rss:https://www.latent.space/p/forward-deployed-engineer-best-practices": {
       "at": "2026-09-12T17:11:05.008540+00:00",
@@ -9890,6 +9905,21 @@
       "title": "preorder for new amd ryzentm ai max 400 series 192gb from framework just started",
       "url": "reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wufzrh": {
+      "at": "2026-10-01T02:10:07.535172+00:00",
+      "title": "qwen3 8 27b pi effort ordered reasoning for agentic coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wufzrh/qwen3827bpi_effortordered_reasoning_for_agentic"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wuhrop": {
+      "at": "2026-10-01T02:10:07.535151+00:00",
+      "title": "if one hour of ai is costing me 0 12 is paying for frontier a cheaper option",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wuk9so": {
+      "at": "2026-10-01T02:10:07.535131+00:00",
+      "title": "least to most expensive somewhat modern gpu s with 32gb of vram under 1600 based on ebay listings",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wuk9so/least_to_most_expensive_somewhat_modern_gpus_with"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -10266,6 +10296,6 @@
       "url": "technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     }
   },
-  "updated_at": "2026-09-30T21:27:04.076838+00:00",
+  "updated_at": "2026-10-01T02:10:07.535221+00:00",
   "version": 2
 }
