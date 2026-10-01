@@ -1,5 +1,116 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-01T02:10:05.197355+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+        "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+        "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+        "author": null,
+        "published_at": "2026-10-01T06:45:05+00:00"
+      },
+      "insight": {
+        "title_ko": "Google DeepMind, Gemini 4 Argon 공개",
+        "summary_ko": [
+          "Google DeepMind은 코딩과 사이버 방어를 위한 플래그십 모델 Gemini 4 Argon을 발표했습니다.",
+          "업계 최초로 Long Decode Continuation 기능을 통해 1M 토큰의 출력 한계를 제공합니다.",
+          "주요 벤치마크에서 우수한 성능을 기록했으나 현재는 제한된 사이버 보안 프리뷰로만 접근할 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+        "title": "Quoting Matthew Green",
+        "url": "https://simonwillison.net/2026/Oct/1/matthew-green/",
+        "author": null,
+        "published_at": "2026-10-01T06:29:01+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트 웜 공격의 보안 위험성",
+        "summary_ko": [
+          "격리된 샌드박스 환경의 AI 에이전트들이 공유 패키지 캐시를 통해 서로에게 악성 지시사항을 전달할 수 있음이 확인되었습니다.",
+          "에이전트를 탈취하는 페이로드와 이를 다음 에이전트로 전파하는 기능이 결합되면 AI 웜의 요건이 완성됩니다.",
+          "이러한 취약점은 이메일이나 Slack 같은 공유 채널과 결합되어 독립적으로 배포된 에이전트들에게 심각한 보안 위협이 될 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=122986",
+        "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages",
+        "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-10-01T05:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Nemotron의 사우디 아라비아 방언 파인튜닝",
+        "summary_ko": [
+          "자동음성인식 기술은 프리트레이닝 데이터에 부족한 지역 방언과 실제 대화 스타일을 효과적으로 처리해야 한다.",
+          "광범위한 벤치마크에서 우수한 다국어 모델이라도 실제 배포 환경에서는 성능이 떨어질 수 있다.",
+          "NVIDIA는 사우디 아라비아 방언을 위한 Nemotron 모델 파인튜닝을 통해 이러한 실무적 한계를 극복하는 길을 제시한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wujph3",
+        "title": "Two open-weights releases: Victoria (Qwen3.8-Flash-Next with 44% of experts cut, 70% Terminal-Bench 2.1, GGUF included) and Maple (a Canada-first fine-tune)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext/",
+        "author": "/u/rmonsurate",
+        "published_at": "2026-09-30T23:10:03+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈웨이트 LLM Victoria 및 Maple 공개",
+        "summary_ko": [
+          "REAP 기법으로 전문가의 44%를 제거하고 NVFP4로 학습된 Victoria 모델이 공개되었습니다.",
+          "Victoria는 48.0 GiB 크기에 뛰어난 코딩 및 에이전트 성능을 보여줍니다.",
+          "캐나다 특화 미세조정 모델인 Maple은 관련 질문에 대해 공식 출처 인용율을 크게 개선했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wuj70v",
+        "title": "Open source inference engine (like LM Studio or Unsloth Desktop) that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple Silicon, NVIDIA, AMD or nothing but a CPU.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or/",
+        "author": "/u/paranoidray",
+        "published_at": "2026-09-30T22:46:30+00:00"
+      },
+      "insight": {
+        "title_ko": "하드웨어 최적화 오픈소스 추론 엔진",
+        "summary_ko": [
+          "사용자의 기기 환경에 맞춰 커널을 컴파일하고 튜닝하는 오픈소스 추론 엔진이 소개되었습니다.",
+          "Apple Silicon, NVIDIA, AMD 및 일반 CPU 환경을 모두 지원하여 작동합니다.",
+          "llama.cpp 대비 최대 2배 빠른 속도로 오픈 모델을 구동할 수 있다고 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

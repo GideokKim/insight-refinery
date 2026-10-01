@@ -905,6 +905,11 @@
       "title": "how nvidia dsx maxlps maximizes ai factory throughput and efficiency",
       "url": "developer.nvidia.com/blog/how-nvidia-dsx-maxlps-maximizes-ai-factory-throughput-and-efficiency"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122986": {
+      "at": "2026-10-01T08:58:35.109389+00:00",
+      "title": "fine tuning nvidia nemotron for saudi arabic dialects with a path to other languages",
+      "url": "developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-for-saudi-arabic-dialects-with-a-path-to-other-languages"
+    },
     "rss:https://developer.nvidia.com/blog/?p=123017": {
       "at": "2026-09-29T21:26:11.893854+00:00",
       "title": "lower the cost of building and running visual ai agents with nvidia vss blueprint 3 3",
@@ -1976,6 +1981,11 @@
       "title": "the ai race just got awkward",
       "url": "insufferable.dev/posts/the-ai-race-just-got-awkward"
     },
+    "rss:https://news.ycombinator.com/item?id=49913458": {
+      "at": "2026-10-01T08:58:35.109500+00:00",
+      "title": "cs240 ai cheating retrospective",
+      "url": "turkeyland.net/thoughts/ai.php"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2776,6 +2786,11 @@
       "at": "2026-09-01T01:30:17.354421+00:00",
       "title": "introducing wrapture",
       "url": "simonwillison.net/2026/Aug/31/introducing-wrapture"
+    },
+    "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
+      "at": "2026-10-01T08:58:35.109372+00:00",
+      "title": "quoting matthew green",
+      "url": "simonwillison.net/2026/Oct/1/matthew-green"
     },
     "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
       "at": "2026-09-02T00:38:13.031615+00:00",
@@ -5380,6 +5395,11 @@
       "at": "2026-09-01T06:55:24.714912+00:00",
       "title": "ainews fal s h3 max live breaks the infinite videogen barrier",
       "url": "latent.space/p/ainews-fals-h3-max-live-breaks-the"
+    },
+    "rss:https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer": {
+      "at": "2026-10-01T08:58:35.109323+00:00",
+      "title": "ainews gemini 4 argon gdm s answer to astra fable with 1m output",
+      "url": "latent.space/p/ainews-gemini-4-argon-gdms-answer"
     },
     "rss:https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest": {
       "at": "2026-09-04T06:40:46.474315+00:00",
@@ -9915,10 +9935,35 @@
       "title": "if one hour of ai is costing me 0 12 is paying for frontier a cheaper option",
       "url": "reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wuj70v": {
+      "at": "2026-10-01T08:58:35.109437+00:00",
+      "title": "open source inference engine like lm studio or unsloth desktop that optimizes itself for your exact hardware compiles and tunes its kernels on your device so open models run up to 2x faster than llama cpp works on apple silicon nvidia amd or nothing but a cpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wuj70v/open_source_inference_engine_like_lm_studio_or"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wujph3": {
+      "at": "2026-10-01T08:58:35.109409+00:00",
+      "title": "two open weights releases victoria qwen3 8 flash next with 44 of experts cut 70 terminal bench 2 1 gguf included and maple a canada first fine tune",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wujph3/two_openweights_releases_victoria_qwen38flashnext"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wuk9so": {
       "at": "2026-10-01T02:10:07.535131+00:00",
       "title": "least to most expensive somewhat modern gpu s with 32gb of vram under 1600 based on ebay listings",
       "url": "reddit.com/r/LocalLLaMA/comments/1wuk9so/least_to_most_expensive_somewhat_modern_gpus_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wukf5d": {
+      "at": "2026-10-01T08:58:35.109515+00:00",
+      "title": "ai ceo interviews 2026",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wukf5d/ai_ceo_interviews_2026"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wupsay": {
+      "at": "2026-10-01T08:58:35.109480+00:00",
+      "title": "finally got my 4th card in 64gb total",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wupsay/finally_got_my_4th_card_in_64gb_total"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wur4lt": {
+      "at": "2026-10-01T08:58:35.109465+00:00",
+      "title": "qwen flash next mtp work restarted",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wur4lt/qwen_flash_next_mtp_work_restarted"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10296,6 +10341,6 @@
       "url": "technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     }
   },
-  "updated_at": "2026-10-01T02:10:07.535221+00:00",
+  "updated_at": "2026-10-01T08:58:35.109581+00:00",
   "version": 2
 }
