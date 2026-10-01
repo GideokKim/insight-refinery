@@ -111,6 +111,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3172692",
+        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+        "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+        "author": "Sarah Perez",
+        "published_at": "2026-10-01T16:44:35+00:00"
+      },
+      "insight": {
+        "title_ko": "Shopify, AI 대화형 스토어 빌더 Canvas 공개",
+        "summary_ko": [
+          "Shopify가 AI 에이전트 Sidekick과 대화하며 온라인 스토어를 구축하는 Canvas를 새롭게 선보였습니다.",
+          "판매자는 코딩 없이 자연어로 대화하는 것만으로 스토어를 생성하고 커스터마이징할 수 있습니다.",
+          "AI 에이전트가 반영하는 변경 사항을 실시간으로 화면을 통해 직접 확인할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "title": "With most information hidden, the game Stratego had stumped AI—until now",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "author": "Jacek Krywko",
+        "published_at": "2026-10-01T16:28:04+00:00"
+      },
+      "insight": {
+        "title_ko": "불완전 정보 게임 스트라테고 정복한 AI 아라크소스",
+        "summary_ko": [
+          "카네기멜론대와 MIT 등 공동 연구진이 개발한 AI 아라크소스가 역사상 최고의 스트라테고 선수인 핌 니메이어를 상대로 압승을 거두었습니다.",
+          "스트라테고는 대규모의 숨겨진 정보와 오랜 시간에 걸쳐 전개되는 특성 때문에 그간 AI에게 가장 어려운 불완전 정보 게임 중 하나로 꼽혔습니다.",
+          "특히 이 AI는 거대 예산 없이 단 16개의 GPU와 적은 비용만으로 훈련되어 실무적 효율성을 입증했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/allenai/olmocore3",
+        "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+        "url": "https://huggingface.co/blog/allenai/olmocore3",
+        "author": null,
+        "published_at": "2026-10-01T15:01:43+00:00"
+      },
+      "insight": {
+        "title_ko": "Olmo-core 3 학습 인프라 공개",
+        "summary_ko": [
+          "Hugging Face Blog를 통해 대규모 MoE 모델을 위한 개방형 확장 가능 학습 인프라 Olmo-core 3가 소개되었다.",
+          "이 인프라는 오픈소스 대형 언어 모델의 학습 효율성과 확장성을 높이는 데 기여한다.",
+          "실무자들은 이를 활용해 대규모 Mixture of Experts 모델을 더 효과적으로 구축할 수 있다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wv05u1",
+        "title": "Jeff-Qwen3.5-0.8B v1.2 + 9 LoRA adapters: put it in front of Qwen3.8-27B for 38× faster decisions and +8.7 points accuracy, for under 2 GB extra memory",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wv05u1/jeffqwen3508b_v12_9_lora_adapters_put_it_in_front/",
+        "author": "/u/Usual_Maximum7673",
+        "published_at": "2026-10-01T13:58:41+00:00"
+      },
+      "insight": {
+        "title_ko": "소형 시스템 1 모델과 LoRA 어댑터",
+        "summary_ko": [
+          "개발자가 소형 모델 Jeff-Qwen3.5-0.8B에 9개의 작업별 LoRA 어댑터를 결합한 시스템을 공개했습니다.",
+          "이 구조는 대형 모델 앞에 배치되어 의도 분류나 도구 선택 등의 반복적인 결정을 38배 빠르게 처리합니다.",
+          "대형 모델 단독 사용 대비 정확도가 향상되면서도 추가 메모리는 2GB 미만으로 소모됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49921050",
+        "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+        "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+        "author": "dgellow",
+        "published_at": "2026-10-01T13:00:55+00:00"
+      },
+      "insight": {
+        "title_ko": "FTC의 주요 AI 기업 제품 리스크 조사",
+        "summary_ko": [
+          "미국 연방거래위원회(FTC)가 OpenAI와 Anthropic 등 주요 AI 기업들을 대상으로 제품 리스크 조사를 착수했다.",
+          "이번 조사는 AI 기술의 상용화 과정에서 발생할 수 있는 잠재적 위험과 규제 준수 여부를 확인하기 위함이다.",
+          "주요 AI 기업들에 대한 규제 기관의 감시가 강화되면서 향후 실무 개발과 서비스 운영에 큰 영향을 미칠 것으로 보인다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wutkgt",
+        "title": "DeepSeek harness 0.2 - Optional Bundle Architecture, Windows Sandbox improvements, Async Question Mode, Desktop release, Web Search without key",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wutkgt/deepseek_harness_02_optional_bundle_architecture/",
+        "author": "/u/WebAssemblyMan",
+        "published_at": "2026-10-01T07:59:36+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek harness 0.2 버전 업데이트",
+        "summary_ko": [
+          "DeepSeek harness 0.2 버전이 출시되며 선택적 번들 아키텍처와 Windows Sandbox 개선 등이 도입되었습니다.",
+          "에이전트의 안정적인 실행과 복구를 위해 권한 진단 기능 및 비동기 질문 모드가 추가되었습니다.",
+          "공식 데스크톱 클라이언트 출시와 함께 API 키 없는 웹 검색 등 실무 활용도가 강화되었습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
