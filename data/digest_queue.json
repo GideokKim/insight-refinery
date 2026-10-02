@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-01T23:55:05.083219+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+        "title": "[AINews] Pi 1.0, Pi Durable, and AIE NYC",
+        "url": "https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc",
+        "author": null,
+        "published_at": "2026-10-02T06:40:53+00:00"
+      },
+      "insight": {
+        "title_ko": "Pi 1.0 및 최신 LLM 동향",
+        "summary_ko": [
+          "Pi 1.0과 타입스크립트 기반의 상태 유지 에이전트 프레임워크인 Pi Durable이 공개되었습니다.",
+          "구글은 사전학습 및 장기 후학습 데이터가 개선된 차세대 모델 Gemini 4 Argon을 발표했습니다.",
+          "오픈아이는 성능과 서빙 효율성이 향상된 GPT-6.1 Sol 모델을 선보였습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

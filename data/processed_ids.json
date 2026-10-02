@@ -1015,6 +1015,11 @@
       "title": "safety for whom refusing the right subset of a topic not the whole topic",
       "url": "huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
     },
+    "rss:https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
+      "at": "2026-10-02T08:32:15.241974+00:00",
+      "title": "autosynthdata generating training data for enterprise agents",
+      "url": "huggingface.co/blog/ServiceNow-AI/autosynthdata"
+    },
     "rss:https://huggingface.co/blog/agent-intrusion-technical-timeline": {
       "at": "2026-08-19T17:19:19.683244+00:00",
       "title": "anatomy of a frontier lab agent intrusion a technical timeline of the july 2026 incident",
@@ -2020,6 +2025,11 @@
       "at": "2026-10-01T17:23:15.420938+00:00",
       "title": "ftc is investigating openai anthropic and other ai companies over product risks",
       "url": "cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=49924618": {
+      "at": "2026-10-02T08:32:15.242070+00:00",
+      "title": "vote on which of hacker news challenges for ai have been met",
+      "url": "stoppels.ch/goalposts"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -5581,6 +5591,11 @@
       "title": "ainews opus 5 5 is good at explainer videos",
       "url": "latent.space/p/ainews-opus-55-is-good-at-explainer"
     },
+    "rss:https://www.latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc": {
+      "at": "2026-10-02T08:32:15.241924+00:00",
+      "title": "ainews pi 1 0 pi durable and aie nyc",
+      "url": "latent.space/p/ainews-pi-10-pi-durable-and-aie-nyc"
+    },
     "rss:https://www.latent.space/p/ainews-poolside-gets-12b-reverse": {
       "at": "2026-08-24T11:05:22.951611+00:00",
       "title": "ainews poolside gets 12b reverse execuhire to nvidia founders stay for 1b employees go for 6b infraco scaling to 7gw neocloud",
@@ -5690,6 +5705,11 @@
       "at": "2026-09-14T20:59:08.073261+00:00",
       "title": "humanity s last invention richard socher of recursive",
       "url": "latent.space/p/recursive"
+    },
+    "rss:https://www.latent.space/p/rlm": {
+      "at": "2026-10-02T08:32:15.242001+00:00",
+      "title": "academia is for ambition alex zhang mit",
+      "url": "latent.space/p/rlm"
     },
     "rss:https://www.latent.space/p/runway": {
       "at": "2026-09-25T01:36:01.536830+00:00",
@@ -10145,6 +10165,26 @@
       "title": "ama about k2 horizon meet our team from ifm",
       "url": "reddit.com/r/LocalLLaMA/comments/1wv8zww/ama_about_k2_horizon_meet_our_team_from_ifm"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvffcr": {
+      "at": "2026-10-02T08:32:15.242016+00:00",
+      "title": "pi 1 0 released mcp support now included by default",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wvffcr/pi_10_released_mcp_support_now_included_by_default"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvfz9n": {
+      "at": "2026-10-02T08:32:15.241987+00:00",
+      "title": "perplexity decider 27b open weights decision model fine tune of qwen3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wvfz9n/perplexity_decider_27b_open_weights_decision"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvipaz": {
+      "at": "2026-10-02T08:32:15.242053+00:00",
+      "title": "anyone wonder why americans lag so far behind in the open llm market",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wvipaz/anyone_wonder_why_americans_lag_so_far_behind_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wviphh": {
+      "at": "2026-10-02T08:32:15.242027+00:00",
+      "title": "update on the monstrosity 6 bc 250 board cluster",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wviphh/update_on_the_monstrosity_6_bc250_board_cluster"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -10521,6 +10561,6 @@
       "url": "technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     }
   },
-  "updated_at": "2026-10-01T23:55:08.084392+00:00",
+  "updated_at": "2026-10-02T08:32:15.242116+00:00",
   "version": 2
 }
