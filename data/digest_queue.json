@@ -23,6 +23,138 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/practical-guide-building-gpt-6",
+        "title": "A model guide for the GPT-6 family",
+        "url": "https://openai.com/index/practical-guide-building-gpt-6",
+        "author": null,
+        "published_at": "2026-10-02T16:15:00+00:00"
+      },
+      "insight": {
+        "title_ko": "GPT-6 패밀리 모델 가이드",
+        "summary_ko": [
+          "스타트업이 GPT-6 모델을 선택하고 추론 강도를 조절하는 방법을 안내합니다.",
+          "프롬프트와 스킬을 개선하고 도구를 조율하는 실무적 접근법을 다룹니다.",
+          "프로덕션 환경을 위한 워크플로우 준비 과정을 체계적으로 설명합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1143774",
+        "title": "Redefining enterprise intelligence with autonomous AI",
+        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+        "author": "MIT Technology Review Insights",
+        "published_at": "2026-10-02T15:49:04+00:00"
+      },
+      "insight": {
+        "title_ko": "자율형 AI를 통한 엔터프라이즈 인텔리전스의 재정의",
+        "summary_ko": [
+          "2026년 전 세계 AI 투자가 급증하고 모델 성능이 향상되고 있으나 기업들은 여전히 파편화된 데이터와 사내 실로 현상을 겪고 있습니다.",
+          "성공적인 엔터프라이즈 AI 도입을 위해서는 모델 선택보다 프로세스 재설계와 운영 모델 혁신이 우선되어야 합니다.",
+          "데이터의 중앙화보다는 접근성과 주권이 확보된 컴포저블 아키텍처 구축이 자율형 AI 에이전트 활용의 핵심입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/allenai/astabrief",
+        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "url": "https://huggingface.co/blog/allenai/astabrief",
+        "author": null,
+        "published_at": "2026-10-02T15:19:50+00:00"
+      },
+      "insight": {
+        "title_ko": "AllenAI, 오픈소스 리포트 생성 모델 AstaBrief 공개",
+        "summary_ko": [
+          "AllenAI가 빠르고 효율적인 리포트 생성을 지원하는 AstaBrief 모델을 오픈소스로 공개했습니다.",
+          "해당 모델은 Asta 프로젝트의 일환으로 개발되어 고속의 문서 및 리포트 작성 작업을 처리합니다.",
+          "실무에서 문서 자동화 및 리포트 생성 파이프라인을 구축하는 엔지니어들에게 유용한 도구가 될 것입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/airbnb",
+        "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+        "url": "https://www.latent.space/p/airbnb",
+        "author": "Richard MacManus",
+        "published_at": "2026-10-02T14:04:49+00:00"
+      },
+      "insight": {
+        "title_ko": "에어비앤비의 AI 네이티브 전환 전략",
+        "summary_ko": [
+          "메타의 전 Llama 책임자인 Ahmad Al-Dahle가 에어비앤비의 CTO로 합류하여 내부 프로세스와 고객 경험 전반을 AI 중심으로 혁신하고 있습니다.",
+          "에어비앤비는 사내 전용 도구와 프로토타입 중심의 개발 방식을 도입하여 전체 코드의 60%를 AI로 작성하고 생산성을 크게 향상시켰습니다.",
+          "철저한 합성 데이터 검증을 바탕으로 고객 지원 티켓의 절반 가까이를 AI 에이전트로 완전히 해결하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wvt1m4",
+        "title": "Two 96 GB Ascend cards crun Qwen3.8-flash-next hardware notes, vLLM work, benchmarks, and what is next",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvt1m4/two_96_gb_ascend_cards_crun_qwen38flashnext/",
+        "author": "/u/matteiuspi",
+        "published_at": "2026-10-02T12:54:04+00:00"
+      },
+      "insight": {
+        "title_ko": "Huawei Ascend 카드 기반 로컬 LLM 구동기",
+        "summary_ko": [
+          "화웨이 Atlas 300I Duo 카드를 활용해 로컬 환경에서 Qwen3.8-flash-next 모델을 구동하고 최적화한 실무 경험을 공유합니다.",
+          "초기 초당 1 토큰에 불과하던 속도를 vLLM 및 vLLM Ascend 소프트웨어 스택 수정을 통해 단일 요청 시 약 30 토큰으로 개선했습니다.",
+          "LPDDR4X 메모리 구조와 패시브 쿨링 등 하드웨어 제약 사항을 분석하고 분산 런타임을 통한 성능 극대화 방안을 제시합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1145639",
+        "title": "Don’t be fooled—LLMs don’t reason",
+        "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+        "author": "Thore Graepel",
+        "published_at": "2026-10-02T08:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "LLM은 진정한 추론 능력이 있는가",
+        "summary_ko": [
+          "과거 알파고는 직관을 제공하는 신경망과 미래를 탐색하는 수색 시스템을 결합하여 진정한 추론 능력을 보여주었다.",
+          "현재의 대형 언어 모델(LLM)은 빠른 연산과 패턴 완성에 의존할 뿐 알파고와 같은 별도의 독립된 추론 메커니즘이 없다.",
+          "과학과 의학 등 분야에서 신뢰할 수 있는 결과를 얻으려면 미래의 AI 시스템은 진정한 추론 능력을 갖추어야 한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
