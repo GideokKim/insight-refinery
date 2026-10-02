@@ -155,6 +155,182 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1ww40o2",
+        "title": "microsoft/FrogNano-4B-2609 · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww40o2/microsoftfrognano4b2609_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-02T20:16:26+00:00"
+      },
+      "insight": {
+        "title_ko": "Microsoft FrogNano-4B 모델 공개",
+        "summary_ko": [
+          "마이크로소프트가 Qwen3.5-4B 기반의 리포지토리 수준 소프트웨어 엔지니어링 특화 모델인 FrogNano-4B를 공개했습니다.",
+          "이 모델은 강화학습과 합성 SWE 작업 환경을 활용하여 코딩, 디버깅, 패치 생성 등의 장기 작업 능력을 향상시켰습니다.",
+          "컴팩트한 크기에도 불구하고 도구 호출을 통해 리포지토리 변경을 제안할 수 있으나 보안 검증과 사람의 리뷰가 필수적입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+        "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
+        "url": "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-10-02T18:39:36+00:00"
+      },
+      "insight": {
+        "title_ko": "미국, 3억 달러 상당 엔비디아 칩 밀반출 CEO 체포",
+        "summary_ko": [
+          "미국 법무부가 3억 달러 이상의 엔비디아 고성능 칩을 중국으로 밀반출한 혐의로 테크 기업 CEO 그레그 루이를 체포했습니다.",
+          "피의자는 허위 서류를 사용하고 말레이시아와 싱가포르 등 제3국을 경유하는 방식으로 수출 통제 대상인 A100 및 H100 GPU를 우회 배송했습니다.",
+          "미국은 해당 칩들이 대규모 언어 모델 학습과 안보에 악영향을 미칠 수 있어 엄격한 수출 통제 기조를 이어가고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3173313",
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "author": "Sarah Perez",
+        "published_at": "2026-10-02T18:11:27+00:00"
+      },
+      "insight": {
+        "title_ko": "Apple, AI 에이전트 보안 위험 대응해 macOS 권한 강화",
+        "summary_ko": [
+          "Apple이 향상된 능력을 가진 AI 에이전트로 인한 보안 위험을 경고하며 macOS의 Full Disk Access 권한 통제를 강화할 예정이라고 밝혔습니다.",
+          "사용자의 파일과 메시지, 메일, 브라우징 기록에 대한 광범위한 접근이 AI 에이전트 환경에서 더욱 큰 위험 요소가 되고 있습니다.",
+          "이번 조치는 민감한 사용자 데이터에 접근하는 자율형 AI 도구들의 잠재적 위협으로부터 시스템 보안을 보호하기 위해 마련되었습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?post_type=tc_podcast&p=3173316",
+        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+        "author": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+        "published_at": "2026-10-02T17:56:00+00:00"
+      },
+      "insight": {
+        "title_ko": "백악관 AI 안전 서약과 낮은 소비자 구매율",
+        "summary_ko": [
+          "백악관은 주요 빅테크 CEO들을 소집해 도덕적 구속력을 지닌 AI 안전 서약을 체결했습니다.",
+          "트럼프 대통령은 AI 명칭을 'super intelligence'로 공식 재정의하는 행정 명령에 서명했습니다.",
+          "한편 이러한 정부 정책과 기술 발전에도 불구하고 소비자의 실제 AI 제품 구매율은 2%에 불과합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1ww09ab",
+        "title": "New Architecture from Percepta: Spotlight — separating intelligence from memory, allowing knowledge and skills to grow without changing the model's weights.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww09ab/new_architecture_from_percepta_spotlight/",
+        "author": "/u/Recoil42",
+        "published_at": "2026-10-02T17:47:44+00:00"
+      },
+      "insight": {
+        "title_ko": "Percepta, 메모리와 지능을 분리한 Spotlight 아키텍처 공개",
+        "summary_ko": [
+          "Percepta는 지능과 메모리를 분리하여 가중치 변경 없이 지식과 능력을 확장하는 Spotlight 아키텍처를 공개했습니다.",
+          "이 아키텍처는 인덱싱을 통해 무한히 성장하는 메모리에서도 연산 비용을 일정하게 유지하는 특징을 가집니다.",
+          "모델이 직접 메모리를 읽고 쓰며 스킬과 사실을 저장하므로 재학습 없이 새로운 역량을 획득할 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wvz1ex",
+        "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
+        "author": "/u/StayLameBro",
+        "published_at": "2026-10-02T16:59:22+00:00"
+      },
+      "insight": {
+        "title_ko": "아이폰을 맥의 두 번째 GPU로 활용하기",
+        "summary_ko": [
+          "개발자가 USB-C 케이블을 이용해 아이폰을 맥의 보조 GPU로 연결하여 LLM 추론 성능을 높이는 시스템을 구축했습니다.",
+          "맥이 일부 레이어를 처리하고 아이폰이 나머지 레이어와 KV 캐시를 분산 처리하여 프리필 속도가 최대 44% 향상되었습니다.",
+          "확장된 메모리와 오프로딩을 통해 맥의 자원 한계를 극복하고 대화 맥락 창을 효율적으로 확장할 수 있음을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wvs8va",
+        "title": "I made my own cybersecurity benchmark and ran Qwen3.8 27B, here's how a local model actually does at hacking",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvs8va/i_made_my_own_cybersecurity_benchmark_and_ran/",
+        "author": "/u/lbgos_Loss783",
+        "published_at": "2026-10-02T12:15:13+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 AI 모델 사이버 보안 벤치마크 결과",
+        "summary_ko": [
+          "독립된 도커 환경에서 취약점을 해결하도록 설계된 새로운 사이버 보안 벤치마크를 구축했습니다.",
+          "로컬에서 구동한 Qwen3.8 27B 모델은 첫 시도에서 28.1%의 해결률을 기록하며 Pwn 분야에서는 취약했습니다.",
+          "상위 API 모델들은 높은 성공률을 보였으나 여전히 Pwn 등 일부 복잡한 작업은 모델들에게 어려운 과제로 남았습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/chatham-financial",
+        "title": "Chatham scales its capital markets expertise with OpenAI",
+        "url": "https://openai.com/index/chatham-financial",
+        "author": null,
+        "published_at": "2026-10-02T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Chatham Financial의 OpenAI 기반 자본시장 업무 혁신",
+        "summary_ko": [
+          "Chatham Financial은 Codex와 GPT-5.6을 활용하여 기술 구축 및 워크플로우를 재설계했습니다.",
+          "이를 통해 거래 검증에 소요되던 시간을 기존 30분에서 4분 미만으로 대폭 단축했습니다.",
+          "이번 도입은 금융 자본시장 분야에서 AI를 통한 실질적인 업무 효율성 향상 사례를 보여줍니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

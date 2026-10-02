@@ -540,6 +540,16 @@
       "title": "us government website used chinese model the fbi called malicious",
       "url": "arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/": {
+      "at": "2026-10-02T21:20:25.655768+00:00",
+      "title": "amazon s 1b plan to combat data center backlash draws more backlash",
+      "url": "arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
+      "at": "2026-10-02T21:20:25.655623+00:00",
+      "title": "us arrests tech ceo accused of smuggling 300m in nvidia chips into china",
+      "url": "arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china"
+    },
     "rss:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
       "at": "2026-09-23T18:26:13.104900+00:00",
       "title": "advancing private ai compute with secure server side memory",
@@ -2148,6 +2158,11 @@
       "at": "2026-08-19T12:28:12.501880+00:00",
       "title": "introducing chatgpt for teens built for learning backed by protections",
       "url": "openai.com/index/chatgpt-for-teens"
+    },
+    "rss:https://openai.com/index/chatham-financial": {
+      "at": "2026-10-02T21:20:25.655729+00:00",
+      "title": "chatham scales its capital markets expertise with openai",
+      "url": "openai.com/index/chatham-financial"
     },
     "rss:https://openai.com/index/codex-quantum-computing-experiments": {
       "at": "2026-09-08T22:07:38.642461+00:00",
@@ -5406,6 +5421,11 @@
       "title": "google thinks spacex s starship has to launch 1 800 times before space data centers get off the ground",
       "url": "techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground"
     },
+    "rss:https://techcrunch.com/?p=3172764": {
+      "at": "2026-10-02T21:20:25.655799+00:00",
+      "title": "circuit breaker labs hopes to make ai safer for your kids and you",
+      "url": "techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you"
+    },
     "rss:https://techcrunch.com/?p=3172830": {
       "at": "2026-10-01T23:55:08.084120+00:00",
       "title": "chatgpt can now virtually try on clothes for you",
@@ -5435,6 +5455,16 @@
       "at": "2026-10-02T16:40:02.383291+00:00",
       "title": "pope leo xiv is not a fan of ai generated art",
       "url": "techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art"
+    },
+    "rss:https://techcrunch.com/?p=3173313": {
+      "at": "2026-10-02T21:20:25.655639+00:00",
+      "title": "apple says it s tightening macos full disk access controls due to new risks from ai agents",
+      "url": "techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3173395": {
+      "at": "2026-10-02T21:20:25.655743+00:00",
+      "title": "sean parker is rebuilding stability ai around music",
+      "url": "techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -5471,6 +5501,11 @@
       "title": "meta s muse just stole the ai spotlight from openai and anthropic",
       "url": "techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3173316": {
+      "at": "2026-10-02T21:20:25.655658+00:00",
+      "title": "call it ai call it super intelligence only 2 of consumers are buying it",
+      "url": "techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -5500,6 +5535,11 @@
       "at": "2026-09-25T18:41:37.869440+00:00",
       "title": "meta s ai tamagotchi bet is working",
       "url": "techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3173314": {
+      "at": "2026-10-02T21:20:25.655783+00:00",
+      "title": "it s not ai anymore it s super intelligence according to the white house",
+      "url": "techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -10250,6 +10290,11 @@
       "title": "llama server add v1 systemone api models laya julia 1 lev openjev kev by ngxson pull request 29818 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1wvqbrz/llama_server_add_v1systemone_api_models_laya"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvs8va": {
+      "at": "2026-10-02T21:20:25.655710+00:00",
+      "title": "i made my own cybersecurity benchmark and ran qwen3 8 27b here s how a local model actually does at hacking",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wvs8va/i_made_my_own_cybersecurity_benchmark_and_ran"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvt1m4": {
       "at": "2026-10-02T16:40:02.383175+00:00",
       "title": "two 96 gb ascend cards crun qwen3 8 flash next hardware notes vllm work benchmarks and what is next",
@@ -10264,6 +10309,31 @@
       "at": "2026-10-02T16:40:02.383212+00:00",
       "title": "qwen3 8 27b humanlike chat 2 0 texts like a human now with tool calls and better instruction following",
       "url": "reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvyxzg": {
+      "at": "2026-10-02T21:20:25.655812+00:00",
+      "title": "new 64gb dgx spark significantly higher price for the original 128gb model 6 950 usd",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wvyxzg/new_64gb_dgx_spark_significantly_higher_price_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvz1ex": {
+      "at": "2026-10-02T21:20:25.655692+00:00",
+      "title": "i made my iphone a second gpu for my 24 gb macbook qwen 3 8 27b prefills 29 44 faster my holds part of the ctx window",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww09ab": {
+      "at": "2026-10-02T21:20:25.655673+00:00",
+      "title": "new architecture from percepta spotlight separating intelligence from memory allowing knowledge and skills to grow without changing the model s weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ww09ab/new_architecture_from_percepta_spotlight"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww40o2": {
+      "at": "2026-10-02T21:20:25.655581+00:00",
+      "title": "microsoft frognano 4b 2609 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ww40o2/microsoftfrognano4b2609_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww4hne": {
+      "at": "2026-10-02T21:20:25.655755+00:00",
+      "title": "buying rtx 5090 at micro center reportedly now requires paperwork including a no export declaration",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10651,6 +10721,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-02T16:40:02.383446+00:00",
+  "updated_at": "2026-10-02T21:20:25.655877+00:00",
   "version": 2
 }
