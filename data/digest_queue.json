@@ -67,6 +67,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1ww91uw",
+        "title": "Unitree just dropped UnifoLM-WLA-1.0 — a single 6B model that does 64 whole-body + tabletop tasks on a real humanoid",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww91uw/unitree_just_dropped_unifolmwla10_a_single_6b/",
+        "author": "/u/WebAssemblyMan",
+        "published_at": "2026-10-03T00:00:09+00:00"
+      },
+      "insight": {
+        "title_ko": "Unitree, 6B 파라미터 휴머노이드 모델 UnifoLM-WLA-1.0 공개",
+        "summary_ko": [
+          "Unitree Robotics가 전신 및 탁상 작업 64가지를 수행하는 6B 파라미터의 범용 휴머노이드 모델 UnifoLM-WLA-1.0을 출시했습니다.",
+          "이 모델은 Qwen3-VL 기반의 UnifoLM-ER-1을 활용하며, 광학 흐름과 VQ-VAE 및 MMDiT 구조를 결합해 연속 제어를 지원합니다.",
+          "침대 정돈이나 세탁기 로딩 등의 복잡한 실물 로봇 작업을 수행하며 강력한 공간 추론 능력을 입증했습니다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -5461,6 +5461,11 @@
       "title": "techcrunch disrupt 2026 blackstone s jas khaira on building the next generation of ai giants",
       "url": "techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants"
     },
+    "rss:https://techcrunch.com/?p=3173132": {
+      "at": "2026-10-03T17:57:33.638048+00:00",
+      "title": "all the ai agents that can live in your text messages",
+      "url": "techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages"
+    },
     "rss:https://techcrunch.com/?p=3173199": {
       "at": "2026-10-02T16:40:02.383291+00:00",
       "title": "pope leo xiv is not a fan of ai generated art",
@@ -5480,6 +5485,11 @@
       "at": "2026-10-03T01:57:40.422362+00:00",
       "title": "meta wants your next gadget to be muse infused",
       "url": "techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget"
+    },
+    "rss:https://techcrunch.com/?p=3173499": {
+      "at": "2026-10-03T17:57:33.638006+00:00",
+      "title": "openai safety employee resigns claiming the company s culture is broken",
+      "url": "techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10365,10 +10375,20 @@
       "title": "buying rtx 5090 at micro center reportedly now requires paperwork including a no export declaration",
       "url": "reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww6wvo": {
+      "at": "2026-10-03T17:57:33.638077+00:00",
+      "title": "i ve ended up with an ai lab in a public community college what should we actually be teaching",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ww6wvo/ive_ended_up_with_an_ai_lab_in_a_public_community"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww86ny": {
       "at": "2026-10-03T08:06:32.411696+00:00",
       "title": "so should we turn the page on this past week hype or do you have any success cases to inspire the rest",
       "url": "reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww91uw": {
+      "at": "2026-10-03T17:57:33.637951+00:00",
+      "title": "unitree just dropped unifolm wla 1 0 a single 6b model that does 64 whole body tabletop tasks on a real humanoid",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ww91uw/unitree_just_dropped_unifolmwla10_a_single_6b"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwbcdt": {
       "at": "2026-10-03T08:06:32.411685+00:00",
@@ -10395,10 +10415,30 @@
       "title": "qwen4exp halve the indexer score memory by serveurpersocom pull request 29825 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwgsas": {
+      "at": "2026-10-03T17:57:33.638132+00:00",
+      "title": "i tried building a small rag search node for qwen3 8 27b using a fake aliexpress mini pc and intel sent me back to 2018",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwkudj": {
+      "at": "2026-10-03T17:57:33.638061+00:00",
+      "title": "anyworld a self hosted multiplayer text rpg where a local llm is the dungeon master",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwkudj/anyworld_a_selfhosted_multiplayer_text_rpg_where"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwl7y6": {
       "at": "2026-10-03T13:24:43.172653+00:00",
       "title": "aleph alpha kolibri 1 hugging face 78b parameters 3 46b active up to 1m tokens of context apache 2 0",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwobfg": {
+      "at": "2026-10-03T17:57:33.638092+00:00",
+      "title": "yes bots we get it strata is good now please stop",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwocom": {
+      "at": "2026-10-03T17:57:33.638032+00:00",
+      "title": "pov 8gb vram 16gb ram folks checking locallama everyday",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwocom/pov_8gb_vram_16gb_ram_folks_checking_locallama"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10786,6 +10826,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-03T13:24:43.172820+00:00",
+  "updated_at": "2026-10-03T17:57:33.638182+00:00",
   "version": 2
 }
