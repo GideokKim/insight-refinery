@@ -1143,6 +1143,11 @@
       "title": "what we learned by reproducing 2 200 papers from icml",
       "url": "huggingface.co/blog/icml-2026-open-reproductions"
     },
+    "rss:https://huggingface.co/blog/microsoft/thinkingbox": {
+      "at": "2026-10-03T23:04:30.796921+00:00",
+      "title": "the agent said it was done the database disagreed",
+      "url": "huggingface.co/blog/microsoft/thinkingbox"
+    },
     "rss:https://huggingface.co/blog/multi-vector-encoder": {
       "at": "2026-08-19T12:28:12.501794+00:00",
       "title": "multi vector late interaction embedding models with sentence transformers",
@@ -2901,6 +2906,16 @@
       "at": "2026-10-01T08:58:35.109372+00:00",
       "title": "quoting matthew green",
       "url": "simonwillison.net/2026/Oct/1/matthew-green"
+    },
+    "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
+      "at": "2026-10-03T23:04:30.796967+00:00",
+      "title": "rex s dino store",
+      "url": "simonwillison.net/2026/Oct/2/rex-s-dino-store"
+    },
+    "rss:https://simonwillison.net/2026/Oct/3/newsletter/": {
+      "at": "2026-10-03T23:04:30.796959+00:00",
+      "title": "september sponsors only newsletter",
+      "url": "simonwillison.net/2026/Oct/3/newsletter"
     },
     "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
       "at": "2026-09-02T00:38:13.031615+00:00",
@@ -5490,6 +5505,11 @@
       "at": "2026-10-03T17:57:33.638006+00:00",
       "title": "openai safety employee resigns claiming the company s culture is broken",
       "url": "techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken"
+    },
+    "rss:https://techcrunch.com/?p=3173505": {
+      "at": "2026-10-03T23:04:30.796930+00:00",
+      "title": "amazon responds to data center backlash says it no longer uses ndas",
+      "url": "techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10415,10 +10435,20 @@
       "title": "qwen4exp halve the indexer score memory by serveurpersocom pull request 29825 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwggwt": {
+      "at": "2026-10-03T23:04:30.796904+00:00",
+      "title": "qwen3 8 flash next 177b running at 11 15 tok s on a single rtx 5070 12gb 32gb ram ddr4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwggwt/qwen38flashnext_177b_running_at_1115_toks_on_a"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwgsas": {
       "at": "2026-10-03T17:57:33.638132+00:00",
       "title": "i tried building a small rag search node for qwen3 8 27b using a fake aliexpress mini pc and intel sent me back to 2018",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwgsas/i_tried_building_a_small_rag_search_node_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwk49n": {
+      "at": "2026-10-03T23:04:30.796896+00:00",
+      "title": "the ultimate guide to multi harness rl",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwk49n/the_ultimate_guide_to_multiharness_rl"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwkudj": {
       "at": "2026-10-03T17:57:33.638061+00:00",
@@ -10435,10 +10465,30 @@
       "title": "yes bots we get it strata is good now please stop",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwocik": {
+      "at": "2026-10-03T23:04:30.796876+00:00",
+      "title": "two 300b moe models each on one 128 gb mini pc amd strix halo glm 5 3 flash at 580 tok s prefill mimo v2 6 flash up to 44 tok s decode exl3 weights open rocm engine",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwocik/two_300b_moe_models_each_on_one_128_gb_mini_pc"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwocom": {
       "at": "2026-10-03T17:57:33.638032+00:00",
       "title": "pov 8gb vram 16gb ram folks checking locallama everyday",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwocom/pov_8gb_vram_16gb_ram_folks_checking_locallama"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwqclz": {
+      "at": "2026-10-03T23:04:30.796950+00:00",
+      "title": "come let your llms play world of warcraft",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwu6zj": {
+      "at": "2026-10-03T23:04:30.796938+00:00",
+      "title": "the rise of overfit inference engines",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwv0fj": {
+      "at": "2026-10-03T23:04:30.796832+00:00",
+      "title": "i built ninfer 4080 for 16gb class gpus",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10826,6 +10876,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-03T17:57:33.638182+00:00",
+  "updated_at": "2026-10-03T23:04:30.796997+00:00",
   "version": 2
 }
