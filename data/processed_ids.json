@@ -5656,6 +5656,11 @@
       "title": "ainews not much happened today",
       "url": "latent.space/p/ainews-not-much-happened-today-612"
     },
+    "rss:https://www.latent.space/p/ainews-not-much-happened-today-cee": {
+      "at": "2026-10-03T13:24:43.172702+00:00",
+      "title": "ainews not much happened today",
+      "url": "latent.space/p/ainews-not-much-happened-today-cee"
+    },
     "rss:https://www.latent.space/p/ainews-not-much-happened-today-d3b": {
       "at": "2026-09-10T07:18:59.901963+00:00",
       "title": "ainews not much happened today",
@@ -10375,6 +10380,26 @@
       "title": "could the eu kids act or the like be use potentially trojan horse as excuse to go after the ai open weights",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwbzmr/could_the_eu_kids_act_or_the_like_be_use"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwcqas": {
+      "at": "2026-10-03T13:24:43.172746+00:00",
+      "title": "anyone sitting on a lot of slow system memory and a modest gpu try strata qwen3 8 next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwcqas/anyone_sitting_on_a_lot_of_slow_system_memory_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwdsce": {
+      "at": "2026-10-03T13:24:43.172765+00:00",
+      "title": "has anyone noticed this trend toward writing speaking style among newer models both open and closed models they are trending toward information density and expanded vocabulary it s not quite caveman speak but trending that way",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwdsce/has_anyone_noticed_this_trend_toward"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwfyv6": {
+      "at": "2026-10-03T13:24:43.172721+00:00",
+      "title": "qwen4exp halve the indexer score memory by serveurpersocom pull request 29825 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwl7y6": {
+      "at": "2026-10-03T13:24:43.172653+00:00",
+      "title": "aleph alpha kolibri 1 hugging face 78b parameters 3 46b active up to 1m tokens of context apache 2 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -10761,6 +10786,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-03T08:06:32.411760+00:00",
+  "updated_at": "2026-10-03T13:24:43.172820+00:00",
   "version": 2
 }

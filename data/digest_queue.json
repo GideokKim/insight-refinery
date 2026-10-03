@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-03T01:57:38.734100+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wwl7y6",
+        "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+        "author": "/u/Nunki08",
+        "published_at": "2026-10-03T11:44:42+00:00"
+      },
+      "insight": {
+        "title_ko": "Aleph-Alpha, 78B 규모의 Kolibri-1 모델 공개",
+        "summary_ko": [
+          "Aleph-Alpha는 78B 파라미터와 3.46B의 활성화 파라미터를 가진 Kolibri-1 모델을 공개했습니다.",
+          "해당 모델은 최대 1M 토큰의 컨텍스트 길이를 지원하며 Apache 2.0 라이선스로 배포되었습니다.",
+          "관련 기술 보고서와 Hugging Face 페이지를 통해 상세한 모델 정보와 아키텍처를 확인할 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee",
+        "author": "Latent.Space",
+        "published_at": "2026-10-03T08:45:15+00:00"
+      },
+      "insight": {
+        "title_ko": "최신 AI 모델 출시 및 벤치마크 동향",
+        "summary_ko": [
+          "OpenAI는 가격 대비 성능을 대폭 개선한 GPT-6.1 Sol 모델을 새롭게 출시했다.",
+          "Anthropic의 Sonnet 5.5 등 주요 기업의 신규 모델들이 에이전트 및 벤치마크 순위에 올랐다.",
+          "로컬 추론을 위한 Jev 스타일의 결정 모델과 다양한 오픈소스 모델 생태계가 확장되고 있다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wwfyv6",
+        "title": "qwen4exp : halve the indexer score memory by ServeurpersoCom · Pull Request #29825 · ggml-org/llama.cpp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwfyv6/qwen4exp_halve_the_indexer_score_memory_by/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-03T06:18:34+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp, Qwen Flash Next 인덱서 메모리 절반으로 감소",
+        "summary_ko": [
+          "llama.cpp 프로젝트에 Qwen Flash Next의 인덱서 스코어 메모리를 절반으로 줄이는 풀 리퀘스트가 등록되었습니다.",
+          "이 개선을 통해 로컬 환경에서 Qwen 모델을 구동할 때 필요한 VRAM 사용량이 크게 감소할 것으로 기대됩니다.",
+          "메모리 효율화는 대형언어모델을 제한된 하드웨어 자원에서 실행하는 실무 환경에 직접적인 도움을 줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
