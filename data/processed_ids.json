@@ -2061,6 +2061,11 @@
       "title": "ai makes me sad",
       "url": "mondobe.com/ai-makes-me-sad"
     },
+    "rss:https://news.ycombinator.com/item?id=49937916": {
+      "at": "2026-10-03T08:06:32.411622+00:00",
+      "title": "show hn made an open source lego ai generator",
+      "url": "github.com/anteloc/ldraw-nova"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -10355,6 +10360,21 @@
       "title": "buying rtx 5090 at micro center reportedly now requires paperwork including a no export declaration",
       "url": "reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww86ny": {
+      "at": "2026-10-03T08:06:32.411696+00:00",
+      "title": "so should we turn the page on this past week hype or do you have any success cases to inspire the rest",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ww86ny/so_should_we_turn_the_page_on_this_past_week_hype"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwbcdt": {
+      "at": "2026-10-03T08:06:32.411685+00:00",
+      "title": "i m pretty close to the middle thanks to you all",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwbzmr": {
+      "at": "2026-10-03T08:06:32.411667+00:00",
+      "title": "could the eu kids act or the like be use potentially trojan horse as excuse to go after the ai open weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwbzmr/could_the_eu_kids_act_or_the_like_be_use"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -10741,6 +10761,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-03T01:57:40.422450+00:00",
+  "updated_at": "2026-10-03T08:06:32.411760+00:00",
   "version": 2
 }
