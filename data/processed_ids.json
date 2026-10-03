@@ -410,6 +410,11 @@
       "title": "openai agents discussed ways to escape their sandbox on public wiki",
       "url": "arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki"
     },
+    "rss:https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
+      "at": "2026-10-03T01:57:40.422311+00:00",
+      "title": "apple changes full disk access permissions to curb abuse from ai agents",
+      "url": "arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
       "at": "2026-08-28T01:13:09.165148+00:00",
       "title": "ai industry says trump plans to tax chips in the single dumbest way imaginable",
@@ -5466,6 +5471,11 @@
       "title": "sean parker is rebuilding stability ai around music",
       "url": "techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music"
     },
+    "rss:https://techcrunch.com/?p=3173444": {
+      "at": "2026-10-03T01:57:40.422362+00:00",
+      "title": "meta wants your next gadget to be muse infused",
+      "url": "techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -10305,6 +10315,11 @@
       "title": "new in llama cpp decision models",
       "url": "reddit.com/r/LocalLLaMA/comments/1wvv6im/new_in_llamacpp_decision_models"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvwssq": {
+      "at": "2026-10-03T01:57:40.422379+00:00",
+      "title": "strata on a power limited 5090 and 96gb of ddr5 6400 is cranking out 150 200 tok s decode and 5 6k prefill qwen3 8 flash next at iq3_s ctx at 128k tokens 8 bit",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wvwssq/strata_on_a_power_limited_5090_and_96gb_of"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wvxl4n": {
       "at": "2026-10-02T16:40:02.383212+00:00",
       "title": "qwen3 8 27b humanlike chat 2 0 texts like a human now with tool calls and better instruction following",
@@ -10324,6 +10339,11 @@
       "at": "2026-10-02T21:20:25.655673+00:00",
       "title": "new architecture from percepta spotlight separating intelligence from memory allowing knowledge and skills to grow without changing the model s weights",
       "url": "reddit.com/r/LocalLLaMA/comments/1ww09ab/new_architecture_from_percepta_spotlight"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww2jsu": {
+      "at": "2026-10-03T01:57:40.422404+00:00",
+      "title": "self hosting ai does not save money and i do it anyway",
+      "url": "reddit.com/r/LocalLLaMA/comments/1ww2jsu/selfhosting_ai_does_not_save_money_and_i_do_it"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1ww40o2": {
       "at": "2026-10-02T21:20:25.655581+00:00",
@@ -10721,6 +10741,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-02T21:20:25.655877+00:00",
+  "updated_at": "2026-10-03T01:57:40.422450+00:00",
   "version": 2
 }
