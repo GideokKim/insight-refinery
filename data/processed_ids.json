@@ -2086,6 +2086,11 @@
       "title": "openai safety leader quits warning ai company s culture is broken",
       "url": "theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
     },
+    "rss:https://news.ycombinator.com/item?id=49952111": {
+      "at": "2026-10-04T20:11:35.871245+00:00",
+      "title": "show hn ai search for every photo and every frame of video on macos",
+      "url": "github.com/allenv0/SCM"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -5535,6 +5540,11 @@
       "at": "2026-10-04T15:49:16.041425+00:00",
       "title": "trump unveils his new super intelligence force",
       "url": "techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force"
+    },
+    "rss:https://techcrunch.com/?p=3173555": {
+      "at": "2026-10-04T20:11:35.871224+00:00",
+      "title": "can super intelligence and a non binding safety pact solve ai s image problem",
+      "url": "techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10540,6 +10550,11 @@
       "title": "running qwen3 8 flash next 176b on a 16gb rtx 3080 laptop 32gb ram ssd",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx06ba": {
+      "at": "2026-10-04T20:11:35.871216+00:00",
+      "title": "local web search safety",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wx06ba/local_web_search_safety"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx3sxu": {
       "at": "2026-10-04T11:07:40.116871+00:00",
       "title": "is all the work that s being put into qwen3 8 flash next going to set us up for a very quick uplift to qwen4",
@@ -10580,10 +10595,30 @@
       "title": "local text to speech with breeze is truly incredible",
       "url": "reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxfgn9": {
+      "at": "2026-10-04T20:11:35.871237+00:00",
+      "title": "is there any way to improve creative writing for local models qwen",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxfgn9/is_there_any_way_to_improve_creative_writing_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxgm0h": {
       "at": "2026-10-04T15:49:16.041433+00:00",
       "title": "from 1x3090 to 20 dgx sparks my house fuses were the first bottleneck",
       "url": "reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxiy8y": {
+      "at": "2026-10-04T20:11:35.871194+00:00",
+      "title": "i trained a 3 87b moe 1 45b active from scratch on only 86 5b tokens",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxken1": {
+      "at": "2026-10-04T20:11:35.871206+00:00",
+      "title": "qwen3 5 arch implementation in fpga fabric for 9b 27b int4 models on relatively cheap ebay mining hardware",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxma3a": {
+      "at": "2026-10-04T20:11:35.871154+00:00",
+      "title": "micron ceo says memory supply will be much tighter in 2027 and 2028 than in 2026",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10971,6 +11006,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-04T15:49:16.041503+00:00",
+  "updated_at": "2026-10-04T20:11:35.871289+00:00",
   "version": 2
 }

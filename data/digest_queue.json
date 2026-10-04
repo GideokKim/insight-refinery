@@ -111,6 +111,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wxma3a",
+        "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+        "author": "/u/chillinewman",
+        "published_at": "2026-10-04T18:08:12+00:00"
+      },
+      "insight": {
+        "title_ko": "마이크론 CEO, 2027~2028년 메모리 공급난 심화 전망",
+        "summary_ko": [
+          "마이크론 CEO는 2027년과 2028년의 메모리 공급이 2026년보다 훨씬 더 타이트해질 것이라고 전망했습니다.",
+          "AI 인프라 확장으로 인해 향후 고대역폭 메모리와 반도체 수요가 공급을 크게 상회할 가능성이 제기됩니다.",
+          "이러한 메모리 공급 부족 현상은 향후 AI 하드웨어 구축 비용과 일정에 직접적인 영향을 미칠 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wxiy8y",
+        "title": "I trained a 3.87B MoE (1.45B active) from scratch on only 86.5B tokens",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxiy8y/i_trained_a_387b_moe_145b_active_from_scratch_on/",
+        "author": "/u/Prestigious-Taste-63",
+        "published_at": "2026-10-04T15:50:54+00:00"
+      },
+      "insight": {
+        "title_ko": "3.87B 소형 MoE 모델의 사전학습 및 벤치마크 결과",
+        "summary_ko": [
+          "개발자가 865억 개의 토큰만을 사용하여 총 3.87B 파라미터 규모의 소형 MoE 모델 Apex-2를 처음부터 학습시켰습니다.",
+          "이 모델은 적은 사전학습 데이터에도 불구하고 HumanEval+ 벤치마크에서 Qwen2.5-1.5B와 유사한 코딩 성능을 기록했습니다.",
+          "다만 데이터 부족으로 MMLU 등 지식 및 수학 영역에서는 성능이 낮았으며 DPO 적용 시 오히려 점수가 하락하는 현상을 보였습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
