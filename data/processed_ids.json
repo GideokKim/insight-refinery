@@ -5546,6 +5546,11 @@
       "title": "can super intelligence and a non binding safety pact solve ai s image problem",
       "url": "techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem"
     },
+    "rss:https://techcrunch.com/?p=3173559": {
+      "at": "2026-10-04T23:14:14.145531+00:00",
+      "title": "google froze its open source bug bounty program due to a significant rise in ai submissions",
+      "url": "techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -10620,6 +10625,11 @@
       "title": "micron ceo says memory supply will be much tighter in 2027 and 2028 than in 2026",
       "url": "reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxp21n": {
+      "at": "2026-10-04T23:14:14.145591+00:00",
+      "title": "fully local little parkour sim",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -11006,6 +11016,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-04T20:11:35.871289+00:00",
+  "updated_at": "2026-10-04T23:14:14.145635+00:00",
   "version": 2
 }
