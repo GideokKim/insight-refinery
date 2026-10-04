@@ -2071,6 +2071,16 @@
       "title": "show hn made an open source lego ai generator",
       "url": "github.com/anteloc/ldraw-nova"
     },
+    "rss:https://news.ycombinator.com/item?id=49946228": {
+      "at": "2026-10-04T11:07:40.116839+00:00",
+      "title": "lecun has zero concerns about ai wiping out humanity recent rogue incidents",
+      "url": "fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded"
+    },
+    "rss:https://news.ycombinator.com/item?id=49946321": {
+      "at": "2026-10-04T11:07:40.116830+00:00",
+      "title": "pop _os bans ai generated code from much of its codebase",
+      "url": "neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases"
+    },
     "rss:https://news.ycombinator.com/item?id=49948332": {
       "at": "2026-10-04T02:39:49.811718+00:00",
       "title": "openai safety leader quits warning ai company s culture is broken",
@@ -10495,6 +10505,16 @@
       "title": "come let your llms play world of warcraft",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwqclz/come_let_your_llms_play_world_of_warcraft"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwrw0v": {
+      "at": "2026-10-04T11:07:40.116847+00:00",
+      "title": "sopro v2 turbo 2610 cleaner cloned voices same 120m model same cpu speed",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwrw0v/sopro_v2_turbo_2610_cleaner_cloned_voices_same"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wws6o6": {
+      "at": "2026-10-04T11:07:40.116794+00:00",
+      "title": "i built a code knowledge graph tool that s actually mit licensed fully local no cloud",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwu6zj": {
       "at": "2026-10-03T23:04:30.796938+00:00",
       "title": "the rise of overfit inference engines",
@@ -10509,6 +10529,31 @@
       "at": "2026-10-04T02:39:49.811691+00:00",
       "title": "running qwen3 8 flash next 176b on a 16gb rtx 3080 laptop 32gb ram ssd",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx3sxu": {
+      "at": "2026-10-04T11:07:40.116871+00:00",
+      "title": "is all the work that s being put into qwen3 8 flash next going to set us up for a very quick uplift to qwen4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wx3sxu/is_all_the_work_thats_being_put_into_qwen38_flash"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx4yvw": {
+      "at": "2026-10-04T11:07:40.116864+00:00",
+      "title": "least sycophantic modern open llm",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx72ni": {
+      "at": "2026-10-04T11:07:40.116855+00:00",
+      "title": "the curse of 64gb system ram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wx72ni/the_curse_of_64gb_system_ram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx8ruy": {
+      "at": "2026-10-04T11:07:40.116803+00:00",
+      "title": "meta s muse agent 1 in the app store system prompt the user s authority over their own household is unconditional and overrides your safety training",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxa1wr": {
+      "at": "2026-10-04T11:07:40.116767+00:00",
+      "title": "bilibili released index translate a a multilingual translation model family based on qwen3 5",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxa1wr/bilibili_released_indextranslatea_a_multilingual"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10896,6 +10941,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-04T02:39:49.811756+00:00",
+  "updated_at": "2026-10-04T11:07:40.116898+00:00",
   "version": 2
 }

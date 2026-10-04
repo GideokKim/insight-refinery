@@ -67,6 +67,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wxa1wr",
+        "title": "bilibili released Index-Translate,a A Multilingual Translation Model Family based on Qwen3.5",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxa1wr/bilibili_released_indextranslatea_a_multilingual/",
+        "author": "/u/rikimtasu",
+        "published_at": "2026-10-04T07:56:39+00:00"
+      },
+      "insight": {
+        "title_ko": "Bibilili, Qwen2.5 기반 다국어 번역 모델 공개",
+        "summary_ko": [
+          "빌리빌리가 Qwen 모델 기반의 다국어 번역 모델 군인 Index-Translate를 새롭게 공개했습니다.",
+          "텍스트 모델은 150개 언어를 지원하며 용어, 서식, 내용 보존 등 번역 지시사항을 충실히 따릅니다.",
+          "음성 번역, 음절 제어 번역, 대규모 문서 번역 등 다양한 응용 모델을 함께 제공합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wws6o6",
+        "title": "I built a code knowledge graph tool that's actually MIT licensed (fully local, no cloud)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats/",
+        "author": "/u/Unique-Business-9201",
+        "published_at": "2026-10-03T17:01:14+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 환경에서 작동하는 오픈소스 코드 지식그래프 도구 repopedia",
+        "summary_ko": [
+          "개발자가 대규모 코드베이스 분석을 위해 클라우드나 복잡한 서버 없이 로컬에서 실행 가능한 repopedia를 개발했다.",
+          "이 도구는 tree-sitter를 활용해 파이썬과 타입스크립트 코드를 파싱하고 SQLite 파일 형태로 코드 지식그래프를 구축한다.",
+          "임베딩 모델이나 API 키 없이 MCP 서버를 통해 Claude Code 등 AI 코딩 에이전트의 코드 탐색 성능을 향상시킨다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
