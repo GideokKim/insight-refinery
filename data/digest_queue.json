@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-03T23:04:28.844375+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "title": "We're going to need default hard budget caps on pretty much everything",
+        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+        "author": null,
+        "published_at": "2026-10-03T23:34:02+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트 시대의 필수 기능: 기본 예산 상한선",
+        "summary_ko": [
+          "AI 코딩 및 개인 에이전트의 확산으로 예상치 못한 과다 비용 발생 위험이 급증하고 있다.",
+          "경고 이메일 방식의 소프트 캡을 넘어 서비스 중단으로 이어지는 하드 버젯 캡이 기본값이 되어야 한다.",
+          "최근 AWS와 Google Cloud 등이 예산 상한선 기능을 도입하기 시작하며 업계 트렌드로 자리 잡고 있다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wwwmy1",
+        "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/",
+        "author": "/u/fuzhongkai",
+        "published_at": "2026-10-03T20:06:34+00:00"
+      },
+      "insight": {
+        "title_ko": "저사양 노트북에서 176B MoE 모델 구동",
+        "summary_ko": [
+          "개발자가 16GB VRAM과 32GB RAM을 가진 일반 노트북에서 Qwen3.8 Flash Next 176B 모델을 구동하는 데 성공했다.",
+          "자체 개발한 오픈소스 추론 엔진 TensorSharp은 양자화와 MoE 인식 스케줄링을 통해 SSD까지 활용하는 메모리 계층화를 적용했다.",
+          "벤치마크 결과, Strata 대비 디코딩 속도는 비슷하지만 전체 처리 시간에서 훨씬 뛰어난 성능을 기록했다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wwgns1",
+        "title": "LiquidAI/LFM2.5-Encoder 250M/350M",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-03T07:00:51+00:00"
+      },
+      "insight": {
+        "title_ko": "LiquidAI, LFM2.5-Encoder 250M 및 350M 공개",
+        "summary_ko": [
+          "LiquidAI는 LFM2 아키텍처 기반의 다국어 양방향 인코더인 LFM2.5-Encoder 250M과 350M을 공개했다.",
+          "이 모델은 분류, 검색, 리랭킹 등의 태스크에 미세조정하도록 설계되었으며 15개 언어와 8k 컨텍스트를 지원한다.",
+          "ModernBERT와 유사하거나 뛰어난 처리량을 보이고 온디바이스 및 웹 브라우저 환경에서 효율적으로 구동된다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

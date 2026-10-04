@@ -2071,6 +2071,11 @@
       "title": "show hn made an open source lego ai generator",
       "url": "github.com/anteloc/ldraw-nova"
     },
+    "rss:https://news.ycombinator.com/item?id=49948332": {
+      "at": "2026-10-04T02:39:49.811718+00:00",
+      "title": "openai safety leader quits warning ai company s culture is broken",
+      "url": "theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2911,6 +2916,11 @@
       "at": "2026-10-03T23:04:30.796967+00:00",
       "title": "rex s dino store",
       "url": "simonwillison.net/2026/Oct/2/rex-s-dino-store"
+    },
+    "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
+      "at": "2026-10-04T02:39:49.811658+00:00",
+      "title": "we re going to need default hard budget caps on pretty much everything",
+      "url": "simonwillison.net/2026/Oct/3/default-hard-budget-caps"
     },
     "rss:https://simonwillison.net/2026/Oct/3/newsletter/": {
       "at": "2026-10-03T23:04:30.796959+00:00",
@@ -10440,6 +10450,11 @@
       "title": "qwen3 8 flash next 177b running at 11 15 tok s on a single rtx 5070 12gb 32gb ram ddr4",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwggwt/qwen38flashnext_177b_running_at_1115_toks_on_a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwgns1": {
+      "at": "2026-10-04T02:39:49.811706+00:00",
+      "title": "liquidai lfm2 5 encoder 250m 350m",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwgns1/liquidailfm25encoder_250m350m"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwgsas": {
       "at": "2026-10-03T17:57:33.638132+00:00",
       "title": "i tried building a small rag search node for qwen3 8 27b using a fake aliexpress mini pc and intel sent me back to 2018",
@@ -10489,6 +10504,11 @@
       "at": "2026-10-03T23:04:30.796832+00:00",
       "title": "i built ninfer 4080 for 16gb class gpus",
       "url": "reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwwmy1": {
+      "at": "2026-10-04T02:39:49.811691+00:00",
+      "title": "running qwen3 8 flash next 176b on a 16gb rtx 3080 laptop 32gb ram ssd",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10876,6 +10896,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-03T23:04:30.796997+00:00",
+  "updated_at": "2026-10-04T02:39:49.811756+00:00",
   "version": 2
 }
