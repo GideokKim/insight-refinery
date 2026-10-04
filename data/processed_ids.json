@@ -5531,6 +5531,11 @@
       "title": "amazon responds to data center backlash says it no longer uses ndas",
       "url": "techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas"
     },
+    "rss:https://techcrunch.com/?p=3173547": {
+      "at": "2026-10-04T15:49:16.041425+00:00",
+      "title": "trump unveils his new super intelligence force",
+      "url": "techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -10515,6 +10520,11 @@
       "title": "i built a code knowledge graph tool that s actually mit licensed fully local no cloud",
       "url": "reddit.com/r/LocalLLaMA/comments/1wws6o6/i_built_a_code_knowledge_graph_tool_thats"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwt19n": {
+      "at": "2026-10-04T15:49:16.041442+00:00",
+      "title": "flash next rig born from mining parts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wwt19n/flash_next_rig_born_from_mining_parts"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wwu6zj": {
       "at": "2026-10-03T23:04:30.796938+00:00",
       "title": "the rise of overfit inference engines",
@@ -10540,6 +10550,11 @@
       "title": "least sycophantic modern open llm",
       "url": "reddit.com/r/LocalLLaMA/comments/1wx4yvw/least_sycophantic_modern_open_llm"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx5x1p": {
+      "at": "2026-10-04T15:49:16.041414+00:00",
+      "title": "discussion a 5kb pure x86 64 assembly engine for gemma 2b fp16 4 6 tok s on cpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wx5x1p/discussion_a_5kb_pure_x8664_assembly_engine_for"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wx72ni": {
       "at": "2026-10-04T11:07:40.116855+00:00",
       "title": "the curse of 64gb system ram",
@@ -10554,6 +10569,21 @@
       "at": "2026-10-04T11:07:40.116767+00:00",
       "title": "bilibili released index translate a a multilingual translation model family based on qwen3 5",
       "url": "reddit.com/r/LocalLLaMA/comments/1wxa1wr/bilibili_released_indextranslatea_a_multilingual"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxbm8w": {
+      "at": "2026-10-04T15:49:16.041399+00:00",
+      "title": "need maybe say use llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxbm8w/need_maybe_say_use_llamacpp"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxd404": {
+      "at": "2026-10-04T15:49:16.041354+00:00",
+      "title": "local text to speech with breeze is truly incredible",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxd404/local_text_to_speech_with_breeze_is_truly"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxgm0h": {
+      "at": "2026-10-04T15:49:16.041433+00:00",
+      "title": "from 1x3090 to 20 dgx sparks my house fuses were the first bottleneck",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -10941,6 +10971,6 @@
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
     }
   },
-  "updated_at": "2026-10-04T11:07:40.116898+00:00",
+  "updated_at": "2026-10-04T15:49:16.041503+00:00",
   "version": 2
 }
