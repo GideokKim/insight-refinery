@@ -10620,6 +10620,11 @@
       "title": "qwen3 5 arch implementation in fpga fabric for 9b 27b int4 models on relatively cheap ebay mining hardware",
       "url": "reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxloam": {
+      "at": "2026-10-05T09:04:50.604419+00:00",
+      "title": "benchmarking decision models is fun clef q8 vs jev",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxloam/benchmarking_decision_models_is_fun_clef_q8_vs_jev"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxma3a": {
       "at": "2026-10-04T20:11:35.871154+00:00",
       "title": "micron ceo says memory supply will be much tighter in 2027 and 2028 than in 2026",
@@ -10629,6 +10634,31 @@
       "at": "2026-10-04T23:14:14.145591+00:00",
       "title": "fully local little parkour sim",
       "url": "reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxrozq": {
+      "at": "2026-10-05T09:04:50.604367+00:00",
+      "title": "for dual dgx spark users glm 5 3 flash got a 50 performance boost",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxrozq/for_dual_dgx_spark_users_glm_53_flash_got_a_50"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxsawe": {
+      "at": "2026-10-05T09:04:50.604352+00:00",
+      "title": "spopi ui and editor around pi that pi can change itself",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxsawe/spopi_ui_and_editor_around_pi_that_pi_can_change"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxvt41": {
+      "at": "2026-10-05T09:04:50.604332+00:00",
+      "title": "my qwen model hallucinated a signed url to alibaba cloud normal or sketchy",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxvt41/my_qwen_model_hallucinated_a_signed_url_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wxxqfe": {
+      "at": "2026-10-05T09:04:50.604403+00:00",
+      "title": "strata swift iq3_xxs randomly interjecting completely unrelated information in thoughts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wxxqfe/strataswiftiq3_xxs_randomly_interjecting"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wy0jrc": {
+      "at": "2026-10-05T09:04:50.604285+00:00",
+      "title": "reflection ai is about to release a us open weight model to take on deepseek and qwen",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -11014,8 +11044,13 @@
       "at": "2026-10-02T16:40:02.383193+00:00",
       "title": "don t be fooled llms don t reason",
       "url": "technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason"
+    },
+    "rss:https://www.technologyreview.com/?p=1145682": {
+      "at": "2026-10-05T09:04:50.604383+00:00",
+      "title": "people really hate ai so why can t they get enough",
+      "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-04T23:14:14.145635+00:00",
+  "updated_at": "2026-10-05T09:04:50.604491+00:00",
   "version": 2
 }
