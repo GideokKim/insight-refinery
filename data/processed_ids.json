@@ -235,6 +235,11 @@
       "title": "protests against openai get increasingly creative",
       "url": "arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art"
     },
+    "rss:https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/": {
+      "at": "2026-10-05T19:49:23.695109+00:00",
+      "title": "ai glasses face their first major government crackdown",
+      "url": "arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -244,6 +249,11 @@
       "at": "2026-09-14T20:59:08.073199+00:00",
       "title": "apple releases ios 27 macos golden gate 27 with siri ai and liquid glass refinements",
       "url": "arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements"
+    },
+    "rss:https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/": {
+      "at": "2026-10-05T19:49:23.695163+00:00",
+      "title": "command line tool quickly removes apple intelligence from macos 27",
+      "url": "arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27"
     },
     "rss:https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
       "at": "2026-09-07T18:28:08.910973+00:00",
@@ -2238,6 +2248,11 @@
       "at": "2026-08-25T11:15:55.505381+00:00",
       "title": "disrupting a new covert influence campaign from russia",
       "url": "openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    "rss:https://openai.com/index/eu-text-provenance": {
+      "at": "2026-10-05T19:49:23.695235+00:00",
+      "title": "our approach to eu text provenance rules",
+      "url": "openai.com/index/eu-text-provenance"
     },
     "rss:https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
       "at": "2026-08-31T15:35:36.937285+00:00",
@@ -5511,10 +5526,20 @@
       "title": "pope leo xiv is not a fan of ai generated art",
       "url": "techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art"
     },
+    "rss:https://techcrunch.com/?p=3173232": {
+      "at": "2026-10-05T19:49:23.695282+00:00",
+      "title": "hot girl hotline is like dear abby for the ai era",
+      "url": "techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era"
+    },
     "rss:https://techcrunch.com/?p=3173313": {
       "at": "2026-10-02T21:20:25.655639+00:00",
       "title": "apple says it s tightening macos full disk access controls due to new risks from ai agents",
       "url": "techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3173325": {
+      "at": "2026-10-05T19:49:23.695315+00:00",
+      "title": "can safeworld convince people that genai robots won t hurt them",
+      "url": "techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them"
     },
     "rss:https://techcrunch.com/?p=3173395": {
       "at": "2026-10-02T21:20:25.655743+00:00",
@@ -5536,6 +5561,11 @@
       "title": "amazon responds to data center backlash says it no longer uses ndas",
       "url": "techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas"
     },
+    "rss:https://techcrunch.com/?p=3173520": {
+      "at": "2026-10-05T19:49:23.695347+00:00",
+      "title": "the final disrupt stage lineup three days of conversations you won t hear anywhere outside of techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026"
+    },
     "rss:https://techcrunch.com/?p=3173547": {
       "at": "2026-10-04T15:49:16.041425+00:00",
       "title": "trump unveils his new super intelligence force",
@@ -5550,6 +5580,46 @@
       "at": "2026-10-04T23:14:14.145531+00:00",
       "title": "google froze its open source bug bounty program due to a significant rise in ai submissions",
       "url": "techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions"
+    },
+    "rss:https://techcrunch.com/?p=3173563": {
+      "at": "2026-10-05T19:49:23.695327+00:00",
+      "title": "open or closed ai how founders are choosing what to build on at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3173591": {
+      "at": "2026-10-05T19:49:23.695336+00:00",
+      "title": "meet the startup battlefield 200 judges who ll decide the winner at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3173686": {
+      "at": "2026-10-05T19:49:23.695201+00:00",
+      "title": "hackerrank s ai interviewer offers a glimpse into what job interviews could become",
+      "url": "techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become"
+    },
+    "rss:https://techcrunch.com/?p=3173705": {
+      "at": "2026-10-05T19:49:23.695244+00:00",
+      "title": "researchers are tracking a chinese ai agent fleet",
+      "url": "techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet"
+    },
+    "rss:https://techcrunch.com/?p=3173723": {
+      "at": "2026-10-05T19:49:23.695226+00:00",
+      "title": "openai launches visual ads that appear alongside image generation results",
+      "url": "techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results"
+    },
+    "rss:https://techcrunch.com/?p=3173828": {
+      "at": "2026-10-05T19:49:23.695189+00:00",
+      "title": "tiktok rolls out an ai shopping assistant and one click checkout",
+      "url": "techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout"
+    },
+    "rss:https://techcrunch.com/?p=3173877": {
+      "at": "2026-10-05T19:49:23.695178+00:00",
+      "title": "instinct brings its ai agent to group chats even for friends without an account",
+      "url": "techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account"
+    },
+    "rss:https://techcrunch.com/?p=3173994": {
+      "at": "2026-10-05T19:49:23.694977+00:00",
+      "title": "reflection debuts beam an open weight ai model to rival chinese models at lower compute cost",
+      "url": "techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10660,6 +10730,51 @@
       "title": "reflection ai is about to release a us open weight model to take on deepseek and qwen",
       "url": "reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wy55p2": {
+      "at": "2026-10-05T19:49:23.695273+00:00",
+      "title": "clef flash plays snake in real time on rtx 5080",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wy55p2/clef_flash_plays_snake_in_real_time_on_rtx_5080"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wy5bmy": {
+      "at": "2026-10-05T19:49:23.695142+00:00",
+      "title": "which model which harness i have data for you",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wy5bmy/which_model_which_harness_i_have_data_for_you"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wy7wn0": {
+      "at": "2026-10-05T19:49:23.695123+00:00",
+      "title": "agens volundr 32b preview our small team s first model on our own hybrid architecture only 18 of 72 layers keep a kv cache apache 2 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wy7wn0/agens_volundr_32b_preview_our_small_teams_first"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wy8k3m": {
+      "at": "2026-10-05T19:49:23.695263+00:00",
+      "title": "m5 ultra 256 running glm 5 3 flash 68 8 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wy8k3m/m5_ultra_256_running_glm_53_flash_688_toks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wybesy": {
+      "at": "2026-10-05T19:49:23.695084+00:00",
+      "title": "qwen3 8 flash next 125b on a single strix halo mini pc 44 59 tok s with speculative decoding 1 400 tok s prefill engine is open",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wybesy/qwen38flashnext_125b_on_a_single_strix_halo_mini"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wybi2y": {
+      "at": "2026-10-05T19:49:23.695217+00:00",
+      "title": "smallest jev like model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wybi2y/smallest_jevlike_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyea30": {
+      "at": "2026-10-05T19:49:23.695304+00:00",
+      "title": "make no mistake selling 64 gb dgx spark variants at the same cost as the original 128 gb is straight drug dealer behavior",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyea30/make_no_mistake_selling_64_gb_dgx_spark_variants"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyefkt": {
+      "at": "2026-10-05T19:49:23.695292+00:00",
+      "title": "how is it possible that qwen 27b is so good when gpt 4o had a trillion parameters and was worse",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyh03u": {
+      "at": "2026-10-05T19:49:23.695046+00:00",
+      "title": "llama cpp v0 6 0 released with mtp speculative decoding for qwen4exp and lots more",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -10950,6 +11065,11 @@
       "title": "redefining enterprise intelligence with autonomous ai",
       "url": "technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai"
     },
+    "rss:https://www.technologyreview.com/?p=1143813": {
+      "at": "2026-10-05T19:49:23.695254+00:00",
+      "title": "bringing predictive analytics to the agentic ai era",
+      "url": "technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era"
+    },
     "rss:https://www.technologyreview.com/?p=1143936": {
       "at": "2026-09-11T22:37:07.341163+00:00",
       "title": "roundtables ai s apocalypse crisis",
@@ -11040,6 +11160,11 @@
       "title": "we re not going to shoot ourselves in the foot over hack fallout says openai s chief research officer",
       "url": "technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     },
+    "rss:https://www.technologyreview.com/?p=1145580": {
+      "at": "2026-10-05T19:49:23.695069+00:00",
+      "title": "connecting ai agents to enterprise knowledge",
+      "url": "technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge"
+    },
     "rss:https://www.technologyreview.com/?p=1145639": {
       "at": "2026-10-02T16:40:02.383193+00:00",
       "title": "don t be fooled llms don t reason",
@@ -11051,6 +11176,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-05T09:04:50.604491+00:00",
+  "updated_at": "2026-10-05T19:49:23.695442+00:00",
   "version": 2
 }

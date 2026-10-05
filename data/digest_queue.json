@@ -1,5 +1,160 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-04T23:13:48.332813+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3173994",
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-10-05T19:33:53+00:00"
+      },
+      "insight": {
+        "title_ko": "Reflection AI, 저비용 추론 오픈웨이트 모델 Beam 공개",
+        "summary_ko": [
+          "Nvidia의 지원을 받는 Reflection AI가 첫 번째 오픈웨이트 모델인 Beam을 전격 공개했습니다.",
+          "이 모델은 추론 영역에서 GLM-5.2와 대등한 성능을 내면서도 훨씬 적은 연산량을 소모합니다.",
+          "모델 가중치는 이번 달 내로 공식 배포될 예정입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wyh03u",
+        "title": "llama.cpp v0.6.0 released with MTP speculative decoding for Qwen4Exp and lots more",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative/",
+        "author": "/u/vexatious-big",
+        "published_at": "2026-10-05T18:58:01+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp v0.6.0 배포 및 주요 기능 업데이트",
+        "summary_ko": [
+          "llama.cpp v0.6.0 버전이 새롭게 배포되어 로컬 LLM 구동 환경을 개선했습니다.",
+          "이번 업데이트는 Qwen4Exp 등을 위한 MTP 스펙머티브 디코딩 기능을 지원합니다.",
+          "다양한 성능 향상과 버그 수정을 포함하여 실무 활용성이 높아졌습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1145580",
+        "title": "Connecting AI agents to enterprise knowledge",
+        "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+        "author": "MIT Technology Review Insights",
+        "published_at": "2026-10-05T15:47:52+00:00"
+      },
+      "insight": {
+        "title_ko": "기업 지식과 AI 에이전트의 연동",
+        "summary_ko": [
+          "엔터프라이즈 AI 에이전트는 데이터의 맥락을 이해하는 지식 부족으로 인해 프로덕션 단계 진입에 어려움을 겪고 있습니다.",
+          "조사 결과 전체 에이전트 프로젝트의 약 34%만 프로덕션에 도달하며, 데이터 단절과 레거시 시스템이 주요 실패 원인으로 꼽혔습니다.",
+          "선도 기업들은 높은 시맨틱 지식 역량을 바탕으로 에이전트 성공률을 높이고 있으며, 지식 레이어와 RAG 등에 투자를 집중하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wybesy",
+        "title": "Qwen3.8-Flash-Next (125B) on a single Strix Halo mini PC: 44-59 tok/s with speculative decoding, ~1,400 tok/s prefill, engine is open",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wybesy/qwen38flashnext_125b_on_a_single_strix_halo_mini/",
+        "author": "/u/Yaniss916",
+        "published_at": "2026-10-05T15:25:22+00:00"
+      },
+      "insight": {
+        "title_ko": "Strix Halo에서 Qwen3.8 구동 및 추론 엔진 공개",
+        "summary_ko": [
+          "개발자 그룹이 단일 Strix Halo 미니 PC에서 Qwen3.8-Flash-Next 125B MoE 모델을 구동하는 데 성공했다.",
+          "새로운 오픈소스 추론 엔진 Kyojin과 EXL3 가중치를 공개하여 향상된 디코딩 및 프리필 성능을 제공한다.",
+          "원 모델과의 높은 일치율을 유지하면서도 향후 엔진 개선을 통해 속도를 더욱 끌어올릴 계획이다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+        "title": "AI glasses face their first major government crackdown",
+        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+        "author": "Richard Milne, Financial Times",
+        "published_at": "2026-10-05T13:39:30+00:00"
+      },
+      "insight": {
+        "title_ko": "노르웨이, 공공장소 AI 안경 임시 금지 추진",
+        "summary_ko": [
+          "노르웨이가 웨어러블 기기로 인한 사생활 침해 우려로 공공장소에서 AI 안경 사용을 임시 금지하는 법안을 추진한다.",
+          "이번 조치는 공원, 해변, 학교 등에서 무단 촬영 및 녹화 위험을 방지하기 위한 디지털화부 장관의 발표에 따른 것이다.",
+          "노르웨이 정부는 향후 영구적인 국가 규정 마련을 위해 전문가 그룹을 구성하고 심층적인 검토를 진행할 예정이다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wy7wn0",
+        "title": "Agens Volundr 32B Preview: our small team's first model on our own hybrid architecture. Only 18 of 72 layers keep a KV cache (Apache-2.0)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy7wn0/agens_volundr_32b_preview_our_small_teams_first/",
+        "author": "/u/ComfortableKindly507",
+        "published_at": "2026-10-05T12:58:57+00:00"
+      },
+      "insight": {
+        "title_ko": "Agens Volundr 32B Preview 공개",
+        "summary_ko": [
+          "Blockway 팀은 KV 캐시 사용량을 줄여 장문 맥락 성능을 개선한 하이브리드 아키텍처 기반의 Agens Volundr 32B Preview를 공개했습니다.",
+          "이 모델은 전체 72개 레이어 중 18개만 KV 캐시를 유지하며 KDA와 BCSA 등 독자적인 선형 어텐션 구조를 적용했습니다.",
+          "전용 sglang 빌드를 통해 구동되며 코딩 및 수학 벤치마크에서 우수한 성능을 보였으나 에이전트 작업 등은 아직 개선이 필요합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wy5bmy",
+        "title": "Which model, which harness? I have data for you.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wy5bmy/which_model_which_harness_i_have_data_for_you/",
+        "author": "/u/dh7net",
+        "published_at": "2026-10-05T10:43:44+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 LLM 및 테스팅 하네스 벤치마크 결과 공유",
+        "summary_ko": [
+          "작성자는 기본 수학, 비전, 컴퓨터 사용 및 코딩 등 실제 작업을 바탕으로 로컬 LLM과 하네스 조합을 테스트한 벤치마크 결과를 공개했습니다.",
+          "테스트 결과 로컬 하드웨어 환경에서는 모델 자체뿐만 아니라 하네스의 선택도 성능에 결정적인 영향을 미치는 것으로 나타났습니다.",
+          "특정 로컬 모델과 하네스 조합은 상용 모델인 Claude Code와 유사한 수준의 성능이나 뛰어난 속도를 기록할 수 있음을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
