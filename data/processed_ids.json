@@ -425,6 +425,11 @@
       "title": "apple changes full disk access permissions to curb abuse from ai agents",
       "url": "arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
     },
+    "rss:https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": {
+      "at": "2026-10-06T01:19:01.155142+00:00",
+      "title": "mcp for agent to agent comms may be the riskiest protocol you ve never heard of",
+      "url": "arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
       "at": "2026-08-28T01:13:09.165148+00:00",
       "title": "ai industry says trump plans to tax chips in the single dumbest way imaginable",
@@ -2439,6 +2444,11 @@
       "title": "on the navier stokes millennium prize problem",
       "url": "openai.com/index/navier-stokes-solution"
     },
+    "rss:https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
+      "at": "2026-10-06T01:19:01.155268+00:00",
+      "title": "building advertising for the way people use ai",
+      "url": "openai.com/index/new-chatgpt-ads-format-and-measurement"
+    },
     "rss:https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
       "at": "2026-08-19T14:23:12.191291+00:00",
       "title": "new policy ideas for the intelligence age",
@@ -2737,6 +2747,11 @@
       "title": "millemiglia a realistic instance generator for middle mile logistics",
       "url": "research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics"
     },
+    "rss:https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/": {
+      "at": "2026-10-06T01:19:01.155227+00:00",
+      "title": "open and emergent problems in agentic privacy and security a contextual angle",
+      "url": "research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle"
+    },
     "rss:https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/": {
       "at": "2026-08-19T20:13:45.261390+00:00",
       "title": "optimizing cloud economics with linear elastic caching",
@@ -2942,6 +2957,11 @@
       "title": "quoting matthew green",
       "url": "simonwillison.net/2026/Oct/1/matthew-green"
     },
+    "rss:https://simonwillison.net/2026/Oct/1/pwasm/": {
+      "at": "2026-10-06T01:19:01.155300+00:00",
+      "title": "pwasm 0 2a0",
+      "url": "simonwillison.net/2026/Oct/1/pwasm"
+    },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
       "title": "rex s dino store",
@@ -2956,6 +2976,16 @@
       "at": "2026-10-03T23:04:30.796959+00:00",
       "title": "september sponsors only newsletter",
       "url": "simonwillison.net/2026/Oct/3/newsletter"
+    },
+    "rss:https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": {
+      "at": "2026-10-06T01:19:01.155285+00:00",
+      "title": "qwen3 8 27b addition in words",
+      "url": "simonwillison.net/2026/Oct/4/qwen38-addition-in-words"
+    },
+    "rss:https://simonwillison.net/2026/Oct/5/felix-rieseberg/": {
+      "at": "2026-10-06T01:19:01.155094+00:00",
+      "title": "quoting felix rieseberg",
+      "url": "simonwillison.net/2026/Oct/5/felix-rieseberg"
     },
     "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
       "at": "2026-09-02T00:38:13.031615+00:00",
@@ -5620,6 +5650,11 @@
       "at": "2026-10-05T19:49:23.694977+00:00",
       "title": "reflection debuts beam an open weight ai model to rival chinese models at lower compute cost",
       "url": "techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost"
+    },
+    "rss:https://techcrunch.com/?p=3173997": {
+      "at": "2026-10-06T01:19:01.155168+00:00",
+      "title": "openai will start watermarking chatgpt s text in the eu",
+      "url": "techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10730,6 +10765,11 @@
       "title": "reflection ai is about to release a us open weight model to take on deepseek and qwen",
       "url": "reddit.com/r/LocalLLaMA/comments/1wy0jrc/reflection_ai_is_about_to_release_a_us_openweight"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wy3y4t": {
+      "at": "2026-10-06T01:19:01.155336+00:00",
+      "title": "you can now try aleph alpha s kolibri 78b for free online here",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wy3y4t/you_can_now_try_aleph_alphas_kolibri_78b_for_free"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wy55p2": {
       "at": "2026-10-05T19:49:23.695273+00:00",
       "title": "clef flash plays snake in real time on rtx 5080",
@@ -10770,10 +10810,30 @@
       "title": "how is it possible that qwen 27b is so good when gpt 4o had a trillion parameters and was worse",
       "url": "reddit.com/r/LocalLLaMA/comments/1wyefkt/how_is_it_possible_that_qwen_27b_is_so_good_when"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyemcb": {
+      "at": "2026-10-06T01:19:01.155210+00:00",
+      "title": "whistle speech to text in a 16 9mb file",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyemcb/whistle_speech_to_text_in_a_169mb_file"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyf63m": {
+      "at": "2026-10-06T01:19:01.155191+00:00",
+      "title": "y all this is a sexy paper context language models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyf63m/yall_this_is_a_sexy_paper_context_language_models"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyh03u": {
       "at": "2026-10-05T19:49:23.695046+00:00",
       "title": "llama cpp v0 6 0 released with mtp speculative decoding for qwen4exp and lots more",
       "url": "reddit.com/r/LocalLLaMA/comments/1wyh03u/llamacpp_v060_released_with_mtp_speculative"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyjuh0": {
+      "at": "2026-10-06T01:19:01.155244+00:00",
+      "title": "when redditors come in here and ask why we run llms this is why big ai is watching",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyjuh0/when_redditors_come_in_here_and_ask_why_we_run"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wymgu6": {
+      "at": "2026-10-06T01:19:01.155313+00:00",
+      "title": "pewdiepie getting banned twice by openai while making a local model is top tier comedy",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -11160,6 +11220,11 @@
       "title": "we re not going to shoot ourselves in the foot over hack fallout says openai s chief research officer",
       "url": "technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     },
+    "rss:https://www.technologyreview.com/?p=1145413": {
+      "at": "2026-10-06T01:19:01.155351+00:00",
+      "title": "emtech future 2026 when ai meets everything",
+      "url": "technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything"
+    },
     "rss:https://www.technologyreview.com/?p=1145580": {
       "at": "2026-10-05T19:49:23.695069+00:00",
       "title": "connecting ai agents to enterprise knowledge",
@@ -11176,6 +11241,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-05T19:49:23.695442+00:00",
+  "updated_at": "2026-10-06T01:19:01.155403+00:00",
   "version": 2
 }
