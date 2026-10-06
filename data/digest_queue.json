@@ -199,6 +199,182 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+        "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+        "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+        "author": "Samuel Axon",
+        "published_at": "2026-10-06T20:50:32+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, EU 지역에 ChatGPT 텍스트 워터마크 기본 적용",
+        "summary_ko": [
+          "OpenAI는 EU AI Act 준수를 위해 유럽 지역에서 ChatGPT 생성 텍스트에 워터마크를 기본 적용한다고 발표했습니다.",
+          "EU 외 지역에서는 이 기능이 제공되지만 기본값은 꺼짐으로 설정되며, 독자적인 textGrain 방식을 활용합니다.",
+          "해당 워터마크는 탐지기가 있는 제한된 연구자와 조직에 우선 제공되며, 우회 가능성 등 기술적 한계도 존재합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3174464",
+        "title": "How AI decision models could change content moderation",
+        "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "author": "Russell Brandom",
+        "published_at": "2026-10-06T20:35:20+00:00"
+      },
+      "insight": {
+        "title_ko": "실시간 콘텐츠 모더레이션을 위한 PolicyLM-1.7B 공개",
+        "summary_ko": [
+          "화요일 Musubi는 실시간 콘텐츠 모더레이션을 위해 설계된 경량화 의사결정 모델 PolicyLM-1.7B를 발표했습니다.",
+          "해당 모델은 오픈 웨이트 방식으로 공개되어 개발자와 실무자들이 직접 활용할 수 있습니다.",
+          "이러한 AI 의사결정 모델의 등장은 향후 플랫폼들의 콘텐츠 관리 방식을 크게 변화시킬 것으로 기대됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+        "title": "Introducing Mistral Large 4: Le chonk",
+        "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+        "author": null,
+        "published_at": "2026-10-06T20:18:19+00:00"
+      },
+      "insight": {
+        "title_ko": "Mistral AI의 Mistral Large 4 프리뷰 공개",
+        "summary_ko": [
+          "Mistral AI가 1조 파라미터 규모의 Mistral Large 4 프리뷰 버전을 API를 통해 공개했다.",
+          "이 모델은 3,800개의 NVIDIA Grace Blackwell GPU 클러스터로 학습되었으며 이달 말 오픈 웨이트 출시를 앞두고 있다.",
+          "추론 레벨은 'none'과 'high'를 지원하며 전작인 Mistral Large 3 대비 성능이 대폭 향상되었다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3174674",
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-10-06T20:00:30+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 컴퓨팅 스타트업 램다, IPO 앞두고 투자 유치",
+        "summary_ko": [
+          "Nvidia의 지원을 받는 AI 컴퓨팅 스타트업 Lambda가 2027년 기업공개(IPO)를 앞두고 대규모 자금 조달을 추진하고 있습니다.",
+          "이번 투자 라운드는 Coatue와 Blackstone이 주도하며 프리머니 밸류에이션 145억 달러 규모로 최대 40억 달러를 모금할 예정입니다.",
+          "AI 인프라 수요 급증 속에서 관련 스타트업의 기업 가치 상승과 상장 준비 움직임이 본격화되고 있음을 보여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+        "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+        "author": null,
+        "published_at": "2026-10-06T19:57:04+00:00"
+      },
+      "insight": {
+        "title_ko": "구글, EmbeddingGemma 2 공개",
+        "summary_ko": [
+          "Google DeepMind가 오픈웨이트 경량 멀티모달 임베딩 모델인 EmbeddingGemma 2를 발표했습니다.",
+          "텍스트뿐만 아니라 다양한 형태의 데이터를 효과적으로 처리할 수 있는 임베딩 기능을 제공합니다.",
+          "개발자와 실무자가 멀티모달 검색 및 관련 태스크에 가볍게 활용할 수 있는 오픈 모델입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123253",
+        "title": "How DOCA GPUNetIO Unifies GPU-Initiated Networking Across the NVIDIA Software Stack",
+        "url": "https://developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-10-06T19:07:02+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA DOCA GPUNetIO 기반 GPU 네트워킹 통합",
+        "summary_ko": [
+          "GPU 애플리케이션은 네트워킹과 데이터 이동이 호스트 기반 서비스가 아닌 GPU 제어 작업처럼 작동해야 합니다.",
+          "CPU가 네트워크 트랜잭션의 중간에 위치하면 지연 시간이 추가되고 실시간 응답 효율이 제한되는 병목 현상이 발생합니다.",
+          "NVIDIA DOCA GPUNetIO는 소프트웨어 스택 전반에 걸쳐 GPU가 주도하는 네트워킹을 통합하여 이러한 문제를 해결합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49980715",
+        "title": "AI is now capable of developing its own inference hardware",
+        "url": "https://github.com/FeSens/openTPU",
+        "author": "fsbonetto",
+        "published_at": "2026-10-06T16:23:25+00:00"
+      },
+      "insight": {
+        "title_ko": "AI를 활용한 자체 추론 하드웨어 개발",
+        "summary_ko": [
+          "인공지능 기술이 스스로 추론용 하드웨어를 개발할 수 있는 역량을 보여주는 오픈소스 프로젝트 openTPU가 공개되었습니다.",
+          "해당 프로젝트는 GitHub를 통해 소스코드가 공유되며 해커 뉴스 사용자들 사이에서 큰 주목을 받고 있습니다.",
+          "이는 AI 기반의 하드웨어 설계 자동화 분야에서 실무적인 발전 가능성을 가늠할 수 있는 중요한 사례입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/advancing-computer-use-with-ironclad",
+        "title": "Advancing computer use with Ironclad",
+        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+        "author": null,
+        "published_at": "2026-10-06T10:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Ironclad와 협력한 AI 에이전트 계약 워크플로우 발전",
+        "summary_ko": [
+          "OpenAI와 Ironclad가 복잡한 계약 워크플로우에서 AI 에이전트를 훈련하고 평가하는 방법을 공개했습니다.",
+          "이번 협력은 전문적인 업무 환경에서 컴퓨터 활용 능력을 발전시키기 위해 진행되었습니다.",
+          "실제 비즈니스 영역에서 AI 에이전트의 활용성과 실무 적용 가능성을 높이는 데 기여할 것으로 기대됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

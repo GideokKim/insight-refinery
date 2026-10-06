@@ -240,6 +240,11 @@
       "title": "ai glasses face their first major government crackdown",
       "url": "arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown"
     },
+    "rss:https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/": {
+      "at": "2026-10-06T21:42:06.239662+00:00",
+      "title": "openai will watermark chatgpt outputs by default but only in the eu",
+      "url": "arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -584,6 +589,11 @@
       "at": "2026-09-08T17:40:11.523007+00:00",
       "title": "alphagenome atlas a predictive map of every possible dna letter change in the human genome",
       "url": "deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
+    },
+    "rss:https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+      "at": "2026-10-06T21:42:06.239749+00:00",
+      "title": "embeddinggemma 2 an open lightweight multimodal embedding model",
+      "url": "deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
     },
     "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "at": "2026-08-24T11:05:22.951784+00:00",
@@ -994,6 +1004,11 @@
       "at": "2026-10-01T23:55:08.084173+00:00",
       "title": "build applications on nvidia bluefield faster with nvidia doca agent skills",
       "url": "developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123253": {
+      "at": "2026-10-06T21:42:06.239764+00:00",
+      "title": "how doca gpunetio unifies gpu initiated networking across the nvidia software stack",
+      "url": "developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking"
     },
     "rss:https://developer.nvidia.com/blog/?p=123334": {
       "at": "2026-10-06T17:13:03.297699+00:00",
@@ -2131,6 +2146,11 @@
       "title": "show hn ai search for every photo and every frame of video on macos",
       "url": "github.com/allenv0/SCM"
     },
+    "rss:https://news.ycombinator.com/item?id=49980715": {
+      "at": "2026-10-06T21:42:06.239773+00:00",
+      "title": "ai is now capable of developing its own inference hardware",
+      "url": "github.com/FeSens/openTPU"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2140,6 +2160,11 @@
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
       "url": "openai.com/index/1password"
+    },
+    "rss:https://openai.com/index/advancing-computer-use-with-ironclad": {
+      "at": "2026-10-06T21:42:06.239785+00:00",
+      "title": "advancing computer use with ironclad",
+      "url": "openai.com/index/advancing-computer-use-with-ironclad"
     },
     "rss:https://openai.com/index/advisory-group-on-mathematics-and-ai": {
       "at": "2026-09-21T21:06:07.442398+00:00",
@@ -3021,6 +3046,36 @@
       "at": "2026-10-06T01:19:01.155094+00:00",
       "title": "quoting felix rieseberg",
       "url": "simonwillison.net/2026/Oct/5/felix-rieseberg"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/datasette-atom/": {
+      "at": "2026-10-06T21:42:06.239877+00:00",
+      "title": "datasette atom 0 11a0",
+      "url": "simonwillison.net/2026/Oct/6/datasette-atom"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry/": {
+      "at": "2026-10-06T21:42:06.239828+00:00",
+      "title": "using parseable with datasette for opentelemetry traces",
+      "url": "simonwillison.net/2026/Oct/6/datasette-parseable-opentelemetry"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/hn-49982139/": {
+      "at": "2026-10-06T21:42:06.239870+00:00",
+      "title": "mistral large 4",
+      "url": "simonwillison.net/2026/Oct/6/hn-49982139"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/hn-49983751/": {
+      "at": "2026-10-06T21:42:06.239802+00:00",
+      "title": "embeddinggemma 2",
+      "url": "simonwillison.net/2026/Oct/6/hn-49983751"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/le-chonk/": {
+      "at": "2026-10-06T21:42:06.239721+00:00",
+      "title": "introducing mistral large 4 le chonk",
+      "url": "simonwillison.net/2026/Oct/6/le-chonk"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/llm-mistral/": {
+      "at": "2026-10-06T21:42:06.239794+00:00",
+      "title": "llm mistral 0 16",
+      "url": "simonwillison.net/2026/Oct/6/llm-mistral"
     },
     "rss:https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": {
       "at": "2026-10-06T17:13:03.297817+00:00",
@@ -5716,6 +5771,11 @@
       "title": "mistral s new 1t model aims to leapfrog closed and open rivals",
       "url": "techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals"
     },
+    "rss:https://techcrunch.com/?p=3174440": {
+      "at": "2026-10-06T21:42:06.239809+00:00",
+      "title": "the next hurdle for ai agents getting websites to let them in",
+      "url": "techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in"
+    },
     "rss:https://techcrunch.com/?p=3174443": {
       "at": "2026-10-06T17:13:03.297908+00:00",
       "title": "anthropic is giving startups a free year of claude team and 1 000 in credits",
@@ -5725,6 +5785,21 @@
       "at": "2026-10-06T17:13:03.297925+00:00",
       "title": "libreoffice says no ai is now a software feature",
       "url": "techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature"
+    },
+    "rss:https://techcrunch.com/?p=3174464": {
+      "at": "2026-10-06T21:42:06.239705+00:00",
+      "title": "how ai decision models could change content moderation",
+      "url": "techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation"
+    },
+    "rss:https://techcrunch.com/?p=3174492": {
+      "at": "2026-10-06T21:42:06.239836+00:00",
+      "title": "hark releases an ai personal assistant with a focus on privacy",
+      "url": "techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy"
+    },
+    "rss:https://techcrunch.com/?p=3174674": {
+      "at": "2026-10-06T21:42:06.239734+00:00",
+      "title": "ai computing startup lambda to raise 4b ahead of planned ipo",
+      "url": "techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10920,6 +10995,11 @@
       "title": "a benchmark for llms playing civilization v glm 5 3 is ahead of opus 5 5 and qwen 3 8 27b holds up surprisingly well",
       "url": "reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyrjmh": {
+      "at": "2026-10-06T21:42:06.239884+00:00",
+      "title": "set your p doom on hf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyrjmh/set_your_pdoom_on_hf"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyuqha": {
       "at": "2026-10-06T08:59:12.502876+00:00",
       "title": "we re using glm 5 3 flash instead of frontier models on a massive production codebase",
@@ -10940,6 +11020,11 @@
       "title": "qwen 4 apparently coming out at the end of october",
       "url": "reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz4rvx": {
+      "at": "2026-10-06T21:42:06.239863+00:00",
+      "title": "qwen3 8 flash next on strata",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz4rvx/qwen38flashnext_on_strata"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz5b30": {
       "at": "2026-10-06T17:13:03.297806+00:00",
       "title": "woman used claude as her diary and got reported to the police for contents of her diary",
@@ -10954,6 +11039,21 @@
       "at": "2026-10-06T17:13:03.297896+00:00",
       "title": "54gb vram for 35",
       "url": "reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz7tvs": {
+      "at": "2026-10-06T21:42:06.239852+00:00",
+      "title": "i gave a 21m model a 6 4b parameter lookup table it matches a 114m dense model and runs with the table on an ssd rx 9070",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz7tvs/i_gave_a_21m_model_a_64bparameter_lookup_table_it"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz9jvx": {
+      "at": "2026-10-06T21:42:06.239843+00:00",
+      "title": "embeddinggemma 2 is a best in class open model for natively multimodal embeddings",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz9jvx/embeddinggemma_2_is_a_bestinclass_open_model_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzbvu7": {
+      "at": "2026-10-06T21:42:06.239818+00:00",
+      "title": "gpt 6 1 sol looped leak hints at nested models serving architecture",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -11361,6 +11461,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-06T17:13:03.298033+00:00",
+  "updated_at": "2026-10-06T21:42:06.239920+00:00",
   "version": 2
 }
