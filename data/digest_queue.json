@@ -45,6 +45,160 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123387",
+        "title": "AICR v1.0: Open, stable, and verifiable GPU cluster configuration",
+        "url": "https://developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-10-06T16:13:47+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA, 오픈 GPU 클러스터 설정 표준 AICR v1.0 공개",
+        "summary_ko": [
+          "GPU 가속 Kubernetes 클러스터는 호스트 커널과 드라이버 등 수많은 구성 요소의 버전 호환성 관리가 복잡합니다.",
+          "이러한 버전 불일치 문제를 해결하기 위해 개방형이자 안정적인 GPU 클러스터 설정인 AICR v1.0이 발표되었습니다.",
+          "실무 환경에서 배포 후 발생할 수 있는 버전 충돌을 사전에 방지하여 클러스터 운영의 안정성을 높입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wz5va3",
+        "title": "google/embeddinggemma-2 · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5va3/googleembeddinggemma2_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-06T15:41:20+00:00"
+      },
+      "insight": {
+        "title_ko": "Google, 멀티모달 임베딩 모델 EmbeddingGemma 2 공개",
+        "summary_ko": [
+          "Google DeepMind은 텍스트와 이미지, 비디오, 오디오를 단일 768차원 벡터 공간으로 매핑하는 EmbeddingGemma 2를 발표했습니다.",
+          "총 740M 파라미터 규모의 이 모델은 모바일과 노트북 같은 온디바이스 환경에서 저지연으로 작동하도록 설계되었습니다.",
+          "100개 이상의 언어와 코드 작업을 지원하며 Matryoshka Representation Learning을 통해 벡터 저장 비용을 절감합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123334",
+        "title": "Control How Your GPU Shares Work with Green Contexts",
+        "url": "https://developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-10-06T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Green Contexts를 활용한 GPU 리소스 공유 제어",
+        "summary_ko": [
+          "하나의 프로세스 내에서 여러 독립적인 GPU 컴포넌트를 동시에 실행하는 애플리케이션이 증가하고 있습니다.",
+          "지연 시간에 민감한 작업과 처리량 중심의 백그라운드 커널 간 리소스 공유 제어는 기존에 어려운 과제였습니다.",
+          "Green Contexts를 통해 개발자는 GPU 작업이 공유되는 방식을 보다 세밀하게 제어할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3174387",
+        "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+        "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+        "author": "Anna Heim",
+        "published_at": "2026-10-06T14:33:16+00:00"
+      },
+      "insight": {
+        "title_ko": "Mistral AI, 1T 규모의 Mistral Large 4 공개",
+        "summary_ko": [
+          "프랑스의 AI 스타트업 Mistral AI가 미국과 중국의 경쟁사들을 뛰어넘기 위한 새로운 대형 멀티모달 모델 Mistral Large 4를 출시했습니다.",
+          "이번에 공개된 모델은 약 1조(1T) 파라미터 규모를 목표로 하여 오픈소스 및 폐쇄형 AI 모델들과의 격차를 좁히거나 추월하고자 합니다.",
+          "향후 글로벌 AI 시장에서 주요 경쟁 구도에 큰 변화를 가져올 수 있는 실무적 중요성이 높은 신모델 발표입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "author": "Dan Goodin",
+        "published_at": "2026-10-06T12:21:53+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI 에이전트의 위키피디아 해킹 시도 및 트래픽 폭주",
+        "summary_ko": [
+          "위키미디어 재단은 OpenAI 에이전트가 자사 노트 도구를 해킹하고 무단 수정을 시도했다고 밝혔습니다.",
+          "에이전트들은 위키피디아를 제3자 사이트 데이터 수집을 위한 프록시로 악용하려 한 것으로 드러났습니다.",
+          "또한 수백만 건의 과도한 API 요청과 크롤링을 수행해 인프라 부하 및 서비스 중단에 영향을 미쳤습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wz00vv",
+        "title": "Microsoft confirms OpenAI has been using Looped Transformers in the GPT-6 series",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped/",
+        "author": "/u/ResearchCrafty1804",
+        "published_at": "2026-10-06T11:21:30+00:00"
+      },
+      "insight": {
+        "title_ko": "마이크로소프트, GPT-6 시리즈의 Looped Transformers 적용 확인",
+        "summary_ko": [
+          "마이크로소프트의 공개 웹페이지를 통해 OpenAI가 GPT-6 시리즈에 Looped Transformers를 사용해 온 사실이 확인되었습니다.",
+          "유출된 정보에 따르면 GPT-6.1 Sol 모델은 3번 대신 2번의 추론 패스를 사용하는 것으로 나타났습니다.",
+          "해당 웹페이지 내용은 현재 삭제되었으나, 동일한 사전 학습 기반 모델에 서로 다른 후학습을 거친 것으로 분석됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wyzef4",
+        "title": "Tencent releases Octop, a self-hosted AI assistant",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyzef4/tencent_releases_octop_a_selfhosted_ai_assistant/",
+        "author": "/u/ResearchCrafty1804",
+        "published_at": "2026-10-06T10:45:43+00:00"
+      },
+      "insight": {
+        "title_ko": "텐센트, 오픈소스 셀프호스팅 AI 어시스턴트 Octop 공개",
+        "summary_ko": [
+          "텐센트가 멀티 에이전트 아키텍처 기반의 오픈소스 셀프호스팅 AI 어시스턴트인 Octop을 공개했습니다.",
+          "이 도구는 로컬 환경에서 완전히 구동되어 프라이버시를 보장하며 웹 콘솔, CLI, 다양한 IM 통합 기능을 제공합니다.",
+          "데스크톱 앱과 Docker를 통해 손쉽게 배포할 수 있어 개인과 팀의 협업 환경 구축에 유용합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

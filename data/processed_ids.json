@@ -425,6 +425,11 @@
       "title": "apple changes full disk access permissions to curb abuse from ai agents",
       "url": "arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
     },
+    "rss:https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": {
+      "at": "2026-10-06T17:13:03.297731+00:00",
+      "title": "openai agents tried to hack wikipedia tools and flooded it with traffic",
+      "url": "arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic"
+    },
     "rss:https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": {
       "at": "2026-10-06T01:19:01.155142+00:00",
       "title": "mcp for agent to agent comms may be the riskiest protocol you ve never heard of",
@@ -989,6 +994,16 @@
       "at": "2026-10-01T23:55:08.084173+00:00",
       "title": "build applications on nvidia bluefield faster with nvidia doca agent skills",
       "url": "developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123334": {
+      "at": "2026-10-06T17:13:03.297699+00:00",
+      "title": "control how your gpu shares work with green contexts",
+      "url": "developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123387": {
+      "at": "2026-10-06T17:13:03.297635+00:00",
+      "title": "aicr v1 0 open stable and verifiable gpu cluster configuration",
+      "url": "developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -2106,6 +2121,11 @@
       "title": "openai safety leader quits warning ai company s culture is broken",
       "url": "theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken"
     },
+    "rss:https://news.ycombinator.com/item?id=49951891": {
+      "at": "2026-10-06T17:13:03.297958+00:00",
+      "title": "how to scale intent quality and artistry with ai video",
+      "url": "youtube.com/watch?v=GLvFTMtw4Jk"
+    },
     "rss:https://news.ycombinator.com/item?id=49952111": {
       "at": "2026-10-04T20:11:35.871245+00:00",
       "title": "show hn ai search for every photo and every frame of video on macos",
@@ -2160,6 +2180,11 @@
       "at": "2026-09-17T22:53:10.073390+00:00",
       "title": "introducing astra for law",
       "url": "openai.com/index/astra-for-law"
+    },
+    "rss:https://openai.com/index/atlassian-partnership": {
+      "at": "2026-10-06T17:13:03.297797+00:00",
+      "title": "atlassian and openai expand partnership to turn enterprise knowledge into action",
+      "url": "openai.com/index/atlassian-partnership"
     },
     "rss:https://openai.com/index/atv-big-air-tour": {
       "at": "2026-09-03T00:47:52.878181+00:00",
@@ -2707,6 +2732,11 @@
       "title": "automating coherent long form video generation",
       "url": "research.google/blog/coherent-long-form-video-generation"
     },
+    "rss:https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/": {
+      "at": "2026-10-06T17:13:03.297825+00:00",
+      "title": "unlocking earth ai s planetary geospatial foundation models for global public health",
+      "url": "research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health"
+    },
     "rss:https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/": {
       "at": "2026-08-19T17:19:19.683361+00:00",
       "title": "empty shelves or lost keys recall is the bottleneck for parametric factuality",
@@ -2991,6 +3021,11 @@
       "at": "2026-10-06T01:19:01.155094+00:00",
       "title": "quoting felix rieseberg",
       "url": "simonwillison.net/2026/Oct/5/felix-rieseberg"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": {
+      "at": "2026-10-06T17:13:03.297817+00:00",
+      "title": "scrimshaw jukebox",
+      "url": "simonwillison.net/2026/Oct/6/scrimshaw-jukebox"
     },
     "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
       "at": "2026-09-02T00:38:13.031615+00:00",
@@ -4791,6 +4826,11 @@
       "title": "manus seeks 4b valuation in new 500m fundraise as it resumes independent ops",
       "url": "techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops"
     },
+    "rss:https://techcrunch.com/?p=3166195": {
+      "at": "2026-10-06T17:13:03.297783+00:00",
+      "title": "mirror particle is building a world model of human behavior",
+      "url": "techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior"
+    },
     "rss:https://techcrunch.com/?p=3166196": {
       "at": "2026-09-18T22:36:03.238632+00:00",
       "title": "world model companies are keeping a lot of secrets",
@@ -5661,6 +5701,31 @@
       "title": "openai will start watermarking chatgpt s text in the eu",
       "url": "techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"
     },
+    "rss:https://techcrunch.com/?p=3174147": {
+      "at": "2026-10-06T17:13:03.297983+00:00",
+      "title": "get all your questions answered at techcrunch disrupt 2026 the full breakout session agenda revealed",
+      "url": "techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed"
+    },
+    "rss:https://techcrunch.com/?p=3174331": {
+      "at": "2026-10-06T17:13:03.297835+00:00",
+      "title": "pinterest s ai now turns beauty pins into action plans",
+      "url": "techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans"
+    },
+    "rss:https://techcrunch.com/?p=3174387": {
+      "at": "2026-10-06T17:13:03.297714+00:00",
+      "title": "mistral s new 1t model aims to leapfrog closed and open rivals",
+      "url": "techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals"
+    },
+    "rss:https://techcrunch.com/?p=3174443": {
+      "at": "2026-10-06T17:13:03.297908+00:00",
+      "title": "anthropic is giving startups a free year of claude team and 1 000 in credits",
+      "url": "techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits"
+    },
+    "rss:https://techcrunch.com/?p=3174448": {
+      "at": "2026-10-06T17:13:03.297925+00:00",
+      "title": "libreoffice says no ai is now a software feature",
+      "url": "techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -6055,6 +6120,11 @@
       "at": "2026-09-29T16:55:08.088400+00:00",
       "title": "introducing quine an ai research system designed for the complexity of biology",
       "url": "microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1188632": {
+      "at": "2026-10-06T17:13:03.297878+00:00",
+      "title": "what ai gets wrong and what failure teaches us",
+      "url": "microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -10855,6 +10925,36 @@
       "title": "we re using glm 5 3 flash instead of frontier models on a massive production codebase",
       "url": "reddit.com/r/LocalLLaMA/comments/1wyuqha/were_using_glm53_flash_instead_of_frontier_models"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyzef4": {
+      "at": "2026-10-06T17:13:03.297766+00:00",
+      "title": "tencent releases octop a self hosted ai assistant",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyzef4/tencent_releases_octop_a_selfhosted_ai_assistant"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz00vv": {
+      "at": "2026-10-06T17:13:03.297747+00:00",
+      "title": "microsoft confirms openai has been using looped transformers in the gpt 6 series",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz00vv/microsoft_confirms_openai_has_been_using_looped"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz1pqn": {
+      "at": "2026-10-06T17:13:03.297944+00:00",
+      "title": "qwen 4 apparently coming out at the end of october",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz1pqn/qwen_4_apparently_coming_out_at_the_end_of_october"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz5b30": {
+      "at": "2026-10-06T17:13:03.297806+00:00",
+      "title": "woman used claude as her diary and got reported to the police for contents of her diary",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz5b30/woman_used_claude_as_her_diary_and_got_reported"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz5va3": {
+      "at": "2026-10-06T17:13:03.297677+00:00",
+      "title": "google embeddinggemma 2 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz5va3/googleembeddinggemma2_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz6ist": {
+      "at": "2026-10-06T17:13:03.297896+00:00",
+      "title": "54gb vram for 35",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -11261,6 +11361,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-06T08:59:12.502962+00:00",
+  "updated_at": "2026-10-06T17:13:03.298033+00:00",
   "version": 2
 }
