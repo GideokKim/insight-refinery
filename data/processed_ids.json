@@ -1223,6 +1223,11 @@
       "title": "state of open models summer 2026 observations",
       "url": "huggingface.co/blog/state-of-open-models-summer-2026"
     },
+    "rss:https://huggingface.co/blog/tiiuae/falcon-emirati": {
+      "at": "2026-10-06T08:59:12.502899+00:00",
+      "title": "falcon emirati when an llm learns the dialect the culture and the nuance",
+      "url": "huggingface.co/blog/tiiuae/falcon-emirati"
+    },
     "rss:https://huggingface.co/blog/tokenizers-v1": {
       "at": "2026-09-21T15:15:12.148143+00:00",
       "title": "tokenizers v1 encode decode and scaling measured",
@@ -5885,6 +5890,11 @@
       "at": "2026-09-17T07:40:04.716826+00:00",
       "title": "ainews reality checks on ai news yegge shuts down gas town databricks 60 astra cost",
       "url": "latent.space/p/ainews-reality-checks-on-ai-news"
+    },
+    "rss:https://www.latent.space/p/ainews-reflection-beam-501b-a23b": {
+      "at": "2026-10-06T08:59:12.502836+00:00",
+      "title": "ainews reflection beam 501b a23b american open model",
+      "url": "latent.space/p/ainews-reflection-beam-501b-a23b"
     },
     "rss:https://www.latent.space/p/ainews-stripe-buys-openrouter-for": {
       "at": "2026-08-24T11:19:10.800698+00:00",
@@ -10835,6 +10845,16 @@
       "title": "pewdiepie getting banned twice by openai while making a local model is top tier comedy",
       "url": "reddit.com/r/LocalLLaMA/comments/1wymgu6/pewdiepie_getting_banned_twice_by_openai_while"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wynbvq": {
+      "at": "2026-10-06T08:59:12.502915+00:00",
+      "title": "a benchmark for llms playing civilization v glm 5 3 is ahead of opus 5 5 and qwen 3 8 27b holds up surprisingly well",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wynbvq/a_benchmark_for_llms_playing_civilization_v_glm53"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wyuqha": {
+      "at": "2026-10-06T08:59:12.502876+00:00",
+      "title": "we re using glm 5 3 flash instead of frontier models on a massive production codebase",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wyuqha/were_using_glm53_flash_instead_of_frontier_models"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -11241,6 +11261,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-06T01:19:01.155403+00:00",
+  "updated_at": "2026-10-06T08:59:12.502962+00:00",
   "version": 2
 }

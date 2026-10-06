@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-06T01:18:58.883013+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+        "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
+        "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
+        "author": null,
+        "published_at": "2026-10-06T06:28:43+00:00"
+      },
+      "insight": {
+        "title_ko": "Reflection, 오픈 모델 Beam 공개",
+        "summary_ko": [
+          "Reflection이 코딩과 과학 연구에 특화된 텍스트 기반 오픈웨이트 MoE 모델인 Beam을 발표했습니다.",
+          "Beam은 미국에서 처음부터 자체 훈련되었으며 Apache 2.0 라이선스로 가중치가 공개될 예정입니다.",
+          "이번 주는 Beam 외에도 Aleph Alpha의 Kolibri와 Reka Rho-1 등 다양한 오픈 모델들이 새롭게 출시되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1wyuqha",
+        "title": "We’re using GLM-5.3 Flash instead of frontier models on a massive production codebase",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wyuqha/were_using_glm53_flash_instead_of_frontier_models/",
+        "author": "/u/JumpAppropriate714",
+        "published_at": "2026-10-06T05:42:30+00:00"
+      },
+      "insight": {
+        "title_ko": "대규모 코드베이스에 도입된 GLM-5.3 Flash",
+        "summary_ko": [
+          "한 기업에서 수백만 줄의 대규모 프로덕션 코드베이스 실무에 대형 모델 대신 GLM-5.3 Flash를 도입하여 활용하고 있습니다.",
+          "이 모델은 빠른 속도에도 불구하고 아키텍처 이해, 다중 모듈 추적, 리팩토링 등에서 뛰어난 코딩 능력을 보여주었습니다.",
+          "작성자는 이 모델의 탁월한 속도 대 품질 비율에 주목하며 구체적인 학습 파이프라인과 훈련 방법에 대해 의문을 제기했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
