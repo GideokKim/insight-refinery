@@ -2151,6 +2151,11 @@
       "title": "ai is now capable of developing its own inference hardware",
       "url": "github.com/FeSens/openTPU"
     },
+    "rss:https://news.ycombinator.com/item?id=49984923": {
+      "at": "2026-10-07T02:24:06.366831+00:00",
+      "title": "sharing ai progress in mathematics",
+      "url": "openai.com/index/sharing-ai-progress-in-mathematics"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2468,6 +2473,11 @@
       "at": "2026-08-25T17:21:53.012020+00:00",
       "title": "jalapeño s first results show industry leading speed and efficiency in ai inference",
       "url": "openai.com/index/jalapeno-first-results"
+    },
+    "rss:https://openai.com/index/jump-trading": {
+      "at": "2026-10-07T02:24:06.366898+00:00",
+      "title": "how jump trading is scaling quant research with chatgpt",
+      "url": "openai.com/index/jump-trading"
     },
     "rss:https://openai.com/index/learning-never-stops": {
       "at": "2026-08-26T18:46:54.599788+00:00",
@@ -3077,10 +3087,25 @@
       "title": "llm mistral 0 16",
       "url": "simonwillison.net/2026/Oct/6/llm-mistral"
     },
+    "rss:https://simonwillison.net/2026/Oct/6/llm-openai-decisions/": {
+      "at": "2026-10-07T02:24:06.366845+00:00",
+      "title": "llm openai decisions 0 1a0",
+      "url": "simonwillison.net/2026/Oct/6/llm-openai-decisions"
+    },
     "rss:https://simonwillison.net/2026/Oct/6/scrimshaw-jukebox/": {
       "at": "2026-10-06T17:13:03.297817+00:00",
       "title": "scrimshaw jukebox",
       "url": "simonwillison.net/2026/Oct/6/scrimshaw-jukebox"
+    },
+    "rss:https://simonwillison.net/2026/Oct/6/victoria-kim/": {
+      "at": "2026-10-07T02:24:06.366790+00:00",
+      "title": "quoting victoria kim",
+      "url": "simonwillison.net/2026/Oct/6/victoria-kim"
+    },
+    "rss:https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/": {
+      "at": "2026-10-07T02:24:06.366738+00:00",
+      "title": "openai rogue agent activities found on wikimedia projects",
+      "url": "simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia"
     },
     "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
       "at": "2026-09-02T00:38:13.031615+00:00",
@@ -5800,6 +5825,11 @@
       "at": "2026-10-06T21:42:06.239734+00:00",
       "title": "ai computing startup lambda to raise 4b ahead of planned ipo",
       "url": "techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3174722": {
+      "at": "2026-10-07T02:24:06.366862+00:00",
+      "title": "ex ramp engineers raise 20m for platform melius after scrapping their first product",
+      "url": "techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -11045,6 +11075,11 @@
       "title": "i gave a 21m model a 6 4b parameter lookup table it matches a 114m dense model and runs with the table on an ssd rx 9070",
       "url": "reddit.com/r/LocalLLaMA/comments/1wz7tvs/i_gave_a_21m_model_a_64bparameter_lookup_table_it"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz8wsb": {
+      "at": "2026-10-07T02:24:06.366877+00:00",
+      "title": "i trained a model to be wrong 98 of the time and 96 sure about it it took three tries",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wz8wsb/i_trained_a_model_to_be_wrong_98_of_the_time_and"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wz9jvx": {
       "at": "2026-10-06T21:42:06.239843+00:00",
       "title": "embeddinggemma 2 is a best in class open model for natively multimodal embeddings",
@@ -11054,6 +11089,11 @@
       "at": "2026-10-06T21:42:06.239818+00:00",
       "title": "gpt 6 1 sol looped leak hints at nested models serving architecture",
       "url": "reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzginu": {
+      "at": "2026-10-07T02:24:06.366808+00:00",
+      "title": "europe rejoins the fight with chonky mistral large 4 released open weights end of month who s ready",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -11461,6 +11501,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-06T21:42:06.239920+00:00",
+  "updated_at": "2026-10-07T02:24:06.366947+00:00",
   "version": 2
 }
