@@ -240,6 +240,16 @@
       "title": "ai glasses face their first major government crackdown",
       "url": "arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown"
     },
+    "rss:https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/": {
+      "at": "2026-10-07T20:01:13.684714+00:00",
+      "title": "google rolls out improved synthid ai content detector now available globally",
+      "url": "arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally"
+    },
+    "rss:https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/": {
+      "at": "2026-10-07T20:01:13.684691+00:00",
+      "title": "mistral says le chonk can challenge the best ai models",
+      "url": "arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models"
+    },
     "rss:https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/": {
       "at": "2026-10-06T21:42:06.239662+00:00",
       "title": "openai will watermark chatgpt outputs by default but only in the eu",
@@ -574,6 +584,11 @@
       "at": "2026-10-02T21:20:25.655768+00:00",
       "title": "amazon s 1b plan to combat data center backlash draws more backlash",
       "url": "arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/": {
+      "at": "2026-10-07T20:01:13.684773+00:00",
+      "title": "fraudster jailed for using 10k bots and ai songs to outstream taylor swift",
+      "url": "arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
       "at": "2026-10-02T21:20:25.655623+00:00",
@@ -1005,10 +1020,30 @@
       "title": "build applications on nvidia bluefield faster with nvidia doca agent skills",
       "url": "developer.nvidia.com/blog/build-applications-on-nvidia-bluefield-faster-with-nvidia-doca-agent-skills"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123156": {
+      "at": "2026-10-07T20:01:13.684661+00:00",
+      "title": "scaling decision optimization to 100 million variables and beyond with mpdlp in nvidia cuopt",
+      "url": "developer.nvidia.com/blog/scaling-decision-optimization-to-100-million-variables-and-beyond-with-mpdlp-in-nvidia-cuopt"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123177": {
+      "at": "2026-10-07T20:01:13.684570+00:00",
+      "title": "the machines that make the machines",
+      "url": "developer.nvidia.com/blog/the-machines-that-make-the-machines"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123195": {
+      "at": "2026-10-07T20:01:13.684648+00:00",
+      "title": "validate ai factory changes with digital twins and ai agents",
+      "url": "developer.nvidia.com/blog/validate-ai-factory-changes-with-digital-twins-and-ai-agents"
+    },
     "rss:https://developer.nvidia.com/blog/?p=123253": {
       "at": "2026-10-06T21:42:06.239764+00:00",
       "title": "how doca gpunetio unifies gpu initiated networking across the nvidia software stack",
       "url": "developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123330": {
+      "at": "2026-10-07T20:01:13.684676+00:00",
+      "title": "faster scientific image analysis with nvidia cuphoton",
+      "url": "developer.nvidia.com/blog/faster-scientific-image-analysis-with-nvidia-cuphoton"
     },
     "rss:https://developer.nvidia.com/blog/?p=123334": {
       "at": "2026-10-06T17:13:03.297699+00:00",
@@ -1049,6 +1084,11 @@
       "at": "2026-08-20T17:18:50.768043+00:00",
       "title": "up to 3 2x faster inference with lfm2 5 dspark",
       "url": "huggingface.co/blog/LiquidAI/lfm25-dspark"
+    },
+    "rss:https://huggingface.co/blog/LiquidAI/open-d1": {
+      "at": "2026-10-07T20:01:13.684791+00:00",
+      "title": "multimodal open d1 decision models for the edge",
+      "url": "huggingface.co/blog/LiquidAI/open-d1"
     },
     "rss:https://huggingface.co/blog/LiquidAI/qad": {
       "at": "2026-08-19T14:23:12.191277+00:00",
@@ -1227,6 +1267,11 @@
       "at": "2026-09-23T13:44:54.793757+00:00",
       "title": "know who spoke when build real time multi speaker ai with nvidia nemotron 3 diarization",
       "url": "huggingface.co/blog/nvidia/nemotron-diarization"
+    },
+    "rss:https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
+      "at": "2026-10-07T20:01:13.684737+00:00",
+      "title": "one model family two gold level results fine tuning nemotron for ioi and imo",
+      "url": "huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
     },
     "rss:https://huggingface.co/blog/omlx": {
       "at": "2026-09-22T07:43:11.181440+00:00",
@@ -3116,6 +3161,11 @@
       "at": "2026-10-07T02:24:06.366790+00:00",
       "title": "quoting victoria kim",
       "url": "simonwillison.net/2026/Oct/6/victoria-kim"
+    },
+    "rss:https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging/": {
+      "at": "2026-10-07T20:01:13.684834+00:00",
+      "title": "anti patterns in software blogging",
+      "url": "simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging"
     },
     "rss:https://simonwillison.net/2026/Oct/7/jake-boggan/": {
       "at": "2026-10-07T11:49:15.887146+00:00",
@@ -5851,6 +5901,61 @@
       "title": "ex ramp engineers raise 20m for platform melius after scrapping their first product",
       "url": "techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product"
     },
+    "rss:https://techcrunch.com/?p=3174749": {
+      "at": "2026-10-07T20:01:13.684765+00:00",
+      "title": "chatgpt is getting a lot more visual with the launch of a new interface",
+      "url": "techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface"
+    },
+    "rss:https://techcrunch.com/?p=3174791": {
+      "at": "2026-10-07T20:01:13.684816+00:00",
+      "title": "tony fadell on why the first wave of ai gadgets failed and what comes next",
+      "url": "techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next"
+    },
+    "rss:https://techcrunch.com/?p=3174810": {
+      "at": "2026-10-07T20:01:13.684843+00:00",
+      "title": "openai s alexander embiricos is coming to techcrunch disrupt 2026 days after the launch of dots",
+      "url": "techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots"
+    },
+    "rss:https://techcrunch.com/?p=3174825": {
+      "at": "2026-10-07T20:01:13.684852+00:00",
+      "title": "get hands on the full lineup of interactive roundtables at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3174837": {
+      "at": "2026-10-07T20:01:13.684862+00:00",
+      "title": "6 days to techcrunch disrupt 2026 save on your pass before doors open",
+      "url": "techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open"
+    },
+    "rss:https://techcrunch.com/?p=3174903": {
+      "at": "2026-10-07T20:01:13.684725+00:00",
+      "title": "google s new synthid website can identify ai generated media",
+      "url": "techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media"
+    },
+    "rss:https://techcrunch.com/?p=3174992": {
+      "at": "2026-10-07T20:01:13.684807+00:00",
+      "title": "healthleap raises 38m for its ai that flags hospital patients who may need a closer look",
+      "url": "techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look"
+    },
+    "rss:https://techcrunch.com/?p=3175054": {
+      "at": "2026-10-07T20:01:13.684827+00:00",
+      "title": "google experiments with an ai powered gaming platform",
+      "url": "techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform"
+    },
+    "rss:https://techcrunch.com/?p=3175177": {
+      "at": "2026-10-07T20:01:13.684798+00:00",
+      "title": "meta rolls out new ai tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material"
+    },
+    "rss:https://techcrunch.com/?p=3175219": {
+      "at": "2026-10-07T20:01:13.684756+00:00",
+      "title": "chatgpt for teens keeps teens talking even during mental health crises",
+      "url": "techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises"
+    },
+    "rss:https://techcrunch.com/?p=3175232": {
+      "at": "2026-10-07T20:01:13.684747+00:00",
+      "title": "meta s muse launches on ipad just a month after its mobile debut",
+      "url": "techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -6211,6 +6316,11 @@
       "title": "simulation the new scaling law joon sung park simile ai",
       "url": "latent.space/p/simile"
     },
+    "rss:https://www.latent.space/p/stacklok": {
+      "at": "2026-10-07T20:01:13.684703+00:00",
+      "title": "can a cloud native harness make agents reliable beyond the desktop",
+      "url": "latent.space/p/stacklok"
+    },
     "rss:https://www.latent.space/p/thariq": {
       "at": "2026-09-29T08:32:03.504161+00:00",
       "title": "claude code s next era thariq shihipar anthropic",
@@ -6250,6 +6360,11 @@
       "at": "2026-09-29T16:55:08.088400+00:00",
       "title": "introducing quine an ai research system designed for the complexity of biology",
       "url": "microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1187920": {
+      "at": "2026-10-07T20:01:13.684632+00:00",
+      "title": "agent lightning v1 0 a 3 500 line lightweight agentic rl framework for training agents with real harnesses",
+      "url": "microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses"
     },
     "rss:https://www.microsoft.com/en-us/research/?p=1188632": {
       "at": "2026-10-06T17:13:03.297878+00:00",
@@ -11150,6 +11265,16 @@
       "title": "new 35b a3b model is comming on huggingface",
       "url": "reddit.com/r/LocalLLaMA/comments/1wzpyzk/new_35ba3b_model_is_comming_on_huggingface"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x01xg3": {
+      "at": "2026-10-07T20:01:13.684780+00:00",
+      "title": "liquidai d1 3b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x01xg3/liquidaid13b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x03xkc": {
+      "at": "2026-10-07T20:01:13.684605+00:00",
+      "title": "llama add a gpu cache for moe experts kept in host memory by am17an pull request 29887 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -11556,6 +11681,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-07T11:49:15.887235+00:00",
+  "updated_at": "2026-10-07T20:01:13.684919+00:00",
   "version": 2
 }
