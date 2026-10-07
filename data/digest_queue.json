@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-07T02:24:04.511542+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+        "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+        "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+        "author": null,
+        "published_at": "2026-10-07T04:55:44+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, 미공개 모델로 수학 논문 722편 공개",
+        "summary_ko": [
+          "OpenAI가 내부 프론티어 모델을 활용해 수학 난제 해결책을 담은 722편의 논문과 연구 결과물을 공개했습니다.",
+          "이번 결과에는 준리만 가설을 포함해 수학계의 오랜 난제들을 다룬 성과들이 포함되어 큰 주목을 받고 있습니다.",
+          "평균 3시간의 적은 연산량으로 도출된 성과인 만큼 AI 기반 과학적 발견의 새로운 가능성을 보여줍니다."
+        ],
+        "category": "Research",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49981197",
+        "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+        "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+        "author": "healsdata",
+        "published_at": "2026-10-06T17:01:52+00:00"
+      },
+      "insight": {
+        "title_ko": "유타주, 인간 개입 없는 AI 진료 및 처방 허용",
+        "summary_ko": [
+          "미국 유타주가 인간의 감독 없이 AI가 환자를 진찰하고 약을 처방하는 것을 허용하는 최초의 주가 되었습니다.",
+          "이번 조치는 의료 분야에서 AI의 자율적 역할 확대와 관련된 중대한 규제 변화를 시사합니다.",
+          "향후 실제 임상 현장에서 AI 기반 진료의 안전성과 실효성을 검증하는 중요한 선례가 될 것입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
