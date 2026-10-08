@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-08T00:15:10.050060+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+        "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+        "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+        "author": null,
+        "published_at": "2026-10-08T07:27:51+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, Claude Haiku 5.5 출시",
+        "summary_ko": [
+          "Anthropic이 약 1년 만에 새로운 경량 모델인 Claude Haiku 5.5를 공식 출시했습니다.",
+          "이 모델은 경쟁 모델인 GPT-6 Luna와 동일한 가격대에 책정되었으며 Sonnet 5.5의 가격도 함께 인하되었습니다.",
+          "고성능 모델의 보조 에이전트로 작동하여 비용 효율적인 대규모 작업 처리를 지원합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x06h7i",
+        "title": "Kandinsky 6.0 video gen + video upscaler!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x06h7i/kandinsky_60_video_gen_video_upscaler/",
+        "author": "/u/KokaOP",
+        "published_at": "2026-10-07T19:58:11+00:00"
+      },
+      "insight": {
+        "title_ko": "Kandinsky 6.0 비디오 생성 및 업스케일러 공개",
+        "summary_ko": [
+          "Kandinsky랩이 29B Pro와 3B Lite 버전의 Kandinsky 6.0 비디오 생성 및 업스케일러 모델을 새롭게 공개했습니다.",
+          "해당 모델들은 현재 ComfyUI와 Diffusers를 즉시 지원하여 개발자들의 활용도를 높였습니다.",
+          "오픈소스 기반의 고성능 비디오 생성 모델로서 실무 비디오 파이프라인 구축에 기여할 것입니다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
