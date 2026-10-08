@@ -45,6 +45,182 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x0wnz1",
+        "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
+        "author": "/u/_TheWolfOfWalmart_",
+        "published_at": "2026-10-08T17:12:46+00:00"
+      },
+      "insight": {
+        "title_ko": "AMD GPU용 커스텀 vLLM 포크 개발 및 고속 추론 달성",
+        "summary_ko": [
+          "작성자는 256GB VRAM을 갖춘 AMD Radeon Pro V620 8장 조합의 가성비 시스템을 구축했습니다.",
+          "기존 llama.cpp의 한계를 극복하기 위해 Claude의 도움을 받아 RDNA2 커스텀 커널을 지원하는 vLLM 포크를 개발했습니다.",
+          "그 결과 프리필 성능이 기존 대비 약 800% 향상된 3000+ t/s를 기록하며 실무 활용 가능성을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/periodic",
+        "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+        "url": "https://www.latent.space/p/periodic",
+        "author": null,
+        "published_at": "2026-10-08T16:27:54+00:00"
+      },
+      "insight": {
+        "title_ko": "실험실 AI 초지능 혁신",
+        "summary_ko": [
+          "Periodic Labs는 AI가 실제 실험실에서 실험하도록 설계해 과학적 발견을 가속화한다.",
+          "강화학습과 DFT, AI 기반 재료 특성화를 결합해 물질 탐색을 자동화한다.",
+          "부정적 결과와 데이터 품질을 학습에 활용해, 미래 모델도 실험이 필요함을 강조한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3175506",
+        "title": "Google releases a new local-first Granola competitor",
+        "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+        "author": "Ivan Mehta",
+        "published_at": "2026-10-08T13:28:39+00:00"
+      },
+      "insight": {
+        "title_ko": "구글, 로컬 AI 기반 미팅 노트 앱 공개",
+        "summary_ko": [
+          "구글이 온디바이스 AI를 활용해 오프라인에서 작동하는 회의 노트 앱 AI Edge Foresight를 출시했습니다.",
+          "이 애플리케이션은 대화 내용을 실시간으로 전사하고 요약 노트를 생성하는 기능을 제공합니다.",
+          "인터넷 연결 없이 기기 자체에서 회의 관련 질문에 답변할 수 있어 프라이버시가 강화되었습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x0q91x",
+        "title": "[audio.cpp] Recent updates you might have missed: Higgs Audio TTS use 48% less VRAM (< 6GB), HTDemucs 2.2× faster, PocketTTS 2.2× faster on CPU, and WebUI generation history feature",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0q91x/audiocpp_recent_updates_you_might_have_missed/",
+        "author": "/u/Acceptable-Cycle4645",
+        "published_at": "2026-10-08T12:58:35+00:00"
+      },
+      "insight": {
+        "title_ko": "audio.cpp의 VRAM 절감 및 성능 개선 업데이트",
+        "summary_ko": [
+          "audio.cpp 업데이트로 Higgs Audio TTS의 VRAM 사용량이 48% 감소하여 6GB 미만으로 실행할 수 있게 되었습니다.",
+          "HTDemucs는 GPU에서 2.2배, PocketTTS는 CPU에서 2.2배 빨라지는 등 주요 오디오 모델들의 속도와 효율성이 크게 향상되었습니다.",
+          "웹UI에 생성 이력 기능이 추가되었으며, 110개 이상의 오디오 모델 가족군을 로컬에서 더욱 실용적으로 구동할 수 있게 되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+        "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+        "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+        "author": "Jeremy Hsu",
+        "published_at": "2026-10-08T11:15:33+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia, 물리적 AI에 대규모 투자",
+        "summary_ko": [
+          "Nvidia는 물리적 AI 분야에 수십억 달러를 투자해 자율주행차와 로봇의 안전성을 강화한다.",
+          "2025년 출시된 Halos 시스템은 자율주행차에 가드레일을 구현하도록 돕고, 2026년에는 로봇용 Halos를 발표했다.",
+          "이 시스템은 물류창고, 공장, 수술 로봇 등 다양한 물리적 AI에 적용돼 사고 위험을 줄인다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x0n4pt",
+        "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
+        "author": "/u/Nunki08",
+        "published_at": "2026-10-08T10:11:02+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 AI와 LLM을 악용한 사이버공격",
+        "summary_ko": [
+          "지난주 한국의 대형 은행들이 사이버 공격을 받았으며 범인은 단 한 명이었던 것으로 밝혀졌다.",
+          "공격자는 오픈소스 AI 침투 테스트 도구인 ARTEX와 여러 최신 LLM을 결합하여 범행에 사용했다.",
+          "이번 사건은 인공지능 기술이 고도화된 사이버 위협에 악용될 수 있음을 실무적으로 보여준다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1145923",
+        "title": "AI breakthroughs in robotics won’t change your life any time soon",
+        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+        "author": "Jamie Condliffe",
+        "published_at": "2026-10-08T09:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "휴머노이드 로봇 상용화의 현실과 AI의 한계",
+        "summary_ko": [
+          "일론 머스크와 빅테크 리더들은 생성형 AI 발전이 휴머노이드 로봇의 대중화를 앞당길 것이라고 주장합니다.",
+          "반면 얀 르쿤 등 전문가들은 언어 기반 AI를 물리적 세계에 적용하는 것의 한계를 지적하며 회의적인 입장을 보이고 있습니다.",
+          "로봇 공학계는 과장된 상용화 시기보다 물리적 유연성을 갖추기 위한 현실적인 기술적 진보에 집중하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=49985861",
+        "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+        "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+        "author": "thoughtpeddler",
+        "published_at": "2026-10-06T23:50:33+00:00"
+      },
+      "insight": {
+        "title_ko": "한국 은행 해킹에 AI 에이전트 활용 정황 포착",
+        "summary_ko": [
+          "한국 정부는 최근 발생한 국내 은행 해킹 사건에 AI 에이전트가 사용된 것으로 보인다고 밝혔다.",
+          "이번 사건은 자율적으로 동작하는 AI 기술이 사이버 범죄 및 금융 보안 위협에 악용될 수 있음을 시사한다.",
+          "실무자들은 AI 기반의 고도화된 공격 수법에 대비한 강력한 보안 대책 마련이 시급하다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

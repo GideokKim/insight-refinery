@@ -250,6 +250,11 @@
       "title": "mistral says le chonk can challenge the best ai models",
       "url": "arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models"
     },
+    "rss:https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/": {
+      "at": "2026-10-08T18:01:12.186969+00:00",
+      "title": "nvidia s big bet on physical ai aims for safer robotaxis humanoid robots",
+      "url": "arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots"
+    },
     "rss:https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/": {
       "at": "2026-10-06T21:42:06.239662+00:00",
       "title": "openai will watermark chatgpt outputs by default but only in the eu",
@@ -1308,6 +1313,11 @@
       "title": "state of open models summer 2026 observations",
       "url": "huggingface.co/blog/state-of-open-models-summer-2026"
     },
+    "rss:https://huggingface.co/blog/tiiuae/falcon-asr": {
+      "at": "2026-10-08T18:01:12.187104+00:00",
+      "title": "introducing falcon asr",
+      "url": "huggingface.co/blog/tiiuae/falcon-asr"
+    },
     "rss:https://huggingface.co/blog/tiiuae/falcon-emirati": {
       "at": "2026-10-06T08:59:12.502899+00:00",
       "title": "falcon emirati when an llm learns the dialect the culture and the nuance",
@@ -2226,6 +2236,11 @@
       "title": "sharing ai progress in mathematics",
       "url": "openai.com/index/sharing-ai-progress-in-mathematics"
     },
+    "rss:https://news.ycombinator.com/item?id=49985861": {
+      "at": "2026-10-08T18:01:12.187006+00:00",
+      "title": "south korea says ai agents appear to have been used to hack the country s banks",
+      "url": "reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06"
+    },
     "rss:https://news.ycombinator.com/item?id=49993121": {
       "at": "2026-10-08T00:15:14.005518+00:00",
       "title": "ai assisted proof of optimal packing for 11 squares",
@@ -2388,6 +2403,11 @@
       "at": "2026-09-30T21:27:04.076758+00:00",
       "title": "disrupting a coordinated model distillation campaign",
       "url": "openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+    },
+    "rss:https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+      "at": "2026-10-08T18:01:12.187096+00:00",
+      "title": "disrupting ai enabled false front operations",
+      "url": "openai.com/index/disrupting-ai-enabled-false-front-operations"
     },
     "rss:https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
       "at": "2026-08-25T11:15:55.505381+00:00",
@@ -2624,6 +2644,11 @@
       "title": "openai joins ports pike project",
       "url": "openai.com/index/openai-joins-ports-pike-project"
     },
+    "rss:https://openai.com/index/oracle": {
+      "at": "2026-10-08T18:01:12.187016+00:00",
+      "title": "how oracle turns days of work into minutes with chatgpt and codex",
+      "url": "openai.com/index/oracle"
+    },
     "rss:https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
       "at": "2026-08-29T08:23:49.748322+00:00",
       "title": "our decision on cursor following its acquisition by spacex",
@@ -2668,6 +2693,11 @@
       "at": "2026-09-01T01:30:17.354427+00:00",
       "title": "polimill builds japan s next generation public ai infrastructure",
       "url": "openai.com/index/polimill"
+    },
+    "rss:https://openai.com/index/pollo-ai": {
+      "at": "2026-10-08T18:01:12.187081+00:00",
+      "title": "pollo ai turns creative ideas into campaigns with openai",
+      "url": "openai.com/index/pollo-ai"
     },
     "rss:https://openai.com/index/practical-guide-building-gpt-6": {
       "at": "2026-10-02T16:40:02.383084+00:00",
@@ -5901,6 +5931,11 @@
       "title": "openai will start watermarking chatgpt s text in the eu",
       "url": "techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu"
     },
+    "rss:https://techcrunch.com/?p=3174041": {
+      "at": "2026-10-08T18:01:12.187126+00:00",
+      "title": "cal ai s 19 year old founder just raised 10m for his new ai startup",
+      "url": "techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup"
+    },
     "rss:https://techcrunch.com/?p=3174147": {
       "at": "2026-10-06T17:13:03.297983+00:00",
       "title": "get all your questions answered at techcrunch disrupt 2026 the full breakout session agenda revealed",
@@ -6011,10 +6046,40 @@
       "title": "microsoft releases new nvidia chip ai pcs with revamped windows 11",
       "url": "techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11"
     },
+    "rss:https://techcrunch.com/?p=3175308": {
+      "at": "2026-10-08T18:01:12.187037+00:00",
+      "title": "natura s 99 smart ring puts ai agents on your finger",
+      "url": "techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger"
+    },
     "rss:https://techcrunch.com/?p=3175337": {
       "at": "2026-10-08T00:15:14.005409+00:00",
       "title": "nous research confirms it hit 1 5b valuation launches ai agents for business users",
       "url": "techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users"
+    },
+    "rss:https://techcrunch.com/?p=3175441": {
+      "at": "2026-10-08T18:01:12.187157+00:00",
+      "title": "5 days to techcrunch disrupt 2026 don t pay more at the door for your pass",
+      "url": "techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door"
+    },
+    "rss:https://techcrunch.com/?p=3175465": {
+      "at": "2026-10-08T18:01:12.187148+00:00",
+      "title": "hear from ambrosia energy and bloom energy execs on where the ai infrastructure boom is creating opportunity at techcrunch disrupt 2026",
+      "url": "techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026"
+    },
+    "rss:https://techcrunch.com/?p=3175506": {
+      "at": "2026-10-08T18:01:12.186944+00:00",
+      "title": "google releases a new local first granola competitor",
+      "url": "techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor"
+    },
+    "rss:https://techcrunch.com/?p=3175521": {
+      "at": "2026-10-08T18:01:12.187071+00:00",
+      "title": "china s manus raises over 500m in first funding round since split with meta",
+      "url": "techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta"
+    },
+    "rss:https://techcrunch.com/?p=3175658": {
+      "at": "2026-10-08T18:01:12.187024+00:00",
+      "title": "goodfire says its new inside out monitors catch rogue ai agents at a fraction of the cost",
+      "url": "techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6355,6 +6420,11 @@
       "at": "2026-09-25T23:18:56.767944+00:00",
       "title": "openrouter from seed to stripe with openrouter s alex atallah amp s anjney midha",
       "url": "latent.space/p/openrouter"
+    },
+    "rss:https://www.latent.space/p/periodic": {
+      "at": "2026-10-08T18:01:12.186926+00:00",
+      "title": "synthesis superintelligence from semiconductors to superconductors periodic labs liam fedus and ekin dogus cubuk",
+      "url": "latent.space/p/periodic"
     },
     "rss:https://www.latent.space/p/pr-not-welcome": {
       "at": "2026-09-01T17:32:37.259604+00:00",
@@ -11415,6 +11485,46 @@
       "title": "rocm 10 1 breaking the data movement bottleneck",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0ggrk/rocm_101_breaking_the_datamovement_bottleneck"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0iygt": {
+      "at": "2026-10-08T18:01:12.187088+00:00",
+      "title": "can any open weight models handle a decomp recomp project yet",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0iygt/can_any_openweight_models_handle_a_decomprecomp"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0mn7x": {
+      "at": "2026-10-08T18:01:12.187137+00:00",
+      "title": "saluki 27b 96 of qwen 3 8 s performance at 1 7 the size",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0mn7x/saluki_27b_96_of_qwen_38s_performance_at_17_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0n4pt": {
+      "at": "2026-10-08T18:01:12.186978+00:00",
+      "title": "last week some of south korea s biggest banks were hit by a cyberattack we now know the entire hack may have been done by a single person he used a combined stack of an open source ai penetration tool named artex deepseek v4 1 flash glm 5 3 grok 4 6 and claude code crowdstrike",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0q91x": {
+      "at": "2026-10-08T18:01:12.186953+00:00",
+      "title": "audio cpp recent updates you might have missed higgs audio tts use 48 less vram 6gb htdemucs 2 2 faster pockettts 2 2 faster on cpu and webui generation history feature",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0q91x/audiocpp_recent_updates_you_might_have_missed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0sm1b": {
+      "at": "2026-10-08T18:01:12.187064+00:00",
+      "title": "jevman ai decision models play pac man",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0sm1b/jevman_ai_decision_models_play_pacman"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0u6l7": {
+      "at": "2026-10-08T18:01:12.187057+00:00",
+      "title": "mellum2 1 a jetbrains collection",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0u6l7/mellum21_a_jetbrains_collection"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0ui6f": {
+      "at": "2026-10-08T18:01:12.187045+00:00",
+      "title": "thank you swift models hit 2 2 million downloads early access to new models free compute for researchers",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0wnz1": {
+      "at": "2026-10-08T18:01:12.186884+00:00",
+      "title": "2800 rig with 8x radeon pro v620 256 gb vram custom vllm fork qwen3 8 flash next at 60 to 100 t s decode and 3000 t s prefill",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -11824,8 +11934,13 @@
       "at": "2026-10-05T09:04:50.604383+00:00",
       "title": "people really hate ai so why can t they get enough",
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
+    },
+    "rss:https://www.technologyreview.com/?p=1145923": {
+      "at": "2026-10-08T18:01:12.186994+00:00",
+      "title": "ai breakthroughs in robotics won t change your life any time soon",
+      "url": "technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
     }
   },
-  "updated_at": "2026-10-08T08:58:04.924989+00:00",
+  "updated_at": "2026-10-08T18:01:12.187188+00:00",
   "version": 2
 }
