@@ -255,6 +255,11 @@
       "title": "openai will watermark chatgpt outputs by default but only in the eu",
       "url": "arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu"
     },
+    "rss:https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/": {
+      "at": "2026-10-08T00:15:14.005381+00:00",
+      "title": "software is over bold ai developer takes aim at adobe with open source clones",
+      "url": "arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -309,6 +314,11 @@
       "at": "2026-09-23T22:59:06.946403+00:00",
       "title": "youtube promises custom feeds and a lot more ai later this year",
       "url": "arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year"
+    },
+    "rss:https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/": {
+      "at": "2026-10-08T00:15:14.005346+00:00",
+      "title": "microsoft event debuts new ai friendly hardware and windows changes",
+      "url": "arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes"
     },
     "rss:https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/": {
       "at": "2026-10-02T16:40:02.383308+00:00",
@@ -2216,6 +2226,16 @@
       "title": "sharing ai progress in mathematics",
       "url": "openai.com/index/sharing-ai-progress-in-mathematics"
     },
+    "rss:https://news.ycombinator.com/item?id=49993121": {
+      "at": "2026-10-08T00:15:14.005518+00:00",
+      "title": "ai assisted proof of optimal packing for 11 squares",
+      "url": "github.com/Queuingtheorydotcom/11SquaresFormalized"
+    },
+    "rss:https://news.ycombinator.com/item?id=49997161": {
+      "at": "2026-10-08T00:15:14.005506+00:00",
+      "title": "meta and microsoft take steps to reduce employee usage of claude ai",
+      "url": "rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2423,6 +2443,11 @@
       "at": "2026-09-09T22:35:04.331372+00:00",
       "title": "gpt 6 astra the next generation in intelligence for work",
       "url": "openai.com/index/gpt-6-astra-next-generation-work"
+    },
+    "rss:https://openai.com/index/gpt-6-for-everyone": {
+      "at": "2026-10-08T00:15:14.005305+00:00",
+      "title": "gpt 6 and intelligent ui for everyone",
+      "url": "openai.com/index/gpt-6-for-everyone"
     },
     "rss:https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
       "at": "2026-09-23T13:44:54.793879+00:00",
@@ -2669,6 +2694,11 @@
       "title": "now everyone can put data to work",
       "url": "openai.com/index/put-data-to-work"
     },
+    "rss:https://openai.com/index/radisson": {
+      "at": "2026-10-08T00:15:14.005553+00:00",
+      "title": "radisson hotel group brings hotel discovery into chatgpt",
+      "url": "openai.com/index/radisson"
+    },
     "rss:https://openai.com/index/reimagining-advertising-with-ai": {
       "at": "2026-09-16T18:14:09.223494+00:00",
       "title": "reimagining advertising with ai",
@@ -2736,6 +2766,11 @@
       "at": "2026-09-08T17:40:11.523104+00:00",
       "title": "funding grants for new research into ai and teen development",
       "url": "openai.com/index/teen-development-research-grants"
+    },
+    "rss:https://openai.com/index/teens-learn-and-plan": {
+      "at": "2026-10-08T00:15:14.005583+00:00",
+      "title": "helping teens learn plan and shape the future of ai",
+      "url": "openai.com/index/teens-learn-and-plan"
     },
     "rss:https://openai.com/index/the-defenders-window": {
       "at": "2026-08-19T12:28:12.501963+00:00",
@@ -2826,6 +2861,11 @@
       "at": "2026-09-24T23:13:27.775313+00:00",
       "title": "automating coherent long form video generation",
       "url": "research.google/blog/coherent-long-form-video-generation"
+    },
+    "rss:https://research.google/blog/does-better-work-always-mean-better-workers/": {
+      "at": "2026-10-08T00:15:14.005568+00:00",
+      "title": "does better work always mean better workers",
+      "url": "research.google/blog/does-better-work-always-mean-better-workers"
     },
     "rss:https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/": {
       "at": "2026-10-06T17:13:03.297825+00:00",
@@ -3166,6 +3206,16 @@
       "at": "2026-10-07T20:01:13.684834+00:00",
       "title": "anti patterns in software blogging",
       "url": "simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging"
+    },
+    "rss:https://simonwillison.net/2026/Oct/7/ben-affleck/": {
+      "at": "2026-10-08T00:15:14.005487+00:00",
+      "title": "quoting ben affleck",
+      "url": "simonwillison.net/2026/Oct/7/ben-affleck"
+    },
+    "rss:https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/": {
+      "at": "2026-10-08T00:15:14.005399+00:00",
+      "title": "claude haiku 5 5",
+      "url": "simonwillison.net/2026/Oct/7/claude-haiku-5-5"
     },
     "rss:https://simonwillison.net/2026/Oct/7/jake-boggan/": {
       "at": "2026-10-07T11:49:15.887146+00:00",
@@ -5955,6 +6005,16 @@
       "at": "2026-10-07T20:01:13.684747+00:00",
       "title": "meta s muse launches on ipad just a month after its mobile debut",
       "url": "techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut"
+    },
+    "rss:https://techcrunch.com/?p=3175292": {
+      "at": "2026-10-08T00:15:14.005496+00:00",
+      "title": "microsoft releases new nvidia chip ai pcs with revamped windows 11",
+      "url": "techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11"
+    },
+    "rss:https://techcrunch.com/?p=3175337": {
+      "at": "2026-10-08T00:15:14.005409+00:00",
+      "title": "nous research confirms it hit 1 5b valuation launches ai agents for business users",
+      "url": "techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -11245,10 +11305,20 @@
       "title": "europe rejoins the fight with chonky mistral large 4 released open weights end of month who s ready",
       "url": "reddit.com/r/LocalLLaMA/comments/1wzginu/europe_rejoins_the_fight_with_chonky_mistral"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wziir6": {
+      "at": "2026-10-08T00:15:14.005473+00:00",
+      "title": "ruach studio a whole song studio around yue2 on your own gpu score first lora training stems remaster daw export",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wziir6/ruach_studio_a_whole_song_studio_around_yue2_on"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzj990": {
       "at": "2026-10-07T11:49:15.887159+00:00",
       "title": "ugh i didn t want to post this back to qwen3 8 27b",
       "url": "reddit.com/r/LocalLLaMA/comments/1wzj990/ugh_i_didnt_want_to_post_this_back_to_qwen38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzljhn": {
+      "at": "2026-10-08T00:15:14.005559+00:00",
+      "title": "benchlabs cagliostro v3 5 135m finally takes hugging face s smollm2 135m s first place on open slm leaderboard with an intelligence index of 27 49",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzljhn/benchlabs_cagliostro_v35_135m_finally_takes"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzm56n": {
       "at": "2026-10-07T11:49:15.887186+00:00",
@@ -11265,15 +11335,55 @@
       "title": "new 35b a3b model is comming on huggingface",
       "url": "reddit.com/r/LocalLLaMA/comments/1wzpyzk/new_35ba3b_model_is_comming_on_huggingface"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzs1t5": {
+      "at": "2026-10-08T00:15:14.005545+00:00",
+      "title": "image text retrieval with embeddinggemma 2 s vision tower running in the browser on webgpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzs1t5/imagetext_retrieval_with_embeddinggemma_2s_vision"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzth65": {
+      "at": "2026-10-08T00:15:14.005532+00:00",
+      "title": "cmpunlocker v0 5 just dropped ecc support along with 4 extra sm unlocked for free who needs a 64gb dgx spark when you ve got a cmp170hx right 1 5tb s memory bw vs 273 gb s all for less than 1 2 the price of a 64gb dgx spark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzth65/cmpunlocker_v05_just_dropped_ecc_support_along"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzudla": {
+      "at": "2026-10-08T00:15:14.005461+00:00",
+      "title": "micron says nvhbm to improve profitability even with outsourced base die",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzudla/micron_says_nvhbm_to_improve_profitability_even"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzuto0": {
+      "at": "2026-10-08T00:15:14.005526+00:00",
+      "title": "new lfm to be released today",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzuto0/new_lfm_to_be_released_today"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzvdqe": {
+      "at": "2026-10-08T00:15:14.005431+00:00",
+      "title": "feat add glm5next mtp optimize by pwilkin pull request 29928 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzvdqe/feat_add_glm5next_mtp_optimize_by_pwilkin_pull"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1wzxttk": {
+      "at": "2026-10-08T00:15:14.005575+00:00",
+      "title": "a week in beijing and shanghai with the people building ai in china",
+      "url": "reddit.com/r/LocalLLaMA/comments/1wzxttk/a_week_in_beijing_and_shanghai_with_the_people"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x01xg3": {
       "at": "2026-10-07T20:01:13.684780+00:00",
       "title": "liquidai d1 3b hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1x01xg3/liquidaid13b_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x01zg6": {
+      "at": "2026-10-08T00:15:14.005421+00:00",
+      "title": "d1 3b and d1 omni from liquidai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x01zg6/d13b_and_d1omni_from_liquidai"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x03xkc": {
       "at": "2026-10-07T20:01:13.684605+00:00",
       "title": "llama add a gpu cache for moe experts kept in host memory by am17an pull request 29887 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x079wc": {
+      "at": "2026-10-08T00:15:14.005589+00:00",
+      "title": "llama cpp on the stage",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -11681,6 +11791,6 @@
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     }
   },
-  "updated_at": "2026-10-07T20:01:13.684919+00:00",
+  "updated_at": "2026-10-08T00:15:14.005618+00:00",
   "version": 2
 }
