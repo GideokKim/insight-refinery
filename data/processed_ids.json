@@ -2271,6 +2271,11 @@
       "title": "meta and microsoft take steps to reduce employee usage of claude ai",
       "url": "rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50011999": {
+      "at": "2026-10-09T09:04:30.733274+00:00",
+      "title": "ai ready biological data 1 8b global commitment",
+      "url": "biohub.org/news/virtual-biology-initiative-expansion"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3286,6 +3291,16 @@
       "at": "2026-10-09T00:25:08.392467+00:00",
       "title": "quoting carson gross",
       "url": "simonwillison.net/2026/Oct/8/carson-gross"
+    },
+    "rss:https://simonwillison.net/2026/Oct/8/ttok/": {
+      "at": "2026-10-09T09:04:30.733394+00:00",
+      "title": "ttok 0 4",
+      "url": "simonwillison.net/2026/Oct/8/ttok"
+    },
+    "rss:https://simonwillison.net/2026/Oct/9/ttok/": {
+      "at": "2026-10-09T09:04:30.733365+00:00",
+      "title": "ttok 1 0",
+      "url": "simonwillison.net/2026/Oct/9/ttok"
     },
     "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
       "at": "2026-09-02T00:38:13.031615+00:00",
@@ -11570,6 +11585,11 @@
       "title": "saluki 27b 96 of qwen 3 8 s performance at 1 7 the size",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0mn7x/saluki_27b_96_of_qwen_38s_performance_at_17_the"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0ms0m": {
+      "at": "2026-10-09T09:04:30.733319+00:00",
+      "title": "running an llm driven town with 800 persistent agents concurrency context caching and inference costs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0ms0m/running_an_llmdriven_town_with_800_persistent"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0n4pt": {
       "at": "2026-10-08T18:01:12.186978+00:00",
       "title": "last week some of south korea s biggest banks were hit by a cyberattack we now know the entire hack may have been done by a single person he used a combined stack of an open source ai penetration tool named artex deepseek v4 1 flash glm 5 3 grok 4 6 and claude code crowdstrike",
@@ -11584,6 +11604,11 @@
       "at": "2026-10-08T18:01:12.186953+00:00",
       "title": "audio cpp recent updates you might have missed higgs audio tts use 48 less vram 6gb htdemucs 2 2 faster pockettts 2 2 faster on cpu and webui generation history feature",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0q91x/audiocpp_recent_updates_you_might_have_missed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0rjzb": {
+      "at": "2026-10-09T09:04:30.733406+00:00",
+      "title": "attn cmp170hx 10gb card owners unlock from 40gb 48gb coming along nicely",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0rjzb/attn_cmp170hx_10gb_card_owners_unlock_from_40gb"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0sa6g": {
       "at": "2026-10-09T00:25:08.392437+00:00",
@@ -11619,6 +11644,16 @@
       "at": "2026-10-09T00:25:08.392458+00:00",
       "title": "strata rewrote their github history to wipe evidence of claude authoring",
       "url": "reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x17brf": {
+      "at": "2026-10-09T09:04:30.733379+00:00",
+      "title": "qwen 3 6 35b appreciation post",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x17brf/qwen_36_35b_appreciation_post"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x18e95": {
+      "at": "2026-10-09T09:04:30.733345+00:00",
+      "title": "qwen3 8 27b 159 tok s on r9700 64 tok s on strix halo",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x18e95/qwen3827b_159_toks_on_r9700_64_toks_on_strix_halo"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12041,6 +12076,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-09T00:25:08.392530+00:00",
+  "updated_at": "2026-10-09T09:04:30.733461+00:00",
   "version": 2
 }

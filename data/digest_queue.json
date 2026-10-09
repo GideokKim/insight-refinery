@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-09T00:25:05.637699+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50011999",
+        "title": "AI-ready biological data: $1.8B global commitment",
+        "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+        "author": "ray__",
+        "published_at": "2026-10-08T20:46:25+00:00"
+      },
+      "insight": {
+        "title_ko": "바이오 AI 데이터 구축에 18억 달러 투자",
+        "summary_ko": [
+          "AI 연구를 위한 바이오 데이터 구축에 18억 달러 규모의 글로벌 투자가 발표되었습니다.",
+          "이번 자금 투입은 Virtual Biology Initiative의 확장을 위해 사용될 예정입니다.",
+          "고품질의 생물학적 데이터 확보를 통해 바이오 분야 AI 모델의 실무 적용이 가속화될 것으로 기대됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x0ms0m",
+        "title": "Running an LLM-driven town with 800+ persistent agents: concurrency, context caching, and inference costs",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ms0m/running_an_llmdriven_town_with_800_persistent/",
+        "author": "/u/Low_Bad_6585",
+        "published_at": "2026-10-08T09:49:11+00:00"
+      },
+      "insight": {
+        "title_ko": "800개 이상 에이전트를 구동하는 LLM 시뮬레이션",
+        "summary_ko": [
+          "개발자가 800명 이상의 영구 AI 거주자가 활동하는 LLM 기반 가상 도시 Slow Vale의 엔지니어링 아키텍처를 공유했습니다.",
+          "각 캐릭터는 일일 300~400회의 LLM 호출을 수행하며, 동시성 제어와 컨텍스트 캐싱 및 상태 변이 분리 기법을 적용했습니다.",
+          "비동기 LLM 호출 결과는 검증 단계를 거쳐 월드 스테이트에 반영되며 자원 충돌과 활동 런타임을 안정적으로 관리합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
