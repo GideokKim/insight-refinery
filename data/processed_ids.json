@@ -1070,6 +1070,21 @@
       "title": "aicr v1 0 open stable and verifiable gpu cluster configuration",
       "url": "developer.nvidia.com/blog/aicr-v1-0-open-stable-and-verifiable-gpu-cluster-configuration"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123415": {
+      "at": "2026-10-09T00:25:08.392360+00:00",
+      "title": "scale bitwise deterministic pretraining with nvidia megatron core",
+      "url": "developer.nvidia.com/blog/scale-bitwise-deterministic-pretraining-with-nvidia-megatron-core"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123426": {
+      "at": "2026-10-09T00:25:08.392322+00:00",
+      "title": "building reliable data analytics agents lessons from the kdd cup",
+      "url": "developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123534": {
+      "at": "2026-10-09T00:25:08.392308+00:00",
+      "title": "5 steps to create simready assets for robotics with frontier ai models",
+      "url": "developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1184,6 +1199,11 @@
       "at": "2026-08-19T17:19:19.683328+00:00",
       "title": "baseten on hugging face inference providers",
       "url": "huggingface.co/blog/baseten"
+    },
+    "rss:https://huggingface.co/blog/building-with-ml-intern": {
+      "at": "2026-10-09T00:25:08.392493+00:00",
+      "title": "the model that didn t exist so you made it yourself",
+      "url": "huggingface.co/blog/building-with-ml-intern"
     },
     "rss:https://huggingface.co/blog/evaleval-aisi": {
       "at": "2026-09-22T18:13:43.596069+00:00",
@@ -2589,6 +2609,11 @@
       "title": "learning never stops how ai makes learning continuous",
       "url": "openai.com/index/learning-never-stops"
     },
+    "rss:https://openai.com/index/legalon-halves-codex-costs": {
+      "at": "2026-10-09T00:25:08.392351+00:00",
+      "title": "legalon halves codex costs while maintaining development speed",
+      "url": "openai.com/index/legalon-halves-codex-costs"
+    },
     "rss:https://openai.com/index/legora-financial-statement-review-with-astra": {
       "at": "2026-09-03T21:59:42.659555+00:00",
       "title": "legora reviewed 41 documents in minutes with gpt 6 astra",
@@ -3256,6 +3281,11 @@
       "at": "2026-10-07T02:24:06.366738+00:00",
       "title": "openai rogue agent activities found on wikimedia projects",
       "url": "simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia"
+    },
+    "rss:https://simonwillison.net/2026/Oct/8/carson-gross/": {
+      "at": "2026-10-09T00:25:08.392467+00:00",
+      "title": "quoting carson gross",
+      "url": "simonwillison.net/2026/Oct/8/carson-gross"
     },
     "rss:https://simonwillison.net/2026/Sep/1/claude-fable-5-1/": {
       "at": "2026-09-02T00:38:13.031615+00:00",
@@ -6051,6 +6081,11 @@
       "title": "natura s 99 smart ring puts ai agents on your finger",
       "url": "techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger"
     },
+    "rss:https://techcrunch.com/?p=3175311": {
+      "at": "2026-10-09T00:25:08.392417+00:00",
+      "title": "openai s math solutions aren t meeting the field s standards yet",
+      "url": "techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet"
+    },
     "rss:https://techcrunch.com/?p=3175337": {
       "at": "2026-10-08T00:15:14.005409+00:00",
       "title": "nous research confirms it hit 1 5b valuation launches ai agents for business users",
@@ -6080,6 +6115,41 @@
       "at": "2026-10-08T18:01:12.187024+00:00",
       "title": "goodfire says its new inside out monitors catch rogue ai agents at a fraction of the cost",
       "url": "techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost"
+    },
+    "rss:https://techcrunch.com/?p=3175682": {
+      "at": "2026-10-09T00:25:08.392485+00:00",
+      "title": "ben affleck is an ai nerd and the internet is impressed",
+      "url": "techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed"
+    },
+    "rss:https://techcrunch.com/?p=3175734": {
+      "at": "2026-10-09T00:25:08.392395+00:00",
+      "title": "popular ai leaderboard arena nearly doubles valuation to 3 1b valuation in 10 months",
+      "url": "techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months"
+    },
+    "rss:https://techcrunch.com/?p=3175754": {
+      "at": "2026-10-09T00:25:08.392404+00:00",
+      "title": "openai s revenue is reportedly 20 billion less than previously projected",
+      "url": "techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected"
+    },
+    "rss:https://techcrunch.com/?p=3175776": {
+      "at": "2026-10-09T00:25:08.392334+00:00",
+      "title": "google brings agentic ai to gemini starting with businesses",
+      "url": "techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses"
+    },
+    "rss:https://techcrunch.com/?p=3175777": {
+      "at": "2026-10-09T00:25:08.392343+00:00",
+      "title": "anthropic changes usage policy to ban model abuse and election interference",
+      "url": "techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference"
+    },
+    "rss:https://techcrunch.com/?p=3175894": {
+      "at": "2026-10-09T00:25:08.392384+00:00",
+      "title": "fired openai safety researchers dispute misconduct claims warn of chilling effect",
+      "url": "techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect"
+    },
+    "rss:https://techcrunch.com/?p=3175918": {
+      "at": "2026-10-09T00:25:08.392475+00:00",
+      "title": "pretend you re sitting at elizabeth holmes desk on this weirdly detailed website",
+      "url": "techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6255,6 +6325,11 @@
       "at": "2026-09-03T06:36:46.739458+00:00",
       "title": "ainews muse spark 1 3 matches gpt 5 6 sol confirming meta superintelligence as the newest frontier lab 90 discount for training",
       "url": "latent.space/p/ainews-muse-spark-13-matches-gpt"
+    },
+    "rss:https://www.latent.space/p/ainews-not-much-happened-today-60f": {
+      "at": "2026-10-09T00:25:08.392265+00:00",
+      "title": "ainews not much happened today",
+      "url": "latent.space/p/ainews-not-much-happened-today-60f"
     },
     "rss:https://www.latent.space/p/ainews-not-much-happened-today-612": {
       "at": "2026-09-18T07:24:55.114440+00:00",
@@ -11500,10 +11575,20 @@
       "title": "last week some of south korea s biggest banks were hit by a cyberattack we now know the entire hack may have been done by a single person he used a combined stack of an open source ai penetration tool named artex deepseek v4 1 flash glm 5 3 grok 4 6 and claude code crowdstrike",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0oaum": {
+      "at": "2026-10-09T00:25:08.392449+00:00",
+      "title": "i trained turkish tts from scratch using the drifting method with an rtx 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0oaum/i_trained_turkish_tts_from_scratch_using_the"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0q91x": {
       "at": "2026-10-08T18:01:12.186953+00:00",
       "title": "audio cpp recent updates you might have missed higgs audio tts use 48 less vram 6gb htdemucs 2 2 faster pockettts 2 2 faster on cpu and webui generation history feature",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0q91x/audiocpp_recent_updates_you_might_have_missed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0sa6g": {
+      "at": "2026-10-09T00:25:08.392437+00:00",
+      "title": "2506 13771 littlebit ultra low bit quantization via latent factorization",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0sa6g/250613771_littlebit_ultra_lowbit_quantization_via"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0sm1b": {
       "at": "2026-10-08T18:01:12.187064+00:00",
@@ -11520,10 +11605,20 @@
       "title": "thank you swift models hit 2 2 million downloads early access to new models free compute for researchers",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0wg85": {
+      "at": "2026-10-09T00:25:08.392428+00:00",
+      "title": "running decision model locally on an rtx 4090 to find out which one is the fastest",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x0wg85/running_decision_model_locally_on_an_rtx_4090_to"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x0wnz1": {
       "at": "2026-10-08T18:01:12.186884+00:00",
       "title": "2800 rig with 8x radeon pro v620 256 gb vram custom vllm fork qwen3 8 flash next at 60 to 100 t s decode and 3000 t s prefill",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x15a8w": {
+      "at": "2026-10-09T00:25:08.392458+00:00",
+      "title": "strata rewrote their github history to wipe evidence of claude authoring",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -11939,8 +12034,13 @@
       "at": "2026-10-08T18:01:12.186994+00:00",
       "title": "ai breakthroughs in robotics won t change your life any time soon",
       "url": "technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
+    },
+    "rss:https://www.technologyreview.com/?p=1146224": {
+      "at": "2026-10-09T00:25:08.392372+00:00",
+      "title": "roundtables a conversation with the creator of ai designed viruses",
+      "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-08T18:01:12.187188+00:00",
+  "updated_at": "2026-10-09T00:25:08.392530+00:00",
   "version": 2
 }
