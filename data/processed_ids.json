@@ -1170,6 +1170,11 @@
       "title": "benchmirt what are llm benchmarks actually measuring",
       "url": "huggingface.co/blog/allenai/benchmirt"
     },
+    "rss:https://huggingface.co/blog/allenai/impactful-scheduling": {
+      "at": "2026-10-09T17:29:55.217301+00:00",
+      "title": "impactful scheduling for gpu clusters",
+      "url": "huggingface.co/blog/allenai/impactful-scheduling"
+    },
     "rss:https://huggingface.co/blog/allenai/olmocore3": {
       "at": "2026-10-01T17:23:15.420885+00:00",
       "title": "introducing olmo core 3 open scalable training infrastructure for large moes",
@@ -2276,6 +2281,11 @@
       "title": "ai ready biological data 1 8b global commitment",
       "url": "biohub.org/news/virtual-biology-initiative-expansion"
     },
+    "rss:https://news.ycombinator.com/item?id=50018817": {
+      "at": "2026-10-09T17:29:55.217339+00:00",
+      "title": "let your ai agents paint big arrows boxes and text on your screen",
+      "url": "github.com/franzenzenhofer/big-arrow-on-the-screen"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2794,6 +2804,11 @@
       "title": "rapidly scaling online storage to serve over 1 billion chatgpt users",
       "url": "openai.com/index/scaling-storage-one-billion-users-part-one"
     },
+    "rss:https://openai.com/index/sophos": {
+      "at": "2026-10-09T17:29:55.217253+00:00",
+      "title": "sophos cuts threat investigation time by 96 with openai daybreak",
+      "url": "openai.com/index/sophos"
+    },
     "rss:https://openai.com/index/stampli": {
       "at": "2026-08-20T17:18:50.768188+00:00",
       "title": "how chatgpt work helps stampli move ideas to market",
@@ -3296,6 +3311,16 @@
       "at": "2026-10-09T09:04:30.733394+00:00",
       "title": "ttok 0 4",
       "url": "simonwillison.net/2026/Oct/8/ttok"
+    },
+    "rss:https://simonwillison.net/2026/Oct/9/built-using-my-voice/": {
+      "at": "2026-10-09T17:29:55.217324+00:00",
+      "title": "a new feature for my blog built using my voice",
+      "url": "simonwillison.net/2026/Oct/9/built-using-my-voice"
+    },
+    "rss:https://simonwillison.net/2026/Oct/9/matthew-green/": {
+      "at": "2026-10-09T17:29:55.217309+00:00",
+      "title": "quoting matthew green",
+      "url": "simonwillison.net/2026/Oct/9/matthew-green"
     },
     "rss:https://simonwillison.net/2026/Oct/9/ttok/": {
       "at": "2026-10-09T09:04:30.733365+00:00",
@@ -6026,6 +6051,11 @@
       "title": "ai computing startup lambda to raise 4b ahead of planned ipo",
       "url": "techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo"
     },
+    "rss:https://techcrunch.com/?p=3174693": {
+      "at": "2026-10-09T17:29:55.217357+00:00",
+      "title": "danu robotics fight to build a better recycling robot",
+      "url": "techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot"
+    },
     "rss:https://techcrunch.com/?p=3174722": {
       "at": "2026-10-07T02:24:06.366862+00:00",
       "title": "ex ramp engineers raise 20m for platform melius after scrapping their first product",
@@ -6131,6 +6161,11 @@
       "title": "goodfire says its new inside out monitors catch rogue ai agents at a fraction of the cost",
       "url": "techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost"
     },
+    "rss:https://techcrunch.com/?p=3175674": {
+      "at": "2026-10-09T17:29:55.217367+00:00",
+      "title": "we can t help treating ai like it s human but should we",
+      "url": "techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we"
+    },
     "rss:https://techcrunch.com/?p=3175682": {
       "at": "2026-10-09T00:25:08.392485+00:00",
       "title": "ben affleck is an ai nerd and the internet is impressed",
@@ -6165,6 +6200,16 @@
       "at": "2026-10-09T00:25:08.392475+00:00",
       "title": "pretend you re sitting at elizabeth holmes desk on this weirdly detailed website",
       "url": "techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website"
+    },
+    "rss:https://techcrunch.com/?p=3175987": {
+      "at": "2026-10-09T17:29:55.217398+00:00",
+      "title": "techcrunch disrupt 2026 starts in 4 days lock in your pass savings of up to 100 before prices rise",
+      "url": "techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise"
+    },
+    "rss:https://techcrunch.com/?p=3176079": {
+      "at": "2026-10-09T17:29:55.217291+00:00",
+      "title": "a16z s olivia moore on the state of consumer ai",
+      "url": "techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6206,6 +6251,11 @@
       "title": "call it ai call it super intelligence only 2 of consumers are buying it",
       "url": "techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3176135": {
+      "at": "2026-10-09T17:29:55.217282+00:00",
+      "title": "amazon drops data center ndas and ai agents want your credit card",
+      "url": "techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -6240,6 +6290,11 @@
       "at": "2026-10-02T21:20:25.655783+00:00",
       "title": "it s not ai anymore it s super intelligence according to the white house",
       "url": "techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3176138": {
+      "at": "2026-10-09T17:29:55.217274+00:00",
+      "title": "amazon and others are done keeping data center deals secret is it enough to build trust",
+      "url": "techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -11640,6 +11695,11 @@
       "title": "2800 rig with 8x radeon pro v620 256 gb vram custom vllm fork qwen3 8 flash next at 60 to 100 t s decode and 3000 t s prefill",
       "url": "reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x135oh": {
+      "at": "2026-10-09T17:29:55.217348+00:00",
+      "title": "bois there s now a waterblock for the r9700 quiet 4x or 6x builds are now possible",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x135oh/bois_theres_now_a_waterblock_for_the_r9700_quiet"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x15a8w": {
       "at": "2026-10-09T00:25:08.392458+00:00",
       "title": "strata rewrote their github history to wipe evidence of claude authoring",
@@ -11650,10 +11710,65 @@
       "title": "qwen 3 6 35b appreciation post",
       "url": "reddit.com/r/LocalLLaMA/comments/1x17brf/qwen_36_35b_appreciation_post"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x18bsm": {
+      "at": "2026-10-09T17:29:55.217391+00:00",
+      "title": "quantization of linear attention qwen kimi",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x18bsm/quantization_of_linearattention_qwen_kimi"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x18e95": {
       "at": "2026-10-09T09:04:30.733345+00:00",
       "title": "qwen3 8 27b 159 tok s on r9700 64 tok s on strix halo",
       "url": "reddit.com/r/LocalLLaMA/comments/1x18e95/qwen3827b_159_toks_on_r9700_64_toks_on_strix_halo"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x19lvs": {
+      "at": "2026-10-09T17:29:55.217384+00:00",
+      "title": "stepfun step 5 preview showing up in openrouter",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x19lvs/stepfun_step_5_preview_showing_up_in_openrouter"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1eb7w": {
+      "at": "2026-10-09T17:29:55.217264+00:00",
+      "title": "paper engramedit decoupled knowledge updates in llms through conditional memory",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1eb7w/paper_engramedit_decoupled_knowledge_updates_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1eu7o": {
+      "at": "2026-10-09T17:29:55.217243+00:00",
+      "title": "paper dloop looped speculative decoding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1eu7o/paper_dloop_looped_speculative_decoding"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1f5gz": {
+      "at": "2026-10-09T17:29:55.217235+00:00",
+      "title": "paper stepped moe segment level routing with configurable inference complexity",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1f5gz/paper_stepped_moe_segmentlevel_routing_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1fnsy": {
+      "at": "2026-10-09T17:29:55.217375+00:00",
+      "title": "ahh it all makes sense now for the 64gb dgx spark samsung expects 780 quarterly operating profit jump on ai boom",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1fnsy/ahh_it_all_makes_sense_now_for_the_64gb_dgx_spark"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1jdsk": {
+      "at": "2026-10-09T17:29:55.217333+00:00",
+      "title": "lightonai lightonocr 3 4b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1jdsk/lightonailightonocr34b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1jk9z": {
+      "at": "2026-10-09T17:29:55.217212+00:00",
+      "title": "tencent youtu parsing omni hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1jk9z/tencentyoutuparsingomni_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1lclx": {
+      "at": "2026-10-09T17:29:55.217198+00:00",
+      "title": "qwen image 2 1 turbo released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1lclx/qwenimage21turbo_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1ldef": {
+      "at": "2026-10-09T17:29:55.217314+00:00",
+      "title": "qwen qwen image 2 1 turbo hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1owzm": {
+      "at": "2026-10-09T17:29:55.217080+00:00",
+      "title": "github google ai edge ml drift gpu accelerated ai ml inference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1owzm/github_googleaiedgemldrift_gpuaccelerated_aiml"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12065,6 +12180,11 @@
       "title": "people really hate ai so why can t they get enough",
       "url": "technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
     },
+    "rss:https://www.technologyreview.com/?p=1145728": {
+      "at": "2026-10-09T17:29:55.217223+00:00",
+      "title": "we re putting too much faith in ai s ability to say no",
+      "url": "technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no"
+    },
     "rss:https://www.technologyreview.com/?p=1145923": {
       "at": "2026-10-08T18:01:12.186994+00:00",
       "title": "ai breakthroughs in robotics won t change your life any time soon",
@@ -12076,6 +12196,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-09T09:04:30.733461+00:00",
+  "updated_at": "2026-10-09T17:29:55.217431+00:00",
   "version": 2
 }
