@@ -133,6 +133,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/standard-bots",
+        "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+        "url": "https://www.latent.space/p/standard-bots",
+        "author": "Richard MacManus",
+        "published_at": "2026-10-10T14:04:11+00:00"
+      },
+      "insight": {
+        "title_ko": "산업용 로봇의 신뢰성 높은 AI 구축 사례",
+        "summary_ko": [
+          "Standard Bots는 머신 텐딩과 용접 등 실무에 특화된 AI 기반 산업용 로봇을 개발하는 기업이다.",
+          "이들은 대규모 연산보다는 양질의 타겟 데이터와 소형 기반 모델을 활용해 신뢰성을 높이고 있다.",
+          "소프트웨어부터 하드웨어까지 풀스택을 직접 제어하여 모델과 제어 정책을 공동 최적화하는 것이 핵심 경쟁력이다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x2eeds",
+        "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
+        "author": "/u/A-Rahim",
+        "published_at": "2026-10-10T12:43:33+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 멀티모달 파일 검색용 Mac 앱 DigUp 공개",
+        "summary_ko": [
+          "DigUp은 Google의 EmbeddingGemma 2를 활용해 Mac에서 로컬로 파일을 검색할 수 있는 오픈소스 앱입니다.",
+          "텍스트뿐만 아니라 이미지, 오디오, 비디오를 통합 임베딩 공간에서 0.1초 만에 찾아내는 빠른 검색 성능을 제공합니다.",
+          "llama.cpp와 Metal을 활용해 파이썬 없이 네이티브 Swift로 구현되었으며 모든 처리가 로컬 기기에서 안전하게 실행됩니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x1xt1x",
+        "title": "Qwen3.8 27b with 200K ctx + MTP on 12GB Ampere Cards",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1xt1x/qwen38_27b_with_200k_ctx_mtp_on_12gb_ampere_cards/",
+        "author": "/u/Brief-Tap-6616",
+        "published_at": "2026-10-09T21:39:32+00:00"
+      },
+      "insight": {
+        "title_ko": "12GB GPU용 Qwen3.8 27B 모델 실행 최적화",
+        "summary_ko": [
+          "LlamAmpere 프로젝트를 통해 12GB Ampere GPU 카드에서도 Qwen3.8 27B 모델을 구동할 수 있는 최적화가 공개되었습니다.",
+          "런타임 조정과 새로운 KVaRN 변형을 적용하여 200K 이상의 긴 컨텍스트와 MTP 기능을 11GB 메모리 환경에서 지원합니다.",
+          "코딩 평가와 에이전틱 작업에서 실사용 가능한 성능을 보여주며 실무 개발자들에게 유용한 대안을 제시합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

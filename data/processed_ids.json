@@ -6271,6 +6271,11 @@
       "title": "anthropic can t reliably control its ai agents it s cutting off its internal evals from the live internet instead",
       "url": "techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead"
     },
+    "rss:https://techcrunch.com/?p=3176326": {
+      "at": "2026-10-10T16:14:52.592350+00:00",
+      "title": "3 days to techcrunch disrupt 2026 meet the startups before they hit mainstream",
+      "url": "techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -6670,6 +6675,11 @@
       "at": "2026-10-07T20:01:13.684703+00:00",
       "title": "can a cloud native harness make agents reliable beyond the desktop",
       "url": "latent.space/p/stacklok"
+    },
+    "rss:https://www.latent.space/p/standard-bots": {
+      "at": "2026-10-10T16:14:52.592190+00:00",
+      "title": "building ai for reliable execution lessons from industrial robotics",
+      "url": "latent.space/p/standard-bots"
     },
     "rss:https://www.latent.space/p/thariq": {
       "at": "2026-09-29T08:32:03.504161+00:00",
@@ -11870,10 +11880,20 @@
       "title": "h2o lightning 4b apache 2 0 4b decision model official 1 open model on jevbench above jev",
       "url": "reddit.com/r/LocalLLaMA/comments/1x1w1nv/h2olightning4b_apache20_4b_decision_model"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1xt1x": {
+      "at": "2026-10-10T16:14:52.592255+00:00",
+      "title": "qwen3 8 27b with 200k ctx mtp on 12gb ampere cards",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x1xt1x/qwen38_27b_with_200k_ctx_mtp_on_12gb_ampere_cards"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x1zlxh": {
       "at": "2026-10-10T08:30:14.584901+00:00",
       "title": "my anthropic chatgpt in a box is now open source and publicly hosted on github",
       "url": "reddit.com/r/LocalLLaMA/comments/1x1zlxh/my_anthropicchatgpt_in_a_box_is_now_open_source"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x20tgs": {
+      "at": "2026-10-10T16:14:52.592314+00:00",
+      "title": "slopsoup tv a live never ending 24 7 pixel art tv network inspired by old school late night adult swim no human makes any of it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x20tgs/slopsoup_tv_a_live_neverending_247_pixelart_tv"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x212iv": {
       "at": "2026-10-10T08:30:14.585046+00:00",
@@ -11885,10 +11905,35 @@
       "title": "basalt flash next at 665 tok s structured 354 prose on a 5090 5060 ti 2 6x strata",
       "url": "reddit.com/r/LocalLLaMA/comments/1x223ai/basalt_flashnext_at_665_toks_structured_354_prose"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x28zr9": {
+      "at": "2026-10-10T16:14:52.592298+00:00",
+      "title": "created laya now introducing a new 800 million param physics based typed decision model with 73k context and image support",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x28zr9/created_laya_now_introducing_a_new_800_million"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x29hx8": {
       "at": "2026-10-10T08:30:14.585034+00:00",
       "title": "big or small",
       "url": "reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x29q4a": {
+      "at": "2026-10-10T16:14:52.592335+00:00",
+      "title": "what are people doing with decisions jev like models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x29q4a/what_are_people_doing_with_decisions_jevlike"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2bt6r": {
+      "at": "2026-10-10T16:14:52.592284+00:00",
+      "title": "nvidia reportedly discontinuing rtx 5090 gb202 gpus to be reserved for rtx pro series",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2eeds": {
+      "at": "2026-10-10T16:14:52.592229+00:00",
+      "title": "open source mac app that runs embeddinggemma 2 locally to search your files by what s in them",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2hs1e": {
+      "at": "2026-10-10T16:14:52.592271+00:00",
+      "title": "no more rtx 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12316,6 +12361,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-10T08:30:14.585091+00:00",
+  "updated_at": "2026-10-10T16:14:52.592396+00:00",
   "version": 2
 }
