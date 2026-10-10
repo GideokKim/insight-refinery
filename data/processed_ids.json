@@ -2311,10 +2311,20 @@
       "title": "typesafe ai raises 870m at 7 5b",
       "url": "typesafe.ai/blog/series-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50024090": {
+      "at": "2026-10-10T20:34:17.207258+00:00",
+      "title": "what mathematicians should know about the lean theorem prover reliability ai",
+      "url": "terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai"
+    },
     "rss:https://news.ycombinator.com/item?id=50027118": {
       "at": "2026-10-10T08:30:14.584924+00:00",
       "title": "anthropic ai model submits false tip on unsolved philly murder police say",
       "url": "nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051"
+    },
+    "rss:https://news.ycombinator.com/item?id=50031614": {
+      "at": "2026-10-10T20:34:17.207339+00:00",
+      "title": "talorys a self hosted personal ai agent on cloudflare s free tier",
+      "url": "github.com/rociiu/talorys"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -6275,6 +6285,11 @@
       "at": "2026-10-10T16:14:52.592350+00:00",
       "title": "3 days to techcrunch disrupt 2026 meet the startups before they hit mainstream",
       "url": "techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream"
+    },
+    "rss:https://techcrunch.com/?p=3176436": {
+      "at": "2026-10-10T20:34:17.207276+00:00",
+      "title": "apple discloses deal to hire team and license tech from personalized podcast startup huxe",
+      "url": "techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -11925,15 +11940,35 @@
       "title": "nvidia reportedly discontinuing rtx 5090 gb202 gpus to be reserved for rtx pro series",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2cztv": {
+      "at": "2026-10-10T20:34:17.207322+00:00",
+      "title": "fully local conversational ai whisper hermes 8b kokoro zero cloud running inside a plush toy",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2cztv/fully_local_conversational_ai_whisper_hermes_8b"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2eeds": {
       "at": "2026-10-10T16:14:52.592229+00:00",
       "title": "open source mac app that runs embeddinggemma 2 locally to search your files by what s in them",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2erdj": {
+      "at": "2026-10-10T20:34:17.207217+00:00",
+      "title": "qwen3 8 27b on a single 3090 140 tok s on code with a custom megakernel",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2hs1e": {
       "at": "2026-10-10T16:14:52.592271+00:00",
       "title": "no more rtx 5090",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2mw1o": {
+      "at": "2026-10-10T20:34:17.207303+00:00",
+      "title": "engineer developer observations of gemma4 31b qwen3 8 27b and 6 1 sol for software engineering work",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2nfg4": {
+      "at": "2026-10-10T20:34:17.207290+00:00",
+      "title": "goodbye coding plans",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12361,6 +12396,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-10T16:14:52.592396+00:00",
+  "updated_at": "2026-10-10T20:34:17.207380+00:00",
   "version": 2
 }

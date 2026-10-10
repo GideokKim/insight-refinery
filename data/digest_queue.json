@@ -199,6 +199,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x2erdj",
+        "title": "Qwen3.8-27B on a single 3090: 140 tok/s on code with a custom megakernel",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2erdj/qwen3827b_on_a_single_3090_140_toks_on_code_with/",
+        "author": "/u/Adorable_Weakness_39",
+        "published_at": "2026-10-10T13:01:23+00:00"
+      },
+      "insight": {
+        "title_ko": "RTX 3090에서 Qwen27B 속도 극대화한 CUDA 커널",
+        "summary_ko": [
+          "한 개발자가 Claude를 활용해 단일 RTX 3090 환경에서 Qwen3.8-27B의 연산 속도를 대폭 높여주는 CUDA megakernel을 개발했다.",
+          "이 커널은 speculative-decoding의 전체 사이클을 단일 커널로 실행하여 기존 llama.cpp 대비 코딩 작업에서 최대 1.9배 빠른 속도를 기록했다.",
+          "llama 서버의 드롭인 대체재로 작동하며 OpenAI 호환 서버를 지원하지만 특정 모델과 하드웨어 환경에서만 사용할 수 있는 제약이 있다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50024090",
+        "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+        "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+        "author": "matt_d",
+        "published_at": "2026-10-09T17:42:12+00:00"
+      },
+      "insight": {
+        "title_ko": "수학자와 AI를 위한 Lean Theorem Prover",
+        "summary_ko": [
+          "본문은 수학자들이 Lean Theorem Prover에 대해 알아야 할 신뢰성과 AI 관련 내용을 다루고 있습니다.",
+          "Lean을 활용한 정형 수학 검증과 AI의 결합 가능성에 대한 논의를 포함합니다.",
+          "수학 연구 및 AI 기반 정리 증명 분야의 실무적 방향성을 제시합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
