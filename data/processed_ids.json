@@ -6321,6 +6321,16 @@
       "title": "microsoft s satya nadella says ai models need an emergency brake",
       "url": "techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
     },
+    "rss:https://techcrunch.com/?p=3176460": {
+      "at": "2026-10-11T20:58:24.114869+00:00",
+      "title": "can the ai industry persuade data center opponents by getting rid of ndas",
+      "url": "techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas"
+    },
+    "rss:https://techcrunch.com/?p=3176474": {
+      "at": "2026-10-11T20:58:24.114904+00:00",
+      "title": "48 hours to techcrunch disrupt 2026 hear directly from the people building what s next",
+      "url": "techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -12100,6 +12110,16 @@
       "title": "nvidia in talks to acquire us open model start up reflection ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1x38rnv/nvidia_in_talks_to_acquire_us_open_model_startup"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3ak4j": {
+      "at": "2026-10-11T20:58:24.114889+00:00",
+      "title": "reverse engineering w local",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3ak4j/reverse_engineering_w_local"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3gpyi": {
+      "at": "2026-10-11T20:58:24.114828+00:00",
+      "title": "every model that can be run on 10 16gb vram ranked",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -12526,6 +12546,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-11T16:39:20.050291+00:00",
+  "updated_at": "2026-10-11T20:58:24.114967+00:00",
   "version": 2
 }
