@@ -2331,6 +2331,11 @@
       "title": "nvidia in talks to acquire us open model startup reflection ai",
       "url": "ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
     },
+    "rss:https://news.ycombinator.com/item?id=50039092": {
+      "at": "2026-10-11T16:39:20.050222+00:00",
+      "title": "500b tokens later letting ai agents decompile a first person shooter",
+      "url": "momo5502.com/posts/2026-10-09-game-decompilation"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -6275,6 +6280,11 @@
       "at": "2026-10-09T17:29:55.217398+00:00",
       "title": "techcrunch disrupt 2026 starts in 4 days lock in your pass savings of up to 100 before prices rise",
       "url": "techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise"
+    },
+    "rss:https://techcrunch.com/?p=3176054": {
+      "at": "2026-10-11T16:39:20.050251+00:00",
+      "title": "these execs think voice ai hasn t reached its chatgpt moment yet",
+      "url": "techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet"
     },
     "rss:https://techcrunch.com/?p=3176079": {
       "at": "2026-10-09T17:29:55.217291+00:00",
@@ -12045,6 +12055,11 @@
       "title": "be careful fam new rtx 4090 fakes hit the market with gpus and memory almost indistinguishable from real chips",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2xniv/be_careful_fam_new_rtx_4090_fakes_hit_the_market"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2yv1b": {
+      "at": "2026-10-11T16:39:20.050205+00:00",
+      "title": "running next flash iq3_xxs at 70 tok s with 100k context or 2 instances of qwen 3 6 35b a3b iq4 at 145 tok s with 256k all on 500 of ex mining bc 250 boards",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2yv1b/running_next_flash_iq3_xxs_at_70_toks_with_100k"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2z14s": {
       "at": "2026-10-11T08:51:05.782753+00:00",
       "title": "qualcomm ceo reveals ai companies want phones running 100 billion parameter models continuously by 2028",
@@ -12054,6 +12069,36 @@
       "at": "2026-10-11T08:51:05.782796+00:00",
       "title": "converting dense models into mixture of experts",
       "url": "reddit.com/r/LocalLLaMA/comments/1x3078i/converting_dense_models_into_mixtureofexperts"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x32vhx": {
+      "at": "2026-10-11T16:39:20.050193+00:00",
+      "title": "psa deepseek v4 1 flash habitually exfiltrates api keys it is dangerously misaligned and may be hazardous to use",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x32vhx/psa_deepseek_v41_flash_habitually_exfiltrates_api"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x33p4o": {
+      "at": "2026-10-11T16:39:20.050180+00:00",
+      "title": "reminder try probabilistic mtp if you missed it decode 14 on prose",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x33p4o/reminder_try_probabilistic_mtp_if_you_missed_it"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x35o1y": {
+      "at": "2026-10-11T16:39:20.050154+00:00",
+      "title": "microsoft aescode 8b and 32b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x37tg6": {
+      "at": "2026-10-11T16:39:20.050235+00:00",
+      "title": "here s why rtx 5090 costs 5 000 ai firms are buying gaming gpus by the pallet",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x37z7z": {
+      "at": "2026-10-11T16:39:20.050137+00:00",
+      "title": "openmed 3 0 is out apache 2 0 clinical ai that runs fully local and never falls back to the cloud 422 open issues if you want in on 3 1",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x37z7z/openmed_30_is_out_apache20_clinical_ai_that_runs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x38rnv": {
+      "at": "2026-10-11T16:39:20.050099+00:00",
+      "title": "nvidia in talks to acquire us open model start up reflection ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x38rnv/nvidia_in_talks_to_acquire_us_open_model_startup"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12481,6 +12526,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-11T08:51:05.782914+00:00",
+  "updated_at": "2026-10-11T16:39:20.050291+00:00",
   "version": 2
 }
