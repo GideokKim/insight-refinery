@@ -2326,6 +2326,11 @@
       "title": "talorys a self hosted personal ai agent on cloudflare s free tier",
       "url": "github.com/rociiu/talorys"
     },
+    "rss:https://news.ycombinator.com/item?id=50035886": {
+      "at": "2026-10-11T01:54:09.730141+00:00",
+      "title": "nvidia in talks to acquire us open model startup reflection ai",
+      "url": "ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3252,10 +3257,20 @@
       "title": "pwasm 0 2a0",
       "url": "simonwillison.net/2026/Oct/1/pwasm"
     },
+    "rss:https://simonwillison.net/2026/Oct/10/python-actions/": {
+      "at": "2026-10-11T01:54:09.730311+00:00",
+      "title": "python 3 15 0 added to actions python versions",
+      "url": "simonwillison.net/2026/Oct/10/python-actions"
+    },
     "rss:https://simonwillison.net/2026/Oct/10/the-new-york-times/": {
       "at": "2026-10-10T08:30:14.584960+00:00",
       "title": "quoting the new york times",
       "url": "simonwillison.net/2026/Oct/10/the-new-york-times"
+    },
+    "rss:https://simonwillison.net/2026/Oct/11/dwarf-fortress/": {
+      "at": "2026-10-11T01:54:09.730296+00:00",
+      "title": "dwarf fortress uses version control now",
+      "url": "simonwillison.net/2026/Oct/11/dwarf-fortress"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -6291,6 +6306,11 @@
       "title": "apple discloses deal to hire team and license tech from personalized podcast startup huxe",
       "url": "techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe"
     },
+    "rss:https://techcrunch.com/?p=3176448": {
+      "at": "2026-10-11T01:54:09.730209+00:00",
+      "title": "microsoft s satya nadella says ai models need an emergency brake",
+      "url": "techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -6650,6 +6670,11 @@
       "at": "2026-08-26T18:46:54.599596+00:00",
       "title": "the future of saas is apps that agents can use",
       "url": "latent.space/p/lovable-future-of-saas"
+    },
+    "rss:https://www.latent.space/p/nyc2026": {
+      "at": "2026-10-11T01:54:09.730340+00:00",
+      "title": "subscriber exclusive nyc subscriber meetups",
+      "url": "latent.space/p/nyc2026"
     },
     "rss:https://www.latent.space/p/openrouter": {
       "at": "2026-09-25T23:18:56.767944+00:00",
@@ -11920,6 +11945,21 @@
       "title": "basalt flash next at 665 tok s structured 354 prose on a 5090 5060 ti 2 6x strata",
       "url": "reddit.com/r/LocalLLaMA/comments/1x223ai/basalt_flashnext_at_665_toks_structured_354_prose"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2619s": {
+      "at": "2026-10-11T01:54:09.730275+00:00",
+      "title": "3 66b formal logic model built on granite 4 2 3b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2619s/366b_formal_logic_model_built_on_granite_42_3b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x27au9": {
+      "at": "2026-10-11T01:54:09.730261+00:00",
+      "title": "qwen 3 6 35b a3b 131k context vision on 6gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x27au9/qwen_36_35b_a3b_131k_context_vision_on_6gb_vram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x280nz": {
+      "at": "2026-10-11T01:54:09.730247+00:00",
+      "title": "microsoft doubles down on local ai with nvidia but with a cost",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x280nz/microsoft_doubles_down_on_local_ai_with_nvidia"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x28zr9": {
       "at": "2026-10-10T16:14:52.592298+00:00",
       "title": "created laya now introducing a new 800 million param physics based typed decision model with 73k context and image support",
@@ -11934,6 +11974,11 @@
       "at": "2026-10-10T16:14:52.592335+00:00",
       "title": "what are people doing with decisions jev like models",
       "url": "reddit.com/r/LocalLLaMA/comments/1x29q4a/what_are_people_doing_with_decisions_jevlike"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2bbx6": {
+      "at": "2026-10-11T01:54:09.730232+00:00",
+      "title": "strata with qwen3 8 flash next ud q4_k_xl",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2bbx6/strata_with_qwen38_flash_next_udq4_k_xl"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2bt6r": {
       "at": "2026-10-10T16:14:52.592284+00:00",
@@ -11960,6 +12005,11 @@
       "title": "no more rtx 5090",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2lgca": {
+      "at": "2026-10-11T01:54:09.730326+00:00",
+      "title": "is anyone running qwen3 8 flash next with a 1m context",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2mw1o": {
       "at": "2026-10-10T20:34:17.207303+00:00",
       "title": "engineer developer observations of gemma4 31b qwen3 8 27b and 6 1 sol for software engineering work",
@@ -11969,6 +12019,11 @@
       "at": "2026-10-10T20:34:17.207290+00:00",
       "title": "goodbye coding plans",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2u742": {
+      "at": "2026-10-11T01:54:09.730190+00:00",
+      "title": "building a 4x r9700 setup for a 10 person startup",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12396,6 +12451,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-10T20:34:17.207380+00:00",
+  "updated_at": "2026-10-11T01:54:09.730386+00:00",
   "version": 2
 }
