@@ -12020,10 +12020,40 @@
       "title": "goodbye coding plans",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2nfg4/goodbye_coding_plans"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2nn4b": {
+      "at": "2026-10-11T08:51:05.782867+00:00",
+      "title": "benefits of using bigger models than qwen 3 8 flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2nn4b/benefits_of_using_bigger_models_than_qwen_38"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2tstj": {
+      "at": "2026-10-11T08:51:05.782850+00:00",
+      "title": "omg if you have a mac with 64gb try qwen3 8 flash next oq4e mtp with omlx",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2tstj/omg_if_you_have_a_mac_with_64gb_try"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2u742": {
       "at": "2026-10-11T01:54:09.730190+00:00",
       "title": "building a 4x r9700 setup for a 10 person startup",
       "url": "reddit.com/r/LocalLLaMA/comments/1x2u742/building_a_4x_r9700_setup_for_a_10_person_startup"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2xatx": {
+      "at": "2026-10-11T08:51:05.782837+00:00",
+      "title": "amd reportedly raises gddr6 prices for board partners",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2xatx/amd_reportedly_raises_gddr6_prices_for_board"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2xniv": {
+      "at": "2026-10-11T08:51:05.782817+00:00",
+      "title": "be careful fam new rtx 4090 fakes hit the market with gpus and memory almost indistinguishable from real chips",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2xniv/be_careful_fam_new_rtx_4090_fakes_hit_the_market"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x2z14s": {
+      "at": "2026-10-11T08:51:05.782753+00:00",
+      "title": "qualcomm ceo reveals ai companies want phones running 100 billion parameter models continuously by 2028",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3078i": {
+      "at": "2026-10-11T08:51:05.782796+00:00",
+      "title": "converting dense models into mixture of experts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3078i/converting_dense_models_into_mixtureofexperts"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12451,6 +12481,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-11T01:54:09.730386+00:00",
+  "updated_at": "2026-10-11T08:51:05.782914+00:00",
   "version": 2
 }

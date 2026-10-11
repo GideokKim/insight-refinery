@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-11T01:54:07.782824+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x2z14s",
+        "title": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
+        "author": "/u/Recoil42",
+        "published_at": "2026-10-11T04:37:21+00:00"
+      },
+      "insight": {
+        "title_ko": "퀄컴 CEO, 온디바이스 100B 모델 구동 전망",
+        "summary_ko": [
+          "퀄컴 CEO는 주요 AI 기업들이 2028년까지 1,000억 파라미터 규모의 모델을 모바일 기기에서 상시 구동하기를 원한다고 밝혔다.",
+          "이는 향후 모바일 하드웨어와 온디바이스 AI 성능 요구사항이 급격히 고도화될 것임을 시사한다.",
+          "실무 엔지니어들은 모바일 환경에서의 대형 언어모델 최적화 및 경량화 기술에 주목할 필요가 있다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
