@@ -335,6 +335,11 @@
       "title": "microsoft event debuts new ai friendly hardware and windows changes",
       "url": "arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes"
     },
+    "rss:https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/": {
+      "at": "2026-10-12T22:10:11.221918+00:00",
+      "title": "russia was not ready for the data center war it started with ukraine",
+      "url": "arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine"
+    },
     "rss:https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/": {
       "at": "2026-10-02T16:40:02.383308+00:00",
       "title": "the 7 year old nvidia shield tv is now 100 more expensive due to ai",
@@ -349,6 +354,11 @@
       "at": "2026-08-31T15:35:36.937264+00:00",
       "title": "pocket s ai made my game ideas real now meta controls the results",
       "url": "arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results"
+    },
+    "rss:https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/": {
+      "at": "2026-10-12T22:10:11.221695+00:00",
+      "title": "epic games reportedly pivoting to ai first game development model",
+      "url": "arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
     },
     "rss:https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/": {
       "at": "2026-09-30T21:27:04.076684+00:00",
@@ -619,6 +629,11 @@
       "at": "2026-10-02T21:20:25.655768+00:00",
       "title": "amazon s 1b plan to combat data center backlash draws more backlash",
       "url": "arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/": {
+      "at": "2026-10-12T22:10:11.221735+00:00",
+      "title": "anthropic s claude ai submitted false murder tip to philadelphia police",
+      "url": "arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/": {
       "at": "2026-10-07T20:01:13.684773+00:00",
@@ -1099,6 +1114,11 @@
       "at": "2026-10-09T00:25:08.392322+00:00",
       "title": "building reliable data analytics agents lessons from the kdd cup",
       "url": "developer.nvidia.com/blog/building-reliable-data-analytics-agents-lessons-from-the-kdd-cup"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123513": {
+      "at": "2026-10-12T22:10:11.221840+00:00",
+      "title": "replayssm rethinking state storage for faster hybrid model decoding",
+      "url": "developer.nvidia.com/blog/replayssm-rethinking-state-storage-for-faster-hybrid-model-decoding"
     },
     "rss:https://developer.nvidia.com/blog/?p=123534": {
       "at": "2026-10-09T00:25:08.392308+00:00",
@@ -2351,6 +2371,21 @@
       "title": "qgis bans ai assisted contributions",
       "url": "github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
     },
+    "rss:https://news.ycombinator.com/item?id=50057278": {
+      "at": "2026-10-12T22:10:11.221965+00:00",
+      "title": "why aren t ai companies being charged for hacking",
+      "url": "mortoray.com/why-arent-ai-companies-being-charged-for-hacking"
+    },
+    "rss:https://news.ycombinator.com/item?id=50057668": {
+      "at": "2026-10-12T22:10:11.222019+00:00",
+      "title": "kevin kelly s 2016 ai predictions 10 years later",
+      "url": "taylor.town/kk-ai-2026"
+    },
+    "rss:https://news.ycombinator.com/item?id=50060269": {
+      "at": "2026-10-12T22:10:11.222004+00:00",
+      "title": "ai is not a tool by rich hickey",
+      "url": "linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3291,6 +3326,11 @@
       "at": "2026-10-11T01:54:09.730296+00:00",
       "title": "dwarf fortress uses version control now",
       "url": "simonwillison.net/2026/Oct/11/dwarf-fortress"
+    },
+    "rss:https://simonwillison.net/2026/Oct/12/python-3-15/": {
+      "at": "2026-10-12T22:10:11.221903+00:00",
+      "title": "hello python 3 15 goodbye 3 10 and now i can use 3 11",
+      "url": "simonwillison.net/2026/Oct/12/python-3-15"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -6196,6 +6236,11 @@
       "title": "meta rolls out new ai tools to detect ads that secretly lead to child sexual abuse material",
       "url": "techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material"
     },
+    "rss:https://techcrunch.com/?p=3175181": {
+      "at": "2026-10-12T22:10:11.222012+00:00",
+      "title": "honeyjar offers ai tools to improve pr and comms at every company",
+      "url": "techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company"
+    },
     "rss:https://techcrunch.com/?p=3175219": {
       "at": "2026-10-07T20:01:13.684756+00:00",
       "title": "chatgpt for teens keeps teens talking even during mental health crises",
@@ -6336,6 +6381,11 @@
       "title": "microsoft s satya nadella says ai models need an emergency brake",
       "url": "techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
     },
+    "rss:https://techcrunch.com/?p=3176454": {
+      "at": "2026-10-12T22:10:11.221956+00:00",
+      "title": "this ai startup says it can generate permit ready blueprints in minutes",
+      "url": "techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes"
+    },
     "rss:https://techcrunch.com/?p=3176460": {
       "at": "2026-10-11T20:58:24.114869+00:00",
       "title": "can the ai industry persuade data center opponents by getting rid of ndas",
@@ -6351,10 +6401,30 @@
       "title": "will the homeview be apple s first smart home success",
       "url": "techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success"
     },
+    "rss:https://techcrunch.com/?p=3176499": {
+      "at": "2026-10-12T22:10:11.222051+00:00",
+      "title": "techcrunch disrupt 2026 starts tomorrow your final chance to secure up to 100 ticket savings",
+      "url": "techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings"
+    },
     "rss:https://techcrunch.com/?p=3176520": {
       "at": "2026-10-12T13:10:47.908157+00:00",
       "title": "former plaud exec raises 26m for ai app that listens to you in the background",
       "url": "techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background"
+    },
+    "rss:https://techcrunch.com/?p=3176628": {
+      "at": "2026-10-12T22:10:11.221948+00:00",
+      "title": "microsoft president says uk is best placed to drive ai regulation",
+      "url": "techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
+    },
+    "rss:https://techcrunch.com/?p=3176669": {
+      "at": "2026-10-12T22:10:11.221933+00:00",
+      "title": "windborne wins a hefty us air force contract for its balloon data",
+      "url": "techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
+    },
+    "rss:https://techcrunch.com/?p=3176752": {
+      "at": "2026-10-12T22:10:11.221825+00:00",
+      "title": "meta releases its first frontier model muse wonder",
+      "url": "techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -6671,6 +6741,11 @@
       "title": "why alphafold didn t solve protein folding pushmeet kohli google deepmind sal candido biohub",
       "url": "latent.space/p/biohub-deepmind"
     },
+    "rss:https://www.latent.space/p/claude-dynamic-workflows": {
+      "at": "2026-10-12T22:10:11.221754+00:00",
+      "title": "how anthropic s dynamic workflows coordinate claude agents",
+      "url": "latent.space/p/claude-dynamic-workflows"
+    },
     "rss:https://www.latent.space/p/devday-2026": {
       "at": "2026-10-01T02:10:07.535110+00:00",
       "title": "why dwarkesh is wrong about computer use how openai shipped its jev competitor in 1 week",
@@ -6780,6 +6855,11 @@
       "at": "2026-08-24T11:05:22.951657+00:00",
       "title": "broadening access to skala creates a faster path to predictive dft",
       "url": "microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1185936": {
+      "at": "2026-10-12T22:10:11.221853+00:00",
+      "title": "simulating student learning for better ai tutoring",
+      "url": "microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring"
     },
     "rss:https://www.microsoft.com/en-us/research/?p=1186605": {
       "at": "2026-09-30T16:51:17.984845+00:00",
@@ -12200,6 +12280,51 @@
       "title": "building strata from source",
       "url": "reddit.com/r/LocalLLaMA/comments/1x3xkpy/building_strata_from_source"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3ykyb": {
+      "at": "2026-10-12T22:10:11.221990+00:00",
+      "title": "any takers for local llm nvidia s cuda moat is accelerating rtx spark laptop sales higher 128gb unified memory options belonging to surface laptop ultra already out of stock",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3ykyb/any_takers_for_local_llm_nvidias_cuda_moat_is"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3zut6": {
+      "at": "2026-10-12T22:10:11.221983+00:00",
+      "title": "lsearch spotlight for windows with embedding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3zut6/lsearch_spotlight_for_windows_with_embedding"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x41myz": {
+      "at": "2026-10-12T22:10:11.221888+00:00",
+      "title": "qwen released qwengyre rl framework for training ai agents on extremely long complex tasks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x41myz/qwen_released_qwengyre_rl_framework_for_training"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x41n6l": {
+      "at": "2026-10-12T22:10:11.221974+00:00",
+      "title": "nvidia rtx 5080 24gb reportedly launching in q1 2027 board partners still waiting for details",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x41n6l/nvidia_rtx_5080_24gb_reportedly_launching_in_q1"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x452zj": {
+      "at": "2026-10-12T22:10:11.221870+00:00",
+      "title": "boole 1 7b a 1 bit qwen3 1 7b model that outperforms bonsai 1 7b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x452zj/boole17b_a_1bit_qwen317b_model_that_outperforms"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x47d7k": {
+      "at": "2026-10-12T22:10:11.222043+00:00",
+      "title": "in 2030 owning a gpu cluster will be seen the same as owning a gun for home defense",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x47d7k/in_2030_owning_a_gpu_cluster_will_be_seen_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x492f9": {
+      "at": "2026-10-12T22:10:11.221807+00:00",
+      "title": "openbmb minicpm v 4 7 1b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x492f9/openbmbminicpmv471b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4akj7": {
+      "at": "2026-10-12T22:10:11.222035+00:00",
+      "title": "it s been 2 months",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4akj7/its_been_2_months"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4cm73": {
+      "at": "2026-10-12T22:10:11.222027+00:00",
+      "title": "once again anthropic doing free marketing for open weight models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -12626,6 +12751,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-12T13:10:47.908318+00:00",
+  "updated_at": "2026-10-12T22:10:11.222089+00:00",
   "version": 2
 }
