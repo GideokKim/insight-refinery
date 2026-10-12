@@ -250,6 +250,11 @@
       "title": "google rolls out improved synthid ai content detector now available globally",
       "url": "arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally"
     },
+    "rss:https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/": {
+      "at": "2026-10-12T13:10:47.908174+00:00",
+      "title": "amazon has over 1 million robot workers what s next for human employees",
+      "url": "arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work"
+    },
     "rss:https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/": {
       "at": "2026-10-07T20:01:13.684691+00:00",
       "title": "mistral says le chonk can challenge the best ai models",
@@ -2335,6 +2340,16 @@
       "at": "2026-10-11T16:39:20.050222+00:00",
       "title": "500b tokens later letting ai agents decompile a first person shooter",
       "url": "momo5502.com/posts/2026-10-09-game-decompilation"
+    },
+    "rss:https://news.ycombinator.com/item?id=50041765": {
+      "at": "2026-10-12T13:10:47.908139+00:00",
+      "title": "using ai for just 10 minutes erodes your ability to persist at hard things",
+      "url": "vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things"
+    },
+    "rss:https://news.ycombinator.com/item?id=50054751": {
+      "at": "2026-10-12T13:10:47.908193+00:00",
+      "title": "qgis bans ai assisted contributions",
+      "url": "github.com/qgis/QGIS-Enhancement-Proposals/pull/387"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -6335,6 +6350,11 @@
       "at": "2026-10-12T02:24:28.970597+00:00",
       "title": "will the homeview be apple s first smart home success",
       "url": "techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success"
+    },
+    "rss:https://techcrunch.com/?p=3176520": {
+      "at": "2026-10-12T13:10:47.908157+00:00",
+      "title": "former plaud exec raises 26m for ai app that listens to you in the background",
+      "url": "techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -12135,6 +12155,51 @@
       "title": "every model that can be run on 10 16gb vram ranked",
       "url": "reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3ij13": {
+      "at": "2026-10-12T13:10:47.908241+00:00",
+      "title": "i tested different qwen 3 8 27b quants",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3ij13/i_tested_different_qwen_38_27b_quants"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3iu7f": {
+      "at": "2026-10-12T13:10:47.908280+00:00",
+      "title": "meta what s with the rp bot accounts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3iu7f/meta_whats_with_the_rp_bot_accounts"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3ker0": {
+      "at": "2026-10-12T13:10:47.908081+00:00",
+      "title": "i ran qwen 3 8 flash next on my amd 7900 xtx at 500k context all local and what a shift it has been",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3lzmk": {
+      "at": "2026-10-12T13:10:47.908264+00:00",
+      "title": "auroraimg 6m releases",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3lzmk/auroraimg6m_releases"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3n8ex": {
+      "at": "2026-10-12T13:10:47.908251+00:00",
+      "title": "opencode 2 0 26 is out if you need to constantly prompt continue it s not just your bot afaik",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3n8ex/opencode_2026_is_out_if_you_need_to_constantly"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3th4p": {
+      "at": "2026-10-12T13:10:47.908037+00:00",
+      "title": "decision 3 0 open multimodal decision models from 0 6b to 27b ranks 1 on both jev decision index boards",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3u3y5": {
+      "at": "2026-10-12T13:10:47.908227+00:00",
+      "title": "receipt scanner that runs a fine tuned 0 8b vision model on the phone free detailed cost tracking",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3u3y5/receipt_scanner_that_runs_a_finetuned_08b_vision"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3wp8c": {
+      "at": "2026-10-12T13:10:47.908205+00:00",
+      "title": "i made an open source ai leaderboard that shows the best models your machine can run",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3wp8c/i_made_an_opensource_ai_leaderboard_that_shows"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3xkpy": {
+      "at": "2026-10-12T13:10:47.908273+00:00",
+      "title": "building strata from source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3xkpy/building_strata_from_source"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -12561,6 +12626,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-12T02:24:28.970641+00:00",
+  "updated_at": "2026-10-12T13:10:47.908318+00:00",
   "version": 2
 }

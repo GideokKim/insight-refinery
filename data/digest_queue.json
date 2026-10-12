@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-12T02:24:27.800561+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x3th4p",
+        "title": "Decision 3.0: open, multimodal decision models from 0.6B to 27B. Ranks #1 on both Jev Decision Index boards",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3th4p/decision_30_open_multimodal_decision_models_from/",
+        "author": "/u/henzy123",
+        "published_at": "2026-10-12T05:26:01+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈 멀티모달 의사결정 모델 Decision 3.0 공개",
+        "summary_ko": [
+          "vLLM Semantic Router 팀이 0.6B에서 27B 규모의 오픈소스 멀티모달 의사결정 모델 Decision 3.0을 공개했습니다.",
+          "텍스트뿐만 아니라 이미지와 비디오를 지원하며 Jev Decision Index에서 1위를 차지했습니다.",
+          "텍스트 생성 없이 확률 기반으로 작동하며 아파치 2.0 라이선스로 배포되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x3ker0",
+        "title": "I ran Qwen 3.8 Flash-Next on my AMD 7900 XTX at 500k context. All local and what a shift it has been.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3ker0/i_ran_qwen_38_flashnext_on_my_amd_7900_xtx_at/",
+        "author": "/u/human_in_the_looop",
+        "published_at": "2026-10-11T21:44:02+00:00"
+      },
+      "insight": {
+        "title_ko": "AMD 7900 XTX에서 Qwen Flash-Next 구동기",
+        "summary_ko": [
+          "작성자는 반복되는 추론 토큰 유지 설정이 모델의 응답 오류를 유발했음을 발견하고 이를 해결했다.",
+          "AMD 7900 XTX 환경에서 176B 규모의 모델을 구동하여 50만 이상의 컨텍스트를 성공적으로 처리했다.",
+          "깊이에 따른 성능 저하 없이 초당 100토큰 이상의 디코딩 속도를 기록하며 실무 활용 가능성을 입증했다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50041765",
+        "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+        "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+        "author": "giuliomagnifico",
+        "published_at": "2026-10-11T10:47:21+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 사용이 어려운 과제의 지속성에 미치는 영향",
+        "summary_ko": [
+          "단 10분간의 AI 사용만으로도 어려운 과제에 대한 지속 능력이 약화될 수 있다는 연구 결과가 발표되었습니다.",
+          "해당 연구는 UC 버클리 연구(vcresearch.berkeley.edu)를 통해 AI 의존성이 인내심과 문제 해결 지구력에 미치는 부작용을 경고합니다.",
+          "실무자와 연구자들은 AI 도구 활용이 인간의 집중력과 과제 집착도에 미치는 심리적 영향을 고려해야 합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
