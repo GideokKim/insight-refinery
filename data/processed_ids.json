@@ -6331,6 +6331,11 @@
       "title": "48 hours to techcrunch disrupt 2026 hear directly from the people building what s next",
       "url": "techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next"
     },
+    "rss:https://techcrunch.com/?p=3176490": {
+      "at": "2026-10-12T02:24:28.970597+00:00",
+      "title": "will the homeview be apple s first smart home success",
+      "url": "techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -12095,6 +12100,11 @@
       "title": "microsoft aescode 8b and 32b",
       "url": "reddit.com/r/LocalLLaMA/comments/1x35o1y/microsoftaescode_8b_and_32b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x37q7b": {
+      "at": "2026-10-12T02:24:28.970579+00:00",
+      "title": "update qwen 3 8 27b 140 tok s on single rtx 3090 megakernel kl divergence 0 0009 vs llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x37q7b/update_qwen_38_27b_140_toks_on_single_rtx_3090"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x37tg6": {
       "at": "2026-10-11T16:39:20.050235+00:00",
       "title": "here s why rtx 5090 costs 5 000 ai firms are buying gaming gpus by the pallet",
@@ -12114,6 +12124,11 @@
       "at": "2026-10-11T20:58:24.114889+00:00",
       "title": "reverse engineering w local",
       "url": "reddit.com/r/LocalLLaMA/comments/1x3ak4j/reverse_engineering_w_local"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3fxzj": {
+      "at": "2026-10-12T02:24:28.970525+00:00",
+      "title": "strata for glm5 3 flash is here for some project maya",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x3fxzj/strata_for_glm53_flash_is_here_for_some_project"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x3gpyi": {
       "at": "2026-10-11T20:58:24.114828+00:00",
@@ -12546,6 +12561,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-11T20:58:24.114967+00:00",
+  "updated_at": "2026-10-12T02:24:28.970641+00:00",
   "version": 2
 }
