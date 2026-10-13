@@ -2396,6 +2396,11 @@
       "title": "ai is a tool and using it well takes skill",
       "url": "yyhh.org/blog/2026/10/ai-is-a-tool"
     },
+    "rss:https://news.ycombinator.com/item?id=50065692": {
+      "at": "2026-10-13T12:46:02.982373+00:00",
+      "title": "ai models can provably hide arbitrary capabilities",
+      "url": "arxiv.org/abs/2610.13928"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -6446,6 +6451,11 @@
       "title": "meta releases its first frontier model muse wonder",
       "url": "techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
     },
+    "rss:https://techcrunch.com/?p=3176907": {
+      "at": "2026-10-13T12:46:02.982382+00:00",
+      "title": "just 5 years in interactive chatbot platform character ai files for bankruptcy",
+      "url": "techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -6625,6 +6635,11 @@
       "at": "2026-09-24T13:48:03.937604+00:00",
       "title": "ainews meta connect 2026 muse glasses voice video and charm",
       "url": "latent.space/p/ainews-meta-connect-2026-muse-glasses"
+    },
+    "rss:https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder": {
+      "at": "2026-10-13T12:46:02.982337+00:00",
+      "title": "ainews meta muse wonder wonder full msl s claude 5 5 tier frontier model",
+      "url": "latent.space/p/ainews-meta-muse-wonder-and-wonder"
     },
     "rss:https://www.latent.space/p/ainews-muse-spark-13-matches-gpt": {
       "at": "2026-09-03T06:36:46.739458+00:00",
@@ -12355,6 +12370,31 @@
       "title": "anthropic is doing free publicity for glm again",
       "url": "reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4mtzx": {
+      "at": "2026-10-13T12:46:02.982415+00:00",
+      "title": "nvidia s 9 year old tesla v100 still packs some inference muscle 4 gpus on an nvlink board can outperform m5 ultra dgx spark in various ai benchmarks by up to 230",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4mtzx/nvidias_9yearold_tesla_v100_still_packs_some"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4n6sg": {
+      "at": "2026-10-13T12:46:02.982442+00:00",
+      "title": "anyone feel like reverse engineering cuda",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4n6sg/anyone_feel_like_reverseengineering_cuda"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4r1o5": {
+      "at": "2026-10-13T12:46:02.982402+00:00",
+      "title": "sipeed announces maixstation comparable to strix halo and dgx spark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4r1o5/sipeed_announces_maixstation_comparable_to_strix"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4sit6": {
+      "at": "2026-10-13T12:46:02.982392+00:00",
+      "title": "based on advice from localllama implemented a n 2 lookahead prediction for ssd streaming qwen flash next and it worked",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4sit6/based_on_advice_from_localllama_implemented_a_n2"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4u6vi": {
+      "at": "2026-10-13T12:46:02.982432+00:00",
+      "title": "it s been too quiet on the other side of the pacific",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -12770,6 +12810,11 @@
       "title": "we re putting too much faith in ai s ability to say no",
       "url": "technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no"
     },
+    "rss:https://www.technologyreview.com/?p=1145755": {
+      "at": "2026-10-13T12:46:02.982363+00:00",
+      "title": "ai labs are buying data from dead startups to train their models",
+      "url": "technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models"
+    },
     "rss:https://www.technologyreview.com/?p=1145923": {
       "at": "2026-10-08T18:01:12.186994+00:00",
       "title": "ai breakthroughs in robotics won t change your life any time soon",
@@ -12779,8 +12824,13 @@
       "at": "2026-10-09T00:25:08.392372+00:00",
       "title": "roundtables a conversation with the creator of ai designed viruses",
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
+    },
+    "rss:https://www.technologyreview.com/?p=1146366": {
+      "at": "2026-10-13T12:46:02.982298+00:00",
+      "title": "open models have real benefits do they outweigh the risks",
+      "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-13T03:34:26.666754+00:00",
+  "updated_at": "2026-10-13T12:46:02.982478+00:00",
   "version": 2
 }

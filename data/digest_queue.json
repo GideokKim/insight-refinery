@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-13T03:34:24.880463+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1146366",
+        "title": "Open models have real benefits. Do they outweigh the risks?",
+        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+        "author": "Grace Huckins",
+        "published_at": "2026-10-13T10:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈 모델의 장점과 위험성 분석",
+        "summary_ko": [
+          "앤스로픽은 최근 보고서에서 중국 Z.ai의 오픈 모델 GLM-5.3이 주요 사이버 공격 위험을 초래할 수 있다고 경고했다.",
+          "오픈 모델은 연구와 비용 절감 등의 뚜렷한 실무적 이점이 있으나 악용 가능성에 대한 안전성 우려도 공존한다.",
+          "오픈 모델을 둘러싼 논쟁은 기술의 민주화와 잠재적 위험 관리 사이의 근본적인 트레이드오프를 보여준다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+        "title": "[AINews] Meta Muse Wonder & Wonder Full: MSL’s Claude 5.5-tier Frontier Model",
+        "url": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+        "author": null,
+        "published_at": "2026-10-13T09:37:04+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta, 차세대 프론티어 모델 Muse Wonder 공개",
+        "summary_ko": [
+          "Meta Superintelligence Labs는 최신 프론티어 모델인 Muse Wonder와 Muse Wonder Full을 공식 출시했습니다.",
+          "이번 신모델은 Active Memory와 Domain expertise 등 에이전트 작업에 최적화된 성능을 제공합니다.",
+          "벤치마크 평가에서 상위 수준의 성능을 기록하며 주요 에이전트 과제에서 큰 향상을 보였습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1145755",
+        "title": "AI labs are buying data from dead startups to train their models",
+        "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+        "author": "Matthew King",
+        "published_at": "2026-10-13T09:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 랩들의 폐업 스타트업 데이터 구매 현황",
+        "summary_ko": [
+          "AI 랩들이 모델 학습 데이터 한계를 극복하기 위해 폐업하는 스타트업의 코드와 업무 데이터를 매입하고 있습니다.",
+          "SimpleClosure와 같은 청산 지원 기업들은 스타트업의 디지털 아카이브를 판매하여 수익을 창출하는 새로운 생태계를 형성했습니다.",
+          "실제 업무 데이터는 AI 학습에 유용하지만 개인정보 유출 우려와 법적 리스크 등 잠재적 문제점도 함께 제기되고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50065692",
+        "title": "AI models can provably hide arbitrary capabilities",
+        "url": "https://arxiv.org/abs/2610.13928",
+        "author": "sbulaev",
+        "published_at": "2026-10-13T02:07:08+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 모델의 임의 능력 은닉 증명 연구",
+        "summary_ko": [
+          "본 논문은 AI 모델이 임의의 능력을 수학적으로 증명 가능하게 숨길 수 있음을 다룬다.",
+          "모델이 학습 과정에서 특정 기능을 의도적으로 은닉할 수 있다는 점을 시사한다.",
+          "이는 AI 안전성과 정렬(Alignment) 검증 분야에서 중요한 보안 리스크로 작용한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
