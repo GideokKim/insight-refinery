@@ -245,6 +245,11 @@
       "title": "ai glasses face their first major government crackdown",
       "url": "arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown"
     },
+    "rss:https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/": {
+      "at": "2026-10-13T20:18:11.652180+00:00",
+      "title": "gemini 4 argon begins rolling out in gemini app and antigravity but only if you pay",
+      "url": "arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay"
+    },
     "rss:https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/": {
       "at": "2026-10-07T20:01:13.684714+00:00",
       "title": "google rolls out improved synthid ai content detector now available globally",
@@ -390,6 +395,11 @@
       "title": "judge dismisses chegg and penske antitrust lawsuits targeting google ai search",
       "url": "arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge"
     },
+    "rss:https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/": {
+      "at": "2026-10-13T20:18:11.652163+00:00",
+      "title": "google wants to host your personal vibe coded apps in the play store",
+      "url": "arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store"
+    },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
@@ -424,6 +434,11 @@
       "at": "2026-10-01T17:23:15.420859+00:00",
       "title": "with most information hidden the game stratego had stumped ai until now",
       "url": "arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget"
+    },
+    "rss:https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/": {
+      "at": "2026-10-13T20:18:11.652366+00:00",
+      "title": "they war gamed dimming the sun it went even worse than you think",
+      "url": "arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think"
     },
     "rss:https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/": {
       "at": "2026-10-10T00:02:59.439170+00:00",
@@ -635,6 +650,11 @@
       "title": "anthropic s claude ai submitted false murder tip to philadelphia police",
       "url": "arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/": {
+      "at": "2026-10-13T20:18:11.652282+00:00",
+      "title": "disney offers 20m for character ai s scandal plagued chatbot tech",
+      "url": "arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/": {
       "at": "2026-10-07T20:01:13.684773+00:00",
       "title": "fraudster jailed for using 10k bots and ai songs to outstream taylor swift",
@@ -655,6 +675,11 @@
       "title": "alphagenome atlas a predictive map of every possible dna letter change in the human genome",
       "url": "deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
     },
+    "rss:https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+      "at": "2026-10-13T20:18:11.652261+00:00",
+      "title": "developing gemini 4 argon responsibly and safely",
+      "url": "deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely"
+    },
     "rss:https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
       "at": "2026-10-06T21:42:06.239749+00:00",
       "title": "embeddinggemma 2 an open lightweight multimodal embedding model",
@@ -664,6 +689,11 @@
       "at": "2026-08-24T11:05:22.951784+00:00",
       "title": "from atari to eve online building on 15 years of ai research in games",
       "url": "deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games"
+    },
+    "rss:https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+      "at": "2026-10-13T20:18:11.652348+00:00",
+      "title": "gemini 4 argon for robotics",
+      "url": "deepmind.google/blog/gemini-4-argon-for-robotics"
     },
     "rss:https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
       "at": "2026-09-30T21:27:04.076694+00:00",
@@ -699,6 +729,11 @@
       "at": "2026-09-24T18:33:26.171311+00:00",
       "title": "introducing gemini 3 8 live with live avatar",
       "url": "deepmind.google/blog/introducing-gemini-38-live-with-live-avatar"
+    },
+    "rss:https://deepmind.google/blog/introducing-gemini-4-argon/": {
+      "at": "2026-10-13T20:18:11.652358+00:00",
+      "title": "gemini 4 argon built to solve your hardest problems",
+      "url": "deepmind.google/blog/introducing-gemini-4-argon"
     },
     "rss:https://deepmind.google/blog/introducing-synthid-bio/": {
       "at": "2026-09-30T16:51:17.984690+00:00",
@@ -1100,6 +1135,11 @@
       "title": "control how your gpu shares work with green contexts",
       "url": "developer.nvidia.com/blog/control-how-your-gpu-shares-work-with-green-contexts"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123356": {
+      "at": "2026-10-13T20:18:11.652210+00:00",
+      "title": "nvidia run ai is now open source as part of nvidia dsx ai factory platform",
+      "url": "developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform"
+    },
     "rss:https://developer.nvidia.com/blog/?p=123387": {
       "at": "2026-10-06T17:13:03.297635+00:00",
       "title": "aicr v1 0 open stable and verifiable gpu cluster configuration",
@@ -1149,6 +1189,11 @@
       "at": "2026-09-24T18:33:26.171409+00:00",
       "title": "accelerating vision language models with lfm2 5 vl dspark",
       "url": "huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
+    },
+    "rss:https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
+      "at": "2026-10-13T20:18:11.652140+00:00",
+      "title": "run fast private agents on device with lfm2 5 24b a2b",
+      "url": "huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
     },
     "rss:https://huggingface.co/blog/LiquidAI/lfm25-dspark": {
       "at": "2026-08-20T17:18:50.768043+00:00",
@@ -2654,6 +2699,11 @@
       "title": "higgsfield ai ships new video features in a day with gpt 6 astra",
       "url": "openai.com/index/higgsfield-from-prompt-to-production-with-astra"
     },
+    "rss:https://openai.com/index/higgsfield-longer-videos-voice": {
+      "at": "2026-10-13T20:18:11.652242+00:00",
+      "title": "higgsfield takes ai video from 1 minute to over 10",
+      "url": "openai.com/index/higgsfield-longer-videos-voice"
+    },
     "rss:https://openai.com/index/how-enterprises-put-ai-to-work": {
       "at": "2026-08-19T17:19:19.683319+00:00",
       "title": "from assistance to execution how enterprises put ai to work",
@@ -3356,6 +3406,11 @@
       "at": "2026-10-13T03:34:26.666687+00:00",
       "title": "web edit 0 1a0",
       "url": "simonwillison.net/2026/Oct/12/web-edit"
+    },
+    "rss:https://simonwillison.net/2026/Oct/13/geoffrey-huntley/": {
+      "at": "2026-10-13T20:18:11.652385+00:00",
+      "title": "quoting geoffrey huntley",
+      "url": "simonwillison.net/2026/Oct/13/geoffrey-huntley"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -5276,6 +5331,11 @@
       "title": "meta s muse hits mac letting the ai take actions on your computer",
       "url": "techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer"
     },
+    "rss:https://techcrunch.com/?p=3166117": {
+      "at": "2026-10-13T20:18:11.652307+00:00",
+      "title": "laplace intelligence red teams robots and self driving cars before they hit the real world",
+      "url": "techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world"
+    },
     "rss:https://techcrunch.com/?p=3166149": {
       "at": "2026-09-18T17:41:47.674373+00:00",
       "title": "manus seeks 4b valuation in new 500m fundraise as it resumes independent ops",
@@ -6131,6 +6191,11 @@
       "title": "researchers are tracking a chinese ai agent fleet",
       "url": "techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet"
     },
+    "rss:https://techcrunch.com/?p=3173721": {
+      "at": "2026-10-13T20:18:11.652272+00:00",
+      "title": "flox intelligence is building ai to keep wildlife away from trains airports and roads",
+      "url": "techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads"
+    },
     "rss:https://techcrunch.com/?p=3173723": {
       "at": "2026-10-05T19:49:23.695226+00:00",
       "title": "openai launches visual ads that appear alongside image generation results",
@@ -6275,6 +6340,11 @@
       "at": "2026-10-07T20:01:13.684747+00:00",
       "title": "meta s muse launches on ipad just a month after its mobile debut",
       "url": "techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut"
+    },
+    "rss:https://techcrunch.com/?p=3175284": {
+      "at": "2026-10-13T20:18:11.652224+00:00",
+      "title": "amex introduces a framework to prevent ai agents from making unauthorized purchases",
+      "url": "techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases"
     },
     "rss:https://techcrunch.com/?p=3175292": {
       "at": "2026-10-08T00:15:14.005496+00:00",
@@ -6436,6 +6506,11 @@
       "title": "former plaud exec raises 26m for ai app that listens to you in the background",
       "url": "techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background"
     },
+    "rss:https://techcrunch.com/?p=3176600": {
+      "at": "2026-10-13T20:18:11.652328+00:00",
+      "title": "google play now lets anyone build private vibe coded apps that run on android",
+      "url": "techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you"
+    },
     "rss:https://techcrunch.com/?p=3176628": {
       "at": "2026-10-12T22:10:11.221948+00:00",
       "title": "microsoft president says uk is best placed to drive ai regulation",
@@ -6451,10 +6526,30 @@
       "title": "meta releases its first frontier model muse wonder",
       "url": "techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
     },
+    "rss:https://techcrunch.com/?p=3176775": {
+      "at": "2026-10-13T20:18:11.652318+00:00",
+      "title": "pluto security raises 42m as ai gives enterprise security teams a new headache",
+      "url": "techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"
+    },
+    "rss:https://techcrunch.com/?p=3176868": {
+      "at": "2026-10-13T20:18:11.652413+00:00",
+      "title": "techcrunch disrupt 2026 day 1",
+      "url": "techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1"
+    },
     "rss:https://techcrunch.com/?p=3176907": {
       "at": "2026-10-13T12:46:02.982382+00:00",
       "title": "just 5 years in interactive chatbot platform character ai files for bankruptcy",
       "url": "techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy"
+    },
+    "rss:https://techcrunch.com/?p=3176969": {
+      "at": "2026-10-13T20:18:11.652376+00:00",
+      "title": "spacexsi bundles x premium grok and cursor into one subscription",
+      "url": "techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription"
+    },
+    "rss:https://techcrunch.com/?p=3177267": {
+      "at": "2026-10-13T20:18:11.652297+00:00",
+      "title": "facebook is giving users more control over their algorithm",
+      "url": "techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -12395,6 +12490,36 @@
       "title": "it s been too quiet on the other side of the pacific",
       "url": "reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4uipn": {
+      "at": "2026-10-13T20:18:11.652394+00:00",
+      "title": "horsey challenge strata fork qwen 3 8 fn nvfp4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4uipn/horsey_challenge_strata_fork_qwen_38_fn_nvfp4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4wcnn": {
+      "at": "2026-10-13T20:18:11.652421+00:00",
+      "title": "is everyone in here buying up smart tvs now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4yoqm": {
+      "at": "2026-10-13T20:18:11.652195+00:00",
+      "title": "4x 6000 pro for the company",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x50rgo": {
+      "at": "2026-10-13T20:18:11.652337+00:00",
+      "title": "tencent open sourced agent memory and it runs 100 locally on sqlite",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x50rgo/tencent_opensourced_agent_memory_and_it_runs_100"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x52kco": {
+      "at": "2026-10-13T20:18:11.652089+00:00",
+      "title": "liquidai lfm2 5 24b a2b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x52lsb": {
+      "at": "2026-10-13T20:18:11.652403+00:00",
+      "title": "new ai fake text generator may be too dangerous to release say creators 2019 guardian headline",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -12831,6 +12956,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-13T12:46:02.982478+00:00",
+  "updated_at": "2026-10-13T20:18:11.652468+00:00",
   "version": 2
 }
