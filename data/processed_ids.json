@@ -2386,6 +2386,16 @@
       "title": "ai is not a tool by rich hickey",
       "url": "linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
     },
+    "rss:https://news.ycombinator.com/item?id=50063365": {
+      "at": "2026-10-13T03:34:26.666669+00:00",
+      "title": "intel d270 gpu ai accelerator up to 480 gb lpddr5x",
+      "url": "intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=50063427": {
+      "at": "2026-10-13T03:34:26.666707+00:00",
+      "title": "ai is a tool and using it well takes skill",
+      "url": "yyhh.org/blog/2026/10/ai-is-a-tool"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3327,10 +3337,20 @@
       "title": "dwarf fortress uses version control now",
       "url": "simonwillison.net/2026/Oct/11/dwarf-fortress"
     },
+    "rss:https://simonwillison.net/2026/Oct/12/datasette-ports/": {
+      "at": "2026-10-13T03:34:26.666716+00:00",
+      "title": "datasette ports 0 4",
+      "url": "simonwillison.net/2026/Oct/12/datasette-ports"
+    },
     "rss:https://simonwillison.net/2026/Oct/12/python-3-15/": {
       "at": "2026-10-12T22:10:11.221903+00:00",
       "title": "hello python 3 15 goodbye 3 10 and now i can use 3 11",
       "url": "simonwillison.net/2026/Oct/12/python-3-15"
+    },
+    "rss:https://simonwillison.net/2026/Oct/12/web-edit/": {
+      "at": "2026-10-13T03:34:26.666687+00:00",
+      "title": "web edit 0 1a0",
+      "url": "simonwillison.net/2026/Oct/12/web-edit"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -12325,6 +12345,16 @@
       "title": "once again anthropic doing free marketing for open weight models",
       "url": "reddit.com/r/LocalLLaMA/comments/1x4cm73/once_again_anthropic_doing_free_marketing_for"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4g90u": {
+      "at": "2026-10-13T03:34:26.666618+00:00",
+      "title": "intel crescent island gpu gets d series name supports up to 480 gb of lpddr5x",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4g90u/intel_crescent_island_gpu_gets_dseries_name"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4ii8e": {
+      "at": "2026-10-13T03:34:26.666698+00:00",
+      "title": "anthropic is doing free publicity for glm again",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4ii8e/anthropic_is_doing_free_publicity_for_glm_again"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -12751,6 +12781,6 @@
       "url": "technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     }
   },
-  "updated_at": "2026-10-12T22:10:11.222089+00:00",
+  "updated_at": "2026-10-13T03:34:26.666754+00:00",
   "version": 2
 }
