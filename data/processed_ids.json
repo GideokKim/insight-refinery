@@ -1125,6 +1125,11 @@
       "title": "how doca gpunetio unifies gpu initiated networking across the nvidia software stack",
       "url": "developer.nvidia.com/blog/doca-gpunetio-gda-ki-unified-gpu-networking"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123309": {
+      "at": "2026-10-14T02:07:57.581793+00:00",
+      "title": "how to rewrite apache spark udfs for gpu acceleration with ai agents",
+      "url": "developer.nvidia.com/blog/rewrite-apache-spark-udfs-gpu-acceleration-ai-agents"
+    },
     "rss:https://developer.nvidia.com/blog/?p=123330": {
       "at": "2026-10-07T20:01:13.684676+00:00",
       "title": "faster scientific image analysis with nvidia cuphoton",
@@ -2431,6 +2436,11 @@
       "title": "ai is not a tool by rich hickey",
       "url": "linkedin.com/pulse/ai-tool-rich-hickey-kjl8e"
     },
+    "rss:https://news.ycombinator.com/item?id=50061603": {
+      "at": "2026-10-14T02:07:57.581884+00:00",
+      "title": "ai models may be capable of self replicating without access to a datacenter",
+      "url": "anthropic.com/research/self-replicating-ai"
+    },
     "rss:https://news.ycombinator.com/item?id=50063365": {
       "at": "2026-10-13T03:34:26.666669+00:00",
       "title": "intel d270 gpu ai accelerator up to 480 gb lpddr5x",
@@ -2445,6 +2455,31 @@
       "at": "2026-10-13T12:46:02.982373+00:00",
       "title": "ai models can provably hide arbitrary capabilities",
       "url": "arxiv.org/abs/2610.13928"
+    },
+    "rss:https://news.ycombinator.com/item?id=50067356": {
+      "at": "2026-10-14T02:07:57.581856+00:00",
+      "title": "threat of ai share crash puts world financial stability at risk says imf",
+      "url": "theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks"
+    },
+    "rss:https://news.ycombinator.com/item?id=50068036": {
+      "at": "2026-10-14T02:07:57.581838+00:00",
+      "title": "character ai has initiated voluntary chapter 11 bankruptcy",
+      "url": "blog.character.ai/an-update-on-character-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=50069942": {
+      "at": "2026-10-14T02:07:57.581825+00:00",
+      "title": "character ai files for bankruptcy",
+      "url": "theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+    },
+    "rss:https://news.ycombinator.com/item?id=50072120": {
+      "at": "2026-10-14T02:07:57.581962+00:00",
+      "title": "how to engineer an ai harness for game development",
+      "url": "kylekukshtel.com/ai-harness-engineering-game-development-claude-code"
+    },
+    "rss:https://news.ycombinator.com/item?id=50073221": {
+      "at": "2026-10-14T02:07:57.582017+00:00",
+      "title": "i posted to hn and then my website was flooded with ai bot traffic",
+      "url": "sammystraus.com/"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -3397,6 +3432,16 @@
       "title": "datasette ports 0 4",
       "url": "simonwillison.net/2026/Oct/12/datasette-ports"
     },
+    "rss:https://simonwillison.net/2026/Oct/12/llm-meta-ai/": {
+      "at": "2026-10-14T02:07:57.581871+00:00",
+      "title": "llm meta ai 0 2",
+      "url": "simonwillison.net/2026/Oct/12/llm-meta-ai"
+    },
+    "rss:https://simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling/": {
+      "at": "2026-10-14T02:07:57.581974+00:00",
+      "title": "profiling web edit with python 3 15 flame graphs and source heatmaps",
+      "url": "simonwillison.net/2026/Oct/12/python-3-15-web-edit-profiling"
+    },
     "rss:https://simonwillison.net/2026/Oct/12/python-3-15/": {
       "at": "2026-10-12T22:10:11.221903+00:00",
       "title": "hello python 3 15 goodbye 3 10 and now i can use 3 11",
@@ -3411,6 +3456,21 @@
       "at": "2026-10-13T20:18:11.652385+00:00",
       "title": "quoting geoffrey huntley",
       "url": "simonwillison.net/2026/Oct/13/geoffrey-huntley"
+    },
+    "rss:https://simonwillison.net/2026/Oct/13/llm-gemini/": {
+      "at": "2026-10-14T02:07:57.581911+00:00",
+      "title": "llm gemini 0 35",
+      "url": "simonwillison.net/2026/Oct/13/llm-gemini"
+    },
+    "rss:https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/": {
+      "at": "2026-10-14T02:07:57.581747+00:00",
+      "title": "redesigning source control at anthropic",
+      "url": "simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic"
+    },
+    "rss:https://simonwillison.net/2026/Oct/13/web-edit/": {
+      "at": "2026-10-14T02:07:57.582040+00:00",
+      "title": "web edit 0 1a1",
+      "url": "simonwillison.net/2026/Oct/13/web-edit"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -6121,6 +6181,11 @@
       "title": "hot girl hotline is like dear abby for the ai era",
       "url": "techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era"
     },
+    "rss:https://techcrunch.com/?p=3173266": {
+      "at": "2026-10-14T02:07:57.581898+00:00",
+      "title": "industrial next wants factory robots to switch tasks in minutes not weeks",
+      "url": "techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks"
+    },
     "rss:https://techcrunch.com/?p=3173313": {
       "at": "2026-10-02T21:20:25.655639+00:00",
       "title": "apple says it s tightening macos full disk access controls due to new risks from ai agents",
@@ -6551,6 +6616,26 @@
       "title": "facebook is giving users more control over their algorithm",
       "url": "techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
     },
+    "rss:https://techcrunch.com/?p=3177352": {
+      "at": "2026-10-14T02:07:57.581938+00:00",
+      "title": "judge orders openai to turn over hiring records in apple trade secrets case",
+      "url": "techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case"
+    },
+    "rss:https://techcrunch.com/?p=3177396": {
+      "at": "2026-10-14T02:07:57.581697+00:00",
+      "title": "science corporation implants its vision restoring chip in its first stargardt disease patient",
+      "url": "techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient"
+    },
+    "rss:https://techcrunch.com/?p=3177406": {
+      "at": "2026-10-14T02:07:57.582003+00:00",
+      "title": "cerebras ceo pushes back on ai doomsday warnings",
+      "url": "techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings"
+    },
+    "rss:https://techcrunch.com/?p=3177414": {
+      "at": "2026-10-14T02:07:57.581988+00:00",
+      "title": "cerebras ceo says we re nearing a future where everyone has a personal ai assistant at home",
+      "url": "techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -6880,6 +6965,11 @@
       "at": "2026-10-01T02:10:07.535110+00:00",
       "title": "why dwarkesh is wrong about computer use how openai shipped its jev competitor in 1 week",
       "url": "latent.space/p/devday-2026"
+    },
+    "rss:https://www.latent.space/p/dyna": {
+      "at": "2026-10-14T02:07:57.581766+00:00",
+      "title": "dyna 2 general purpose physical agents with hour long autonomy jason ma dyna robotics",
+      "url": "latent.space/p/dyna"
     },
     "rss:https://www.latent.space/p/forward-deployed-engineer-best-practices": {
       "at": "2026-09-12T17:11:05.008540+00:00",
@@ -12485,6 +12575,11 @@
       "title": "based on advice from localllama implemented a n 2 lookahead prediction for ssd streaming qwen flash next and it worked",
       "url": "reddit.com/r/LocalLLaMA/comments/1x4sit6/based_on_advice_from_localllama_implemented_a_n2"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4ttde": {
+      "at": "2026-10-14T02:07:57.582032+00:00",
+      "title": "got 2x dgx sparks excited and confused",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4ttde/got_2x_dgx_sparks_excited_and_confused"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4u6vi": {
       "at": "2026-10-13T12:46:02.982432+00:00",
       "title": "it s been too quiet on the other side of the pacific",
@@ -12519,6 +12614,21 @@
       "at": "2026-10-13T20:18:11.652403+00:00",
       "title": "new ai fake text generator may be too dangerous to release say creators 2019 guardian headline",
       "url": "reddit.com/r/LocalLLaMA/comments/1x52lsb/new_ai_fake_text_generator_may_be_too_dangerous"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5720r": {
+      "at": "2026-10-14T02:07:57.581950+00:00",
+      "title": "why anythingllm is moving from ollama to lemonade and llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5720r/why_anythingllm_is_moving_from_ollama_to_lemonade"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x57zpx": {
+      "at": "2026-10-14T02:07:57.581809+00:00",
+      "title": "character ai files for bankruptcy to sell some assets to disney for 20 million",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x57zpx/characterai_files_for_bankruptcy_to_sell_some"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5ak2n": {
+      "at": "2026-10-14T02:07:57.581923+00:00",
+      "title": "someone is running qwen 27b at 20 tok s on a jailbroken ps5 s gpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -12956,6 +13066,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-13T20:18:11.652468+00:00",
+  "updated_at": "2026-10-14T02:07:57.582076+00:00",
   "version": 2
 }
