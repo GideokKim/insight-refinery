@@ -360,6 +360,11 @@
       "title": "pocket s ai made my game ideas real now meta controls the results",
       "url": "arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results"
     },
+    "rss:https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/": {
+      "at": "2026-10-14T23:14:43.979015+00:00",
+      "title": "epic says its new vibe coded epic games launcher is faster than steam",
+      "url": "arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app"
+    },
     "rss:https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/": {
       "at": "2026-10-12T22:10:11.221695+00:00",
       "title": "epic games reportedly pivoting to ai first game development model",
@@ -2521,6 +2526,11 @@
       "title": "show hn pulse local a mac budgeting app whose ai models run on your machine",
       "url": "pulseos.finance/"
     },
+    "rss:https://news.ycombinator.com/item?id=50081151": {
+      "at": "2026-10-14T23:14:43.979057+00:00",
+      "title": "show hn i built a tool to track what ai leaders say and how their views change",
+      "url": "blumify.io/people"
+    },
     "rss:https://news.ycombinator.com/item?id=50085323": {
       "at": "2026-10-14T18:40:13.644924+00:00",
       "title": "tv4 postpones show after ai agent erases edited material",
@@ -2535,6 +2545,11 @@
       "at": "2026-10-14T18:40:13.644814+00:00",
       "title": "ai agents aren t going rogue frontier labs are skipping security basics",
       "url": "csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=50092664": {
+      "at": "2026-10-14T23:14:43.978981+00:00",
+      "title": "banks are now trying to offload the ai data center debt they just underwrote",
+      "url": "startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -2625,6 +2640,11 @@
       "at": "2026-09-22T22:59:04.939925+00:00",
       "title": "better prompt caching for gpt 6",
       "url": "openai.com/index/better-prompt-caching-for-gpt-6"
+    },
+    "rss:https://openai.com/index/block-ai-powered-security": {
+      "at": "2026-10-14T23:14:43.979022+00:00",
+      "title": "how block is building ai powered security with openai technology",
+      "url": "openai.com/index/block-ai-powered-security"
     },
     "rss:https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
       "at": "2026-08-26T18:46:54.599712+00:00",
@@ -6771,6 +6791,11 @@
       "title": "youtube music launches new labels as ai generated music floods streaming platforms",
       "url": "techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms"
     },
+    "rss:https://techcrunch.com/?p=3177812": {
+      "at": "2026-10-14T23:14:43.979006+00:00",
+      "title": "flock ceo says its microphones detect just gunshots its website says different",
+      "url": "techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -7101,6 +7126,11 @@
       "title": "how anthropic s dynamic workflows coordinate claude agents",
       "url": "latent.space/p/claude-dynamic-workflows"
     },
+    "rss:https://www.latent.space/p/crossing-the-threshold": {
+      "at": "2026-10-14T23:14:43.978916+00:00",
+      "title": "crossing the threshold how openai and anthropic approach autonomy and safety in financial agents",
+      "url": "latent.space/p/crossing-the-threshold"
+    },
     "rss:https://www.latent.space/p/devday-2026": {
       "at": "2026-10-01T02:10:07.535110+00:00",
       "title": "why dwarkesh is wrong about computer use how openai shipped its jev competitor in 1 week",
@@ -7145,6 +7175,11 @@
       "at": "2026-09-22T22:59:04.939912+00:00",
       "title": "an oscar two asteroids and the algorithm in your sklearn john platt on ai for science",
       "url": "latent.space/p/john-platt"
+    },
+    "rss:https://www.latent.space/p/lab-in-the-loop-at-compute-speed": {
+      "at": "2026-10-14T23:14:43.978962+00:00",
+      "title": "lab in the loop at compute speed ian quigley leash bio",
+      "url": "latent.space/p/lab-in-the-loop-at-compute-speed"
     },
     "rss:https://www.latent.space/p/lovable-future-of-saas": {
       "at": "2026-08-26T18:46:54.599596+00:00",
@@ -12780,6 +12815,11 @@
       "title": "someone is running qwen 27b at 20 tok s on a jailbroken ps5 s gpu",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5cdht": {
+      "at": "2026-10-14T23:14:43.979064+00:00",
+      "title": "real downsides of strata",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5cdht/real_downsides_of_strata"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5ft3e": {
       "at": "2026-10-14T07:38:25.402372+00:00",
       "title": "discover ai a learning guide 51 hands on labs for learning how ai actually works",
@@ -12789,6 +12829,11 @@
       "at": "2026-10-14T13:44:30.949188+00:00",
       "title": "moving a running model s layers between gpus mid reply 8 ms no re prefill",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5jnbf": {
+      "at": "2026-10-14T23:14:43.979032+00:00",
+      "title": "nvidia s run ai is now apparently under apache 2 0 license",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5jnbf/nvidias_runai_is_now_apparently_under_apache20"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5ki4t": {
       "at": "2026-10-14T13:44:30.949327+00:00",
@@ -12829,6 +12874,21 @@
       "at": "2026-10-14T18:40:13.644700+00:00",
       "title": "a 35b multimodal model running on a phone with 3gb memory minicpm v 4 7 demo is pretty wild",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5uwnd/a_35b_multimodal_model_running_on_a_phone_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5wcnz": {
+      "at": "2026-10-14T23:14:43.978992+00:00",
+      "title": "new model from telperion qwen3 8 27b mla qwen3 8 27b gla g2 4x smaller kv cache smarter and more efficient reasoning",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5wcnz/new_model_from_telperion_qwen3827bmla"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5y904": {
+      "at": "2026-10-14T23:14:43.979050+00:00",
+      "title": "mr chatterbox 2 7b chat a model trained from scratch on victorian texts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5y904/mrchatterbox27bchat_a_model_trained_from_scratch"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x62uhc": {
+      "at": "2026-10-14T23:14:43.979041+00:00",
+      "title": "someone jailbroke a ps5 and got qwen 3 8 27b running on its gpu at 20 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13266,6 +13326,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-14T18:40:13.644996+00:00",
+  "updated_at": "2026-10-14T23:14:43.979103+00:00",
   "version": 2
 }
