@@ -435,6 +435,11 @@
       "title": "with most information hidden the game stratego had stumped ai until now",
       "url": "arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget"
     },
+    "rss:https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/": {
+      "at": "2026-10-14T18:40:13.644609+00:00",
+      "title": "researchers use ai to design proteins that cut up other proteins",
+      "url": "arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins"
+    },
     "rss:https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/": {
       "at": "2026-10-13T20:18:11.652366+00:00",
       "title": "they war gamed dimming the sun it went even worse than you think",
@@ -659,6 +664,11 @@
       "at": "2026-10-13T20:18:11.652282+00:00",
       "title": "disney offers 20m for character ai s scandal plagued chatbot tech",
       "url": "arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/": {
+      "at": "2026-10-14T18:40:13.644828+00:00",
+      "title": "recording device hidden in toilet paper found in top secret openai meeting room",
+      "url": "arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
       "at": "2026-10-14T13:44:30.949167+00:00",
@@ -1185,6 +1195,11 @@
       "title": "5 steps to create simready assets for robotics with frontier ai models",
       "url": "developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123574": {
+      "at": "2026-10-14T18:40:13.644687+00:00",
+      "title": "optimizing agent reliability and tool calling efficiency for chip design using nvidia nemo gym",
+      "url": "developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1274,6 +1289,11 @@
       "at": "2026-09-01T22:10:08.411977+00:00",
       "title": "benchmirt what are llm benchmarks actually measuring",
       "url": "huggingface.co/blog/allenai/benchmirt"
+    },
+    "rss:https://huggingface.co/blog/allenai/hiro-acev2": {
+      "at": "2026-10-14T18:40:13.644670+00:00",
+      "title": "hiro acev2 simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "huggingface.co/blog/allenai/hiro-acev2"
     },
     "rss:https://huggingface.co/blog/allenai/impactful-scheduling": {
       "at": "2026-10-09T17:29:55.217301+00:00",
@@ -2501,6 +2521,21 @@
       "title": "show hn pulse local a mac budgeting app whose ai models run on your machine",
       "url": "pulseos.finance/"
     },
+    "rss:https://news.ycombinator.com/item?id=50085323": {
+      "at": "2026-10-14T18:40:13.644924+00:00",
+      "title": "tv4 postpones show after ai agent erases edited material",
+      "url": "swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
+    },
+    "rss:https://news.ycombinator.com/item?id=50088430": {
+      "at": "2026-10-14T18:40:13.644730+00:00",
+      "title": "asml s strong orders ease fears ai spending boom is running out of steam",
+      "url": "reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14"
+    },
+    "rss:https://news.ycombinator.com/item?id=50091788": {
+      "at": "2026-10-14T18:40:13.644814+00:00",
+      "title": "ai agents aren t going rogue frontier labs are skipping security basics",
+      "url": "csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2540,6 +2575,11 @@
       "at": "2026-10-01T17:23:15.421067+00:00",
       "title": "how albertsons companies is reimagining retail from the inside out",
       "url": "openai.com/index/albertsons-reimagining-retail"
+    },
+    "rss:https://openai.com/index/amp-beyond-coding": {
+      "at": "2026-10-14T18:40:13.644747+00:00",
+      "title": "amp puts ai agents to work beyond code with openai models",
+      "url": "openai.com/index/amp-beyond-coding"
     },
     "rss:https://openai.com/index/an-alien-mind": {
       "at": "2026-09-06T18:42:56.948103+00:00",
@@ -3029,6 +3069,11 @@
       "title": "rapidly scaling online storage to serve over 1 billion chatgpt users",
       "url": "openai.com/index/scaling-storage-one-billion-users-part-one"
     },
+    "rss:https://openai.com/index/sentinelone": {
+      "at": "2026-10-14T18:40:13.644761+00:00",
+      "title": "sentinelone cuts malware analysis from weeks to hours",
+      "url": "openai.com/index/sentinelone"
+    },
     "rss:https://openai.com/index/sophos": {
       "at": "2026-10-09T17:29:55.217253+00:00",
       "title": "sophos cuts threat investigation time by 96 with openai daybreak",
@@ -3102,6 +3147,11 @@
       "title": "the work now within reach",
       "url": "openai.com/index/the-work-now-within-reach"
     },
+    "rss:https://openai.com/index/third-moment-research": {
+      "at": "2026-10-14T18:40:13.644774+00:00",
+      "title": "how third moment research runs 10 000 agents for 36 hours",
+      "url": "openai.com/index/third-moment-research"
+    },
     "rss:https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
       "at": "2026-09-29T08:32:03.504196+00:00",
       "title": "towards safety cases for frontier ai training",
@@ -3156,6 +3206,11 @@
       "at": "2026-08-21T17:19:01.959766+00:00",
       "title": "an ai tool for prioritizing candidate biomarkers from wearable sensor data",
       "url": "research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data"
+    },
+    "rss:https://research.google/blog/analyzing-technical-documents-with-deep-review/": {
+      "at": "2026-10-14T18:40:13.644932+00:00",
+      "title": "analyzing technical documents with deep review",
+      "url": "research.google/blog/analyzing-technical-documents-with-deep-review"
     },
     "rss:https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/": {
       "at": "2026-09-15T22:54:27.656843+00:00",
@@ -3236,6 +3291,16 @@
       "at": "2026-08-28T01:13:09.165255+00:00",
       "title": "planetary prediction engine automating global models via earth ai",
       "url": "research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai"
+    },
+    "rss:https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/": {
+      "at": "2026-10-14T18:40:13.644853+00:00",
+      "title": "putting earth ai to work geospatial agents for our planet s biggest challenges",
+      "url": "research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges"
+    },
+    "rss:https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/": {
+      "at": "2026-10-14T18:40:13.644841+00:00",
+      "title": "research 2026 10 ways we re amplifying human ingenuity",
+      "url": "research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity"
     },
     "rss:https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/": {
       "at": "2026-08-19T17:19:19.683366+00:00",
@@ -3496,6 +3561,11 @@
       "at": "2026-10-14T02:07:57.582040+00:00",
       "title": "web edit 0 1a1",
       "url": "simonwillison.net/2026/Oct/13/web-edit"
+    },
+    "rss:https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/": {
+      "at": "2026-10-14T18:40:13.644649+00:00",
+      "title": "ai is mass decompiling games that s both awesome and scary",
+      "url": "simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -6221,6 +6291,11 @@
       "title": "can safeworld convince people that genai robots won t hurt them",
       "url": "techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them"
     },
+    "rss:https://techcrunch.com/?p=3173327": {
+      "at": "2026-10-14T18:40:13.644909+00:00",
+      "title": "floqer s ai agents research sales prospects so teams don t have to",
+      "url": "techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers"
+    },
     "rss:https://techcrunch.com/?p=3173395": {
       "at": "2026-10-02T21:20:25.655743+00:00",
       "title": "sean parker is rebuilding stability ai around music",
@@ -6496,6 +6571,11 @@
       "title": "popular ai leaderboard arena nearly doubles valuation to 3 1b valuation in 10 months",
       "url": "techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months"
     },
+    "rss:https://techcrunch.com/?p=3175750": {
+      "at": "2026-10-14T18:40:13.644800+00:00",
+      "title": "apate sends ai agents undercover to get scammed so they can gather fraud intelligence",
+      "url": "techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence"
+    },
     "rss:https://techcrunch.com/?p=3175754": {
       "at": "2026-10-09T00:25:08.392404+00:00",
       "title": "openai s revenue is reportedly 20 billion less than previously projected",
@@ -6665,6 +6745,31 @@
       "at": "2026-10-14T02:07:57.581988+00:00",
       "title": "cerebras ceo says we re nearing a future where everyone has a personal ai assistant at home",
       "url": "techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home"
+    },
+    "rss:https://techcrunch.com/?p=3177466": {
+      "at": "2026-10-14T18:40:13.644950+00:00",
+      "title": "save 50 on your techcrunch disrupt 2026 ticket and join the last 2 days in san francisco s moscone west",
+      "url": "techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco"
+    },
+    "rss:https://techcrunch.com/?p=3177470": {
+      "at": "2026-10-14T18:40:13.644866+00:00",
+      "title": "deezer will soon let you filter out ai generated music",
+      "url": "techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music"
+    },
+    "rss:https://techcrunch.com/?p=3177501": {
+      "at": "2026-10-14T18:40:13.644961+00:00",
+      "title": "techcrunch disrupt 2026 day 2",
+      "url": "techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2"
+    },
+    "rss:https://techcrunch.com/?p=3177533": {
+      "at": "2026-10-14T18:40:13.644893+00:00",
+      "title": "zenzap raises 44m for its ai chat app that aims to replace whatsapp in the workplace",
+      "url": "techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace"
+    },
+    "rss:https://techcrunch.com/?p=3177775": {
+      "at": "2026-10-14T18:40:13.644786+00:00",
+      "title": "youtube music launches new labels as ai generated music floods streaming platforms",
+      "url": "techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -12705,6 +12810,26 @@
       "title": "the ai race china s open weight models trail us closed models by just 7 months",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5qr7b": {
+      "at": "2026-10-14T18:40:13.644939+00:00",
+      "title": "breezeblue tts 2 is currently the best tts model available right now and it beats moss tts 1 5",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5qr7b/breezebluetts2_is_currently_the_best_tts_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5t1tm": {
+      "at": "2026-10-14T18:40:13.644717+00:00",
+      "title": "nvidia nemotron bolt 3 5 74b a9b releases oct 15th",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5tsni": {
+      "at": "2026-10-14T18:40:13.644877+00:00",
+      "title": "inclusionai ling 3 1 flash hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5tsni/inclusionailing31flash_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5uwnd": {
+      "at": "2026-10-14T18:40:13.644700+00:00",
+      "title": "a 35b multimodal model running on a phone with 3gb memory minicpm v 4 7 demo is pretty wild",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5uwnd/a_35b_multimodal_model_running_on_a_phone_with"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -13141,6 +13266,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-14T13:44:30.949407+00:00",
+  "updated_at": "2026-10-14T18:40:13.644996+00:00",
   "version": 2
 }
