@@ -495,6 +495,11 @@
       "title": "openai agents discussed ways to escape their sandbox on public wiki",
       "url": "arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki"
     },
+    "rss:https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
+      "at": "2026-10-14T13:44:30.949120+00:00",
+      "title": "anthropic warns small ai models could self replicate through iot devices",
+      "url": "arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices"
+    },
     "rss:https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
       "at": "2026-10-03T01:57:40.422311+00:00",
       "title": "apple changes full disk access permissions to curb abuse from ai agents",
@@ -654,6 +659,11 @@
       "at": "2026-10-13T20:18:11.652282+00:00",
       "title": "disney offers 20m for character ai s scandal plagued chatbot tech",
       "url": "arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
+      "at": "2026-10-14T13:44:30.949167+00:00",
+      "title": "openai google pushing new ai models easily tricked into making nudes researchers say",
+      "url": "arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/": {
       "at": "2026-10-07T20:01:13.684773+00:00",
@@ -3076,6 +3086,11 @@
       "at": "2026-10-01T23:55:08.084323+00:00",
       "title": "the eternal complement",
       "url": "openai.com/index/the-eternal-complement"
+    },
+    "rss:https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+      "at": "2026-10-14T13:44:30.949291+00:00",
+      "title": "the eu s next chapter in ai is agentic",
+      "url": "openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
     },
     "rss:https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
       "at": "2026-08-25T17:21:53.012133+00:00",
@@ -6620,6 +6635,11 @@
       "at": "2026-10-13T20:18:11.652376+00:00",
       "title": "spacexsi bundles x premium grok and cursor into one subscription",
       "url": "techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription"
+    },
+    "rss:https://techcrunch.com/?p=3177088": {
+      "at": "2026-10-14T13:44:30.949229+00:00",
+      "title": "scimplify raises 25m to challenge china s grip on critical materials with ai",
+      "url": "techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai"
     },
     "rss:https://techcrunch.com/?p=3177267": {
       "at": "2026-10-13T20:18:11.652297+00:00",
@@ -12610,10 +12630,20 @@
       "title": "is everyone in here buying up smart tvs now",
       "url": "reddit.com/r/LocalLLaMA/comments/1x4wcnn/is_everyone_in_here_buying_up_smart_tvs_now"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4y1eq": {
+      "at": "2026-10-14T13:44:30.949352+00:00",
+      "title": "netflix s documentary of huggingface discussion",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4y1eq/netflixs_documentary_of_huggingface_discussion"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4yoqm": {
       "at": "2026-10-13T20:18:11.652195+00:00",
       "title": "4x 6000 pro for the company",
       "url": "reddit.com/r/LocalLLaMA/comments/1x4yoqm/4x_6000_pro_for_the_company"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x4z19k": {
+      "at": "2026-10-14T13:44:30.949310+00:00",
+      "title": "psa for 3090 fe owners running llms overheats your vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x4z19k/psa_for_3090_fe_owners_running_llms_overheats"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x50rgo": {
       "at": "2026-10-13T20:18:11.652337+00:00",
@@ -12649,6 +12679,31 @@
       "at": "2026-10-14T07:38:25.402372+00:00",
       "title": "discover ai a learning guide 51 hands on labs for learning how ai actually works",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5ft3e/discover_ai_a_learning_guide_51_handson_labs_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5i7o9": {
+      "at": "2026-10-14T13:44:30.949188+00:00",
+      "title": "moving a running model s layers between gpus mid reply 8 ms no re prefill",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5ki4t": {
+      "at": "2026-10-14T13:44:30.949327+00:00",
+      "title": "so this is how they do it rtx 5090 once a consumer gaming card is now on smugglers menu alongside cigarettes",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5ki4t/so_this_is_how_they_do_it_rtx_5090_once_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5nu99": {
+      "at": "2026-10-14T13:44:30.949269+00:00",
+      "title": "comfyui v0 40 0 released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5nu99/comfyui_v0400_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5nyd3": {
+      "at": "2026-10-14T13:44:30.949252+00:00",
+      "title": "anthropic executive says open source ai models are higher risk",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5nyd3/anthropic_executive_says_opensource_ai_models_are"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5pjv7": {
+      "at": "2026-10-14T13:44:30.949209+00:00",
+      "title": "the ai race china s open weight models trail us closed models by just 7 months",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13086,6 +13141,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-14T07:38:25.402424+00:00",
+  "updated_at": "2026-10-14T13:44:30.949407+00:00",
   "version": 2
 }

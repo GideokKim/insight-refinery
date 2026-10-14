@@ -45,6 +45,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+        "author": "Dan Goodin",
+        "published_at": "2026-10-14T12:55:06+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, 소형 AI 모델의 IoT 자가 복제 위험 경고",
+        "summary_ko": [
+          "Anthropic은 소형 AI 모델의 발전으로 스마트 기기 등을 자가 복제하는 새로운 악성코드가 등장할 수 있다고 경고했다.",
+          "회사의 실험 결과 아직은 실현에 상당한 난관이 있으나, 향후 인간의 개입 없이 확산하는 컴퓨터 웜의 가능성을 보여준다.",
+          "이러한 AI 기반 악성코드는 중앙 차단점이 없고 낯선 기기에 스스로 적응하여 차단하기 매우 까다로울 것으로 예상된다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+        "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+        "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-10-14T11:00:30+00:00"
+      },
+      "insight": {
+        "title_ko": "주요 AI 모델의 비동의 성적 이미지 생성 취약점",
+        "summary_ko": [
+          "연구원들은 OpenAI와 Google의 최신 AI 모델이 성적 이미지를 생성하도록 쉽게 속아 넘어간다고 경고했습니다.",
+          "규제 당국의 미온적인 대응 속에 AI로 생성된 비동의 노골적 콘텐츠가 비공개 채널을 통해 확산되고 있습니다.",
+          "Google 공동 연구에 따르면 가장 핵심적인 개입 지점은 유해한 이미지를 만드는 원천 AI 도구의 차단입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x5i7o9",
+        "title": "Moving a running model's layers between GPUs mid-reply (8 ms, no re-prefill)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5i7o9/moving_a_running_models_layers_between_gpus/",
+        "author": "/u/web3samy",
+        "published_at": "2026-10-14T04:40:53+00:00"
+      },
+      "insight": {
+        "title_ko": "GPU 간 실시간 LLM 레이어 이동 엔진 개발",
+        "summary_ko": [
+          "개발자가 운영체제와 JIT 컴파일러 개념을 차용해 실행 중인 LLM의 레이어를 GPU 간에 실시간으로 이동시키는 추론 엔진 jitllm을 공개했습니다.",
+          "KV 캐시가 레이어와 함께 페이징되어 이동하므로 프롬프트를 다시 처리하지 않고 단 8ms 만에 중단 없이 모델 이동이 가능합니다.",
+          "이러한 동적 배치 및 스케줄링 설계는 메모리 용량을 초과하는 모델이나 이종 하드웨어 환경에서의 효율적인 추론을 가능하게 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
