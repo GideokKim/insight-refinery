@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-14T02:07:54.527948+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+        "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+        "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+        "author": "Latent.Space",
+        "published_at": "2026-10-14T05:40:28+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemini 4 Argon 정식 출시 및 AI 최신 동향",
+        "summary_ko": [
+          "구글이 코딩과 엔터프라이즈 워크플로우를 지원하는 Gemini 4 Argon을 정식 출시하고 API 가격 및 할인 정책을 공개했다.",
+          "Argon은 Cursor와 GitHub Copilot 등 주요 개발자 도구에 통합되어 뛰어난 코딩 성능과 에이전틱 작업 효율을 입증했다.",
+          "뉴욕에서 열린 AI Engineer 컨퍼런스에서는 금융 분야 AI 스택과 벤치마킹 원칙 등 프론티어 AI 트렌드가 공유되었다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+        "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+        "author": null,
+        "published_at": "2026-10-14T02:00:14+00:00"
+      },
+      "insight": {
+        "title_ko": "Google DeepMind, 싱가포르 정부와 스캠 탐지 온디바이스 AI 협력",
+        "summary_ko": [
+          "Google DeepMind와 싱가포르 정부가 사기 탐지를 위한 미세조정된 AI 모델 구축에 협력한다.",
+          "경량화된 온디바이스 Gemma 모델을 활용하여 클라우드 데이터 유출 없이 개인 채팅 내 대화형 사기를 차단한다.",
+          "이번 협력은 프라이버시를 보호하면서도 실시간으로 사기를 탐지하는 실무적 보안 기술 적용 사례를 보여준다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

@@ -745,6 +745,11 @@
       "title": "introducing weathernext 3 our most advanced and accurate global weather ai model",
       "url": "deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model"
     },
+    "rss:https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+      "at": "2026-10-14T07:38:25.402355+00:00",
+      "title": "google deepmind and singapore government collaborate to build fine tuned ai model for scam detection",
+      "url": "deepmind.google/blog/on-device-ai-scam-detection-mddi"
+    },
     "rss:https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
       "at": "2026-08-27T15:57:38.016067+00:00",
       "title": "piloting the world s first double blind ai evaluations",
@@ -2480,6 +2485,11 @@
       "at": "2026-10-14T02:07:57.582017+00:00",
       "title": "i posted to hn and then my website was flooded with ai bot traffic",
       "url": "sammystraus.com/"
+    },
+    "rss:https://news.ycombinator.com/item?id=50080275": {
+      "at": "2026-10-14T07:38:25.402390+00:00",
+      "title": "show hn pulse local a mac budgeting app whose ai models run on your machine",
+      "url": "pulseos.finance/"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -6735,6 +6745,11 @@
       "at": "2026-09-15T07:45:26.936621+00:00",
       "title": "ainews aef 1 standard emerges for third party evaluators as xai openai and anthropic all cosign",
       "url": "latent.space/p/ainews-aef-1-standard-emerges-for"
+    },
+    "rss:https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": {
+      "at": "2026-10-14T07:38:25.402320+00:00",
+      "title": "ainews ai engineer nyc gemini 4 argon vals ai benchmarks",
+      "url": "latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon"
     },
     "rss:https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b": {
       "at": "2026-09-29T08:32:03.504112+00:00",
@@ -12630,6 +12645,11 @@
       "title": "someone is running qwen 27b at 20 tok s on a jailbroken ps5 s gpu",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5ft3e": {
+      "at": "2026-10-14T07:38:25.402372+00:00",
+      "title": "discover ai a learning guide 51 hands on labs for learning how ai actually works",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5ft3e/discover_ai_a_learning_guide_51_handson_labs_for"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -13066,6 +13086,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-14T02:07:57.582076+00:00",
+  "updated_at": "2026-10-14T07:38:25.402424+00:00",
   "version": 2
 }
