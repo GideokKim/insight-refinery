@@ -89,6 +89,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+        "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+        "author": null,
+        "published_at": "2026-10-15T13:04:03+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic의 분기별 매출 급증과 IPO 준비 현황",
+        "summary_ko": [
+          "Anthropic은 투자자 설명회를 통해 분기 매출이 168억 달러로 약 50% 급증했다고 밝혔다.",
+          "회사는 연산 능력 지출 대비 1.70달러의 매출을 기록했으며 조정 영업이익률은 11%를 보였다.",
+          "타사 모델 학습에 악용되던 증류(distillation) 관행을 3분기에 크게 축소했다고 전했다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+        "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+        "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+        "author": null,
+        "published_at": "2026-10-15T10:08:08+00:00"
+      },
+      "insight": {
+        "title_ko": "Modal의 데카콘 등극 및 Gemini 4 Argon 출시",
+        "summary_ko": [
+          "인프라 기업 Modal은 시리즈 D 투자 유치와 10억 달러 ARR을 달성하며 데카콘 반열에 올랐습니다.",
+          "구글은 코딩과 과학 연구 등에 특화된 차세대 모델인 Gemini 4 Argon을 공식 출시했습니다.",
+          "Gemini 4 Argon은 향상된 성능과 효율성을 보였으나 안전성과 모니터링 측면에서 우려를 낳고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x6h51s",
+        "title": "137B A6.8B model from Microsoft?",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6h51s/137b_a68b_model_from_microsoft/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-15T09:30:24+00:00"
+      },
+      "insight": {
+        "title_ko": "마이크로소프트의 MAI Code 1.1 Flash 모델 공개",
+        "summary_ko": [
+          "마이크로소프트가 총 137B, 활성 파라미터 6.8B 규모의 코딩 최적화 MoE 모델을 개발했습니다.",
+          "해당 모델은 MAI Code 1.1 Flash의 로컬 버전으로 샌드박스 도구 및 윈도우 환경을 지원합니다.",
+          "로컬 환경에서 구동 가능한 고성능 코딩 LLM으로서 실무 개발에 중요한 참고가 될 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
