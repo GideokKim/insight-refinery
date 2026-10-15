@@ -2541,6 +2541,16 @@
       "title": "asml s strong orders ease fears ai spending boom is running out of steam",
       "url": "reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14"
     },
+    "rss:https://news.ycombinator.com/item?id=50088534": {
+      "at": "2026-10-15T07:28:03.698757+00:00",
+      "title": "ai is mass decompiling games that s both awesome and scary",
+      "url": "popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary"
+    },
+    "rss:https://news.ycombinator.com/item?id=50090799": {
+      "at": "2026-10-15T07:28:03.698771+00:00",
+      "title": "has ai tells",
+      "url": "theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1"
+    },
     "rss:https://news.ycombinator.com/item?id=50091788": {
       "at": "2026-10-14T18:40:13.644814+00:00",
       "title": "ai agents aren t going rogue frontier labs are skipping security basics",
@@ -3586,6 +3596,11 @@
       "at": "2026-10-14T18:40:13.644649+00:00",
       "title": "ai is mass decompiling games that s both awesome and scary",
       "url": "simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games"
+    },
+    "rss:https://simonwillison.net/2026/Oct/14/tree-appreciator/": {
+      "at": "2026-10-15T07:28:03.698752+00:00",
+      "title": "tree appreciator",
+      "url": "simonwillison.net/2026/Oct/14/tree-appreciator"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -6611,6 +6626,11 @@
       "title": "anthropic changes usage policy to ban model abuse and election interference",
       "url": "techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference"
     },
+    "rss:https://techcrunch.com/?p=3175869": {
+      "at": "2026-10-15T07:28:03.698743+00:00",
+      "title": "gudea leverages ai to help organizations prevent social media crises before they erupt",
+      "url": "techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt"
+    },
     "rss:https://techcrunch.com/?p=3175894": {
       "at": "2026-10-09T00:25:08.392384+00:00",
       "title": "fired openai safety researchers dispute misconduct claims warn of chilling effect",
@@ -6786,6 +6806,11 @@
       "title": "zenzap raises 44m for its ai chat app that aims to replace whatsapp in the workplace",
       "url": "techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace"
     },
+    "rss:https://techcrunch.com/?p=3177541": {
+      "at": "2026-10-15T07:28:03.698721+00:00",
+      "title": "figma announces new features to define how agents work on its platform",
+      "url": "techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform"
+    },
     "rss:https://techcrunch.com/?p=3177775": {
       "at": "2026-10-14T18:40:13.644786+00:00",
       "title": "youtube music launches new labels as ai generated music floods streaming platforms",
@@ -6795,6 +6820,11 @@
       "at": "2026-10-14T23:14:43.979006+00:00",
       "title": "flock ceo says its microphones detect just gunshots its website says different",
       "url": "techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different"
+    },
+    "rss:https://techcrunch.com/?p=3177960": {
+      "at": "2026-10-15T07:28:03.698734+00:00",
+      "title": "ricursive intelligence is betting on ai designed chips to help solve the compute crisis",
+      "url": "techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -12880,15 +12910,45 @@
       "title": "new model from telperion qwen3 8 27b mla qwen3 8 27b gla g2 4x smaller kv cache smarter and more efficient reasoning",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5wcnz/new_model_from_telperion_qwen3827bmla"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5wyii": {
+      "at": "2026-10-15T07:28:03.698712+00:00",
+      "title": "gpt image style photo editing on your own gpu 12 gb i built a zero setup app for qwen image 2 1 on stable diffusion cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5wyii/gptimagestyle_photo_editing_on_your_own_gpu_12_gb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5xm28": {
+      "at": "2026-10-15T07:28:03.698703+00:00",
+      "title": "tessera 27b b cjk zellige ais new finetune of qwen with novel approaches to how we think about token savings",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x5y904": {
       "at": "2026-10-14T23:14:43.979050+00:00",
       "title": "mr chatterbox 2 7b chat a model trained from scratch on victorian texts",
       "url": "reddit.com/r/LocalLLaMA/comments/1x5y904/mrchatterbox27bchat_a_model_trained_from_scratch"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x61xas": {
+      "at": "2026-10-15T07:28:03.698764+00:00",
+      "title": "qwen 3 8 flash next deepseekv4 flash and time",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x61xas/qwen_38_flash_next_deepseekv4_flash_and_time"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x62uhc": {
       "at": "2026-10-14T23:14:43.979041+00:00",
       "title": "someone jailbroke a ps5 and got qwen 3 8 27b running on its gpu at 20 tok s",
       "url": "reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x67qeu": {
+      "at": "2026-10-15T07:28:03.698693+00:00",
+      "title": "4x r9700 builds with 127 used epycs 10 7k all in per machine i built three 384gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x67qeu/4x_r9700_builds_with_127_used_epycs_107k_allin"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x68qma": {
+      "at": "2026-10-15T07:28:03.698727+00:00",
+      "title": "very impressed with lfm2 5 24 a2b in pi agent",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x68qma/very_impressed_with_lfm2524a2b_in_pi_agent"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6dx5x": {
+      "at": "2026-10-15T07:28:03.698659+00:00",
+      "title": "stepfun step 5 preview released 600b 27b 1m context",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6dx5x/stepfun_step5preview_released_600b27b1m_context"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13326,6 +13386,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-14T23:14:43.979103+00:00",
+  "updated_at": "2026-10-15T07:28:03.698800+00:00",
   "version": 2
 }

@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-14T23:14:42.299915+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x6dx5x",
+        "title": "Stepfun Step-5-Preview released! (600B/27B-1M Context)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6dx5x/stepfun_step5preview_released_600b27b1m_context/",
+        "author": "/u/ResearchCrafty1804",
+        "published_at": "2026-10-15T06:04:04+00:00"
+      },
+      "insight": {
+        "title_ko": "Stepfun, Step-5-Preview 모델 공개",
+        "summary_ko": [
+          "Stepfun은 에이전트 작업을 위한 플래그십 모델인 Step-5-Preview를 새롭게 출시했습니다.",
+          "이 모델은 소프트웨어 엔지니어링과 전문 지식 업무에서 최고 수준의 성능을 발휘합니다.",
+          "특히 금융 분야에서 뛰어난 강점을 보여 실무 활용도가 높을 것으로 기대됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x67qeu",
+        "title": "4x R9700 builds with $127 used EPYCs: $10.7k all-in per machine. I built three (384GB VRAM)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x67qeu/4x_r9700_builds_with_127_used_epycs_107k_allin/",
+        "author": "/u/NickReese",
+        "published_at": "2026-10-15T00:31:42+00:00"
+      },
+      "insight": {
+        "title_ko": "가성비 로컬 LLM 서버 구축 사례",
+        "summary_ko": [
+          "작성자는 중고 EPYC 프로세서와 Radeon AI PRO R9700을 활용해 대당 1만 달러 수준의 고성능 로컬 AI 서버 세 대를 구축했습니다.",
+          "호스팅된 모델의 제약과 검열 문제로 인해 Qwen 모델과 vLLM 기반 엔진을 도입하여 비즈니스 데이터 처리 자동화를 구현했습니다.",
+          "실제 워크로드 테스트 결과, 벤치마크 성능과 구조화된 데이터 추출에서 우수한 처리량과 비용 효율성을 입증했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x5xm28",
+        "title": "Tessera-27B-B-CJK, Zellige AIs new finetune of Qwen with novel approaches to how we think about token savings",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5xm28/tessera27bbcjk_zellige_ais_new_finetune_of_qwen/",
+        "author": "/u/ghgi_",
+        "published_at": "2026-10-14T17:35:08+00:00"
+      },
+      "insight": {
+        "title_ko": "토큰 효율성을 높인 Tessera-27B-B-CJK 공개",
+        "summary_ko": [
+          "Zellige AI는 Qwen3.8-27B 기반의 코딩 에이전트 모델인 Tessera-27B-B-CJK를 오픈소스(Apache-2.0)로 공개했습니다.",
+          "이 모델은 영어, 중국어, 기호 등이 혼합된 압축된 CJK 표기법으로 사고하도록 학습되어 에이전트 턴당 사고 토큰을 크게 절감합니다.",
+          "사고 과정은 압축된 형태로 진행되지만 최종 응답과 툴 호출은 표준 영어와 코드로 출력되어 기존 시스템과 완벽히 호환됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x5wyii",
+        "title": "GPT-Image-style photo editing on your own GPU (12 GB+): I built a zero-setup app for Qwen-Image 2.1 on stable-diffusion.cpp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5wyii/gptimagestyle_photo_editing_on_your_own_gpu_12_gb/",
+        "author": "/u/Ok-Director4174",
+        "published_at": "2026-10-14T17:10:15+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen-Image 2.1 기반 로컬 사진 편집 앱 Kokon 출시",
+        "summary_ko": [
+          "개발자는 Python 설치나 복잡한 설정 없이 Qwen-Image 2.1을 로컬에서 구동하는 무료 오픈소스 데스크톱 앱 Kokon을 공개했습니다.",
+          "이 애플리케이션은 stable-diffusion.cpp 엔진을 활용하여 12GB 이상의 VRAM을 가진 GPU에서 자동 메모리 최적화와 이미지 편집 기능을 제공합니다.",
+          "브러시를 이용한 직관적인 수정 기능과 함께 내장 MCP 서버 및 HTTP API를 지원하여 실무 활용도를 높였습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
