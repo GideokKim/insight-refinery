@@ -280,6 +280,11 @@
       "title": "software is over bold ai developer takes aim at adobe with open source clones",
       "url": "arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones"
     },
+    "rss:https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/": {
+      "at": "2026-10-15T18:20:26.786774+00:00",
+      "title": "singer or clanker youtube music will tell you with new gen ai labeling",
+      "url": "arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -675,6 +680,11 @@
       "title": "recording device hidden in toilet paper found in top secret openai meeting room",
       "url": "arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/": {
+      "at": "2026-10-15T18:20:26.786674+00:00",
+      "title": "report ftc probes anthropic openai after trump dismissed ai fears as hoax",
+      "url": "arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
       "at": "2026-10-14T13:44:30.949167+00:00",
       "title": "openai google pushing new ai models easily tricked into making nudes researchers say",
@@ -689,6 +699,11 @@
       "at": "2026-10-02T21:20:25.655623+00:00",
       "title": "us arrests tech ceo accused of smuggling 300m in nvidia chips into china",
       "url": "arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china"
+    },
+    "rss:https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
+      "at": "2026-10-15T18:20:26.786763+00:00",
+      "title": "accelerating the search for antimicrobial peptides with google antigravity",
+      "url": "deepmind.google/blog/accelerating-antimicrobial-discovery"
     },
     "rss:https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
       "at": "2026-09-23T18:26:13.104900+00:00",
@@ -1035,6 +1050,11 @@
       "title": "how to evaluate ai agents from tool calls to task completion",
       "url": "developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion"
     },
+    "rss:https://developer.nvidia.com/blog/?p=122698": {
+      "at": "2026-10-15T18:20:26.786630+00:00",
+      "title": "scale agentic coding workflows with meta s muse spark open on nvidia gb300 nvl72",
+      "url": "developer.nvidia.com/blog/scale-agentic-coding-workflows-with-metas-muse-spark-open-on-nvidia-gb300-nvl72"
+    },
     "rss:https://developer.nvidia.com/blog/?p=122705": {
       "at": "2026-09-23T22:59:06.946066+00:00",
       "title": "introducing nv reason ct open 3d ct vlm for radiologist chain of thought reasoning",
@@ -1205,6 +1225,11 @@
       "title": "optimizing agent reliability and tool calling efficiency for chip design using nvidia nemo gym",
       "url": "developer.nvidia.com/blog/optimizing-agent-reliability-and-tool-calling-efficiency-for-chip-design-using-nvidia-nemo-gym"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123590": {
+      "at": "2026-10-15T18:20:26.786613+00:00",
+      "title": "nvidia nemotron 3 5 super vl powers specialized agents with multimodal reasoning",
+      "url": "developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1345,6 +1370,11 @@
       "title": "how uk aisi and evaleval are making benchmark results reproducible",
       "url": "huggingface.co/blog/evaleval-aisi"
     },
+    "rss:https://huggingface.co/blog/flux-3": {
+      "at": "2026-10-15T18:20:26.786827+00:00",
+      "title": "welcome flux 3 image klein in diffusers",
+      "url": "huggingface.co/blog/flux-3"
+    },
     "rss:https://huggingface.co/blog/funes": {
       "at": "2026-09-03T12:20:09.600188+00:00",
       "title": "give your coding agents a memory you own",
@@ -1397,6 +1427,11 @@
       "at": "2026-08-19T14:23:12.191244+00:00",
       "title": "what we learned by reproducing 2 200 papers from icml",
       "url": "huggingface.co/blog/icml-2026-open-reproductions"
+    },
+    "rss:https://huggingface.co/blog/meta-muse-spark-open": {
+      "at": "2026-10-15T18:20:26.786738+00:00",
+      "title": "welcome muse spark open open weight frontier multimodal mixture of experts model from meta",
+      "url": "huggingface.co/blog/meta-muse-spark-open"
     },
     "rss:https://huggingface.co/blog/microsoft/thinkingbox": {
       "at": "2026-10-03T23:04:30.796921+00:00",
@@ -1467,6 +1502,11 @@
       "at": "2026-08-19T14:23:12.191390+00:00",
       "title": "state of open models summer 2026 observations",
       "url": "huggingface.co/blog/state-of-open-models-summer-2026"
+    },
+    "rss:https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+      "at": "2026-10-15T18:20:26.786862+00:00",
+      "title": "apertus 1 5 release notes",
+      "url": "huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
     },
     "rss:https://huggingface.co/blog/tiiuae/falcon-asr": {
       "at": "2026-10-08T18:01:12.187104+00:00",
@@ -2561,6 +2601,16 @@
       "title": "banks are now trying to offload the ai data center debt they just underwrote",
       "url": "startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote"
     },
+    "rss:https://news.ycombinator.com/item?id=50100791": {
+      "at": "2026-10-15T18:20:26.786871+00:00",
+      "title": "ai was great until it was not",
+      "url": "thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
+    },
+    "rss:https://news.ycombinator.com/item?id=50104654": {
+      "at": "2026-10-15T18:20:26.786786+00:00",
+      "title": "simons foundation launches 15m effort to help mathematicians navigate ai era",
+      "url": "simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3136,6 +3186,11 @@
       "at": "2026-08-28T13:29:03.622065+00:00",
       "title": "supporting thailand s next generation of ai startups",
       "url": "openai.com/index/supporting-next-generation-ai-startups-thailand"
+    },
+    "rss:https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+      "at": "2026-10-15T18:20:26.786849+00:00",
+      "title": "teaching students to think and learn through questions",
+      "url": "openai.com/index/teaching-students-to-think-and-learn-through-questions"
     },
     "rss:https://openai.com/index/teen-development-research-grants": {
       "at": "2026-09-08T17:40:11.523104+00:00",
@@ -6771,6 +6826,11 @@
       "title": "facebook is giving users more control over their algorithm",
       "url": "techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm"
     },
+    "rss:https://techcrunch.com/?p=3177351": {
+      "at": "2026-10-15T18:20:26.786837+00:00",
+      "title": "ai agents are coming to rivian s cars",
+      "url": "techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars"
+    },
     "rss:https://techcrunch.com/?p=3177352": {
       "at": "2026-10-14T02:07:57.581938+00:00",
       "title": "judge orders openai to turn over hiring records in apple trade secrets case",
@@ -6835,6 +6895,21 @@
       "at": "2026-10-15T07:28:03.698734+00:00",
       "title": "ricursive intelligence is betting on ai designed chips to help solve the compute crisis",
       "url": "techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
+    },
+    "rss:https://techcrunch.com/?p=3178027": {
+      "at": "2026-10-15T18:20:26.786887+00:00",
+      "title": "techcrunch disrupt 2026 last day",
+      "url": "techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day"
+    },
+    "rss:https://techcrunch.com/?p=3178088": {
+      "at": "2026-10-15T18:20:26.786797+00:00",
+      "title": "google s universal cart shopping tool launches in the us",
+      "url": "techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us"
+    },
+    "rss:https://techcrunch.com/?p=3178318": {
+      "at": "2026-10-15T18:20:26.786878+00:00",
+      "title": "last chance to save up to 200 on your techcrunch founder summit pass early booking ends october 16",
+      "url": "techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -7335,6 +7410,11 @@
       "at": "2026-10-06T17:13:03.297878+00:00",
       "title": "what ai gets wrong and what failure teaches us",
       "url": "microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1189337": {
+      "at": "2026-10-15T18:20:26.786662+00:00",
+      "title": "proof based general purpose computing with magnetar",
+      "url": "microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -12975,6 +13055,11 @@
       "title": "new tts king in town fish s drama 3 35b3a",
       "url": "reddit.com/r/LocalLLaMA/comments/1x6f9p2/new_tts_king_in_town_fishs_drama_3_35b3a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6gf0y": {
+      "at": "2026-10-15T18:20:26.786810+00:00",
+      "title": "will there be a black friday this year nvidia rtx 5060 ti 16 gb surges up to 144 in japan hitting 1 292 as rtx 5080 climbs past 2 400",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6gf0y/will_there_be_a_blackfriday_this_year_nvidia_rtx"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6h51s": {
       "at": "2026-10-15T13:27:01.006198+00:00",
       "title": "137b a6 8b model from microsoft",
@@ -12984,6 +13069,36 @@
       "at": "2026-10-15T13:27:01.006250+00:00",
       "title": "nvidia ai so many models launching this week and we have one of our own coming",
       "url": "reddit.com/r/LocalLLaMA/comments/1x6ijlk/nvidia_ai_so_many_models_launching_this_week_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6nl8m": {
+      "at": "2026-10-15T18:20:26.786721+00:00",
+      "title": "nvidia nvidia nemotron 3 5 super vl 120b a12b model family released base nvfp4 bf16 and lilicorr speculative decoding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6nl8m/nvidianvidianemotron35supervl120ba12b_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6o31q": {
+      "at": "2026-10-15T18:20:26.786703+00:00",
+      "title": "nvidia nvidia nemotron 3 5 bolt 74b a9b 24gb hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6o31q/nvidianvidianemotron35bolt74ba9b24gb_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6ouoy": {
+      "at": "2026-10-15T18:20:26.786689+00:00",
+      "title": "mistralai timestral",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6ouoy/mistralaitimestral"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6r9pz": {
+      "at": "2026-10-15T18:20:26.786574+00:00",
+      "title": "introducing muse spark open the most capable us open weight model to date",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6rcid": {
+      "at": "2026-10-15T18:20:26.786753+00:00",
+      "title": "unsloth muse spark open is out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6rcid/unsloth_muse_spark_open_is_out"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6s7el": {
+      "at": "2026-10-15T18:20:26.786650+00:00",
+      "title": "flux 3 image klein is now out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13421,6 +13536,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-15T13:27:01.006312+00:00",
+  "updated_at": "2026-10-15T18:20:26.786921+00:00",
   "version": 2
 }
