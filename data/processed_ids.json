@@ -525,6 +525,11 @@
       "title": "openai agents tried to hack wikipedia tools and flooded it with traffic",
       "url": "arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic"
     },
+    "rss:https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/": {
+      "at": "2026-10-16T22:52:10.810021+00:00",
+      "title": "openai models hacked a crypto wallet and breached more websites",
+      "url": "arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites"
+    },
     "rss:https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": {
       "at": "2026-10-06T01:19:01.155142+00:00",
       "title": "mcp for agent to agent comms may be the riskiest protocol you ve never heard of",
@@ -704,6 +709,11 @@
       "at": "2026-10-16T18:08:12.779947+00:00",
       "title": "super scam me documentary shows what it takes to catch a romance scammer",
       "url": "arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/": {
+      "at": "2026-10-16T22:52:10.810088+00:00",
+      "title": "thegentlemanpervert producing ai csam is a nj prosecutor say cops",
+      "url": "arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
       "at": "2026-10-02T21:20:25.655623+00:00",
@@ -2656,6 +2666,16 @@
       "title": "why we re banning ai",
       "url": "currentaffairs.org/news/why-were-banning-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50119991": {
+      "at": "2026-10-16T22:52:10.810051+00:00",
+      "title": "postgres 19 delayed after ai reviewers find more bugs than humans can fix",
+      "url": "theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
+    },
+    "rss:https://news.ycombinator.com/item?id=50121179": {
+      "at": "2026-10-16T22:52:10.810041+00:00",
+      "title": "90 of us working hours are spent on tasks not covered well by ai benchmarks",
+      "url": "mercor.com/research/labor-index/benchmark-map"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3209,6 +3229,11 @@
       "title": "sophos cuts threat investigation time by 96 with openai daybreak",
       "url": "openai.com/index/sophos"
     },
+    "rss:https://openai.com/index/stack-overflow-chatgpt-plugin": {
+      "at": "2026-10-16T22:52:10.810100+00:00",
+      "title": "stack overflow for agents triples signups with chatgpt plugin",
+      "url": "openai.com/index/stack-overflow-chatgpt-plugin"
+    },
     "rss:https://openai.com/index/stampli": {
       "at": "2026-08-20T17:18:50.768188+00:00",
       "title": "how chatgpt work helps stampli move ideas to market",
@@ -3391,6 +3416,11 @@
       "at": "2026-08-26T18:46:54.599561+00:00",
       "title": "glucofm foundation model for continuous glucose monitoring",
       "url": "research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring"
+    },
+    "rss:https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/": {
+      "at": "2026-10-16T22:52:10.810031+00:00",
+      "title": "grounding ai agents in biological reality building blocks for autonomous wet labs",
+      "url": "research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs"
     },
     "rss:https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/": {
       "at": "2026-09-29T21:26:11.893840+00:00",
@@ -3721,6 +3751,16 @@
       "at": "2026-10-15T23:04:57.242275+00:00",
       "title": "chirp pong",
       "url": "simonwillison.net/2026/Oct/15/chirp-pong"
+    },
+    "rss:https://simonwillison.net/2026/Oct/15/latex/": {
+      "at": "2026-10-16T22:52:10.810109+00:00",
+      "title": "latex renderer",
+      "url": "simonwillison.net/2026/Oct/15/latex"
+    },
+    "rss:https://simonwillison.net/2026/Oct/16/code-review/": {
+      "at": "2026-10-16T22:52:10.810008+00:00",
+      "title": "quoting addy osmani morgan westlee lunt and qing wang",
+      "url": "simonwillison.net/2026/Oct/16/code-review"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -7000,6 +7040,11 @@
       "at": "2026-10-16T01:21:04.940440+00:00",
       "title": "when it came to cal ai s viral success a small army of influencers paid off",
       "url": "techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off"
+    },
+    "rss:https://techcrunch.com/?p=3178496": {
+      "at": "2026-10-16T22:52:10.810077+00:00",
+      "title": "replit is no longer working with anthropic ceo says",
+      "url": "techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says"
     },
     "rss:https://techcrunch.com/?p=3178541": {
       "at": "2026-10-16T13:16:45.733252+00:00",
@@ -13310,6 +13355,31 @@
       "title": "why do we have models under 15b so rarely anymore",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7g8cc/why_do_we_have_models_under_15b_so_rarely_anymore"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7i49v": {
+      "at": "2026-10-16T22:52:10.810133+00:00",
+      "title": "it really just needs some encouragement qwen3 8 27b ud iq4_xs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7i49v/it_really_just_needs_some_encouragement"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7lcdu": {
+      "at": "2026-10-16T22:52:10.810124+00:00",
+      "title": "the debt fueled ai boom is cracking",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7lcdu/the_debtfueled_ai_boom_is_cracking"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7lw9g": {
+      "at": "2026-10-16T22:52:10.810116+00:00",
+      "title": "show me your rack",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7polk": {
+      "at": "2026-10-16T22:52:10.809966+00:00",
+      "title": "research 2 788 tokens s on a single rtx 5090 with a diffusion llm introducing orl fully open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7polk/research_2788_tokenss_on_a_single_rtx_5090_with_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7sq8e": {
+      "at": "2026-10-16T22:52:10.810062+00:00",
+      "title": "10 things you maybe didn t know you can do with qwen 3 6 27b right now for noobs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -13746,6 +13816,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-16T18:08:12.780010+00:00",
+  "updated_at": "2026-10-16T22:52:10.810168+00:00",
   "version": 2
 }
