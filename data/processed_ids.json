@@ -685,6 +685,11 @@
       "title": "report ftc probes anthropic openai after trump dismissed ai fears as hoax",
       "url": "arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/": {
+      "at": "2026-10-16T18:08:12.779798+00:00",
+      "title": "meta may use sweeping new commercial tos to avoid millions in ai licensing fees",
+      "url": "arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
       "at": "2026-10-14T13:44:30.949167+00:00",
       "title": "openai google pushing new ai models easily tricked into making nudes researchers say",
@@ -694,6 +699,11 @@
       "at": "2026-10-07T20:01:13.684773+00:00",
       "title": "fraudster jailed for using 10k bots and ai songs to outstream taylor swift",
       "url": "arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/": {
+      "at": "2026-10-16T18:08:12.779947+00:00",
+      "title": "super scam me documentary shows what it takes to catch a romance scammer",
+      "url": "arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/": {
       "at": "2026-10-02T21:20:25.655623+00:00",
@@ -1229,6 +1239,11 @@
       "at": "2026-10-15T18:20:26.786613+00:00",
       "title": "nvidia nemotron 3 5 super vl powers specialized agents with multimodal reasoning",
       "url": "developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123865": {
+      "at": "2026-10-16T18:08:12.779734+00:00",
+      "title": "code test and deploy on one machine with nvidia rtx spark",
+      "url": "developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -2590,6 +2605,11 @@
       "at": "2026-10-14T18:40:13.644924+00:00",
       "title": "tv4 postpones show after ai agent erases edited material",
       "url": "swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage"
+    },
+    "rss:https://news.ycombinator.com/item?id=50085553": {
+      "at": "2026-10-16T18:08:12.779927+00:00",
+      "title": "ai assisted pcb design for kicad 10",
+      "url": "github.com/mixelpixx/Konnect"
     },
     "rss:https://news.ycombinator.com/item?id=50088430": {
       "at": "2026-10-14T18:40:13.644730+00:00",
@@ -6906,6 +6926,11 @@
       "title": "techcrunch disrupt 2026 day 2",
       "url": "techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2"
     },
+    "rss:https://techcrunch.com/?p=3177529": {
+      "at": "2026-10-16T18:08:12.779956+00:00",
+      "title": "veritas expands its anti counterfeit chip to jewelry trophies and fragrance bottles",
+      "url": "techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods"
+    },
     "rss:https://techcrunch.com/?p=3177533": {
       "at": "2026-10-14T18:40:13.644893+00:00",
       "title": "zenzap raises 44m for its ai chat app that aims to replace whatsapp in the workplace",
@@ -6981,6 +7006,26 @@
       "title": "replit s ceo says the future of work is the self driving company",
       "url": "techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company"
     },
+    "rss:https://techcrunch.com/?p=3178550": {
+      "at": "2026-10-16T18:08:12.779936+00:00",
+      "title": "mark wahlberg on using ai in film the right way and being open to an ai clone carrying on his legacy",
+      "url": "techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy"
+    },
+    "rss:https://techcrunch.com/?p=3178711": {
+      "at": "2026-10-16T18:08:12.779902+00:00",
+      "title": "jev is vercel s fastest adopted ai model ever",
+      "url": "techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever"
+    },
+    "rss:https://techcrunch.com/?p=3178756": {
+      "at": "2026-10-16T18:08:12.779751+00:00",
+      "title": "elorian s first ai model wants to reason with images not just about them",
+      "url": "techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them"
+    },
+    "rss:https://techcrunch.com/?p=3178813": {
+      "at": "2026-10-16T18:08:12.779693+00:00",
+      "title": "india becomes the latest country to report rogue ai agent activity",
+      "url": "techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -7026,6 +7071,11 @@
       "title": "amazon drops data center ndas and ai agents want your credit card",
       "url": "techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3176205": {
+      "at": "2026-10-16T18:08:12.779892+00:00",
+      "title": "physical ai is more than robots says the nvidia veteran now investing in it",
+      "url": "techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -7065,6 +7115,11 @@
       "at": "2026-10-09T17:29:55.217274+00:00",
       "title": "amazon and others are done keeping data center deals secret is it enough to build trust",
       "url": "techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3176211": {
+      "at": "2026-10-16T18:08:12.779873+00:00",
+      "title": "an nvidia insider turned vc on why robotics hasn t hit its chatgpt moment yet",
+      "url": "techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -13215,10 +13270,45 @@
       "title": "new paper from stanford together ai uiuc and meta introduces hybrid reasoning agents these ai models think mostly in a hidden internal way faster and cheaper and only use normal text when they need tools or give the final answer",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7bboy": {
+      "at": "2026-10-16T18:08:12.779920+00:00",
+      "title": "qwen flash next potential sota q2 nobody talks about",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7bboy/qwen_flash_next_potential_sota_q2_nobody_talks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7bmel": {
+      "at": "2026-10-16T18:08:12.779853+00:00",
+      "title": "the actual state of open weight models vs frontier models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7bmel/the_actual_state_of_openweight_models_vs_frontier"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7cc2z": {
       "at": "2026-10-16T13:16:45.733268+00:00",
       "title": "tencent hy memory 30b a3b hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7ccaj": {
+      "at": "2026-10-16T18:08:12.779973+00:00",
+      "title": "r nvidia mods delete post about always on mcp server",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7ccaj/rnvidia_mods_delete_post_about_always_on_mcp"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7ey7i": {
+      "at": "2026-10-16T18:08:12.779912+00:00",
+      "title": "openmoss releases moss image",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7ey7i/openmoss_releases_mossimage"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7g3zq": {
+      "at": "2026-10-16T18:08:12.779835+00:00",
+      "title": "china proposes export controls on 23 ai technologies including large models agents clusters already open sourced tech is exempted",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7g3zq/china_proposes_export_controls_on_23_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7g4k3": {
+      "at": "2026-10-16T18:08:12.779815+00:00",
+      "title": "reflection beam 1 0 501b a23b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7g4k3/reflectionbeam10501ba23b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7g8cc": {
+      "at": "2026-10-16T18:08:12.779965+00:00",
+      "title": "why do we have models under 15b so rarely anymore",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7g8cc/why_do_we_have_models_under_15b_so_rarely_anymore"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13656,6 +13746,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-16T13:16:45.733305+00:00",
+  "updated_at": "2026-10-16T18:08:12.780010+00:00",
   "version": 2
 }
