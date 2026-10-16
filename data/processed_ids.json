@@ -1508,6 +1508,11 @@
       "title": "how hugging face inference endpoints jobs and buckets power search on papers with code",
       "url": "huggingface.co/blog/pwc-search"
     },
+    "rss:https://huggingface.co/blog/reflection-beam": {
+      "at": "2026-10-16T13:16:45.733239+00:00",
+      "title": "welcome beam a 501b open model you can own customize and scale",
+      "url": "huggingface.co/blog/reflection-beam"
+    },
     "rss:https://huggingface.co/blog/state-of-open-models-summer-2026": {
       "at": "2026-08-19T14:23:12.191390+00:00",
       "title": "state of open models summer 2026 observations",
@@ -6970,6 +6975,11 @@
       "at": "2026-10-16T01:21:04.940440+00:00",
       "title": "when it came to cal ai s viral success a small army of influencers paid off",
       "url": "techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off"
+    },
+    "rss:https://techcrunch.com/?p=3178541": {
+      "at": "2026-10-16T13:16:45.733252+00:00",
+      "title": "replit s ceo says the future of work is the self driving company",
+      "url": "techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -13195,6 +13205,21 @@
       "title": "deepseek v4 flash 0731 on 4x radeon ai pro r9700 with affinity the refused 4 card config works 79 tok s on real cards",
       "url": "reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x75bme": {
+      "at": "2026-10-16T13:16:45.733223+00:00",
+      "title": "alodlm 8b looped diffusion language model 3x inference speed vs its base model qwen3 8b with better benchmark results",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7a8i8": {
+      "at": "2026-10-16T13:16:45.733181+00:00",
+      "title": "new paper from stanford together ai uiuc and meta introduces hybrid reasoning agents these ai models think mostly in a hidden internal way faster and cheaper and only use normal text when they need tools or give the final answer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7cc2z": {
+      "at": "2026-10-16T13:16:45.733268+00:00",
+      "title": "tencent hy memory 30b a3b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7cc2z/tencenthymemory30ba3b_hugging_face"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -13631,6 +13656,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-16T07:09:58.704831+00:00",
+  "updated_at": "2026-10-16T13:16:45.733305+00:00",
   "version": 2
 }

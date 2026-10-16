@@ -111,6 +111,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x7a8i8",
+        "title": "New paper from Stanford, Together AI, UIUC, and Meta introduces Hybrid Reasoning Agents. These AI models think mostly in a hidden internal way (faster and cheaper), and only use normal text when they need tools or give the final answer.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7a8i8/new_paper_from_stanford_together_ai_uiuc_and_meta/",
+        "author": "/u/R_Duncan",
+        "published_at": "2026-10-16T07:58:04+00:00"
+      },
+      "insight": {
+        "title_ko": "스탠퍼드 등의 하이브리드 추론 에이전트 논문 공개",
+        "summary_ko": [
+          "스탠퍼드, 투게더AI, UIUC, 메타 연구진이 비용과 속도를 개선한 하이브리드 추론 에이전트를 발표했습니다.",
+          "이 모델은 대부분의 추론을 숨겨진 내부 방식으로 처리하고 도구 사용이나 최종 답변에만 일반 텍스트를 사용합니다.",
+          "수학, 과학, 의학 등 다양한 테스트에서 기존 모델 대비 약 10% 높은 점수를 기록하며 토큰 사용량을 절반으로 줄였습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x75bme",
+        "title": "ALoDLM 8b looped diffusion language model: ~3x inference speed vs its base model qwen3-8b with better benchmark results",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x75bme/alodlm_8b_looped_diffusion_language_model_3x/",
+        "author": "/u/billy_booboo",
+        "published_at": "2026-10-16T03:09:36+00:00"
+      },
+      "insight": {
+        "title_ko": "ALoDLM 8b 확산 언어 모델 공개",
+        "summary_ko": [
+          "ALoDLM 8b는 기반 모델인 Qwen3-8b 대비 약 3배 빠른 추론 속도를 제공하는 루프형 확산 언어 모델입니다.",
+          "속도 향상뿐만 아니라 주요 벤치마크 결과에서도 더 우수한 성능을 기록하여 주목을 받고 있습니다.",
+          "이번 모델 공개는 향후 확산 기반 언어 모델의 실무 활용 가능성을 보여주는 중요한 사례입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/reflection-beam",
+        "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+        "url": "https://huggingface.co/blog/reflection-beam",
+        "author": null,
+        "published_at": "2026-10-16T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈 소스 모델 Beam 공개",
+        "summary_ko": [
+          "Hugging Face 블로그를 통해 501B 규모의 오픈 모델 Beam이 새롭게 공개되었습니다.",
+          "사용자는 이 모델을 직접 소유하고 커스텀하며 대규모로 확장할 수 있습니다.",
+          "대형 오픈 소스 모델 도입과 실무 활용을 고려하는 엔지니어에게 중요한 소식입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
