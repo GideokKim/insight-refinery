@@ -2611,6 +2611,11 @@
       "title": "ai was great until it was not",
       "url": "thetheorygirlie.substack.com/p/ai-was-great-until-it-was-not"
     },
+    "rss:https://news.ycombinator.com/item?id=50104299": {
+      "at": "2026-10-16T01:21:04.940375+00:00",
+      "title": "using ai to reverse engineer hardware",
+      "url": "blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware"
+    },
     "rss:https://news.ycombinator.com/item?id=50104654": {
       "at": "2026-10-15T18:20:26.786786+00:00",
       "title": "simons foundation launches 15m effort to help mathematicians navigate ai era",
@@ -3181,6 +3186,11 @@
     },
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/sullivan-cromwell": {
+      "at": "2026-10-16T01:21:04.940421+00:00",
+      "title": "sullivan cromwell brings legal expertise into agreement review",
+      "url": "openai.com/index/sullivan-cromwell"
     },
     "rss:https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
       "at": "2026-09-01T06:55:24.714997+00:00",
@@ -6950,6 +6960,11 @@
       "at": "2026-10-15T23:04:57.242218+00:00",
       "title": "anthropic is letting metr researchers look under the hood with employee level access",
       "url": "techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access"
+    },
+    "rss:https://techcrunch.com/?p=3178431": {
+      "at": "2026-10-16T01:21:04.940440+00:00",
+      "title": "when it came to cal ai s viral success a small army of influencers paid off",
+      "url": "techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -13140,6 +13155,11 @@
       "title": "flux 3 image klein is now out",
       "url": "reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6trqq": {
+      "at": "2026-10-16T01:21:04.940464+00:00",
+      "title": "128gb rtx spark laptop for 3832",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6trqq/128gb_rtx_spark_laptop_for_3832"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6vqft": {
       "at": "2026-10-15T23:04:57.242242+00:00",
       "title": "fp4 qad quant of qwen3 8 flash next from nvidia",
@@ -13581,6 +13601,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-15T23:04:57.242321+00:00",
+  "updated_at": "2026-10-16T01:21:04.940528+00:00",
   "version": 2
 }
