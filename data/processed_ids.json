@@ -1483,6 +1483,11 @@
       "title": "one model family two gold level results fine tuning nemotron for ioi and imo",
       "url": "huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
     },
+    "rss:https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
+      "at": "2026-10-16T07:09:58.704695+00:00",
+      "title": "scaling indic pretraining 2 8 trillion tokens and an open data generation pipeline",
+      "url": "huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    },
     "rss:https://huggingface.co/blog/omlx": {
       "at": "2026-09-22T07:43:11.181440+00:00",
       "title": "jun kim omlx creator and maintainer joins hugging face to support the mlx community",
@@ -7065,6 +7070,11 @@
       "at": "2026-09-15T07:45:26.936621+00:00",
       "title": "ainews aef 1 standard emerges for third party evaluators as xai openai and anthropic all cosign",
       "url": "latent.space/p/ainews-aef-1-standard-emerges-for"
+    },
+    "rss:https://www.latent.space/p/ainews-agents-disprove-polysemanticity": {
+      "at": "2026-10-16T07:09:58.704610+00:00",
+      "title": "ainews agents disprove polysemanticity greatly improve interpretability alignment",
+      "url": "latent.space/p/ainews-agents-disprove-polysemanticity"
     },
     "rss:https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon": {
       "at": "2026-10-14T07:38:25.402320+00:00",
@@ -13155,6 +13165,11 @@
       "title": "flux 3 image klein is now out",
       "url": "reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6stod": {
+      "at": "2026-10-16T07:09:58.704756+00:00",
+      "title": "what a 300 35w snapdragon mini pc can actually do 35b coder at 30 tok s and an 80b model that doesnt even fit in ram running at 17 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6stod/what_a_300_35w_snapdragon_mini_pc_can_actually_do"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6trqq": {
       "at": "2026-10-16T01:21:04.940464+00:00",
       "title": "128gb rtx spark laptop for 3832",
@@ -13164,6 +13179,21 @@
       "at": "2026-10-15T23:04:57.242242+00:00",
       "title": "fp4 qad quant of qwen3 8 flash next from nvidia",
       "url": "reddit.com/r/LocalLLaMA/comments/1x6vqft/fp4_qad_quant_of_qwen38flashnext_from_nvidia"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6w658": {
+      "at": "2026-10-16T07:09:58.704735+00:00",
+      "title": "ternary bonsai 2 2b 4b and 9b just released on hugging face the 2b can run entirely locally in the browser at up to 500 tok s on an m4 max with custom webgpu kernels",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x6wwx2": {
+      "at": "2026-10-16T07:09:58.704718+00:00",
+      "title": "ibm granite granite switch 4 1 30b 8b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x6wwx2/ibmgranitegraniteswitch41_30b8b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x70e5r": {
+      "at": "2026-10-16T07:09:58.704781+00:00",
+      "title": "deepseek v4 flash 0731 on 4x radeon ai pro r9700 with affinity the refused 4 card config works 79 tok s on real cards",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x70e5r/deepseekv4flash0731_on_4x_radeon_ai_pro_r9700"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13601,6 +13631,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-16T01:21:04.940528+00:00",
+  "updated_at": "2026-10-16T07:09:58.704831+00:00",
   "version": 2
 }

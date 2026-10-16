@@ -1,5 +1,116 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-15T23:04:55.293357+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+        "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+        "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+        "author": null,
+        "published_at": "2026-10-16T04:16:45+00:00"
+      },
+      "insight": {
+        "title_ko": "신경망 해석 가능성과 Meta 오픈웨이트 모델 동향",
+        "summary_ko": [
+          "Goodfire의 닉 카마라타는 에이전틱 분석을 통해 신경망의 다의성과 중첩 문제가 해소될 수 있다는 에세이를 발표했습니다.",
+          "Meta는 100만 토큰 컨텍스트 윈도우와 멀티모달 기능을 지원하는 816B 총 파라미터의 Muse Spark Open을 공개했습니다.",
+          "해당 모델은 미국 오픈웨이트 모델 중 최고 수준의 성능을 기록했으나 독자적인 라이선스와 에이전트 평가에서의 아쉬움이 지적됩니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+        "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+        "author": null,
+        "published_at": "2026-10-16T01:44:47+00:00"
+      },
+      "insight": {
+        "title_ko": "Indic 언어 사전학습을 위한 오픈 데이터 파이프라인 공개",
+        "summary_ko": [
+          "Hugging Face Blog를 통해 2.8조 개의 토큰 규모로 Indic 언어 사전학습을 수행한 결과가 공개되었습니다.",
+          "이번 연구는 저자원 언어인 Indic 언어권의 AI 성능 향상을 위한 오픈 데이터 생성 파이프라인을 다루고 있습니다.",
+          "다국어 모델 학습과 저자원 언어 처리를 연구하는 실무자들에게 중요한 참고 자료가 될 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x6wwx2",
+        "title": "ibm-granite/granite-switch-4.1 30B/8B",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6wwx2/ibmgranitegraniteswitch41_30b8b/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-15T20:38:05+00:00"
+      },
+      "insight": {
+        "title_ko": "IBM Granite Switch 4.1 모델 공개",
+        "summary_ko": [
+          "IBM은 단일 엔드포인트에서 챗, 의사결정, 음성 인식을 모두 처리할 수 있는 모듈형 LLM인 Granite Switch 4.1을 공개했다.",
+          "이번 모델은 베이스 모델에 어댑터와 인코더를 결합하여 제어 토큰을 통해 필요에 따라 기능을 활성화하는 구조를 갖추고 있다.",
+          "Apache 2.0 라이선스로 출시되었으며 HuggingFace Transformers와 vLLM 백엔드를 지원한다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x6w658",
+        "title": "Ternary Bonsai 2 (2B, 4B, and 9B) just released on Hugging Face. The 2B can run entirely locally in the browser at up to 500 tok/s on an M4 Max with custom WebGPU kernels.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6w658/ternary_bonsai_2_2b_4b_and_9b_just_released_on/",
+        "author": "/u/xenovatech",
+        "published_at": "2026-10-15T20:09:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Ternary Bonsai 2 모델 공개",
+        "summary_ko": [
+          "Hugging Face를 통해 2B, 4B, 9B 크기의 Ternary Bonsai 2 모델이 새롭게 출시되었습니다.",
+          "특히 2B 모델은 커스텀 WebGPU 커널을 활용해 M4 Max 환경의 브라우저에서 초당 최대 500 토큰으로 구동됩니다.",
+          "로컬 환경 및 브라우저 기반 AI 추론 성능을 최적화하려는 실무자에게 중요한 참고 자료가 됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x6stod",
+        "title": "What a £300, 35W Snapdragon mini PC can actually do 👀: 35B coder at ~30 tok/s, and an 80B model that doesnt even fit in RAM running at 17 tok/s",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6stod/what_a_300_35w_snapdragon_mini_pc_can_actually_do/",
+        "author": "/u/WorldlyAd7946",
+        "published_at": "2026-10-15T18:02:21+00:00"
+      },
+      "insight": {
+        "title_ko": "저렴한 ARM 미니 PC의 로컬 LLM 구동 성능",
+        "summary_ko": [
+          "300파운드의 저렴한 Snapdragon 미니 PC에서 대형 로컬 LLM을 CPU 기반으로 구동한 테스트 결과가 공유되었다.",
+          "llama.cpp 및 NVMe 스트리밍 방식을 활용해 35B 및 80B 모델을 실용적인 속도로 실행하는 데 성공했다.",
+          "저전력 ARM 하드웨어와 최적화 기법을 결합하여 비용 효율적인 로컬 AI 구동 가능성을 입증했다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
