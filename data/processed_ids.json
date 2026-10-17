@@ -13385,6 +13385,16 @@
       "title": "show me your rack",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7lw9g/show_me_your_rack"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7msmj": {
+      "at": "2026-10-17T17:10:46.704537+00:00",
+      "title": "tyger open weights streaming asr full duplex turn control in one model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7msmj/tyger_openweights_streaming_asr_fullduplex"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7nenr": {
+      "at": "2026-10-17T17:10:46.704496+00:00",
+      "title": "understanding how neural networks learn with interactive visualizations",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7nenr/understanding_how_neural_networks_learn_with"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7polk": {
       "at": "2026-10-16T22:52:10.809966+00:00",
       "title": "research 2 788 tokens s on a single rtx 5090 with a diffusion llm introducing orl fully open source",
@@ -13424,6 +13434,26 @@
       "at": "2026-10-17T12:12:02.941842+00:00",
       "title": "deepseek ai deepseek v4 1 flash 1017 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x88txd": {
+      "at": "2026-10-17T17:10:46.704580+00:00",
+      "title": "nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8am0i": {
+      "at": "2026-10-17T17:10:46.704561+00:00",
+      "title": "why not run qwen 3 8 flash next with the full n gram table",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8am0i/why_not_run_qwen_38_flash_next_with_the_full"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8bb6b": {
+      "at": "2026-10-17T17:10:46.704613+00:00",
+      "title": "deepseek v4 1 flash 1017 now leads open weight models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8e4wd": {
+      "at": "2026-10-17T17:10:46.704596+00:00",
+      "title": "linux creator says anti ai rules are idiotic absolute god tier take",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13861,6 +13891,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-17T12:12:02.941911+00:00",
+  "updated_at": "2026-10-17T17:10:46.704662+00:00",
   "version": 2
 }

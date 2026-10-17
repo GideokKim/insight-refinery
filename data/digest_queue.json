@@ -45,6 +45,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x7nenr",
+        "title": "Understanding How Neural Networks Learn (with interactive visualizations)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7nenr/understanding_how_neural_networks_learn_with/",
+        "author": "/u/returnity",
+        "published_at": "2026-10-16T18:05:46+00:00"
+      },
+      "insight": {
+        "title_ko": "신경망 학습과 뉴런 해석 가능성에 대한 새로운 시각",
+        "summary_ko": [
+          "최근 에세이에 따르면 현대 LLM과 비전 모델의 뉴런은 무작위가 아닌 뚜렷한 단일 역할을 수행하며 해석 가능성이 훨씬 높아졌습니다.",
+          "모델 규모가 커질수록 뉴런의 기능 분리가 명확해져 복잡한 디코더 없이도 모델 내부를 직접 연구할 수 있다는 가능성이 제기되었습니다.",
+          "이러한 직접적인 모델 이해는 AI 안전성과 정렬 문제 해결에 큰 영향을 미칠 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x7msmj",
+        "title": "Tyger: open-weights streaming ASR + full-duplex turn-control in one model",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x7msmj/tyger_openweights_streaming_asr_fullduplex/",
+        "author": "/u/ylankgz",
+        "published_at": "2026-10-16T17:42:26+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈웨이트 풀두플렉스 음성 에이전트 Tyger 공개",
+        "summary_ko": [
+          "실시간 음성 에이전트를 위한 스트리밍 ASR과 턴 제어를 결합한 오픈웨이트 모델 Tyger가 공개되었습니다.",
+          "이 모델은 NVIDIA Nemotron 3.5 기반에 GRU를 추가하여 마이크와 재생 음성을 동시에 처리하며 세 가지 상태를 판단합니다.",
+          "전체 에이전트 스택은 Gemma 4 E4B 및 VoxCPM2와 연동되어 RTX 5090 환경에서 로컬 구동이 가능합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
