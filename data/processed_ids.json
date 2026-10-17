@@ -7261,6 +7261,11 @@
       "title": "ainews here are 6 clones of jev in 2 days",
       "url": "latent.space/p/ainews-here-are-6-clones-of-jev-in"
     },
+    "rss:https://www.latent.space/p/ainews-high-taste-testers-ep-1": {
+      "at": "2026-10-17T12:12:02.941774+00:00",
+      "title": "ainews high taste testers ep 1",
+      "url": "latent.space/p/ainews-high-taste-testers-ep-1"
+    },
     "rss:https://www.latent.space/p/ainews-hot-chips-openais-jalapeno": {
       "at": "2026-08-27T04:07:33.744821+00:00",
       "title": "ainews hot chips openai s jalapeño cerebras cs 5 groq 3 lpx apple m6",
@@ -13395,6 +13400,11 @@
       "title": "10 things you maybe didn t know you can do with qwen 3 6 27b right now for noobs",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7uf15": {
+      "at": "2026-10-17T12:12:02.941862+00:00",
+      "title": "i don t get the qwen 3 8 flash next hype",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7uf15/i_dont_get_the_qwen_38_flash_next_hype"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7w7dp": {
       "at": "2026-10-17T06:57:41.769056+00:00",
       "title": "nvidia nvidia nemotron labs dory1 0 4b bf16 hugging face",
@@ -13404,6 +13414,16 @@
       "at": "2026-10-17T06:57:41.769104+00:00",
       "title": "llama cpp has come a long way",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x825su": {
+      "at": "2026-10-17T12:12:02.941820+00:00",
+      "title": "deepseek 4 1 flash 1017 incoming deepseek users report a possible v4 1 flash 1017 refresh across its api",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x84po4": {
+      "at": "2026-10-17T12:12:02.941842+00:00",
+      "title": "deepseek ai deepseek v4 1 flash 1017 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13841,6 +13861,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-17T06:57:41.769174+00:00",
+  "updated_at": "2026-10-17T12:12:02.941911+00:00",
   "version": 2
 }

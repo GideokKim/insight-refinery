@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-17T01:19:54.682073+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+        "title": "[AINews] High Taste Testers Ep. 1",
+        "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+        "author": null,
+        "published_at": "2026-10-17T07:47:38+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta의 Muse Spark Open 및 최신 AI 뉴스",
+        "summary_ko": [
+          "Meta는 816B 총 파라미터 규모의 MoE 구조를 가진 오픈웨이트 모델 Muse Spark Open을 공개했습니다.",
+          "이 모델은 텍스트, 이미지, 비디오, 오디오를 지원하며 미국 오픈웨이트 모델 중 가장 높은 Artificial Analysis 지수를 기록했습니다.",
+          "또한 Apache 2.0 라이선스로 배포된 Reflection Beam 1.0 등 다양한 최신 오픈 모델 정보와 생태계 동향이 다뤄졌습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x825su",
+        "title": "DeepSeek 4.1 Flash 1017 Incoming? --> DeepSeek users report a possible V4.1-Flash-1017 refresh across its API",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users/",
+        "author": "/u/chemist_slime",
+        "published_at": "2026-10-17T05:34:11+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek V4.1 Flash 1017 모델 출시",
+        "summary_ko": [
+          "DeepSeek 사용자들이 API를 통해 새로운 V4.1-Flash-1017 버전의 갱신을 보고했습니다.",
+          "작성자는 Hugging Face를 통해 DeepSeek-V4.1-Flash-1017 모델이 공식 공개되었다고 전했습니다.",
+          "이번 업데이트는 개발자 커뮤니티에서 큰 관심을 끌며 빠르게 확산되고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
