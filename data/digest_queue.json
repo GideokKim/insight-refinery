@@ -111,6 +111,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x89ptz",
+        "title": "Qwen 27B (IQ4_XS, Q8/Q4 KV) at full 262k context on a 16GB RX 9070 XT: 80+ t/s decode with Adaptive KV Streaming",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a/",
+        "author": "/u/bottlestreet3d",
+        "published_at": "2026-10-17T13:01:59+00:00"
+      },
+      "insight": {
+        "title_ko": "AMD GPU에서 Qwen 27B 262k 컨텍스트 구동",
+        "summary_ko": [
+          "llama.cpp에 적응형 KV 스트리밍과 ROCm 최적화를 적용하여 16GB VRAM의 RX 9070 XT에서 Qwen 27B 모델의 전체 262k 컨텍스트를 구동하는 데 성공했습니다.",
+          "호스트 RAM에 전체 KV 캐시를 유지하고 PCIe를 통해 작동 세트를 비동기로 스트리밍하여 VRAM 부족 문제를 해결했습니다.",
+          "다양한 커널 최적화와 추론 기법을 통해 262k 긴 문맥에서도 고속의 디코딩 및 프리필 성능을 달성했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

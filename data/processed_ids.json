@@ -7086,6 +7086,16 @@
       "title": "india becomes the latest country to report rogue ai agent activity",
       "url": "techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity"
     },
+    "rss:https://techcrunch.com/?p=3178934": {
+      "at": "2026-10-17T22:18:42.808995+00:00",
+      "title": "anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings"
+    },
+    "rss:https://techcrunch.com/?p=3178941": {
+      "at": "2026-10-17T22:18:42.808958+00:00",
+      "title": "meta removes language that raised scraping and ai training concerns",
+      "url": "techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -13435,6 +13445,16 @@
       "title": "deepseek 4 1 flash 1017 incoming deepseek users report a possible v4 1 flash 1017 refresh across its api",
       "url": "reddit.com/r/LocalLLaMA/comments/1x825su/deepseek_41_flash_1017_incoming_deepseek_users"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x83hz1": {
+      "at": "2026-10-17T22:18:42.809011+00:00",
+      "title": "nvdia s nemotron is guard railed to uselessness",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x83hz1/nvdias_nemotron_is_guard_railed_to_uselessness"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x84nhg": {
+      "at": "2026-10-17T22:18:42.808977+00:00",
+      "title": "for people worried about china export controls here s what it means for us regular folks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x84nhg/for_people_worried_about_china_export_controls"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x84po4": {
       "at": "2026-10-17T12:12:02.941842+00:00",
       "title": "deepseek ai deepseek v4 1 flash 1017 hugging face",
@@ -13449,6 +13469,11 @@
       "at": "2026-10-17T17:10:46.704580+00:00",
       "title": "nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping",
       "url": "reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x89ptz": {
+      "at": "2026-10-17T22:18:42.808913+00:00",
+      "title": "qwen 27b iq4_xs q8 q4 kv at full 262k context on a 16gb rx 9070 xt 80 t s decode with adaptive kv streaming",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x89ptz/qwen_27b_iq4_xs_q8q4_kv_at_full_262k_context_on_a"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8am0i": {
       "at": "2026-10-17T17:10:46.704561+00:00",
@@ -13906,6 +13931,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-17T19:26:11.400362+00:00",
+  "updated_at": "2026-10-17T22:18:42.809060+00:00",
   "version": 2
 }
