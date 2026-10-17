@@ -2761,6 +2761,11 @@
       "title": "basis completes a tax workbook 2x faster with gpt 6 astra",
       "url": "openai.com/index/basis-tax-workbook-with-astra"
     },
+    "rss:https://openai.com/index/benefit-street-partners": {
+      "at": "2026-10-17T06:57:41.769119+00:00",
+      "title": "benefit street partners answers questions faster with codex",
+      "url": "openai.com/index/benefit-street-partners"
+    },
     "rss:https://openai.com/index/better-prompt-caching-for-gpt-6": {
       "at": "2026-09-22T22:59:04.939925+00:00",
       "title": "better prompt caching for gpt 6",
@@ -13390,6 +13395,16 @@
       "title": "10 things you maybe didn t know you can do with qwen 3 6 27b right now for noobs",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7sq8e/10_things_you_maybe_didnt_know_you_can_do_with"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7w7dp": {
+      "at": "2026-10-17T06:57:41.769056+00:00",
+      "title": "nvidia nvidia nemotron labs dory1 0 4b bf16 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7w7dp/nvidianvidianemotronlabsdory104bbf16_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7xbf0": {
+      "at": "2026-10-17T06:57:41.769104+00:00",
+      "title": "llama cpp has come a long way",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7xbf0/llamacpp_has_come_a_long_way"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -13826,6 +13841,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-17T01:19:56.706011+00:00",
+  "updated_at": "2026-10-17T06:57:41.769174+00:00",
   "version": 2
 }
