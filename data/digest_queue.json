@@ -89,6 +89,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x8gtvs",
+        "title": "Opencode breached, rotate keys to be safe.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
+        "author": "/u/chemist_slime",
+        "published_at": "2026-10-17T18:02:37+00:00"
+      },
+      "insight": {
+        "title_ko": "Opencode 보안 침해 발생 및 키 교체 권고",
+        "summary_ko": [
+          "Opencode에 보안 침해 사고가 발생하여 사용자들의 주의가 요구되고 있습니다.",
+          "구체적인 세부 사항은 아직 개발 및 파악되는 단계에 있습니다.",
+          "잠재적인 보안 위협에 대비해 사용 중인 키를 교체하는 것이 안전합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -2676,6 +2676,11 @@
       "title": "90 of us working hours are spent on tasks not covered well by ai benchmarks",
       "url": "mercor.com/research/labor-index/benchmark-map"
     },
+    "rss:https://news.ycombinator.com/item?id=50132278": {
+      "at": "2026-10-17T19:26:11.400253+00:00",
+      "title": "amazon uses ai to monitor union risk in uk warehouses",
+      "url": "opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -13435,6 +13440,11 @@
       "title": "deepseek ai deepseek v4 1 flash 1017 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x865rk": {
+      "at": "2026-10-17T19:26:11.400303+00:00",
+      "title": "otaku an llm frontend for creative writing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x865rk/otaku_an_llm_frontend_for_creative_writing"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x88txd": {
       "at": "2026-10-17T17:10:46.704580+00:00",
       "title": "nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping",
@@ -13454,6 +13464,11 @@
       "at": "2026-10-17T17:10:46.704596+00:00",
       "title": "linux creator says anti ai rules are idiotic absolute god tier take",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8gtvs": {
+      "at": "2026-10-17T19:26:11.400207+00:00",
+      "title": "opencode breached rotate keys to be safe",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -13891,6 +13906,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-17T17:10:46.704662+00:00",
+  "updated_at": "2026-10-17T19:26:11.400362+00:00",
   "version": 2
 }
