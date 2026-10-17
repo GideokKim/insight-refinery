@@ -3024,6 +3024,11 @@
       "title": "how invideo improves color grading 3x with gpt 6 astra",
       "url": "openai.com/index/invideo-builds-with-gpt-6-astra"
     },
+    "rss:https://openai.com/index/itau-generative-ai": {
+      "at": "2026-10-17T01:19:56.705850+00:00",
+      "title": "how itaú is building generative ai for its entire customer base",
+      "url": "openai.com/index/itau-generative-ai"
+    },
     "rss:https://openai.com/index/jalapeno-first-results": {
       "at": "2026-08-25T17:21:53.012020+00:00",
       "title": "jalapeño s first results show industry leading speed and efficiency in ai inference",
@@ -13375,6 +13380,11 @@
       "title": "research 2 788 tokens s on a single rtx 5090 with a diffusion llm introducing orl fully open source",
       "url": "reddit.com/r/LocalLLaMA/comments/1x7polk/research_2788_tokenss_on_a_single_rtx_5090_with_a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7sbxs": {
+      "at": "2026-10-17T01:19:56.705917+00:00",
+      "title": "dario with open source you can see the source code here we can t see inside the model my 0 646 t s mimo 2 6 pro crammed thru 128gb of jetson agx thor yeah well that s just like your opinion man",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x7sbxs/dario_with_open_source_you_can_see_the_source"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x7sq8e": {
       "at": "2026-10-16T22:52:10.810062+00:00",
       "title": "10 things you maybe didn t know you can do with qwen 3 6 27b right now for noobs",
@@ -13816,6 +13826,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-16T22:52:10.810168+00:00",
+  "updated_at": "2026-10-17T01:19:56.706011+00:00",
   "version": 2
 }
