@@ -23,6 +23,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3178949",
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "author": "Anthony Ha",
+        "published_at": "2026-10-18T16:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "디즈니, 파산한 Character.AI 인력 대거 고용",
+        "summary_ko": [
+          "챗봇 스타트업 Character.AI가 파산 절차를 밟은 가운데 디즈니가 이들의 인력 대부분을 고용하기로 합의했습니다.",
+          "전 Character.AI CEO인 Karandeep Anand가 최근 디즈니의 첫 CTO로 합류한 바 있습니다.",
+          "디즈니는 앞서 2천만 달러 규모의 Character.AI 일부 자산 인수에도 합의한 바 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+        "title": "Anthropic gives outside AI watchdog “employee-like” access",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+        "author": "Cristina Criddle, Financial Times",
+        "published_at": "2026-10-18T16:25:19+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, 외부 AI 감시 기관에 임직원 수준 접근 권한 부여",
+        "summary_ko": [
+          "Anthropic은 AI 모델의 위험성을 평가하기 위해 비영리 외부 평가 기관인 METR에 임직원 수준의 접근 권한을 부여했다.",
+          "METR 팀은 Claude 개발사 사무실에 상주하며 하드웨어와 내부 시스템에 접근하여 안전성을 검증하게 된다.",
+          "이번 조치는 고성능 AI 시스템이 야기할 수 있는 경제 및 사이버 보안 위험에 대응하기 위한 구체적인 안전장치 강화 조치이다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50141429",
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "author": "f-serif",
+        "published_at": "2026-10-18T14:30:27+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic의 AI 안전 법안 제안",
+        "summary_ko": [
+          "Anthropic이 제안한 새로운 AI 안전 법안은 50명 이상의 사망자나 10억 달러 이상의 피해가 발생할 경우에만 적용된다.",
+          "이 제안은 상무부를 AI 모델을 중단시킬 수 있는 유일한 기관으로 지정하는 내용을 담고 있다.",
+          "해당 법안의 구체적인 기준과 규제 권한을 두고 업계와 전문가들의 관심이 집중되고 있다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

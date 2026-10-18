@@ -245,6 +245,11 @@
       "title": "ai glasses face their first major government crackdown",
       "url": "arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown"
     },
+    "rss:https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/": {
+      "at": "2026-10-18T17:23:41.751172+00:00",
+      "title": "anthropic gives outside ai watchdog employee like access",
+      "url": "arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access"
+    },
     "rss:https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/": {
       "at": "2026-10-13T20:18:11.652180+00:00",
       "title": "gemini 4 argon begins rolling out in gemini app and antigravity but only if you pay",
@@ -2685,6 +2690,16 @@
       "at": "2026-10-18T12:37:28.623812+00:00",
       "title": "show hn sphinx a hook that quizzes you on your ai s code before shipping",
       "url": "sphinx-six-theta.vercel.app/"
+    },
+    "rss:https://news.ycombinator.com/item?id=50141429": {
+      "at": "2026-10-18T17:23:41.751184+00:00",
+      "title": "anthropic s proposed ai safety bill only kicks in if 50 deaths or 1b in damages",
+      "url": "tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model"
+    },
+    "rss:https://news.ycombinator.com/item?id=50141657": {
+      "at": "2026-10-18T17:23:41.751196+00:00",
+      "title": "websites are closing their doors to ai agents",
+      "url": "theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -7110,6 +7125,11 @@
       "at": "2026-10-17T22:18:42.808958+00:00",
       "title": "meta removes language that raised scraping and ai training concerns",
       "url": "techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
+    },
+    "rss:https://techcrunch.com/?p=3178949": {
+      "at": "2026-10-18T17:23:41.751126+00:00",
+      "title": "disney agrees to hire the majority of character ai s workforce",
+      "url": "techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -13510,6 +13530,11 @@
       "title": "opencode breached rotate keys to be safe",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8i1h2": {
+      "at": "2026-10-18T17:23:41.751254+00:00",
+      "title": "older models for technical writing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8i1h2/older_models_for_technical_writing"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8kces": {
       "at": "2026-10-18T07:14:20.994330+00:00",
       "title": "fish audio drama 3 says it needs a 48 gb nvidia card my 16 gb radeon disagrees",
@@ -13519,6 +13544,16 @@
       "at": "2026-10-18T12:37:28.623870+00:00",
       "title": "deepseek v4 1 flash 1017 gguf abliterated",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8ke24/deepseek_v41_flash_1017_gguf_abliterated"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8koix": {
+      "at": "2026-10-18T17:23:41.751229+00:00",
+      "title": "deepseek v4 1 flash 1017 support for ds4 pr 1225 antirez ds4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8koix/deepseek_v41_flash_1017_support_for_ds4_pr_1225"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8l18e": {
+      "at": "2026-10-18T17:23:41.751216+00:00",
+      "title": "32gb to 64gb of ram took qwen3 8 flash next from iq2_xs 2 bit to unsloth ud iq4_xs 4 bit on a single 4090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8l18e/32gb_to_64gb_of_ram_took_qwen38flashnext_from_iq2"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8ley0": {
       "at": "2026-10-18T01:02:46.110673+00:00",
@@ -13549,6 +13584,16 @@
       "at": "2026-10-18T07:14:20.994284+00:00",
       "title": "deepseek v4 1 flash 1017 for dwarfstar ds4",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8uqig": {
+      "at": "2026-10-18T17:23:41.751245+00:00",
+      "title": "what are the odds qwen 4 models are going to think less",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8uqig/what_are_the_odds_qwen_4_models_are_going_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8v7cp": {
+      "at": "2026-10-18T17:23:41.751205+00:00",
+      "title": "ling 3 1 flash 560b moe loaded across 4 dgx sparks using llama cpp rpc",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8wmbp": {
       "at": "2026-10-18T12:37:28.623741+00:00",
@@ -13991,6 +14036,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-18T12:37:28.623937+00:00",
+  "updated_at": "2026-10-18T17:23:41.751292+00:00",
   "version": 2
 }
