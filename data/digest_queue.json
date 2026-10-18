@@ -89,6 +89,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x8qlvw",
+        "title": "Nine models, five coding tasks, one 16GB GPU",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8qlvw/nine_models_five_coding_tasks_one_16gb_gpu/",
+        "author": "/u/Ok_Substance2327",
+        "published_at": "2026-10-18T01:22:03+00:00"
+      },
+      "insight": {
+        "title_ko": "16GB GPU에서 코딩 모델 10종 벤치마크",
+        "summary_ko": [
+          "16GB VRAM을 가진 단일 RX 9060 XT GPU에서 10개의 LLM을 대상으로 5가지 고난도 코딩 작업을 테스트했습니다.",
+          "각 모델은 자체 테스트 수행 및 파일 생성 능력을 평가받았으며, 알고리즘과 성능 게이트에 따라 성과가 크게 갈렸습니다.",
+          "일부 로컬 양자화 모델과 클라우드 모델이 고유의 아키텍처적 강점을 바탕으로 우수한 점수를 기록했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x8q6t6",
+        "title": "DeepSeek V4.1 Flash 1017 on 2x DGX Spark: 57 tok/s text, 92 tok/s code with TensorFold (2.1-2.3x the vLLM kit)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8q6t6/deepseek_v41_flash_1017_on_2x_dgx_spark_57_toks/",
+        "author": "/u/shayanx45",
+        "published_at": "2026-10-18T01:00:38+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek V4.1 Flash 추론 성능 벤치마크",
+        "summary_ko": [
+          "2대의 DGX Spark 환경에서 TensorFold를 활용한 DeepSeek V4.1 Flash 1017 모델의 추론 성능이 공개되었습니다.",
+          "TensorFold 엔진은 동일한 조건의 vLLM 대비 텍스트와 코드 생성에서 2.1배에서 2.3배 빠른 속도를 기록했습니다.",
+          "프리필 및 프롬프트 캐시 유지 성능도 대폭 향상되어 로컬 환경에서의 실무 활용성이 높아졌습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x8q308",
+        "title": "Follow-up: Tested my 9 thinking rules on long-horizon agent tasks (Terminal-Bench 2.0)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8q308/followup_tested_my_9_thinking_rules_on/",
+        "author": "/u/PilgrimofHaqq2",
+        "published_at": "2026-10-18T00:55:24+00:00"
+      },
+      "insight": {
+        "title_ko": "LLM 에이전트 태스크 수행을 위한 사고 규칙 테스트",
+        "summary_ko": [
+          "작성자는 장기 에이전트 작업인 Terminal-Bench 2.0에서 자신이 고안한 9가지 사고 규칙의 성능을 테스트했습니다.",
+          "GLM-5.3-Flash 모델에 해당 규칙을 적용한 결과, 규칙이 없는 경우보다 점수가 59.6%로 향상되었습니다.",
+          "이번 실험은 불필요한 반복 사고를 줄이고 명확한 근거 기반으로 수정하는 규칙이 실무 에이전트 효율에 도움이 됨을 보여줍니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x8piwz",
+        "title": "Basalt: NVFP4 + faster prefill for Qwen3.8 Flash-Next on Blackwell (single 5090)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8piwz/basalt_nvfp4_faster_prefill_for_qwen38_flashnext/",
+        "author": "/u/jesdga95",
+        "published_at": "2026-10-18T00:26:36+00:00"
+      },
+      "insight": {
+        "title_ko": "Basalt, Blackwell 기반 NVFP4 및 프리필 성능 개선",
+        "summary_ko": [
+          "Basalt는 단일 RTX 5090 환경에서 Qwen3.8 Flash-Next 모델을 위한 NVFP4 네이티브 지원과 고속 프리필 기능을 구현했다.",
+          "새로운 .basalt 팩은 NVIDIA 전문가 가중치를 유지하고 밀집 레이어를 Q6_K로 저장하여 Q8_0 수준의 품질을 유지한다.",
+          "이 업데이트를 통해 기존 Infernix 대비 디코딩 성능은 최대 1.3배, 프리필 성능은 최대 1.6배 향상되었다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

@@ -7131,6 +7131,11 @@
       "title": "disney agrees to hire the majority of character ai s workforce",
       "url": "techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce"
     },
+    "rss:https://techcrunch.com/?p=3178960": {
+      "at": "2026-10-18T22:26:22.878114+00:00",
+      "title": "anthropic says it s committing 5 of its shares to a public benefit fund",
+      "url": "techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -13570,6 +13575,31 @@
       "title": "xolotl strata based deepseek v4 1 flash 552b on a single 4090 at 27 tok s uncensored 1017 quant coming in a couple of days",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8piwz": {
+      "at": "2026-10-18T22:26:22.878098+00:00",
+      "title": "basalt nvfp4 faster prefill for qwen3 8 flash next on blackwell single 5090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8piwz/basalt_nvfp4_faster_prefill_for_qwen38_flashnext"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8q308": {
+      "at": "2026-10-18T22:26:22.878080+00:00",
+      "title": "follow up tested my 9 thinking rules on long horizon agent tasks terminal bench 2 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8q308/followup_tested_my_9_thinking_rules_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8q6t6": {
+      "at": "2026-10-18T22:26:22.878056+00:00",
+      "title": "deepseek v4 1 flash 1017 on 2x dgx spark 57 tok s text 92 tok s code with tensorfold 2 1 2 3x the vllm kit",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8q6t6/deepseek_v41_flash_1017_on_2x_dgx_spark_57_toks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8qlvw": {
+      "at": "2026-10-18T22:26:22.878014+00:00",
+      "title": "nine models five coding tasks one 16gb gpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8qlvw/nine_models_five_coding_tasks_one_16gb_gpu"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8qvaj": {
+      "at": "2026-10-18T22:26:22.878197+00:00",
+      "title": "muse spark on m3u 256 gb",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8qvaj/muse_spark_on_m3u_256_gb"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8s73i": {
       "at": "2026-10-18T07:14:20.994316+00:00",
       "title": "you don t need that expensive of a build for local llms",
@@ -13580,10 +13610,20 @@
       "title": "autotrust s hf models are trending thanks to thousands of farmed likes",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8sq4z/autotrusts_hf_models_are_trending_thanks_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8st56": {
+      "at": "2026-10-18T22:26:22.878183+00:00",
+      "title": "3xrtx8000 48gb what to do",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8st56/3xrtx8000_48gb_what_to_do"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8tr2c": {
       "at": "2026-10-18T07:14:20.994284+00:00",
       "title": "deepseek v4 1 flash 1017 for dwarfstar ds4",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8tr2c/deepseek_v41_flash_1017_for_dwarfstar_ds4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8u6eg": {
+      "at": "2026-10-18T22:26:22.878168+00:00",
+      "title": "my 5070 ti 3070 chimera build",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8u6eg/my_5070_ti3070_chimera_build"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8uqig": {
       "at": "2026-10-18T17:23:41.751245+00:00",
@@ -13594,6 +13634,16 @@
       "at": "2026-10-18T17:23:41.751205+00:00",
       "title": "ling 3 1 flash 560b moe loaded across 4 dgx sparks using llama cpp rpc",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8v7cp/ling_31_flash_560b_moe_loaded_across_4_dgx_sparks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8v97a": {
+      "at": "2026-10-18T22:26:22.878149+00:00",
+      "title": "we all joke about our rigs being space heaters so i had qwen vibecode it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8v97a/we_all_joke_about_our_rigs_being_space_heaters_so"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8vl4i": {
+      "at": "2026-10-18T22:26:22.878136+00:00",
+      "title": "made sum crap that beats jev",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8vl4i/made_sum_crap_that_beats_jev"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8wmbp": {
       "at": "2026-10-18T12:37:28.623741+00:00",
@@ -14036,6 +14086,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-18T17:23:41.751292+00:00",
+  "updated_at": "2026-10-18T22:26:22.878242+00:00",
   "version": 2
 }
