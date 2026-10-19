@@ -680,6 +680,11 @@
       "title": "anthropic s claude ai submitted false murder tip to philadelphia police",
       "url": "arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/": {
+      "at": "2026-10-19T15:37:44.478437+00:00",
+      "title": "disney found a way to buy character ai without buying its lawsuits",
+      "url": "arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/": {
       "at": "2026-10-13T20:18:11.652282+00:00",
       "title": "disney offers 20m for character ai s scandal plagued chatbot tech",
@@ -13735,6 +13740,36 @@
       "title": "don t sleep on nemotron 3 5 super vl",
       "url": "reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9owju": {
+      "at": "2026-10-19T15:37:44.478570+00:00",
+      "title": "deepseek v4 1 flash 1017 on aa vals index",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9owju/deepseekv41flash1017_on_aa_vals_index"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9rq3r": {
+      "at": "2026-10-19T15:37:44.478556+00:00",
+      "title": "incoai qwen3 8 flash next dflash2",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9rq3r/incoaiqwen38flashnextdflash2"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9skrx": {
+      "at": "2026-10-19T15:37:44.478518+00:00",
+      "title": "ai labs report benchmark scores 6 4 higher than independent testers on average",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9skrx/ai_labs_report_benchmark_scores_64_higher_than"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9suvs": {
+      "at": "2026-10-19T15:37:44.478588+00:00",
+      "title": "minimax m3 1 flash is coming",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9tbg2": {
+      "at": "2026-10-19T15:37:44.478501+00:00",
+      "title": "llama server s default port changed from 8080 to 9931",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9tbg2/llama_servers_default_port_changed_from_8080_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9uzv9": {
+      "at": "2026-10-19T15:37:44.478477+00:00",
+      "title": "minimax m3 1 flash released model weights oct 23",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -14169,8 +14204,13 @@
       "at": "2026-10-13T12:46:02.982298+00:00",
       "title": "open models have real benefits do they outweigh the risks",
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
+    },
+    "rss:https://www.technologyreview.com/?p=1147095": {
+      "at": "2026-10-19T15:37:44.478535+00:00",
+      "title": "ai researchers stranded claude on a virtual desert island it started to play",
+      "url": "technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"
     }
   },
-  "updated_at": "2026-10-19T07:46:42.832043+00:00",
+  "updated_at": "2026-10-19T15:37:44.478634+00:00",
   "version": 2
 }

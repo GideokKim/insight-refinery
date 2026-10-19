@@ -111,6 +111,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+        "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+        "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+        "author": "Maddy Varner",
+        "published_at": "2026-10-19T14:45:43+00:00"
+      },
+      "insight": {
+        "title_ko": "디즈니, 소송을 제외한 Character.AI 우회 인수",
+        "summary_ko": [
+          "Character.AI가 파산 신청을 한 배경은 디즈니와의 인수를 위한 사전 조율 과정이었던 것으로 밝혀졌다.",
+          "디즈니는 법적 책임과 소송을 떠안지 않으면서 전 CEO를 포함한 핵심 인재와 기술 자산을 확보하는 데 성공했다.",
+          "남겨진 법적 책임과 진행 중인 소송은 파산 절차를 통해 해결되도록 구조화되었다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
