@@ -3807,6 +3807,16 @@
       "title": "web edit 0 1a2",
       "url": "simonwillison.net/2026/Oct/17/web-edit"
     },
+    "rss:https://simonwillison.net/2026/Oct/18/llm-echo/": {
+      "at": "2026-10-19T01:16:45.382367+00:00",
+      "title": "llm echo 0 5",
+      "url": "simonwillison.net/2026/Oct/18/llm-echo"
+    },
+    "rss:https://simonwillison.net/2026/Oct/18/llm-tools-datasette/": {
+      "at": "2026-10-19T01:16:45.382427+00:00",
+      "title": "llm tools datasette 0 1 1",
+      "url": "simonwillison.net/2026/Oct/18/llm-tools-datasette"
+    },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
       "title": "rex s dino store",
@@ -14086,6 +14096,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-18T22:26:22.878242+00:00",
+  "updated_at": "2026-10-19T01:16:45.382480+00:00",
   "version": 2
 }
