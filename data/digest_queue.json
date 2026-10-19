@@ -133,6 +133,226 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3179099",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "author": "Julie Bort",
+        "published_at": "2026-10-19T20:09:24+00:00"
+      },
+      "insight": {
+        "title_ko": "아마존, 엔비디아에 대항할 TorchNeuron 개발 도구 공개",
+        "summary_ko": [
+          "아마존이 PyTorch 기반 AI 애플리케이션 시장에서 엔비디아의 독점을 깨기 위한 새로운 개발 도구인 TorchNeuron을 선보였다.",
+          "이 도구는 개발자들이 엔비디아 칩 대신 아마존의 자체 칩을 활용하여 AI 앱을 구동할 수 있도록 지원하는 것을 목표로 한다.",
+          "이번 행보는 클라우드 및 AI 하드웨어 시장에서 자사 칩의 점유율을 높이기 위한 아마존의 가장 강력한 시도로 평가된다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3179164",
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "author": "Aditya Mehta",
+        "published_at": "2026-10-19T19:28:34+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 코딩 도구 OpenCode 해킹 및 API 키 유출 사건",
+        "summary_ko": [
+          "인기 오픈소스 AI 코딩 에이전트인 OpenCode가 해커들의 공격을 받아 일부 사용자의 API 키가 유출되었습니다.",
+          "이번 보안 사고로 인해 피해 사용자들은 자신들의 AI 계정에서 과도한 요금이 청구되는 피해를 입었습니다.",
+          "해커들이 악용한 악성 코드에 대해 연동된 AI 도구들은 분석을 거부한 것으로 나타났습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3179171",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "author": "Marina Temkin",
+        "published_at": "2026-10-19T18:37:27+00:00"
+      },
+      "insight": {
+        "title_ko": "Tenstorrent, 62억 달러 가치로 대규모 투자 유치",
+        "summary_ko": [
+          "엔비디아의 대항마로 꼽히는 Tenstorrent가 독립 유지를 위해 15억 달러의 투자를 유치했다.",
+          "이번 투자로 회사의 기업 가치는 62억 달러에 달하며 오픈 웨이트 AI 칩 확장에 나선다.",
+          "올해 초 인수합병 관심이 집중된 이후 독립적인 행보를 이어가고 있다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1147186",
+        "title": "Making the internet better for AI agents might make it worse for everyone else",
+        "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+        "author": "James O'Donnell",
+        "published_at": "2026-10-19T18:22:47+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트 확산에 따른 인터넷 환경 변화",
+        "summary_ko": [
+          "개인용 AI 에이전트의 급증으로 인해 인간 중심이었던 인터넷 환경이 큰 변화를 맞이하고 있습니다.",
+          "일부 웹사이트와 플랫폼은 트래픽 혼잡과 보안 문제로 AI 에이전트의 접근을 차단하고 있습니다.",
+          "에이전트 중심의 인터넷 재편은 향후 일반 인간 사용자들에게 더 큰 불편을 초래할 수 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1147149",
+        "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+        "author": "Will Douglas Heaven",
+        "published_at": "2026-10-19T17:45:55+00:00"
+      },
+      "insight": {
+        "title_ko": "신경망 이해에 관한 새로운 가설",
+        "summary_ko": [
+          "스타트업 Goodfire의 연구원 닉 카마라타는 LLM을 이전보다 훨씬 쉽게 이해하고 통제할 수 있다는 파격적인 주장을 담은 블로그 글을 공개했습니다.",
+          "기존에는 신경망 내부가 복잡하게 얽혀 있어 분석이 불가능에 가깝다고 여겨졌으나, 이번 주장은 AI 업계에 큰 파장과 기대감을 불러일으켰습니다.",
+          "일부 학자들은 이를 과학적 대발견으로 평가한 반면, 여전히 단순한 가설에 불과하다며 회의적인 시각을 보내는 전문가들도 존재합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123793",
+        "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+        "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-10-19T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA CUDA Tile을 활용한 Mamba-2 가속",
+        "summary_ko": [
+          "NVIDIA CUDA Tile은 GPU 하드웨어 성능을 극대화하는 Python 기반의 병렬 프로그래밍 모델 및 DSL입니다.",
+          "이 기술은 고수준의 타일 중심 프리미티브를 통해 스레드 및 워프 수준의 스케줄링을 추상화합니다.",
+          "개발자는 Python으로 GPU 커널을 작성할 수 있으며 컴파일러 최적화를 통해 최고 성능을 이끌어낼 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xa0cyz",
+        "title": "llama.cpp support for Cohere models",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
+        "author": "/u/nick_frosst",
+        "published_at": "2026-10-19T15:43:29+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp의 Cohere 모델 지원 확대",
+        "summary_ko": [
+          "Cohere는 커뮤니티의 피드백을 반영하여 최신 모델 아키텍처에 대한 llama.cpp 지원을 완료했다고 밝혔습니다.",
+          "특히 North Micro Vision Instruct의 비전 인코더에 대한 llama.cpp 지원이 최근 병합되어 모든 최신 모델이 호환됩니다.",
+          "또한 Cohere Transcribe가 Unsloth 및 Unsloth Studio에 추가되어 파인튜닝이 가능해졌습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3177977",
+        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+        "author": "Julie Bort",
+        "published_at": "2026-10-19T15:37:09+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia, 기업 및 PC용 신규 오픈 모델 출시",
+        "summary_ko": [
+          "Nvidia가 기업용 데이터센터와 개인용 PC에서 AI 에이전트를 구동할 수 있는 새로운 오픈 모델들을 출시했습니다.",
+          "이번 행보는 자체 데이터센터에서 오픈 모델을 직접 운영하려는 기업들의 수요를 적극 공략하기 위한 것입니다.",
+          "온디바이스 환경에서 프라이빗 AI 에이전트의 활용도를 높이는 데 중요한 역할을 할 것으로 기대됩니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x9yrfi",
+        "title": "inclusionAI releases Ming-3.0-audio-flash: 126B MoE / 6.5B active, audio understanding + speech output, MIT",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe/",
+        "author": "/u/BerryBlush_Rogers691",
+        "published_at": "2026-10-19T14:42:49+00:00"
+      },
+      "insight": {
+        "title_ko": "Ming-3.0-audio-flash 모델 공개",
+        "summary_ko": [
+          "inclusionAI는 텍스트와 오디오를 동시에 처리하여 텍스트와 음성을 출력하는 Ming-3.0-audio-flash를 공개했습니다.",
+          "이 모델은 126B 전체 파라미터와 6.5B 활성 파라미터를 가진 MoE 구조로 음성 인식, QA, 장시간 녹음 이해 등을 지원합니다.",
+          "MIT 라이선스로 배포되었으며 Transformers, SGLang, vLLM-Omni 등을 통한 로컬 배포 경로를 제공합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/hf-torchneuron",
+        "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "url": "https://huggingface.co/blog/hf-torchneuron",
+        "author": null,
+        "published_at": "2026-10-19T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "AWS Trainium에서 허깅페이스 모델 실행 지원",
+        "summary_ko": [
+          "Hugging Face는 AWS Trainium에서 모델을 실행하기 위한 TorchNeuron 통합을 개선했습니다.",
+          "이번 업데이트를 통해 개발자들은 AWS의 AI 전용 칩에서 허깅페이스 모델을 더 쉽게 활용할 수 있습니다.",
+          "실무 환경에서 비용 효율적인 AI 모델 학습과 추론을 수행하는 데 중요한 참고 자료가 됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

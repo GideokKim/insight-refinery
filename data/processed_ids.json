@@ -370,6 +370,11 @@
       "title": "pocket s ai made my game ideas real now meta controls the results",
       "url": "arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results"
     },
+    "rss:https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/": {
+      "at": "2026-10-19T21:34:08.060869+00:00",
+      "title": "ai game clones are making indie developers afraid to show their work",
+      "url": "arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work"
+    },
     "rss:https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/": {
       "at": "2026-10-14T23:14:43.979015+00:00",
       "title": "epic says its new vibe coded epic games launcher is faster than steam",
@@ -669,6 +674,11 @@
       "at": "2026-09-18T17:41:47.674352+00:00",
       "title": "us government website used chinese model the fbi called malicious",
       "url": "arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/": {
+      "at": "2026-10-19T21:34:08.060849+00:00",
+      "title": "accused openai spy had folder called saudi gov docs fbi says",
+      "url": "arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/": {
       "at": "2026-10-02T21:20:25.655768+00:00",
@@ -1260,6 +1270,11 @@
       "title": "nvidia nemotron 3 5 super vl powers specialized agents with multimodal reasoning",
       "url": "developer.nvidia.com/blog/nvidia-nemotron-3-5-super-vl-powers-specialized-agents-with-multimodal-reasoning"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123793": {
+      "at": "2026-10-19T21:34:08.060800+00:00",
+      "title": "accelerating mamba 2 with high performance forward pass kernels in nvidia cuda tile",
+      "url": "developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile"
+    },
     "rss:https://developer.nvidia.com/blog/?p=123865": {
       "at": "2026-10-16T18:08:12.779734+00:00",
       "title": "code test and deploy on one machine with nvidia rtx spark",
@@ -1429,6 +1444,11 @@
       "at": "2026-09-03T12:20:09.600120+00:00",
       "title": "fine tuning a 350m model for better structured outputs in 100 grpo steps",
       "url": "huggingface.co/blog/grpo-with-trl-ifstruct"
+    },
+    "rss:https://huggingface.co/blog/hf-torchneuron": {
+      "at": "2026-10-19T21:34:08.060841+00:00",
+      "title": "torchneuron running hf models on aws trainium is easier than ever",
+      "url": "huggingface.co/blog/hf-torchneuron"
     },
     "rss:https://huggingface.co/blog/ibm-granite/granite-4-2": {
       "at": "2026-08-25T17:21:53.012144+00:00",
@@ -2696,6 +2716,11 @@
       "title": "show hn sphinx a hook that quizzes you on your ai s code before shipping",
       "url": "sphinx-six-theta.vercel.app/"
     },
+    "rss:https://news.ycombinator.com/item?id=50140462": {
+      "at": "2026-10-19T21:34:08.060901+00:00",
+      "title": "how far will ai assistants go for a refund they can t get",
+      "url": "vals.ai/blogs/impossible-refund"
+    },
     "rss:https://news.ycombinator.com/item?id=50141429": {
       "at": "2026-10-18T17:23:41.751184+00:00",
       "title": "anthropic s proposed ai safety bill only kicks in if 50 deaths or 1b in damages",
@@ -2705,6 +2730,16 @@
       "at": "2026-10-18T17:23:41.751196+00:00",
       "title": "websites are closing their doors to ai agents",
       "url": "theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+    },
+    "rss:https://news.ycombinator.com/item?id=50151036": {
+      "at": "2026-10-19T21:34:08.060885+00:00",
+      "title": "ask hn how to deal with shipping ai written code you don t understand",
+      "url": "news.ycombinator.com/item?id=50151036"
+    },
+    "rss:https://news.ycombinator.com/item?id=50151928": {
+      "at": "2026-10-19T21:34:08.060877+00:00",
+      "title": "show hn qwen3 4b with the ai writing tics trained out",
+      "url": "100toolkit.com/blog/deslop-model"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -7061,6 +7096,11 @@
       "title": "ricursive intelligence is betting on ai designed chips to help solve the compute crisis",
       "url": "techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
     },
+    "rss:https://techcrunch.com/?p=3177977": {
+      "at": "2026-10-19T21:34:08.060819+00:00",
+      "title": "nvidia launches new open models to run agents in the enterprise and on pcs",
+      "url": "techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+    },
     "rss:https://techcrunch.com/?p=3178027": {
       "at": "2026-10-15T18:20:26.786887+00:00",
       "title": "techcrunch disrupt 2026 last day",
@@ -7150,6 +7190,36 @@
       "at": "2026-10-18T22:26:22.878114+00:00",
       "title": "anthropic says it s committing 5 of its shares to a public benefit fund",
       "url": "techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"
+    },
+    "rss:https://techcrunch.com/?p=3179051": {
+      "at": "2026-10-19T21:34:08.060920+00:00",
+      "title": "people are using ai to make their smart tvs dumb again",
+      "url": "techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again"
+    },
+    "rss:https://techcrunch.com/?p=3179099": {
+      "at": "2026-10-19T21:34:08.060709+00:00",
+      "title": "amazon is taking its biggest shot at nvidia yet with new torchneuron dev tool",
+      "url": "techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
+    },
+    "rss:https://techcrunch.com/?p=3179141": {
+      "at": "2026-10-19T21:34:08.060911+00:00",
+      "title": "tolan snags 30m for its ai companion that helps users navigate life",
+      "url": "techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life"
+    },
+    "rss:https://techcrunch.com/?p=3179164": {
+      "at": "2026-10-19T21:34:08.060747+00:00",
+      "title": "hackers hit ai coding tool opencode running up charges on users ai accounts",
+      "url": "techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
+    },
+    "rss:https://techcrunch.com/?p=3179171": {
+      "at": "2026-10-19T21:34:08.060766+00:00",
+      "title": "tenstorrent hits 6 2b valuation to scale open weight ai chips",
+      "url": "techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
+    },
+    "rss:https://techcrunch.com/?p=3179172": {
+      "at": "2026-10-19T21:34:08.060859+00:00",
+      "title": "replika s founder built the ai assistant she pitched at disrupt 12 years ago",
+      "url": "techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -13770,6 +13840,26 @@
       "title": "minimax m3 1 flash released model weights oct 23",
       "url": "reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9yrfi": {
+      "at": "2026-10-19T21:34:08.060829+00:00",
+      "title": "inclusionai releases ming 3 0 audio flash 126b moe 6 5b active audio understanding speech output mit",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9yrfi/inclusionai_releases_ming30audioflash_126b_moe"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9yvgw": {
+      "at": "2026-10-19T21:34:08.060927+00:00",
+      "title": "ista daslab qwen3 8 flash next gsq rco coder gguf updated",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xa0cyz": {
+      "at": "2026-10-19T21:34:08.060808+00:00",
+      "title": "llama cpp support for cohere models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xa7hi8": {
+      "at": "2026-10-19T21:34:08.060936+00:00",
+      "title": "let s delve into the tapestry of ai slop on r localllama",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -14209,8 +14299,18 @@
       "at": "2026-10-19T15:37:44.478535+00:00",
       "title": "ai researchers stranded claude on a virtual desert island it started to play",
       "url": "technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"
+    },
+    "rss:https://www.technologyreview.com/?p=1147149": {
+      "at": "2026-10-19T21:34:08.060788+00:00",
+      "title": "we were looking at it wrong the explosive claim that s upended the ai world",
+      "url": "technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"
+    },
+    "rss:https://www.technologyreview.com/?p=1147186": {
+      "at": "2026-10-19T21:34:08.060778+00:00",
+      "title": "making the internet better for ai agents might make it worse for everyone else",
+      "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-19T15:37:44.478634+00:00",
+  "updated_at": "2026-10-19T21:34:08.060970+00:00",
   "version": 2
 }
