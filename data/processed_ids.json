@@ -13660,6 +13660,81 @@
       "title": "told qwen3 8 27b to hack my router",
       "url": "reddit.com/r/LocalLLaMA/comments/1x8wmbp/told_qwen38_27b_to_hack_my_router"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8yc8d": {
+      "at": "2026-10-19T07:46:42.831930+00:00",
+      "title": "agens volundr 32b v1 we fixed what you flagged in the preview 0 50 loops session continuation and an mit engine that runs it with 262k context measured to 239k within a 16 gb budget",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8yc8d/agens_volundr_32b_v1_we_fixed_what_you_flagged_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8za17": {
+      "at": "2026-10-19T07:46:42.832017+00:00",
+      "title": "buying strix halo right now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8za17/buying_strix_halo_right_now"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x8zj9j": {
+      "at": "2026-10-19T07:46:42.831992+00:00",
+      "title": "new quant types suggested iq2_k iq3_k iq4_k iq5_k and iq6_k",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x8zj9j/new_quant_types_suggested_iq2_k_iq3_k_iq4_k_iq5_k"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x91svd": {
+      "at": "2026-10-19T07:46:42.832009+00:00",
+      "title": "two pallets of zotac rtx 5090 graphics cards worth 470 000 disappear at brazilian airport",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x92ejs": {
+      "at": "2026-10-19T07:46:42.831985+00:00",
+      "title": "auroraasr 1m releases",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x92ejs/auroraasr1m_releases"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x95491": {
+      "at": "2026-10-19T07:46:42.831999+00:00",
+      "title": "unsloth deepseek v4 1 flash 1017 gguf hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x98bby": {
+      "at": "2026-10-19T07:46:42.831978+00:00",
+      "title": "psa power limit your 5090s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x98bby/psa_power_limit_your_5090s"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9acj4": {
+      "at": "2026-10-19T07:46:42.831971+00:00",
+      "title": "embedding model can be used to search text inside image",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9acj4/embedding_model_can_be_used_to_search_text_inside"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9d23j": {
+      "at": "2026-10-19T07:46:42.831920+00:00",
+      "title": "72 hours four big open weights drops the only one that fits in 24gb came from nvidia of all companies",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9fc1x": {
+      "at": "2026-10-19T07:46:42.831914+00:00",
+      "title": "hybrid reasoning agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9fc1x/hybrid_reasoning_agents"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9gfnb": {
+      "at": "2026-10-19T07:46:42.831903+00:00",
+      "title": "google open sources harness2 for self improving ai agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9gfnb/google_open_sources_harness2_for_self_improving"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9hpb3": {
+      "at": "2026-10-19T07:46:42.831961+00:00",
+      "title": "little sweet room challenge strata fork qwen 3 8 fn nvfp4 deepseek harness",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9hpb3/little_sweet_room_challenge_strata_fork_qwen_38"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9lkh5": {
+      "at": "2026-10-19T07:46:42.831951+00:00",
+      "title": "nemotron 3 5 bolt is okayish for small multiuser setups",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9lkh5/nemotron_35_bolt_is_okayish_for_small_multiuser"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9mitw": {
+      "at": "2026-10-19T07:46:42.831866+00:00",
+      "title": "calling all gpus help us benchmark sonicboom v0 0 3 a compiler first ai runtime that beats llama cpp on decode",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9mitw/calling_all_gpus_help_us_benchmark_sonicboom_v003"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9mwmz": {
+      "at": "2026-10-19T07:46:42.831943+00:00",
+      "title": "don t sleep on nemotron 3 5 super vl",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9mwmz/dont_sleep_on_nemotron_35_super_vl"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -14096,6 +14171,6 @@
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     }
   },
-  "updated_at": "2026-10-19T01:16:45.382480+00:00",
+  "updated_at": "2026-10-19T07:46:42.832043+00:00",
   "version": 2
 }
