@@ -177,6 +177,204 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+        "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+        "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+        "author": null,
+        "published_at": "2026-10-20T18:17:47+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Cosmos3-H-Dreams 임상 수술 시뮬레이션 공개",
+        "summary_ko": [
+          "NVIDIA가 생성형 시뮬레이션을 통해 임상 수술 분야를 구현하는 Cosmos3-H-Dreams를 발표했습니다.",
+          "이 모델은 의료 및 수술 환경을 가상으로 시뮬레이션하여 관련 AI 연구와 실무에 활용될 수 있습니다.",
+          "헬스케어 및 로보틱스 분야에서 생성형 AI의 적용 범위를 넓히는 중요한 기술적 진전을 보여줍니다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+        "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+        "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-10-20T17:40:20+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta, AI 학습용 토렌트 다운로드 책임자 공개 명령",
+        "summary_ko": [
+          "Meta는 AI 학습을 위해 불법 도서 자료를 다운로드한 책임을 실무 직원들에게 전가하려 한다는 비판을 받았습니다.",
+          "법원은 Meta에게 Anna's Archive 등에서 저작물 수집을 승인한 임원진의 명단을 명확히 밝히도록 명령했습니다.",
+          "이번 판결로 초기 AI 학습 데이터셋 구축 과정에서 불법 다운로드를 승인한 상급자와 경영진의 책임이 드러날 전망입니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1146937",
+        "title": "The new economics of enterprise AI",
+        "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+        "author": "David Sydow",
+        "published_at": "2026-10-20T15:20:25+00:00"
+      },
+      "insight": {
+        "title_ko": "기업용 AI 도입의 새로운 경제학과 비용 효율성",
+        "summary_ko": [
+          "엔터프라이즈 AI는 단순한 실험 단계를 넘어 비즈니스의 인프라로 자리 잡으며 효율성 중심의 전환기를 맞이하고 있습니다.",
+          "핵심 지표는 단순한 토큰 비용이 아니라 유용한 비즈니스 성과를 창출하는 데 드는 실질적인 단위당 비용입니다.",
+          "인프라 보유 자체만으로는 경제성이 담보되지 않으며, 적절한 운영 규율과 통합 스택을 통해 리소스를 효율적으로 활용해야 합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+        "author": null,
+        "published_at": "2026-10-20T15:19:48+00:00"
+      },
+      "insight": {
+        "title_ko": "ALTK-Evolve의 고객 서비스 벤치마크 1위 달성",
+        "summary_ko": [
+          "최첨단 대형 모델 없이도 학습된 메모리 기술을 활용해 고객 서비스 작업의 τ²-bench 리더보드 1위를 기록했습니다.",
+          "IBM Research와 Hugging Face 등에서 공개한 ALTK-Evolve는 효율적인 메모리 학습 방식을 도입한 것이 핵심입니다.",
+          "프론티어 모델 의존도를 낮추면서도 실무 성능을 극대화할 수 있는 새로운 접근법을 제시합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xatxqk",
+        "title": "Qwen3.8-Flash-Next vs Opus 5.5: Six-way benchmark on a real Rust feature with Claude Code and Pi",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a/",
+        "author": "/u/deepu105",
+        "published_at": "2026-10-20T14:40:52+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen3.8-Flash-Next와 Opus 5.5 코딩 벤치마크 비교",
+        "summary_ko": [
+          "본문은 실제 Rust 기능 구현 과제를 바탕으로 Qwen3.8-Flash-Next와 Opus 5.5의 성능을 통제된 환경에서 비교한 벤치마크 결과입니다.",
+          "Opus 5.5가 엣지 케이스와 테스트, 문서화 영역에서 더 우수한 코드를 작성했으나 핵심 기능 구현 격차는 크지 않았습니다.",
+          "로컬에서 구동한 Flash-Next는 매우 낮은 비용으로 Opus의 뒤를 바짝 쫓는 성능을 보여 실무적 활용 가능성을 입증했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xatebw",
+        "title": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-20T14:19:07+00:00"
+      },
+      "insight": {
+        "title_ko": "Ornith-1.5-122B 모델 공개",
+        "summary_ko": [
+          "Ornith-ai는 엔드투엔드 자기 개선 방식을 적용한 대규모 언어 모델 Ornith-1.5-122B를 새롭게 공개했습니다.",
+          "이 모델은 태스크 생성, 스캐폴드 구축, 솔루션 롤아웃을 공동으로 최적화하여 지속적인 성능 향상을 도모합니다.",
+          "인간이 큐레이션한 고정 데이터셋 의존도를 낮추고 강화학습을 통해 스스로 학습 태스크를 생성하고 정책을 개선합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xat6o7",
+        "title": "[Paper] The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-10-20T14:10:33+00:00"
+      },
+      "insight": {
+        "title_ko": "호스트 메모리를 활용하는 COUNT 방법론",
+        "summary_ko": [
+          "학습 파라미터 추가 없이 호스트 메모리에 사전 계산된 n-gram 빈도를 저장하는 COUNT 방법론을 제안합니다.",
+          "고정된 연산 예산 하에서 COUNT를 적용하면 검증 손실을 개선하여 연산량을 크게 늘린 모델과 유사한 성능을 냅니다.",
+          "추론 시 도메인별 n-gram 테이블을 교체하는 방식으로 별도의 학습 없이 새로운 태스크에 적응할 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "title": "OpenAI acquires Orchestra Bio",
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+        "author": null,
+        "published_at": "2026-10-20T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, 바이오텍 기업 Orchestra Bio 인수",
+        "summary_ko": [
+          "OpenAI가 생명과학 연구개발의 AI 기반 운영을 강화하기 위해 Orchestra Bio를 인수했습니다.",
+          "이번 인수를 통해 바이오파마 팀은 신약 개발 속도를 가속화하고 새로운 치료법 도입을 앞당길 수 있게 됩니다.",
+          "AI 기술이 제약 및 바이오 분야의 R&D 효율성을 높이는 데 실질적으로 활용될 전망입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/hf-torchtpu",
+        "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+        "url": "https://huggingface.co/blog/hf-torchtpu",
+        "author": null,
+        "published_at": "2026-10-20T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Hugging Face, TorchTPU 네이티브 지원 발표",
+        "summary_ko": [
+          "Hugging Face는 TorchTPU를 통한 Google TPU 네이티브 지원 소식을 블로그를 통해 공개했습니다.",
+          "이번 통합을 통해 사용자는 Hugging Face 생태계에서 Google TPU를 더욱 원활하게 활용할 수 있게 됩니다.",
+          "AI 실무에서 하드웨어 선택지가 다양화되고 가속기 연동 효율성이 향상될 것으로 기대됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

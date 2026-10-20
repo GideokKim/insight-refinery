@@ -360,6 +360,11 @@
       "title": "the 7 year old nvidia shield tv is now 100 more expensive due to ai",
       "url": "arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai"
     },
+    "rss:https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/": {
+      "at": "2026-10-20T18:32:12.065089+00:00",
+      "title": "ukraine s drone rescue of wounded soldier puts much touted idea into practice",
+      "url": "arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice"
+    },
     "rss:https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/": {
       "at": "2026-10-10T00:02:59.439129+00:00",
       "title": "ukraine s drones knock out ai data center belonging to russia s google",
@@ -719,6 +724,11 @@
       "at": "2026-10-16T18:08:12.779798+00:00",
       "title": "meta may use sweeping new commercial tos to avoid millions in ai licensing fees",
       "url": "arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/": {
+      "at": "2026-10-20T18:32:12.065010+00:00",
+      "title": "meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "url": "arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
       "at": "2026-10-14T13:44:30.949167+00:00",
@@ -1375,6 +1385,11 @@
       "title": "benchmirt what are llm benchmarks actually measuring",
       "url": "huggingface.co/blog/allenai/benchmirt"
     },
+    "rss:https://huggingface.co/blog/allenai/fairstress": {
+      "at": "2026-10-20T18:32:12.065105+00:00",
+      "title": "fairstress a deeper evaluation of fairness in llm decision making",
+      "url": "huggingface.co/blog/allenai/fairstress"
+    },
     "rss:https://huggingface.co/blog/allenai/hiro-acev2": {
       "at": "2026-10-14T18:40:13.644670+00:00",
       "title": "hiro acev2 simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -1460,6 +1475,11 @@
       "title": "torchneuron running hf models on aws trainium is easier than ever",
       "url": "huggingface.co/blog/hf-torchneuron"
     },
+    "rss:https://huggingface.co/blog/hf-torchtpu": {
+      "at": "2026-10-20T18:32:12.065081+00:00",
+      "title": "hugging face torchtpu tpus natively",
+      "url": "huggingface.co/blog/hf-torchtpu"
+    },
     "rss:https://huggingface.co/blog/ibm-granite/granite-4-2": {
       "at": "2026-08-25T17:21:53.012144+00:00",
       "title": "granite 4 2 llms how they re built",
@@ -1469,6 +1489,11 @@
       "at": "2026-10-15T23:04:57.242157+00:00",
       "title": "granite switch 4 1 chat decisions and speech from one endpoint",
       "url": "huggingface.co/blog/ibm-granite/granite-switch-4-1"
+    },
+    "rss:https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
+      "at": "2026-10-20T18:32:12.065027+00:00",
+      "title": "altk evolve how learned memory tops the τ2 bench leaderboard on customer service tasks without a frontier model",
+      "url": "huggingface.co/blog/ibm-research/altk-evolve-bc"
     },
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-consistency": {
       "at": "2026-09-15T18:14:05.265604+00:00",
@@ -1527,6 +1552,11 @@
       "at": "2026-08-19T17:19:19.683237+00:00",
       "title": "nvidia cosmos h dreams bringing real time generative simulation to surgical robotics",
       "url": "huggingface.co/blog/nvidia/cosmos-h-dreams"
+    },
+    "rss:https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
+      "at": "2026-10-20T18:32:12.064976+00:00",
+      "title": "nvidia cosmos3 h dreams bringing clinical surgery to life through generative simulation",
+      "url": "huggingface.co/blog/nvidia/cosmos3-h-dreams"
     },
     "rss:https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp": {
       "at": "2026-09-23T22:59:06.946353+00:00",
@@ -2756,6 +2786,11 @@
       "title": "show hn qwen3 4b with the ai writing tics trained out",
       "url": "100toolkit.com/blog/deslop-model"
     },
+    "rss:https://news.ycombinator.com/item?id=50168190": {
+      "at": "2026-10-20T18:32:12.065172+00:00",
+      "title": "steam users beg for no ai filter as vibecoders flood next fest",
+      "url": "ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3194,6 +3229,11 @@
       "title": "openai joins ports pike project",
       "url": "openai.com/index/openai-joins-ports-pike-project"
     },
+    "rss:https://openai.com/index/openai-to-acquire-orchestra-bio": {
+      "at": "2026-10-20T18:32:12.065074+00:00",
+      "title": "openai acquires orchestra bio",
+      "url": "openai.com/index/openai-to-acquire-orchestra-bio"
+    },
     "rss:https://openai.com/index/oracle": {
       "at": "2026-10-08T18:01:12.187016+00:00",
       "title": "how oracle turns days of work into minutes with chatgpt and codex",
@@ -3366,6 +3406,11 @@
       "at": "2026-10-15T18:20:26.786849+00:00",
       "title": "teaching students to think and learn through questions",
       "url": "openai.com/index/teaching-students-to-think-and-learn-through-questions"
+    },
+    "rss:https://openai.com/index/ted-taylor-restaurant": {
+      "at": "2026-10-20T18:32:12.065180+00:00",
+      "title": "franchisee reconciles cash in 94 less time with chatgpt work",
+      "url": "openai.com/index/ted-taylor-restaurant"
     },
     "rss:https://openai.com/index/teen-development-research-grants": {
       "at": "2026-09-08T17:40:11.523104+00:00",
@@ -7271,6 +7316,11 @@
       "title": "microsoft says ai agents are like insider threats as frontier models can t be trusted",
       "url": "techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted"
     },
+    "rss:https://techcrunch.com/?p=3179291": {
+      "at": "2026-10-20T18:32:12.065155+00:00",
+      "title": "plants can speak using electricity so this startup built an ai model to decipher their language",
+      "url": "techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language"
+    },
     "rss:https://techcrunch.com/?p=3179487": {
       "at": "2026-10-20T01:51:54.979580+00:00",
       "title": "nscale and anthropic are reportedly in talks for yet another 45b compute deal",
@@ -7281,10 +7331,25 @@
       "title": "mamdani says feds have abdicated on ai urges new yorkers to push back",
       "url": "techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back"
     },
+    "rss:https://techcrunch.com/?p=3179569": {
+      "at": "2026-10-20T18:32:12.065131+00:00",
+      "title": "figma co founder dylan field thinks mcp is not a perfect protocol",
+      "url": "techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol"
+    },
     "rss:https://techcrunch.com/?p=3179571": {
       "at": "2026-10-20T13:35:40.766370+00:00",
       "title": "us orders federal agencies to remove china s deepseek ai from their systems",
       "url": "techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems"
+    },
+    "rss:https://techcrunch.com/?p=3179696": {
+      "at": "2026-10-20T18:32:12.065097+00:00",
+      "title": "meta s muse hits 10m u s downloads in 40 days a milestone reached by only 11 other apps",
+      "url": "techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps"
+    },
+    "rss:https://techcrunch.com/?p=3179732": {
+      "at": "2026-10-20T18:32:12.065147+00:00",
+      "title": "eric schmidt reportedly owns about half as much of anthropic as ceo dario amodei",
+      "url": "techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -7770,6 +7835,11 @@
       "at": "2026-08-24T11:05:22.951657+00:00",
       "title": "broadening access to skala creates a faster path to predictive dft",
       "url": "microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1185073": {
+      "at": "2026-10-20T18:32:12.065165+00:00",
+      "title": "called to serve tech research and positive impact",
+      "url": "microsoft.com/en-us/research/podcast/called-to-serve-tech-research-and-positive-impact-with-chris-white"
     },
     "rss:https://www.microsoft.com/en-us/research/?p=1185936": {
       "at": "2026-10-12T22:10:11.221853+00:00",
@@ -13980,6 +14050,36 @@
       "title": "vals ai found deepseek v4 1 flash 1017 beats gpt 6 sol on their multi step offensive cybersecurity task sol was tested via the daybreak trusted access program",
       "url": "reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xapakf": {
+      "at": "2026-10-20T18:32:12.065139+00:00",
+      "title": "qwen 3 8 flash next drastically faster and much more precise in reaching the result",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xapakf/qwen_38_flash_next_drastically_faster_and_much"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xat6o7": {
+      "at": "2026-10-20T18:32:12.065064+00:00",
+      "title": "paper the count counting n grams unlocks scaling on host memory and training free adaptation",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xat6o7/paper_the_count_counting_ngrams_unlocks_scaling"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xatebw": {
+      "at": "2026-10-20T18:32:12.065058+00:00",
+      "title": "ornith ai ornith 1 5 122b qwen finetune",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xatxqk": {
+      "at": "2026-10-20T18:32:12.065049+00:00",
+      "title": "qwen3 8 flash next vs opus 5 5 six way benchmark on a real rust feature with claude code and pi",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xatxqk/qwen38flashnext_vs_opus_55_sixway_benchmark_on_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xauekr": {
+      "at": "2026-10-20T18:32:12.065123+00:00",
+      "title": "pocket tts which supports voice cloning is now just 1 9 million parameters",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xaw2vt": {
+      "at": "2026-10-20T18:32:12.065115+00:00",
+      "title": "phonon is now open source 31m and 40m tts models designed to run on the edge",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -14425,6 +14525,11 @@
       "title": "open models have real benefits do they outweigh the risks",
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     },
+    "rss:https://www.technologyreview.com/?p=1146937": {
+      "at": "2026-10-20T18:32:12.065020+00:00",
+      "title": "the new economics of enterprise ai",
+      "url": "technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai"
+    },
     "rss:https://www.technologyreview.com/?p=1147095": {
       "at": "2026-10-19T15:37:44.478535+00:00",
       "title": "ai researchers stranded claude on a virtual desert island it started to play",
@@ -14441,6 +14546,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-20T13:35:40.766736+00:00",
+  "updated_at": "2026-10-20T18:32:12.065212+00:00",
   "version": 2
 }
