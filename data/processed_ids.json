@@ -530,6 +530,11 @@
       "title": "apple changes full disk access permissions to curb abuse from ai agents",
       "url": "arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
     },
+    "rss:https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/": {
+      "at": "2026-10-20T13:35:40.766451+00:00",
+      "title": "meta muse exposes users personal and business secrets when they share conversations",
+      "url": "arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations"
+    },
     "rss:https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": {
       "at": "2026-10-06T17:13:03.297731+00:00",
       "title": "openai agents tried to hack wikipedia tools and flooded it with traffic",
@@ -1395,6 +1400,11 @@
       "title": "record train and deploy from one place with strands agents lerobot and hugging face storage buckets",
       "url": "huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
     },
+    "rss:https://huggingface.co/blog/anylanguagemodel-1-0": {
+      "at": "2026-10-20T13:35:40.766668+00:00",
+      "title": "anylanguagemodel 1 0 one year of local models on apple platforms",
+      "url": "huggingface.co/blog/anylanguagemodel-1-0"
+    },
     "rss:https://huggingface.co/blog/asr-benchmark-optimization": {
       "at": "2026-08-21T14:23:34.524095+00:00",
       "title": "measuring benchmark optimization in speech recognition",
@@ -1497,6 +1507,11 @@
       "at": "2026-10-03T23:04:30.796921+00:00",
       "title": "the agent said it was done the database disagreed",
       "url": "huggingface.co/blog/microsoft/thinkingbox"
+    },
+    "rss:https://huggingface.co/blog/mps-pytorch-2-15": {
+      "at": "2026-10-20T13:35:40.766683+00:00",
+      "title": "mps in pytorch 2 15",
+      "url": "huggingface.co/blog/mps-pytorch-2-15"
     },
     "rss:https://huggingface.co/blog/multi-vector-encoder": {
       "at": "2026-08-19T12:28:12.501794+00:00",
@@ -7206,10 +7221,20 @@
       "title": "anthropic says it s committing 5 of its shares to a public benefit fund",
       "url": "techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund"
     },
+    "rss:https://techcrunch.com/?p=3178995": {
+      "at": "2026-10-20T13:35:40.766541+00:00",
+      "title": "yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant"
+    },
     "rss:https://techcrunch.com/?p=3179051": {
       "at": "2026-10-19T21:34:08.060920+00:00",
       "title": "people are using ai to make their smart tvs dumb again",
       "url": "techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again"
+    },
+    "rss:https://techcrunch.com/?p=3179067": {
+      "at": "2026-10-20T13:35:40.766429+00:00",
+      "title": "eka is worth 1 45b thanks to a physical ai model that has experts raving",
+      "url": "techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving"
     },
     "rss:https://techcrunch.com/?p=3179099": {
       "at": "2026-10-19T21:34:08.060709+00:00",
@@ -7220,6 +7245,11 @@
       "at": "2026-10-19T21:34:08.060911+00:00",
       "title": "tolan snags 30m for its ai companion that helps users navigate life",
       "url": "techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life"
+    },
+    "rss:https://techcrunch.com/?p=3179152": {
+      "at": "2026-10-20T13:35:40.766562+00:00",
+      "title": "otter ai raises 320 million from general catalyst s growth fund for its meeting tool",
+      "url": "techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool"
     },
     "rss:https://techcrunch.com/?p=3179164": {
       "at": "2026-10-19T21:34:08.060747+00:00",
@@ -7250,6 +7280,11 @@
       "at": "2026-10-20T01:51:54.979723+00:00",
       "title": "mamdani says feds have abdicated on ai urges new yorkers to push back",
       "url": "techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back"
+    },
+    "rss:https://techcrunch.com/?p=3179571": {
+      "at": "2026-10-20T13:35:40.766370+00:00",
+      "title": "us orders federal agencies to remove china s deepseek ai from their systems",
+      "url": "techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -13910,15 +13945,40 @@
       "title": "jev based adaptive thinking for llms",
       "url": "reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xadfm7": {
+      "at": "2026-10-20T13:35:40.766645+00:00",
+      "title": "migtissera tess 4 5 27b qwen finetune",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xadfm7/migtisseratess4527b_qwen_finetune"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xaflhy": {
       "at": "2026-10-20T07:34:13.544796+00:00",
       "title": "do not upgrade strata tons of breaking changes",
       "url": "reddit.com/r/LocalLLaMA/comments/1xaflhy/do_not_upgrade_strata_tons_of_breaking_changes"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xag5bj": {
+      "at": "2026-10-20T13:35:40.766504+00:00",
+      "title": "hermesconsole a demo showing off voicemanager my low latency streaming stt tts server mit client docs and python client",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xag5bj/hermesconsole_a_demo_showing_off_voicemanager_my"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xahi82": {
       "at": "2026-10-20T07:34:13.544777+00:00",
       "title": "24gb is plenty if your engines take turns",
       "url": "reddit.com/r/LocalLLaMA/comments/1xahi82/24gb_is_plenty_if_your_engines_take_turns"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xanm55": {
+      "at": "2026-10-20T13:35:40.766483+00:00",
+      "title": "deepseek released deepinfer open source high performance large scale inference framework for deepseek models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xao7kx": {
+      "at": "2026-10-20T13:35:40.766612+00:00",
+      "title": "improve qwen3 8 27b low quants by using a prefiller model that streams from ssd",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xao7kx/improve_qwen3827b_low_quants_by_using_a_prefiller"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xap2aq": {
+      "at": "2026-10-20T13:35:40.766591+00:00",
+      "title": "vals ai found deepseek v4 1 flash 1017 beats gpt 6 sol on their multi step offensive cybersecurity task sol was tested via the daybreak trusted access program",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xap2aq/vals_ai_found_deepseek_v41_flash_1017_beats_gpt_6"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -14315,6 +14375,11 @@
       "title": "emtech future 2026 when ai meets everything",
       "url": "technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything"
     },
+    "rss:https://www.technologyreview.com/?p=1145423": {
+      "at": "2026-10-20T13:35:40.766468+00:00",
+      "title": "ai adoption by industry shows what other sectors can learn",
+      "url": "technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn"
+    },
     "rss:https://www.technologyreview.com/?p=1145580": {
       "at": "2026-10-05T19:49:23.695069+00:00",
       "title": "connecting ai agents to enterprise knowledge",
@@ -14339,6 +14404,11 @@
       "at": "2026-10-13T12:46:02.982363+00:00",
       "title": "ai labs are buying data from dead startups to train their models",
       "url": "technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models"
+    },
+    "rss:https://www.technologyreview.com/?p=1145916": {
+      "at": "2026-10-20T13:35:40.766629+00:00",
+      "title": "a visit to samsung s massive new semiconductor hub",
+      "url": "technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub"
     },
     "rss:https://www.technologyreview.com/?p=1145923": {
       "at": "2026-10-08T18:01:12.186994+00:00",
@@ -14371,6 +14441,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-20T07:34:13.544838+00:00",
+  "updated_at": "2026-10-20T13:35:40.766736+00:00",
   "version": 2
 }
