@@ -3134,6 +3134,11 @@
       "title": "how loveholidays is making everyone a builder with codex",
       "url": "openai.com/index/loveholidays"
     },
+    "rss:https://openai.com/index/low-resource-programming-languages": {
+      "at": "2026-10-20T01:51:54.979639+00:00",
+      "title": "advancing coding in low resource programming languages",
+      "url": "openai.com/index/low-resource-programming-languages"
+    },
     "rss:https://openai.com/index/model-misalignment-reporting-framework": {
       "at": "2026-09-16T22:57:26.123754+00:00",
       "title": "our framework for reporting model misalignment",
@@ -3856,6 +3861,11 @@
       "at": "2026-10-19T01:16:45.382427+00:00",
       "title": "llm tools datasette 0 1 1",
       "url": "simonwillison.net/2026/Oct/18/llm-tools-datasette"
+    },
+    "rss:https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/": {
+      "at": "2026-10-20T01:51:54.979664+00:00",
+      "title": "my obituary for programming",
+      "url": "simonwillison.net/2026/Oct/19/my-obituary-for-programming"
     },
     "rss:https://simonwillison.net/2026/Oct/2/rex-s-dino-store/": {
       "at": "2026-10-03T23:04:30.796967+00:00",
@@ -7121,6 +7131,11 @@
       "title": "meta launches an open weight ai model that runs on macs",
       "url": "techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
     },
+    "rss:https://techcrunch.com/?p=3178312": {
+      "at": "2026-10-20T01:51:54.979674+00:00",
+      "title": "embedded ai evaluators won t be an easy solution hugging face s policy chief says",
+      "url": "techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says"
+    },
     "rss:https://techcrunch.com/?p=3178318": {
       "at": "2026-10-15T18:20:26.786878+00:00",
       "title": "last chance to save up to 200 on your techcrunch founder summit pass early booking ends october 16",
@@ -7220,6 +7235,21 @@
       "at": "2026-10-19T21:34:08.060859+00:00",
       "title": "replika s founder built the ai assistant she pitched at disrupt 12 years ago",
       "url": "techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago"
+    },
+    "rss:https://techcrunch.com/?p=3179279": {
+      "at": "2026-10-20T01:51:54.979687+00:00",
+      "title": "microsoft says ai agents are like insider threats as frontier models can t be trusted",
+      "url": "techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted"
+    },
+    "rss:https://techcrunch.com/?p=3179487": {
+      "at": "2026-10-20T01:51:54.979580+00:00",
+      "title": "nscale and anthropic are reportedly in talks for yet another 45b compute deal",
+      "url": "techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal"
+    },
+    "rss:https://techcrunch.com/?p=3179517": {
+      "at": "2026-10-20T01:51:54.979723+00:00",
+      "title": "mamdani says feds have abdicated on ai urges new yorkers to push back",
+      "url": "techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -13850,6 +13880,11 @@
       "title": "ista daslab qwen3 8 flash next gsq rco coder gguf updated",
       "url": "reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1x9zwts": {
+      "at": "2026-10-20T01:51:54.979708+00:00",
+      "title": "6m param character renderer one reference image in a minute of video out tested against blender truth",
+      "url": "reddit.com/r/LocalLLaMA/comments/1x9zwts/6m_param_character_renderer_one_reference_image"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xa0cyz": {
       "at": "2026-10-19T21:34:08.060808+00:00",
       "title": "llama cpp support for cohere models",
@@ -13859,6 +13894,11 @@
       "at": "2026-10-19T21:34:08.060936+00:00",
       "title": "let s delve into the tapestry of ai slop on r localllama",
       "url": "reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xa9ffa": {
+      "at": "2026-10-20T01:51:54.979699+00:00",
+      "title": "jev based adaptive thinking for llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -14311,6 +14351,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-19T21:34:08.060970+00:00",
+  "updated_at": "2026-10-20T01:51:54.979763+00:00",
   "version": 2
 }
