@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-20T01:51:53.383429+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+        "title": "[AINews] not much happened today",
+        "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
+        "author": null,
+        "published_at": "2026-10-20T05:21:52+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek V4.1 Flash 1017 공개",
+        "summary_ko": [
+          "DeepSeek V4.1 Flash 1017이 공개되며 오픈웨이트 밸류 리더로 자리잡았습니다.",
+          "해당 모델은 1M 토큰 컨텍스트 윈도우와 MIT 라이선스를 지원하는 MoE 구조입니다.",
+          "다양한 벤치마크와 에이전트 작업에서 뛰어난 성능과 비용 효율성을 입증했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1x9yf3m",
+        "title": "inclusionAI/Ming-3.0-audio-tiny · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yf3m/inclusionaiming30audiotiny_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-19T14:29:36+00:00"
+      },
+      "insight": {
+        "title_ko": "inclusionAI의 Ming-3.0-audio-tiny 공개",
+        "summary_ko": [
+          "inclusionAI는 음성과 텍스트를 동시에 처리하는 네이티브 오디오-언어 모델인 Ming-3.0-audio-tiny를 공개했습니다.",
+          "이 모델은 총 9.3B 파라미터와 추론 시 2.7B가 활성화되는 Mixture-of-Experts 구조를 적용하여 효율성을 높였습니다.",
+          "음성 인식, 오디오 이해 및 추론, 다국어 처리 등 다양한 오디오 관련 태스크를 지원합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
