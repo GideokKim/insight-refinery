@@ -3432,6 +3432,11 @@
       "title": "helping teens learn plan and shape the future of ai",
       "url": "openai.com/index/teens-learn-and-plan"
     },
+    "rss:https://openai.com/index/terminal-x": {
+      "at": "2026-10-21T01:38:35.716363+00:00",
+      "title": "terminal x matches senior investor judgment 88 6 with gpt 6 1",
+      "url": "openai.com/index/terminal-x"
+    },
     "rss:https://openai.com/index/the-defenders-window": {
       "at": "2026-08-19T12:28:12.501963+00:00",
       "title": "the defender s window",
@@ -3946,6 +3951,11 @@
       "at": "2026-10-20T23:12:01.940332+00:00",
       "title": "battle drones a vibe coded rts with audio based multiplayer",
       "url": "simonwillison.net/2026/Oct/20/battledrones"
+    },
+    "rss:https://simonwillison.net/2026/Oct/20/emudhra-certificates/": {
+      "at": "2026-10-21T01:38:35.716312+00:00",
+      "title": "emudhra intermediate ca compromise",
+      "url": "simonwillison.net/2026/Oct/20/emudhra-certificates"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -14135,6 +14145,11 @@
       "title": "phonon is now open source 31m and 40m tts models designed to run on the edge",
       "url": "reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xazrvd": {
+      "at": "2026-10-21T01:38:35.716388+00:00",
+      "title": "qev 0 8b new sota tiny local decision model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xazrvd/qev08b_new_sota_tiny_local_decision_model"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xb0nr9": {
       "at": "2026-10-20T23:12:01.940248+00:00",
       "title": "xhtoken spark x2 6 4b hugging face",
@@ -14144,6 +14159,11 @@
       "at": "2026-10-20T23:12:01.940278+00:00",
       "title": "yes",
       "url": "reddit.com/r/LocalLLaMA/comments/1xb5qxn/yes"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xb6zds": {
+      "at": "2026-10-21T01:38:35.716376+00:00",
+      "title": "eagle 4 released faster than dflash2 dspark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -14611,6 +14631,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-20T23:12:01.940400+00:00",
+  "updated_at": "2026-10-21T01:38:35.716438+00:00",
   "version": 2
 }
