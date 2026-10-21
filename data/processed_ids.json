@@ -280,6 +280,11 @@
       "title": "openai will watermark chatgpt outputs by default but only in the eu",
       "url": "arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu"
     },
+    "rss:https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/": {
+      "at": "2026-10-21T23:19:26.489576+00:00",
+      "title": "openai s latest ai models are coming to google cloud and antigravity",
+      "url": "arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity"
+    },
     "rss:https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/": {
       "at": "2026-10-08T00:15:14.005381+00:00",
       "title": "software is over bold ai developer takes aim at adobe with open source clones",
@@ -309,6 +314,11 @@
       "at": "2026-10-05T19:49:23.695163+00:00",
       "title": "command line tool quickly removes apple intelligence from macos 27",
       "url": "arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27"
+    },
+    "rss:https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/": {
+      "at": "2026-10-21T23:19:26.489651+00:00",
+      "title": "the new human crafted apple music brand matters in an ai world",
+      "url": "arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world"
     },
     "rss:https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/": {
       "at": "2026-09-07T18:28:08.910973+00:00",
@@ -2976,6 +2986,11 @@
       "title": "bringing chatgpt for teachers to more u s school districts",
       "url": "openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
     },
+    "rss:https://openai.com/index/broad-access-through-consistent-standards": {
+      "at": "2026-10-21T23:19:26.489605+00:00",
+      "title": "broad access through consistent standards",
+      "url": "openai.com/index/broad-access-through-consistent-standards"
+    },
     "rss:https://openai.com/index/builders-guide-to-gpt-5-6": {
       "at": "2026-08-19T14:23:12.191222+00:00",
       "title": "the builder s guide to gpt 5 6",
@@ -3068,6 +3083,11 @@
       "at": "2026-08-25T11:15:55.505381+00:00",
       "title": "disrupting a new covert influence campaign from russia",
       "url": "openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+    },
+    "rss:https://openai.com/index/empowering-cyber-defenders": {
+      "at": "2026-10-21T23:19:26.489636+00:00",
+      "title": "democratic governance of frontier ai part ii empowering cyber defenders",
+      "url": "openai.com/index/empowering-cyber-defenders"
     },
     "rss:https://openai.com/index/eu-text-provenance": {
       "at": "2026-10-05T19:49:23.695235+00:00",
@@ -4061,6 +4081,11 @@
       "at": "2026-10-21T18:41:55.079035+00:00",
       "title": "panache rts belle époque pour mobile",
       "url": "simonwillison.net/2026/Oct/21/panache"
+    },
+    "rss:https://simonwillison.net/2026/Oct/21/php-security-release/": {
+      "at": "2026-10-21T23:19:26.489528+00:00",
+      "title": "today s php security release and how we re strengthening php security",
+      "url": "simonwillison.net/2026/Oct/21/php-security-release"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -7525,6 +7550,36 @@
       "at": "2026-10-20T23:12:01.940293+00:00",
       "title": "anthropic s cloud partnerships are getting messy",
       "url": "techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy"
+    },
+    "rss:https://techcrunch.com/?p=3180139": {
+      "at": "2026-10-21T23:19:26.489567+00:00",
+      "title": "while amazon blocks ai agents walmart rolls out the welcome mat",
+      "url": "techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat"
+    },
+    "rss:https://techcrunch.com/?p=3180197": {
+      "at": "2026-10-21T23:19:26.489584+00:00",
+      "title": "php armageddon openai google s wiz find ancient holes panicking the internet",
+      "url": "techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet"
+    },
+    "rss:https://techcrunch.com/?p=3180202": {
+      "at": "2026-10-21T23:19:26.489630+00:00",
+      "title": "blacksmith hits unicorn valuation after sequoia leads series c",
+      "url": "techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c"
+    },
+    "rss:https://techcrunch.com/?p=3180324": {
+      "at": "2026-10-21T23:19:26.489611+00:00",
+      "title": "recursive launches flint a laptop coding model it says was largely built by ai",
+      "url": "techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai"
+    },
+    "rss:https://techcrunch.com/?p=3180358": {
+      "at": "2026-10-21T23:19:26.489644+00:00",
+      "title": "blackstone s jas khaira says fears over ai buildout debt are overblown",
+      "url": "techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown"
+    },
+    "rss:https://techcrunch.com/?p=3180391": {
+      "at": "2026-10-21T23:19:26.489597+00:00",
+      "title": "meta says muse has over 10m users with shopping a top activity",
+      "url": "techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -14375,6 +14430,16 @@
       "title": "when will we see these changes china is doubling ram production to keep everyday gadget prices from skyrocketing",
       "url": "reddit.com/r/LocalLLaMA/comments/1xbrh0s/when_will_we_see_these_changes_china_is_doubling"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xburkx": {
+      "at": "2026-10-21T23:19:26.489657+00:00",
+      "title": "tried running 748b deepseek v4 1 flash on a 2k pc",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xburkx/tried_running_748b_deepseekv41flash_on_a_2k_pc"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbuzj5": {
+      "at": "2026-10-21T23:19:26.489622+00:00",
+      "title": "amazing free 3090 speedup hack verified works 15 pp 5 tg for free",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbuzj5/amazing_free_3090_speedup_hack_verified_works_15"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -14841,6 +14906,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-21T18:41:55.079091+00:00",
+  "updated_at": "2026-10-21T23:19:26.489684+00:00",
   "version": 2
 }
