@@ -111,6 +111,226 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/claude-mods",
+        "title": "Claude Mods: Flipping the Harness Inside Out",
+        "url": "https://www.latent.space/p/claude-mods",
+        "author": "Dan McAteer",
+        "published_at": "2026-10-21T13:04:19+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude Mods와 에이전트 하네스의 진화",
+        "summary_ko": [
+          "Claude Mods는 TypeScript와 JavaScript를 활용해 Claude Code의 동작과 인터페이스를 맞춤화하는 플러그인 시스템이다.",
+          "이 기술은 에이전트 하네스의 방향을 기계가 아닌 인간의 주의를 관리하는 방향으로 전환하여 프로그래밍 가능한 인간 레이어를 제공한다.",
+          "사용자는 자연어로 원하는 모드를 직접 제작하거나 Anthropic이 내장한 다양한 플러그인을 활용해 워크플로우를 최적화할 수 있다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/nvidia/kumo-forecast",
+        "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+        "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+        "author": null,
+        "published_at": "2026-10-21T12:51:24+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Kumo Forecast 공개",
+        "summary_ko": [
+          "NVIDIA는 사전 학습된 시계열 표현과 패턴 검색을 결합한 Kumo Forecast를 공개했습니다.",
+          "이 모델은 과거 패턴 검색을 통해 시계열 예측의 정확도와 해석 가능성을 높여줍니다.",
+          "시계열 데이터 분석 및 예측 분야에서 실무적으로 활용될 수 있는 중요한 도구입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123747",
+        "title": "Design Proteins with RFD4-Proteina Using Reward-Guided Inference-Time Search",
+        "url": "https://developer.nvidia.com/blog/design-proteins-with-rfd4-proteina-using-reward-guided-inference-time-search/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-10-21T12:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "RFD4-Proteina 기반 단백질 설계 기술",
+        "summary_ko": [
+          "단백질 설계는 아미노산 조합의 방대한 경우의 수를 탐색하는 복잡한 문제이다.",
+          "100개 잔기 단백질의 조합 수는 관측 가능한 우주의 원자 수를 초과할 정도로 거대하다.",
+          "새로운 치료법을 찾기 위해 보상 유도 추론 시간 탐색을 활용한 단백질 설계 방법론이 주목받고 있다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/openai-models-google-cloud",
+        "title": "OpenAI models are coming to Google Cloud",
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "author": null,
+        "published_at": "2026-10-21T12:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Google Cloud에 도입되는 OpenAI 모델",
+        "summary_ko": [
+          "OpenAI의 프론티어 모델과 Codex 워크플로우가 Google Cloud에 도입됩니다.",
+          "해당 모델들은 Google Cloud Marketplace를 통해 Gemini의 Model Garden에서 제공됩니다.",
+          "이번 협력을 통해 개발자들은 Google Cloud 환경에서 OpenAI의 주요 모델들을 손쉽게 활용할 수 있게 되었습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xbj6an",
+        "title": "[Paper] Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbj6an/paper_specter_fast_moe_inference_via/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-10-21T10:09:24+00:00"
+      },
+      "insight": {
+        "title_ko": "Specter를 활용한 고속 MoE 추론",
+        "summary_ko": [
+          "MoE 모델은 메모리 용량 한계로 인해 호스트 메모리로의 오프로딩 시 심각한 PCIe I/O 병목 현상이 발생합니다.",
+          "Specter는 양자화 기반의 가벼운 드래프트 모델과 다단계 추측 오프로딩을 결합하여 전문가 라우팅 예측 정확도를 높입니다.",
+          "이를 통해 단일 GPU 환경에서도 전문가 이동과 실행을 미리 최적화하여 출력 토큰당 처리 시간을 최대 1.88배 단축합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123898",
+        "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+        "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/",
+        "author": "Ofir Arkin",
+        "published_at": "2026-10-21T09:52:16+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Sentry: AI 에이전트 런타임 보안 프레임워크",
+        "summary_ko": [
+          "AI 에이전트는 작업을 완수하면서도 보안 경계를 우회하는 보안 위협을 발생시킬 수 있다.",
+          "에이전트가 도구와 자격 증명을 사용하는 과정에서 보안 통제를 무력화하는 사고가 최근 확인되고 있다.",
+          "NVIDIA Sentry는 에이전트의 접근 범위 밖에서 동작하며 런타임 보안을 모니터링하고 집행하는 프레임워크이다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123932",
+        "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-10-21T09:50:14+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA OpenShell을 활용한 AI 에이전트 보안",
+        "summary_ko": [
+          "자율형 AI 에이전트는 장시간 복잡한 작업을 수행하며 파일, 도구, 인터넷에 접근하고 협업 에이전트를 생성합니다.",
+          "장기 작업 실행은 코드 다운로드 및 권한 요청 등으로 인해 누적 보안 리스크를 증가시킵니다.",
+          "NVIDIA OpenShell 레퍼런스 아키텍처는 대규모 AI 에이전트 워크로드의 보안과 거버넌스를 확보하는 방법을 제시합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xbh0ev",
+        "title": "KRAFTON/Raon-1-mini-preview · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbh0ev/kraftonraon1minipreview_hugging_face/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-21T07:54:08+00:00"
+      },
+      "insight": {
+        "title_ko": "크래프톤, MoE 구조의 Raon-1-mini-preview 공개",
+        "summary_ko": [
+          "크래프톤 AI가 독자 설계한 30B-A4B MoE 언어 모델 Raon-1-mini-preview를 허깅페이스에 공개했습니다.",
+          "이 모델은 한국어 대화와 에이전트 작업에서 강력한 성능을 발휘하며 아파치 2.0 라이선스로 배포됩니다.",
+          "추론, 도구 호출, 추측 디코딩 및 다양한 양자화 형식을 지원하여 실무 활용도가 높습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xb45bq",
+        "title": "I built an RK3588 NPU runtime without any proprietary inference libraries: Qwen3.5-4B at ~10 tok/s, ~2x faster than vendor SDK.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb45bq/i_built_an_rk3588_npu_runtime_without_any/",
+        "author": "/u/Flashy_Squirrel4745",
+        "published_at": "2026-10-20T21:03:58+00:00"
+      },
+      "insight": {
+        "title_ko": "RK3588 NPU 오픈소스 LLM 런타임 개발",
+        "summary_ko": [
+          "개발자가 Rockchip의 독점 라이브러리 없이 RK3588 NPU를 활용하는 오픈소스 LLM 런타임 open_rknpu2_lm_infer를 제작했습니다.",
+          "Rust와 C++로 작성되어 호스트 추론 코드와 NPU 연산자 실행을 투명하게 수정하고 분석할 수 있습니다.",
+          "기존 벤더 SDK인 RKLLM 대비 프리필과 디코드 속도가 약 2배 이상 향상된 성능을 보여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xasp90",
+        "title": "[Paper] REMORY: Learning Residual Memory for Context Compaction",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xasp90/paper_remory_learning_residual_memory_for_context/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-10-20T13:50:57+00:00"
+      },
+      "insight": {
+        "title_ko": "REMORY: 잔류 메모리를 활용한 문맥 압축",
+        "summary_ko": [
+          "REMORY는 텍스트 요약의 한계를 보완하기 위해 제한된 수의 소프트 메모리 토큰을 학습하는 신경망 메모리 방식입니다.",
+          "요약문 뒤에 잔류 연결 형태로 토큰을 추가하여 전체 히스토리를 유지하는 효과를 내며 입력 토큰의 5.2%만 사용합니다.",
+          "다양한 에이전트 벤치마크에서 출처 정확도가 향상되고 도구 사용 오류가 현저히 감소하는 성능을 입증했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
