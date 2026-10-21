@@ -285,6 +285,11 @@
       "title": "software is over bold ai developer takes aim at adobe with open source clones",
       "url": "arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones"
     },
+    "rss:https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/": {
+      "at": "2026-10-21T18:41:55.078996+00:00",
+      "title": "the 15 billion ad powered ai startup your doctor may already be using",
+      "url": "arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using"
+    },
     "rss:https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/": {
       "at": "2026-10-15T18:20:26.786774+00:00",
       "title": "singer or clanker youtube music will tell you with new gen ai labeling",
@@ -724,6 +729,11 @@
       "at": "2026-10-15T18:20:26.786674+00:00",
       "title": "report ftc probes anthropic openai after trump dismissed ai fears as hoax",
       "url": "arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/": {
+      "at": "2026-10-21T18:41:55.078838+00:00",
+      "title": "judge rejects trump s wild claim epa can dismiss data center pollution lawsuits",
+      "url": "arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/": {
       "at": "2026-10-20T23:12:01.940217+00:00",
@@ -1340,6 +1350,11 @@
       "title": "same cluster 33 points more utilization what changed was the order",
       "url": "huggingface.co/blog/Dharma-AI/gpu-management-pt2"
     },
+    "rss:https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
+      "at": "2026-10-21T18:41:55.078856+00:00",
+      "title": "how specializing the vocabulary of slms can cut inference cost by 77 in real applications",
+      "url": "huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+    },
     "rss:https://huggingface.co/blog/Hcompany/holo4": {
       "at": "2026-09-28T18:39:15.588775+00:00",
       "title": "holo4 powering generalist computer use agents",
@@ -1445,6 +1460,11 @@
       "title": "introducing olmoearth embeddings custom embedding exports from olmoearth studio for downstream analysis",
       "url": "huggingface.co/blog/allenai/olmoearth-embeddings"
     },
+    "rss:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
+      "at": "2026-10-21T18:41:55.078976+00:00",
+      "title": "profiling torchneuron part 1 system level profiling on aws trainium",
+      "url": "huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+    },
     "rss:https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop": {
       "at": "2026-08-19T14:23:12.191206+00:00",
       "title": "record train and deploy from one place with strands agents lerobot and hugging face storage buckets",
@@ -1519,6 +1539,11 @@
       "at": "2026-08-25T17:21:53.012144+00:00",
       "title": "granite 4 2 llms how they re built",
       "url": "huggingface.co/blog/ibm-granite/granite-4-2"
+    },
+    "rss:https://huggingface.co/blog/ibm-granite/granite-speech-5": {
+      "at": "2026-10-21T18:41:55.079005+00:00",
+      "title": "granite speech 5 0 transcribe translate and attribute more accurately and faster",
+      "url": "huggingface.co/blog/ibm-granite/granite-speech-5"
     },
     "rss:https://huggingface.co/blog/ibm-granite/granite-switch-4-1": {
       "at": "2026-10-15T23:04:57.242157+00:00",
@@ -1602,6 +1627,11 @@
       "at": "2026-10-21T13:53:20.859356+00:00",
       "title": "nvidia kumo forecast combines pretrained time series representations with historical pattern retrieval and interpretability",
       "url": "huggingface.co/blog/nvidia/kumo-forecast"
+    },
+    "rss:https://huggingface.co/blog/nvidia/kumo-relational": {
+      "at": "2026-10-21T18:41:55.078805+00:00",
+      "title": "nvidia kumo relational outperforms supervised machine learning on relational data no training required",
+      "url": "huggingface.co/blog/nvidia/kumo-relational"
     },
     "rss:https://huggingface.co/blog/nvidia/kumo-tabular": {
       "at": "2026-09-29T16:55:08.088372+00:00",
@@ -2831,6 +2861,11 @@
       "title": "steam users beg for no ai filter as vibecoders flood next fest",
       "url": "ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
     },
+    "rss:https://news.ycombinator.com/item?id=50180836": {
+      "at": "2026-10-21T18:41:55.078881+00:00",
+      "title": "php2shell ai uncovers critical rce in php",
+      "url": "wiz.io/blog/php2shell-php-rce"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -2901,6 +2936,11 @@
       "title": "atlassian and openai expand partnership to turn enterprise knowledge into action",
       "url": "openai.com/index/atlassian-partnership"
     },
+    "rss:https://openai.com/index/att-legal": {
+      "at": "2026-10-21T18:41:55.078946+00:00",
+      "title": "how at t is rethinking in house legal work with openai",
+      "url": "openai.com/index/att-legal"
+    },
     "rss:https://openai.com/index/atv-big-air-tour": {
       "at": "2026-09-03T00:47:52.878181+00:00",
       "title": "atv big air tour turned 3 days of work into 3 hours with chatgpt",
@@ -2941,10 +2981,20 @@
       "title": "the builder s guide to gpt 5 6",
       "url": "openai.com/index/builders-guide-to-gpt-5-6"
     },
+    "rss:https://openai.com/index/building-chatgpt-ad-stack": {
+      "at": "2026-10-21T18:41:55.078925+00:00",
+      "title": "how we built chatgpt s novel ad stack for user trust and relevance",
+      "url": "openai.com/index/building-chatgpt-ad-stack"
+    },
     "rss:https://openai.com/index/building-standards-next-phase-ai": {
       "at": "2026-09-21T21:06:07.442413+00:00",
       "title": "building standards for the next phase of ai",
       "url": "openai.com/index/building-standards-next-phase-ai"
+    },
+    "rss:https://openai.com/index/chatgpt-ads-expands-26-new-countries": {
+      "at": "2026-10-21T18:41:55.079026+00:00",
+      "title": "chatgpt ads expands to 26 new countries as over 100 000 advertisers have used the platform",
+      "url": "openai.com/index/chatgpt-ads-expands-26-new-countries"
     },
     "rss:https://openai.com/index/chatgpt-ads-expands-across-europe": {
       "at": "2026-08-19T12:14:50.156795+00:00"
@@ -2983,6 +3033,11 @@
       "at": "2026-09-18T01:17:38.909714+00:00",
       "title": "how cooley is accelerating ipo work with chatgpt",
       "url": "openai.com/index/cooley-gopublic"
+    },
+    "rss:https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+      "at": "2026-10-21T18:41:55.078914+00:00",
+      "title": "patch the planet global response coordination as agents uncover critical vulnerabilities",
+      "url": "openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
     },
     "rss:https://openai.com/index/dali-rajic-chief-revenue-officer": {
       "at": "2026-08-19T14:23:12.191402+00:00",
@@ -3394,6 +3449,11 @@
       "title": "sam altman s remarks at the united nations security council",
       "url": "openai.com/index/sam-altman-un-security-council-remarks"
     },
+    "rss:https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+      "at": "2026-10-21T18:41:55.078936+00:00",
+      "title": "using thousands of ai agents to uncover new leads in biological data",
+      "url": "openai.com/index/scaling-ai-research-for-complex-biological-data"
+    },
     "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
       "at": "2026-09-11T17:45:49.029451+00:00",
       "title": "rapidly scaling online storage to serve over 1 billion chatgpt users",
@@ -3586,6 +3646,11 @@
       "at": "2026-10-06T17:13:03.297825+00:00",
       "title": "unlocking earth ai s planetary geospatial foundation models for global public health",
       "url": "research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health"
+    },
+    "rss:https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/": {
+      "at": "2026-10-21T18:41:55.078956+00:00",
+      "title": "empowering frontline maternal care with ai assisted ultrasound",
+      "url": "research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound"
     },
     "rss:https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/": {
       "at": "2026-08-19T17:19:19.683361+00:00",
@@ -3991,6 +4056,11 @@
       "at": "2026-10-21T01:38:35.716312+00:00",
       "title": "emudhra intermediate ca compromise",
       "url": "simonwillison.net/2026/Oct/20/emudhra-certificates"
+    },
+    "rss:https://simonwillison.net/2026/Oct/21/panache/": {
+      "at": "2026-10-21T18:41:55.079035+00:00",
+      "title": "panache rts belle époque pour mobile",
+      "url": "simonwillison.net/2026/Oct/21/panache"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -7441,6 +7511,11 @@
       "title": "openai acquires startup orchestra bio to beef up its biotech business",
       "url": "techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business"
     },
+    "rss:https://techcrunch.com/?p=3179812": {
+      "at": "2026-10-21T18:41:55.079015+00:00",
+      "title": "ai promises productivity but for managers it s mostly a headache for now",
+      "url": "techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey"
+    },
     "rss:https://techcrunch.com/?p=3179822": {
       "at": "2026-10-20T23:12:01.940344+00:00",
       "title": "hugging face ceo warns that netflix s openai hack documentary isn t accurate",
@@ -8005,6 +8080,11 @@
       "at": "2026-10-15T18:20:26.786662+00:00",
       "title": "proof based general purpose computing with magnetar",
       "url": "microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1190191": {
+      "at": "2026-10-21T18:41:55.078868+00:00",
+      "title": "solving a 31 year old grand challenge in mathematics the kls conjecture",
+      "url": "microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -14260,6 +14340,41 @@
       "title": "paper specter fast moe inference via quantization enabled multi step speculative offloading",
       "url": "reddit.com/r/LocalLLaMA/comments/1xbj6an/paper_specter_fast_moe_inference_via"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbl751": {
+      "at": "2026-10-21T18:41:55.078901+00:00",
+      "title": "paper memt 1 0 towards memory native evolution",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbl751/paper_memt10_towards_memorynative_evolution"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbmsgf": {
+      "at": "2026-10-21T18:41:55.078891+00:00",
+      "title": "35b moe running at 20 5 tok s on an iphone without skipping experts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbmsgf/35b_moe_running_at_205_toks_on_an_iphone_without"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbqik0": {
+      "at": "2026-10-21T18:41:55.079061+00:00",
+      "title": "recursivesi flint 40b a2 5b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbqik0/recursivesiflint_40b_a25b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbqxh5": {
+      "at": "2026-10-21T18:41:55.079054+00:00",
+      "title": "ok fine qwen 3 8 flash next is nice",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbqxh5/ok_fine_qwen_38_flash_next_is_nice"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbr2yg": {
+      "at": "2026-10-21T18:41:55.078987+00:00",
+      "title": "ibm granite speech 5 0 2b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbr2yg/ibm_granite_speech_50_2b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbr3u1": {
+      "at": "2026-10-21T18:41:55.079047+00:00",
+      "title": "now that 3090 frenzy warning post makes sense",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbr3u1/now_that_3090_frenzy_warning_post_makes_sense"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbrh0s": {
+      "at": "2026-10-21T18:41:55.078965+00:00",
+      "title": "when will we see these changes china is doubling ram production to keep everyday gadget prices from skyrocketing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbrh0s/when_will_we_see_these_changes_china_is_doubling"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -14726,6 +14841,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-21T13:53:20.859567+00:00",
+  "updated_at": "2026-10-21T18:41:55.079091+00:00",
   "version": 2
 }
