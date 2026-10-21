@@ -45,6 +45,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+        "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+        "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+        "author": null,
+        "published_at": "2026-10-21T06:54:09+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek, 프로덕션 추론 엔진 DeepInfer 오픈소스 공개",
+        "summary_ko": [
+          "DeepSeek은 vLLM 기반의 프로덕션 추론 스택인 DeepInfer를 오픈소스로 전격 공개했습니다.",
+          "해당 엔진은 클러스터당 일일 155조 토큰을 처리하며 80% 이상의 높은 추론 마진과 81일의 투자 회수 기간을 기록했습니다.",
+          "이번 공개는 분산 추론과 프롬프트 캐싱 등 대규모 서비스 운영을 위한 핵심 실무 엔지니어링 정보를 포함하고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xbfhxp",
+        "title": "Be prepared, GPU price increase incoming --> Samsung sells out 100% of all 2027 HBM capacity - HBM prices expected to jump 200% next year, DRAM prices expected to see a double-digit price increase",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung/",
+        "author": "/u/chemist_slime",
+        "published_at": "2026-10-21T06:19:12+00:00"
+      },
+      "insight": {
+        "title_ko": "삼성 2027년 HBM 완판 및 가격 급등 전망",
+        "summary_ko": [
+          "삼성전자가 2027년 물량의 100%에 달하는 HBM 생산량을 전부 판매 완료했습니다.",
+          "내년 HBM 가격은 최대 200%까지 급등할 것으로 예상되며 DRAM 가격도 두 자릿수 상승할 전망입니다.",
+          "이러한 메모리 반도체 가격 상승은 향후 AI 하드웨어 및 GPU 가격 인상으로 이어질 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/tenex",
+        "title": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
+        "url": "https://www.latent.space/p/tenex",
+        "author": null,
+        "published_at": "2026-10-21T05:01:26+00:00"
+      },
+      "insight": {
+        "title_ko": "Tenex의 AI 네이티브 SDLC와 성과 보상 체계",
+        "summary_ko": [
+          "Tenex는 AI 시대에 발맞춰 엔지니어에게 시간 단위가 아닌 산출물과 스토리 포인트 기준으로 보상하는 방식을 도입했습니다.",
+          "Git에 계획과 의사결정을 함께 기록하는 MetaHarness를 통해 에이전트와 사람이 협업하는 AI 네이티브 SDLC를 구축했습니다.",
+          "소프트웨어 개발 비용이 낮아짐에 따라 자체 구축의 효용성과 지속적인 유지보수 비용 사이의 균형이 중요해지고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

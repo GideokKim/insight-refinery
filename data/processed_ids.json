@@ -7366,6 +7366,11 @@
       "title": "us orders federal agencies to remove china s deepseek ai from their systems",
       "url": "techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems"
     },
+    "rss:https://techcrunch.com/?p=3179644": {
+      "at": "2026-10-21T07:40:07.833709+00:00",
+      "title": "ex nvidia turned vc amulya vishwanath physical ai is in its lego era",
+      "url": "techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era"
+    },
     "rss:https://techcrunch.com/?p=3179696": {
       "at": "2026-10-20T18:32:12.065097+00:00",
       "title": "meta s muse hits 10m u s downloads in 40 days a milestone reached by only 11 other apps",
@@ -7565,6 +7570,11 @@
       "at": "2026-08-24T11:19:10.800745+00:00",
       "title": "ainews death of params z ai ceo jie tang on glm 5 3 and the new post training scaling law",
       "url": "latent.space/p/ainews-death-of-params-zai-ceo-jie"
+    },
+    "rss:https://www.latent.space/p/ainews-deepseek-deepinfer-open-source": {
+      "at": "2026-10-21T07:40:07.833571+00:00",
+      "title": "ainews deepseek deepinfer open source sota inference running 155t toks day cluster making 22m day at 80 margin for a 81 day payback",
+      "url": "latent.space/p/ainews-deepseek-deepinfer-open-source"
     },
     "rss:https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b": {
       "at": "2026-09-12T07:11:52.012943+00:00",
@@ -7885,6 +7895,11 @@
       "at": "2026-10-10T16:14:52.592190+00:00",
       "title": "building ai for reliable execution lessons from industrial robotics",
       "url": "latent.space/p/standard-bots"
+    },
+    "rss:https://www.latent.space/p/tenex": {
+      "at": "2026-10-21T07:40:07.833647+00:00",
+      "title": "ai for the fortune 2000 how tenex builds an ai native sdlc alex lieberman cj hess",
+      "url": "latent.space/p/tenex"
     },
     "rss:https://www.latent.space/p/thariq": {
       "at": "2026-09-29T08:32:03.504161+00:00",
@@ -14140,6 +14155,11 @@
       "title": "pocket tts which supports voice cloning is now just 1 9 million parameters",
       "url": "reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xavy8t": {
+      "at": "2026-10-21T07:40:07.833690+00:00",
+      "title": "hardly any benchmarks for intel b65 so i got 4x and tested them long context sweeps for flash next and other models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xavy8t/hardly_any_benchmarks_for_intel_b65_so_i_got_4x"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xaw2vt": {
       "at": "2026-10-20T18:32:12.065115+00:00",
       "title": "phonon is now open source 31m and 40m tts models designed to run on the edge",
@@ -14164,6 +14184,16 @@
       "at": "2026-10-21T01:38:35.716376+00:00",
       "title": "eagle 4 released faster than dflash2 dspark",
       "url": "reddit.com/r/LocalLLaMA/comments/1xb6zds/eagle4_released_faster_than_dflash2_dspark"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xb9z8e": {
+      "at": "2026-10-21T07:40:07.833672+00:00",
+      "title": "exclusive bytedance alibaba tencent place over 35 billion worth of nvidia chip orders",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xb9z8e/exclusive_bytedance_alibaba_tencent_place_over_35"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbfhxp": {
+      "at": "2026-10-21T07:40:07.833616+00:00",
+      "title": "be prepared gpu price increase incoming samsung sells out 100 of all 2027 hbm capacity hbm prices expected to jump 200 next year dram prices expected to see a double digit price increase",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbfhxp/be_prepared_gpu_price_increase_incoming_samsung"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -14631,6 +14661,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-21T01:38:35.716438+00:00",
+  "updated_at": "2026-10-21T07:40:07.833758+00:00",
   "version": 2
 }
