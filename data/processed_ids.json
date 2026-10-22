@@ -1633,6 +1633,11 @@
       "title": "the agent said it was done the database disagreed",
       "url": "huggingface.co/blog/microsoft/thinkingbox"
     },
+    "rss:https://huggingface.co/blog/microsoft/thinkingbox-training": {
+      "at": "2026-10-22T23:23:30.352969+00:00",
+      "title": "turning database grading into rl rewards post training agents with thinkingbox",
+      "url": "huggingface.co/blog/microsoft/thinkingbox-training"
+    },
     "rss:https://huggingface.co/blog/mps-pytorch-2-15": {
       "at": "2026-10-20T13:35:40.766683+00:00",
       "title": "mps in pytorch 2 15",
@@ -2911,6 +2916,11 @@
       "title": "google staff resign in backlash over its ai contracts with military",
       "url": "bbc.com/news/articles/cmreyvepnv0po"
     },
+    "rss:https://news.ycombinator.com/item?id=50197313": {
+      "at": "2026-10-22T23:23:30.353130+00:00",
+      "title": "every ai model has the same controversial take on humans",
+      "url": "modelcompare.ai/blog/ai-models-controversial-take-on-humans"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3103,6 +3113,11 @@
       "at": "2026-09-03T21:59:42.659547+00:00",
       "title": "daybreak for frontline defenders 1b to protect essential services",
       "url": "openai.com/index/daybreak-for-frontline-defenders"
+    },
+    "rss:https://openai.com/index/decisions-api": {
+      "at": "2026-10-22T23:23:30.353059+00:00",
+      "title": "build more responsive apps with the decisions api",
+      "url": "openai.com/index/decisions-api"
     },
     "rss:https://openai.com/index/devday-2026-recap": {
       "at": "2026-09-29T21:26:11.893797+00:00",
@@ -4141,6 +4156,11 @@
       "at": "2026-10-22T18:36:58.486345+00:00",
       "title": "quoting armin ronacher",
       "url": "simonwillison.net/2026/Oct/22/armin-ronacher"
+    },
+    "rss:https://simonwillison.net/2026/Oct/22/de-staat-freedom/": {
+      "at": "2026-10-22T23:23:30.353118+00:00",
+      "title": "de staat freedom official music video",
+      "url": "simonwillison.net/2026/Oct/22/de-staat-freedom"
     },
     "rss:https://simonwillison.net/2026/Oct/22/donating-agent-skills/": {
       "at": "2026-10-22T18:36:58.486162+00:00",
@@ -7666,15 +7686,40 @@
       "title": "deepseek reportedly raises 15b days after us restrictions",
       "url": "techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions"
     },
+    "rss:https://techcrunch.com/?p=3180617": {
+      "at": "2026-10-22T23:23:30.353100+00:00",
+      "title": "canva releases its first image generation model",
+      "url": "techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model"
+    },
     "rss:https://techcrunch.com/?p=3180626": {
       "at": "2026-10-22T18:36:58.486290+00:00",
       "title": "spotify s current ai bet is about being the music service that agents choose",
       "url": "techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose"
     },
+    "rss:https://techcrunch.com/?p=3180667": {
+      "at": "2026-10-22T23:23:30.353066+00:00",
+      "title": "openai makes its jev competitor widely available as decision model competition heats up",
+      "url": "techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up"
+    },
     "rss:https://techcrunch.com/?p=3180678": {
       "at": "2026-10-22T18:36:58.486201+00:00",
       "title": "chinese hackers spied on thousands of companies after breaching it giant connectwise",
       "url": "techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise"
+    },
+    "rss:https://techcrunch.com/?p=3180727": {
+      "at": "2026-10-22T23:23:30.353051+00:00",
+      "title": "1password launches a way for ai agents to log in on your behalf without seeing your password",
+      "url": "techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password"
+    },
+    "rss:https://techcrunch.com/?p=3180761": {
+      "at": "2026-10-22T23:23:30.353075+00:00",
+      "title": "microsoft s mustafa suleyman says its ai outperforms doctors on hard cases as he chases medical superintelligence",
+      "url": "techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence"
+    },
+    "rss:https://techcrunch.com/?p=3180936": {
+      "at": "2026-10-22T23:23:30.353027+00:00",
+      "title": "openai working on new 30b raise at 1 25t valuation ahead of ipo",
+      "url": "techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -14625,10 +14670,30 @@
       "title": "ant ling just announced a second model today ling 3 0 flash sante 124b 5 1b active",
       "url": "reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcmioz": {
+      "at": "2026-10-22T23:23:30.353106+00:00",
+      "title": "q4 flash next for 300 600 snapdragon mini pc results update 315 43 tok s a3b 46 20 tok s flash next read gen",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcmioz/q4_flash_next_for_300600_snapdragon_mini_pc"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcoelw": {
       "at": "2026-10-22T18:36:58.486189+00:00",
       "title": "deepseek and minimax clear china s ai export rules for overseas open source releases",
       "url": "reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcqm0z": {
+      "at": "2026-10-22T23:23:30.353136+00:00",
+      "title": "whatever happened to turboquant",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcqm0z/whatever_happened_to_turboquant"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcs9e2": {
+      "at": "2026-10-22T23:23:30.353044+00:00",
+      "title": "nvidia openshell safe private runtime for autonomous ai agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcs9e2/nvidiaopenshell_safe_private_runtime_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcthj8": {
+      "at": "2026-10-22T23:23:30.353089+00:00",
+      "title": "meta s 816b muse spark open scores 39 on artificial analysis the 180b qwen3 8 flash next scores 40 score vs size for 11 open weight models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15065,6 +15130,16 @@
       "title": "ai breakthroughs in robotics won t change your life any time soon",
       "url": "technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
     },
+    "rss:https://www.technologyreview.com/?p=1146103": {
+      "at": "2026-10-22T23:23:30.353125+00:00",
+      "title": "the foundations of scalable ai",
+      "url": "technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai"
+    },
+    "rss:https://www.technologyreview.com/?p=1146109": {
+      "at": "2026-10-22T23:23:30.353037+00:00",
+      "title": "designing an ai serving harness built to last",
+      "url": "technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last"
+    },
     "rss:https://www.technologyreview.com/?p=1146224": {
       "at": "2026-10-09T00:25:08.392372+00:00",
       "title": "roundtables a conversation with the creator of ai designed viruses",
@@ -15106,6 +15181,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-22T18:36:58.486396+00:00",
+  "updated_at": "2026-10-22T23:23:30.353161+00:00",
   "version": 2
 }
