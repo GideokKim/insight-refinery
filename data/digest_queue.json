@@ -23,6 +23,116 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+        "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+        "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+        "author": null,
+        "published_at": "2026-10-22T07:42:44+00:00"
+      },
+      "insight": {
+        "title_ko": "PHP2Shell 취약점 발견과 AI 기반 대응",
+        "summary_ko": [
+          "OpenAI의 Patch the Planet 프로그램 연구원들이 GPT-5.6 Sol을 활용해 핵심 PHP 엔진에서 치명적인 취약점인 PHP2Shell을 발견했습니다.",
+          "이 취약점은 PHP 내부 처리 결함으로 인해 WordPress와 Drupal 등 주요 CMS에서 원격 코드 실행과 메모리 노출을 유발할 수 있습니다.",
+          "발견 이후 개발자 커뮤니티와 보안 업체들은 약 두 달간 긴밀히 협력하여 패치를 조율하고 긴급 대응을 수행했습니다."
+        ],
+        "category": "Infra",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3180589",
+        "title": "DeepSeek reportedly raises $15B days after US restrictions",
+        "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+        "author": "Kate Park",
+        "published_at": "2026-10-22T13:11:13+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek, 미국 규제 직후 150억 달러 투자 유치",
+        "summary_ko": [
+          "미국 연방기관의 기술 제거 명령이 내려진 지 며칠 만에 DeepSeek이 대규모 투자를 유치했습니다.",
+          "이번 자금 조달 규모는 150억 달러로 중국 내에서 손꼽히는 최대 규모의 펀딩 라운드 중 하나입니다.",
+          "미국의 국가 안보 우려와 규제 강화 속에서도 해당 기업의 자금 확보가 이뤄져 주목받고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1146812",
+        "title": "Making the case for context-aware AI",
+        "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+        "author": "MIT Technology Review Insights",
+        "published_at": "2026-10-22T10:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "엔터프라이즈 AI를 위한 컨텍스트 인식의 중요성",
+        "summary_ko": [
+          "엔터프라이즈 AI는 비즈니스 운영 방식에 대한 이해가 부족하면 실제 업무에서 제약과 실수를 놓칠 수 있습니다.",
+          "AI 에이전트가 복잡한 업무 프로세스에서 유용하게 작동하려면 기업의 실제 데이터와 워크플로우를 연결하는 맥락적 레이어가 필요합니다.",
+          "조직은 특정 비즈니스 결정을 시작으로 AI를 테스트하고, 인력 교육에 투자하여 전략적 의사결정에 집중해야 합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1146948",
+        "title": "AI’s hidden storage bill: What inference leaves behind",
+        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+        "author": "Tim Rausch",
+        "published_at": "2026-10-22T08:41:18+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 인프라의 숨겨진 비용, 데이터 스토리지",
+        "summary_ko": [
+          "AI 인프라 비용 논의는 주로 GPU 연산에 집중되어 왔으나, 추론 과정에서 발생하는 방대한 데이터 스토리지 비용이 간과되고 있습니다.",
+          "추론 요청이 늘어남에 따라 로그, 캐시, 백업 등 백엔드 데이터 용량은 최종 결과물 크기의 수백 배에 달하며 빠르게 증가하고 있습니다.",
+          "이에 따라 기업들은 컴퓨팅 예산뿐만 아니라 대규모 데이터 저장을 위한 스토리지 인프라와 예산 계획을 재조정해야 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xc55z3",
+        "title": "2-bit copy in VRAM + exact residual in system RAM as the verifier: speculative decoding for models that don't fit your GPU",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc55z3/2bit_copy_in_vram_exact_residual_in_system_ram_as/",
+        "author": "/u/Happy_Guitar3521",
+        "published_at": "2026-10-22T01:18:28+00:00"
+      },
+      "insight": {
+        "title_ko": "VRAM 부족 해결을 위한 2-bit 레지듀얼 Speculative Decoding",
+        "summary_ko": [
+          "GPU VRAM에는 2-bit 모델 복사본을 유지하고 나머지 가중치 잔여값은 시스템 RAM에 저장하는 새로운 추론 기법이 제안되었습니다.",
+          "2-bit 모델이 토큰을 초안 생성하고 CPU가 잔여 가중치를 검증하는 방식으로 작동하여 메모리 병목을 줄입니다.",
+          "실험 결과 기존 방식 대비 더 적은 메모리를 사용하면서도 높은 품질과 향상된 토큰 수락률을 보여줍니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

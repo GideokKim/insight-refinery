@@ -1578,6 +1578,11 @@
       "title": "thinking of ace we can do it with fewer tokens",
       "url": "huggingface.co/blog/ibm-research/altk-evolve-sldd"
     },
+    "rss:https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
+      "at": "2026-10-22T13:52:08.595903+00:00",
+      "title": "ensemble forecasting with ibm granite time series models",
+      "url": "huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+    },
     "rss:https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series": {
       "at": "2026-09-09T17:52:30.546282+00:00",
       "title": "ibm releases sota granite time series patchtst fm r2 model with commercial friendly license",
@@ -3123,6 +3128,11 @@
       "at": "2026-08-27T12:49:39.361064+00:00",
       "title": "expanding openai s presence in brazil",
       "url": "openai.com/index/expanding-our-presence-in-brazil"
+    },
+    "rss:https://openai.com/index/forward-deployed-engineering-means": {
+      "at": "2026-10-22T13:52:08.595970+00:00",
+      "title": "what fde means at openai",
+      "url": "openai.com/index/forward-deployed-engineering-means"
     },
     "rss:https://openai.com/index/fyxer": {
       "at": "2026-09-14T20:59:08.073439+00:00",
@@ -7591,6 +7601,16 @@
       "title": "meta says muse has over 10m users with shopping a top activity",
       "url": "techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity"
     },
+    "rss:https://techcrunch.com/?p=3180570": {
+      "at": "2026-10-22T13:52:08.595921+00:00",
+      "title": "nirva raises 33m for a pendant that only listens to you",
+      "url": "techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you"
+    },
+    "rss:https://techcrunch.com/?p=3180589": {
+      "at": "2026-10-22T13:52:08.595817+00:00",
+      "title": "deepseek reportedly raises 15b days after us restrictions",
+      "url": "techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -7865,6 +7885,11 @@
       "at": "2026-08-28T13:29:03.621944+00:00",
       "title": "ainews openai to reach agi bar by end 2026",
       "url": "latent.space/p/ainews-openai-to-reach-agi-bar-by"
+    },
+    "rss:https://www.latent.space/p/ainews-openais-patch-the-planet-program": {
+      "at": "2026-10-22T13:52:08.595760+00:00",
+      "title": "ainews openai s patch the planet program is 1 of 2 parties to discover php2shell vulnerabilities in core php affecting 70 of the web using gpt 5 6 sol coordinated response over 2 months",
+      "url": "latent.space/p/ainews-openais-patch-the-planet-program"
     },
     "rss:https://www.latent.space/p/ainews-opus-55-is-good-at-explainer": {
       "at": "2026-09-29T08:32:03.504151+00:00",
@@ -14465,6 +14490,36 @@
       "title": "kitten tts 2 new open source sota 1 58 bit tts cpu only with voice cloning multilingual emotion control",
       "url": "reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xc55z3": {
+      "at": "2026-10-22T13:52:08.595868+00:00",
+      "title": "2 bit copy in vram exact residual in system ram as the verifier speculative decoding for models that don t fit your gpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xc55z3/2bit_copy_in_vram_exact_residual_in_system_ram_as"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xc5qac": {
+      "at": "2026-10-22T13:52:08.595999+00:00",
+      "title": "open source llm appreciation post",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xc84ht": {
+      "at": "2026-10-22T13:52:08.595982+00:00",
+      "title": "what s your favorite medium to large 50 150b params moe model aside from qwen flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xc84ht/whats_your_favorite_medium_to_large_50150b_params"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xce5dd": {
+      "at": "2026-10-22T13:52:08.595952+00:00",
+      "title": "tried lfm2 5 24 a2b it s crap yes i double confirm it i wouldn t trust it peeling a peanut correctly",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcf8kb": {
+      "at": "2026-10-22T13:52:08.595937+00:00",
+      "title": "llama cpp pr how to beat strata decode performance with a r9700",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcf8kb/llamacpp_pr_how_to_beat_strata_decode_performance"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcftoo": {
+      "at": "2026-10-22T13:52:08.595886+00:00",
+      "title": "ling 3 1 flash is getting a 1019 update with open weights to follow",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcftoo/ling31flash_is_getting_a_1019_update_with_open"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -14910,10 +14965,20 @@
       "title": "open models have real benefits do they outweigh the risks",
       "url": "technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks"
     },
+    "rss:https://www.technologyreview.com/?p=1146812": {
+      "at": "2026-10-22T13:52:08.595838+00:00",
+      "title": "making the case for context aware ai",
+      "url": "technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai"
+    },
     "rss:https://www.technologyreview.com/?p=1146937": {
       "at": "2026-10-20T18:32:12.065020+00:00",
       "title": "the new economics of enterprise ai",
       "url": "technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai"
+    },
+    "rss:https://www.technologyreview.com/?p=1146948": {
+      "at": "2026-10-22T13:52:08.595853+00:00",
+      "title": "ai s hidden storage bill what inference leaves behind",
+      "url": "technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind"
     },
     "rss:https://www.technologyreview.com/?p=1147095": {
       "at": "2026-10-19T15:37:44.478535+00:00",
@@ -14931,6 +14996,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-22T07:35:51.097483+00:00",
+  "updated_at": "2026-10-22T13:52:08.596041+00:00",
   "version": 2
 }
