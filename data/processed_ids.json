@@ -555,6 +555,11 @@
       "title": "apple changes full disk access permissions to curb abuse from ai agents",
       "url": "arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
     },
+    "rss:https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/": {
+      "at": "2026-10-22T18:36:58.486129+00:00",
+      "title": "hackers got a four day head start on epic php2shell vulnerability",
+      "url": "arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability"
+    },
     "rss:https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/": {
       "at": "2026-10-20T13:35:40.766451+00:00",
       "title": "meta muse exposes users personal and business secrets when they share conversations",
@@ -799,6 +804,11 @@
       "at": "2026-09-08T17:40:11.523007+00:00",
       "title": "alphagenome atlas a predictive map of every possible dna letter change in the human genome",
       "url": "deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome"
+    },
+    "rss:https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
+      "at": "2026-10-22T18:36:58.486309+00:00",
+      "title": "beyond tree cover mapping the world s forest types",
+      "url": "deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types"
     },
     "rss:https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
       "at": "2026-10-13T20:18:11.652261+00:00",
@@ -1350,6 +1360,16 @@
       "title": "how nvidia openshell reference architecture secures and governs ai agent workloads at scale",
       "url": "developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale"
     },
+    "rss:https://developer.nvidia.com/blog/?p=123934": {
+      "at": "2026-10-22T18:36:58.486244+00:00",
+      "title": "running frontier class ai models across 8 nvidia dgx spark nodes",
+      "url": "developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123962": {
+      "at": "2026-10-22T18:36:58.486209+00:00",
+      "title": "how to read data into gpu memory in python with nvidia gpudirect storage",
+      "url": "developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1469,6 +1489,11 @@
       "at": "2026-08-19T17:19:19.683313+00:00",
       "title": "introducing olmoearth embeddings custom embedding exports from olmoearth studio for downstream analysis",
       "url": "huggingface.co/blog/allenai/olmoearth-embeddings"
+    },
+    "rss:https://huggingface.co/blog/allenai/olmoearth-v1-3": {
+      "at": "2026-10-22T18:36:58.486219+00:00",
+      "title": "olmoearth v1 3 state of the art embeddings for the whole planet",
+      "url": "huggingface.co/blog/allenai/olmoearth-v1-3"
     },
     "rss:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
       "at": "2026-10-21T18:41:55.078976+00:00",
@@ -3617,6 +3642,11 @@
       "title": "two years of openai academy",
       "url": "openai.com/index/two-years-of-openai-academy"
     },
+    "rss:https://openai.com/index/uber-chatgpt-work-rollout": {
+      "at": "2026-10-22T18:36:58.486327+00:00",
+      "title": "uber brings chatgpt work to all employees with openai",
+      "url": "openai.com/index/uber-chatgpt-work-rollout"
+    },
     "rss:https://openai.com/index/unlocking-new-ways-of-working": {
       "at": "2026-09-16T18:14:09.223524+00:00",
       "title": "how workers are unlocking new ways of working",
@@ -4106,6 +4136,16 @@
       "at": "2026-10-21T23:19:26.489528+00:00",
       "title": "today s php security release and how we re strengthening php security",
       "url": "simonwillison.net/2026/Oct/21/php-security-release"
+    },
+    "rss:https://simonwillison.net/2026/Oct/22/armin-ronacher/": {
+      "at": "2026-10-22T18:36:58.486345+00:00",
+      "title": "quoting armin ronacher",
+      "url": "simonwillison.net/2026/Oct/22/armin-ronacher"
+    },
+    "rss:https://simonwillison.net/2026/Oct/22/donating-agent-skills/": {
+      "at": "2026-10-22T18:36:58.486162+00:00",
+      "title": "donating agent skills to the agentic ai foundation",
+      "url": "simonwillison.net/2026/Oct/22/donating-agent-skills"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -7576,6 +7616,11 @@
       "title": "while amazon blocks ai agents walmart rolls out the welcome mat",
       "url": "techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat"
     },
+    "rss:https://techcrunch.com/?p=3180196": {
+      "at": "2026-10-22T18:36:58.486283+00:00",
+      "title": "uber puts all 30 000 employees on chatgpt work",
+      "url": "techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work"
+    },
     "rss:https://techcrunch.com/?p=3180197": {
       "at": "2026-10-21T23:19:26.489584+00:00",
       "title": "php armageddon openai google s wiz find ancient holes panicking the internet",
@@ -7590,6 +7635,11 @@
       "at": "2026-10-21T23:19:26.489611+00:00",
       "title": "recursive launches flint a laptop coding model it says was largely built by ai",
       "url": "techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai"
+    },
+    "rss:https://techcrunch.com/?p=3180349": {
+      "at": "2026-10-22T18:36:58.486336+00:00",
+      "title": "meta wants to pay for its broad ai buildout with a newly created class of stock",
+      "url": "techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock"
     },
     "rss:https://techcrunch.com/?p=3180358": {
       "at": "2026-10-21T23:19:26.489644+00:00",
@@ -7606,10 +7656,25 @@
       "title": "nirva raises 33m for a pendant that only listens to you",
       "url": "techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you"
     },
+    "rss:https://techcrunch.com/?p=3180587": {
+      "at": "2026-10-22T18:36:58.486265+00:00",
+      "title": "claude duet app is anthropic s bet on agents",
+      "url": "techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents"
+    },
     "rss:https://techcrunch.com/?p=3180589": {
       "at": "2026-10-22T13:52:08.595817+00:00",
       "title": "deepseek reportedly raises 15b days after us restrictions",
       "url": "techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions"
+    },
+    "rss:https://techcrunch.com/?p=3180626": {
+      "at": "2026-10-22T18:36:58.486290+00:00",
+      "title": "spotify s current ai bet is about being the music service that agents choose",
+      "url": "techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose"
+    },
+    "rss:https://techcrunch.com/?p=3180678": {
+      "at": "2026-10-22T18:36:58.486201+00:00",
+      "title": "chinese hackers spied on thousands of companies after breaching it giant connectwise",
+      "url": "techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -8046,6 +8111,16 @@
       "title": "the future of saas is apps that agents can use",
       "url": "latent.space/p/lovable-future-of-saas"
     },
+    "rss:https://www.latent.space/p/modal-d": {
+      "at": "2026-10-22T18:36:58.486175+00:00",
+      "title": "why ai compute comes in rectangles erik bernhardsson modal ceo",
+      "url": "latent.space/p/modal-d"
+    },
+    "rss:https://www.latent.space/p/moshi": {
+      "at": "2026-10-22T18:36:58.486319+00:00",
+      "title": "you are the team anekha sokhal moshi",
+      "url": "latent.space/p/moshi"
+    },
     "rss:https://www.latent.space/p/nyc2026": {
       "at": "2026-10-11T01:54:09.730340+00:00",
       "title": "subscriber exclusive nyc subscriber meetups",
@@ -8175,6 +8250,11 @@
       "at": "2026-10-21T18:41:55.078868+00:00",
       "title": "solving a 31 year old grand challenge in mathematics the kls conjecture",
       "url": "microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1190353": {
+      "at": "2026-10-22T18:36:58.486232+00:00",
+      "title": "flint interactive a language for creating interactive data visualizations",
+      "url": "microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -14500,6 +14580,11 @@
       "title": "open source llm appreciation post",
       "url": "reddit.com/r/LocalLLaMA/comments/1xc5qac/open_source_llm_appreciation_post"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xc7n0n": {
+      "at": "2026-10-22T18:36:58.486361+00:00",
+      "title": "i have an answer qwen flash next iq2 is better than q8 of 27b for me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xc7n0n/i_have_an_answer_qwen_flash_next_iq2_is_better"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xc84ht": {
       "at": "2026-10-22T13:52:08.595982+00:00",
       "title": "what s your favorite medium to large 50 150b params moe model aside from qwen flash next",
@@ -14510,6 +14595,11 @@
       "title": "tried lfm2 5 24 a2b it s crap yes i double confirm it i wouldn t trust it peeling a peanut correctly",
       "url": "reddit.com/r/LocalLLaMA/comments/1xce5dd/tried_lfm2524a2b_its_crap_yes_i_double_confirm_it"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcew36": {
+      "at": "2026-10-22T18:36:58.486273+00:00",
+      "title": "carbon x the best open dna language model runs locally with llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcew36/carbonx_the_best_open_dna_language_model_runs"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcf8kb": {
       "at": "2026-10-22T13:52:08.595937+00:00",
       "title": "llama cpp pr how to beat strata decode performance with a r9700",
@@ -14519,6 +14609,26 @@
       "at": "2026-10-22T13:52:08.595886+00:00",
       "title": "ling 3 1 flash is getting a 1019 update with open weights to follow",
       "url": "reddit.com/r/LocalLLaMA/comments/1xcftoo/ling31flash_is_getting_a_1019_update_with_open"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcj1wm": {
+      "at": "2026-10-22T18:36:58.486353+00:00",
+      "title": "qwen4 and kimi3 1 on arena apperantly",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xckdep": {
+      "at": "2026-10-22T18:36:58.486300+00:00",
+      "title": "repair shop receives eight geforce rtx 5090 and rtx 4090 cards with melted 16 pin connectors in two days",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xckdep/repair_shop_receives_eight_geforce_rtx_5090_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcljvi": {
+      "at": "2026-10-22T18:36:58.486253+00:00",
+      "title": "ant ling just announced a second model today ling 3 0 flash sante 124b 5 1b active",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcljvi/ant_ling_just_announced_a_second_model_today"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcoelw": {
+      "at": "2026-10-22T18:36:58.486189+00:00",
+      "title": "deepseek and minimax clear china s ai export rules for overseas open source releases",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -14996,6 +15106,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-22T13:52:08.596041+00:00",
+  "updated_at": "2026-10-22T18:36:58.486396+00:00",
   "version": 2
 }
