@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-21T23:19:24.579323+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xc48or",
+        "title": "Kitten-TTS 2: New Open-source SOTA 1.58 bit TTS (CPU-only with voice cloning, multilingual, emotion control)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts/",
+        "author": "/u/ElectricalBar7464",
+        "published_at": "2026-10-22T00:33:11+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 1.58비트 음성 합성 모델 Kitten-TTS 2 공개",
+        "summary_ko": [
+          "KittenML이 세계 최초의 1.58비트 오픈소스 TTS 모델인 Kitten-TTS 2의 코드와 가중치를 공개했습니다.",
+          "이 모델은 1.7B 파라미터 규모를 가지며 CPU 전용 환경에서도 실시간으로 구동되는 높은 효율성을 자랑합니다.",
+          "5초 미만의 오디오로 제로샷 음성 복제가 가능하며 20개 이상의 다국어 지원과 감정 및 강조 제어 기능을 제공합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

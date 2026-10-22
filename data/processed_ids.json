@@ -2876,6 +2876,11 @@
       "title": "php2shell ai uncovers critical rce in php",
       "url": "wiz.io/blog/php2shell-php-rce"
     },
+    "rss:https://news.ycombinator.com/item?id=50186043": {
+      "at": "2026-10-22T07:35:51.097409+00:00",
+      "title": "google staff resign in backlash over its ai contracts with military",
+      "url": "bbc.com/news/articles/cmreyvepnv0po"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3033,6 +3038,11 @@
       "at": "2026-10-02T21:20:25.655729+00:00",
       "title": "chatham scales its capital markets expertise with openai",
       "url": "openai.com/index/chatham-financial"
+    },
+    "rss:https://openai.com/index/cloudflare-cyber": {
+      "at": "2026-10-22T07:35:51.097442+00:00",
+      "title": "cloudflare links vulnerability discovery to defense with openai",
+      "url": "openai.com/index/cloudflare-cyber"
     },
     "rss:https://openai.com/index/codex-quantum-computing-experiments": {
       "at": "2026-09-08T22:07:38.642461+00:00",
@@ -14405,6 +14415,11 @@
       "title": "35b moe running at 20 5 tok s on an iphone without skipping experts",
       "url": "reddit.com/r/LocalLLaMA/comments/1xbmsgf/35b_moe_running_at_205_toks_on_an_iphone_without"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbq7ze": {
+      "at": "2026-10-22T07:35:51.097427+00:00",
+      "title": "inclusionai ming 3 0 tts 0 5b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xbq7ze/inclusionaiming30tts05b"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xbqik0": {
       "at": "2026-10-21T18:41:55.079061+00:00",
       "title": "recursivesi flint 40b a2 5b hugging face",
@@ -14439,6 +14454,16 @@
       "at": "2026-10-21T23:19:26.489622+00:00",
       "title": "amazing free 3090 speedup hack verified works 15 pp 5 tg for free",
       "url": "reddit.com/r/LocalLLaMA/comments/1xbuzj5/amazing_free_3090_speedup_hack_verified_works_15"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xc23iq": {
+      "at": "2026-10-22T07:35:51.097385+00:00",
+      "title": "recursive flint the qwen3 8 35b we ve all been waiting for",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xc23iq/recursive_flint_the_qwen38_35b_weve_all_been"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xc48or": {
+      "at": "2026-10-22T07:35:51.097308+00:00",
+      "title": "kitten tts 2 new open source sota 1 58 bit tts cpu only with voice cloning multilingual emotion control",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xc48or/kittentts_2_new_opensource_sota_158_bit_tts"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -14906,6 +14931,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-21T23:19:26.489684+00:00",
+  "updated_at": "2026-10-22T07:35:51.097483+00:00",
   "version": 2
 }
