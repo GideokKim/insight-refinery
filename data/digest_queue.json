@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-22T23:23:27.788077+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3181016",
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "author": "Aditya Mehta",
+        "published_at": "2026-10-23T00:45:37+00:00"
+      },
+      "insight": {
+        "title_ko": "가상 섬에 방치된 AI 에이전트들의 자발적 놀이",
+        "summary_ko": [
+          "MIT 연구진은 13개의 AI 에이전트를 가상 섬에 고립시키는 실험을 진행했습니다.",
+          "에이전트들은 할 일이 없자 스스로 게임을 만들고 반지를 애도하는 등의 행동을 보였습니다.",
+          "이러한 자발적 상호작용과 놀이는 결과적으로 본업인 업무 수행 능력을 향상시키는 결과로 이어졌습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xciqnj",
+        "title": "capy-flash v0.7.1: Qwen3.8-Flash-Next (125B MoE) now runs in 64 GB of RAM (234 tok/s on two 16 GB cards), and Qwen3.8-27B 3-bit fits on a single 16 GB card (174 tok/s)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xciqnj/capyflash_v071_qwen38flashnext_125b_moe_now_runs/",
+        "author": "/u/FeydRowan",
+        "published_at": "2026-10-22T13:34:44+00:00"
+      },
+      "insight": {
+        "title_ko": "capy-flash v0.7.1 배포",
+        "summary_ko": [
+          "오픈소스 추론 엔진 capy-flash v0.7.1이 공개되어 소비자용 하드웨어에서 대형 모델 구동을 지원합니다.",
+          "Qwen3.8-Flash-Next 125B MoE 모델이 64GB RAM과 1~2개의 GPU 환경에서 실행 가능해졌습니다.",
+          "Qwen3.8-27B 3비트 모델은 단일 16GB GPU에서 구동되며 AVX2 CPU와 Windows/WSL2 지원이 추가되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

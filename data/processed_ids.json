@@ -2921,6 +2921,11 @@
       "title": "every ai model has the same controversial take on humans",
       "url": "modelcompare.ai/blog/ai-models-controversial-take-on-humans"
     },
+    "rss:https://news.ycombinator.com/item?id=50199230": {
+      "at": "2026-10-23T07:32:37.864998+00:00",
+      "title": "ai and the enclosure of the scientific commons",
+      "url": "arxiv.org/abs/2610.27251"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3408,6 +3413,11 @@
       "at": "2026-10-21T13:53:20.859395+00:00",
       "title": "openai models are coming to google cloud",
       "url": "openai.com/index/openai-models-google-cloud"
+    },
+    "rss:https://openai.com/index/openai-nask-ai-safety-security-partnership": {
+      "at": "2026-10-23T07:32:37.864975+00:00",
+      "title": "openai and poland s nask partner to advance ai safety and security",
+      "url": "openai.com/index/openai-nask-ai-safety-security-partnership"
     },
     "rss:https://openai.com/index/openai-to-acquire-orchestra-bio": {
       "at": "2026-10-20T18:32:12.065074+00:00",
@@ -7716,10 +7726,20 @@
       "title": "microsoft s mustafa suleyman says its ai outperforms doctors on hard cases as he chases medical superintelligence",
       "url": "techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence"
     },
+    "rss:https://techcrunch.com/?p=3180898": {
+      "at": "2026-10-23T07:32:37.864963+00:00",
+      "title": "uber rival indrive eyes 2027 robotaxi tests in central asia with pony ai and nvidia",
+      "url": "techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia"
+    },
     "rss:https://techcrunch.com/?p=3180936": {
       "at": "2026-10-22T23:23:30.353027+00:00",
       "title": "openai working on new 30b raise at 1 25t valuation ahead of ipo",
       "url": "techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3181016": {
+      "at": "2026-10-23T07:32:37.864893+00:00",
+      "title": "left alone with nothing to do ai agents started playing",
+      "url": "techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -14655,6 +14675,11 @@
       "title": "ling 3 1 flash is getting a 1019 update with open weights to follow",
       "url": "reddit.com/r/LocalLLaMA/comments/1xcftoo/ling31flash_is_getting_a_1019_update_with_open"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xciqnj": {
+      "at": "2026-10-23T07:32:37.864934+00:00",
+      "title": "capy flash v0 7 1 qwen3 8 flash next 125b moe now runs in 64 gb of ram 234 tok s on two 16 gb cards and qwen3 8 27b 3 bit fits on a single 16 gb card 174 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xciqnj/capyflash_v071_qwen38flashnext_125b_moe_now_runs"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcj1wm": {
       "at": "2026-10-22T18:36:58.486353+00:00",
       "title": "qwen4 and kimi3 1 on arena apperantly",
@@ -14694,6 +14719,16 @@
       "at": "2026-10-22T23:23:30.353089+00:00",
       "title": "meta s 816b muse spark open scores 39 on artificial analysis the 180b qwen3 8 flash next scores 40 score vs size for 11 open weight models",
       "url": "reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcuqor": {
+      "at": "2026-10-23T07:32:37.864988+00:00",
+      "title": "making kokoro tts 50 100x faster without knowing how",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xd0fgs": {
+      "at": "2026-10-23T07:32:37.865006+00:00",
+      "title": "minimax m3 1 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15181,6 +15216,6 @@
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   },
-  "updated_at": "2026-10-22T23:23:30.353161+00:00",
+  "updated_at": "2026-10-23T07:32:37.865042+00:00",
   "version": 2
 }
