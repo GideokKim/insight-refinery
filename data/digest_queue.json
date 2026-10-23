@@ -67,6 +67,116 @@
         "importance": 5
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124139",
+        "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+        "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-10-23T17:27:52+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA TensorRT Global Performance Tuner 소개",
+        "summary_ko": [
+          "NVIDIA TensorRT 11.1에서 소개된 Global Performance Tuner는 자동 성능 최적화 기능입니다.",
+          "이 도구는 다양한 모델에 맞춰 최적화를 커스터마이징하여 정확도를 유지하면서 성능을 향상시킵니다.",
+          "딥러닝 스케줄링 단계의 과제를 해결하며 엔드투엔드 성능 튜닝을 자동으로 제공합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+        "author": null,
+        "published_at": "2026-10-23T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "ChatGPT 10억 사용자 위한 스토리지 확장",
+        "summary_ko": [
+          "OpenAI는 10억 명이 넘는 ChatGPT 사용자를 지원하기 위해 스토리지 시스템인 Habitat을 대규모로 확장했습니다.",
+          "안정적인 멀티테넌시, 글로벌 캐싱, Azure Cosmos DB를 활용하여 읽기 성능을 12배 향상시켰습니다.",
+          "이번 기술 공개는 대규모 AI 서비스 운영을 위한 인프라 아키텍처 개선 사례를 보여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_46e4845e-1c40-414a-8538-c0bf636fb11a",
+        "title": "AI Is Getting Good at Math. Here’s Why.",
+        "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+        "author": "Ankit Maloo",
+        "published_at": "2026-10-23T15:19:48+00:00"
+      },
+      "insight": {
+        "title_ko": "AI의 수학 문제 해결 능력과 복잡성 모델",
+        "summary_ko": [
+          "최근 OpenAI와 Anthropic의 모델들이 에르되시 단위 거리 추측 등 오랜 수학적 난제들을 연이어 해결하고 있습니다.",
+          "저자는 수학적 문제 해결의 난이도를 힌트 시퀀스의 길이와 그 사이의 노력으로 정의하는 콜로고프 복잡성 개념으로 설명합니다.",
+          "인간과 달리 AI는 새로운 통찰과 탐색 방식을 통해 수학 문제를 접근하며 실무적 활용 가능성을 높여가고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xdg0v0",
+        "title": "Small post about what are the unlocks for RTX consumer GPUs, which ones are affected, in which tasks and which ones are feasible to do an unlock.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx/",
+        "author": "/u/panchovix",
+        "published_at": "2026-10-23T14:44:31+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA 지포스 GPU 성능 제한 및 언락 현황 분석",
+        "summary_ko": [
+          "엔비디아는 시장 세분화를 목적으로 컨슈머용 RTX GPU에서 FP32 누산 성능을 의도적으로 제한하고 있다.",
+          "이 제한은 파인튜닝, 디퓨전 모델, 대규모 배치 추론 등 연산 집약적 작업에서 성능 저하를 유발한다.",
+          "RTX 20, 30, 40 시리즈는 언락 가능성이 높은 반면, 하드웨어 퓨즈가 도입된 RTX 50 시리즈는 해제가 어렵다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xd4mlk",
+        "title": "Nemotron-3.5-Embed, Parse, and Rerank",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd4mlk/nemotron35embed_parse_and_rerank/",
+        "author": "/u/ChexterWang",
+        "published_at": "2026-10-23T04:46:23+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Nemotron-3.5 임베드 및 리랭크 모델 공개",
+        "summary_ko": [
+          "NVIDIA가 Nemotron 3.0 버전을 업그레이드하여 Nemotron-3.5 임베드, 파스, 리랭크 모델들을 새롭게 공개했습니다.",
+          "이번에 공개된 모델에는 1B 및 8B 크기의 임베드 모델과 8B 크기의 리랭크 및 파스 모델이 포함되어 있습니다.",
+          "해당 모델들은 RAG 파이프라인 성능을 개선하려는 실무자들에게 중요한 참고 자료가 됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

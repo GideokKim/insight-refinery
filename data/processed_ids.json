@@ -265,6 +265,11 @@
       "title": "amazon has over 1 million robot workers what s next for human employees",
       "url": "arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work"
     },
+    "rss:https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/": {
+      "at": "2026-10-23T18:22:51.539102+00:00",
+      "title": "intel gets waiver after worries fuzzy us ban on foreign made robots may hit fabs",
+      "url": "arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs"
+    },
     "rss:https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/": {
       "at": "2026-10-07T20:01:13.684691+00:00",
       "title": "mistral says le chonk can challenge the best ai models",
@@ -1370,6 +1375,16 @@
       "title": "how to read data into gpu memory in python with nvidia gpudirect storage",
       "url": "developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124028": {
+      "at": "2026-10-23T18:22:51.539123+00:00",
+      "title": "using ai agents to teach robots like microduck to walk in simulation",
+      "url": "developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124139": {
+      "at": "2026-10-23T18:22:51.539013+00:00",
+      "title": "scaling nvidia tensorrt performance optimization beyond a single build route with the global performance tuner part 2",
+      "url": "developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1479,6 +1494,11 @@
       "at": "2026-10-09T17:29:55.217301+00:00",
       "title": "impactful scheduling for gpu clusters",
       "url": "huggingface.co/blog/allenai/impactful-scheduling"
+    },
+    "rss:https://huggingface.co/blog/allenai/litpivot": {
+      "at": "2026-10-23T18:22:51.539112+00:00",
+      "title": "litpivot developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "huggingface.co/blog/allenai/litpivot"
     },
     "rss:https://huggingface.co/blog/allenai/olmocore3": {
       "at": "2026-10-01T17:23:15.420885+00:00",
@@ -3558,6 +3578,11 @@
       "at": "2026-09-11T17:45:49.029451+00:00",
       "title": "rapidly scaling online storage to serve over 1 billion chatgpt users",
       "url": "openai.com/index/scaling-storage-one-billion-users-part-one"
+    },
+    "rss:https://openai.com/index/scaling-storage-one-billion-users-part-two": {
+      "at": "2026-10-23T18:22:51.539049+00:00",
+      "title": "rapidly scaling online storage to serve over 1 billion chatgpt users part ii",
+      "url": "openai.com/index/scaling-storage-one-billion-users-part-two"
     },
     "rss:https://openai.com/index/sentinelone": {
       "at": "2026-10-14T18:40:13.644761+00:00",
@@ -14745,6 +14770,11 @@
       "title": "minimax m3 1 flash",
       "url": "reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xd4mlk": {
+      "at": "2026-10-23T18:22:51.539090+00:00",
+      "title": "nemotron 3 5 embed parse and rerank",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xd4mlk/nemotron35embed_parse_and_rerank"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xd7ptj": {
       "at": "2026-10-23T13:28:29.013062+00:00",
       "title": "models disappearing from huggingface",
@@ -14754,6 +14784,36 @@
       "at": "2026-10-23T13:28:29.013052+00:00",
       "title": "qwen3 0 6b model converted into moe",
       "url": "reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xd8al3": {
+      "at": "2026-10-23T18:22:51.539145+00:00",
+      "title": "anyone checked gpu unlock for rtx 30 40 cards",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xd8al3/anyone_checked_gpu_unlock_for_rtx_3040_cards"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdcpxb": {
+      "at": "2026-10-23T18:22:51.539138+00:00",
+      "title": "everything will be local eventually",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdcpxb/everything_will_be_local_eventually"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdeg0n": {
+      "at": "2026-10-23T18:22:51.539132+00:00",
+      "title": "probability of backdoors in popular harnesses and llm inference engines",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdeg0n/probability_of_backdoors_in_popular_harnesses_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdg0v0": {
+      "at": "2026-10-23T18:22:51.539076+00:00",
+      "title": "small post about what are the unlocks for rtx consumer gpus which ones are affected in which tasks and which ones are feasible to do an unlock",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdg0v0/small_post_about_what_are_the_unlocks_for_rtx"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdh57e": {
+      "at": "2026-10-23T18:22:51.539160+00:00",
+      "title": "vibecoding your own inference engine is easy they said",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdk6ow": {
+      "at": "2026-10-23T18:22:51.539153+00:00",
+      "title": "introducing kimi k3 1 pro advancing open intelligence",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdk6ow/introducing_kimi_k31_pro_advancing_open"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15244,8 +15304,13 @@
       "at": "2026-10-23T13:28:29.012950+00:00",
       "title": "ainews black october",
       "url": "latent.space/p/ainews-black-october"
+    },
+    "rss:urn:latent-space:post:post_46e4845e-1c40-414a-8538-c0bf636fb11a": {
+      "at": "2026-10-23T18:22:51.539062+00:00",
+      "title": "ai is getting good at math here s why",
+      "url": "latent.space/p/ai-is-getting-good-at-math"
     }
   },
-  "updated_at": "2026-10-23T13:28:29.013096+00:00",
+  "updated_at": "2026-10-23T18:22:51.539196+00:00",
   "version": 2
 }
