@@ -390,6 +390,11 @@
       "title": "ukraine s drones knock out ai data center belonging to russia s google",
       "url": "arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google"
     },
+    "rss:https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/": {
+      "at": "2026-10-23T23:09:50.024598+00:00",
+      "title": "updated google privacy policy says your gmail might be used for advertising",
+      "url": "arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising"
+    },
     "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
       "at": "2026-08-31T15:35:36.937264+00:00",
       "title": "pocket s ai made my game ideas real now meta controls the results",
@@ -1379,6 +1384,11 @@
       "at": "2026-10-23T18:22:51.539123+00:00",
       "title": "using ai agents to teach robots like microduck to walk in simulation",
       "url": "developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124071": {
+      "at": "2026-10-23T23:09:50.024634+00:00",
+      "title": "scaling nvidia tensorrt performance optimization beyond a single build route with the global performance tuner part 1",
+      "url": "developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1"
     },
     "rss:https://developer.nvidia.com/blog/?p=124139": {
       "at": "2026-10-23T18:22:51.539013+00:00",
@@ -3584,6 +3594,11 @@
       "title": "rapidly scaling online storage to serve over 1 billion chatgpt users part ii",
       "url": "openai.com/index/scaling-storage-one-billion-users-part-two"
     },
+    "rss:https://openai.com/index/securing-our-frontier-model-training-environment": {
+      "at": "2026-10-23T23:09:50.024710+00:00",
+      "title": "securing our frontier model training environment",
+      "url": "openai.com/index/securing-our-frontier-model-training-environment"
+    },
     "rss:https://openai.com/index/sentinelone": {
       "at": "2026-10-14T18:40:13.644761+00:00",
       "title": "sentinelone cuts malware analysis from weeks to hours",
@@ -3756,6 +3771,11 @@
       "at": "2026-10-14T18:40:13.644932+00:00",
       "title": "analyzing technical documents with deep review",
       "url": "research.google/blog/analyzing-technical-documents-with-deep-review"
+    },
+    "rss:https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/": {
+      "at": "2026-10-23T23:09:50.024667+00:00",
+      "title": "bringing foundational models to the front lines of tb screening",
+      "url": "research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening"
     },
     "rss:https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/": {
       "at": "2026-09-15T22:54:27.656843+00:00",
@@ -4211,6 +4231,16 @@
       "at": "2026-10-22T18:36:58.486162+00:00",
       "title": "donating agent skills to the agentic ai foundation",
       "url": "simonwillison.net/2026/Oct/22/donating-agent-skills"
+    },
+    "rss:https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
+      "at": "2026-10-23T23:09:50.024618+00:00",
+      "title": "introducing kimi k3 1 pro",
+      "url": "simonwillison.net/2026/Oct/23/kimi-k31-pro"
+    },
+    "rss:https://simonwillison.net/2026/Oct/23/quick-study-painter/": {
+      "at": "2026-10-23T23:09:50.024729+00:00",
+      "title": "quick study",
+      "url": "simonwillison.net/2026/Oct/23/quick-study-painter"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -7775,6 +7805,21 @@
       "at": "2026-10-23T07:32:37.864893+00:00",
       "title": "left alone with nothing to do ai agents started playing",
       "url": "techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing"
+    },
+    "rss:https://techcrunch.com/?p=3181271": {
+      "at": "2026-10-23T23:09:50.024745+00:00",
+      "title": "from toast to bessemer who founders will hear from at techcrunch founder summit 2026",
+      "url": "techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026"
+    },
+    "rss:https://techcrunch.com/?p=3181396": {
+      "at": "2026-10-23T23:09:50.024539+00:00",
+      "title": "openai says it will no longer train its ai models on the live internet citing significant risks",
+      "url": "techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks"
+    },
+    "rss:https://techcrunch.com/?p=3181412": {
+      "at": "2026-10-23T23:09:50.024719+00:00",
+      "title": "hottest toy for christmas nvidia ceo plays with adorable microduck robots 20 000 sell",
+      "url": "techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -14810,10 +14855,30 @@
       "title": "vibecoding your own inference engine is easy they said",
       "url": "reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdhj4z": {
+      "at": "2026-10-23T23:09:50.024736+00:00",
+      "title": "qwen 3 8 flash next gyro coder is out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdhj4z/qwen_38_flash_next_gyro_coder_is_out"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdk6ow": {
       "at": "2026-10-23T18:22:51.539153+00:00",
       "title": "introducing kimi k3 1 pro advancing open intelligence",
       "url": "reddit.com/r/LocalLLaMA/comments/1xdk6ow/introducing_kimi_k31_pro_advancing_open"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdlj42": {
+      "at": "2026-10-23T23:09:50.024696+00:00",
+      "title": "here s where the last rtx 5090 cards are going massive ai conversion factory exposed in china founders edition included",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdmek0": {
+      "at": "2026-10-23T23:09:50.024678+00:00",
+      "title": "qwen4exp build the qsa selection without the kq_mask by sanmai pull request 30965 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdmek0/qwen4exp_build_the_qsa_selection_without_the_kq"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdmt2o": {
+      "at": "2026-10-23T23:09:50.024650+00:00",
+      "title": "mysterious qwen4 appearance by new github accounts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15311,6 +15376,6 @@
       "url": "latent.space/p/ai-is-getting-good-at-math"
     }
   },
-  "updated_at": "2026-10-23T18:22:51.539196+00:00",
+  "updated_at": "2026-10-23T23:09:50.024782+00:00",
   "version": 2
 }
