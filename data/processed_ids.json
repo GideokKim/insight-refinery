@@ -1753,6 +1753,11 @@
       "title": "tokenizers v1 encode decode and scaling measured",
       "url": "huggingface.co/blog/tokenizers-v1"
     },
+    "rss:https://huggingface.co/blog/torch-neuronx-model-support": {
+      "at": "2026-10-23T13:28:29.013018+00:00",
+      "title": "does your model run on aws trainium look it up",
+      "url": "huggingface.co/blog/torch-neuronx-model-support"
+    },
     "rss:https://huggingface.co/blog/train-multi-vector-encoder": {
       "at": "2026-08-26T14:39:03.699803+00:00",
       "title": "training and finetuning multi vector embedding models with sentence transformers",
@@ -2925,6 +2930,11 @@
       "at": "2026-10-23T07:32:37.864998+00:00",
       "title": "ai and the enclosure of the scientific commons",
       "url": "arxiv.org/abs/2610.27251"
+    },
+    "rss:https://news.ycombinator.com/item?id=50205229": {
+      "at": "2026-10-23T13:28:29.012992+00:00",
+      "title": "the same ai request emits 8 5 times more co2 in texas than in sweden",
+      "url": "berget.ai/en/blog/per-request-co2-press-release"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -14725,10 +14735,25 @@
       "title": "making kokoro tts 50 100x faster without knowing how",
       "url": "reddit.com/r/LocalLLaMA/comments/1xcuqor/making_kokoro_tts_50100x_faster_without_knowing"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xcylhj": {
+      "at": "2026-10-23T13:28:29.013037+00:00",
+      "title": "qwen 3 8 flash next 129 gb is better than 2 6 bpw deepseek v4 1 flash 1017 187 gb 203 gb engram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xcylhj/qwen_38_flash_next_129_gb_is_better_than_26_bpw"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xd0fgs": {
       "at": "2026-10-23T07:32:37.865006+00:00",
       "title": "minimax m3 1 flash",
       "url": "reddit.com/r/LocalLLaMA/comments/1xd0fgs/minimaxm31flash"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xd7ptj": {
+      "at": "2026-10-23T13:28:29.013062+00:00",
+      "title": "models disappearing from huggingface",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xd87wu": {
+      "at": "2026-10-23T13:28:29.013052+00:00",
+      "title": "qwen3 0 6b model converted into moe",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xd87wu/qwen306b_model_converted_into_moe"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15214,8 +15239,13 @@
       "at": "2026-10-19T21:34:08.060778+00:00",
       "title": "making the internet better for ai agents might make it worse for everyone else",
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
+    },
+    "rss:urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d": {
+      "at": "2026-10-23T13:28:29.012950+00:00",
+      "title": "ainews black october",
+      "url": "latent.space/p/ainews-black-october"
     }
   },
-  "updated_at": "2026-10-23T07:32:37.865042+00:00",
+  "updated_at": "2026-10-23T13:28:29.013096+00:00",
   "version": 2
 }

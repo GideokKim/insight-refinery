@@ -45,6 +45,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d",
+        "title": "[AINews] Black October",
+        "url": "https://latent.space/p/ainews-black-october/",
+        "author": "swyx .ai",
+        "published_at": "2026-10-23T10:09:29+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 가속 보안 취약점 대거 공개",
+        "summary_ko": [
+          "최근 48시간 동안 PHP, GitLab, Node.js 등 핵심 소프트웨어에서 치명적인 취약점이 동시다발적으로 공개되었습니다.",
+          "중국계 해킹 그룹 등이 AI 에이전트 도구를 활용해 공급망 공격과 자동화된 침투를 시도한 것으로 나타났습니다.",
+          "Anthropic 보안 부서 등은 상황이 더욱 악화될 수 있다고 경고하며 철저한 보안 예산 확보와 기본기 준수를 촉구했습니다."
+        ],
+        "category": "Infra",
+        "importance": 5
+      },
+      "provider": "gemini"
     }
   ]
 }
