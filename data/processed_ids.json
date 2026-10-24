@@ -2976,6 +2976,16 @@
       "title": "hacker reverses samsung tv finds on board ai listening openai account suspended",
       "url": "reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds"
     },
+    "rss:https://news.ycombinator.com/item?id=50223647": {
+      "at": "2026-10-24T22:28:58.367413+00:00",
+      "title": "why is ai generated language so hard to understand",
+      "url": "arxiv.org/abs/2610.29162"
+    },
+    "rss:https://news.ycombinator.com/item?id=50224463": {
+      "at": "2026-10-24T22:28:58.367365+00:00",
+      "title": "no signs of ai payoff outside the tech sector",
+      "url": "apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -14920,6 +14930,11 @@
       "title": "been tracking intel b60 b65 b70 prices they jumped 30 today",
       "url": "reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xds6ts": {
+      "at": "2026-10-24T22:28:58.367459+00:00",
+      "title": "some benchmarks on mini agi dynamic continual learning model after training it completely from scratch for a month on a 8gb vram gpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xds6ts/some_benchmarks_on_miniagi_dynamic_continual"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdtk7m": {
       "at": "2026-10-24T07:18:14.426269+00:00",
       "title": "ista daslab deepseek v4 1 flash 1017 gsq rco",
@@ -14934,6 +14949,11 @@
       "at": "2026-10-24T12:41:12.841509+00:00",
       "title": "sam altman openai s best model can t responsibly be open sourced until the world builds better cyberdefense and bio security",
       "url": "reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe1kkh": {
+      "at": "2026-10-24T22:28:58.367480+00:00",
+      "title": "spark x2 6 4b is the best of it s size",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xe1kkh/spark_x26_4b_is_the_best_of_its_size"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe1zsr": {
       "at": "2026-10-24T12:41:12.841521+00:00",
@@ -14955,15 +14975,40 @@
       "title": "meta trained small ai models to read raw bytes instead of tokens they start out worse but the paper predicts they end up better",
       "url": "reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe8x9c": {
+      "at": "2026-10-24T22:28:58.367443+00:00",
+      "title": "abliteratedoutthebox strata announcement",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xe8x9c/abliteratedoutthebox_strata_announcement"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xebdzl": {
       "at": "2026-10-24T17:28:27.538452+00:00",
       "title": "8 gb gpu 262k context 3 5 bpw qwen flash next coder 70 t s using llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xebkti": {
+      "at": "2026-10-24T22:28:58.367425+00:00",
+      "title": "big cloud models like opus 5 5 get all the motion graphics praise but i made this with local qwen3 8 flash next it s very possible",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xebkti/big_cloud_models_like_opus_55_get_all_the_motion"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xecgrf": {
       "at": "2026-10-24T17:28:27.538360+00:00",
       "title": "kimi k3 1 removes cyberattack training data from open weight release",
       "url": "reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xeia9o": {
+      "at": "2026-10-24T22:28:58.367396+00:00",
+      "title": "made a rhythm game where 4 small neural nets listen to your song right in the browser tab open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xeim3m": {
+      "at": "2026-10-24T22:28:58.367383+00:00",
+      "title": "kld is misunderstood",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xejv61": {
+      "at": "2026-10-24T22:28:58.367322+00:00",
+      "title": "m6 mac mini owners 32gb now you can run qwen3 8 27b in high quality on the apple neural engine",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15466,6 +15511,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-24T17:28:27.538558+00:00",
+  "updated_at": "2026-10-24T22:28:58.367525+00:00",
   "version": 2
 }
