@@ -89,6 +89,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xecgrf",
+        "title": "Kimi K3.1 removes cyberattack training data from open weight release",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+        "author": "/u/zxyzyxz",
+        "published_at": "2026-10-24T16:05:18+00:00"
+      },
+      "insight": {
+        "title_ko": "Kimi K3.1, 사이버 공격 학습 데이터 제외",
+        "summary_ko": [
+          "Kimi K3.1 오픈 웨이트 모델 공개 과정에서 사이버 공격 관련 학습 데이터가 제외되었습니다.",
+          "이번 조치는 중국의 새로운 수출 통제 규제와 사이버 보안 위험에 대한 우려가 커졌기 때문입니다.",
+          "오픈소스 LLM의 보안 데이터 포함 여부와 규제 준수에 대한 실무적 시사점을 제공합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xe88ja",
+        "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+        "author": "/u/DotaMate",
+        "published_at": "2026-10-24T13:08:49+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta의 토큰 없는 바이트 기반 AI 모델 연구",
+        "summary_ko": [
+          "Meta는 토큰 대신 원시 바이트를 직접 읽는 소형 AI 모델 학습 연구를 진행했습니다.",
+          "학습 초기에는 토큰 모델이 우세했으나, 바이트 모델은 학습이 진행될수록 지속적인 성능 향상을 보였습니다.",
+          "다만 바이트 모델은 처리 속도가 느리고 추정 성능을 기반으로 하여 대규모 확장성 검증이 필요합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

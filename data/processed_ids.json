@@ -4252,6 +4252,11 @@
       "title": "quick study",
       "url": "simonwillison.net/2026/Oct/23/quick-study-painter"
     },
+    "rss:https://simonwillison.net/2026/Oct/24/battledrones/": {
+      "at": "2026-10-24T17:28:27.538508+00:00",
+      "title": "battledrones v14 compass rose a four player map",
+      "url": "simonwillison.net/2026/Oct/24/battledrones"
+    },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
       "title": "we re going to need default hard budget caps on pretty much everything",
@@ -7816,6 +7821,11 @@
       "title": "left alone with nothing to do ai agents started playing",
       "url": "techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing"
     },
+    "rss:https://techcrunch.com/?p=3181243": {
+      "at": "2026-10-24T17:28:27.538474+00:00",
+      "title": "forced to pick grok s ai model chooses republicans openai s picks democrats",
+      "url": "techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"
+    },
     "rss:https://techcrunch.com/?p=3181271": {
       "at": "2026-10-23T23:09:50.024745+00:00",
       "title": "from toast to bessemer who founders will hear from at techcrunch founder summit 2026",
@@ -7830,6 +7840,11 @@
       "at": "2026-10-23T23:09:50.024719+00:00",
       "title": "hottest toy for christmas nvidia ceo plays with adorable microduck robots 20 000 sell",
       "url": "techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell"
+    },
+    "rss:https://techcrunch.com/?p=3181490": {
+      "at": "2026-10-24T17:28:27.538430+00:00",
+      "title": "block s new voice model sounds eerily human",
+      "url": "techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -14930,6 +14945,26 @@
       "title": "release ista gsq rco ggufs for deepseek v4 1 flash 1017",
       "url": "reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe41qe": {
+      "at": "2026-10-24T17:28:27.538493+00:00",
+      "title": "gyro quants looks like exl3 but kinda closed source please explain why we need this",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xe41qe/gyro_quants_looks_like_exl3_but_kinda_closed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe88ja": {
+      "at": "2026-10-24T17:28:27.538403+00:00",
+      "title": "meta trained small ai models to read raw bytes instead of tokens they start out worse but the paper predicts they end up better",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xebdzl": {
+      "at": "2026-10-24T17:28:27.538452+00:00",
+      "title": "8 gb gpu 262k context 3 5 bpw qwen flash next coder 70 t s using llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xecgrf": {
+      "at": "2026-10-24T17:28:27.538360+00:00",
+      "title": "kimi k3 1 removes cyberattack training data from open weight release",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -15431,6 +15466,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-24T12:41:12.841602+00:00",
+  "updated_at": "2026-10-24T17:28:27.538558+00:00",
   "version": 2
 }
