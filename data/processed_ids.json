@@ -2941,6 +2941,11 @@
       "title": "steam users beg for no ai filter as vibecoders flood next fest",
       "url": "ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
     },
+    "rss:https://news.ycombinator.com/item?id=50171379": {
+      "at": "2026-10-24T12:41:12.841542+00:00",
+      "title": "a practical guide to ai image generation from diffusion to agents",
+      "url": "danielball.com/notes/ai_image_generation.html"
+    },
     "rss:https://news.ycombinator.com/item?id=50180836": {
       "at": "2026-10-21T18:41:55.078881+00:00",
       "title": "php2shell ai uncovers critical rce in php",
@@ -2965,6 +2970,11 @@
       "at": "2026-10-23T13:28:29.012992+00:00",
       "title": "the same ai request emits 8 5 times more co2 in texas than in sweden",
       "url": "berget.ai/en/blog/per-request-co2-press-release"
+    },
+    "rss:https://news.ycombinator.com/item?id=50218633": {
+      "at": "2026-10-24T12:41:12.841533+00:00",
+      "title": "hacker reverses samsung tv finds on board ai listening openai account suspended",
+      "url": "reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -14890,6 +14900,11 @@
       "title": "mysterious qwen4 appearance by new github accounts",
       "url": "reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdoirp": {
+      "at": "2026-10-24T12:41:12.841567+00:00",
+      "title": "been tracking intel b60 b65 b70 prices they jumped 30 today",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdoirp/been_tracking_intel_b60_b65_b70_prices_they"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdtk7m": {
       "at": "2026-10-24T07:18:14.426269+00:00",
       "title": "ista daslab deepseek v4 1 flash 1017 gsq rco",
@@ -14899,6 +14914,21 @@
       "at": "2026-10-24T07:18:14.426217+00:00",
       "title": "qwen4 27b pr found",
       "url": "reddit.com/r/LocalLLaMA/comments/1xdwrak/qwen427b_pr_found"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe0ioz": {
+      "at": "2026-10-24T12:41:12.841509+00:00",
+      "title": "sam altman openai s best model can t responsibly be open sourced until the world builds better cyberdefense and bio security",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe1zsr": {
+      "at": "2026-10-24T12:41:12.841521+00:00",
+      "title": "the rtx 5090 isn t gone it s in chinese labs where technicians rip off its die and 32gb vram for ai servers",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xe1zsr/the_rtx_5090_isnt_gone_its_in_chinese_labs_where"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xe2wg8": {
+      "at": "2026-10-24T12:41:12.841448+00:00",
+      "title": "release ista gsq rco ggufs for deepseek v4 1 flash 1017",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15394,8 +15424,13 @@
       "at": "2026-10-23T18:22:51.539062+00:00",
       "title": "ai is getting good at math here s why",
       "url": "latent.space/p/ai-is-getting-good-at-math"
+    },
+    "rss:urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": {
+      "at": "2026-10-24T12:41:12.841488+00:00",
+      "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
+      "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-24T07:18:14.426347+00:00",
+  "updated_at": "2026-10-24T12:41:12.841602+00:00",
   "version": 2
 }

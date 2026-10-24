@@ -23,6 +23,72 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xe2wg8",
+        "title": "[Release] ISTA GSQ-RCO GGUFs for DeepSeek-V4.1-Flash-1017",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe2wg8/release_ista_gsqrco_ggufs_for_deepseekv41flash1017/",
+        "author": "/u/Loginhe",
+        "published_at": "2026-10-24T08:05:17+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek-V4.1-Flash GSQ-RCO GGUF 모델 공개",
+        "summary_ko": [
+          "ISTA 연구팀은 DeepSeek-V4.1-Flash-1017 모델을 1.75~2.25 bpw로 양자화한 GGUF 버전을 새롭게 공개했습니다.",
+          "이번 양자화에는 GSQ와 RCO 기법이 적용되어 저비트 환경에서도 원본 모델 성능의 최대 100%를 유지합니다.",
+          "해당 모델은 현재 llama.cpp를 지원하지 않으며 단일 12GB VRAM GPU의 Strata 런타임에서 구동됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4",
+        "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+        "url": "https://latent.space/p/ainews-kimi-31/",
+        "author": "swyx .ai",
+        "published_at": "2026-10-24T07:18:29+00:00"
+      },
+      "insight": {
+        "title_ko": "Kimi 3.1 Pro 공개 및 성능 분석",
+        "summary_ko": [
+          "Moonshot AI는 2.8조 개의 총 파라미터를 가진 오픈 웨이트 모델 Kimi 3.1 Pro를 발표했습니다.",
+          "이 모델은 1백만 토큰의 컨텍스트 윈도우와 향상된 에이전트 및 코딩 능력을 제공합니다.",
+          "고속 API와 호스팅 에이전트 기능을 함께 출시하여 실무 활용성을 높였습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xe0ioz",
+        "title": "Sam Altman: OpenAI's best model \"can't responsibly be open-sourced\" until the world builds better cyberdefense and bio-security",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe0ioz/sam_altman_openais_best_model_cant_responsibly_be/",
+        "author": "/u/External_Mood4719",
+        "published_at": "2026-10-24T05:41:18+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI 최고 모델의 오픈소스화 입장",
+        "summary_ko": [
+          "OpenAI의 CEO인 Sam Altman은 전 세계의 사이버방어와 바이오보안이 강화될 때까지 최첨단 모델을 책임감 있게 오픈소스화할 수 없다고 밝혔다.",
+          "그는 AI 정렬 문제의 난이도를 과소평가했다고 인정하며, 수학적 추론 등 좁은 영역에서는 이미 초지능이 예상보다 빠르게 도달했다고 경고했다.",
+          "오픈소스 모델의 사회적 가치와 혁신 기여를 인정하면서도, 일정 수준을 넘어서는 위험한 모델에 대해서는 통제가 필요하다고 강조했다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
