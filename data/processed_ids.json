@@ -14865,10 +14865,20 @@
       "title": "introducing kimi k3 1 pro advancing open intelligence",
       "url": "reddit.com/r/LocalLLaMA/comments/1xdk6ow/introducing_kimi_k31_pro_advancing_open"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdktmz": {
+      "at": "2026-10-24T01:35:52.165445+00:00",
+      "title": "strata now supports qwen 3 6 35b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdktmz/strata_now_supports_qwen_36_35b"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdlj42": {
       "at": "2026-10-23T23:09:50.024696+00:00",
       "title": "here s where the last rtx 5090 cards are going massive ai conversion factory exposed in china founders edition included",
       "url": "reddit.com/r/LocalLLaMA/comments/1xdlj42/heres_where_the_last_rtx_5090_cards_are_going"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdlunp": {
+      "at": "2026-10-24T01:35:52.165393+00:00",
+      "title": "i ran all the popular qwen 3 8 fn engines on a single 5090 128gb of ram here are the numbers",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xdmek0": {
       "at": "2026-10-23T23:09:50.024678+00:00",
@@ -15376,6 +15386,6 @@
       "url": "latent.space/p/ai-is-getting-good-at-math"
     }
   },
-  "updated_at": "2026-10-23T23:09:50.024782+00:00",
+  "updated_at": "2026-10-24T01:35:52.165511+00:00",
   "version": 2
 }

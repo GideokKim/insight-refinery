@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-23T23:09:47.827312+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xdlunp",
+        "title": "I ran all the popular Qwen 3.8 FN engines on a single 5090 + 128GB of RAM, here are the numbers",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdlunp/i_ran_all_the_popular_qwen_38_fn_engines_on_a/",
+        "author": "/u/jesdga95",
+        "published_at": "2026-10-23T18:22:56+00:00"
+      },
+      "insight": {
+        "title_ko": "단일 5090 GPU 환경의 Qwen 3.8 FN 엔진 성능 비교",
+        "summary_ko": [
+          "작성자는 RTX 5090 GPU와 128GB RAM 환경에서 다양한 Qwen 3.8 FN 엔진의 성능을 벤치마크했습니다.",
+          "테스트 결과 Basalt와 Infernix 엔진이 디코드 및 프리필 속도 측면에서 다른 엔진들보다 우수한 성능을 기록했습니다.",
+          "이번 벤치마크는 동일한 체크포인트와 요청 조건을 사용하여 각 엔진의 실제 처리 능력을 객관적으로 비교했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
