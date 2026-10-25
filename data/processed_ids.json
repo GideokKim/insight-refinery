@@ -15040,10 +15040,30 @@
       "title": "too good to be true ista s gsq rco 2 bit deepseek v4 1 flash scoring the same as the base model",
       "url": "reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xesda1": {
+      "at": "2026-10-25T13:11:45.445194+00:00",
+      "title": "benchmark strata basalt runs qwen3 8 flash next iq3_s with 16gb vram and 55gb ram with up to 250 tok s generation and 5 600 tok s prompt processing 5080 concurrency 1",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xesda1/benchmark_stratabasalt_runs_qwen38_flash_next_iq3"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xeuo7t": {
       "at": "2026-10-25T07:35:51.858355+00:00",
       "title": "a 4b coding model that can generate 3d scenes",
       "url": "reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xev6bo": {
+      "at": "2026-10-25T13:11:45.445105+00:00",
+      "title": "lean qwenflash qwen3 8 flash next 125b running at 20 tok s on 16gb vram and 8gb ram via direct nvme ssd offloading",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xewcs8": {
+      "at": "2026-10-25T13:11:45.445177+00:00",
+      "title": "kimi k3 1 pro tech blog advancing open intelligence",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xewcs8/kimi_k31_pro_tech_blog_advancing_open_intelligence"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf0kz4": {
+      "at": "2026-10-25T13:11:45.445153+00:00",
+      "title": "nanbeige nanbeige4 3 33b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15546,6 +15566,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-25T07:35:51.858451+00:00",
+  "updated_at": "2026-10-25T13:11:45.445250+00:00",
   "version": 2
 }

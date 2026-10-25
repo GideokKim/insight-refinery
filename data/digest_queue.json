@@ -23,6 +23,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xev6bo",
+        "title": "Lean-QwenFlash: Qwen3.8-Flash-Next (125B) running at ~20 tok/s on 16gb vram and 8gb ram via direct nvme SSD offloading",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xev6bo/leanqwenflash_qwen38flashnext_125b_running_at_20/",
+        "author": "/u/MaxDev0",
+        "published_at": "2026-10-25T06:41:28+00:00"
+      },
+      "insight": {
+        "title_ko": "저사양 환경을 위한 Qwen3.8-Flash-Next 최적화 실행 기법",
+        "summary_ko": [
+          "기존의 시스템 RAM 의존 방식 대신 NVMe SSD 오프로딩을 활용하여 저사양 하드웨어에서도 대형 모델을 구동할 수 있게 되었습니다.",
+          "RTX 4090과 제한된 시스템 RAM 환경에서 262k의 전체 컨텍스트 윈도우를 활용하면서도 초당 약 20토큰의 속도를 기록했습니다.",
+          "이번 최적화 기법은 일반 노트북이나 고사양 메모리가 부족한 실무 환경에서 대형 LLM의 접근성을 크게 높여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
