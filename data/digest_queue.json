@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-25T01:10:47.980874+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50227356",
+        "title": "Cerebras Deploys Trillion-Parameter AI Models",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "author": "gmays",
+        "published_at": "2026-10-25T01:33:49+00:00"
+      },
+      "insight": {
+        "title_ko": "Cerebras, 1조 파라미터 AI 모델 배포 기술 공개",
+        "summary_ko": [
+          "Cerebras는 1조 개 이상의 파라미터를 가진 프론티어 AI 모델을 효율적으로 배포하는 방법을 공식 블로그를 통해 공개했습니다.",
+          "이번 발표는 대규모 AI 모델을 하드웨어 인프라에 적용할 때 발생하는 실무적인 배포 문제를 다루고 있습니다.",
+          "대형 모델의 추론 및 학습 효율성을 높이고자 하는 AI 인프라 실무자들에게 중요한 참고 자료가 됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

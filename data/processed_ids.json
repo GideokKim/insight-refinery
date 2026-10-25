@@ -2991,6 +2991,11 @@
       "title": "america has lost 200k of jobs in media film and the arts how much is ai",
       "url": "apricitas.io/p/ai-and-the-fall-of-the-creative-class"
     },
+    "rss:https://news.ycombinator.com/item?id=50227356": {
+      "at": "2026-10-25T07:35:51.858320+00:00",
+      "title": "cerebras deploys trillion parameter ai models",
+      "url": "cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -15025,6 +15030,21 @@
       "title": "cmp170hx inspiration unlocks 30x 40x also up to 2x prefill speedup nvidia rtx 30 rtx 40 gpus get impressively fast in ai llms as compute doubles with new unlock tool but prices surge too",
       "url": "reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xer30z": {
+      "at": "2026-10-25T07:35:51.858402+00:00",
+      "title": "openai and anthropic blocked the reverse engineering of smart tvs spying on us",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xes5x0": {
+      "at": "2026-10-25T07:35:51.858377+00:00",
+      "title": "too good to be true ista s gsq rco 2 bit deepseek v4 1 flash scoring the same as the base model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xes5x0/too_good_to_be_true_istas_gsqrco_2bit"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xeuo7t": {
+      "at": "2026-10-25T07:35:51.858355+00:00",
+      "title": "a 4b coding model that can generate 3d scenes",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xeuo7t/a_4b_coding_model_that_can_generate_3d_scenes"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -15526,6 +15546,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-25T01:10:49.624516+00:00",
+  "updated_at": "2026-10-25T07:35:51.858451+00:00",
   "version": 2
 }
