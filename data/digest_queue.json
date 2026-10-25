@@ -45,6 +45,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xeqf7k",
+        "title": "model: DSV4.1 flash by am17an · Pull Request #31086 · ggml-org/llama.cpp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086/",
+        "author": "/u/jacek2023",
+        "published_at": "2026-10-25T02:16:43+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek-V4.1-Flash 모델 llama.cpp PR 등록",
+        "summary_ko": [
+          "deepseek-ai에서 763B 파라미터를 가진 DeepSeek-V4.1-Flash 모델을 공개했다.",
+          "해당 모델의 기술 리포트와 함께 llama.cpp 저장소에 관련 풀 리퀘스트가 등록되었다.",
+          "대형 모델의 로컬 구동과 실무 적용 가능성을 검토하는 연구자들에게 중요한 정보이다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

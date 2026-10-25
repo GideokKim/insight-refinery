@@ -2996,6 +2996,11 @@
       "title": "cerebras deploys trillion parameter ai models",
       "url": "cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
     },
+    "rss:https://news.ycombinator.com/item?id=50229827": {
+      "at": "2026-10-25T17:39:43.496049+00:00",
+      "title": "nikon photography contest winner loses title after scientists spot signs of ai",
+      "url": "techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -4886,6 +4891,11 @@
       "at": "2026-09-07T22:23:57.634943+00:00",
       "title": "opaque recurrence and other ai terms that you should probably know",
       "url": "techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms"
+    },
+    "rss:https://techcrunch.com/?p=3067743": {
+      "at": "2026-10-25T17:39:43.496083+00:00",
+      "title": "the hottest ai wearables and gadgets you should know about",
+      "url": "techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about"
     },
     "rss:https://techcrunch.com/?p=3137969": {
       "at": "2026-09-03T00:47:52.878208+00:00",
@@ -7865,6 +7875,11 @@
       "at": "2026-10-24T17:28:27.538430+00:00",
       "title": "block s new voice model sounds eerily human",
       "url": "techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
+    },
+    "rss:https://techcrunch.com/?p=3181532": {
+      "at": "2026-10-25T17:39:43.496007+00:00",
+      "title": "ai delivers zero financial payoff to most companies apollo economist says",
+      "url": "techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15030,10 +15045,25 @@
       "title": "cmp170hx inspiration unlocks 30x 40x also up to 2x prefill speedup nvidia rtx 30 rtx 40 gpus get impressively fast in ai llms as compute doubles with new unlock tool but prices surge too",
       "url": "reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xemxoq": {
+      "at": "2026-10-25T17:39:43.496096+00:00",
+      "title": "is it just me or kimi k3 1 pro don t look much better than deepseek 4 1 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xemxoq/is_it_just_me_or_kimi_k31_pro_dont_look_much"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xeqf7k": {
+      "at": "2026-10-25T17:39:43.495959+00:00",
+      "title": "model dsv4 1 flash by am17an pull request 31086 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xeqf7k/model_dsv41_flash_by_am17an_pull_request_31086"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xer30z": {
       "at": "2026-10-25T07:35:51.858402+00:00",
       "title": "openai and anthropic blocked the reverse engineering of smart tvs spying on us",
       "url": "reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xerxtr": {
+      "at": "2026-10-25T17:39:43.496063+00:00",
+      "title": "gpt x3 150m takes 1 on the open slm leaderboard dethroning huggingface s smollm2 135m with a gdn2 gqa hybrid check it out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xerxtr/gptx3150m_takes_1_on_the_open_slm_leaderboard"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xes5x0": {
       "at": "2026-10-25T07:35:51.858377+00:00",
@@ -15064,6 +15094,11 @@
       "at": "2026-10-25T13:11:45.445153+00:00",
       "title": "nanbeige nanbeige4 3 33b hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf11qj": {
+      "at": "2026-10-25T17:39:43.496032+00:00",
+      "title": "backup your quants",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15566,6 +15601,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-25T13:11:45.445250+00:00",
+  "updated_at": "2026-10-25T17:39:43.496150+00:00",
   "version": 2
 }
