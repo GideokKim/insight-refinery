@@ -67,6 +67,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xf9kmd",
+        "title": "RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/",
+        "author": "/u/No-Refrigerator-1672",
+        "published_at": "2026-10-25T18:16:54+00:00"
+      },
+      "insight": {
+        "title_ko": "RTX 3080 20GB ReBAR 및 P2P 언락 성능 향상",
+        "summary_ko": [
+          "RTX 3080 20GB 그래픽카드에서 ReBAR와 P2P 기능이 성공적으로 언락되어 로컬 LLM 구동 시 성능이 대폭 향상되었습니다.",
+          "듀얼 GPU 환경에서 텐서 병렬(tensor parallel) 모드로 테스트한 결과 프롬프트 처리 속도가 최대 115%까지 개선되었습니다.",
+          "이번 최적화는 토큰 생성 속도에는 큰 영향이 없으나 대규모 프롬프트 프리필(prefill) 처리 속도를 극적으로 높여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xf14j2",
+        "title": "Lure-TTS and Lure-Turbo: 600M voice models to run 4x faster than real time, with inline (tags), direction, and voice cloning. Trained for under $200.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x/",
+        "author": "/u/smirkishere",
+        "published_at": "2026-10-25T12:29:32+00:00"
+      },
+      "insight": {
+        "title_ko": "저비용 고속 음성 모델 Lure-TTS 공개",
+        "summary_ko": [
+          "Qwen3-TTS를 파인튜닝하여 실시간보다 4배 빠른 속도로 동작하는 600M 규모의 Lure-TTS 및 Lure-Turbo 모델이 개발되었습니다.",
+          "RLVR과 멀티 티처 OPD 등의 기법을 활용하여 200달러 미만의 비용으로 효율적인 학습을 수행했습니다.",
+          "CUDA, Mac, CPU를 지원하는 오픈소스 엔진을 함께 공개하여 단일 파이썬 API로 다양한 환경에서 구동할 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

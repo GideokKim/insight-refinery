@@ -3001,6 +3001,11 @@
       "title": "nikon photography contest winner loses title after scientists spot signs of ai",
       "url": "techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
     },
+    "rss:https://news.ycombinator.com/item?id=50233304": {
+      "at": "2026-10-25T22:33:35.707829+00:00",
+      "title": "ai use leads uc berkeley math professor to see no point in grading homework",
+      "url": "dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -7880,6 +7885,11 @@
       "at": "2026-10-25T17:39:43.496007+00:00",
       "title": "ai delivers zero financial payoff to most companies apollo economist says",
       "url": "techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist"
+    },
+    "rss:https://techcrunch.com/?p=3181554": {
+      "at": "2026-10-25T22:33:35.707801+00:00",
+      "title": "grok releases the first seven minutes of its ai generated odyssey",
+      "url": "techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15090,6 +15100,11 @@
       "title": "kimi k3 1 pro tech blog advancing open intelligence",
       "url": "reddit.com/r/LocalLLaMA/comments/1xewcs8/kimi_k31_pro_tech_blog_advancing_open_intelligence"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xey0uw": {
+      "at": "2026-10-25T22:33:35.707838+00:00",
+      "title": "cuda fuse ffn gate up matmuls and glu in mmq with interleaved gate up rows by anujj pull request 29948 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xey0uw/cuda_fuse_ffn_gateup_matmuls_and_glu_in_mmq_with"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf0kz4": {
       "at": "2026-10-25T13:11:45.445153+00:00",
       "title": "nanbeige nanbeige4 3 33b hugging face",
@@ -15099,6 +15114,31 @@
       "at": "2026-10-25T17:39:43.496032+00:00",
       "title": "backup your quants",
       "url": "reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf14j2": {
+      "at": "2026-10-25T22:33:35.707784+00:00",
+      "title": "lure tts and lure turbo 600m voice models to run 4x faster than real time with inline tags direction and voice cloning trained for under 200",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf716t": {
+      "at": "2026-10-25T22:33:35.707816+00:00",
+      "title": "qwen merge tensors on convert by am17an pull request 31028 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf8iqi": {
+      "at": "2026-10-25T22:33:35.707862+00:00",
+      "title": "i made an arena for fighting jevs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf8iqi/i_made_an_arena_for_fighting_jevs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf9kmd": {
+      "at": "2026-10-25T22:33:35.707750+00:00",
+      "title": "rtx 3080 20gb got rebar and p2p unlock 70 prompt processing speed",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfb9oz": {
+      "at": "2026-10-25T22:33:35.707851+00:00",
+      "title": "show and tell polystrata on my 20 xeon server",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15601,6 +15641,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-25T17:39:43.496150+00:00",
+  "updated_at": "2026-10-25T22:33:35.707893+00:00",
   "version": 2
 }
