@@ -2986,6 +2986,11 @@
       "title": "no signs of ai payoff outside the tech sector",
       "url": "apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
     },
+    "rss:https://news.ycombinator.com/item?id=50226419": {
+      "at": "2026-10-25T01:10:49.624472+00:00",
+      "title": "america has lost 200k of jobs in media film and the arts how much is ai",
+      "url": "apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -15005,10 +15010,20 @@
       "title": "kld is misunderstood",
       "url": "reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xeipmm": {
+      "at": "2026-10-25T01:10:49.624484+00:00",
+      "title": "small model good for reverse engineering that can run on a 3090 and 32gb ram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xeipmm/small_model_good_for_reverse_engineering_that_can"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xejv61": {
       "at": "2026-10-24T22:28:58.367322+00:00",
       "title": "m6 mac mini owners 32gb now you can run qwen3 8 27b in high quality on the apple neural engine",
       "url": "reddit.com/r/LocalLLaMA/comments/1xejv61/m6_mac_mini_owners_32gb_now_you_can_run_qwen3827b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xelhpj": {
+      "at": "2026-10-25T01:10:49.624415+00:00",
+      "title": "cmp170hx inspiration unlocks 30x 40x also up to 2x prefill speedup nvidia rtx 30 rtx 40 gpus get impressively fast in ai llms as compute doubles with new unlock tool but prices surge too",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xelhpj/cmp170hx_inspiration_unlocks_30x40x_also_up_to_2x"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15511,6 +15526,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-24T22:28:58.367525+00:00",
+  "updated_at": "2026-10-25T01:10:49.624516+00:00",
   "version": 2
 }
