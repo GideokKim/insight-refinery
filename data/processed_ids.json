@@ -15140,6 +15140,11 @@
       "title": "show and tell polystrata on my 20 xeon server",
       "url": "reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xff9e4": {
+      "at": "2026-10-26T01:10:17.658516+00:00",
+      "title": "crowdgpt a collaboratively trained llm",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -15641,6 +15646,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-25T22:33:35.707893+00:00",
+  "updated_at": "2026-10-26T01:10:17.658585+00:00",
   "version": 2
 }
