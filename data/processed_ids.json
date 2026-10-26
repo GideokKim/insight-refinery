@@ -4287,6 +4287,11 @@
       "title": "battledrones v14 compass rose a four player map",
       "url": "simonwillison.net/2026/Oct/24/battledrones"
     },
+    "rss:https://simonwillison.net/2026/Oct/25/seam-cutter/": {
+      "at": "2026-10-26T07:48:18.926317+00:00",
+      "title": "seam cutter",
+      "url": "simonwillison.net/2026/Oct/25/seam-cutter"
+    },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
       "title": "we re going to need default hard budget caps on pretty much everything",
@@ -15120,10 +15125,20 @@
       "title": "lure tts and lure turbo 600m voice models to run 4x faster than real time with inline tags direction and voice cloning trained for under 200",
       "url": "reddit.com/r/LocalLLaMA/comments/1xf14j2/luretts_and_lureturbo_600m_voice_models_to_run_4x"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf4sxg": {
+      "at": "2026-10-26T07:48:18.926330+00:00",
+      "title": "the minimum size of an llm to generate a little meaningful convo",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf4sxg/the_minimum_size_of_an_llm_to_generate_a_little"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf716t": {
       "at": "2026-10-25T22:33:35.707816+00:00",
       "title": "qwen merge tensors on convert by am17an pull request 31028 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1xf716t/qwen_merge_tensors_on_convert_by_am17an_pull"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf7b46": {
+      "at": "2026-10-26T07:48:18.926303+00:00",
+      "title": "4x v620 in a llm generated and 3d printed chassis",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xf7b46/4x_v620_in_a_llm_generated_and_3d_printed_chassis"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xf8iqi": {
       "at": "2026-10-25T22:33:35.707862+00:00",
@@ -15140,10 +15155,30 @@
       "title": "show and tell polystrata on my 20 xeon server",
       "url": "reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfeho8": {
+      "at": "2026-10-26T07:48:18.926290+00:00",
+      "title": "nanbeige4 3 33b quantised gguf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfeho8/nanbeige4333b_quantised_gguf"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xff9e4": {
       "at": "2026-10-26T01:10:17.658516+00:00",
       "title": "crowdgpt a collaboratively trained llm",
       "url": "reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfhhm4": {
+      "at": "2026-10-26T07:48:18.926252+00:00",
+      "title": "smh seriously nvidia eyes software revenue with a 2 000 per gpu yearly figure from huang",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfhhm4/smh_seriously_nvidia_eyes_software_revenue_with_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfizft": {
+      "at": "2026-10-26T07:48:18.926214+00:00",
+      "title": "psa llama cpp cve 2026 116096",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xflw1l": {
+      "at": "2026-10-26T07:48:18.926273+00:00",
+      "title": "is the horror story about ai agent mass deleting your entire drive an old story or it still happen nowadays",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15646,6 +15681,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-26T01:10:17.658585+00:00",
+  "updated_at": "2026-10-26T07:48:18.926369+00:00",
   "version": 2
 }

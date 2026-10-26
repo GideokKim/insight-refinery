@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-26T01:10:16.206168+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xfizft",
+        "title": "PSA: llama.cpp CVE-2026-116096",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096/",
+        "author": "/u/Bulky-Priority6824",
+        "published_at": "2026-10-26T00:53:40+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp 보안 취약점 CVE-2026-116096 주의",
+        "summary_ko": [
+          "llama.cpp의 Pocket-TTS 컴포넌트에서 메모리 범위를 벗어나는 쓰기 취약점인 CVE-2026-116096이 보고되었습니다.",
+          "악성 mmproj 파일을 이용한 공격이 가능하며 최신 버전으로 업그레이드 시 어서트 오류로 중단됩니다.",
+          "근본적인 설계를 통한 예방 조치는 아직 완료되지 않았으므로 관련 버전을 점검해야 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xfhhm4",
+        "title": "SMH, seriously? -->> NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfhhm4/smh_seriously_nvidia_eyes_software_revenue_with_a/",
+        "author": "/u/chemist_slime",
+        "published_at": "2026-10-25T23:46:05+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA, GPU당 연간 2천 달러 소프트웨어 매출 추진",
+        "summary_ko": [
+          "NVIDIA가 GPU당 연간 2,000달러의 소프트웨어 매출을 거두는 방안을 추진하고 있습니다.",
+          "이번 행보는 하드웨어 중심에서 소프트웨어 수익 모델로 비즈니스 영역을 확대하려는 시도로 주목받고 있습니다.",
+          "해당 정책이 AI 인프라 구축 비용과 기업들의 실무 도입 예산에 미칠 영향이 관심사입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
