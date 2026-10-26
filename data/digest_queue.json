@@ -111,6 +111,182 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+        "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+        "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+        "author": "Samuel Axon",
+        "published_at": "2026-10-26T20:04:16+00:00"
+      },
+      "insight": {
+        "title_ko": "Apple, iOS 및 macOS 27.2 업데이트 배포",
+        "summary_ko": [
+          "Apple이 iOS 및 macOS 27.2 버전을 포함한 새로운 운영체제 업데이트를 전격 배포했다.",
+          "이번 업데이트는 Siri에 과거 대화를 기억하고 참조하는 메모리 기능이 추가된 것이 핵심이다.",
+          "또한 음성메일과 메시지 첨부파일 등 Siri가 접근할 수 있는 데이터 소스가 대폭 확대되었다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1147672",
+        "title": "Will the real Anthropic please stand up",
+        "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+        "author": "Will Douglas Heaven",
+        "published_at": "2026-10-26T17:45:43+00:00"
+      },
+      "insight": {
+        "title_ko": "앤트로픽의 IPO와 정체성 논란",
+        "summary_ko": [
+          "앤트로픽이 기업공개(IPO)를 위한 투자설명서를 제출하며 기업의 독특한 기술관과 위험 요소를 공개했습니다.",
+          "공동창업자들은 특이점이 도래했거나 AI가 감정을 지닌 것처럼 묘사하는 서사를 적극적으로 활용하고 있습니다.",
+          "거대한 가치를 지닌 영리 기업이자 안전 연구소이기도 한 앤트로픽의 실체와 의도에 의문이 제기되고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3181689",
+        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+        "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-10-26T16:49:42+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic S-1에 나타난 기업 고객 전략",
+        "summary_ko": [
+          "Anthropic의 S-1 파일링을 통해 기업 고객 유지 전략이 공개되었습니다.",
+          "10만 달러 이상을 지출하는 고객의 절반 이상이 Claude Platform과 자사 앱을 동시에 사용하고 있습니다.",
+          "아마존을 연상시키는 이러한 교차 판매 전략은 기업 고객의 이탈을 막는 핵심 요소로 작용하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3181659",
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+        "author": "Aditya Mehta",
+        "published_at": "2026-10-26T16:46:36+00:00"
+      },
+      "insight": {
+        "title_ko": "SpaceX, 아폴로와 400억 달러 규모 GPU 파이낸싱 체결",
+        "summary_ko": [
+          "SpaceX가 Apollo와 함께 400억 달러 규모의 GPU 파이낸싱 계약을 체결했습니다.",
+          "이번 자금 조달은 전통적인 부채 시장에만 의존하지 않고 AI 사업을 확장할 수 있는 새로운 경로를 제공합니다.",
+          "급증하는 AI 인프라 수요를 충족하기 위한 대규모 투자로 실무적 관심이 집중되고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=123987",
+        "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+        "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-10-26T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Minerva를 통한 GPU 텔레메트리 최적화",
+        "summary_ko": [
+          "AI 팩토리는 수십만 개의 GPU와 네트워킹 패브릭이 복잡하게 연동되는 고도화된 운영 환경입니다.",
+          "NVIDIA Minerva는 이러한 복잡한 시스템에서 발생하는 대규모 텔레메트리 데이터를 효과적으로 처리합니다.",
+          "이를 통해 GPU 수율을 극대화하고 대규모 AI 학습 런의 안정성을 높이는 데 기여합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xfqi2d",
+        "title": "boro64/Ternary-Nemotron-3.5-Lightning-30B-A3B-GGUF · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfqi2d/boro64ternarynemotron35lightning30ba3bgguf/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-10-26T07:49:18+00:00"
+      },
+      "insight": {
+        "title_ko": "Ternary-Nemotron-30B GGUF 모델 공개",
+        "summary_ko": [
+          "1.58비트 삼진법(Ternary) 기반의 30B-A3B MoE 모델인 Ternary-Nemotron-30B-A3B-GGUF가 공개되었습니다.",
+          "이 모델은 12GB VRAM 환경에서도 368K의 긴 컨텍스트를 지원하며 빠른 디코딩과 프리필 속도를 제공합니다.",
+          "Stock llama.cpp와 PrismML 포크 엔진을 모두 지원하여 로컬 환경에서의 활용도가 높습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xfju8e",
+        "title": "Let’s talk about cyber capabilities and open weights as we move towards the future",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfju8e/lets_talk_about_cyber_capabilities_and_open/",
+        "author": "/u/GunmetalZen",
+        "published_at": "2026-10-26T01:33:38+00:00"
+      },
+      "insight": {
+        "title_ko": "사이버 역량과 공개 가중치",
+        "summary_ko": [
+          "공개 가중치가 개선되는 가운데 PRC와 미국이 사이버 역량 모델을 제한하고 있다.",
+          "이로 인해 정부와 대형 AI 스폰서만이 해당 기능을 사용할 수 있어, 일반 사용자와 중소기업은 디지털 자산 방어가 어려워진다.",
+          "공개 커뮤니티가 최첨단 모델에 대응할 수 있을지 의문이 제기된다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3181514",
+        "title": "Will AI expose the rickety infrastructure of the internet?",
+        "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+        "author": "Anthony Ha",
+        "published_at": "2026-10-24T20:15:33+00:00"
+      },
+      "insight": {
+        "title_ko": "AI가 인터넷 인프라의 취약성 드러내다",
+        "summary_ko": [
+          "AI 기반 진단 도구가 인터넷 인프라의 노후화와 설계 결함을 밝혀냈다.",
+          "기존 라우터와 스위치가 빈번한 장애를 일으켜 대규모 서비스 중단 위험을 높인다.",
+          "이러한 취약성은 사이버 공격 시점에서 악용될 가능성이 높아, 보안 및 신뢰성 강화가 시급하다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
     }
   ]
 }

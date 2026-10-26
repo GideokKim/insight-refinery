@@ -250,6 +250,11 @@
       "title": "anthropic gives outside ai watchdog employee like access",
       "url": "arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access"
     },
+    "rss:https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/": {
+      "at": "2026-10-26T21:39:27.933766+00:00",
+      "title": "ice plan to buy robot dogs spurs protest from hundreds of boston dynamics employees",
+      "url": "arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice"
+    },
     "rss:https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/": {
       "at": "2026-10-13T20:18:11.652180+00:00",
       "title": "gemini 4 argon begins rolling out in gemini app and antigravity but only if you pay",
@@ -314,6 +319,11 @@
       "at": "2026-09-14T20:59:08.073199+00:00",
       "title": "apple releases ios 27 macos golden gate 27 with siri ai and liquid glass refinements",
       "url": "arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements"
+    },
+    "rss:https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/": {
+      "at": "2026-10-26T21:39:27.933582+00:00",
+      "title": "apple releases ios and macos 27 2 with new siri ai features new music logo",
+      "url": "arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo"
     },
     "rss:https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/": {
       "at": "2026-10-05T19:49:23.695163+00:00",
@@ -759,6 +769,11 @@
       "at": "2026-10-15T18:20:26.786674+00:00",
       "title": "report ftc probes anthropic openai after trump dismissed ai fears as hoax",
       "url": "arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/": {
+      "at": "2026-10-26T21:39:27.933805+00:00",
+      "title": "highway thieves are spoofing gps to steal millions in data center bound cargo",
+      "url": "arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/": {
       "at": "2026-10-21T18:41:55.078838+00:00",
@@ -1389,6 +1404,11 @@
       "at": "2026-10-22T18:36:58.486209+00:00",
       "title": "how to read data into gpu memory in python with nvidia gpudirect storage",
       "url": "developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123987": {
+      "at": "2026-10-26T21:39:27.933687+00:00",
+      "title": "how nvidia minerva turns telemetry chaos into peak gpu yield",
+      "url": "developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield"
     },
     "rss:https://developer.nvidia.com/blog/?p=124028": {
       "at": "2026-10-23T18:22:51.539123+00:00",
@@ -3016,6 +3036,16 @@
       "title": "ai use leads uc berkeley math professor to see no point in grading homework",
       "url": "dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html"
     },
+    "rss:https://news.ycombinator.com/item?id=50242843": {
+      "at": "2026-10-26T21:39:27.933846+00:00",
+      "title": "brown student maps the hidden global labor powering ai",
+      "url": "brown.edu/news/2026-10-26/ai-data-workers"
+    },
+    "rss:https://news.ycombinator.com/item?id=50246658": {
+      "at": "2026-10-26T21:39:27.933834+00:00",
+      "title": "concerning behavior from a popular open weight ai model",
+      "url": "cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3163,6 +3193,11 @@
       "at": "2026-09-01T22:10:08.411924+00:00",
       "title": "healthcare organizations can now connect ehr and additional industry data to chatgpt",
       "url": "openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+    },
+    "rss:https://openai.com/index/chatgpt-expanding-world-of-work": {
+      "at": "2026-10-26T21:39:27.933857+00:00",
+      "title": "chatgpt s expanding world of work",
+      "url": "openai.com/index/chatgpt-expanding-world-of-work"
     },
     "rss:https://openai.com/index/chatgpt-for-teens": {
       "at": "2026-08-19T12:28:12.501880+00:00",
@@ -3389,6 +3424,11 @@
       "title": "introducing gpt 6 1 sol",
       "url": "openai.com/index/introducing-gpt-6-1-sol"
     },
+    "rss:https://openai.com/index/introducing-gpt-6-1-terra": {
+      "at": "2026-10-26T21:39:27.933885+00:00",
+      "title": "introducing gpt 6 1 terra",
+      "url": "openai.com/index/introducing-gpt-6-1-terra"
+    },
     "rss:https://openai.com/index/introducing-gpt-6-sol-and-luna": {
       "at": "2026-09-22T22:59:04.939892+00:00",
       "title": "introducing gpt 6 sol and luna",
@@ -3493,6 +3533,11 @@
       "at": "2026-08-19T20:13:45.261183+00:00",
       "title": "offering zero data retention for frontier models",
       "url": "openai.com/index/offering-zero-data-retention-for-frontier-models"
+    },
+    "rss:https://openai.com/index/openai-cut-incident-investigation": {
+      "at": "2026-10-26T21:39:27.933870+00:00",
+      "title": "how ultrafast cut incident investigation from hours to minutes at openai",
+      "url": "openai.com/index/openai-cut-incident-investigation"
     },
     "rss:https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
       "at": "2026-09-23T13:44:54.793894+00:00",
@@ -4306,6 +4351,11 @@
       "at": "2026-10-26T07:48:18.926317+00:00",
       "title": "seam cutter",
       "url": "simonwillison.net/2026/Oct/25/seam-cutter"
+    },
+    "rss:https://simonwillison.net/2026/Oct/26/jason-koebler/": {
+      "at": "2026-10-26T21:39:27.933754+00:00",
+      "title": "quoting jason koebler",
+      "url": "simonwillison.net/2026/Oct/26/jason-koebler"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -7901,6 +7951,11 @@
       "title": "block s new voice model sounds eerily human",
       "url": "techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
     },
+    "rss:https://techcrunch.com/?p=3181514": {
+      "at": "2026-10-26T21:39:27.933739+00:00",
+      "title": "will ai expose the rickety infrastructure of the internet",
+      "url": "techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet"
+    },
     "rss:https://techcrunch.com/?p=3181532": {
       "at": "2026-10-25T17:39:43.496007+00:00",
       "title": "ai delivers zero financial payoff to most companies apollo economist says",
@@ -7915,6 +7970,16 @@
       "at": "2026-10-26T15:15:20.145613+00:00",
       "title": "anthropic officially files for its public debut",
       "url": "techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut"
+    },
+    "rss:https://techcrunch.com/?p=3181659": {
+      "at": "2026-10-26T21:39:27.933669+00:00",
+      "title": "spacex locks in 40b gpu financing deal with apollo",
+      "url": "techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo"
+    },
+    "rss:https://techcrunch.com/?p=3181689": {
+      "at": "2026-10-26T21:39:27.933639+00:00",
+      "title": "anthropic s ipo filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15195,6 +15260,11 @@
       "title": "psa llama cpp cve 2026 116096",
       "url": "reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfju8e": {
+      "at": "2026-10-26T21:39:27.933719+00:00",
+      "title": "let s talk about cyber capabilities and open weights as we move towards the future",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfju8e/lets_talk_about_cyber_capabilities_and_open"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfl3wo": {
       "at": "2026-10-26T15:15:20.145682+00:00",
       "title": "qwen3 8 flash next vs swift 1 5 qwen3 8 flash next",
@@ -15210,6 +15280,11 @@
       "title": "researchers from stanford and uc berkeley introduce tokengate token gated attention makes long context prefill up to 11 3x faster",
       "url": "reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfqi2d": {
+      "at": "2026-10-26T21:39:27.933700+00:00",
+      "title": "boro64 ternary nemotron 3 5 lightning 30b a3b gguf hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfqi2d/boro64ternarynemotron35lightning30ba3bgguf"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfrti9": {
       "at": "2026-10-26T15:15:20.145668+00:00",
       "title": "qwen4 expectations",
@@ -15224,6 +15299,21 @@
       "at": "2026-10-26T15:15:20.145641+00:00",
       "title": "qwen4 27b s 4 way hc shift",
       "url": "reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xg2bht": {
+      "at": "2026-10-26T21:39:27.933819+00:00",
+      "title": "qwen3 8 flash next tried to send diagnostic file to a remote location while stating otherwies",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xg4s8y": {
+      "at": "2026-10-26T21:39:27.933780+00:00",
+      "title": "oh nvidia nvidia reportedly not accepting rtx 5090 orders from board partners even backorders are unavailable",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xg4s8y/oh_nvidia_nvidia_reportedly_not_accepting_rtx"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xg78oq": {
+      "at": "2026-10-26T21:39:27.933896+00:00",
+      "title": "i now have definitive proofs that my qwen flash next is trying to send something to a remote chinese server",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15715,6 +15805,11 @@
       "title": "the focus on ai safety disasters ignores everyday harms",
       "url": "technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
     },
+    "rss:https://www.technologyreview.com/?p=1147672": {
+      "at": "2026-10-26T21:39:27.933622+00:00",
+      "title": "will the real anthropic please stand up",
+      "url": "technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
+    },
     "rss:urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d": {
       "at": "2026-10-23T13:28:29.012950+00:00",
       "title": "ainews black october",
@@ -15731,6 +15826,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-26T15:15:20.145712+00:00",
+  "updated_at": "2026-10-26T21:39:27.933933+00:00",
   "version": 2
 }
