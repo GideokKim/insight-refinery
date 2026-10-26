@@ -320,6 +320,11 @@
       "title": "command line tool quickly removes apple intelligence from macos 27",
       "url": "arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27"
     },
+    "rss:https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/": {
+      "at": "2026-10-26T15:15:20.145632+00:00",
+      "title": "tesla gave up the ev crown now it wants to win the autonomy race",
+      "url": "arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine"
+    },
     "rss:https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/": {
       "at": "2026-10-21T23:19:26.489651+00:00",
       "title": "the new human crafted apple music brand matters in an ai world",
@@ -1254,6 +1259,11 @@
       "at": "2026-09-30T21:27:04.076651+00:00",
       "title": "deploying an hstu generative recommender with nvidia dynamo triton",
       "url": "developer.nvidia.com/blog/deploying-an-hstu-generative-recommender-with-nvidia-dynamo-triton"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=123117": {
+      "at": "2026-10-26T15:15:20.145583+00:00",
+      "title": "how nvidia mission control 2 5 brings autonomous recovery to kubernetes",
+      "url": "developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes"
     },
     "rss:https://developer.nvidia.com/blog/?p=123148": {
       "at": "2026-10-01T23:55:08.084173+00:00",
@@ -3253,6 +3263,11 @@
       "at": "2026-08-27T12:49:39.361064+00:00",
       "title": "expanding openai s presence in brazil",
       "url": "openai.com/index/expanding-our-presence-in-brazil"
+    },
+    "rss:https://openai.com/index/fanatics-streamline-fan-experience": {
+      "at": "2026-10-26T15:15:20.145676+00:00",
+      "title": "how fanatics and openai streamline the fan experience",
+      "url": "openai.com/index/fanatics-streamline-fan-experience"
     },
     "rss:https://openai.com/index/forward-deployed-engineering-means": {
       "at": "2026-10-22T13:52:08.595970+00:00",
@@ -7895,6 +7910,11 @@
       "at": "2026-10-25T22:33:35.707801+00:00",
       "title": "grok releases the first seven minutes of its ai generated odyssey",
       "url": "techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
+    },
+    "rss:https://techcrunch.com/?p=3181633": {
+      "at": "2026-10-26T15:15:20.145613+00:00",
+      "title": "anthropic officially files for its public debut",
+      "url": "techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15175,10 +15195,35 @@
       "title": "psa llama cpp cve 2026 116096",
       "url": "reddit.com/r/LocalLLaMA/comments/1xfizft/psa_llamacpp_cve2026116096"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfl3wo": {
+      "at": "2026-10-26T15:15:20.145682+00:00",
+      "title": "qwen3 8 flash next vs swift 1 5 qwen3 8 flash next",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfl3wo/qwen38flashnext_vs_swift15qwen38flashnext"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xflw1l": {
       "at": "2026-10-26T07:48:18.926273+00:00",
       "title": "is the horror story about ai agent mass deleting your entire drive an old story or it still happen nowadays",
       "url": "reddit.com/r/LocalLLaMA/comments/1xflw1l/is_the_horror_story_about_ai_agent_mass_deleting"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfovxr": {
+      "at": "2026-10-26T15:15:20.145622+00:00",
+      "title": "researchers from stanford and uc berkeley introduce tokengate token gated attention makes long context prefill up to 11 3x faster",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfovxr/researchers_from_stanford_and_uc_berkeley"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfrti9": {
+      "at": "2026-10-26T15:15:20.145668+00:00",
+      "title": "qwen4 expectations",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfrti9/qwen4_expectations"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xft2ae": {
+      "at": "2026-10-26T15:15:20.145648+00:00",
+      "title": "have 8 gb of vram and 32 gb of ram you can run qwen 3 8 flash next at up to 900 t s pp and 30 t s tg",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xftcj0": {
+      "at": "2026-10-26T15:15:20.145641+00:00",
+      "title": "qwen4 27b s 4 way hc shift",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15665,6 +15710,11 @@
       "title": "making the internet better for ai agents might make it worse for everyone else",
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     },
+    "rss:https://www.technologyreview.com/?p=1147645": {
+      "at": "2026-10-26T15:15:20.145658+00:00",
+      "title": "the focus on ai safety disasters ignores everyday harms",
+      "url": "technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
+    },
     "rss:urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d": {
       "at": "2026-10-23T13:28:29.012950+00:00",
       "title": "ainews black october",
@@ -15681,6 +15731,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-26T07:48:18.926369+00:00",
+  "updated_at": "2026-10-26T15:15:20.145712+00:00",
   "version": 2
 }
