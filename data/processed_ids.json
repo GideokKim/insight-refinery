@@ -3046,6 +3046,11 @@
       "title": "concerning behavior from a popular open weight ai model",
       "url": "cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
     },
+    "rss:https://news.ycombinator.com/item?id=50252159": {
+      "at": "2026-10-27T07:51:59.875356+00:00",
+      "title": "cross request kv cache exposure in the glm 5 3 workers ai model 155 responses",
+      "url": "blog.cloudflare.com/kv-cache-exposure-remediation"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -7950,6 +7955,11 @@
       "at": "2026-10-23T07:32:37.864893+00:00",
       "title": "left alone with nothing to do ai agents started playing",
       "url": "techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing"
+    },
+    "rss:https://techcrunch.com/?p=3181218": {
+      "at": "2026-10-27T07:51:59.875371+00:00",
+      "title": "how openai turned its coding tools into dots an always on personal assistant",
+      "url": "techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant"
     },
     "rss:https://techcrunch.com/?p=3181243": {
       "at": "2026-10-24T17:28:27.538474+00:00",
@@ -15330,6 +15340,16 @@
       "title": "qwen4 27b s 4 way hc shift",
       "url": "reddit.com/r/LocalLLaMA/comments/1xftcj0/qwen427bs_4way_hc_shift"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfv8a9": {
+      "at": "2026-10-27T07:51:59.875396+00:00",
+      "title": "is there any way for this community to take advantage of the neocloud collapse",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfv8a9/is_there_any_way_for_this_community_to_take"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xfzdqu": {
+      "at": "2026-10-27T07:51:59.875365+00:00",
+      "title": "fast voice agents with convfill",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xfzdqu/fast_voice_agents_with_convfill"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xg2bht": {
       "at": "2026-10-26T21:39:27.933819+00:00",
       "title": "qwen3 8 flash next tried to send diagnostic file to a remote location while stating otherwies",
@@ -15345,6 +15365,11 @@
       "title": "i now have definitive proofs that my qwen flash next is trying to send something to a remote chinese server",
       "url": "reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xg9cr1": {
+      "at": "2026-10-27T07:51:59.875386+00:00",
+      "title": "i built an engine that runs qwen flash next at nearly 400t s on cheap ish hardware 3x v100 32gb in an old r740 originally forked from strata but the engine guts all built for the old volta generation",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xg9cr1/i_built_an_engine_that_runs_qwenflashnext_at"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgaapw": {
       "at": "2026-10-27T02:05:21.636883+00:00",
       "title": "gpu unlocks fp32 accumulation why can it be unlocked on turing rtx 20 ampere rtx 30 and ada rtx 40 but no consumer blackwell rtx 50 and some misconceptions",
@@ -15354,6 +15379,11 @@
       "at": "2026-10-27T02:05:21.636863+00:00",
       "title": "qwen investigation traces release",
       "url": "reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgbr9y": {
+      "at": "2026-10-27T07:51:59.875378+00:00",
+      "title": "interactive neuron steering playground for qwen3 5 4b that runs locally in the browser on webgpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgbr9y/interactive_neuron_steering_playground_for"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgc7uv": {
       "at": "2026-10-27T02:05:21.636910+00:00",
@@ -15860,6 +15890,11 @@
       "title": "will the real anthropic please stand up",
       "url": "technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
     },
+    "rss:urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e": {
+      "at": "2026-10-27T07:51:59.875319+00:00",
+      "title": "ainews anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
+      "url": "latent.space/p/ainews-anthropic-s1"
+    },
     "rss:urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d": {
       "at": "2026-10-23T13:28:29.012950+00:00",
       "title": "ainews black october",
@@ -15876,6 +15911,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-27T02:05:21.636994+00:00",
+  "updated_at": "2026-10-27T07:51:59.875423+00:00",
   "version": 2
 }

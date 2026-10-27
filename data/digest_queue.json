@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-27T02:05:20.153767+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e",
+        "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+        "url": "https://latent.space/p/ainews-anthropic-s1/",
+        "author": "swyx .ai",
+        "published_at": "2026-10-27T07:24:59+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic의 상장 및 실적 공개",
+        "summary_ko": [
+          "Anthropic이 나스닥 상장을 위한 S-1 서류를 공개하며 가파른 성장세를 증명했습니다.",
+          "2026년 상반기 매출 폭증과 함께 첫 분기 영업이익 흑자를 기록하며 자본 효율성을 입증했습니다.",
+          "향후 1억 명 이상의 지식 노동자를 겨냥한 가상 협업자 비전을 제시했습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50252159",
+        "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "author": "wondersky",
+        "published_at": "2026-10-26T22:41:48+00:00"
+      },
+      "insight": {
+        "title_ko": "GLM-5.3 Workers AI 모델의 KV 캐시 노출 취약점",
+        "summary_ko": [
+          "Cloudflare의 Workers AI에서 운영되는 GLM-5.3 모델에서 크로스 리퀘스트 KV 캐시 노출 취약점이 발견되었습니다.",
+          "이 보안 문제는 서로 다른 사용자 간의 요청에서 대규모 언어 모델의 내부 메모리 상태인 KV 캐시가 유출될 위험을 내포하고 있습니다.",
+          "관련 보안 조치와 수정 사항이 공식 블로그를 통해 공개되며 실무 운영 환경의 주의가 요구됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xfzdqu",
+        "title": "Fast voice agents with ConvFill",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfzdqu/fast_voice_agents_with_convfill/",
+        "author": "/u/futterneid",
+        "published_at": "2026-10-26T15:06:08+00:00"
+      },
+      "insight": {
+        "title_ko": "실시간 음성 에이전트 지연 시간 개선 기법",
+        "summary_ko": [
+          "ConvFill은 대형 추론 모델과 소형 발화 모델을 결합하여 음성 에이전트의 속도와 지능의 한계를 극복하는 방법을 제안합니다.",
+          "소형 모델이 먼저 빠르게 답변하여 시간을 벌고, 그 사이에 대형 추론 모델이 생성한 응답을 이어받아 자연스러운 대화를 유지합니다.",
+          "워싱턴대학교 UbiComp Lab 학생들이 개발한 이 연구는 이번 주 EMNLP에서 발표될 예정입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
