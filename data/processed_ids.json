@@ -3171,6 +3171,11 @@
       "title": "how we built chatgpt s novel ad stack for user trust and relevance",
       "url": "openai.com/index/building-chatgpt-ad-stack"
     },
+    "rss:https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+      "at": "2026-10-27T02:05:21.636900+00:00",
+      "title": "working with academic communities to build scientific understanding",
+      "url": "openai.com/index/building-scientific-understanding-with-academic-communities"
+    },
     "rss:https://openai.com/index/building-standards-next-phase-ai": {
       "at": "2026-09-21T21:06:07.442413+00:00",
       "title": "building standards for the next phase of ai",
@@ -3324,6 +3329,11 @@
       "title": "advancing price performance for developers with gpt 5 6 in kiro",
       "url": "openai.com/index/gpt-5-6-in-kiro"
     },
+    "rss:https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+      "at": "2026-10-27T02:05:21.636935+00:00",
+      "title": "gpt 6 1 sol helps coderabbit strengthen security across complex codebases",
+      "url": "openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+    },
     "rss:https://openai.com/index/gpt-6-astra": {
       "at": "2026-09-05T06:25:52.388524+00:00",
       "title": "gpt 6 astra a new generation of intelligence",
@@ -3343,6 +3353,11 @@
       "at": "2026-09-23T13:44:54.793879+00:00",
       "title": "grab and openai bring practical ai skills to southeast asia",
       "url": "openai.com/index/grab-openai-ai-skills-southeast-asia"
+    },
+    "rss:https://openai.com/index/greptile-code-review-codex-astra": {
+      "at": "2026-10-27T02:05:21.636873+00:00",
+      "title": "greptile takes bug detection beyond code review with gpt 6 astra",
+      "url": "openai.com/index/greptile-code-review-codex-astra"
     },
     "rss:https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
       "at": "2026-09-23T22:59:06.946196+00:00",
@@ -4352,10 +4367,20 @@
       "title": "seam cutter",
       "url": "simonwillison.net/2026/Oct/25/seam-cutter"
     },
+    "rss:https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
+      "at": "2026-10-27T02:05:21.636849+00:00",
+      "title": "gpt 6 1 terra",
+      "url": "simonwillison.net/2026/Oct/26/gpt-61-terra"
+    },
     "rss:https://simonwillison.net/2026/Oct/26/jason-koebler/": {
       "at": "2026-10-26T21:39:27.933754+00:00",
       "title": "quoting jason koebler",
       "url": "simonwillison.net/2026/Oct/26/jason-koebler"
+    },
+    "rss:https://simonwillison.net/2026/Oct/26/webframe-evaluation/": {
+      "at": "2026-10-27T02:05:21.636924+00:00",
+      "title": "webframe evaluated as a scraper and a sandbox",
+      "url": "simonwillison.net/2026/Oct/26/webframe-evaluation"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -7980,6 +8005,11 @@
       "at": "2026-10-26T21:39:27.933639+00:00",
       "title": "anthropic s ipo filing reveals its strategy for keeping enterprise customers hooked",
       "url": "techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked"
+    },
+    "rss:https://techcrunch.com/?p=3181989": {
+      "at": "2026-10-27T02:05:21.636796+00:00",
+      "title": "cohere says alibaba s qwen model tried to send a file to beijing",
+      "url": "techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15315,6 +15345,26 @@
       "title": "i now have definitive proofs that my qwen flash next is trying to send something to a remote chinese server",
       "url": "reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgaapw": {
+      "at": "2026-10-27T02:05:21.636883+00:00",
+      "title": "gpu unlocks fp32 accumulation why can it be unlocked on turing rtx 20 ampere rtx 30 and ada rtx 40 but no consumer blackwell rtx 50 and some misconceptions",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgaapw/gpu_unlocks_fp32_accumulation_why_can_it_be"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgbm28": {
+      "at": "2026-10-27T02:05:21.636863+00:00",
+      "title": "qwen investigation traces release",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgc7uv": {
+      "at": "2026-10-27T02:05:21.636910+00:00",
+      "title": "update my 4b coding model is getting better at generating 3d scenes",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgc7uv/update_my_4b_coding_model_is_getting_better_at"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgdjy3": {
+      "at": "2026-10-27T02:05:21.636945+00:00",
+      "title": "psa qwen 3 8 fn is about to win the 2026 arc agi 3 challenge",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgdjy3/psa_qwen38fn_is_about_to_win_the_2026_arcagi3"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -15826,6 +15876,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-26T21:39:27.933933+00:00",
+  "updated_at": "2026-10-27T02:05:21.636994+00:00",
   "version": 2
 }
