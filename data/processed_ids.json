@@ -460,6 +460,11 @@
       "title": "judge dismisses chegg and penske antitrust lawsuits targeting google ai search",
       "url": "arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge"
     },
+    "rss:https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/": {
+      "at": "2026-10-27T21:20:39.162430+00:00",
+      "title": "deepmind unveils genie 4 world model promising more realistic physics and humans",
+      "url": "arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations"
+    },
     "rss:https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/": {
       "at": "2026-10-20T23:12:01.940321+00:00",
       "title": "gemini s personal intelligence is coming to cars",
@@ -514,6 +519,11 @@
       "at": "2026-10-13T20:18:11.652366+00:00",
       "title": "they war gamed dimming the sun it went even worse than you think",
       "url": "arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think"
+    },
+    "rss:https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/": {
+      "at": "2026-10-27T21:20:39.162308+00:00",
+      "title": "vibe genes natural ish language comes to protein genome design software",
+      "url": "arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software"
     },
     "rss:https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/": {
       "at": "2026-10-10T00:02:59.439170+00:00",
@@ -869,6 +879,11 @@
       "at": "2026-08-28T01:13:09.165194+00:00",
       "title": "gemini omni 1 1 flash lets you build with more control",
       "url": "deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"
+    },
+    "rss:https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+      "at": "2026-10-27T21:20:39.162422+00:00",
+      "title": "genie 4 a new generation of world simulation",
+      "url": "deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
     },
     "rss:https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
       "at": "2026-08-26T18:46:54.599647+00:00",
@@ -1425,6 +1440,26 @@
       "title": "scaling nvidia tensorrt performance optimization beyond a single build route with the global performance tuner part 2",
       "url": "developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124221": {
+      "at": "2026-10-27T21:20:39.162455+00:00",
+      "title": "3 ways to boost moe inference on nvidia dgx spark",
+      "url": "developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124229": {
+      "at": "2026-10-27T21:20:39.162438+00:00",
+      "title": "fine tuning nvidia nemotron to know local rules not just local languages",
+      "url": "developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124247": {
+      "at": "2026-10-27T21:20:39.162239+00:00",
+      "title": "memory enforced gpu sharing in kubernetes with nvidia cuda 13 4",
+      "url": "developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124273": {
+      "at": "2026-10-27T21:20:39.162376+00:00",
+      "title": "nvidia rtx spark powers neural rendering and ai characters in games",
+      "url": "developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1464,6 +1499,11 @@
       "at": "2026-08-20T17:18:50.768043+00:00",
       "title": "up to 3 2x faster inference with lfm2 5 dspark",
       "url": "huggingface.co/blog/LiquidAI/lfm25-dspark"
+    },
+    "rss:https://huggingface.co/blog/LiquidAI/lfm3": {
+      "at": "2026-10-27T21:20:39.162484+00:00",
+      "title": "build specialized multimodal models with lfm3",
+      "url": "huggingface.co/blog/LiquidAI/lfm3"
     },
     "rss:https://huggingface.co/blog/LiquidAI/open-d1": {
       "at": "2026-10-07T20:01:13.684791+00:00",
@@ -1539,6 +1579,11 @@
       "at": "2026-10-23T18:22:51.539112+00:00",
       "title": "litpivot developing research ideas through dynamic contextualization within the literature landscape",
       "url": "huggingface.co/blog/allenai/litpivot"
+    },
+    "rss:https://huggingface.co/blog/allenai/novelty-bench": {
+      "at": "2026-10-27T21:20:39.162511+00:00",
+      "title": "can we trust llms to judge whether a research idea is novel",
+      "url": "huggingface.co/blog/allenai/novelty-bench"
     },
     "rss:https://huggingface.co/blog/allenai/olmocore3": {
       "at": "2026-10-01T17:23:15.420885+00:00",
@@ -3066,6 +3111,16 @@
       "title": "wikipedia s cleanup of ai generated content",
       "url": "spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
     },
+    "rss:https://news.ycombinator.com/item?id=50261589": {
+      "at": "2026-10-27T21:20:39.162405+00:00",
+      "title": "amazon is gutting its ai division after sustained failure",
+      "url": "futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
+    },
+    "rss:https://news.ycombinator.com/item?id=50261819": {
+      "at": "2026-10-27T21:20:39.162501+00:00",
+      "title": "police are using ai to pull over drivers for suspicious behavior",
+      "url": "gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -4042,6 +4097,11 @@
       "title": "the power of collaboration how we can reduce traffic congestion",
       "url": "research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion"
     },
+    "rss:https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/": {
+      "at": "2026-10-27T21:20:39.162339+00:00",
+      "title": "the sleep framework a new way for llms to retain knowledge in continual learning",
+      "url": "research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning"
+    },
     "rss:https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/": {
       "at": "2026-08-19T20:13:45.261346+00:00",
       "title": "thinking to recall how reasoning unlocks parametric knowledge in llms",
@@ -4401,6 +4461,11 @@
       "at": "2026-10-27T02:05:21.636924+00:00",
       "title": "webframe evaluated as a scraper and a sandbox",
       "url": "simonwillison.net/2026/Oct/26/webframe-evaluation"
+    },
+    "rss:https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/": {
+      "at": "2026-10-27T21:20:39.162529+00:00",
+      "title": "game boy color on my conference badge",
+      "url": "simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -8051,10 +8116,30 @@
       "title": "cohere says alibaba s qwen model tried to send a file to beijing",
       "url": "techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing"
     },
+    "rss:https://techcrunch.com/?p=3182002": {
+      "at": "2026-10-27T21:20:39.162492+00:00",
+      "title": "frontier ai labs say their models refuted the exponential time hypothesis what does that mean",
+      "url": "techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean"
+    },
     "rss:https://techcrunch.com/?p=3182015": {
       "at": "2026-10-27T14:32:35.092344+00:00",
       "title": "japan internet giant gmo says hackers posted stolen customer data",
       "url": "techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data"
+    },
+    "rss:https://techcrunch.com/?p=3182018": {
+      "at": "2026-10-27T21:20:39.162520+00:00",
+      "title": "meta ai director rohit patel leaves to take on microsoft office and google workspace",
+      "url": "techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace"
+    },
+    "rss:https://techcrunch.com/?p=3182045": {
+      "at": "2026-10-27T21:20:39.162390+00:00",
+      "title": "google s genie 4 world model adds audio more realistic worlds and real time steering",
+      "url": "techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering"
+    },
+    "rss:https://techcrunch.com/?p=3182189": {
+      "at": "2026-10-27T21:20:39.162464+00:00",
+      "title": "disruptive raises 10b fund to make big bets on at least 10 companies",
+      "url": "techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15450,6 +15535,36 @@
       "title": "ling 3 1 flash 1019 weights are out and they released the base model too",
       "url": "reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgw2qm": {
+      "at": "2026-10-27T21:20:39.162447+00:00",
+      "title": "spark x2 6 1 7b almost the same perf as 4b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgw2qm/sparkx2617b_almost_the_same_perf_as_4b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgwyx9": {
+      "at": "2026-10-27T21:20:39.162414+00:00",
+      "title": "8x r9700 system upgrade",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgy5ic": {
+      "at": "2026-10-27T21:20:39.162544+00:00",
+      "title": "i am a king but local",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgy8s3": {
+      "at": "2026-10-27T21:20:39.162354+00:00",
+      "title": "liquidai lfm3 1 7b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh0otf": {
+      "at": "2026-10-27T21:20:39.162473+00:00",
+      "title": "real time video captioning with lfm3 vl 2b running locally in browser on webgpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh17tk": {
+      "at": "2026-10-27T21:20:39.162536+00:00",
+      "title": "statistically lossless qwen3 8 27b ggufs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -15950,6 +16065,11 @@
       "title": "will the real anthropic please stand up",
       "url": "technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
     },
+    "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
+      "at": "2026-10-27T21:20:39.162323+00:00",
+      "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
+      "url": "latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands"
+    },
     "rss:urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e": {
       "at": "2026-10-27T07:51:59.875319+00:00",
       "title": "ainews anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
@@ -15965,12 +16085,17 @@
       "title": "ai is getting good at math here s why",
       "url": "latent.space/p/ai-is-getting-good-at-math"
     },
+    "rss:urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42": {
+      "at": "2026-10-27T21:20:39.162290+00:00",
+      "title": "how anthropic ships claude with claude separating the brain from the hands",
+      "url": "latent.space/p/opus55"
+    },
     "rss:urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": {
       "at": "2026-10-24T12:41:12.841488+00:00",
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-27T14:32:35.092430+00:00",
+  "updated_at": "2026-10-27T21:20:39.162593+00:00",
   "version": 2
 }
