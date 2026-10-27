@@ -67,6 +67,116 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3181922",
+        "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+        "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+        "author": "Lucas Ropek",
+        "published_at": "2026-10-27T13:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Opera, 브라우저 로컬 AI 배포를 위한 웹 표준 발표",
+        "summary_ko": [
+          "오페라가 사용자가 브라우저에서 직접 AI를 로컬로 배포할 수 있는 새로운 웹 표준인 WebAI를 소개했다.",
+          "WebAI 표준은 다양한 AI 모델들과 원활하게 작동하도록 설계된 것이 특징이다.",
+          "이 표준의 도입으로 브라우저 환경에서 온디바이스 AI 활용성이 더욱 확대될 것으로 기대된다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xgrr8n",
+        "title": "Ling-3.1-flash-1019 weights are out, and they released the base model too",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released/",
+        "author": "/u/BerryBlush_Rogers691",
+        "published_at": "2026-10-27T12:55:08+00:00"
+      },
+      "insight": {
+        "title_ko": "Ling-3.1-flash-1019 모델 가중치 및 베이스 모델 공개",
+        "summary_ko": [
+          "Ling-3.1-flash-1019 모델의 가중치가 Hugging Face를 통해 공식 공개되었습니다.",
+          "이 모델은 560B 총 파라미터와 25B 활성 파라미터를 가지며 1M 컨텍스트 윈도우를 지원합니다.",
+          "추가적인 파인튜닝을 위한 BF16 기반의 Ling-3.1-flash-base 모델도 함께 배포되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1147142",
+        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+        "author": "Michael MacKenzie",
+        "published_at": "2026-10-27T11:19:18+00:00"
+      },
+      "insight": {
+        "title_ko": "제조업의 다음 성장 동력, Industrial Intelligence",
+        "summary_ko": [
+          "제조업의 Industrial Intelligence는 숙련된 노동자의 경험과 운영 데이터, 노하우가 결합된 기업의 핵심 자산입니다.",
+          "개인의 암묵지를 조직 전체의 자산으로 확장하고 Physical AI와 연결함으로써 생산 현장의 혁신을 가속화할 수 있습니다.",
+          "실제 데이터와 문맥을 결합하여 실시간으로 대응하고 시뮬레이션을 활용하면 제조 공정의 효율성과 품질을 크게 높일 수 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xgnbtq",
+        "title": "baidu/Unlimited-OCR-2 · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-10-27T08:54:41+00:00"
+      },
+      "insight": {
+        "title_ko": "Baidu, 무한 문서 파싱 가능한 Unlimited-OCR-2 공개",
+        "summary_ko": [
+          "Baidu는 문서 파싱 성능을 극대화한 Unlimited-OCR-2 모델을 Hugging Face에 공개했다.",
+          "Sparse Reference Sliding Window Attention 메커니즘을 적용하여 연산 복잡도와 메모리 사용량을 일정하게 유지한다.",
+          "수십에서 수백 페이지에 달하는 극단적인 길이의 문서 벤치마크에서 최고 수준의 성능을 달성했다."
+        ],
+        "category": "Vision",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xg3rms",
+        "title": "Local beats cloud, Qwen 3.8 FN",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg3rms/local_beats_cloud_qwen_38_fn/",
+        "author": "/u/dr_lm",
+        "published_at": "2026-10-26T17:43:57+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 LLM Qwen 3.8 FN 활용 사례",
+        "summary_ko": [
+          "작성자는 학생과 프로젝트 매칭 등의 업무 자동화를 위해 로컬 환경에서 Qwen 3.8 FN 모델을 도입했습니다.",
+          "민감한 학생 개인정보를 보호하면서도 vLLM과 Docker 기반으로 클라우드 모델 못지않은 성능과 속도를 입증했습니다.",
+          "이형 데이터 통합과 데이터베이스 구축 작업을 성공적으로 수행하며 실무에서 로컬 LLM의 가능성을 보여주었습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

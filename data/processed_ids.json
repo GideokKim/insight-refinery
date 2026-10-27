@@ -3051,6 +3051,21 @@
       "title": "cross request kv cache exposure in the glm 5 3 workers ai model 155 responses",
       "url": "blog.cloudflare.com/kv-cache-exposure-remediation"
     },
+    "rss:https://news.ycombinator.com/item?id=50255298": {
+      "at": "2026-10-27T14:32:35.092391+00:00",
+      "title": "the mythical man month in the age of ai",
+      "url": "j11g.com/the-mythical-man-month-in-the-age-of-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=50257325": {
+      "at": "2026-10-27T14:32:35.092399+00:00",
+      "title": "ai promised less work i ve never worked more",
+      "url": "oioannou.com/blog/ai-promised-less-work"
+    },
+    "rss:https://news.ycombinator.com/item?id=50257326": {
+      "at": "2026-10-27T14:32:35.092364+00:00",
+      "title": "wikipedia s cleanup of ai generated content",
+      "url": "spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -8001,6 +8016,11 @@
       "title": "grok releases the first seven minutes of its ai generated odyssey",
       "url": "techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
     },
+    "rss:https://techcrunch.com/?p=3181625": {
+      "at": "2026-10-27T14:32:35.092374+00:00",
+      "title": "nvidia backs indian startup helping companies run ai models with fewer gpus",
+      "url": "techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus"
+    },
     "rss:https://techcrunch.com/?p=3181633": {
       "at": "2026-10-26T15:15:20.145613+00:00",
       "title": "anthropic officially files for its public debut",
@@ -8016,10 +8036,25 @@
       "title": "anthropic s ipo filing reveals its strategy for keeping enterprise customers hooked",
       "url": "techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked"
     },
+    "rss:https://techcrunch.com/?p=3181881": {
+      "at": "2026-10-27T14:32:35.092352+00:00",
+      "title": "general compute raises 100 million series a countering the neocloud disaster narrative",
+      "url": "techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative"
+    },
+    "rss:https://techcrunch.com/?p=3181922": {
+      "at": "2026-10-27T14:32:35.092265+00:00",
+      "title": "opera introduces a new web standard to let users deploy ai locally in their browser",
+      "url": "techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser"
+    },
     "rss:https://techcrunch.com/?p=3181989": {
       "at": "2026-10-27T02:05:21.636796+00:00",
       "title": "cohere says alibaba s qwen model tried to send a file to beijing",
       "url": "techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing"
+    },
+    "rss:https://techcrunch.com/?p=3182015": {
+      "at": "2026-10-27T14:32:35.092344+00:00",
+      "title": "japan internet giant gmo says hackers posted stolen customer data",
+      "url": "techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15355,6 +15390,11 @@
       "title": "qwen3 8 flash next tried to send diagnostic file to a remote location while stating otherwies",
       "url": "reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xg3rms": {
+      "at": "2026-10-27T14:32:35.092337+00:00",
+      "title": "local beats cloud qwen 3 8 fn",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xg3rms/local_beats_cloud_qwen_38_fn"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xg4s8y": {
       "at": "2026-10-26T21:39:27.933780+00:00",
       "title": "oh nvidia nvidia reportedly not accepting rtx 5090 orders from board partners even backorders are unavailable",
@@ -15394,6 +15434,21 @@
       "at": "2026-10-27T02:05:21.636945+00:00",
       "title": "psa qwen 3 8 fn is about to win the 2026 arc agi 3 challenge",
       "url": "reddit.com/r/LocalLLaMA/comments/1xgdjy3/psa_qwen38fn_is_about_to_win_the_2026_arcagi3"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgnbtq": {
+      "at": "2026-10-27T14:32:35.092325+00:00",
+      "title": "baidu unlimited ocr 2 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgnbtq/baiduunlimitedocr2_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgopmj": {
+      "at": "2026-10-27T14:32:35.092382+00:00",
+      "title": "debunking cohere s claim of qwen 3 8 flash next uploading to alibaba remote url",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgrr8n": {
+      "at": "2026-10-27T14:32:35.092302+00:00",
+      "title": "ling 3 1 flash 1019 weights are out and they released the base model too",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgrr8n/ling31flash1019_weights_are_out_and_they_released"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -15870,6 +15925,11 @@
       "title": "ai researchers stranded claude on a virtual desert island it started to play",
       "url": "technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"
     },
+    "rss:https://www.technologyreview.com/?p=1147142": {
+      "at": "2026-10-27T14:32:35.092315+00:00",
+      "title": "industrial intelligence the next growth opportunity for manufacturing",
+      "url": "technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing"
+    },
     "rss:https://www.technologyreview.com/?p=1147149": {
       "at": "2026-10-19T21:34:08.060788+00:00",
       "title": "we were looking at it wrong the explosive claim that s upended the ai world",
@@ -15911,6 +15971,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-27T07:51:59.875423+00:00",
+  "updated_at": "2026-10-27T14:32:35.092430+00:00",
   "version": 2
 }
