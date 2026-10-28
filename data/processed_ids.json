@@ -265,6 +265,16 @@
       "title": "gemini 4 argon begins rolling out in gemini app and antigravity but only if you pay",
       "url": "arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay"
     },
+    "rss:https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/": {
+      "at": "2026-10-28T19:35:25.771287+00:00",
+      "title": "google ai gets cagey when asked who won the 2020 elections",
+      "url": "arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections"
+    },
+    "rss:https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/": {
+      "at": "2026-10-28T19:35:25.771179+00:00",
+      "title": "google announces gemini 4 carbon its latest frontier ai model that you can t use",
+      "url": "arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use"
+    },
     "rss:https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/": {
       "at": "2026-10-07T20:01:13.684714+00:00",
       "title": "google rolls out improved synthid ai content detector now available globally",
@@ -884,6 +894,11 @@
       "at": "2026-09-30T21:27:04.076694+00:00",
       "title": "gemini 4 argon our next era of frontier intelligence",
       "url": "deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence"
+    },
+    "rss:https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+      "at": "2026-10-28T19:35:25.771194+00:00",
+      "title": "gemini 4 carbon our next frontier model",
+      "url": "deepmind.google/blog/gemini-4-carbon-our-next-frontier-model"
     },
     "rss:https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/": {
       "at": "2026-08-28T01:13:09.165194+00:00",
@@ -3136,6 +3151,16 @@
       "title": "survival llm ai assistant and emergency library that runs on your own computer",
       "url": "brangus.io/survival-llm"
     },
+    "rss:https://news.ycombinator.com/item?id=50273396": {
+      "at": "2026-10-28T19:35:25.771322+00:00",
+      "title": "kentucky man becomes the first humanist granted religious exemption from ai",
+      "url": "religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=50275626": {
+      "at": "2026-10-28T19:35:25.771221+00:00",
+      "title": "dayjob tax evaluating ai agents on 50 professional tax assignments",
+      "url": "surgehq.ai/blog/dayjob-tax"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -4502,10 +4527,20 @@
       "title": "game boy color on my conference badge",
       "url": "simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge"
     },
+    "rss:https://simonwillison.net/2026/Oct/28/github-octoverse-2026/": {
+      "at": "2026-10-28T19:35:25.771213+00:00",
+      "title": "github octoverse 2026",
+      "url": "simonwillison.net/2026/Oct/28/github-octoverse-2026"
+    },
     "rss:https://simonwillison.net/2026/Oct/28/terk-terkowitz/": {
       "at": "2026-10-28T11:21:06.467594+00:00",
       "title": "quoting terk terkowitz",
       "url": "simonwillison.net/2026/Oct/28/terk-terkowitz"
+    },
+    "rss:https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
+      "at": "2026-10-28T19:35:25.771231+00:00",
+      "title": "the october inflection point for vibe game development",
+      "url": "simonwillison.net/2026/Oct/28/vibe-game-development"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -8176,6 +8211,11 @@
       "title": "meta ai director rohit patel leaves to take on microsoft office and google workspace",
       "url": "techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace"
     },
+    "rss:https://techcrunch.com/?p=3182042": {
+      "at": "2026-10-28T19:35:25.771368+00:00",
+      "title": "ai execs may be too out of touch to build for the general public",
+      "url": "techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public"
+    },
     "rss:https://techcrunch.com/?p=3182045": {
       "at": "2026-10-27T21:20:39.162390+00:00",
       "title": "google s genie 4 world model adds audio more realistic worlds and real time steering",
@@ -8185,6 +8225,11 @@
       "at": "2026-10-28T02:16:22.306397+00:00",
       "title": "who s really in charge at anthropic after the ipo",
       "url": "techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3182159": {
+      "at": "2026-10-28T19:35:25.771315+00:00",
+      "title": "voice ai in vogue nvidia releases new open transcription model",
+      "url": "techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model"
     },
     "rss:https://techcrunch.com/?p=3182189": {
       "at": "2026-10-27T21:20:39.162464+00:00",
@@ -8205,6 +8250,31 @@
       "at": "2026-10-28T02:16:22.306366+00:00",
       "title": "vcs will make billions on anthropic s ipo but amazon is set to make much much more",
       "url": "techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more"
+    },
+    "rss:https://techcrunch.com/?p=3182455": {
+      "at": "2026-10-28T19:35:25.771387+00:00",
+      "title": "7 days until techcrunch founder summit save up to 100 on your pass before doors open",
+      "url": "techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open"
+    },
+    "rss:https://techcrunch.com/?p=3182509": {
+      "at": "2026-10-28T19:35:25.771203+00:00",
+      "title": "as ai agents reshape the web google opens gemini and search to more apps",
+      "url": "techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps"
+    },
+    "rss:https://techcrunch.com/?p=3182513": {
+      "at": "2026-10-28T19:35:25.771306+00:00",
+      "title": "south korea s financial industry hit by fresh wave of cyberattacks",
+      "url": "techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks"
+    },
+    "rss:https://techcrunch.com/?p=3182578": {
+      "at": "2026-10-28T19:35:25.771295+00:00",
+      "title": "chrome s ai powered autofill can now dig through your gmail to fill out forms",
+      "url": "techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms"
+    },
+    "rss:https://techcrunch.com/?p=3182643": {
+      "at": "2026-10-28T19:35:25.771266+00:00",
+      "title": "anthropic just launched tools to show companies what their ai spending is buying",
+      "url": "techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -8256,6 +8326,11 @@
       "title": "physical ai is more than robots says the nvidia veteran now investing in it",
       "url": "techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3182774": {
+      "at": "2026-10-28T19:35:25.771275+00:00",
+      "title": "the vulnpocalypse is coming for the internet s aging code says wiz s cto",
+      "url": "techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -8300,6 +8375,11 @@
       "at": "2026-10-16T18:08:12.779873+00:00",
       "title": "an nvidia insider turned vc on why robotics hasn t hit its chatgpt moment yet",
       "url": "techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3182776": {
+      "at": "2026-10-28T19:35:25.771143+00:00",
+      "title": "wiz s cto on php2shell and the coming vulnpocalypse",
+      "url": "techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -15685,6 +15765,41 @@
       "title": "gemma 5 models soon",
       "url": "reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhmo1q": {
+      "at": "2026-10-28T19:35:25.771254+00:00",
+      "title": "someone built a 32 bit risc v cpu directly inside qwen s model weights so it can execute instructions internaly",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhmo1q/someone_built_a_32bit_riscv_cpu_directly_inside"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhoeo3": {
+      "at": "2026-10-28T19:35:25.771242+00:00",
+      "title": "used qwen 3 8 flash next on underspeced pc to root and gut lg tv of spy and adware",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhoeo3/used_qwen_38_flash_next_on_underspeced_pc_to_root"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhqy12": {
+      "at": "2026-10-28T19:35:25.771376+00:00",
+      "title": "nvidia nvidia nemotron 3 5 transcribe 30b a4b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhsvmy": {
+      "at": "2026-10-28T19:35:25.771353+00:00",
+      "title": "it vendor lists massive 60 million ai supercomputer on ebay with 9 600 nvidia a100 gpus and 4 200 amd epyc cpus plus free shipping 300 racks of decommissioned gpus on offer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhsvmy/it_vendor_lists_massive_60_million_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhtg61": {
+      "at": "2026-10-28T19:35:25.771346+00:00",
+      "title": "list of suggestions for gemma 5",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhtg61/list_of_suggestions_for_gemma_5"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhu3b0": {
+      "at": "2026-10-28T19:35:25.771337+00:00",
+      "title": "mac studio m5 ultra 512gb starts at 22 299 00 usd",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhu3b0/mac_studio_m5_ultra_512gb_starts_at_2229900_usd"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhubiw": {
+      "at": "2026-10-28T19:35:25.771330+00:00",
+      "title": "a small step for man a giant step for local ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -16175,6 +16290,11 @@
       "title": "making the internet better for ai agents might make it worse for everyone else",
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     },
+    "rss:https://www.technologyreview.com/?p=1147637": {
+      "at": "2026-10-28T19:35:25.771396+00:00",
+      "title": "pairing industrial ai autonomy and human control",
+      "url": "technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control"
+    },
     "rss:https://www.technologyreview.com/?p=1147645": {
       "at": "2026-10-26T15:15:20.145658+00:00",
       "title": "the focus on ai safety disasters ignores everyday harms",
@@ -16226,6 +16346,6 @@
       "url": "latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure"
     }
   },
-  "updated_at": "2026-10-28T11:21:06.467683+00:00",
+  "updated_at": "2026-10-28T19:35:25.771428+00:00",
   "version": 2
 }
