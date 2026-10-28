@@ -3594,6 +3594,11 @@
       "title": "legalon halves codex costs while maintaining development speed",
       "url": "openai.com/index/legalon-halves-codex-costs"
     },
+    "rss:https://openai.com/index/legora-agentic-operating-system-for-legal-work": {
+      "at": "2026-10-28T11:21:06.467602+00:00",
+      "title": "legora is building the agentic operating system for legal work",
+      "url": "openai.com/index/legora-agentic-operating-system-for-legal-work"
+    },
     "rss:https://openai.com/index/legora-financial-statement-review-with-astra": {
       "at": "2026-09-03T21:59:42.659555+00:00",
       "title": "legora reviewed 41 documents in minutes with gpt 6 astra",
@@ -4496,6 +4501,11 @@
       "at": "2026-10-27T21:20:39.162529+00:00",
       "title": "game boy color on my conference badge",
       "url": "simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge"
+    },
+    "rss:https://simonwillison.net/2026/Oct/28/terk-terkowitz/": {
+      "at": "2026-10-28T11:21:06.467594+00:00",
+      "title": "quoting terk terkowitz",
+      "url": "simonwillison.net/2026/Oct/28/terk-terkowitz"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -15640,10 +15650,40 @@
       "title": "the reason why 5090 s are 10k now",
       "url": "reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh4bnd": {
+      "at": "2026-10-28T11:21:06.467566+00:00",
+      "title": "openai s major results over the last 3 months came from scaling test time compute with agent swarms i ve been building an open source equivalent for the past year and i d love for you guys to try it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh50at": {
       "at": "2026-10-28T02:16:22.306311+00:00",
       "title": "new audio model lfm3 audio 2b",
       "url": "reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh9qj4": {
+      "at": "2026-10-28T11:21:06.467551+00:00",
+      "title": "sk hynix expects demand to outpace supply through 2030",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh9qj4/sk_hynix_expects_demand_to_outpace_supply_through"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh9yf7": {
+      "at": "2026-10-28T11:21:06.467633+00:00",
+      "title": "deepseek v4 1 flash 1017 at 41 tok s on one 3090",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh9yf7/deepseekv41flash1017_at_41_toks_on_one_3090"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhdmlk": {
+      "at": "2026-10-28T11:21:06.467620+00:00",
+      "title": "artificial analysis intelligence index v5 major update",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhdmlk/artificial_analysis_intelligence_index_v5_major"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhep6w": {
+      "at": "2026-10-28T11:21:06.467612+00:00",
+      "title": "dirt cheap gpus coming next year",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhjn9d": {
+      "at": "2026-10-28T11:21:06.467644+00:00",
+      "title": "gemma 5 models soon",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16179,8 +16219,13 @@
       "at": "2026-10-24T12:41:12.841488+00:00",
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
       "url": "latent.space/p/ainews-kimi-31"
+    },
+    "rss:urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337": {
+      "at": "2026-10-28T11:21:06.467502+00:00",
+      "title": "ainews anthropic ends coding interviews hunger beats tenure",
+      "url": "latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure"
     }
   },
-  "updated_at": "2026-10-28T02:16:22.306456+00:00",
+  "updated_at": "2026-10-28T11:21:06.467683+00:00",
   "version": 2
 }

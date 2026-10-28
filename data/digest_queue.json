@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-28T02:16:19.493633+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337",
+        "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+        "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+        "author": "swyx .ai",
+        "published_at": "2026-10-28T08:50:30+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic의 코딩 면접 폐지와 AI 동향",
+        "summary_ko": [
+          "Anthropic의 채용 매니저가 Claude 등 AI 도구의 발전을 이유로 전통적인 코딩 면접을 폐지했다고 밝혔습니다.",
+          "주니어 엔지니어들은 백로그 처리 대신 비즈니스 임팩트와 주말 동안의 프로토타입 구축에 집중해야 한다고 조언했습니다.",
+          "또한 Google DeepMind는 오디오와 물리 엔진을 강화한 실시간 월드 모델 Genie 4를 공개했습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xh9qj4",
+        "title": "SK Hynix expects demand to outpace supply through 2030",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh9qj4/sk_hynix_expects_demand_to_outpace_supply_through/",
+        "author": "/u/Chemical_Hawk_6307",
+        "published_at": "2026-10-28T00:29:33+00:00"
+      },
+      "insight": {
+        "title_ko": "SK하이닉스, 2030년까지 AI 메모리 수요 지속 전망",
+        "summary_ko": [
+          "SK하이닉스는 2030년까지 고성능 메모리 반도체 수요가 공급을 초과할 것으로 예상했습니다.",
+          "현재 높은 수준인 RAM 가격이 향후 몇 년 동안 더욱 상승할 가능성이 제기되고 있습니다.",
+          "이번 전망은 급증하는 AI 인프라 투자와 맞물려 하드웨어 수급에 큰 영향을 미칠 것입니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xh4bnd",
+        "title": "OpenAI's major results over the last 3 months came from scaling test-time compute with agent swarms. I've been building an open-source equivalent for the past year, and I'd love for you guys to try it.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh4bnd/openais_major_results_over_the_last_3_months_came/",
+        "author": "/u/Ryoiki-Tokuiten",
+        "published_at": "2026-10-27T20:47:38+00:00"
+      },
+      "insight": {
+        "title_ko": "테스트타임 연산 확장 오픈소스 구현체 공개",
+        "summary_ko": [
+          "작성자는 최근 OpenAI 성과의 핵심인 테스트타임 연산과 에이전트 군집 방식을 모사한 오픈소스 시스템 Deepthink를 공개했습니다.",
+          "Gemma4-35B와 Qwen-3.8-27B 모델을 활용해 테스트한 결과, 고난도 벤치마크에서 문제 해결 능력이 대폭 향상되었습니다.",
+          "깊이 설정과 추론 속도에 따라 작업 완료에 50분에서 최대 30시간까지 소요될 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
