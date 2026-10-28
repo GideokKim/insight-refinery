@@ -250,6 +250,11 @@
       "title": "anthropic gives outside ai watchdog employee like access",
       "url": "arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access"
     },
+    "rss:https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/": {
+      "at": "2026-10-28T02:16:22.306301+00:00",
+      "title": "anthropic ipo warns its ai could blackmail people become sentient end humanity",
+      "url": "arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity"
+    },
     "rss:https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/": {
       "at": "2026-10-26T21:39:27.933766+00:00",
       "title": "ice plan to buy robot dogs spurs protest from hundreds of boston dynamics employees",
@@ -804,6 +809,11 @@
       "at": "2026-10-20T18:32:12.065010+00:00",
       "title": "meta tries to scapegoat staff who downloaded torrents to spare execs",
       "url": "arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/": {
+      "at": "2026-10-28T02:16:22.306289+00:00",
+      "title": "no human at the helm delaware plan would let ai agents run entire businesses",
+      "url": "arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
       "at": "2026-10-14T13:44:30.949167+00:00",
@@ -3121,6 +3131,11 @@
       "title": "police are using ai to pull over drivers for suspicious behavior",
       "url": "gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
     },
+    "rss:https://news.ycombinator.com/item?id=50264853": {
+      "at": "2026-10-28T02:16:22.306405+00:00",
+      "title": "survival llm ai assistant and emergency library that runs on your own computer",
+      "url": "brangus.io/survival-llm"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3288,6 +3303,11 @@
       "at": "2026-10-02T21:20:25.655729+00:00",
       "title": "chatham scales its capital markets expertise with openai",
       "url": "openai.com/index/chatham-financial"
+    },
+    "rss:https://openai.com/index/check-point-daybreak": {
+      "at": "2026-10-28T02:16:22.306359+00:00",
+      "title": "how check point accelerates vulnerability research with daybreak",
+      "url": "openai.com/index/check-point-daybreak"
     },
     "rss:https://openai.com/index/cloudflare-cyber": {
       "at": "2026-10-22T07:35:51.097442+00:00",
@@ -3659,6 +3679,11 @@
       "title": "how oracle turns days of work into minutes with chatgpt and codex",
       "url": "openai.com/index/oracle"
     },
+    "rss:https://openai.com/index/oracle-apps-in-chatgpt": {
+      "at": "2026-10-28T02:16:22.306350+00:00",
+      "title": "openai expands partnership with oracle to bring its apps to chatgpt",
+      "url": "openai.com/index/oracle-apps-in-chatgpt"
+    },
     "rss:https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
       "at": "2026-08-29T08:23:49.748322+00:00",
       "title": "our decision on cursor following its acquisition by spacex",
@@ -3753,6 +3778,11 @@
       "at": "2026-09-06T16:32:18.475904+00:00",
       "title": "research acceleration the view inside openai",
       "url": "openai.com/index/research-acceleration-view-inside-openai"
+    },
+    "rss:https://openai.com/index/retell-ai": {
+      "at": "2026-10-28T02:16:22.306413+00:00",
+      "title": "retell uses openai models to help power 100m monthly calls",
+      "url": "openai.com/index/retell-ai"
     },
     "rss:https://openai.com/index/ringg": {
       "at": "2026-09-23T18:26:13.104954+00:00",
@@ -8051,6 +8081,11 @@
       "title": "from toast to bessemer who founders will hear from at techcrunch founder summit 2026",
       "url": "techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026"
     },
+    "rss:https://techcrunch.com/?p=3181301": {
+      "at": "2026-10-28T02:16:22.306379+00:00",
+      "title": "the data center boom has an upside innovation for the us grid",
+      "url": "techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid"
+    },
     "rss:https://techcrunch.com/?p=3181396": {
       "at": "2026-10-23T23:09:50.024539+00:00",
       "title": "openai says it will no longer train its ai models on the live internet citing significant risks",
@@ -8136,10 +8171,30 @@
       "title": "google s genie 4 world model adds audio more realistic worlds and real time steering",
       "url": "techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering"
     },
+    "rss:https://techcrunch.com/?p=3182153": {
+      "at": "2026-10-28T02:16:22.306397+00:00",
+      "title": "who s really in charge at anthropic after the ipo",
+      "url": "techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo"
+    },
     "rss:https://techcrunch.com/?p=3182189": {
       "at": "2026-10-27T21:20:39.162464+00:00",
       "title": "disruptive raises 10b fund to make big bets on at least 10 companies",
       "url": "techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies"
+    },
+    "rss:https://techcrunch.com/?p=3182297": {
+      "at": "2026-10-28T02:16:22.306388+00:00",
+      "title": "bank of america kindly asks that you don t share your banking password with your ai assistant",
+      "url": "techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant"
+    },
+    "rss:https://techcrunch.com/?p=3182387": {
+      "at": "2026-10-28T02:16:22.306248+00:00",
+      "title": "parents sue openai alleging gpt 4o coached their daughter off seizure medication",
+      "url": "techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication"
+    },
+    "rss:https://techcrunch.com/?p=3182406": {
+      "at": "2026-10-28T02:16:22.306366+00:00",
+      "title": "vcs will make billions on anthropic s ipo but amazon is set to make much much more",
+      "url": "techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15530,6 +15585,11 @@
       "title": "debunking cohere s claim of qwen 3 8 flash next uploading to alibaba remote url",
       "url": "reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgoxvu": {
+      "at": "2026-10-28T02:16:22.306338+00:00",
+      "title": "we put deepseek in charge of four qwen3 5 9b models to reverse engineer binaries using smaller open models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgoxvu/we_put_deepseek_in_charge_of_four_qwen359b_models"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgrr8n": {
       "at": "2026-10-27T14:32:35.092302+00:00",
       "title": "ling 3 1 flash 1019 weights are out and they released the base model too",
@@ -15544,6 +15604,11 @@
       "at": "2026-10-27T21:20:39.162414+00:00",
       "title": "8x r9700 system upgrade",
       "url": "reddit.com/r/LocalLLaMA/comments/1xgwyx9/8x_r9700_system_upgrade"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgx26j": {
+      "at": "2026-10-28T02:16:22.306328+00:00",
+      "title": "a 1 3b ocr model just hit 93 68 on real world document parsing and there s now an ai judge for ocr errors",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xgx26j/a_13b_ocr_model_just_hit_9368_on_realworld"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xgy5ic": {
       "at": "2026-10-27T21:20:39.162544+00:00",
@@ -15564,6 +15629,21 @@
       "at": "2026-10-27T21:20:39.162536+00:00",
       "title": "statistically lossless qwen3 8 27b ggufs",
       "url": "reddit.com/r/LocalLLaMA/comments/1xh17tk/statistically_lossless_qwen38_27b_ggufs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh1rwn": {
+      "at": "2026-10-28T02:16:22.306318+00:00",
+      "title": "liquidai lfm3 omni 2b gguf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh1rwn/liquidailfm3omni2bgguf"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh3iek": {
+      "at": "2026-10-28T02:16:22.306426+00:00",
+      "title": "the reason why 5090 s are 10k now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xh50at": {
+      "at": "2026-10-28T02:16:22.306311+00:00",
+      "title": "new audio model lfm3 audio 2b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16085,6 +16165,11 @@
       "title": "ai is getting good at math here s why",
       "url": "latent.space/p/ai-is-getting-good-at-math"
     },
+    "rss:urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0": {
+      "at": "2026-10-28T02:16:22.306419+00:00",
+      "title": "coding from the himalayas with an offline ai agent",
+      "url": "latent.space/p/offline-coding"
+    },
     "rss:urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42": {
       "at": "2026-10-27T21:20:39.162290+00:00",
       "title": "how anthropic ships claude with claude separating the brain from the hands",
@@ -16096,6 +16181,6 @@
       "url": "latent.space/p/ainews-kimi-31"
     }
   },
-  "updated_at": "2026-10-27T21:20:39.162593+00:00",
+  "updated_at": "2026-10-28T02:16:22.306456+00:00",
   "version": 2
 }
