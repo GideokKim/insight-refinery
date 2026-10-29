@@ -15840,6 +15840,11 @@
       "title": "nvidia nvidia nemotron 3 5 transcribe 30b a4b hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xhqy12/nvidianvidianemotron35transcribe30ba4b_hugging"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhse0l": {
+      "at": "2026-10-29T08:28:54.599555+00:00",
+      "title": "alternatives to artificial analysis",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhse0l/alternatives_to_artificial_analysis"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhsvmy": {
       "at": "2026-10-28T19:35:25.771353+00:00",
       "title": "it vendor lists massive 60 million ai supercomputer on ebay with 9 600 nvidia a100 gpus and 4 200 amd epyc cpus plus free shipping 300 racks of decommissioned gpus on offer",
@@ -15860,10 +15865,25 @@
       "title": "a small step for man a giant step for local ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhvf1z": {
+      "at": "2026-10-29T08:28:54.599521+00:00",
+      "title": "theory local is going to explode at enterprises",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhvf1z/theory_local_is_going_to_explode_at_enterprises"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhw2l0": {
       "at": "2026-10-29T00:00:51.638903+00:00",
       "title": "a 4b model made me a netherite ingot from bare hands all i did was type one sentence in chat",
       "url": "reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xi3l9r": {
+      "at": "2026-10-29T08:28:54.599534+00:00",
+      "title": "electronics hobbyist converts 120 ddr5 sodimm kit into 1000 desktop kit to fight ram crisis ics from sk hynix ddr5 5600 16gb modules used to create ddr5 7800 desktop sticks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xi3l9r/electronics_hobbyist_converts_120_ddr5_sodimm_kit"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xi7390": {
+      "at": "2026-10-29T08:28:54.599509+00:00",
+      "title": "qwen4 1m context window",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16385,6 +16405,11 @@
       "title": "ainews anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
       "url": "latent.space/p/ainews-anthropic-s1"
     },
+    "rss:urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19": {
+      "at": "2026-10-29T08:28:54.599471+00:00",
+      "title": "ainews gemini 4 carbon tops leaderboards launches for cyber defenders",
+      "url": "latent.space/p/ainews-gemini-4-carbon"
+    },
     "rss:urn:latent-space:post:post_3049d28e-7e21-4f4e-9f4b-ff63b89ebd0d": {
       "at": "2026-10-23T13:28:29.012950+00:00",
       "title": "ainews black october",
@@ -16421,6 +16446,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-29T00:00:51.638970+00:00",
+  "updated_at": "2026-10-29T08:28:54.599595+00:00",
   "version": 2
 }

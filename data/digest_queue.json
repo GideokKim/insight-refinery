@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-29T00:00:48.582039+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_211d308e-4494-4480-adc1-9d69c85efd19",
+        "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+        "url": "https://latent.space/p/ainews-gemini-4-carbon/",
+        "author": "swyx .ai",
+        "published_at": "2026-10-29T05:55:19+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemini 4 Carbon 출시 및 벤치마크 1위",
+        "summary_ko": [
+          "Google DeepMind은 사이버 보안과 장기 태스크에 특화된 새로운 프론티어 모델인 Gemini 4 Carbon을 발표했습니다.",
+          "이 모델은 Artificial Analysis 통합 벤치마크에서 1위를 차지하며 주요 평가 지표에서 뛰어난 성능을 입증했습니다.",
+          "현재는 Fairwind 프로그램을 통해 신뢰할 수 있는 사이버 방어자에게 우선 제공되며 추후 개발자 접근성이 확대될 예정입니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xi7390",
+        "title": "Qwen4 1M context window",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xi7390/qwen4_1m_context_window/",
+        "author": "/u/brainExploded99",
+        "published_at": "2026-10-29T01:42:55+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen4 모델 1M 컨텍스트 윈도우 지원 예정",
+        "summary_ko": [
+          "Qwen4 모델이 1백만 토큰의 컨텍스트 윈도우를 지원할 예정이라는 정보가 공개되었습니다.",
+          "관련 깃허브 풀 리퀘스트와 커뮤니티 유출을 통해 상세 내용이 공유되었습니다.",
+          "실무에서 대용량 문서 처리 및 장문 컨텍스트 활용 능력이 크게 향상될 것으로 기대됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
