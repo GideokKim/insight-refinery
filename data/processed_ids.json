@@ -1828,6 +1828,11 @@
       "title": "one model family two gold level results fine tuning nemotron for ioi and imo",
       "url": "huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
     },
+    "rss:https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
+      "at": "2026-10-29T00:00:51.638865+00:00",
+      "title": "nvidia nemotron 3 5 transcribe and granary v2 intelligent multilingual transcription you can prompt and adapt",
+      "url": "huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+    },
     "rss:https://huggingface.co/blog/nvidia/scaling-indic-pretraining": {
       "at": "2026-10-16T07:09:58.704695+00:00",
       "title": "scaling indic pretraining 2 8 trillion tokens and an open data generation pipeline",
@@ -3101,6 +3106,11 @@
       "title": "nikon photography contest winner loses title after scientists spot signs of ai",
       "url": "techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html"
     },
+    "rss:https://news.ycombinator.com/item?id=50230995": {
+      "at": "2026-10-29T00:00:51.638941+00:00",
+      "title": "imagine an ai future where being banned means you are now economically useless",
+      "url": "twitter.com/boneGPT/status/2114035719853265264"
+    },
     "rss:https://news.ycombinator.com/item?id=50233304": {
       "at": "2026-10-25T22:33:35.707829+00:00",
       "title": "ai use leads uc berkeley math professor to see no point in grading homework",
@@ -3619,6 +3629,11 @@
       "title": "legalon halves codex costs while maintaining development speed",
       "url": "openai.com/index/legalon-halves-codex-costs"
     },
+    "rss:https://openai.com/index/legora": {
+      "at": "2026-10-29T00:00:51.638918+00:00",
+      "title": "legora is building the agentic operating system for legal work",
+      "url": "openai.com/index/legora"
+    },
     "rss:https://openai.com/index/legora-agentic-operating-system-for-legal-work": {
       "at": "2026-10-28T11:21:06.467602+00:00",
       "title": "legora is building the agentic operating system for legal work",
@@ -3698,6 +3713,11 @@
       "at": "2026-10-23T07:32:37.864975+00:00",
       "title": "openai and poland s nask partner to advance ai safety and security",
       "url": "openai.com/index/openai-nask-ai-safety-security-partnership"
+    },
+    "rss:https://openai.com/index/openai-servicenow-partnership-expansion": {
+      "at": "2026-10-29T00:00:51.638874+00:00",
+      "title": "openai and servicenow expand partnership across enterprise workflows",
+      "url": "openai.com/index/openai-servicenow-partnership-expansion"
     },
     "rss:https://openai.com/index/openai-to-acquire-orchestra-bio": {
       "at": "2026-10-20T18:32:12.065074+00:00",
@@ -3946,6 +3966,11 @@
       "at": "2026-08-25T17:21:53.012133+00:00",
       "title": "the full stack behind abundant intelligence",
       "url": "openai.com/index/the-full-stack-behind-abundant-intelligence"
+    },
+    "rss:https://openai.com/index/the-future-of-the-firm": {
+      "at": "2026-10-29T00:00:51.638911+00:00",
+      "title": "the future of the firm",
+      "url": "openai.com/index/the-future-of-the-firm"
     },
     "rss:https://openai.com/index/the-work-now-within-reach": {
       "at": "2026-09-08T17:40:11.523137+00:00",
@@ -4531,6 +4556,11 @@
       "at": "2026-10-28T19:35:25.771213+00:00",
       "title": "github octoverse 2026",
       "url": "simonwillison.net/2026/Oct/28/github-octoverse-2026"
+    },
+    "rss:https://simonwillison.net/2026/Oct/28/ted-sanders/": {
+      "at": "2026-10-29T00:00:51.638896+00:00",
+      "title": "quoting ted sanders",
+      "url": "simonwillison.net/2026/Oct/28/ted-sanders"
     },
     "rss:https://simonwillison.net/2026/Oct/28/terk-terkowitz/": {
       "at": "2026-10-28T11:21:06.467594+00:00",
@@ -8275,6 +8305,26 @@
       "at": "2026-10-28T19:35:25.771266+00:00",
       "title": "anthropic just launched tools to show companies what their ai spending is buying",
       "url": "techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying"
+    },
+    "rss:https://techcrunch.com/?p=3182838": {
+      "at": "2026-10-29T00:00:51.638925+00:00",
+      "title": "microsoft hits 10 quarters of record breaking revenue in a row",
+      "url": "techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row"
+    },
+    "rss:https://techcrunch.com/?p=3182841": {
+      "at": "2026-10-29T00:00:51.638785+00:00",
+      "title": "microsoft just shared azure s actual revenue in dollars 33 2 billion",
+      "url": "techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion"
+    },
+    "rss:https://techcrunch.com/?p=3182880": {
+      "at": "2026-10-29T00:00:51.638841+00:00",
+      "title": "microsoft recorded 10 billion in revenue from openai",
+      "url": "techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai"
+    },
+    "rss:https://techcrunch.com/?p=3182884": {
+      "at": "2026-10-29T00:00:51.638830+00:00",
+      "title": "google expands ai search ads globally as core ad growth slows",
+      "url": "techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -15760,10 +15810,20 @@
       "title": "dirt cheap gpus coming next year",
       "url": "reddit.com/r/LocalLLaMA/comments/1xhep6w/dirt_cheap_gpus_coming_next_year"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhinyj": {
+      "at": "2026-10-29T00:00:51.638884+00:00",
+      "title": "diffuspace clover 35b a3b preview hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhinyj/diffuspaceclover35ba3bpreview_hugging_face"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhjn9d": {
       "at": "2026-10-28T11:21:06.467644+00:00",
       "title": "gemma 5 models soon",
       "url": "reddit.com/r/LocalLLaMA/comments/1xhjn9d/gemma_5_models_soon"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhk7hp": {
+      "at": "2026-10-29T00:00:51.638932+00:00",
+      "title": "aa is getting ridiculous now zero open weights in the most attractive quadrant",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhk7hp/aa_is_getting_ridiculous_now_zero_open_weights_in"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhmo1q": {
       "at": "2026-10-28T19:35:25.771254+00:00",
@@ -15799,6 +15859,11 @@
       "at": "2026-10-28T19:35:25.771330+00:00",
       "title": "a small step for man a giant step for local ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1xhubiw/a_small_step_for_man_a_giant_step_for_local_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xhw2l0": {
+      "at": "2026-10-29T00:00:51.638903+00:00",
+      "title": "a 4b model made me a netherite ingot from bare hands all i did was type one sentence in chat",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xhw2l0/a_4b_model_made_me_a_netherite_ingot_from_bare"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16305,6 +16370,11 @@
       "title": "will the real anthropic please stand up",
       "url": "technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
     },
+    "rss:https://www.technologyreview.com/?p=1147709": {
+      "at": "2026-10-29T00:00:51.638851+00:00",
+      "title": "creating ai value with enterprise context",
+      "url": "technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -16344,8 +16414,13 @@
       "at": "2026-10-28T11:21:06.467502+00:00",
       "title": "ainews anthropic ends coding interviews hunger beats tenure",
       "url": "latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure"
+    },
+    "rss:urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289": {
+      "at": "2026-10-29T00:00:51.638859+00:00",
+      "title": "why agents love supabase",
+      "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-28T19:35:25.771428+00:00",
+  "updated_at": "2026-10-29T00:00:51.638970+00:00",
   "version": 2
 }
