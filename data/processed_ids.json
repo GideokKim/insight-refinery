@@ -415,6 +415,11 @@
       "title": "the 7 year old nvidia shield tv is now 100 more expensive due to ai",
       "url": "arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai"
     },
+    "rss:https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/": {
+      "at": "2026-10-29T23:57:38.036799+00:00",
+      "title": "trump declares robot imports a national security threat",
+      "url": "arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat"
+    },
     "rss:https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/": {
       "at": "2026-10-20T18:32:12.065089+00:00",
       "title": "ukraine s drone rescue of wounded soldier puts much touted idea into practice",
@@ -3201,6 +3206,16 @@
       "title": "dayjob tax evaluating ai agents on 50 professional tax assignments",
       "url": "surgehq.ai/blog/dayjob-tax"
     },
+    "rss:https://news.ycombinator.com/item?id=50289692": {
+      "at": "2026-10-29T23:57:38.037005+00:00",
+      "title": "manifestos fear and loser thinking inside proton s ai reckoning",
+      "url": "404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning"
+    },
+    "rss:https://news.ycombinator.com/item?id=50290283": {
+      "at": "2026-10-29T23:57:38.036983+00:00",
+      "title": "zombie stats where the numbers ai quotes come from",
+      "url": "trakkr.ai/trakkr-research/zombie-stats"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3874,6 +3889,11 @@
       "title": "ringg s ai agents resolve up to 65 of customer calls with openai",
       "url": "openai.com/index/ringg"
     },
+    "rss:https://openai.com/index/ropes-gray-ai-diligence": {
+      "at": "2026-10-29T23:57:38.036989+00:00",
+      "title": "how ropes gray is developing ai for transactional diligence",
+      "url": "openai.com/index/ropes-gray-ai-diligence"
+    },
     "rss:https://openai.com/index/safety-overview-gpt-6-astra": {
       "at": "2026-09-03T21:59:42.659460+00:00",
       "title": "safety overview gpt 6 astra",
@@ -4036,6 +4056,11 @@
       "at": "2026-09-16T18:14:09.223524+00:00",
       "title": "how workers are unlocking new ways of working",
       "url": "openai.com/index/unlocking-new-ways-of-working"
+    },
+    "rss:https://openai.com/index/updated-model-spec": {
+      "at": "2026-10-29T23:57:38.036885+00:00",
+      "title": "an updated model spec for more capable and beneficial ai",
+      "url": "openai.com/index/updated-model-spec"
     },
     "rss:https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
       "at": "2026-09-10T17:44:00.126743+00:00",
@@ -4607,10 +4632,20 @@
       "title": "the october inflection point for vibe game development",
       "url": "simonwillison.net/2026/Oct/28/vibe-game-development"
     },
+    "rss:https://simonwillison.net/2026/Oct/29/api-credits/": {
+      "at": "2026-10-29T23:57:38.036937+00:00",
+      "title": "api credits benefit for eligible chatgpt subscriptions",
+      "url": "simonwillison.net/2026/Oct/29/api-credits"
+    },
     "rss:https://simonwillison.net/2026/Oct/29/ben-hylak/": {
       "at": "2026-10-29T17:31:19.131741+00:00",
       "title": "quoting ben hylak",
       "url": "simonwillison.net/2026/Oct/29/ben-hylak"
+    },
+    "rss:https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/": {
+      "at": "2026-10-29T23:57:38.036876+00:00",
+      "title": "building a multiplayer game world with autonomous fable class models",
+      "url": "simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world"
     },
     "rss:https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/": {
       "at": "2026-10-04T02:39:49.811658+00:00",
@@ -8351,6 +8386,11 @@
       "title": "deepgram acquires pipecat maker daily to bolster its voice ai infrastructure",
       "url": "techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure"
     },
+    "rss:https://techcrunch.com/?p=3182668": {
+      "at": "2026-10-29T23:57:38.036892+00:00",
+      "title": "mistral releases weights for its trillion parameter ai model targeting cybersecurity",
+      "url": "techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity"
+    },
     "rss:https://techcrunch.com/?p=3182838": {
       "at": "2026-10-29T00:00:51.638925+00:00",
       "title": "microsoft hits 10 quarters of record breaking revenue in a row",
@@ -8390,6 +8430,36 @@
       "at": "2026-10-29T17:31:19.131595+00:00",
       "title": "ex palantir execs launch dream with 17m from a16z to build ai world models for construction",
       "url": "techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction"
+    },
+    "rss:https://techcrunch.com/?p=3183122": {
+      "at": "2026-10-29T23:57:38.036977+00:00",
+      "title": "meta quietly launches an ai fashion app called style sketch",
+      "url": "techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch"
+    },
+    "rss:https://techcrunch.com/?p=3183181": {
+      "at": "2026-10-29T23:57:38.037000+00:00",
+      "title": "granola crunches up a dictation feature to compete with wispr",
+      "url": "techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr"
+    },
+    "rss:https://techcrunch.com/?p=3183214": {
+      "at": "2026-10-29T23:57:38.036965+00:00",
+      "title": "openai backed thrive holdings acquires adt",
+      "url": "techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt"
+    },
+    "rss:https://techcrunch.com/?p=3183224": {
+      "at": "2026-10-29T23:57:38.036951+00:00",
+      "title": "as search traffic dries up reddit announces it s shifting to a logged in experience",
+      "url": "techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience"
+    },
+    "rss:https://techcrunch.com/?p=3183253": {
+      "at": "2026-10-29T23:57:38.036959+00:00",
+      "title": "rivian expands joint venture with vw to include ai assistant",
+      "url": "techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant"
+    },
+    "rss:https://techcrunch.com/?p=3183387": {
+      "at": "2026-10-29T23:57:38.036911+00:00",
+      "title": "aws will be a 1t business jassy says but first it will spend big",
+      "url": "techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -8980,6 +9050,11 @@
       "at": "2026-10-22T18:36:58.486232+00:00",
       "title": "flint interactive a language for creating interactive data visualizations",
       "url": "microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1191933": {
+      "at": "2026-10-29T23:57:38.036971+00:00",
+      "title": "microsoft research focus edition 97",
+      "url": "microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -16000,6 +16075,36 @@
       "title": "i think local ai cost me a job",
       "url": "reddit.com/r/LocalLLaMA/comments/1xils4t/i_think_local_ai_cost_me_a_job"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xiplj7": {
+      "at": "2026-10-29T23:57:38.036900+00:00",
+      "title": "kokoro can now clone any voice with just 600 mb of extra vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xiplj7/kokoro_can_now_clone_any_voice_with_just_600_mb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xiqw9i": {
+      "at": "2026-10-29T23:57:38.036859+00:00",
+      "title": "why you can t trust cloud api endpoints 40 days of coding agent telemetry showing the exact day providers silently overwrote deepseek v4 1 flash with 1017 faster execution shorter answers 3x more swearing and 6 7x more model switches",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xisqge": {
+      "at": "2026-10-29T23:57:38.036843+00:00",
+      "title": "ukisai swift glm5 3 gsq rco swift ornith 9b 57 7 token usage with 1 accuracy loss on max reasoning",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xisqge/ukisai_swift_glm53_gsqrco_swift_ornith_9b_577"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xix35p": {
+      "at": "2026-10-29T23:57:38.036944+00:00",
+      "title": "release swift 1 5 flash next heretic v2 reverseengineer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xix35p/release_swift_15_flash_next_heretic_v2"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xix61q": {
+      "at": "2026-10-29T23:57:38.036994+00:00",
+      "title": "arguably unethical behavior from cohere",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xix61q/arguably_unethical_behavior_from_cohere"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xizbq1": {
+      "at": "2026-10-29T23:57:38.036922+00:00",
+      "title": "sam altman local inference is a terrible allocation of scarce resources",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -16571,6 +16676,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-29T17:31:19.131785+00:00",
+  "updated_at": "2026-10-29T23:57:38.037030+00:00",
   "version": 2
 }
