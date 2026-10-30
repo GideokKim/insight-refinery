@@ -3216,6 +3216,11 @@
       "title": "zombie stats where the numbers ai quotes come from",
       "url": "trakkr.ai/trakkr-research/zombie-stats"
     },
+    "rss:https://news.ycombinator.com/item?id=50296486": {
+      "at": "2026-10-30T08:39:31.555891+00:00",
+      "title": "we ran ai agent swarms in minecraft and mindustry",
+      "url": "labs.ycombinator.com/projects/games/index.html"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -8420,6 +8425,11 @@
       "at": "2026-10-29T17:31:19.131609+00:00",
       "title": "wabi the ai agent that builds mini apps now valued at 1 25b after latest round",
       "url": "techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round"
+    },
+    "rss:https://techcrunch.com/?p=3183095": {
+      "at": "2026-10-30T08:39:31.555900+00:00",
+      "title": "you don t need to believe in a god to get a religious exemption from using ai at work",
+      "url": "techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work"
     },
     "rss:https://techcrunch.com/?p=3183099": {
       "at": "2026-10-29T17:31:19.131582+00:00",
@@ -16085,6 +16095,11 @@
       "title": "why you can t trust cloud api endpoints 40 days of coding agent telemetry showing the exact day providers silently overwrote deepseek v4 1 flash with 1017 faster execution shorter answers 3x more swearing and 6 7x more model switches",
       "url": "reddit.com/r/LocalLLaMA/comments/1xiqw9i/why_you_cant_trust_cloud_api_endpoints_40_days_of"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xis2qz": {
+      "at": "2026-10-30T08:39:31.555914+00:00",
+      "title": "free web search for my local agent stopped working what are you paying per 1 000 queries now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xis2qz/free_web_search_for_my_local_agent_stopped"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xisqge": {
       "at": "2026-10-29T23:57:38.036843+00:00",
       "title": "ukisai swift glm5 3 gsq rco swift ornith 9b 57 7 token usage with 1 accuracy loss on max reasoning",
@@ -16104,6 +16119,11 @@
       "at": "2026-10-29T23:57:38.036922+00:00",
       "title": "sam altman local inference is a terrible allocation of scarce resources",
       "url": "reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xj2pnp": {
+      "at": "2026-10-30T08:39:31.555881+00:00",
+      "title": "reddit will force everyone to log in",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16645,6 +16665,11 @@
       "title": "ai is getting good at math here s why",
       "url": "latent.space/p/ai-is-getting-good-at-math"
     },
+    "rss:urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8": {
+      "at": "2026-10-30T08:39:31.555848+00:00",
+      "title": "ainews building aie code the top coding agent conference",
+      "url": "latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference"
+    },
     "rss:urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0": {
       "at": "2026-10-28T02:16:22.306419+00:00",
       "title": "coding from the himalayas with an offline ai agent",
@@ -16676,6 +16701,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-29T23:57:38.037030+00:00",
+  "updated_at": "2026-10-30T08:39:31.555945+00:00",
   "version": 2
 }
