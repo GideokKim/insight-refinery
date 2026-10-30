@@ -260,6 +260,11 @@
       "title": "ice plan to buy robot dogs spurs protest from hundreds of boston dynamics employees",
       "url": "arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice"
     },
+    "rss:https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/": {
+      "at": "2026-10-30T21:30:45.732100+00:00",
+      "title": "basically no one is using ai agents for their doordash orders",
+      "url": "arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far"
+    },
     "rss:https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/": {
       "at": "2026-10-13T20:18:11.652180+00:00",
       "title": "gemini 4 argon begins rolling out in gemini app and antigravity but only if you pay",
@@ -394,6 +399,11 @@
       "at": "2026-09-23T22:59:06.946403+00:00",
       "title": "youtube promises custom feeds and a lot more ai later this year",
       "url": "arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year"
+    },
+    "rss:https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/": {
+      "at": "2026-10-30T21:30:45.732119+00:00",
+      "title": "fujifilm to boost tape production 5x as ai fuels archiving demand",
+      "url": "arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand"
     },
     "rss:https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/": {
       "at": "2026-10-29T17:31:19.131406+00:00",
@@ -605,6 +615,11 @@
       "title": "openai agents discussed ways to escape their sandbox on public wiki",
       "url": "arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki"
     },
+    "rss:https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": {
+      "at": "2026-10-30T21:30:45.732037+00:00",
+      "title": "anthropic vs code extension on cursor backdoored for nearly 12 hours",
+      "url": "arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours"
+    },
     "rss:https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
       "at": "2026-10-14T13:44:30.949120+00:00",
       "title": "anthropic warns small ai models could self replicate through iot devices",
@@ -784,6 +799,11 @@
       "at": "2026-10-12T22:10:11.221735+00:00",
       "title": "anthropic s claude ai submitted false murder tip to philadelphia police",
       "url": "arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/": {
+      "at": "2026-10-30T21:30:45.732077+00:00",
+      "title": "dartmouth s provost warned us about ai cheating but his own ai use cost him his job",
+      "url": "arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job"
     },
     "rss:https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/": {
       "at": "2026-10-19T15:37:44.478437+00:00",
@@ -1515,6 +1535,11 @@
       "title": "build specialized agents on a stack you control with nvidia nemoclaw",
       "url": "developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124453": {
+      "at": "2026-10-30T21:30:45.732089+00:00",
+      "title": "run ai models for edge application development with just a few commands",
+      "url": "developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -1872,6 +1897,11 @@
       "at": "2026-09-23T13:44:54.793757+00:00",
       "title": "know who spoke when build real time multi speaker ai with nvidia nemotron 3 diarization",
       "url": "huggingface.co/blog/nvidia/nemotron-diarization"
+    },
+    "rss:https://huggingface.co/blog/nvidia/nemotron-halloween": {
+      "at": "2026-10-30T21:30:45.732149+00:00",
+      "title": "nemotron halloween",
+      "url": "huggingface.co/blog/nvidia/nemotron-halloween"
     },
     "rss:https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026": {
       "at": "2026-10-07T20:01:13.684737+00:00",
@@ -3256,6 +3286,16 @@
       "title": "ai isn t replacing sres it s deskilling them",
       "url": "newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
     },
+    "rss:https://news.ycombinator.com/item?id=50306008": {
+      "at": "2026-10-30T21:30:45.732143+00:00",
+      "title": "us tech stocks see sharp falls over ai cost fears",
+      "url": "bbc.co.uk/news/articles/cvwy72e0n72yo"
+    },
+    "rss:https://news.ycombinator.com/item?id=50307183": {
+      "at": "2026-10-30T21:30:45.732164+00:00",
+      "title": "proton s ceo cancels ai re interviews",
+      "url": "404media.co/protons-ceo-cancels-ai-re-interviews"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3598,6 +3638,11 @@
       "at": "2026-09-30T16:51:17.984940+00:00",
       "title": "helping small businesses put ai to work",
       "url": "openai.com/index/helping-small-businesses-put-ai-to-work"
+    },
+    "rss:https://openai.com/index/helping-websites-express-ai-training-preferences": {
+      "at": "2026-10-30T21:30:45.732069+00:00",
+      "title": "making it easier for websites to express ai training preferences",
+      "url": "openai.com/index/helping-websites-express-ai-training-preferences"
     },
     "rss:https://openai.com/index/hex-gpt-6-astra": {
       "at": "2026-09-18T22:36:03.238559+00:00",
@@ -8471,6 +8516,11 @@
       "title": "wabi the ai agent that builds mini apps now valued at 1 25b after latest round",
       "url": "techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round"
     },
+    "rss:https://techcrunch.com/?p=3183083": {
+      "at": "2026-10-30T21:30:45.732109+00:00",
+      "title": "zest s new ai agent finds restaurants and books reservations over text",
+      "url": "techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text"
+    },
     "rss:https://techcrunch.com/?p=3183095": {
       "at": "2026-10-30T08:39:31.555900+00:00",
       "title": "you don t need to believe in a god to get a religious exemption from using ai at work",
@@ -8536,10 +8586,25 @@
       "title": "doordash said it s only received several hundred orders from ai agents",
       "url": "techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents"
     },
+    "rss:https://techcrunch.com/?p=3183584": {
+      "at": "2026-10-30T21:30:45.732125+00:00",
+      "title": "google s first data center satellite is online and writing poetry",
+      "url": "techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry"
+    },
     "rss:https://techcrunch.com/?p=3183613": {
       "at": "2026-10-30T17:03:26.348182+00:00",
       "title": "theranos whistleblower tyler shultz warns that the ai boom is a great opportunity to go deceive people",
       "url": "techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people"
+    },
+    "rss:https://techcrunch.com/?p=3183738": {
+      "at": "2026-10-30T21:30:45.732171+00:00",
+      "title": "last minute halloween costumes for tech nerds",
+      "url": "techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds"
+    },
+    "rss:https://techcrunch.com/?p=3183832": {
+      "at": "2026-10-30T21:30:45.732009+00:00",
+      "title": "cracks are emerging in the ai spending boom",
+      "url": "techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -16225,6 +16290,11 @@
       "title": "gemma 4 31b humanlike chat 2 0 s improved human voice on official gemma 4 31b",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xje5oo": {
+      "at": "2026-10-30T21:30:45.732058+00:00",
+      "title": "sensenova sensenova loop 9b preview hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xje5oo/sensenovasensenovaloop9bpreview_hugging_face"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjfuqh": {
       "at": "2026-10-30T17:03:26.348151+00:00",
       "title": "introducing deepseek v4 1 flash 1017 dynamic v3 1 unsloth ggufs",
@@ -16244,6 +16314,26 @@
       "at": "2026-10-30T17:03:26.348207+00:00",
       "title": "qwen4",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjhwc3/qwen4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjigxg": {
+      "at": "2026-10-30T21:30:45.732177+00:00",
+      "title": "copium prediction google and other major labs will drop new local models over the next few days so they can lead on benchmarks until qwen 4 sweeps them next week",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjkjla": {
+      "at": "2026-10-30T21:30:45.732135+00:00",
+      "title": "ista deepseek v4 1 flash 1017 gsq rco quants comparison",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjkjla/ista_deepseekv41flash1017_gsqrco_quants_comparison"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjlgm4": {
+      "at": "2026-10-30T21:30:45.732047+00:00",
+      "title": "psa upgrade flash next to dflash2 if you haven t 17 on average",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjlgm4/psa_upgrade_flash_next_to_dflash2_if_you_havent"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjltn3": {
+      "at": "2026-10-30T21:30:45.732156+00:00",
+      "title": "do you have any opinions that generally go against r localllama s hivemind",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjltn3/do_you_have_any_opinions_that_generally_go"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16821,6 +16911,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-30T17:03:26.348382+00:00",
+  "updated_at": "2026-10-30T21:30:45.732207+00:00",
   "version": 2
 }
