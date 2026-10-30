@@ -795,6 +795,11 @@
       "title": "disney offers 20m for character ai s scandal plagued chatbot tech",
       "url": "arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/": {
+      "at": "2026-10-30T17:03:26.348168+00:00",
+      "title": "doj exposes ghost students using ai to complete courses steal student loans",
+      "url": "arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/": {
       "at": "2026-10-14T18:40:13.644828+00:00",
       "title": "recording device hidden in toilet paper found in top secret openai meeting room",
@@ -1499,6 +1504,16 @@
       "at": "2026-10-29T17:31:19.131468+00:00",
       "title": "unlocking tensor core performance for machine learning interatomic potentials",
       "url": "developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124327": {
+      "at": "2026-10-30T17:03:26.348143+00:00",
+      "title": "how to check and configure nvidia gpudirect storage for your platform",
+      "url": "developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124341": {
+      "at": "2026-10-30T17:03:26.348133+00:00",
+      "title": "build specialized agents on a stack you control with nvidia nemoclaw",
+      "url": "developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -3161,6 +3176,11 @@
       "title": "concerning behavior from a popular open weight ai model",
       "url": "cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
     },
+    "rss:https://news.ycombinator.com/item?id=50251062": {
+      "at": "2026-10-30T17:03:26.348290+00:00",
+      "title": "proton to re interview staff about ai to see who gets to keep their job",
+      "url": "404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job"
+    },
     "rss:https://news.ycombinator.com/item?id=50252159": {
       "at": "2026-10-27T07:51:59.875356+00:00",
       "title": "cross request kv cache exposure in the glm 5 3 workers ai model 155 responses",
@@ -3220,6 +3240,21 @@
       "at": "2026-10-30T08:39:31.555891+00:00",
       "title": "we ran ai agent swarms in minecraft and mindustry",
       "url": "labs.ycombinator.com/projects/games/index.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=50296602": {
+      "at": "2026-10-30T17:03:26.348330+00:00",
+      "title": "proton goes all in on using ai",
+      "url": "convo.casa/@b/117525936178835007"
+    },
+    "rss:https://news.ycombinator.com/item?id=50301479": {
+      "at": "2026-10-30T17:03:26.348316+00:00",
+      "title": "ask hn are you tired too in this ai era",
+      "url": "news.ycombinator.com/item?id=50301479"
+    },
+    "rss:https://news.ycombinator.com/item?id=50305693": {
+      "at": "2026-10-30T17:03:26.348197+00:00",
+      "title": "ai isn t replacing sres it s deskilling them",
+      "url": "newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -3409,6 +3444,11 @@
       "title": "cognition helps devin test its own work with gpt 6 astra",
       "url": "openai.com/index/cognition-devin-testing-with-astra"
     },
+    "rss:https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+      "at": "2026-10-30T17:03:26.348248+00:00",
+      "title": "community safety report and new protections for teens",
+      "url": "openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
     "rss:https://openai.com/index/cooley-gopublic": {
       "at": "2026-09-18T01:17:38.909714+00:00",
       "title": "how cooley is accelerating ipo work with chatgpt",
@@ -3418,6 +3458,11 @@
       "at": "2026-10-21T18:41:55.078914+00:00",
       "title": "patch the planet global response coordination as agents uncover critical vulnerabilities",
       "url": "openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+    },
+    "rss:https://openai.com/index/credit-saison": {
+      "at": "2026-10-30T17:03:26.348281+00:00",
+      "title": "credit saison achieves 954 roi in a chatgpt enterprise pilot",
+      "url": "openai.com/index/credit-saison"
     },
     "rss:https://openai.com/index/dali-rajic-chief-revenue-officer": {
       "at": "2026-08-19T14:23:12.191402+00:00",
@@ -8466,10 +8511,35 @@
       "title": "rivian expands joint venture with vw to include ai assistant",
       "url": "techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant"
     },
+    "rss:https://techcrunch.com/?p=3183295": {
+      "at": "2026-10-30T17:03:26.348228+00:00",
+      "title": "can ai data centers be mass produced like cars this startup aims to find out",
+      "url": "techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out"
+    },
     "rss:https://techcrunch.com/?p=3183387": {
       "at": "2026-10-29T23:57:38.036911+00:00",
       "title": "aws will be a 1t business jassy says but first it will spend big",
       "url": "techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big"
+    },
+    "rss:https://techcrunch.com/?p=3183510": {
+      "at": "2026-10-30T17:03:26.348345+00:00",
+      "title": "5 days left your last chance to connect scale and save at techcrunch founder summit 2026",
+      "url": "techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026"
+    },
+    "rss:https://techcrunch.com/?p=3183526": {
+      "at": "2026-10-30T17:03:26.348337+00:00",
+      "title": "skip the small talk make game changing connections at techcrunch founder summit with braindate",
+      "url": "techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate"
+    },
+    "rss:https://techcrunch.com/?p=3183579": {
+      "at": "2026-10-30T17:03:26.348307+00:00",
+      "title": "doordash said it s only received several hundred orders from ai agents",
+      "url": "techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3183613": {
+      "at": "2026-10-30T17:03:26.348182+00:00",
+      "title": "theranos whistleblower tyler shultz warns that the ai boom is a great opportunity to go deceive people",
+      "url": "techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -9060,6 +9130,11 @@
       "at": "2026-10-22T18:36:58.486232+00:00",
       "title": "flint interactive a language for creating interactive data visualizations",
       "url": "microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1191770": {
+      "at": "2026-10-30T17:03:26.348161+00:00",
+      "title": "from synthetic enterprise data evaluations to real microsoft copilot ai confidence",
+      "url": "microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
     },
     "rss:https://www.microsoft.com/en-us/research/?p=1191933": {
       "at": "2026-10-29T23:57:38.036971+00:00",
@@ -16125,6 +16200,51 @@
       "title": "reddit will force everyone to log in",
       "url": "reddit.com/r/LocalLLaMA/comments/1xj2pnp/reddit_will_force_everyone_to_log_in"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xj4qi0": {
+      "at": "2026-10-30T17:03:26.348354+00:00",
+      "title": "guys i think i found our gpus",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xj4qi0/guys_i_think_i_found_our_gpus"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xj7g31": {
+      "at": "2026-10-30T17:03:26.348272+00:00",
+      "title": "complete dell workstation with 96gb nvidia gpu may cost less than graphics card alone",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xj7g31/complete_dell_workstation_with_96gb_nvidia_gpu"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xj9xjh": {
+      "at": "2026-10-30T17:03:26.348265+00:00",
+      "title": "the rtx 5080 has been removed from nvidia s official marketplace",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xj9xjh/the_rtx_5080_has_been_removed_from_nvidias"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjclj9": {
+      "at": "2026-10-30T17:03:26.348099+00:00",
+      "title": "official claude code vs code extension compromised to install persistent ssh backdoor",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjclj9/official_claude_code_vs_code_extension"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjdjy0": {
+      "at": "2026-10-30T17:03:26.348237+00:00",
+      "title": "gemma 4 31b humanlike chat 2 0 s improved human voice on official gemma 4 31b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjdjy0/gemma431bhumanlikechat_20s_improved_human_voice"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjfuqh": {
+      "at": "2026-10-30T17:03:26.348151+00:00",
+      "title": "introducing deepseek v4 1 flash 1017 dynamic v3 1 unsloth ggufs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjgfuv": {
+      "at": "2026-10-30T17:03:26.348298+00:00",
+      "title": "another reason to own your own compute your account may get banned in a sneaky update",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjhpn9": {
+      "at": "2026-10-30T17:03:26.348216+00:00",
+      "title": "we re moss the team behind moss image moss tts and more ask us anything",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjhwc3": {
+      "at": "2026-10-30T17:03:26.348207+00:00",
+      "title": "qwen4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjhwc3/qwen4"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -16701,6 +16821,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-30T08:39:31.555945+00:00",
+  "updated_at": "2026-10-30T17:03:26.348382+00:00",
   "version": 2
 }
