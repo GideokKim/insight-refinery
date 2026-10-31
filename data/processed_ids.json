@@ -440,6 +440,11 @@
       "title": "ukraine s drones knock out ai data center belonging to russia s google",
       "url": "arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google"
     },
+    "rss:https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/": {
+      "at": "2026-10-31T02:23:49.402352+00:00",
+      "title": "supersonic airliner in doubt as company shifts to powering ai data centers",
+      "url": "arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029"
+    },
     "rss:https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/": {
       "at": "2026-10-23T23:09:50.024598+00:00",
       "title": "updated google privacy policy says your gmail might be used for advertising",
@@ -1534,6 +1539,11 @@
       "at": "2026-10-30T17:03:26.348133+00:00",
       "title": "build specialized agents on a stack you control with nvidia nemoclaw",
       "url": "developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124424": {
+      "at": "2026-10-31T02:23:49.402250+00:00",
+      "title": "build a validated kubernetes runtime for nvidia dynamo",
+      "url": "developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo"
     },
     "rss:https://developer.nvidia.com/blog/?p=124453": {
       "at": "2026-10-30T21:30:45.732089+00:00",
@@ -3276,10 +3286,20 @@
       "title": "proton goes all in on using ai",
       "url": "convo.casa/@b/117525936178835007"
     },
+    "rss:https://news.ycombinator.com/item?id=50296730": {
+      "at": "2026-10-31T02:23:49.402400+00:00",
+      "title": "building an ai native engineering org",
+      "url": "twitter.com/sgondala2/status/2115832070274723875"
+    },
     "rss:https://news.ycombinator.com/item?id=50301479": {
       "at": "2026-10-30T17:03:26.348316+00:00",
       "title": "ask hn are you tired too in this ai era",
       "url": "news.ycombinator.com/item?id=50301479"
+    },
+    "rss:https://news.ycombinator.com/item?id=50304122": {
+      "at": "2026-10-31T02:23:49.402364+00:00",
+      "title": "cisco gives engineer unlimited ai tokens to rewrite legacy code",
+      "url": "fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs"
     },
     "rss:https://news.ycombinator.com/item?id=50305693": {
       "at": "2026-10-30T17:03:26.348197+00:00",
@@ -3568,6 +3588,11 @@
       "at": "2026-08-27T12:49:39.361064+00:00",
       "title": "expanding openai s presence in brazil",
       "url": "openai.com/index/expanding-our-presence-in-brazil"
+    },
+    "rss:https://openai.com/index/fair-use-benefits-everyone": {
+      "at": "2026-10-31T02:23:49.402393+00:00",
+      "title": "fair use benefits everyone",
+      "url": "openai.com/index/fair-use-benefits-everyone"
     },
     "rss:https://openai.com/index/fanatics-streamline-fan-experience": {
       "at": "2026-10-26T15:15:20.145676+00:00",
@@ -4751,6 +4776,11 @@
       "at": "2026-10-03T23:04:30.796959+00:00",
       "title": "september sponsors only newsletter",
       "url": "simonwillison.net/2026/Oct/3/newsletter"
+    },
+    "rss:https://simonwillison.net/2026/Oct/30/nesformer/": {
+      "at": "2026-10-31T02:23:49.402322+00:00",
+      "title": "dbreunig nesformer",
+      "url": "simonwillison.net/2026/Oct/30/nesformer"
     },
     "rss:https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": {
       "at": "2026-10-06T01:19:01.155285+00:00",
@@ -8596,6 +8626,11 @@
       "title": "theranos whistleblower tyler shultz warns that the ai boom is a great opportunity to go deceive people",
       "url": "techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people"
     },
+    "rss:https://techcrunch.com/?p=3183715": {
+      "at": "2026-10-31T02:23:49.402341+00:00",
+      "title": "anthropic expected to receive high junk rating from credit agencies following ipo ft report says",
+      "url": "techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says"
+    },
     "rss:https://techcrunch.com/?p=3183738": {
       "at": "2026-10-30T21:30:45.732171+00:00",
       "title": "last minute halloween costumes for tech nerds",
@@ -8605,6 +8640,21 @@
       "at": "2026-10-30T21:30:45.732009+00:00",
       "title": "cracks are emerging in the ai spending boom",
       "url": "techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom"
+    },
+    "rss:https://techcrunch.com/?p=3183846": {
+      "at": "2026-10-31T02:23:49.402374+00:00",
+      "title": "ollie a privacy focused ai assistant is shutting down",
+      "url": "techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down"
+    },
+    "rss:https://techcrunch.com/?p=3183862": {
+      "at": "2026-10-31T02:23:49.402330+00:00",
+      "title": "intel s stock crashes knocking 12b from government s stake",
+      "url": "techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake"
+    },
+    "rss:https://techcrunch.com/?p=3183989": {
+      "at": "2026-10-31T02:23:49.402305+00:00",
+      "title": "nvidia weighs playing the cosigner for nscale s ai data center in west virginia",
+      "url": "techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -16335,6 +16385,31 @@
       "title": "do you have any opinions that generally go against r localllama s hivemind",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjltn3/do_you_have_any_opinions_that_generally_go"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjn911": {
+      "at": "2026-10-31T02:23:49.402422+00:00",
+      "title": "so uh where are we on uncensored nsfw audio models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjn911/so_uhwhere_are_we_on_uncensored_nsfw_audio_models"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjpbcg": {
+      "at": "2026-10-31T02:23:49.402294+00:00",
+      "title": "vllm now has ple disk offload support on nightly",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjpfvi": {
+      "at": "2026-10-31T02:23:49.402415+00:00",
+      "title": "qwen27b vs gpt 6",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjrery": {
+      "at": "2026-10-31T02:23:49.402384+00:00",
+      "title": "amd reportedly plans another radeon gpu price increase in november",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjwtrv": {
+      "at": "2026-10-31T02:23:49.402407+00:00",
+      "title": "fable 5 gguf when",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -16911,6 +16986,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-30T21:30:45.732207+00:00",
+  "updated_at": "2026-10-31T02:23:49.402452+00:00",
   "version": 2
 }
