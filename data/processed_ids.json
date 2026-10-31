@@ -16330,6 +16330,11 @@
       "title": "the rtx 5080 has been removed from nvidia s official marketplace",
       "url": "reddit.com/r/LocalLLaMA/comments/1xj9xjh/the_rtx_5080_has_been_removed_from_nvidias"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjc8q3": {
+      "at": "2026-10-31T10:55:46.794204+00:00",
+      "title": "paper multi token prediction done right soft mtp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjc8q3/paper_multitoken_prediction_done_right_softmtp"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjclj9": {
       "at": "2026-10-30T17:03:26.348099+00:00",
       "title": "official claude code vs code extension compromised to install persistent ssh backdoor",
@@ -16409,6 +16414,11 @@
       "at": "2026-10-31T02:23:49.402407+00:00",
       "title": "fable 5 gguf when",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xk17m0": {
+      "at": "2026-10-31T10:55:46.794188+00:00",
+      "title": "first memory storage and now pcbsss ai boom triggers massive pcb shortage with orders booked until 2030 posing big challenges for consumer hardware vendors",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16980,12 +16990,17 @@
       "title": "ainews anthropic ends coding interviews hunger beats tenure",
       "url": "latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure"
     },
+    "rss:urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f": {
+      "at": "2026-10-31T10:55:46.794142+00:00",
+      "title": "ainews google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
+      "url": "latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c"
+    },
     "rss:urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289": {
       "at": "2026-10-29T00:00:51.638859+00:00",
       "title": "why agents love supabase",
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-31T02:23:49.402452+00:00",
+  "updated_at": "2026-10-31T10:55:46.794255+00:00",
   "version": 2
 }

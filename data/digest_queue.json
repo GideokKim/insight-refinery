@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-10-31T02:23:47.565656+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_da09d759-cdcb-4e0e-8da3-a546632e0a0f",
+        "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+        "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "author": "swyx .ai",
+        "published_at": "2026-10-31T05:00:48+00:00"
+      },
+      "insight": {
+        "title_ko": "구글 AI 모드와 최신 AI 모델 동향",
+        "summary_ko": [
+          "구글은 AI 모드의 낮은 수익화로 인해 검색 매출에 타격을 입었다고 인정하며 주가 하락을 기록했다.",
+          "앤스로픽은 Claude의 Max 구독 티어를 개편하고 월 200달러 Ultra 요금제에서 5시간 이용 제한을 폐지했다.",
+          "구글 딥마인드의 Gemini 4 Carbon과 Mistral Large 4 등 새로운 프론티어 모델들이 공개되었다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xk17m0",
+        "title": "First memory, storage, and now PCBsss: AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom/",
+        "author": "/u/chemist_slime",
+        "published_at": "2026-10-31T04:45:10+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 붐으로 인한 PCB 공급 부족 심화",
+        "summary_ko": [
+          "AI 산업의 급격한 성장에 따라 대규모 PCB 부족 현상이 발생하고 있습니다.",
+          "현재 관련 주문이 2030년까지 마감되어 공급망에 큰 차질이 빚어지고 있습니다.",
+          "이로 인해 일반 소비자가전 하드웨어 제조사들이 심각한 어려움을 겪고 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xjc8q3",
+        "title": "[Paper] Multi-Token Prediction Done Right - Soft-MTP",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjc8q3/paper_multitoken_prediction_done_right_softmtp/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-10-30T10:59:11+00:00"
+      },
+      "insight": {
+        "title_ko": "Soft-MTP: 효율적인 멀티 토큰 예측 기법",
+        "summary_ko": [
+          "기존 MTP 학습 과정에서 발생하는 노이즈가 많은 잔차 그래디언트 문제를 분석하고 이를 해결하는 Soft-MTP를 제안합니다.",
+          "KL 그래디언트 복구 트릭을 적용하여 어휘 크기의 로짓 행렬 없이 KL 자기 증류 신호만을 역전파할 수 있습니다.",
+          "추가적인 파라미터나 연산 오버헤드 없이 NTP 퍼플렉서티를 낮추고 speculative decoding 성능을 향상시킵니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
