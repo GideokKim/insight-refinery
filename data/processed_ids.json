@@ -3276,6 +3276,11 @@
       "title": "zombie stats where the numbers ai quotes come from",
       "url": "trakkr.ai/trakkr-research/zombie-stats"
     },
+    "rss:https://news.ycombinator.com/item?id=50290652": {
+      "at": "2026-10-31T16:06:21.826117+00:00",
+      "title": "ai lean and the future of formal verification with lean creator leo de moura",
+      "url": "thedataexchange.media/leo-de-moura-lean-aws"
+    },
     "rss:https://news.ycombinator.com/item?id=50296486": {
       "at": "2026-10-30T08:39:31.555891+00:00",
       "title": "we ran ai agent swarms in minecraft and mindustry",
@@ -16375,6 +16380,11 @@
       "title": "copium prediction google and other major labs will drop new local models over the next few days so they can lead on benchmarks until qwen 4 sweeps them next week",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjigxg/copium_prediction_google_and_other_major_labs"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjkh59": {
+      "at": "2026-10-31T16:06:21.826104+00:00",
+      "title": "lfm3 omni 2b running locally in browser on webgpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjkh59/lfm3omni2b_running_locally_inbrowser_on_webgpu"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjkjla": {
       "at": "2026-10-30T21:30:45.732135+00:00",
       "title": "ista deepseek v4 1 flash 1017 gsq rco quants comparison",
@@ -16405,6 +16415,11 @@
       "title": "qwen27b vs gpt 6",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjrdji": {
+      "at": "2026-10-31T16:06:21.826094+00:00",
+      "title": "local ai made it to space",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjrdji/local_ai_made_it_to_space"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjrery": {
       "at": "2026-10-31T02:23:49.402384+00:00",
       "title": "amd reportedly plans another radeon gpu price increase in november",
@@ -16415,10 +16430,35 @@
       "title": "fable 5 gguf when",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjwtrv/fable_5gguf_when"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjx0ez": {
+      "at": "2026-10-31T16:06:21.826078+00:00",
+      "title": "qwen3 8 flash next on 2x rtx 5090 with 504 tok s decode qengine 1 3 1 decodes 1 5 1 9x faster than the next best engine i ve tried numbers caveats and what still bites",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjx0ez/qwen38flashnext_on_2x_rtx_5090_with_504_toks"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xk17m0": {
       "at": "2026-10-31T10:55:46.794188+00:00",
       "title": "first memory storage and now pcbsss ai boom triggers massive pcb shortage with orders booked until 2030 posing big challenges for consumer hardware vendors",
       "url": "reddit.com/r/LocalLLaMA/comments/1xk17m0/first_memory_storage_and_now_pcbsss_ai_boom"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xk1vyk": {
+      "at": "2026-10-31T16:06:21.826137+00:00",
+      "title": "koboldcpp v1 124 released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xk6blw": {
+      "at": "2026-10-31T16:06:21.826067+00:00",
+      "title": "microsoft mage vl cowork hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xk6blw/microsoftmagevlcowork_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xk8s6z": {
+      "at": "2026-10-31T16:06:21.826051+00:00",
+      "title": "betelgeuse running qwen 3 8 flash next at 22 tok s sustained spiking to 48 tok s on an rtx 3060 12gb 16gb ddr4 ram 100 bit exact",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkbl2h": {
+      "at": "2026-10-31T16:06:21.826128+00:00",
+      "title": "reddit will discontinue rss feed on 13th november",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -16940,6 +16980,11 @@
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
       "url": "latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands"
     },
+    "rss:urn:latent-space:post:pod_ep_01a18ea6-9508-712c-b5ff-54536059aced": {
+      "at": "2026-10-31T16:06:21.826033+00:00",
+      "title": "using agents for long horizon financial work aman singh arca",
+      "url": "latent.space/p/using_agents_for_long-horizon_financial_work_aman_singh_arca"
+    },
     "rss:urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e": {
       "at": "2026-10-27T07:51:59.875319+00:00",
       "title": "ainews anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
@@ -16969,6 +17014,11 @@
       "at": "2026-10-28T02:16:22.306419+00:00",
       "title": "coding from the himalayas with an offline ai agent",
       "url": "latent.space/p/offline-coding"
+    },
+    "rss:urn:latent-space:post:post_5b764e38-11dc-428b-b25b-2b9b740ebb8b": {
+      "at": "2026-10-31T16:06:21.825999+00:00",
+      "title": "agents prompt people using agents for long horizon financial work",
+      "url": "latent.space/p/arca"
     },
     "rss:urn:latent-space:post:post_5b8f3496-af90-414a-aed2-a87d44870a49": {
       "at": "2026-10-29T17:31:19.131426+00:00",
@@ -17001,6 +17051,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-31T10:55:46.794255+00:00",
+  "updated_at": "2026-10-31T16:06:21.826172+00:00",
   "version": 2
 }
