@@ -8661,6 +8661,11 @@
       "title": "nvidia weighs playing the cosigner for nscale s ai data center in west virginia",
       "url": "techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia"
     },
+    "rss:https://techcrunch.com/?p=3184004": {
+      "at": "2026-10-31T20:27:55.905493+00:00",
+      "title": "openai reportedly lowers funding target for new round",
+      "url": "techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -16415,6 +16420,11 @@
       "title": "qwen27b vs gpt 6",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjr3th": {
+      "at": "2026-10-31T20:27:55.905530+00:00",
+      "title": "benchmarks are an unreliable measure of difficulty",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjr3th/benchmarks_are_an_unreliable_measure_of_difficulty"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjrdji": {
       "at": "2026-10-31T16:06:21.826094+00:00",
       "title": "local ai made it to space",
@@ -16424,6 +16434,11 @@
       "at": "2026-10-31T02:23:49.402384+00:00",
       "title": "amd reportedly plans another radeon gpu price increase in november",
       "url": "reddit.com/r/LocalLLaMA/comments/1xjrery/amd_reportedly_plans_another_radeon_gpu_price"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjte7t": {
+      "at": "2026-10-31T20:27:55.905522+00:00",
+      "title": "made a really good qwen3 8 27b 16gb setup no strata streaming kv",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xjte7t/made_a_really_good_qwen38_27b_16gb_setup_no"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xjwtrv": {
       "at": "2026-10-31T02:23:49.402407+00:00",
@@ -16445,6 +16460,11 @@
       "title": "koboldcpp v1 124 released",
       "url": "reddit.com/r/LocalLLaMA/comments/1xk1vyk/koboldcpp_v1124_released"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xk20x5": {
+      "at": "2026-10-31T20:27:55.905511+00:00",
+      "title": "lawyer with too many gpus part 3 deepseek v4 1 flash on 2x dgx spark an old 3090 box 2 600 tok s prefill to 256k 322 tok s structured output full stack and raw data published",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xk20x5/lawyer_with_too_many_gpus_part_3_deepseekv41flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xk6blw": {
       "at": "2026-10-31T16:06:21.826067+00:00",
       "title": "microsoft mage vl cowork hugging face",
@@ -16455,10 +16475,30 @@
       "title": "betelgeuse running qwen 3 8 flash next at 22 tok s sustained spiking to 48 tok s on an rtx 3060 12gb 16gb ddr4 ram 100 bit exact",
       "url": "reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkau4g": {
+      "at": "2026-10-31T20:27:55.905538+00:00",
+      "title": "just finished my humble moe centric workstation",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkau4g/just_finished_my_humble_moecentric_workstation"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkbbqi": {
+      "at": "2026-10-31T20:27:55.905437+00:00",
+      "title": "is your engine lobotomizing your model kinda and i measured it",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkbl2h": {
       "at": "2026-10-31T16:06:21.826128+00:00",
       "title": "reddit will discontinue rss feed on 13th november",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkcyn6": {
+      "at": "2026-10-31T20:27:55.905503+00:00",
+      "title": "spent a lot on my rig but i can only run gemma 4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkh2ns": {
+      "at": "2026-10-31T20:27:55.905470+00:00",
+      "title": "betelgeuse running qwen 3 8 flash next iq4_xs at 24 tok s on 2x8gb ddr4 14 tok s on a single 16gb stick rtx 3060 12gb 0 dropped experts 100 byte exact",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17051,6 +17091,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-31T16:06:21.826172+00:00",
+  "updated_at": "2026-10-31T20:27:55.905564+00:00",
   "version": 2
 }

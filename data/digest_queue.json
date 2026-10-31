@@ -221,6 +221,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xkbbqi",
+        "title": "Is your engine lobotomizing your model? Kinda, and I measured it",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkbbqi/is_your_engine_lobotomizing_your_model_kinda_and/",
+        "author": "/u/jesdga95",
+        "published_at": "2026-10-31T14:14:51+00:00"
+      },
+      "insight": {
+        "title_ko": "추론 엔진의 성능 최적화 플래그가 모델 품질에 미치는 영향",
+        "summary_ko": [
+          "추론 엔진이 속도 향상을 위해 사용하는 라우팅 바이어스나 테일 스킵 등의 플래그가 모델의 출력 품질을 저하시키는 것으로 나타났습니다.",
+          "실험 결과, 이러한 성능 최적화 설정은 특히 연쇄적 추론과 사실 지식 회상 작업에서 상당한 성능 저하를 유발하는 것으로 확인되었습니다.",
+          "하드웨어 제약에 따라 성능 향상과 정확도 저하 사이의 트레이드오프가 발생하며, 모델 자체의 가중치 문제로 인한 무한 루프 현상도 관찰되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
