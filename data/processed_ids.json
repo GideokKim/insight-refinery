@@ -3276,6 +3276,11 @@
       "title": "zombie stats where the numbers ai quotes come from",
       "url": "trakkr.ai/trakkr-research/zombie-stats"
     },
+    "rss:https://news.ycombinator.com/item?id=50290480": {
+      "at": "2026-11-01T18:56:57.589548+00:00",
+      "title": "no ai 52 min build all linux files utils in c by hand video",
+      "url": "youtube.com/watch?v=gQRmSlcTq9c"
+    },
     "rss:https://news.ycombinator.com/item?id=50290652": {
       "at": "2026-10-31T16:06:21.826117+00:00",
       "title": "ai lean and the future of formal verification with lean creator leo de moura",
@@ -3325,6 +3330,11 @@
       "at": "2026-11-01T11:50:56.349818+00:00",
       "title": "the ai cost of javascript frameworks",
       "url": "nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks"
+    },
+    "rss:https://news.ycombinator.com/item?id=50325662": {
+      "at": "2026-11-01T18:56:57.589471+00:00",
+      "title": "ai agent swarms in minecraft fail to build civilization drown in bureaucracy",
+      "url": "tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -4536,6 +4546,11 @@
       "at": "2026-09-01T01:30:17.354421+00:00",
       "title": "introducing wrapture",
       "url": "simonwillison.net/2026/Aug/31/introducing-wrapture"
+    },
+    "rss:https://simonwillison.net/2026/Nov/1/kyle-kingsbury/": {
+      "at": "2026-11-01T18:56:57.589459+00:00",
+      "title": "quoting kyle kingsbury",
+      "url": "simonwillison.net/2026/Nov/1/kyle-kingsbury"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -16580,6 +16595,41 @@
       "title": "memdoor a team of 5 qwen3 8 27b models beats fable 5 on livecodebench hard",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkz4mo": {
+      "at": "2026-11-01T18:56:57.589531+00:00",
+      "title": "am i crazy or glm 5 3 flash is hilarious",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkz4mo/am_i_crazy_or_glm_53_flash_is_hilarious"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkzony": {
+      "at": "2026-11-01T18:56:57.589433+00:00",
+      "title": "new research a tiny 109m parameter model outperforms models up to 72b parameters at image text alignment using 42 less training data",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl1zn3": {
+      "at": "2026-11-01T18:56:57.589484+00:00",
+      "title": "deepseek exploring super agent design towards a more autonomous agent system",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl1zn3/deepseek_exploring_superagent_design_towards_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl2tcm": {
+      "at": "2026-11-01T18:56:57.589393+00:00",
+      "title": "heretic 2 0 released model modification for everyone",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl4ckr": {
+      "at": "2026-11-01T18:56:57.589519+00:00",
+      "title": "don t people pay attention anymore when buying hardware for ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl64ho": {
+      "at": "2026-11-01T18:56:57.589507+00:00",
+      "title": "lfm3 1 7b seems impressive",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl64ho/lfm317b_seems_impressive"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl90rr": {
+      "at": "2026-11-01T18:56:57.589498+00:00",
+      "title": "coding is solved exclusions apply",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -17171,6 +17221,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-01T11:50:56.349864+00:00",
+  "updated_at": "2026-11-01T18:56:57.589593+00:00",
   "version": 2
 }

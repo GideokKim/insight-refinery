@@ -67,6 +67,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xl2tcm",
+        "title": "Heretic 2.0 released: Model modification for everyone",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+        "author": "/u/-p-e-w-",
+        "published_at": "2026-11-01T13:16:24+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 LLM 수정 도구 Heretic 2.0 출시",
+        "summary_ko": [
+          "오픈소스 언어모델 수정 도구인 Heretic 2.0이 새롭게 출시되었습니다.",
+          "기존의 단일 방향 abliteration을 대체하는 임의 순위 절삭 기법인 ARA를 기본 적용했습니다.",
+          "플러그인 아키텍처 도입과 함께 검열 제거를 넘어 다양한 모델 행동 양식 수정이 가능해졌습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xkzony",
+        "title": "new research: A tiny 109M-parameter model outperforms models up to 72B parameters at image-text alignment, using 42× less training data",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model/",
+        "author": "/u/Lazylion2",
+        "published_at": "2026-11-01T10:24:21+00:00"
+      },
+      "insight": {
+        "title_ko": "초소형 비전 모델의 이미지-텍스트 정렬 연구",
+        "summary_ko": [
+          "109M 파라미터 규모의 초소형 모델이 최대 72B 규모의 기존 모델보다 뛰어난 이미지-텍스트 정렬 성능을 보여주는 새로운 연구가 발표되었습니다.",
+          "이 모델은 기존 학습 데이터 대비 42배 적은 데이터만을 사용하여 효율성을 크게 높였습니다.",
+          "소형 모델을 활용한 멀티모달 정렬 분야의 연구 방향에 중요한 실무적 시사점을 제공합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
