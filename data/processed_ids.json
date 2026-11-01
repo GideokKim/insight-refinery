@@ -3336,6 +3336,11 @@
       "title": "ai agent swarms in minecraft fail to build civilization drown in bureaucracy",
       "url": "tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy"
     },
+    "rss:https://news.ycombinator.com/item?id=50328488": {
+      "at": "2026-11-01T23:35:58.850468+00:00",
+      "title": "it wasn t ai that flipped proton s charge",
+      "url": "blog.raed.dev/posts/proton-loser-thinking"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -4546,6 +4551,11 @@
       "at": "2026-09-01T01:30:17.354421+00:00",
       "title": "introducing wrapture",
       "url": "simonwillison.net/2026/Aug/31/introducing-wrapture"
+    },
+    "rss:https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/": {
+      "at": "2026-11-01T23:35:58.850282+00:00",
+      "title": "if in doubt delete the uv lock file",
+      "url": "simonwillison.net/2026/Nov/1/delete-uv-lock-first"
     },
     "rss:https://simonwillison.net/2026/Nov/1/kyle-kingsbury/": {
       "at": "2026-11-01T18:56:57.589459+00:00",
@@ -8710,6 +8720,16 @@
       "at": "2026-11-01T02:14:58.624860+00:00",
       "title": "apple ceo says the company doesn t want to ship ai for ai s sake",
       "url": "techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake"
+    },
+    "rss:https://techcrunch.com/?p=3184041": {
+      "at": "2026-11-01T23:35:58.850482+00:00",
+      "title": "ai can make tech ceos lives easier what about everyone else",
+      "url": "techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else"
+    },
+    "rss:https://techcrunch.com/?p=3184048": {
+      "at": "2026-11-01T23:35:58.850430+00:00",
+      "title": "openai might rebrand its data centers as ai compute campuses",
+      "url": "techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -16595,6 +16615,11 @@
       "title": "memdoor a team of 5 qwen3 8 27b models beats fable 5 on livecodebench hard",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkz4lf": {
+      "at": "2026-11-01T23:35:58.850411+00:00",
+      "title": "glm 5 3 flash on our h200s does most of my coding now while gpt 6 1 sol orchestrates opencode setup",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkz4lf/glm53flash_on_our_h200s_does_most_of_my_coding"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkz4mo": {
       "at": "2026-11-01T18:56:57.589531+00:00",
       "title": "am i crazy or glm 5 3 flash is hilarious",
@@ -16604,6 +16629,11 @@
       "at": "2026-11-01T18:56:57.589433+00:00",
       "title": "new research a tiny 109m parameter model outperforms models up to 72b parameters at image text alignment using 42 less training data",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkzony/new_research_a_tiny_109mparameter_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl0oqz": {
+      "at": "2026-11-01T23:35:58.850393+00:00",
+      "title": "are bespoke inference engines overhyped my strata experience on 2 r9700",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl0oqz/are_bespoke_inference_engines_overhyped_my_strata"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl1zn3": {
       "at": "2026-11-01T18:56:57.589484+00:00",
@@ -16620,6 +16650,11 @@
       "title": "don t people pay attention anymore when buying hardware for ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl4pf6": {
+      "at": "2026-11-01T23:35:58.850378+00:00",
+      "title": "infernix new release",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl4pf6/infernix_new_release"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl64ho": {
       "at": "2026-11-01T18:56:57.589507+00:00",
       "title": "lfm3 1 7b seems impressive",
@@ -16629,6 +16664,21 @@
       "at": "2026-11-01T18:56:57.589498+00:00",
       "title": "coding is solved exclusions apply",
       "url": "reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xl9577": {
+      "at": "2026-11-01T23:35:58.850361+00:00",
+      "title": "meet ava in browser local ai avatar with lfm3 omni and webgpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xl9577/meet_ava_inbrowser_local_ai_avatar_with_lfm3omni"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlboqi": {
+      "at": "2026-11-01T23:35:58.850451+00:00",
+      "title": "llama2 c on a 2006 ipod 80 mhz w 64 mb ram and no fpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlec67": {
+      "at": "2026-11-01T23:35:58.850332+00:00",
+      "title": "getting incredible results with a single rtx 3090ti and 128gb of ram deepseek v4 1 flash 1017 35 tok s decode and qwen3 8 flash next 130 tok s decode",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17221,6 +17271,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-01T18:56:57.589593+00:00",
+  "updated_at": "2026-11-01T23:35:58.850542+00:00",
   "version": 2
 }
