@@ -3321,6 +3321,11 @@
       "title": "proton s ceo cancels ai re interviews",
       "url": "404media.co/protons-ceo-cancels-ai-re-interviews"
     },
+    "rss:https://news.ycombinator.com/item?id=50323088": {
+      "at": "2026-11-01T11:50:56.349818+00:00",
+      "title": "the ai cost of javascript frameworks",
+      "url": "nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -16515,6 +16520,11 @@
       "title": "reddit will discontinue rss feed on 13th november",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkbl2h/reddit_will_discontinue_rss_feed_on_13th_november"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkcdlz": {
+      "at": "2026-11-01T11:50:56.349804+00:00",
+      "title": "nvidia nemotron 3 5 bolt e4b 4gb post trained gemma 4 e4b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkcdlz/nvidia_nemotron_35_bolt_e4b_4gb_posttrained_gemma"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkcyn6": {
       "at": "2026-10-31T20:27:55.905503+00:00",
       "title": "spent a lot on my rig but i can only run gemma 4",
@@ -16554,6 +16564,21 @@
       "at": "2026-11-01T02:14:58.624904+00:00",
       "title": "how do i make search with local models feel like chatgpt codex",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xksj75": {
+      "at": "2026-11-01T11:50:56.349828+00:00",
+      "title": "64gb isn t the dead zone anymore if you run agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xksj75/64gb_isnt_the_dead_zone_anymore_if_you_run_agents"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkwvwg": {
+      "at": "2026-11-01T11:50:56.349788+00:00",
+      "title": "finedna the largest dataset to teach any llm dna midtraining sft rl",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkwvwg/finedna_the_largest_dataset_to_teach_any_llm_dna"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkxt7a": {
+      "at": "2026-11-01T11:50:56.349751+00:00",
+      "title": "memdoor a team of 5 qwen3 8 27b models beats fable 5 on livecodebench hard",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkxt7a/memdoor_a_team_of_5_qwen3827b_models_beats_fable"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17146,6 +17171,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-01T02:14:58.624956+00:00",
+  "updated_at": "2026-11-01T11:50:56.349864+00:00",
   "version": 2
 }
