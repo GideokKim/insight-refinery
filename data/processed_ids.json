@@ -4787,6 +4787,16 @@
       "title": "dbreunig nesformer",
       "url": "simonwillison.net/2026/Oct/30/nesformer"
     },
+    "rss:https://simonwillison.net/2026/Oct/31/datasette-llm/": {
+      "at": "2026-11-01T02:14:58.624895+00:00",
+      "title": "datasette llm 0 1a9",
+      "url": "simonwillison.net/2026/Oct/31/datasette-llm"
+    },
+    "rss:https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/": {
+      "at": "2026-11-01T02:14:58.624816+00:00",
+      "title": "how we took over chatgpt accounts",
+      "url": "simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts"
+    },
     "rss:https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/": {
       "at": "2026-10-06T01:19:01.155285+00:00",
       "title": "qwen3 8 27b addition in words",
@@ -8665,6 +8675,21 @@
       "at": "2026-10-31T20:27:55.905493+00:00",
       "title": "openai reportedly lowers funding target for new round",
       "url": "techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round"
+    },
+    "rss:https://techcrunch.com/?p=3184013": {
+      "at": "2026-11-01T02:14:58.624874+00:00",
+      "title": "judge allows naacp lawsuit over xai data center pollution to move forward",
+      "url": "techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward"
+    },
+    "rss:https://techcrunch.com/?p=3184015": {
+      "at": "2026-11-01T02:14:58.624928+00:00",
+      "title": "4 days left how techcrunch founder summit helps you make more useful connections to scale",
+      "url": "techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale"
+    },
+    "rss:https://techcrunch.com/?p=3184023": {
+      "at": "2026-11-01T02:14:58.624860+00:00",
+      "title": "apple ceo says the company doesn t want to ship ai for ai s sake",
+      "url": "techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -16495,10 +16520,40 @@
       "title": "spent a lot on my rig but i can only run gemma 4",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkcyn6/spent_a_lot_on_my_rig_but_i_can_only_run_gemma_4"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkge1s": {
+      "at": "2026-11-01T02:14:58.624888+00:00",
+      "title": "i m groot",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkge1s/im_groot"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkh2ns": {
       "at": "2026-10-31T20:27:55.905470+00:00",
       "title": "betelgeuse running qwen 3 8 flash next iq4_xs at 24 tok s on 2x8gb ddr4 14 tok s on a single 16gb stick rtx 3060 12gb 0 dropped experts 100 byte exact",
       "url": "reddit.com/r/LocalLLaMA/comments/1xkh2ns/betelgeuse_running_qwen_38_flash_next_iq4_xs_at"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkibxw": {
+      "at": "2026-11-01T02:14:58.624881+00:00",
+      "title": "crowdgpt v2 6 the collaborative llm",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkiuut": {
+      "at": "2026-11-01T02:14:58.624844+00:00",
+      "title": "an llm inside an llm same guy who put a risk v cpu inside qwen has now made karpathy s stories260k run on an npu compiled inside qwen 3 5 4b s weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkjrdl": {
+      "at": "2026-11-01T02:14:58.624920+00:00",
+      "title": "please tell me qwen3 8 flash next can be made to be better than this",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkjrdl/please_tell_me_qwen38flashnext_can_be_made_to_be"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xklq96": {
+      "at": "2026-11-01T02:14:58.624912+00:00",
+      "title": "well my local ai addiction officially got out of hand tonight",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xkm2yb": {
+      "at": "2026-11-01T02:14:58.624904+00:00",
+      "title": "how do i make search with local models feel like chatgpt codex",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xkm2yb/how_do_i_make_search_with_local_models_feel_like"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17091,6 +17146,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-10-31T20:27:55.905564+00:00",
+  "updated_at": "2026-11-01T02:14:58.624956+00:00",
   "version": 2
 }
