@@ -1,5 +1,50 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-01T23:35:57.244000+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xln8f2",
+        "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-02T03:58:06+00:00"
+      },
+      "insight": {
+        "title_ko": "JetBrains Mellum2.1 MTP 모델 공개",
+        "summary_ko": [
+          "JetBrains는 Multi-token prediction 헤드가 적용된 Mellum2.1-12B-A2.5B-Thinking-MTP 모델을 공개했습니다.",
+          "추론 엔진은 MTP 헤드를 speculative draft로 활용하여 출력 결과의 변화 없이 1.4배에서 1.8배 빠른 디코딩 성능을 제공합니다.",
+          "해당 모델은 vLLM, transformers, llama.cpp 등의 최신 버전을 통해 지원되며 실무에서 추론 가속화에 활용할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xljdnj",
+        "title": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
+        "author": "/u/HearMeOut-13",
+        "published_at": "2026-11-02T00:44:53+00:00"
+      },
+      "insight": {
+        "title_ko": "홈 환경 DeepSeek V4.1 속도 개선",
+        "summary_ko": [
+          "개인용 GPU와 홈 하드웨어를 활용해 DeepSeek V4.1 에이전트 세션 구동 속도를 20배 향상시켰습니다.",
+          "KV splice 기법을 적용해 매번 전체 프롬프트를 다시 읽던 병목 현상을 해결하고 캐시 효율을 높였습니다.",
+          "Resident-only routing을 도입해 시스템 RAM과 VRAM을 적극 활용하고 SSD 스트리밍 부하를 줄였습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

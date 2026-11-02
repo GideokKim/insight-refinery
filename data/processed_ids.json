@@ -16675,10 +16675,45 @@
       "title": "llama2 c on a 2006 ipod 80 mhz w 64 mb ram and no fpu",
       "url": "reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xle3ul": {
+      "at": "2026-11-02T09:33:02.573102+00:00",
+      "title": "is gemma 4 e4b still the best small model for a local tool calling personal assistant what am i missing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xle3ul/is_gemma_4_e4b_still_the_best_small_model_for_a"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlec67": {
       "at": "2026-11-01T23:35:58.850332+00:00",
       "title": "getting incredible results with a single rtx 3090ti and 128gb of ram deepseek v4 1 flash 1017 35 tok s decode and qwen3 8 flash next 130 tok s decode",
       "url": "reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlh0zw": {
+      "at": "2026-11-02T09:33:02.573070+00:00",
+      "title": "glb 3d coder a tiny 4b coding model that creates 3d assets for godot and other game engines",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlicia": {
+      "at": "2026-11-02T09:33:02.573089+00:00",
+      "title": "qwen 3 8 flash next nvfp4 on 64gb ram and 5090 basalt ditched windows for it very hyped for qwen 4 model family now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlicia/qwen_38_flash_next_nvfp4_on_64gb_ram_and_5090"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xljdnj": {
+      "at": "2026-11-02T09:33:02.573052+00:00",
+      "title": "sorry sam my quite terrible home dram is at 100 now patched strata to make deepseek v4 1 agent sessions start 20 faster on a good old standard gaming gpu no datacenter required",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xljjf2": {
+      "at": "2026-11-02T09:33:02.573112+00:00",
+      "title": "do we really need all these speed posts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlk2kb": {
+      "at": "2026-11-02T09:33:02.573082+00:00",
+      "title": "lfm3 omni 2b is incredible",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlk2kb/lfm3_omni_2b_is_incredible"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xln8f2": {
+      "at": "2026-11-02T09:33:02.573011+00:00",
+      "title": "jetbrains mellum2 1 12b a2 5b thinking mtp hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17271,6 +17306,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-01T23:35:58.850542+00:00",
+  "updated_at": "2026-11-02T09:33:02.573144+00:00",
   "version": 2
 }
