@@ -45,6 +45,314 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3184280",
+        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-11-02T19:19:17+00:00"
+      },
+      "insight": {
+        "title_ko": "NYT, 무단 컨텐츠 스크랩 혐의로 Brave 소송",
+        "summary_ko": [
+          "The New York Times를 비롯한 언론사들이 웹 브라우저 Brave를 상대로 소송을 제기했다.",
+          "Brave가 저작권이 있는 컨텐츠를 무단으로 스크랩하여 Anthropic과 Perplexity 같은 고객들에게 유통했다는 혐의를 받고 있다.",
+          "이번 소송은 AI 기업들의 데이터 수집 관행과 관련해 브라우저 기업까지 법적 책임 범위가 확대되는 중요한 선례가 될 수 있다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124438",
+        "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+        "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one/",
+        "author": "Shara Tibken",
+        "published_at": "2026-11-02T18:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Vera Rubin을 위한 쿠버네티스 최적화",
+        "summary_ko": [
+          "NVIDIA Vera Rubin과 같은 새로운 GPU 하드웨어에 맞게 쿠버네티스를 구성하는 것은 복잡하고 오류가 발생하기 쉽습니다.",
+          "드라이버와 커널부터 네트워킹과 스케줄러까지 모든 구성 요소가 하드웨어와 워크로드에 맞춰 정밀하게 튜닝되어야 합니다.",
+          "NVIDIA AI Cluster Runtime은 이러한 복잡성을 해결하고 쿠버네티스를 AI 환경에 즉시 대비할 수 있도록 지원합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124402",
+        "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+        "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos/",
+        "author": "Elizabeth Goodman",
+        "published_at": "2026-11-02T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Cosmos 플랫폼 기반 월드 모델 구축",
+        "summary_ko": [
+          "NVIDIA Cosmos는 물리 AI 개발자가 직면한 센서 적응과 모델 배포 문제를 해결하기 위한 플랫폼이다.",
+          "이 플랫폼은 물리 AI를 위한 월드 파운데이션 모델과 다양한 개발 도구를 제공한다.",
+          "Cosmos Framework는 월드 모델 학습을 위한 에이전트 기술과 레시피를 지원한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1147660",
+        "title": "Raising the quality of insights in agentic analytics",
+        "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+        "author": "MIT Technology Review Insights",
+        "published_at": "2026-11-02T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "에이전틱 애널리틱스의 인사이트 품질 향상 과제",
+        "summary_ko": [
+          "생성형 AI와 에이전틱 AI가 엔터프라이즈 분석을 혁신하고 있으나, 현재 에이전트가 생성한 인사이트의 절반 이상은 실제 비즈니스 개선으로 이어지지 못하고 있습니다.",
+          "조사 결과에 따르면 에이전트의 처방적 인사이트 품질에 대한 평가는 엇갈리며, 주된 원인으로는 비즈니스 맥락 부족과 분산된 데이터가 지목되었습니다.",
+          "기업들은 AI 및 데이터 거버넌스를 강화하고 시맨틱 레이어를 도입하여 에이전트의 인사이트 품질과 실무 활용도를 높이려 하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xm28e6",
+        "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+        "author": "/u/ResearchCrafty1804",
+        "published_at": "2026-11-02T16:42:32+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen 모델 오픈소스 유지 공식 입장 발표",
+        "summary_ko": [
+          "Qwen 향후 모델이 API 전용으로 전환될 것이라는 루머와 달리 Qwen 4.0과 5.0은 계속해서 오픈소스가 될 것임을 공식화했습니다.",
+          "Qwen 측은 AI의 가치가 소유자만이 아닌 전 세계 사용자가 접근하고 창조하는 기반 기술이 되어야 한다고 강조했습니다.",
+          "현재 Qwen 시리즈는 전 세계 누적 다운로드 30억 회를 돌파하며 오픈소스 AI 생태계에서 중요한 위치를 차지하고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50339494",
+        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "author": "entryleveljobsc",
+        "published_at": "2026-11-02T16:40:29+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic의 내부 AI 사용 비용이 직원 급여를 초과",
+        "summary_ko": [
+          "Anthropic의 내부 AI 활용에 따른 소모 비용이 정가 기준으로 전체 직원 급여 총액을 넘어섰습니다.",
+          "이 현상은 AI 모델 개발과 운영 과정에서 발생하는 막대한 연산 및 토큰 비용의 현실을 보여줍니다.",
+          "향후 AI 기업들의 재무 구조와 실제 서비스 운영 비용 산정에 중요한 시사점을 제공합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3184087",
+        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "author": "Ram Iyer",
+        "published_at": "2026-11-02T16:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "인간 행동 예측 월드 모델 개발사 42AI 투자 유치",
+        "summary_ko": [
+          "42AI는 6,250만 달러의 투자금을 유치하며 스텔스 모드에서 벗어났다.",
+          "이들은 새로운 상황에서도 인간의 행동을 예측할 수 있는 월드 모델을 개발하고 있다.",
+          "해당 기술은 새로운 환경에서의 인간 행동 분석과 예측에 중요한 시사점을 제공한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124270",
+        "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+        "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map/",
+        "author": "Alon Lavian",
+        "published_at": "2026-11-02T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Workload Map을 통한 신규 AI 프레임워크 지원",
+        "summary_ko": [
+          "NVIDIA DSX AI Factory Platform은 생태계 전반의 효율적인 AI 팩토리 설계를 지원합니다.",
+          "이 플랫폼은 멀티 테넌트 운영과 확장을 지원하는 모듈형 오픈소스 소프트웨어 컴포넌트를 포함합니다.",
+          "분산 워크로드에 대한 공유된 이해를 바탕으로 AI 팩토리의 원활한 운영을 돕습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xm102d",
+        "title": "Unsloth vs GSQ-RCO - 512K context DeepSeek-V4.1 GGUF benchmarks Terminal Bench",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf/",
+        "author": "/u/danielhanchen",
+        "published_at": "2026-11-02T15:57:37+00:00"
+      },
+      "insight": {
+        "title_ko": "Unsloth 대 DeepSeek-V4.1 GGUF 벤치마크 분석",
+        "summary_ko": [
+          "Unsloth 팀은 512K 컨텍스트를 활용해 DeepSeek-V4.1 GGUF 모델의 성능을 측정하고 GSQ-RCO 대비 우수성을 입증했습니다.",
+          "기존 벤치마크의 한계를 극복하기 위해 에이전트 중심의 포화되지 않은 테스트를 도입하고 27배 많은 데이터로 정확도를 높였습니다.",
+          "통계적 검정을 통해 GSQ-RCO가 주장한 복구율 수치 일부에 대해 검증 및 이견을 제기했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xlys6k",
+        "title": "[Release] ISTA DeepSeek-V4.1-Flash-1017 GSQ-RCO Coder: a 763B model at 1 bit per parameter",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a/",
+        "author": "/u/Loginhe",
+        "published_at": "2026-11-02T14:33:20+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek-Flash 모델 공개",
+        "summary_ko": [
+          "DeepSeek-V4.1-Flash-1017 모델이 GSQ와 RCO 기법으로 1비트/파라미터 압축돼 공개됐다.",
+          "전략적 전문가 절단과 GSQ, RCO를 통해 384개 전문가 중 192개만 남겨 72GB의 변환기 가중치를 확보했다.",
+          "실험 결과 LiveCodeBench에서 88.57점, SWE-bench Verified에서 77.00점을 기록하며 98.7%의 성능을 유지했다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3184089",
+        "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+        "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "author": "Ivan Mehta",
+        "published_at": "2026-11-02T13:57:53+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, ChatGPT 채팅·작업 탭 통합",
+        "summary_ko": [
+          "OpenAI가 ChatGPT의 채팅과 작업 탭을 통합했다.",
+          "이로써 ChatGPT와 Codex가 동일한 사용량 할당 풀을 공유하게 된다.",
+          "사용자는 두 서비스 간 리소스 할당이 통합되어 더 유연한 활용이 가능해진다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+        "title": "The U.S. Census Bureau and “Super Intelligence”",
+        "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+        "author": null,
+        "published_at": "2026-11-02T13:31:26+00:00"
+      },
+      "insight": {
+        "title_ko": "미국 인구조사국, AI 설문 문항 변경으로 수용률 급증",
+        "summary_ko": [
+          "미국 인구조사국이 AI 설문 문항을 '생산'에서 '비즈니스 기능'으로 바꾸어 기업 AI 수용률이 급증했다.",
+          "변경 전 12%였던 대기업 AI 활용률이 2026년 초 30%, 10월에는 40%로 상승했다.",
+          "문항 변경으로 데이터 비교가 불가능해져 업계 분석과 정책 결정에 혼란을 초래할 우려가 있다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1147702",
+        "title": "Stop counting tokens, start counting what ships",
+        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+        "author": "Affan Syed",
+        "published_at": "2026-11-02T13:10:32+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 코드 비용, 토큰이 아닌 결과",
+        "summary_ko": [
+          "AI 에이전트가 코딩 작업을 반복하면서 토큰 사용량이 급증해 비용이 상승한다.",
+          "토큰당 비용이 아닌 병합된 PR당 비용을 측정해 실제 소프트웨어 배포와 품질을 연결한다.",
+          "HPE 사례처럼 온프레미스 오픈웨이트 모델과 소유용량을 활용해 토큰 비용을 30~50% 절감했다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xlwpqv",
+        "title": "Not another tok/s post: local quants vs Claude on 9 real bugs",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9/",
+        "author": "/u/FeydRowan",
+        "published_at": "2026-11-02T13:08:34+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 양자화 모델과 Claude의 버그 수정 성능 비교",
+        "summary_ko": [
+          "작성자는 C++/CUDA 엔진의 실제 비공개 버그 9개를 활용해 로컬 양자화 모델과 Claude 모델의 코드 수정 능력을 비교했다.",
+          "실험 결과 Qwen 기반 로컬 모델들은 최신 Claude 모델에 근접한 성능을 보였으나, 3비트 양자화 시 더 많은 토큰을 소모했다.",
+          "단순 초당 토큰 처리량(tok/s) 외에도 양자화가 모델의 추론 효율성과 실제 문제 해결 능력에 미치는 영향을 검증했다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

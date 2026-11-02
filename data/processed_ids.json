@@ -330,6 +330,11 @@
       "title": "singer or clanker youtube music will tell you with new gen ai labeling",
       "url": "arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs"
     },
+    "rss:https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/": {
+      "at": "2026-11-02T20:48:28.854683+00:00",
+      "title": "claude s new rules against game cloning won t stop the ai copying boom",
+      "url": "arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -349,6 +354,11 @@
       "at": "2026-10-05T19:49:23.695163+00:00",
       "title": "command line tool quickly removes apple intelligence from macos 27",
       "url": "arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27"
+    },
+    "rss:https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/": {
+      "at": "2026-11-02T20:48:28.854672+00:00",
+      "title": "coming in 2027 apple s 1 000 home robot for facetime and switching on lights",
+      "url": "arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat"
     },
     "rss:https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/": {
       "at": "2026-10-26T15:15:20.145632+00:00",
@@ -1520,6 +1530,11 @@
       "title": "memory enforced gpu sharing in kubernetes with nvidia cuda 13 4",
       "url": "developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124270": {
+      "at": "2026-11-02T20:48:28.854593+00:00",
+      "title": "support new ai frameworks faster using nvidia workload map",
+      "url": "developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124273": {
       "at": "2026-10-27T21:20:39.162376+00:00",
       "title": "nvidia rtx spark powers neural rendering and ai characters in games",
@@ -1540,10 +1555,20 @@
       "title": "build specialized agents on a stack you control with nvidia nemoclaw",
       "url": "developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124402": {
+      "at": "2026-11-02T20:48:28.854534+00:00",
+      "title": "build world models for interactive simulation with nvidia cosmos",
+      "url": "developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124424": {
       "at": "2026-10-31T02:23:49.402250+00:00",
       "title": "build a validated kubernetes runtime for nvidia dynamo",
       "url": "developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124438": {
+      "at": "2026-11-02T20:48:28.854519+00:00",
+      "title": "making kubernetes ai ready for nvidia vera rubin on day one",
+      "url": "developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one"
     },
     "rss:https://developer.nvidia.com/blog/?p=124453": {
       "at": "2026-10-30T21:30:45.732089+00:00",
@@ -3341,6 +3366,16 @@
       "title": "it wasn t ai that flipped proton s charge",
       "url": "blog.raed.dev/posts/proton-loser-thinking"
     },
+    "rss:https://news.ycombinator.com/item?id=50337454": {
+      "at": "2026-11-02T20:48:28.854728+00:00",
+      "title": "jobless tech workers are being left out of san francisco s ai boom",
+      "url": "bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near"
+    },
+    "rss:https://news.ycombinator.com/item?id=50339494": {
+      "at": "2026-11-02T20:48:28.854565+00:00",
+      "title": "anthropic s internal ai use at retail prices now exceeds its employee pay",
+      "url": "businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3673,6 +3708,11 @@
       "at": "2026-10-27T02:05:21.636873+00:00",
       "title": "greptile takes bug detection beyond code review with gpt 6 astra",
       "url": "openai.com/index/greptile-code-review-codex-astra"
+    },
+    "rss:https://openai.com/index/grid-protectors-program": {
+      "at": "2026-11-02T20:48:28.854712+00:00",
+      "title": "introducing the grid protectors program",
+      "url": "openai.com/index/grid-protectors-program"
     },
     "rss:https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
       "at": "2026-09-23T22:59:06.946196+00:00",
@@ -4561,6 +4601,11 @@
       "at": "2026-11-01T18:56:57.589459+00:00",
       "title": "quoting kyle kingsbury",
       "url": "simonwillison.net/2026/Nov/1/kyle-kingsbury"
+    },
+    "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
+      "at": "2026-11-02T20:48:28.854636+00:00",
+      "title": "the u s census bureau and super intelligence",
+      "url": "simonwillison.net/2026/Nov/2/census-bureau-super-intelligence"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -8730,6 +8775,36 @@
       "at": "2026-11-01T23:35:58.850430+00:00",
       "title": "openai might rebrand its data centers as ai compute campuses",
       "url": "techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses"
+    },
+    "rss:https://techcrunch.com/?p=3184073": {
+      "at": "2026-11-02T20:48:28.854753+00:00",
+      "title": "2 days till techcrunch founder summit boston founders don t need a silicon valley address to build something big",
+      "url": "techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big"
+    },
+    "rss:https://techcrunch.com/?p=3184087": {
+      "at": "2026-11-02T20:48:28.854575+00:00",
+      "title": "42ai comes out of stealth with 62 5m and a world model that can predict human behavior",
+      "url": "techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior"
+    },
+    "rss:https://techcrunch.com/?p=3184089": {
+      "at": "2026-11-02T20:48:28.854626+00:00",
+      "title": "openai is finally merging chatgpt s chat and work tabs",
+      "url": "techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs"
+    },
+    "rss:https://techcrunch.com/?p=3184108": {
+      "at": "2026-11-02T20:48:28.854720+00:00",
+      "title": "omen ai adds liquid know how in 16 million aquatic labs acquisition",
+      "url": "techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition"
+    },
+    "rss:https://techcrunch.com/?p=3184148": {
+      "at": "2026-11-02T20:48:28.854703+00:00",
+      "title": "elon musk throttles grok bot limits due to unsustainably high costs",
+      "url": "techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs"
+    },
+    "rss:https://techcrunch.com/?p=3184280": {
+      "at": "2026-11-02T20:48:28.854472+00:00",
+      "title": "new york times and other outlets sue web browser brave over alleged content scraping",
+      "url": "techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -16715,6 +16790,46 @@
       "title": "jetbrains mellum2 1 12b a2 5b thinking mtp hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlwpqv": {
+      "at": "2026-11-02T20:48:28.854653+00:00",
+      "title": "not another tok s post local quants vs claude on 9 real bugs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlwpqv/not_another_toks_post_local_quants_vs_claude_on_9"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlys6k": {
+      "at": "2026-11-02T20:48:28.854614+00:00",
+      "title": "release ista deepseek v4 1 flash 1017 gsq rco coder a 763b model at 1 bit per parameter",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlys6k/release_ista_deepseekv41flash1017_gsqrco_coder_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlz5dz": {
+      "at": "2026-11-02T20:48:28.854737+00:00",
+      "title": "qwen 4 when",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm102d": {
+      "at": "2026-11-02T20:48:28.854603+00:00",
+      "title": "unsloth vs gsq rco 512k context deepseek v4 1 gguf benchmarks terminal bench",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xm102d/unsloth_vs_gsqrco_512k_context_deepseekv41_gguf"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm28e6": {
+      "at": "2026-11-02T20:48:28.854554+00:00",
+      "title": "official statement qwen models will stick to open source to the end",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm33gr": {
+      "at": "2026-11-02T20:48:28.854692+00:00",
+      "title": "yet another reason to self host anthropic has again cut back on reverse engineering tools",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xm33gr/yet_another_reason_to_self_host_anthropic_has"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm506n": {
+      "at": "2026-11-02T20:48:28.854744+00:00",
+      "title": "am i the only one who frequently opens this subreddit and stumbles upon announcements about qwen4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xm506n/am_i_the_only_one_who_frequently_opens_this"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm6jow": {
+      "at": "2026-11-02T20:48:28.854663+00:00",
+      "title": "sparks of weight space programming llms can natively read write neural network weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -17215,10 +17330,20 @@
       "title": "the focus on ai safety disasters ignores everyday harms",
       "url": "technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
     },
+    "rss:https://www.technologyreview.com/?p=1147660": {
+      "at": "2026-11-02T20:48:28.854545+00:00",
+      "title": "raising the quality of insights in agentic analytics",
+      "url": "technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics"
+    },
     "rss:https://www.technologyreview.com/?p=1147672": {
       "at": "2026-10-26T21:39:27.933622+00:00",
       "title": "will the real anthropic please stand up",
       "url": "technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
+    },
+    "rss:https://www.technologyreview.com/?p=1147702": {
+      "at": "2026-11-02T20:48:28.854645+00:00",
+      "title": "stop counting tokens start counting what ships",
+      "url": "technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships"
     },
     "rss:https://www.technologyreview.com/?p=1147709": {
       "at": "2026-10-29T00:00:51.638851+00:00",
@@ -17306,6 +17431,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-02T09:33:02.573144+00:00",
+  "updated_at": "2026-11-02T20:48:28.854795+00:00",
   "version": 2
 }
