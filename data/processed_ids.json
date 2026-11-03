@@ -335,6 +335,11 @@
       "title": "claude s new rules against game cloning won t stop the ai copying boom",
       "url": "arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom"
     },
+    "rss:https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/": {
+      "at": "2026-11-03T20:31:43.801609+00:00",
+      "title": "google will let schools skip ai tools but they have to give up search too",
+      "url": "arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -909,6 +914,11 @@
       "at": "2026-09-23T18:26:13.104900+00:00",
       "title": "advancing private ai compute with secure server side memory",
       "url": "deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory"
+    },
+    "rss:https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
+      "at": "2026-11-03T20:31:43.801541+00:00",
+      "title": "agentic cheminformatics with google antigravity",
+      "url": "deepmind.google/blog/agentic-cheminformatics-with-google-antigravity"
     },
     "rss:https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
       "at": "2026-09-08T17:40:11.523007+00:00",
@@ -1730,6 +1740,11 @@
       "title": "olmoearth v1 3 state of the art embeddings for the whole planet",
       "url": "huggingface.co/blog/allenai/olmoearth-v1-3"
     },
+    "rss:https://huggingface.co/blog/allenai/statebench": {
+      "at": "2026-11-03T20:31:43.801534+00:00",
+      "title": "statebench testing how language models track state changes over long documents",
+      "url": "huggingface.co/blog/allenai/statebench"
+    },
     "rss:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
       "at": "2026-10-21T18:41:55.078976+00:00",
       "title": "profiling torchneuron part 1 system level profiling on aws trainium",
@@ -1862,6 +1877,11 @@
       "at": "2026-09-09T17:52:30.546282+00:00",
       "title": "ibm releases sota granite time series patchtst fm r2 model with commercial friendly license",
       "url": "huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+    },
+    "rss:https://huggingface.co/blog/ibm-research/palette-deck-building": {
+      "at": "2026-11-03T20:31:43.801635+00:00",
+      "title": "palette teaching a small model to build decks in your design language",
+      "url": "huggingface.co/blog/ibm-research/palette-deck-building"
     },
     "rss:https://huggingface.co/blog/ibm-research/real-time-intelligence": {
       "at": "2026-09-02T17:30:27.096516+00:00",
@@ -3421,6 +3441,26 @@
       "title": "oracle files to sell 20b in new stock bonds to finance ai buildout",
       "url": "cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
     },
+    "rss:https://news.ycombinator.com/item?id=50352257": {
+      "at": "2026-11-03T20:31:43.801680+00:00",
+      "title": "just a little ai resistance as a treat",
+      "url": "shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat"
+    },
+    "rss:https://news.ycombinator.com/item?id=50353192": {
+      "at": "2026-11-03T20:31:43.801560+00:00",
+      "title": "google will turn off search for schools that reject ai",
+      "url": "nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=50353300": {
+      "at": "2026-11-03T20:31:43.801649+00:00",
+      "title": "ai is destroying my cs degree",
+      "url": "lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree"
+    },
+    "rss:https://news.ycombinator.com/item?id=50354960": {
+      "at": "2026-11-03T20:31:43.801522+00:00",
+      "title": "postman silently auto installs ai plugins and attempts to share all api data",
+      "url": "github.com/postmanlabs/postman-app-support/issues/14370"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3430,6 +3470,11 @@
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
       "url": "openai.com/index/1password"
+    },
+    "rss:https://openai.com/index/accelerating-engineering-for-the-physical-world": {
+      "at": "2026-11-03T20:31:43.801569+00:00",
+      "title": "accelerating engineering for the physical world",
+      "url": "openai.com/index/accelerating-engineering-for-the-physical-world"
     },
     "rss:https://openai.com/index/advancing-computer-use-with-ironclad": {
       "at": "2026-10-06T21:42:06.239785+00:00",
@@ -3593,6 +3638,11 @@
       "at": "2026-10-28T02:16:22.306359+00:00",
       "title": "how check point accelerates vulnerability research with daybreak",
       "url": "openai.com/index/check-point-daybreak"
+    },
+    "rss:https://openai.com/index/cisco-cyber": {
+      "at": "2026-11-03T20:31:43.801662+00:00",
+      "title": "how cisco defends at machine speed with openai",
+      "url": "openai.com/index/cisco-cyber"
     },
     "rss:https://openai.com/index/cloudflare-cyber": {
       "at": "2026-10-22T07:35:51.097442+00:00",
@@ -4701,6 +4751,11 @@
       "at": "2026-11-03T12:48:49.199225+00:00",
       "title": "october sponsors only newsletter",
       "url": "simonwillison.net/2026/Nov/3/october-newsletter"
+    },
+    "rss:https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/": {
+      "at": "2026-11-03T20:31:43.801547+00:00",
+      "title": "qwen 3 8 27b on my laptop can interpret model weights too",
+      "url": "simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -8936,6 +8991,41 @@
       "title": "apple may try to increase revenue by doing something with third party ai apps",
       "url": "techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps"
     },
+    "rss:https://techcrunch.com/?p=3184568": {
+      "at": "2026-11-03T20:31:43.801686+00:00",
+      "title": "tomorrow techcrunch founder summit takes over boston and when pass rates increase",
+      "url": "techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase"
+    },
+    "rss:https://techcrunch.com/?p=3184579": {
+      "at": "2026-11-03T20:31:43.801673+00:00",
+      "title": "the techcrunch founder summit agenda is only half the reason to be in boston on nov 4",
+      "url": "techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4"
+    },
+    "rss:https://techcrunch.com/?p=3184598": {
+      "at": "2026-11-03T20:31:43.801554+00:00",
+      "title": "apple restricts dating apps and ai companions to users 18 and up",
+      "url": "techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up"
+    },
+    "rss:https://techcrunch.com/?p=3184603": {
+      "at": "2026-11-03T20:31:43.801642+00:00",
+      "title": "google will let schools disable its ai tools but not without sacrificing search",
+      "url": "techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search"
+    },
+    "rss:https://techcrunch.com/?p=3184638": {
+      "at": "2026-11-03T20:31:43.801630+00:00",
+      "title": "anthropic is still grappling with the economics of compute",
+      "url": "techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute"
+    },
+    "rss:https://techcrunch.com/?p=3184717": {
+      "at": "2026-11-03T20:31:43.801599+00:00",
+      "title": "netflix s new ai discover tab helps you find something to watch based on your mood",
+      "url": "techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood"
+    },
+    "rss:https://techcrunch.com/?p=3184774": {
+      "at": "2026-11-03T20:31:43.801592+00:00",
+      "title": "ai inference startup fal doubles its valuation to 16b as demand surges",
+      "url": "techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -9535,6 +9625,11 @@
       "at": "2026-10-29T23:57:38.036971+00:00",
       "title": "microsoft research focus edition 97",
       "url": "microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-97"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1192298": {
+      "at": "2026-11-03T20:31:43.801624+00:00",
+      "title": "learn the rules the hacker mindset",
+      "url": "microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -17005,6 +17100,36 @@
       "title": "alibaba s qwen code repo just leaked qwen4 max qwen4 coder plus and qwen4 omni 120b",
       "url": "reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmjipa": {
+      "at": "2026-11-03T20:31:43.801667+00:00",
+      "title": "underrated benefit of local ai speed",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmjipa/underrated_benefit_of_local_ai_speed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmmadn": {
+      "at": "2026-11-03T20:31:43.801584+00:00",
+      "title": "deepseek v5 is planned to be pre trained on huawei ascend chips",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmqq2a": {
+      "at": "2026-11-03T20:31:43.801576+00:00",
+      "title": "rtx 5090 with 64gb and 96gb vram confirmed by us gpu repair tech",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xms9ii": {
+      "at": "2026-11-03T20:31:43.801655+00:00",
+      "title": "what qwen is thinking when it gets stuck saying wait",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmz9ca": {
+      "at": "2026-11-03T20:31:43.801617+00:00",
+      "title": "like gpt 6 astra qwen 3 8 27b can interpret model weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn1gs9": {
+      "at": "2026-11-03T20:31:43.801478+00:00",
+      "title": "i tried mit s weight space programming on my own use case claude rewrote 8 neurons of gemma 4 12b to change how it translates one italian tense",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -17636,6 +17761,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-03T12:48:49.199271+00:00",
+  "updated_at": "2026-11-03T20:31:43.801712+00:00",
   "version": 2
 }
