@@ -1575,6 +1575,16 @@
       "title": "run ai models for edge application development with just a few commands",
       "url": "developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124491": {
+      "at": "2026-11-03T03:57:32.517902+00:00",
+      "title": "keep distributed training running with automated workload recovery",
+      "url": "developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124515": {
+      "at": "2026-11-03T03:57:32.517839+00:00",
+      "title": "diagnose distributed ai workload failures with nvidia attribution",
+      "url": "developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
       "title": "gpu management why idle gpus are the new grounded aircraft",
@@ -3366,6 +3376,11 @@
       "title": "it wasn t ai that flipped proton s charge",
       "url": "blog.raed.dev/posts/proton-loser-thinking"
     },
+    "rss:https://news.ycombinator.com/item?id=50336138": {
+      "at": "2026-11-03T03:57:32.518060+00:00",
+      "title": "last night an ai agent performed brain surgery on a mouse",
+      "url": "twitter.com/OcanaSantero/status/2115442964574908902"
+    },
     "rss:https://news.ycombinator.com/item?id=50337454": {
       "at": "2026-11-02T20:48:28.854728+00:00",
       "title": "jobless tech workers are being left out of san francisco s ai boom",
@@ -3375,6 +3390,16 @@
       "at": "2026-11-02T20:48:28.854565+00:00",
       "title": "anthropic s internal ai use at retail prices now exceeds its employee pay",
       "url": "businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11"
+    },
+    "rss:https://news.ycombinator.com/item?id=50341736": {
+      "at": "2026-11-03T03:57:32.517968+00:00",
+      "title": "egoless mathematics in the ai era",
+      "url": "terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era"
+    },
+    "rss:https://news.ycombinator.com/item?id=50342284": {
+      "at": "2026-11-03T03:57:32.517956+00:00",
+      "title": "oracle files to sell 20b in new stock bonds to finance ai buildout",
+      "url": "cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -4024,6 +4049,11 @@
       "title": "a model guide for the gpt 6 family",
       "url": "openai.com/index/practical-guide-building-gpt-6"
     },
+    "rss:https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai": {
+      "at": "2026-11-03T03:57:32.517978+00:00",
+      "title": "preparing our next security sprint to harden openai",
+      "url": "openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+    },
     "rss:https://openai.com/index/previewing-ultrafast": {
       "at": "2026-08-19T14:23:12.191112+00:00",
       "title": "previewing ultrafast mode gpt 5 6 sol at up to 14x the speed",
@@ -4069,6 +4099,11 @@
       "title": "retell uses openai models to help power 100m monthly calls",
       "url": "openai.com/index/retell-ai"
     },
+    "rss:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties": {
+      "at": "2026-11-03T03:57:32.518054+00:00",
+      "title": "rewarding defenders with bigger bug bounties",
+      "url": "openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+    },
     "rss:https://openai.com/index/ringg": {
       "at": "2026-09-23T18:26:13.104954+00:00",
       "title": "ringg s ai agents resolve up to 65 of customer calls with openai",
@@ -4093,6 +4128,11 @@
       "at": "2026-10-21T18:41:55.078936+00:00",
       "title": "using thousands of ai agents to uncover new leads in biological data",
       "url": "openai.com/index/scaling-ai-research-for-complex-biological-data"
+    },
+    "rss:https://openai.com/index/scaling-git-at-openai": {
+      "at": "2026-11-03T03:57:32.517998+00:00",
+      "title": "scaling git at openai",
+      "url": "openai.com/index/scaling-git-at-openai"
     },
     "rss:https://openai.com/index/scaling-storage-one-billion-users-part-one": {
       "at": "2026-09-11T17:45:49.029451+00:00",
@@ -4606,6 +4646,11 @@
       "at": "2026-11-02T20:48:28.854636+00:00",
       "title": "the u s census bureau and super intelligence",
       "url": "simonwillison.net/2026/Nov/2/census-bureau-super-intelligence"
+    },
+    "rss:https://simonwillison.net/2026/Nov/2/llm/": {
+      "at": "2026-11-03T03:57:32.518022+00:00",
+      "title": "llm 0 37",
+      "url": "simonwillison.net/2026/Nov/2/llm"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -8801,10 +8846,40 @@
       "title": "elon musk throttles grok bot limits due to unsustainably high costs",
       "url": "techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs"
     },
+    "rss:https://techcrunch.com/?p=3184239": {
+      "at": "2026-11-03T03:57:32.518098+00:00",
+      "title": "web host squarespace lays off 19 of its employees",
+      "url": "techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees"
+    },
     "rss:https://techcrunch.com/?p=3184280": {
       "at": "2026-11-02T20:48:28.854472+00:00",
       "title": "new york times and other outlets sue web browser brave over alleged content scraping",
       "url": "techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping"
+    },
+    "rss:https://techcrunch.com/?p=3184332": {
+      "at": "2026-11-03T03:57:32.517938+00:00",
+      "title": "anthropic warns that it s very close to rsi capability aka self building ai",
+      "url": "techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai"
+    },
+    "rss:https://techcrunch.com/?p=3184353": {
+      "at": "2026-11-03T03:57:32.518074+00:00",
+      "title": "google takes dreambeans to india in bid to bring ai generated personal stories to the masses",
+      "url": "techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses"
+    },
+    "rss:https://techcrunch.com/?p=3184455": {
+      "at": "2026-11-03T03:57:32.518029+00:00",
+      "title": "trajectory raises 45m to make ai model training accessible to nontechnical experts",
+      "url": "techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts"
+    },
+    "rss:https://techcrunch.com/?p=3184485": {
+      "at": "2026-11-03T03:57:32.518089+00:00",
+      "title": "y combinator s garry tan uses ai agents so much he spends up to 200k a year on tokens",
+      "url": "techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens"
+    },
+    "rss:https://techcrunch.com/?p=3184506": {
+      "at": "2026-11-03T03:57:32.518006+00:00",
+      "title": "apple may try to increase revenue by doing something with third party ai apps",
+      "url": "techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -16790,6 +16865,11 @@
       "title": "jetbrains mellum2 1 12b a2 5b thinking mtp hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlusil": {
+      "at": "2026-11-03T03:57:32.518066+00:00",
+      "title": "proposal a community revolution for private quality benchmarks and why endless chasing tok s is rotting our brains",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xlusil/proposal_a_community_revolution_for_private"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xlwpqv": {
       "at": "2026-11-02T20:48:28.854653+00:00",
       "title": "not another tok s post local quants vs claude on 9 real bugs",
@@ -16804,6 +16884,11 @@
       "at": "2026-11-02T20:48:28.854737+00:00",
       "title": "qwen 4 when",
       "url": "reddit.com/r/LocalLLaMA/comments/1xlz5dz/qwen_4_when"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm0uy0": {
+      "at": "2026-11-03T03:57:32.517988+00:00",
+      "title": "running uncensored deepseek v4 1 flash 1017 on a 12 gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xm0uy0/running_uncensored_deepseekv41flash1017_on_a_12"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm102d": {
       "at": "2026-11-02T20:48:28.854603+00:00",
@@ -16829,6 +16914,31 @@
       "at": "2026-11-02T20:48:28.854663+00:00",
       "title": "sparks of weight space programming llms can natively read write neural network weights",
       "url": "reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xm8o8g": {
+      "at": "2026-11-03T03:57:32.518045+00:00",
+      "title": "amazon is allegedly canceling gpu orders and in rare cases closing accounts for purchasing compute hardware tim sweeney also a victim of this practice",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xma0tw": {
+      "at": "2026-11-03T03:57:32.518037+00:00",
+      "title": "gpt 6 astra edits qwen weights math 500 7 9 to 48 1",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmbj0v": {
+      "at": "2026-11-03T03:57:32.517925+00:00",
+      "title": "new sparse attention method for ultra long context",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmbj0v/new_sparse_attention_method_for_ultralong_context"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmbym0": {
+      "at": "2026-11-03T03:57:32.517912+00:00",
+      "title": "qwen 3 8 27b is sometimes so smart it scares me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmfbam": {
+      "at": "2026-11-03T03:57:32.518082+00:00",
+      "title": "i found another niche use case for local llms but need some advice",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17355,6 +17465,11 @@
       "title": "we urgently need to monitor ai agents actions in real time",
       "url": "technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time"
     },
+    "rss:https://www.technologyreview.com/?p=1147846": {
+      "at": "2026-11-03T03:57:32.517798+00:00",
+      "title": "the agentic web is here",
+      "url": "technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -17364,6 +17479,11 @@
       "at": "2026-10-31T16:06:21.826033+00:00",
       "title": "using agents for long horizon financial work aman singh arca",
       "url": "latent.space/p/using_agents_for_long-horizon_financial_work_aman_singh_arca"
+    },
+    "rss:urn:latent-space:post:pod_ep_01a19df0-34a3-7307-96fc-48928908772b": {
+      "at": "2026-11-03T03:57:32.517868+00:00",
+      "title": "building legal agents when you can t see the data jacob lauritzen cto of legora",
+      "url": "latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora"
     },
     "rss:urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e": {
       "at": "2026-10-27T07:51:59.875319+00:00",
@@ -17415,6 +17535,11 @@
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
       "url": "latent.space/p/ainews-kimi-31"
     },
+    "rss:urn:latent-space:post:post_b1e4eead-3949-4839-9db7-833e48cc345b": {
+      "at": "2026-11-03T03:57:32.517854+00:00",
+      "title": "building ai for lawyers jacob lauritzen cto of legora",
+      "url": "latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora"
+    },
     "rss:urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337": {
       "at": "2026-10-28T11:21:06.467502+00:00",
       "title": "ainews anthropic ends coding interviews hunger beats tenure",
@@ -17431,6 +17556,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-02T20:48:28.854795+00:00",
+  "updated_at": "2026-11-03T03:57:32.518129+00:00",
   "version": 2
 }
