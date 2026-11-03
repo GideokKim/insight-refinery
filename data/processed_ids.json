@@ -1020,6 +1020,11 @@
       "title": "gemini 3 8 text to speech says hello",
       "url": "deepmind.google/blog/say-hello-to-gemini-38-text-to-speech"
     },
+    "rss:https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
+      "at": "2026-11-03T12:48:49.199201+00:00",
+      "title": "speeding up planning decisions with ai",
+      "url": "deepmind.google/blog/speeding-up-planning-decisions-with-ai"
+    },
     "rss:https://developer.nvidia.com/blog/?p=120848": {
       "at": "2026-08-26T22:35:55.496737+00:00",
       "title": "nvidia nvlink fusion brings nvhbm to next generation ai infrastructure",
@@ -2032,6 +2037,11 @@
       "at": "2026-09-22T13:28:38.238845+00:00",
       "title": "transformers now runs llama cpp quants",
       "url": "huggingface.co/blog/transformers-llama-cpp-quants"
+    },
+    "rss:https://huggingface.co/blog/transformers-mic": {
+      "at": "2026-11-03T12:48:49.199152+00:00",
+      "title": "transformers model integration contracts",
+      "url": "huggingface.co/blog/transformers-mic"
     },
     "rss:https://huggingface.co/blog/webgpu-kernels": {
       "at": "2026-09-01T17:32:37.259677+00:00",
@@ -3376,6 +3386,16 @@
       "title": "it wasn t ai that flipped proton s charge",
       "url": "blog.raed.dev/posts/proton-loser-thinking"
     },
+    "rss:https://news.ycombinator.com/item?id=50332086": {
+      "at": "2026-11-03T12:48:49.199164+00:00",
+      "title": "ai fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "eurogamer.net/ai-fan-wikis-errors-complicating-games-culture"
+    },
+    "rss:https://news.ycombinator.com/item?id=50334038": {
+      "at": "2026-11-03T12:48:49.199056+00:00",
+      "title": "china s first frontier ai export controls mofcom announcement no 48",
+      "url": "labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2"
+    },
     "rss:https://news.ycombinator.com/item?id=50336138": {
       "at": "2026-11-03T03:57:32.518060+00:00",
       "title": "last night an ai agent performed brain surgery on a mouse",
@@ -3614,6 +3634,11 @@
       "title": "openai appoints dali rajic as chief revenue officer",
       "url": "openai.com/index/dali-rajic-chief-revenue-officer"
     },
+    "rss:https://openai.com/index/dan-driscoll-joins-openai": {
+      "at": "2026-11-03T12:48:49.199190+00:00",
+      "title": "openai appoints dan driscoll as senior counselor for national security modernization",
+      "url": "openai.com/index/dan-driscoll-joins-openai"
+    },
     "rss:https://openai.com/index/daybreak-for-frontline-defenders": {
       "at": "2026-09-03T21:59:42.659547+00:00",
       "title": "daybreak for frontline defenders 1b to protect essential services",
@@ -3743,6 +3768,11 @@
       "at": "2026-09-23T22:59:06.946196+00:00",
       "title": "harvey turns legal context into stronger drafts with gpt 6 astra",
       "url": "openai.com/index/harvey-from-context-to-confidence-with-astra"
+    },
+    "rss:https://openai.com/index/heimstaden": {
+      "at": "2026-11-03T12:48:49.199213+00:00",
+      "title": "heimstaden is changing residential real estate management with ai",
+      "url": "openai.com/index/heimstaden"
     },
     "rss:https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
       "at": "2026-09-16T18:14:09.223531+00:00",
@@ -3909,6 +3939,11 @@
       "title": "the lenfest institute grows landmark program with expanded openai support",
       "url": "openai.com/index/lenfest-ai-collaborative-expansion"
     },
+    "rss:https://openai.com/index/lifeval": {
+      "at": "2026-11-03T12:48:49.199044+00:00",
+      "title": "lifeval",
+      "url": "openai.com/index/lifeval"
+    },
     "rss:https://openai.com/index/loveholidays": {
       "at": "2026-08-26T11:19:14.906066+00:00",
       "title": "how loveholidays is making everyone a builder with codex",
@@ -4073,6 +4108,11 @@
       "at": "2026-09-10T17:44:00.126760+00:00",
       "title": "now everyone can put data to work",
       "url": "openai.com/index/put-data-to-work"
+    },
+    "rss:https://openai.com/index/qodo-codex-plugin": {
+      "at": "2026-11-03T12:48:49.199178+00:00",
+      "title": "qodo builds context into ai code review with codex",
+      "url": "openai.com/index/qodo-codex-plugin"
     },
     "rss:https://openai.com/index/radisson": {
       "at": "2026-10-08T00:15:14.005553+00:00",
@@ -4651,6 +4691,16 @@
       "at": "2026-11-03T03:57:32.518022+00:00",
       "title": "llm 0 37",
       "url": "simonwillison.net/2026/Nov/2/llm"
+    },
+    "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
+      "at": "2026-11-03T12:48:49.199095+00:00",
+      "title": "i discovered a sound that leaks your exact location and it s everywhere youtube",
+      "url": "simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location"
+    },
+    "rss:https://simonwillison.net/2026/Nov/3/october-newsletter/": {
+      "at": "2026-11-03T12:48:49.199225+00:00",
+      "title": "october sponsors only newsletter",
+      "url": "simonwillison.net/2026/Nov/3/october-newsletter"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -8865,6 +8915,11 @@
       "at": "2026-11-03T03:57:32.518074+00:00",
       "title": "google takes dreambeans to india in bid to bring ai generated personal stories to the masses",
       "url": "techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses"
+    },
+    "rss:https://techcrunch.com/?p=3184378": {
+      "at": "2026-11-03T12:48:49.199071+00:00",
+      "title": "apple watch s ai features for rewinding and recapping conversations begin beta testing",
+      "url": "techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing"
     },
     "rss:https://techcrunch.com/?p=3184455": {
       "at": "2026-11-03T03:57:32.518029+00:00",
@@ -16940,6 +16995,16 @@
       "title": "i found another niche use case for local llms but need some advice",
       "url": "reddit.com/r/LocalLLaMA/comments/1xmfbam/i_found_another_niche_use_case_for_local_llms_but"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmgmd8": {
+      "at": "2026-11-03T12:48:49.199136+00:00",
+      "title": "rtx 8000 48gb prices have decreased over the last two years while 3090 doubled",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmgmd8/rtx_8000_48gb_prices_have_decreased_over_the_last"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmitzx": {
+      "at": "2026-11-03T12:48:49.199024+00:00",
+      "title": "alibaba s qwen code repo just leaked qwen4 max qwen4 coder plus and qwen4 omni 120b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -17470,6 +17535,16 @@
       "title": "the agentic web is here",
       "url": "technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here"
     },
+    "rss:https://www.technologyreview.com/?p=1147932": {
+      "at": "2026-11-03T12:48:49.199116+00:00",
+      "title": "here s who is falling in line for trump s super intelligence loyalty test",
+      "url": "technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test"
+    },
+    "rss:https://www.technologyreview.com/?p=1147934": {
+      "at": "2026-11-03T12:48:49.198954+00:00",
+      "title": "how reverse game theory could keep ai agents in check",
+      "url": "technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -17509,6 +17584,11 @@
       "at": "2026-10-30T08:39:31.555848+00:00",
       "title": "ainews building aie code the top coding agent conference",
       "url": "latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference"
+    },
+    "rss:urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f": {
+      "at": "2026-11-03T12:48:49.199001+00:00",
+      "title": "ainews llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
+      "url": "latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of"
     },
     "rss:urn:latent-space:post:post_54774b7d-42cc-4a8a-bb27-dee05866ddf0": {
       "at": "2026-10-28T02:16:22.306419+00:00",
@@ -17556,6 +17636,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-03T03:57:32.518129+00:00",
+  "updated_at": "2026-11-03T12:48:49.199271+00:00",
   "version": 2
 }

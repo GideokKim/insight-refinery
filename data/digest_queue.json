@@ -1,5 +1,116 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-03T03:57:29.471624+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1147934",
+        "title": "How “reverse game theory” could keep AI agents in check",
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+        "author": "Amit Katwala",
+        "published_at": "2026-11-03T10:43:41+00:00"
+      },
+      "insight": {
+        "title_ko": "역게임이론을 통한 AI 에이전트 통제 기법",
+        "summary_ko": [
+          "역게임이론과 메커니즘 디자인은 AI의 내부를 이해하는 대신 원하는 행동을 유도하는 규칙을 설계하는 새로운 접근법입니다.",
+          "연구진은 모델 간의 교차 검증이나 상호 경쟁 구조를 통해 AI가 테스트에서 의도적으로 성능을 숨기는 행위를 방지하고자 합니다.",
+          "인간 사회의 규범과 사법 체계에서 영감을 받아 상호 감시 및 보상 체계를 구축하는 방안도 제시되고 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f",
+        "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+        "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-03T05:35:00+00:00"
+      },
+      "insight": {
+        "title_ko": "LLM의 가중치 직접 조작 기술",
+        "summary_ko": [
+          "최근 연구에 따르면 LLM이 소스 코드 작성 대신 소형 신경망의 가중치를 직접 읽고 수정할 수 있음이 밝혀졌다.",
+          "이러한 Weight Space Programming 기법은 복잡한 학습 루프 없이도 모델의 버그를 수정하고 가중치를 직접 생성하는 능력을 보여준다.",
+          "또한 DeepSeek은 병렬 작업 처리를 위한 슈퍼에이전트 하네스 프로토타입을 오픈소스화하여 실무적 관심을 모았다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xmitzx",
+        "title": "Alibaba's Qwen Code repo just leaked qwen4-max, qwen4-coder-plus, and qwen4-omni-120b",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmitzx/alibabas_qwen_code_repo_just_leaked_qwen4max/",
+        "author": "/u/feelspeaceman",
+        "published_at": "2026-11-03T03:55:43+00:00"
+      },
+      "insight": {
+        "title_ko": "Alibaba Qwen 코드 저장소에서 차세대 모델 유출",
+        "summary_ko": [
+          "Alibaba의 Qwen Code GitHub 저장소에서 차세대 모델명이 대거 유출되었습니다.",
+          "유출된 PR 내역에는 qwen4-max와 qwen4-coder-plus, qwen4-omni-120b 등의 신규 모델 ID가 포함되어 있습니다.",
+          "일부 모델은 이미 옴니 테스트 환경에서 세션 모델로 사용 중인 것으로 확인되었습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/lifeval",
+        "title": "LifeVal",
+        "url": "https://openai.com/index/lifeval",
+        "author": null,
+        "published_at": "2026-11-02T09:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "일상 업무 지원 AI 벤치마크 LifeVal 공개",
+        "summary_ko": [
+          "OpenAI가 육아, 금융 관리, 정부 서류 처리 등 일상적인 작업을 AI가 얼마나 잘 돕는지 측정하는 벤치마크인 LifeVal을 발표했다.",
+          "이 벤치마크는 AI 모델의 실생활 실무 지원 능력을 평가하는 데 중점을 둔다.",
+          "실무자들은 이를 통해 일상 영역에서의 LLM 활용성과 성능을 객관적으로 비교할 수 있다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50334038",
+        "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+        "author": "jonnybgood",
+        "published_at": "2026-11-02T07:27:28+00:00"
+      },
+      "insight": {
+        "title_ko": "중국의 첫 프론티어 AI 수출 통제 정책 발표",
+        "summary_ko": [
+          "중국 상무부가 프론티어 AI 기술에 대한 첫 수출 통제 조치인 공고 제48호를 발표했다.",
+          "해당 조치는 글로벌 AI 공급망과 기술 경쟁 구도에 중요한 영향을 미칠 것으로 예상된다.",
+          "관련 연구 노트는 이번 수출 통제 규정의 세부 내용과 시사점을 분석하고 있다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
