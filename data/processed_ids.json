@@ -1525,6 +1525,11 @@
       "title": "using ai agents to teach robots like microduck to walk in simulation",
       "url": "developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124039": {
+      "at": "2026-11-04T20:51:32.121371+00:00",
+      "title": "how nvidia factory operations blueprint coordinates ai agents to investigate production issues",
+      "url": "developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124071": {
       "at": "2026-10-23T23:09:50.024634+00:00",
       "title": "scaling nvidia tensorrt performance optimization beyond a single build route with the global performance tuner part 1",
@@ -1575,6 +1580,11 @@
       "title": "build specialized agents on a stack you control with nvidia nemoclaw",
       "url": "developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124389": {
+      "at": "2026-11-04T20:51:32.121383+00:00",
+      "title": "use nvidia nemo to turn agent failures into tests and harness fixes",
+      "url": "developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124402": {
       "at": "2026-11-02T20:48:28.854534+00:00",
       "title": "build world models for interactive simulation with nvidia cosmos",
@@ -1595,6 +1605,11 @@
       "title": "run ai models for edge application development with just a few commands",
       "url": "developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124464": {
+      "at": "2026-11-04T20:51:32.121245+00:00",
+      "title": "nvidia cuda 13 5 brings nvidia vera rubin ga support",
+      "url": "developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124491": {
       "at": "2026-11-03T03:57:32.517902+00:00",
       "title": "keep distributed training running with automated workload recovery",
@@ -1604,6 +1619,11 @@
       "at": "2026-11-03T03:57:32.517839+00:00",
       "title": "diagnose distributed ai workload failures with nvidia attribution",
       "url": "developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution"
+    },
+    "rss:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
+      "at": "2026-11-04T20:51:32.121355+00:00",
+      "title": "dharma field extractor any document in structured fields in json out",
+      "url": "huggingface.co/blog/Dharma-AI/dharma-field-extractor"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/gpu-management": {
       "at": "2026-08-19T17:19:19.683335+00:00",
@@ -3729,6 +3749,11 @@
       "title": "daybreak for frontline defenders 1b to protect essential services",
       "url": "openai.com/index/daybreak-for-frontline-defenders"
     },
+    "rss:https://openai.com/index/daybreak-red-aws-govcloud": {
+      "at": "2026-11-04T20:51:32.121440+00:00",
+      "title": "daybreak red is now available in aws govcloud us east",
+      "url": "openai.com/index/daybreak-red-aws-govcloud"
+    },
     "rss:https://openai.com/index/decisions-api": {
       "at": "2026-10-22T23:23:30.353059+00:00",
       "title": "build more responsive apps with the decisions api",
@@ -4109,6 +4134,11 @@
       "title": "openai acquires orchestra bio",
       "url": "openai.com/index/openai-to-acquire-orchestra-bio"
     },
+    "rss:https://openai.com/index/openai-to-acquire-pierre": {
+      "at": "2026-11-04T20:51:32.121567+00:00",
+      "title": "openai to acquire pierre computer company inc",
+      "url": "openai.com/index/openai-to-acquire-pierre"
+    },
     "rss:https://openai.com/index/oracle": {
       "at": "2026-10-08T18:01:12.187016+00:00",
       "title": "how oracle turns days of work into minutes with chatgpt and codex",
@@ -4451,6 +4481,11 @@
       "at": "2026-08-25T20:15:22.693539+00:00",
       "title": "agenthands generating interactive hand gestures for spatially grounded agent conversations in xr",
       "url": "research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr"
+    },
+    "rss:https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/": {
+      "at": "2026-11-04T20:51:32.121498+00:00",
+      "title": "agile deliberation how ai helps humans define the gray areas",
+      "url": "research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas"
     },
     "rss:https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/": {
       "at": "2026-08-21T17:19:01.959766+00:00",
@@ -4796,6 +4831,11 @@
       "at": "2026-11-03T20:31:43.801547+00:00",
       "title": "qwen 3 8 27b on my laptop can interpret model weights too",
       "url": "simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights"
+    },
+    "rss:https://simonwillison.net/2026/Nov/4/datasette-llm/": {
+      "at": "2026-11-04T20:51:32.121553+00:00",
+      "title": "datasette llm 0 1a10",
+      "url": "simonwillison.net/2026/Nov/4/datasette-llm"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -9086,6 +9126,26 @@
       "title": "data centers are turning to old jet engines as the wait for power grows",
       "url": "techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows"
     },
+    "rss:https://techcrunch.com/?p=3185013": {
+      "at": "2026-11-04T20:51:32.121611+00:00",
+      "title": "techcrunch founder summit 2026 doors open at 9 a m et in boston",
+      "url": "techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day"
+    },
+    "rss:https://techcrunch.com/?p=3185071": {
+      "at": "2026-11-04T20:51:32.121524+00:00",
+      "title": "i tried apple s siri recaps they re surprisingly useful and a little unsettling",
+      "url": "techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling"
+    },
+    "rss:https://techcrunch.com/?p=3185072": {
+      "at": "2026-11-04T20:51:32.121541+00:00",
+      "title": "google faces backlash for plan that would turn off search for schools that restrict ai",
+      "url": "techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai"
+    },
+    "rss:https://techcrunch.com/?p=3185129": {
+      "at": "2026-11-04T20:51:32.121587+00:00",
+      "title": "duckduckgo pitches itself to schools amid backlash over google s ai policy",
+      "url": "techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -9141,6 +9201,11 @@
       "title": "the vulnpocalypse is coming for the internet s aging code says wiz s cto",
       "url": "techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3185167": {
+      "at": "2026-11-04T20:51:32.121480+00:00",
+      "title": "building on open source ai hugging face s policy chief on the costs risks and trade offs",
+      "url": "techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -9190,6 +9255,11 @@
       "at": "2026-10-28T19:35:25.771143+00:00",
       "title": "wiz s cto on php2shell and the coming vulnpocalypse",
       "url": "techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3185186": {
+      "at": "2026-11-04T20:51:32.121453+00:00",
+      "title": "open source ai is booming hugging face explains who profits",
+      "url": "techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -17265,6 +17335,46 @@
       "title": "axion1 0 axion 1 0 35b hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnjwte": {
+      "at": "2026-11-04T20:51:32.121578+00:00",
+      "title": "using strata iq4 qwen flash to edit qwen 3 5 0 6b weight based on mit csail",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnoqyy": {
+      "at": "2026-11-04T20:51:32.121415+00:00",
+      "title": "i removed 85 of gemma s weights and it is mostly fine",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnoqyy/i_removed_85_of_gemmas_weights_and_it_is_mostly"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnqxlq": {
+      "at": "2026-11-04T20:51:32.121603+00:00",
+      "title": "i am big enough to admit that this is me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnqxlq/i_am_big_enough_to_admit_that_this_is_me"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnr6zd": {
+      "at": "2026-11-04T20:51:32.121596+00:00",
+      "title": "my gift to the mods",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnr6zd/my_gift_to_the_mods"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnrhvb": {
+      "at": "2026-11-04T20:51:32.121400+00:00",
+      "title": "kimi k3 1 pro is now open weights",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnuva2": {
+      "at": "2026-11-04T20:51:32.121511+00:00",
+      "title": "unsloth qwen3 8 flash next ggufs v3 1 update november 4th 2026",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnuva2/unsloth_qwen38flashnext_ggufs_v31_update_november"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnvbxn": {
+      "at": "2026-11-04T20:51:32.121317+00:00",
+      "title": "new qwen3 8 flash next unsloth dynamic v3 1 ggufs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnvbxn/new_qwen38flashnext_unsloth_dynamic_v31_ggufs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnx3cs": {
+      "at": "2026-11-04T20:51:32.121464+00:00",
+      "title": "ricursiveai ripple 65b preview hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -17755,6 +17865,11 @@
       "title": "making the internet better for ai agents might make it worse for everyone else",
       "url": "technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     },
+    "rss:https://www.technologyreview.com/?p=1147596": {
+      "at": "2026-11-04T20:51:32.121429+00:00",
+      "title": "securing the agentic enterprise with data lineage",
+      "url": "technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage"
+    },
     "rss:https://www.technologyreview.com/?p=1147637": {
       "at": "2026-10-28T19:35:25.771396+00:00",
       "title": "pairing industrial ai autonomy and human control",
@@ -17804,6 +17919,11 @@
       "at": "2026-11-03T12:48:49.198954+00:00",
       "title": "how reverse game theory could keep ai agents in check",
       "url": "technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment"
+    },
+    "rss:https://www.technologyreview.com/?p=1148043": {
+      "at": "2026-11-04T20:51:32.121301+00:00",
+      "title": "texas was the new epicenter of the ai data center buildout that might be kaput",
+      "url": "technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput"
     },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
@@ -17865,6 +17985,11 @@
       "title": "can frontier models see past a decoy elorian tests visual reasoning",
       "url": "latent.space/p/elorian"
     },
+    "rss:urn:latent-space:post:post_648fd7ef-adde-48f2-8823-488d55480202": {
+      "at": "2026-11-04T20:51:32.121282+00:00",
+      "title": "ainews behind latent space kill my saas jev ai in 2026 aiei shanghai",
+      "url": "latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai"
+    },
     "rss:urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42": {
       "at": "2026-10-27T21:20:39.162290+00:00",
       "title": "how anthropic ships claude with claude separating the brain from the hands",
@@ -17896,6 +18021,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-04T13:04:20.901067+00:00",
+  "updated_at": "2026-11-04T20:51:32.121648+00:00",
   "version": 2
 }
