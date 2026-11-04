@@ -3471,6 +3471,11 @@
       "title": "postman silently auto installs ai plugins and attempts to share all api data",
       "url": "github.com/postmanlabs/postman-app-support/issues/14370"
     },
+    "rss:https://news.ycombinator.com/item?id=50355767": {
+      "at": "2026-11-04T13:04:20.901009+00:00",
+      "title": "how i use ai oct 2026",
+      "url": "ben.stolovitz.com/posts/how-use-ai-oct-2026"
+    },
     "rss:https://news.ycombinator.com/item?id=50358422": {
       "at": "2026-11-04T03:01:01.667196+00:00",
       "title": "us tech giants hidden ai debt swells 90 to 3 2t in 6 months",
@@ -3480,6 +3485,16 @@
       "at": "2026-11-04T03:01:01.667355+00:00",
       "title": "the little book of generative ai foundations an intuitive mathematical primer",
       "url": "arxiv.org/abs/2605.29713"
+    },
+    "rss:https://news.ycombinator.com/item?id=50363554": {
+      "at": "2026-11-04T13:04:20.900932+00:00",
+      "title": "geoffrey hinton it might turn out we were better off without ai",
+      "url": "theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
+    },
+    "rss:https://news.ycombinator.com/item?id=50364336": {
+      "at": "2026-11-04T13:04:20.900912+00:00",
+      "title": "ai is forcing us to pay off 40 years of technical debt",
+      "url": "spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -17175,6 +17190,21 @@
       "title": "what qwen is thinking when it gets stuck saying wait",
       "url": "reddit.com/r/LocalLLaMA/comments/1xms9ii/what_qwen_is_thinking_when_it_gets_stuck_saying"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmt6kb": {
+      "at": "2026-11-04T13:04:20.900975+00:00",
+      "title": "strata is the shit",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmt6kb/strata_is_the_shit"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmvn4q": {
+      "at": "2026-11-04T13:04:20.901032+00:00",
+      "title": "four open coding models prompted to finish an upload url analysis",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmvn4q/four_open_coding_models_prompted_to_finish_an"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmwryg": {
+      "at": "2026-11-04T13:04:20.901017+00:00",
+      "title": "we re the product team at reflection the lab behind beam ask us anything",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmz9ca": {
       "at": "2026-11-03T20:31:43.801617+00:00",
       "title": "like gpt 6 astra qwen 3 8 27b can interpret model weights",
@@ -17195,6 +17225,11 @@
       "title": "tokens s world s biggest pcie graphics card discovered prototype amd radeon rx 470 board with four gpus has been pictured",
       "url": "reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn4qn1": {
+      "at": "2026-11-04T13:04:20.900961+00:00",
+      "title": "basalt 0 2 0 qwen 3 8 flash next nvfp4 300 t s prose 600 t s struct 10k t s prefill on a 5090 5060 ti and 128gb ram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xn4qn1/basalt_020_qwen_38_flash_next_nvfp4_300_ts_prose"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn568h": {
       "at": "2026-11-04T03:01:01.667244+00:00",
       "title": "british fintech revolut slashes ai coding costs 10x by cutting out claude and going self hosted",
@@ -17209,6 +17244,26 @@
       "at": "2026-11-04T03:01:01.667435+00:00",
       "title": "llama cpp fork qfn specific quant ultra specific hardware config incredible and irreproducible pp and tg",
       "url": "reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnervh": {
+      "at": "2026-11-04T13:04:20.900950+00:00",
+      "title": "deep principle hydrogen 1 0 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnervh/deepprinciplehydrogen10_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnfzky": {
+      "at": "2026-11-04T13:04:20.900997+00:00",
+      "title": "b70 price increase incoming intel might discontinue the arc b580 to prioritize higher margin arc pro cards",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnfzky/b70_price_increase_incoming_intel_might"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnhzbz": {
+      "at": "2026-11-04T13:04:20.900983+00:00",
+      "title": "introducing hy4 open weights soon",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnhzbz/introducing_hy4_open_weights_soon"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnjiu4": {
+      "at": "2026-11-04T13:04:20.900863+00:00",
+      "title": "axion1 0 axion 1 0 35b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17841,6 +17896,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-04T03:01:01.667482+00:00",
+  "updated_at": "2026-11-04T13:04:20.901067+00:00",
   "version": 2
 }

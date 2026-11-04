@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-04T03:00:59.149340+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xnjiu4",
+        "title": "Axion1-0/Axion-1.0-35B · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnjiu4/axion10axion1035b_hugging_face/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-04T09:02:58+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈 에이전트 파운데이션 모델 Axion 1.0 공개",
+        "summary_ko": [
+          "Axion 1.0은 단순화된 3단계 학습 레시피를 통해 강력한 에이전트 기능을 제공하는 완전 오픈소스 파운데이션 모델입니다.",
+          "모델 인식 데이터 구축과 강화학습을 활용하여 자체 추론 및 도구 연동 능력을 효과적으로 향상시켰습니다.",
+          "모델 가중치뿐만 아니라 데이터 생성, 필터링, 학습 코드 등 전체 개발 과정을 투명하게 공개했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
