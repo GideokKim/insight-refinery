@@ -340,6 +340,11 @@
       "title": "google will let schools skip ai tools but they have to give up search too",
       "url": "arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too"
     },
+    "rss:https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/": {
+      "at": "2026-11-04T03:01:01.667378+00:00",
+      "title": "ukraine s drone strikes spur hasty russian plans for underground data centers",
+      "url": "arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -1789,6 +1794,11 @@
       "at": "2026-10-09T00:25:08.392493+00:00",
       "title": "the model that didn t exist so you made it yourself",
       "url": "huggingface.co/blog/building-with-ml-intern"
+    },
+    "rss:https://huggingface.co/blog/cwe-bench": {
+      "at": "2026-11-04T03:01:01.667290+00:00",
+      "title": "cwe bench v2 more coverage quality and transparency",
+      "url": "huggingface.co/blog/cwe-bench"
     },
     "rss:https://huggingface.co/blog/evaleval-aisi": {
       "at": "2026-09-22T18:13:43.596069+00:00",
@@ -3461,6 +3471,16 @@
       "title": "postman silently auto installs ai plugins and attempts to share all api data",
       "url": "github.com/postmanlabs/postman-app-support/issues/14370"
     },
+    "rss:https://news.ycombinator.com/item?id=50358422": {
+      "at": "2026-11-04T03:01:01.667196+00:00",
+      "title": "us tech giants hidden ai debt swells 90 to 3 2t in 6 months",
+      "url": "asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+    },
+    "rss:https://news.ycombinator.com/item?id=50358582": {
+      "at": "2026-11-04T03:01:01.667355+00:00",
+      "title": "the little book of generative ai foundations an intuitive mathematical primer",
+      "url": "arxiv.org/abs/2605.29713"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3953,6 +3973,11 @@
       "at": "2026-08-25T17:21:53.012020+00:00",
       "title": "jalapeño s first results show industry leading speed and efficiency in ai inference",
       "url": "openai.com/index/jalapeno-first-results"
+    },
+    "rss:https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer": {
+      "at": "2026-11-04T03:01:01.667427+00:00",
+      "title": "openai appoints jill hazelbaker as chief corporate affairs officer",
+      "url": "openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
     },
     "rss:https://openai.com/index/jump-trading": {
       "at": "2026-10-07T02:24:06.366898+00:00",
@@ -9016,6 +9041,11 @@
       "title": "anthropic is still grappling with the economics of compute",
       "url": "techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute"
     },
+    "rss:https://techcrunch.com/?p=3184699": {
+      "at": "2026-11-04T03:01:01.667366+00:00",
+      "title": "hiding inside palantir s skyrocketing quarter is a foreboding signal",
+      "url": "techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal"
+    },
     "rss:https://techcrunch.com/?p=3184717": {
       "at": "2026-11-03T20:31:43.801599+00:00",
       "title": "netflix s new ai discover tab helps you find something to watch based on your mood",
@@ -9025,6 +9055,21 @@
       "at": "2026-11-03T20:31:43.801592+00:00",
       "title": "ai inference startup fal doubles its valuation to 16b as demand surges",
       "url": "techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges"
+    },
+    "rss:https://techcrunch.com/?p=3184842": {
+      "at": "2026-11-04T03:01:01.667396+00:00",
+      "title": "ted schlein s ballistic ventures seeks 490m for new funds amid ai driven cybersecurity boom",
+      "url": "techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom"
+    },
+    "rss:https://techcrunch.com/?p=3184891": {
+      "at": "2026-11-04T03:01:01.667310+00:00",
+      "title": "anthropic is working on a system to prove ai models identity",
+      "url": "techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity"
+    },
+    "rss:https://techcrunch.com/?p=3184896": {
+      "at": "2026-11-04T03:01:01.667328+00:00",
+      "title": "data centers are turning to old jet engines as the wait for power grows",
+      "url": "techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -17110,10 +17155,20 @@
       "title": "deepseek v5 is planned to be pre trained on huawei ascend chips",
       "url": "reddit.com/r/LocalLLaMA/comments/1xmmadn/deepseek_v5_is_planned_to_be_pretrained_on_huawei"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmolk6": {
+      "at": "2026-11-04T03:01:01.667387+00:00",
+      "title": "qwen3 8 flash next local vs claude",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xmolk6/qwen38flashnext_local_vs_claude"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xmqq2a": {
       "at": "2026-11-03T20:31:43.801576+00:00",
       "title": "rtx 5090 with 64gb and 96gb vram confirmed by us gpu repair tech",
       "url": "reddit.com/r/LocalLLaMA/comments/1xmqq2a/rtx_5090_with_64gb_and_96gb_vram_confirmed_by_us"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xms6eq": {
+      "at": "2026-11-04T03:01:01.667447+00:00",
+      "title": "is qwen 3 8 27b still the king",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xms6eq/is_qwen_38_27b_still_the_king"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xms9ii": {
       "at": "2026-11-03T20:31:43.801655+00:00",
@@ -17129,6 +17184,31 @@
       "at": "2026-11-03T20:31:43.801478+00:00",
       "title": "i tried mit s weight space programming on my own use case claude rewrote 8 neurons of gemma 4 12b to change how it translates one italian tense",
       "url": "reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn2jyz": {
+      "at": "2026-11-04T03:01:01.667418+00:00",
+      "title": "what do people with normal hardware 32gb ram 16gb vram run",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn40w7": {
+      "at": "2026-11-04T03:01:01.667407+00:00",
+      "title": "tokens s world s biggest pcie graphics card discovered prototype amd radeon rx 470 board with four gpus has been pictured",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xn40w7/tokenss_worlds_biggest_pcie_graphics_card"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn568h": {
+      "at": "2026-11-04T03:01:01.667244+00:00",
+      "title": "british fintech revolut slashes ai coding costs 10x by cutting out claude and going self hosted",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn6mm0": {
+      "at": "2026-11-04T03:01:01.667340+00:00",
+      "title": "gemma4 graph optimizations massive gains on pp for e2b and e4b by max krasnyansky pull request 31356 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xn6mm0/gemma4_graph_optimizations_massive_gains_on_pp"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xn7rfh": {
+      "at": "2026-11-04T03:01:01.667435+00:00",
+      "title": "llama cpp fork qfn specific quant ultra specific hardware config incredible and irreproducible pp and tg",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -17761,6 +17841,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-03T20:31:43.801712+00:00",
+  "updated_at": "2026-11-04T03:01:01.667482+00:00",
   "version": 2
 }
