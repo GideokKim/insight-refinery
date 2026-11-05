@@ -980,6 +980,11 @@
       "title": "gemini omni 1 1 flash lets you build with more control",
       "url": "deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control"
     },
+    "rss:https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": {
+      "at": "2026-11-05T21:08:12.372553+00:00",
+      "title": "gemini omni 1 2 flash fast and cost effective with longer clips",
+      "url": "deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"
+    },
     "rss:https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
       "at": "2026-10-27T21:20:39.162422+00:00",
       "title": "genie 4 a new generation of world simulation",
@@ -1630,6 +1635,16 @@
       "title": "diagnose distributed ai workload failures with nvidia attribution",
       "url": "developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124533": {
+      "at": "2026-11-05T21:08:12.372636+00:00",
+      "title": "five ways nvidia co design maximizes the value of every byte in the ai factory",
+      "url": "developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124575": {
+      "at": "2026-11-05T21:08:12.372583+00:00",
+      "title": "configure certify and operate kubernetes gpu clusters with nvidia dsx os",
+      "url": "developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124627": {
       "at": "2026-11-05T03:31:15.321712+00:00",
       "title": "how nvidia uses ai agents to streamline ai factory operations",
@@ -1977,6 +1992,11 @@
       "at": "2026-08-19T17:19:19.683237+00:00",
       "title": "nvidia cosmos h dreams bringing real time generative simulation to surgical robotics",
       "url": "huggingface.co/blog/nvidia/cosmos-h-dreams"
+    },
+    "rss:https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation": {
+      "at": "2026-11-05T21:08:12.372500+00:00",
+      "title": "new nvidia cosmos 3 open models for interactive world simulation",
+      "url": "huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
     },
     "rss:https://huggingface.co/blog/nvidia/cosmos3-h-dreams": {
       "at": "2026-10-20T18:32:12.064976+00:00",
@@ -3551,6 +3571,11 @@
       "title": "everything is an ai scam now",
       "url": "davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now"
     },
+    "rss:https://news.ycombinator.com/item?id=50382179": {
+      "at": "2026-11-05T21:08:12.372731+00:00",
+      "title": "nasdaq sinks 5 as investors retreat from ai trade after election",
+      "url": "wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -4567,6 +4592,11 @@
       "title": "automating coherent long form video generation",
       "url": "research.google/blog/coherent-long-form-video-generation"
     },
+    "rss:https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/": {
+      "at": "2026-11-05T21:08:12.372713+00:00",
+      "title": "detecting signs of hypertension using wearable sensors",
+      "url": "research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors"
+    },
     "rss:https://research.google/blog/does-better-work-always-mean-better-workers/": {
       "at": "2026-10-08T00:15:14.005568+00:00",
       "title": "does better work always mean better workers",
@@ -4906,6 +4936,11 @@
       "at": "2026-11-04T20:51:32.121553+00:00",
       "title": "datasette llm 0 1a10",
       "url": "simonwillison.net/2026/Nov/4/datasette-llm"
+    },
+    "rss:https://simonwillison.net/2026/Nov/5/paul-ford/": {
+      "at": "2026-11-05T21:08:12.372739+00:00",
+      "title": "quoting paul ford",
+      "url": "simonwillison.net/2026/Nov/5/paul-ford"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -9261,6 +9296,51 @@
       "title": "after the midterms a bigger clash over data centers could be coming",
       "url": "techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming"
     },
+    "rss:https://techcrunch.com/?p=3185344": {
+      "at": "2026-11-05T21:08:12.372617+00:00",
+      "title": "axiom math wants to keep ai slop out of mathematics",
+      "url": "techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics"
+    },
+    "rss:https://techcrunch.com/?p=3185356": {
+      "at": "2026-11-05T21:08:12.372745+00:00",
+      "title": "aina s smart ring has a screen a joystick and a mic so you can talk to ai agents",
+      "url": "techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents"
+    },
+    "rss:https://techcrunch.com/?p=3185377": {
+      "at": "2026-11-05T21:08:12.372663+00:00",
+      "title": "box taps nvidia s nemotron for new agent first content retrieval system",
+      "url": "techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system"
+    },
+    "rss:https://techcrunch.com/?p=3185414": {
+      "at": "2026-11-05T21:08:12.372699+00:00",
+      "title": "openai released a new cybersecurity model is that enough",
+      "url": "techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough"
+    },
+    "rss:https://techcrunch.com/?p=3185428": {
+      "at": "2026-11-05T21:08:12.372645+00:00",
+      "title": "dropbox acquires tigris data for 350m to bolster its ai infrastructure",
+      "url": "techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure"
+    },
+    "rss:https://techcrunch.com/?p=3185468": {
+      "at": "2026-11-05T21:08:12.372706+00:00",
+      "title": "claude can now analyze your spending with its new personal finance tool",
+      "url": "techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool"
+    },
+    "rss:https://techcrunch.com/?p=3185500": {
+      "at": "2026-11-05T21:08:12.372543+00:00",
+      "title": "openai president greg brockman says company could be ipo ready in 2027",
+      "url": "techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027"
+    },
+    "rss:https://techcrunch.com/?p=3185548": {
+      "at": "2026-11-05T21:08:12.372692+00:00",
+      "title": "meta warns that election backlash against data centers could make ai expansion harder",
+      "url": "techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder"
+    },
+    "rss:https://techcrunch.com/?p=3185610": {
+      "at": "2026-11-05T21:08:12.372685+00:00",
+      "title": "meta says us users can now video chat with their muse ai avatar",
+      "url": "techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -9865,6 +9945,11 @@
       "at": "2026-10-30T17:03:26.348161+00:00",
       "title": "from synthetic enterprise data evaluations to real microsoft copilot ai confidence",
       "url": "microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1191852": {
+      "at": "2026-11-05T21:08:12.372628+00:00",
+      "title": "formally verifying agent written full stack web apps with pdd kit",
+      "url": "microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit"
     },
     "rss:https://www.microsoft.com/en-us/research/?p=1191933": {
       "at": "2026-10-29T23:57:38.036971+00:00",
@@ -17540,6 +17625,41 @@
       "title": "qwen3 8 27b has become unuseable recently",
       "url": "reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoiaye": {
+      "at": "2026-11-05T21:08:12.372674+00:00",
+      "title": "an open source project just ranked 1 on enterpriserag bench ahead of the listed systems from openai google microsoft and amazon",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoiaye/an_opensource_project_just_ranked_1_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoji3b": {
+      "at": "2026-11-05T21:08:12.372653+00:00",
+      "title": "getting editable layers out of qwen image 2 1 a model that only edits what works what still fails local open source kokon",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoji3b/getting_editable_layers_out_of_qwenimage_21_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xojryw": {
+      "at": "2026-11-05T21:08:12.372720+00:00",
+      "title": "nvidia rtx pro 5500 blackwell appears at 17 999 msrp higher than rtx pro 6000 at 16 000 msrp set some months ago by nvidia videocardz",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xojryw/nvidia_rtx_pro_5500_blackwell_appears_at_17999"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xomst7": {
+      "at": "2026-11-05T21:08:12.372605+00:00",
+      "title": "paper fireflash an open recipe for long horizon agentic rl achieving the performance cost pareto frontier",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xomst7/paper_fireflash_an_open_recipe_for_longhorizon"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoo0pp": {
+      "at": "2026-11-05T21:08:12.372437+00:00",
+      "title": "paper specopd branch parallel on policy distillation for speculative decoding by qwen",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoo0pp/paper_specopd_branchparallel_onpolicy"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoq4vq": {
+      "at": "2026-11-05T21:08:12.372514+00:00",
+      "title": "deepseek v4 1 flash 1017 on one rtx 3090 big updates to the delta inference engine v0 93 same 41 tok s at 192gb iq2 at better quality usable from 64 gb ram first token 40 sooner new unsloth quants at full speed exl3 basic multi gpu public ci and more",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xossr5": {
+      "at": "2026-11-05T21:08:12.372478+00:00",
+      "title": "z ai chief scientist jie tang just revealed the training pipeline behind the upcoming glm 5 5 32b 122b and 256b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -18191,6 +18311,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-05T13:15:07.645085+00:00",
+  "updated_at": "2026-11-05T21:08:12.372783+00:00",
   "version": 2
 }
