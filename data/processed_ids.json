@@ -330,6 +330,11 @@
       "title": "singer or clanker youtube music will tell you with new gen ai labeling",
       "url": "arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs"
     },
+    "rss:https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/": {
+      "at": "2026-11-05T13:15:07.644897+00:00",
+      "title": "agility robotics nasdaq debut invites scrutiny of humanoid robot market",
+      "url": "arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market"
+    },
     "rss:https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/": {
       "at": "2026-11-02T20:48:28.854683+00:00",
       "title": "claude s new rules against game cloning won t stop the ai copying boom",
@@ -2042,6 +2047,11 @@
       "at": "2026-09-30T16:51:17.984894+00:00",
       "title": "open tts leaderboard scalable evaluation for multilingual text to speech and voice cloning",
       "url": "huggingface.co/blog/open-tts-leaderboard"
+    },
+    "rss:https://huggingface.co/blog/phonon-tts": {
+      "at": "2026-11-05T13:15:07.644931+00:00",
+      "title": "a closer look at phonon tts launching high quality on device speech that tops the benchmarks",
+      "url": "huggingface.co/blog/phonon-tts"
     },
     "rss:https://huggingface.co/blog/pwc-search": {
       "at": "2026-08-25T14:38:26.133980+00:00",
@@ -4353,6 +4363,11 @@
       "at": "2026-10-14T18:40:13.644761+00:00",
       "title": "sentinelone cuts malware analysis from weeks to hours",
       "url": "openai.com/index/sentinelone"
+    },
+    "rss:https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+      "at": "2026-11-05T13:15:07.644961+00:00",
+      "title": "setting a new standard for responsible ai infrastructure",
+      "url": "openai.com/index/setting-new-standard-responsible-ai-infrastructure"
     },
     "rss:https://openai.com/index/sophos": {
       "at": "2026-10-09T17:29:55.217253+00:00",
@@ -9201,6 +9216,11 @@
       "title": "duckduckgo pitches itself to schools amid backlash over google s ai policy",
       "url": "techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy"
     },
+    "rss:https://techcrunch.com/?p=3185147": {
+      "at": "2026-11-05T13:15:07.644990+00:00",
+      "title": "agility is the first pure humanoid robot company on the stock market are you buying",
+      "url": "techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying"
+    },
     "rss:https://techcrunch.com/?p=3185152": {
       "at": "2026-11-05T03:31:15.321847+00:00",
       "title": "openai is already trying to shape the 2028 election",
@@ -9220,6 +9240,11 @@
       "at": "2026-11-05T03:31:15.321933+00:00",
       "title": "almost no one uses ai agents to book their uber company says",
       "url": "techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says"
+    },
+    "rss:https://techcrunch.com/?p=3185211": {
+      "at": "2026-11-05T13:15:07.644859+00:00",
+      "title": "a yc startup is putting 1m behind five unsolved materials science problems for ai",
+      "url": "techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai"
     },
     "rss:https://techcrunch.com/?p=3185268": {
       "at": "2026-11-05T03:31:15.321922+00:00",
@@ -17460,6 +17485,11 @@
       "title": "lfm3 omni 2b running fully offline on my iphone 18 pro max at 80 tok s powered by custom webgpu kernels in a react native app",
       "url": "reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnu6y1": {
+      "at": "2026-11-05T13:15:07.644973+00:00",
+      "title": "kimi k3 1 is likely benchmaxxed with some proof",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnu6y1/kimi_k31_is_likely_benchmaxxed_with_some_proof"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnuva2": {
       "at": "2026-11-04T20:51:32.121511+00:00",
       "title": "unsloth qwen3 8 flash next ggufs v3 1 update november 4th 2026",
@@ -17480,10 +17510,35 @@
       "title": "deepseek alone accounted for 53 of all 27 trillion tokens on openrouter yesterday open weights labs totaling over 75 now",
       "url": "reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnzo38": {
+      "at": "2026-11-05T13:15:07.645019+00:00",
+      "title": "qwen3 8 27b q4 on my low end laptop and it became my main model usage for coding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnzo38/qwen38_27b_q4_on_my_lowend_laptop_and_it_became"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xo2arv": {
       "at": "2026-11-05T03:31:15.321692+00:00",
       "title": "ricursive intelligence ripple 65b preview new dense model",
       "url": "reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xo3ikc": {
+      "at": "2026-11-05T13:15:07.645043+00:00",
+      "title": "what are you looking forward to in qwen 4",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xobe4h": {
+      "at": "2026-11-05T13:15:07.644915+00:00",
+      "title": "ccore glb 3d coder 4b final model and full weights are out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xobzg3": {
+      "at": "2026-11-05T13:15:07.645033+00:00",
+      "title": "qwen be like",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xobzg3/qwen_be_like"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoeeyf": {
+      "at": "2026-11-05T13:15:07.645007+00:00",
+      "title": "qwen3 8 27b has become unuseable recently",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18129,8 +18184,13 @@
       "at": "2026-10-29T00:00:51.638859+00:00",
       "title": "why agents love supabase",
       "url": "latent.space/p/supabase"
+    },
+    "rss:urn:latent-space:post:post_fd221542-e3ff-41a0-bb96-ef372fda447e": {
+      "at": "2026-11-05T13:15:07.644947+00:00",
+      "title": "ainews it s swapping season",
+      "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-05T03:31:15.322002+00:00",
+  "updated_at": "2026-11-05T13:15:07.645085+00:00",
   "version": 2
 }

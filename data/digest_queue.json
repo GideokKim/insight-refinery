@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-05T03:31:12.489271+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3185211",
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+        "author": "Tim Fernholz",
+        "published_at": "2026-11-05T13:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "YC 스타트업 AI 소재 과제에 100만 달러",
+        "summary_ko": [
+          "Discovered Materials는 YC에서 설립된 AI 기반 소재 탐색 스타트업이다.",
+          "이 회사는 5개의 미해결 소재 과제에 대해 각 200,000달러를 제공한다.",
+          "AI가 소재 설계와 실험을 가속화해 산업 혁신을 촉진할 전망이다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+        "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+        "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+        "author": "Jeremy Hsu",
+        "published_at": "2026-11-05T12:00:41+00:00"
+      },
+      "insight": {
+        "title_ko": "Agility Robotics의 나스닥 상장과 휴머노이드 시장",
+        "summary_ko": [
+          "미국 최초의 휴머노이드 로봇 전문 기업 Agility Robotics가 나스닥에 상장하며 시장의 이목을 집중시켰습니다.",
+          "이들은 증권 신고서를 통해 휴머노이드 로봇이 대규모 상용화 단계에 이르지 못했으며 여전히 검증이 필요하다고 인정했습니다.",
+          "회사는 인간 노동력과 유사한 비용으로 로봇을 대여하는 로봇 대여 서비스(RaaS) 모델을 통해 실무 도입의 위험을 낮추고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xobe4h",
+        "title": "CCORE GLB-3D-Coder 4B final model and full weights are out",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights/",
+        "author": "/u/ConfidentDinner6648",
+        "published_at": "2026-11-05T06:14:09+00:00"
+      },
+      "insight": {
+        "title_ko": "CCORE GLB-3D-Coder 4B 모델 공개",
+        "summary_ko": [
+          "CCORE GLB-3D-Coder 4B 최종 모델이 공개되어 Qwen3.5-4B를 완전 fine‑tune한 3D 자산 생성 모델이다.",
+          "모델은 입력된 설명을 바탕으로 Three.js HTML 장면을 생성하고 GLB 파일로 바로 내보낼 수 있다.",
+          "전체 Safetensors 가중치와 GGUF 파일이 제공되며, 건물, 캐릭터, 장비 등 다양한 객체와 애니메이션을 생성한다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/phonon-tts",
+        "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "url": "https://huggingface.co/blog/phonon-tts",
+        "author": null,
+        "published_at": "2026-11-05T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "Phonon TTS 출시 및 온디바이스 음성 기술",
+        "summary_ko": [
+          "Hugging Face 블로그를 통해 고품질 온디바이스 음성 모델인 Phonon TTS가 새롭게 공개되었습니다.",
+          "해당 모델은 주요 벤치마크에서 최고 성능을 기록하며 뛰어난 음성 합성 품질을 입증했습니다.",
+          "실무에서 고성능 온디바이스 음성 합성 기술을 도입하려는 개발자들에게 중요한 참고 자료가 됩니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
