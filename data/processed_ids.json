@@ -910,6 +910,11 @@
       "title": "us arrests tech ceo accused of smuggling 300m in nvidia chips into china",
       "url": "arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/": {
+      "at": "2026-11-05T03:31:15.321737+00:00",
+      "title": "big tech claims voters ai backlash is anti trump not anti tech",
+      "url": "arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech"
+    },
     "rss:https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
       "at": "2026-10-15T18:20:26.786763+00:00",
       "title": "accelerating the search for antimicrobial peptides with google antigravity",
@@ -1619,6 +1624,11 @@
       "at": "2026-11-03T03:57:32.517839+00:00",
       "title": "diagnose distributed ai workload failures with nvidia attribution",
       "url": "developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124627": {
+      "at": "2026-11-05T03:31:15.321712+00:00",
+      "title": "how nvidia uses ai agents to streamline ai factory operations",
+      "url": "developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
       "at": "2026-11-04T20:51:32.121355+00:00",
@@ -3516,6 +3526,21 @@
       "title": "ai is forcing us to pay off 40 years of technical debt",
       "url": "spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability"
     },
+    "rss:https://news.ycombinator.com/item?id=50366117": {
+      "at": "2026-11-05T03:31:15.321949+00:00",
+      "title": "ask hn what s your current ai agentic setup",
+      "url": "news.ycombinator.com/item?id=50366117"
+    },
+    "rss:https://news.ycombinator.com/item?id=50370654": {
+      "at": "2026-11-05T03:31:15.321873+00:00",
+      "title": "qualcomm cloud ai 100 ultra 150w ai accelerator card with 128gb at 548gb s",
+      "url": "qualcomm.com/data-center/products/cloud-ai-100-ultra"
+    },
+    "rss:https://news.ycombinator.com/item?id=50371508": {
+      "at": "2026-11-05T03:31:15.321942+00:00",
+      "title": "everything is an ai scam now",
+      "url": "davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -3525,6 +3550,11 @@
       "at": "2026-09-08T22:07:38.642539+00:00",
       "title": "1password increases engineering productivity 21 with codex",
       "url": "openai.com/index/1password"
+    },
+    "rss:https://openai.com/index/a-thousand-fewer-paths-to-root": {
+      "at": "2026-11-05T03:31:15.321645+00:00",
+      "title": "a thousand fewer paths to root",
+      "url": "openai.com/index/a-thousand-fewer-paths-to-root"
     },
     "rss:https://openai.com/index/accelerating-engineering-for-the-physical-world": {
       "at": "2026-11-03T20:31:43.801569+00:00",
@@ -3764,6 +3794,11 @@
       "title": "devday 2026 recap",
       "url": "openai.com/index/devday-2026-recap"
     },
+    "rss:https://openai.com/index/devrev-enterprise-self-service": {
+      "at": "2026-11-05T03:31:15.321793+00:00",
+      "title": "devrev delivers autonomous self service with gpt 6 1 sol",
+      "url": "openai.com/index/devrev-enterprise-self-service"
+    },
     "rss:https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
       "at": "2026-09-30T21:27:04.076758+00:00",
       "title": "disrupting a coordinated model distillation campaign",
@@ -3983,6 +4018,11 @@
       "at": "2026-09-10T17:44:00.126795+00:00",
       "title": "build more natural voice experiences with gpt live 1 in the api",
       "url": "openai.com/index/introducing-gpt-live-1-in-the-api"
+    },
+    "rss:https://openai.com/index/introducing-images-2-6": {
+      "at": "2026-11-05T03:31:15.321777+00:00",
+      "title": "introducing images 2 6",
+      "url": "openai.com/index/introducing-images-2-6"
     },
     "rss:https://openai.com/index/introducing-mentalhealthbench": {
       "at": "2026-09-23T22:59:06.946389+00:00",
@@ -4822,6 +4862,16 @@
       "title": "i discovered a sound that leaks your exact location and it s everywhere youtube",
       "url": "simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location"
     },
+    "rss:https://simonwillison.net/2026/Nov/3/datasette-agent/": {
+      "at": "2026-11-05T03:31:15.321911+00:00",
+      "title": "datasette agent 0 5a0",
+      "url": "simonwillison.net/2026/Nov/3/datasette-agent"
+    },
+    "rss:https://simonwillison.net/2026/Nov/3/llm/": {
+      "at": "2026-11-05T03:31:15.321966+00:00",
+      "title": "llm 0 37 1",
+      "url": "simonwillison.net/2026/Nov/3/llm"
+    },
     "rss:https://simonwillison.net/2026/Nov/3/october-newsletter/": {
       "at": "2026-11-03T12:48:49.199225+00:00",
       "title": "october sponsors only newsletter",
@@ -4831,6 +4881,11 @@
       "at": "2026-11-03T20:31:43.801547+00:00",
       "title": "qwen 3 8 27b on my laptop can interpret model weights too",
       "url": "simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights"
+    },
+    "rss:https://simonwillison.net/2026/Nov/4/datasette-apps/": {
+      "at": "2026-11-05T03:31:15.321900+00:00",
+      "title": "datasette apps 0 3a0",
+      "url": "simonwillison.net/2026/Nov/4/datasette-apps"
     },
     "rss:https://simonwillison.net/2026/Nov/4/datasette-llm/": {
       "at": "2026-11-04T20:51:32.121553+00:00",
@@ -9145,6 +9200,41 @@
       "at": "2026-11-04T20:51:32.121587+00:00",
       "title": "duckduckgo pitches itself to schools amid backlash over google s ai policy",
       "url": "techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy"
+    },
+    "rss:https://techcrunch.com/?p=3185152": {
+      "at": "2026-11-05T03:31:15.321847+00:00",
+      "title": "openai is already trying to shape the 2028 election",
+      "url": "techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election"
+    },
+    "rss:https://techcrunch.com/?p=3185172": {
+      "at": "2026-11-05T03:31:15.321832+00:00",
+      "title": "nothing ceo says company s mysterious ai first device is dropping next month",
+      "url": "techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month"
+    },
+    "rss:https://techcrunch.com/?p=3185181": {
+      "at": "2026-11-05T03:31:15.321726+00:00",
+      "title": "meta acquires ai coding startup conductor",
+      "url": "techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor"
+    },
+    "rss:https://techcrunch.com/?p=3185205": {
+      "at": "2026-11-05T03:31:15.321933+00:00",
+      "title": "almost no one uses ai agents to book their uber company says",
+      "url": "techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says"
+    },
+    "rss:https://techcrunch.com/?p=3185268": {
+      "at": "2026-11-05T03:31:15.321922+00:00",
+      "title": "ai pacs spent millions trying to shape congress here s how they fared",
+      "url": "techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared"
+    },
+    "rss:https://techcrunch.com/?p=3185305": {
+      "at": "2026-11-05T03:31:15.321807+00:00",
+      "title": "apple is reportedly cutting budgets for its internal ai usage",
+      "url": "techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage"
+    },
+    "rss:https://techcrunch.com/?p=3185307": {
+      "at": "2026-11-05T03:31:15.321819+00:00",
+      "title": "after the midterms a bigger clash over data centers could be coming",
+      "url": "techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -17340,6 +17430,11 @@
       "title": "using strata iq4 qwen flash to edit qwen 3 5 0 6b weight based on mit csail",
       "url": "reddit.com/r/LocalLLaMA/comments/1xnjwte/using_strata_iq4_qwen_flash_to_edit_qwen_35_06b"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnnr3k": {
+      "at": "2026-11-05T03:31:15.321887+00:00",
+      "title": "tencent says hy4 ranks among the best open models its weights aren t out yet",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnnr3k/tencent_says_hy4_ranks_among_the_best_open_models"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnoqyy": {
       "at": "2026-11-04T20:51:32.121415+00:00",
       "title": "i removed 85 of gemma s weights and it is mostly fine",
@@ -17360,6 +17455,11 @@
       "title": "kimi k3 1 pro is now open weights",
       "url": "reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xntou1": {
+      "at": "2026-11-05T03:31:15.321759+00:00",
+      "title": "lfm3 omni 2b running fully offline on my iphone 18 pro max at 80 tok s powered by custom webgpu kernels in a react native app",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xntou1/lfm3omni2b_running_fully_offline_on_my_iphone_18"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnuva2": {
       "at": "2026-11-04T20:51:32.121511+00:00",
       "title": "unsloth qwen3 8 flash next ggufs v3 1 update november 4th 2026",
@@ -17374,6 +17474,16 @@
       "at": "2026-11-04T20:51:32.121464+00:00",
       "title": "ricursiveai ripple 65b preview hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xnx3cs/ricursiveairipple65bpreview_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xnz8ct": {
+      "at": "2026-11-05T03:31:15.321858+00:00",
+      "title": "deepseek alone accounted for 53 of all 27 trillion tokens on openrouter yesterday open weights labs totaling over 75 now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xo2arv": {
+      "at": "2026-11-05T03:31:15.321692+00:00",
+      "title": "ricursive intelligence ripple 65b preview new dense model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xo2arv/ricursive_intelligence_ripple65bpreview_new_dense"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18021,6 +18131,6 @@
       "url": "latent.space/p/supabase"
     }
   },
-  "updated_at": "2026-11-04T20:51:32.121648+00:00",
+  "updated_at": "2026-11-05T03:31:15.322002+00:00",
   "version": 2
 }
