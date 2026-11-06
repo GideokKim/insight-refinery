@@ -500,6 +500,11 @@
       "title": "epic games reportedly pivoting to ai first game development model",
       "url": "arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
     },
+    "rss:https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/": {
+      "at": "2026-11-06T20:28:28.296534+00:00",
+      "title": "could potential ai clones of gta vi force a quicker official port",
+      "url": "arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port"
+    },
     "rss:https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/": {
       "at": "2026-09-30T21:27:04.076684+00:00",
       "title": "google announces gemini 4 argon ai model but you can t use it yet",
@@ -924,6 +929,11 @@
       "at": "2026-11-05T03:31:15.321737+00:00",
       "title": "big tech claims voters ai backlash is anti trump not anti tech",
       "url": "arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/": {
+      "at": "2026-11-06T20:28:28.296427+00:00",
+      "title": "does meta think we can t read meta abandons sketchy commercial terms update",
+      "url": "arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update"
     },
     "rss:https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/": {
       "at": "2026-11-06T03:27:37.209339+00:00",
@@ -1660,6 +1670,11 @@
       "title": "how nvidia uses ai agents to streamline ai factory operations",
       "url": "developer.nvidia.com/blog/how-nvidia-uses-ai-agents-to-streamline-ai-factory-operations"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124653": {
+      "at": "2026-11-06T20:28:28.296419+00:00",
+      "title": "accelerating reinforcement learning weight refit with the reshard collective",
+      "url": "developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
       "at": "2026-11-04T20:51:32.121355+00:00",
       "title": "dharma field extractor any document in structured fields in json out",
@@ -1809,6 +1824,11 @@
       "at": "2026-11-03T20:31:43.801534+00:00",
       "title": "statebench testing how language models track state changes over long documents",
       "url": "huggingface.co/blog/allenai/statebench"
+    },
+    "rss:https://huggingface.co/blog/allenai/toyblocks": {
+      "at": "2026-11-06T20:28:28.296553+00:00",
+      "title": "toyblocks a controlled world for robot learning and evaluation",
+      "url": "huggingface.co/blog/allenai/toyblocks"
     },
     "rss:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
       "at": "2026-10-21T18:41:55.078976+00:00",
@@ -3606,6 +3626,11 @@
       "title": "i struggle to believe that ai r d is ingenious",
       "url": "lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
     },
+    "rss:https://news.ycombinator.com/item?id=50392499": {
+      "at": "2026-11-06T20:28:28.296540+00:00",
+      "title": "university libraries are being swarmed by ai bots putting public access at risk",
+      "url": "cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4199,6 +4224,11 @@
       "title": "advancing coding in low resource programming languages",
       "url": "openai.com/index/low-resource-programming-languages"
     },
+    "rss:https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+      "at": "2026-11-06T20:28:28.296506+00:00",
+      "title": "measuring how ai agents handle everyday wet lab science",
+      "url": "openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+    },
     "rss:https://openai.com/index/merge-builds-with-openai": {
       "at": "2026-11-06T03:27:37.209487+00:00",
       "title": "merge builds product and business tools with openai technology",
@@ -4303,6 +4333,11 @@
       "at": "2026-08-19T12:28:12.501970+00:00",
       "title": "partnering with codeai to prepare the first ai generation",
       "url": "openai.com/index/partnering-with-codeai"
+    },
+    "rss:https://openai.com/index/partnering-with-hacktron": {
+      "at": "2026-11-06T20:28:28.296495+00:00",
+      "title": "partnering with hacktron to find vulnerabilities in openai s systems",
+      "url": "openai.com/index/partnering-with-hacktron"
     },
     "rss:https://openai.com/index/path-to-astra": {
       "at": "2026-09-01T22:10:08.411915+00:00",
@@ -5001,6 +5036,11 @@
       "at": "2026-11-05T21:08:12.372739+00:00",
       "title": "quoting paul ford",
       "url": "simonwillison.net/2026/Nov/5/paul-ford"
+    },
+    "rss:https://simonwillison.net/2026/Nov/6/nilay-patel/": {
+      "at": "2026-11-06T20:28:28.296529+00:00",
+      "title": "quoting nilay patel",
+      "url": "simonwillison.net/2026/Nov/6/nilay-patel"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -9366,6 +9406,11 @@
       "title": "aina s smart ring has a screen a joystick and a mic so you can talk to ai agents",
       "url": "techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents"
     },
+    "rss:https://techcrunch.com/?p=3185376": {
+      "at": "2026-11-06T20:28:28.296489+00:00",
+      "title": "underdog shows off a 32mb speech model in new demo",
+      "url": "techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo"
+    },
     "rss:https://techcrunch.com/?p=3185377": {
       "at": "2026-11-05T21:08:12.372663+00:00",
       "title": "box taps nvidia s nemotron for new agent first content retrieval system",
@@ -9406,10 +9451,35 @@
       "title": "airbnb says it s launching an ai travel agent in the first half of 2027",
       "url": "techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027"
     },
+    "rss:https://techcrunch.com/?p=3185667": {
+      "at": "2026-11-06T20:28:28.296570+00:00",
+      "title": "physicl raises 10m to make the digital world real enough for robots",
+      "url": "techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots"
+    },
     "rss:https://techcrunch.com/?p=3185713": {
       "at": "2026-11-06T12:57:58.896809+00:00",
       "title": "palo alto networks in talks to buy ai agent security startup clutch for 500m",
       "url": "techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m"
+    },
+    "rss:https://techcrunch.com/?p=3185780": {
+      "at": "2026-11-06T20:28:28.296547+00:00",
+      "title": "after blocking muse amazon now lets users text alexa to help them shop",
+      "url": "techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop"
+    },
+    "rss:https://techcrunch.com/?p=3185848": {
+      "at": "2026-11-06T20:28:28.296453+00:00",
+      "title": "ramp data shows ai spending stalling just as anthropic nears its ipo",
+      "url": "techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3185905": {
+      "at": "2026-11-06T20:28:28.296392+00:00",
+      "title": "hundreds of artex ai hacking tools found publicly exposed to the web",
+      "url": "techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web"
+    },
+    "rss:https://techcrunch.com/?p=3185929": {
+      "at": "2026-11-06T20:28:28.296518+00:00",
+      "title": "meta introduces spaces a new way to collaborate with your muse agent",
+      "url": "techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -9471,6 +9541,11 @@
       "title": "building on open source ai hugging face s policy chief on the costs risks and trade offs",
       "url": "techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3185898": {
+      "at": "2026-11-06T20:28:28.296524+00:00",
+      "title": "how a blue wave midterm might reshape the ai industry",
+      "url": "techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -9525,6 +9600,11 @@
       "at": "2026-11-04T20:51:32.121453+00:00",
       "title": "open source ai is booming hugging face explains who profits",
       "url": "techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3185895": {
+      "at": "2026-11-06T20:28:28.296438+00:00",
+      "title": "after the midterms is the ai industry in for a rough two years",
+      "url": "techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -17760,6 +17840,11 @@
       "title": "maybe we ll get cheap ram for christmas after all",
       "url": "reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoyr90": {
+      "at": "2026-11-06T20:28:28.296501+00:00",
+      "title": "cpython 0 day vulnerabilities threaten the ai supply chain",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xozbe6": {
       "at": "2026-11-06T12:57:58.896827+00:00",
       "title": "ccore glb 3d coder dataset is here 3 918 rendered and tested examples across 40 domains",
@@ -17775,6 +17860,11 @@
       "title": "asking questions to a 0 5b model is hillarious",
       "url": "reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xp8ys0": {
+      "at": "2026-11-06T20:28:28.296557+00:00",
+      "title": "pi strata qwen 3 8 flash next q4 k xl funny stuff in logs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xp8ys0/pi_strata_qwen_38_flash_next_q4_k_xl_funny_stuff"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xp9jt1": {
       "at": "2026-11-06T12:57:58.896780+00:00",
       "title": "latest open source labs are gutting away cybersecurity and reverse engineering capabilities",
@@ -17789,6 +17879,36 @@
       "at": "2026-11-06T12:57:58.896843+00:00",
       "title": "qwen the becoming begins",
       "url": "reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpdk0i": {
+      "at": "2026-11-06T20:28:28.296483+00:00",
+      "title": "a 0 1b model just killed 8b embedding models i tried it out",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpeee1": {
+      "at": "2026-11-06T20:28:28.296477+00:00",
+      "title": "harness adapters lora adapter for your model per task per harness",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpfhpm": {
+      "at": "2026-11-06T20:28:28.296564+00:00",
+      "title": "oc e non v1 a language model that gets to the f cking point",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpfhpm/ocenonv1_a_language_model_that_gets_to_the_fcking"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpfvfz": {
+      "at": "2026-11-06T20:28:28.296459+00:00",
+      "title": "moe cache lrfu mq like hybrid cache classlru by sanmai pull request 31233 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xphq4u": {
+      "at": "2026-11-06T20:28:28.296445+00:00",
+      "title": "ama how we trained a sota decision model got top 3 on openrouter top on 5 artificalanalysis full playbook arch datasets training evals inference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpkqo2": {
+      "at": "2026-11-06T20:28:28.296511+00:00",
+      "title": "lamplight lessons learned from building a local first harness",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18440,6 +18560,11 @@
       "title": "why agents love supabase",
       "url": "latent.space/p/supabase"
     },
+    "rss:urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909": {
+      "at": "2026-11-06T20:28:28.296471+00:00",
+      "title": "controlling biology fabian theis helmholtz munich",
+      "url": "latent.space/p/controlling-biology-fabian-theis-helmholtz-munich"
+    },
     "rss:urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9": {
       "at": "2026-11-06T12:57:58.896720+00:00",
       "title": "ainews inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
@@ -18451,6 +18576,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-06T12:57:58.896941+00:00",
+  "updated_at": "2026-11-06T20:28:28.296594+00:00",
   "version": 2
 }

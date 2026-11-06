@@ -89,6 +89,314 @@
         "importance": 4
       },
       "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3185905",
+        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+        "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+        "author": "Zack Whittaker",
+        "published_at": "2026-11-06T18:44:38+00:00"
+      },
+      "insight": {
+        "title_ko": "Artex AI 해킹 도구 백여 개 웹에 노출",
+        "summary_ko": [
+          "보안 연구원들이 페네트레이션 테스팅 도구인 Artex를 호스팅하는 수백 개의 서버가 인터넷에 노출된 것을 발견했습니다.",
+          "이로 인해 인증 절차 없이 누구나 해당 AI 해킹 도구에 접근할 수 있는 취약한 상태가 확인되었습니다.",
+          "이번 발견은 AI 기반 보안 도구들의 배포 및 접근 제어 관리에 대한 시급한 주의를 요구합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124653",
+        "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+        "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective/",
+        "author": "Tanya Lenz",
+        "published_at": "2026-11-06T18:03:26+00:00"
+      },
+      "insight": {
+        "title_ko": "Reshard Collective을 활용한 강화학습 가중치 갱신 가속화",
+        "summary_ko": [
+          "강화학습 후학습 과정에서는 현재 정책 모델로 추론을 실행하며 훈련 궤적을 실시간으로 생성합니다.",
+          "효율적인 훈련을 위해 추론과 훈련을 별도의 GPU 자원에서 분리하여 병렬로 실행하는 방식이 널리 쓰입니다.",
+          "정책 모델은 훈련 GPU에서만 업데이트되므로 시스템은 추론 GPU의 가중치를 주기적으로 갱신해야 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+        "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+        "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-11-06T17:43:02+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta, 외부 웹사이트 AI 학습용 약관 개정 철회",
+        "summary_ko": [
+          "Meta는 Facebook 비즈니스 계정 사용자의 외부 링크 데이터로 AI를 학습시키려던 상업 약관 개정 계획을 무기한 연기했습니다.",
+          "법률 전문가들은 해당 약관의 모호한 표현이 robots.txt 설정을 무시하고 방대한 외부 콘텐츠를 무단 수집할 수 있다고 경고했습니다.",
+          "뉴스 퍼블리셔들은 이번 조치가 이루어질 경우 수백만 달러의 라이선스 비용을 회사가 회피할 수 있다고 우려했습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?post_type=tc_video&p=3185895",
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+        "author": "Theresa Loconsolo, Anthony Ha",
+        "published_at": "2026-11-06T17:23:52+00:00"
+      },
+      "insight": {
+        "title_ko": "미국 중간선거와 AI 데이터센터 규제 강화",
+        "summary_ko": [
+          "미국 중간선거에서 민주당이 승리하며 테크 산업 전반에 큰 변화가 예고되고 있습니다.",
+          "선거에 부쳐진 41개의 데이터센터 관련 투표 중 대다수가 개발 규제 강화를 선택했습니다.",
+          "직접적인 안건이 아니었음에도 데이터센터는 이번 선거에서 주요한 쟁점으로 다뤄졌습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xphq4u",
+        "title": "AMA: How we trained a SOTA Decision model, got top 3 on OpenRouter & top on 5 ArtificalAnalysis: full playbook - arch, datasets, training, evals, inference",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top/",
+        "author": "/u/m4rkGS",
+        "published_at": "2026-11-06T16:51:38+00:00"
+      },
+      "insight": {
+        "title_ko": "Nace AI, SOTA 오픈 의사결정 모델 Drex 기술 공개",
+        "summary_ko": [
+          "Nace AI는 자율 에이전트와 도구 선택을 위해 설계된 4종의 오픈 Decisison 모델인 Drex 패밀리의 기술 보고서를 공개했다.",
+          "Drex 모델들은 단일 패스로 확률 분포를 반환하며 자기회귀 디코딩 없이 빠른 추론 속도를 제공하는 아키텍처를 채택했다.",
+          "해당 모델들은 SFT와 일관성 학습, RLAF를 거쳐 훈련되었으며 HuggingFace와 GGUF 등을 통해 로컬 실행을 지원한다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3185848",
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-11-06T15:54:47+00:00"
+      },
+      "insight": {
+        "title_ko": "기업의 AI 지출 정체 현상과 시사점",
+        "summary_ko": [
+          "AI 사용량은 계속 증가하고 있으나 기업들의 관련 지출은 정체되는 양상을 보이고 있습니다.",
+          "주요 지출 기업들의 가격 인하와 효율적인 비용 통제가 이러한 현상의 주요 원인으로 작용했습니다.",
+          "이번 데이터는 AI 분야의 초고속 성장을 기대하던 투자자들의 기존 가정에 도전 과제가 될 수 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xpfvfz",
+        "title": "moe-cache : LRFU/MQ-like hybrid cache, ClassLRU by sanmai · Pull Request #31233 · ggml-org/llama.cpp",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpfvfz/moecache_lrfumqlike_hybrid_cache_classlru_by/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-06T15:39:09+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp, MoE 모델용 하이브리드 캐시 도입",
+        "summary_ko": [
+          "llama.cpp에 감쇠 사용 이력을 기반으로 전문가를 우선순위화하는 moe-cache 기능이 제안되었습니다.",
+          "기존 SLRU 캐시를 대체하여 QFN과 GLM 모델에서 디코드 성능이 각각 6%와 7% 향상되었습니다.",
+          "캐시 업로드를 8% 줄이고 llama_moe_cache의 오토 모드를 활성화하여 유망한 벤치마크 결과를 보여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909",
+        "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+        "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "author": "RJ Honicky",
+        "published_at": "2026-11-06T15:10:53+00:00"
+      },
+      "insight": {
+        "title_ko": "바이오 AI와 Virtual Cell의 동향",
+        "summary_ko": [
+          "Helmholtz Munich의 Fabian Theis는 멀티오믹스 데이터와 Virtual Cell 모델링 분야를 선도해 온 핵심 인물이다.",
+          "최근 바이오 분야는 단백질 설계를 넘어 대규모 데이터 수집과 다중 스케일 생물학적 현상 예측으로 투자가 확대되고 있다.",
+          "정밀한 대규모 생물학적 데이터를 통해 분자에서 유기체까지의 스케일 인터페이스를 해결하는 것이 AI 바이오의 핵심 과제이다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xpeee1",
+        "title": "Harness Adapters: LoRA adapter for your model per task per harness",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpeee1/harness_adapters_lora_adapter_for_your_model_per/",
+        "author": "/u/Disastrous-Work-1632",
+        "published_at": "2026-11-06T14:38:46+00:00"
+      },
+      "insight": {
+        "title_ko": "Hugging Face, 작업별 LoRA 어댑터 학습 지원",
+        "summary_ko": [
+          "Hugging Face가 특정 작업과 도구에 맞춰 모델을 학습할 수 있는 harness adapters를 공개했습니다.",
+          "사용자는 데이터 분석이나 코딩 등 해결하려는 태스크에 맞춰 LoRA 어댑터를 학습시킬 수 있습니다.",
+          "실시간으로 학습 손실 감소를 확인할 수 있는 공간이 함께 제공됩니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xpdk0i",
+        "title": "A 0.1B model just killed 8B embedding models... I tried it out.",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpdk0i/a_01b_model_just_killed_8b_embedding_models_i/",
+        "author": "/u/jeffrey-0711",
+        "published_at": "2026-11-06T14:02:37+00:00"
+      },
+      "insight": {
+        "title_ko": "SPLADE 모델로 8B 임베딩 모델 대체",
+        "summary_ko": [
+          "SPLADE 모델이 0.1B 규모로 8B 임베딩 모델을 능가했다.",
+          "작은 8GB RAM PC에서도 메모리와 온도 문제 없이 동작했다.",
+          "RAG 에이전트에 적합하며 오픈소스로 제공된다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3185376",
+        "title": "Underdog shows off a 32MB speech model in new demo",
+        "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+        "author": "Ivan Mehta",
+        "published_at": "2026-11-06T13:02:16+00:00"
+      },
+      "insight": {
+        "title_ko": "Underdog, 32MB 음성 모델 공개",
+        "summary_ko": [
+          "Underdog가 32MB 크기의 음성 모델을 공개했다.",
+          "이 모델은 음성 합성과 음악 생성 모두를 수행한다.",
+          "경량화된 구조 덕분에 모바일 및 IoT 기기에서 활용 가능하다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/partnering-with-hacktron",
+        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "author": null,
+        "published_at": "2026-11-06T08:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, Hacktron 협력해 보안 강화",
+        "summary_ko": [
+          "OpenAI와 Hacktron이 협력해 시스템 취약점 탐색에 나선다.",
+          "제3자 서비스와의 연결을 테스트해 보안 경계 강화한다.",
+          "frontier AI를 활용해 방어 체계를 한층 견고히 한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xoyr90",
+        "title": "CPython 0-Day Vulnerabilities Threaten the AI Supply Chain",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoyr90/cpython_0day_vulnerabilities_threaten_the_ai/",
+        "author": "/u/Thrumpwart",
+        "published_at": "2026-11-06T00:17:41+00:00"
+      },
+      "insight": {
+        "title_ko": "CPython 제로데이 취약점과 AI 공급망 위협",
+        "summary_ko": [
+          "CPython에서 발견된 제로데이 취약점이 AI 공급망에 심각한 위협을 가하고 있다.",
+          "해당 취약점은 CPython 개발진을 비롯해 Jinja와 Hugging Face 측에 통보되었으나 아직 수정되지 않았다.",
+          "오픈소스 생태계 전반의 보안 취약성 관리와 신속한 패치 적용의 중요성이 대두된다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "title": "Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "author": null,
+        "published_at": "2026-11-06T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, 습식 실험용 AI 에이전트 평가 벤치마크 공개",
+        "summary_ko": [
+          "OpenAI는 AI 에이전트가 실험 데이터와 습식 실험을 얼마나 잘 다루는지 측정하는 BioBasicsBench를 발표했습니다.",
+          "본 벤치마크는 일상적인 실험실 과학 환경에서 AI 에이전트의 역량을 평가하기 위한 100개의 태스크로 구성되어 있습니다.",
+          "이 도구는 향후 생명과학 분야에서 AI 에이전트의 실무 적용 가능성과 성능을 검증하는 데 중요한 지표가 될 것입니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
