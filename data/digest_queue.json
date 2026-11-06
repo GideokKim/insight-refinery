@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-06T03:27:35.022338+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xpbjku",
+        "title": "Qwen 4 is stealth announced",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced/",
+        "author": "/u/Bestlife73",
+        "published_at": "2026-11-06T12:26:17+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen 4 모델 비공개 출시 소식",
+        "summary_ko": [
+          "알리바바의 Qwen 시리즈 차세대 모델인 Qwen 4가 소셜 미디어를 통해 예고 없이 발표되었습니다.",
+          "이번 소식은 개발자 커뮤니티인 r/LocalLLaMA를 통해 빠르게 공유되며 큰 주목을 받고 있습니다.",
+          "향후 오픈소스 LLM 생태계와 실무 활용에 미칠 영향에 대해 개발자들의 관심이 집중되고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9",
+        "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+        "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-06T10:35:21+00:00"
+      },
+      "insight": {
+        "title_ko": "Inkling 2 Small 모델 출시",
+        "summary_ko": [
+          "Thinking Machines에서 594B 총 파라미터와 17B 활성 파라미터를 가진 Inkling 2 Small 모델을 공개했다.",
+          "이 모델은 GB300을 활용해 12T 미만의 토큰으로 68시간 만에 사전 학습을 완료했다.",
+          "외부 안전성 검증이 완료된 후 Apache 2.0 라이선스로 오픈 웨이트가 공개될 예정이다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xp32od",
+        "title": "Introducing Inkling 2 Small",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-06T03:50:26+00:00"
+      },
+      "insight": {
+        "title_ko": "MoE 기반 AI 모델 Inkling 2 Small 공개",
+        "summary_ko": [
+          "총 594B 파라미터와 17B 활성 파라미터를 가진 Mixture-of-Experts 모델 Inkling 2 Small이 공개되었습니다.",
+          "에이전틱 코딩, 비전, 지식 업무, 추론 능력이 향상되어 Artificial Analysis Intelligence Index에서 31점을 기록했습니다.",
+          "외부 안전성 검증을 거친 후 다음 주에 Apache 2.0 라이선스로 전체 가중치가 공개될 예정입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xoubyo",
+        "title": "Lawyer with too many GPUs, part 4: DeepSeek-V4.1-Flash on eight V100s from 2018. 200+ tok/s on code, ~110 on legal writing, 2,200 tok/s prefill at 128K, 524K context, every weight in VRAM",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash/",
+        "author": "/u/TumbleweedNew6515",
+        "published_at": "2026-11-05T21:07:54+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek-V4.1-Flash 8x V100 성능 보고",
+        "summary_ko": [
+          "DeepSeek-V4.1-Flash를 8x V100-SXM2에 배치해 200+ 토크/s 달성.",
+          "코드, 법률 문서, JSON 등 다양한 작업에서 110-215 토크/s를 기록.",
+          "524k 토큰 컨텍스트와 2,200 토크/s 프리필을 통해 기존 프론티어 모델 대체 가능성 제시."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
+    }
+  ]
 }

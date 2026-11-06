@@ -2073,6 +2073,11 @@
       "title": "the open asr leaderboard adds its first global south language",
       "url": "huggingface.co/blog/open-asr-leaderboard-global-south"
     },
+    "rss:https://huggingface.co/blog/open-asr-leaderboard-liva": {
+      "at": "2026-11-06T12:57:58.896867+00:00",
+      "title": "egyptian and nigerian english join the open asr leaderboard",
+      "url": "huggingface.co/blog/open-asr-leaderboard-liva"
+    },
     "rss:https://huggingface.co/blog/open-tts-leaderboard": {
       "at": "2026-09-30T16:51:17.984894+00:00",
       "title": "open tts leaderboard scalable evaluation for multilingual text to speech and voice cloning",
@@ -3595,6 +3600,11 @@
       "at": "2026-11-06T03:27:37.209379+00:00",
       "title": "cuban facebook knowingly runs ai deepfake scam ads docs say 16b fraud revenue",
       "url": "finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+    },
+    "rss:https://news.ycombinator.com/item?id=50388513": {
+      "at": "2026-11-06T12:57:58.896852+00:00",
+      "title": "i struggle to believe that ai r d is ingenious",
+      "url": "lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -9395,6 +9405,11 @@
       "at": "2026-11-06T03:27:37.209391+00:00",
       "title": "airbnb says it s launching an ai travel agent in the first half of 2027",
       "url": "techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027"
+    },
+    "rss:https://techcrunch.com/?p=3185713": {
+      "at": "2026-11-06T12:57:58.896809+00:00",
+      "title": "palo alto networks in talks to buy ai agent security startup clutch for 500m",
+      "url": "techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -17735,10 +17750,45 @@
       "title": "appreciation post for orcacyber nano 1 0",
       "url": "reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoubyo": {
+      "at": "2026-11-06T12:57:58.896756+00:00",
+      "title": "lawyer with too many gpus part 4 deepseek v4 1 flash on eight v100s from 2018 200 tok s on code 110 on legal writing 2 200 tok s prefill at 128k 524k context every weight in vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoubyo/lawyer_with_too_many_gpus_part_4_deepseekv41flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xovnaa": {
       "at": "2026-11-06T03:27:37.209501+00:00",
       "title": "maybe we ll get cheap ram for christmas after all",
       "url": "reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xozbe6": {
+      "at": "2026-11-06T12:57:58.896827+00:00",
+      "title": "ccore glb 3d coder dataset is here 3 918 rendered and tested examples across 40 domains",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xozbe6/ccore_glb3dcoder_dataset_is_here_3918_rendered"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xp32od": {
+      "at": "2026-11-06T12:57:58.896743+00:00",
+      "title": "introducing inkling 2 small",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xp32od/introducing_inkling_2_small"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xp8as6": {
+      "at": "2026-11-06T12:57:58.896875+00:00",
+      "title": "asking questions to a 0 5b model is hillarious",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xp9jt1": {
+      "at": "2026-11-06T12:57:58.896780+00:00",
+      "title": "latest open source labs are gutting away cybersecurity and reverse engineering capabilities",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xp9jt1/latest_opensource_labs_are_gutting_away"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpbjku": {
+      "at": "2026-11-06T12:57:58.896683+00:00",
+      "title": "qwen 4 is stealth announced",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpbjku/qwen_4_is_stealth_announced"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpbjzi": {
+      "at": "2026-11-06T12:57:58.896843+00:00",
+      "title": "qwen the becoming begins",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpbjzi/qwen_the_becoming_begins"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18290,6 +18340,11 @@
       "title": "texas was the new epicenter of the ai data center buildout that might be kaput",
       "url": "technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput"
     },
+    "rss:https://www.technologyreview.com/?p=1148090": {
+      "at": "2026-11-06T12:57:58.896794+00:00",
+      "title": "i watched a humanoid robot clean my apartment it felt like a taste of the future",
+      "url": "technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -18385,12 +18440,17 @@
       "title": "why agents love supabase",
       "url": "latent.space/p/supabase"
     },
+    "rss:urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9": {
+      "at": "2026-11-06T12:57:58.896720+00:00",
+      "title": "ainews inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
+      "url": "latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark"
+    },
     "rss:urn:latent-space:post:post_fd221542-e3ff-41a0-bb96-ef372fda447e": {
       "at": "2026-11-05T13:15:07.644947+00:00",
       "title": "ainews it s swapping season",
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-06T03:27:37.209532+00:00",
+  "updated_at": "2026-11-06T12:57:58.896941+00:00",
   "version": 2
 }
