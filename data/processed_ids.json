@@ -340,6 +340,11 @@
       "title": "claude s new rules against game cloning won t stop the ai copying boom",
       "url": "arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom"
     },
+    "rss:https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/": {
+      "at": "2026-11-06T03:27:37.209403+00:00",
+      "title": "google schools can keep search while skipping gemini but ai search is non negotiable",
+      "url": "arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable"
+    },
     "rss:https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/": {
       "at": "2026-11-03T20:31:43.801609+00:00",
       "title": "google will let schools skip ai tools but they have to give up search too",
@@ -919,6 +924,11 @@
       "at": "2026-11-05T03:31:15.321737+00:00",
       "title": "big tech claims voters ai backlash is anti trump not anti tech",
       "url": "arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/": {
+      "at": "2026-11-06T03:27:37.209339+00:00",
+      "title": "lawsuit man introduced his wife to chatgpt she used it to plan his murder",
+      "url": "arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder"
     },
     "rss:https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
       "at": "2026-10-15T18:20:26.786763+00:00",
@@ -3561,6 +3571,11 @@
       "title": "ask hn what s your current ai agentic setup",
       "url": "news.ycombinator.com/item?id=50366117"
     },
+    "rss:https://news.ycombinator.com/item?id=50368804": {
+      "at": "2026-11-06T03:27:37.209356+00:00",
+      "title": "launch hn kino ai yc s23 ai media manager and video editor",
+      "url": "news.ycombinator.com/item?id=50368804"
+    },
     "rss:https://news.ycombinator.com/item?id=50370654": {
       "at": "2026-11-05T03:31:15.321873+00:00",
       "title": "qualcomm cloud ai 100 ultra 150w ai accelerator card with 128gb at 548gb s",
@@ -3575,6 +3590,16 @@
       "at": "2026-11-05T21:08:12.372731+00:00",
       "title": "nasdaq sinks 5 as investors retreat from ai trade after election",
       "url": "wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026"
+    },
+    "rss:https://news.ycombinator.com/item?id=50385870": {
+      "at": "2026-11-06T03:27:37.209379+00:00",
+      "title": "cuban facebook knowingly runs ai deepfake scam ads docs say 16b fraud revenue",
+      "url": "finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+    },
+    "rss:https://openai.com/ads/customers/flipsnack": {
+      "at": "2026-11-06T03:27:37.209494+00:00",
+      "title": "flipsnack grows product signups with conversion optimization",
+      "url": "openai.com/ads/customers/flipsnack"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -3665,6 +3690,11 @@
       "at": "2026-09-03T00:47:52.878181+00:00",
       "title": "atv big air tour turned 3 days of work into 3 hours with chatgpt",
       "url": "openai.com/index/atv-big-air-tour"
+    },
+    "rss:https://openai.com/index/australian-universities-ai-native-graduates": {
+      "at": "2026-11-06T03:27:37.209469+00:00",
+      "title": "australian universities are creating ai native graduates",
+      "url": "openai.com/index/australian-universities-ai-native-graduates"
     },
     "rss:https://openai.com/index/australian-youth-safety-blueprint": {
       "at": "2026-09-19T07:20:41.559572+00:00",
@@ -3799,6 +3829,11 @@
       "title": "credit saison achieves 954 roi in a chatgpt enterprise pilot",
       "url": "openai.com/index/credit-saison"
     },
+    "rss:https://openai.com/index/cultfit-builds-with-codex": {
+      "at": "2026-11-06T03:27:37.209460+00:00",
+      "title": "cult fit builds operational muscle with codex",
+      "url": "openai.com/index/cultfit-builds-with-codex"
+    },
     "rss:https://openai.com/index/dali-rajic-chief-revenue-officer": {
       "at": "2026-08-19T14:23:12.191402+00:00",
       "title": "openai appoints dali rajic as chief revenue officer",
@@ -3893,6 +3928,11 @@
       "at": "2026-10-22T13:52:08.595970+00:00",
       "title": "what fde means at openai",
       "url": "openai.com/index/forward-deployed-engineering-means"
+    },
+    "rss:https://openai.com/index/franklin-templeton": {
+      "at": "2026-11-06T03:27:37.209440+00:00",
+      "title": "franklin templeton uses openai to support investment research",
+      "url": "openai.com/index/franklin-templeton"
     },
     "rss:https://openai.com/index/fyxer": {
       "at": "2026-09-14T20:59:08.073439+00:00",
@@ -4044,6 +4084,11 @@
       "title": "introducing gpt 6 1 terra",
       "url": "openai.com/index/introducing-gpt-6-1-terra"
     },
+    "rss:https://openai.com/index/introducing-gpt-6-cyber": {
+      "at": "2026-11-06T03:27:37.209288+00:00",
+      "title": "gpt 6 cyber advancing the frontier of aligned cybersecurity agents",
+      "url": "openai.com/index/introducing-gpt-6-cyber"
+    },
     "rss:https://openai.com/index/introducing-gpt-6-sol-and-luna": {
       "at": "2026-09-22T22:59:04.939892+00:00",
       "title": "introducing gpt 6 sol and luna",
@@ -4143,6 +4188,11 @@
       "at": "2026-10-20T01:51:54.979639+00:00",
       "title": "advancing coding in low resource programming languages",
       "url": "openai.com/index/low-resource-programming-languages"
+    },
+    "rss:https://openai.com/index/merge-builds-with-openai": {
+      "at": "2026-11-06T03:27:37.209487+00:00",
+      "title": "merge builds product and business tools with openai technology",
+      "url": "openai.com/index/merge-builds-with-openai"
     },
     "rss:https://openai.com/index/model-misalignment-reporting-framework": {
       "at": "2026-09-16T22:57:26.123754+00:00",
@@ -9340,6 +9390,11 @@
       "at": "2026-11-05T21:08:12.372685+00:00",
       "title": "meta says us users can now video chat with their muse ai avatar",
       "url": "techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar"
+    },
+    "rss:https://techcrunch.com/?p=3185656": {
+      "at": "2026-11-06T03:27:37.209391+00:00",
+      "title": "airbnb says it s launching an ai travel agent in the first half of 2027",
+      "url": "techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -17610,10 +17665,20 @@
       "title": "what are you looking forward to in qwen 4",
       "url": "reddit.com/r/LocalLLaMA/comments/1xo3ikc/what_are_you_looking_forward_to_in_qwen_4"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xo9vl3": {
+      "at": "2026-11-06T03:27:37.209429+00:00",
+      "title": "what are vector embeddings an interactive guide",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xo9vl3/what_are_vector_embeddings_an_interactive_guide"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xobe4h": {
       "at": "2026-11-05T13:15:07.644915+00:00",
       "title": "ccore glb 3d coder 4b final model and full weights are out",
       "url": "reddit.com/r/LocalLLaMA/comments/1xobe4h/ccore_glb3dcoder_4b_final_model_and_full_weights"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xobtwx": {
+      "at": "2026-11-06T03:27:37.209414+00:00",
+      "title": "baidu ernie 5 5 flash base hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xobtwx/baiduernie55flashbase_hugging_face"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xobzg3": {
       "at": "2026-11-05T13:15:07.645033+00:00",
@@ -17624,6 +17689,11 @@
       "at": "2026-11-05T13:15:07.645007+00:00",
       "title": "qwen3 8 27b has become unuseable recently",
       "url": "reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoglot": {
+      "at": "2026-11-06T03:27:37.209479+00:00",
+      "title": "quantization livestream with goats of inference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xoglot/quantization_livestream_with_goats_of_inference"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xoiaye": {
       "at": "2026-11-05T21:08:12.372674+00:00",
@@ -17659,6 +17729,16 @@
       "at": "2026-11-05T21:08:12.372478+00:00",
       "title": "z ai chief scientist jie tang just revealed the training pipeline behind the upcoming glm 5 5 32b 122b and 256b",
       "url": "reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xosw1w": {
+      "at": "2026-11-06T03:27:37.209449+00:00",
+      "title": "appreciation post for orcacyber nano 1 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xosw1w/appreciation_post_for_orcacybernano10"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xovnaa": {
+      "at": "2026-11-06T03:27:37.209501+00:00",
+      "title": "maybe we ll get cheap ram for christmas after all",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18311,6 +18391,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-05T21:08:12.372783+00:00",
+  "updated_at": "2026-11-06T03:27:37.209532+00:00",
   "version": 2
 }
