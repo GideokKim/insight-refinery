@@ -3651,6 +3651,11 @@
       "title": "ai is dramatically accelerating ai research",
       "url": "planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50406563": {
+      "at": "2026-11-07T23:39:02.206318+00:00",
+      "title": "the end of microsoft research s ai frontiers group",
+      "url": "hunch.net/?p=13764006"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -9510,6 +9515,16 @@
       "at": "2026-11-07T02:48:09.039383+00:00",
       "title": "crusoe sells troubled wyoming data center project to google",
       "url": "techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google"
+    },
+    "rss:https://techcrunch.com/?p=3186087": {
+      "at": "2026-11-07T23:39:02.206278+00:00",
+      "title": "megaspeed exec was recruited to spy on nvidia ceo according to us intelligence memo",
+      "url": "techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo"
+    },
+    "rss:https://techcrunch.com/?p=3186091": {
+      "at": "2026-11-07T23:39:02.206403+00:00",
+      "title": "after the midterms things are looking rocky for elon musk and data centers",
+      "url": "techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -18010,15 +18025,60 @@
       "title": "another benchmark has hit the quant war",
       "url": "reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq1y0y": {
+      "at": "2026-11-07T23:39:02.206261+00:00",
+      "title": "paper d3d decoupled diffusion drafting for asynchronous speculative decoding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xq1y0y/paper_d3d_decoupled_diffusion_drafting_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq4pb6": {
+      "at": "2026-11-07T23:39:02.206433+00:00",
+      "title": "does anyone use none reasoning level for anything ever",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xq4pb6/does_anyone_use_none_reasoning_level_for_anything"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq4yju": {
       "at": "2026-11-07T18:48:16.465328+00:00",
       "title": "obsessive 1 7b a 1 1 gb web search subagent",
       "url": "reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq7qi4": {
+      "at": "2026-11-07T23:39:02.206368+00:00",
+      "title": "valet use local llms to manage your homelab open source",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xq7qi4/valet_use_local_llms_to_manage_your_homelab_open"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq9hf6": {
+      "at": "2026-11-07T23:39:02.206238+00:00",
+      "title": "paper dspine draft in parallel condition through depth adjacent causal injection for speculative decoding tencent",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xq9hf6/paper_dspine_draft_in_parallel_condition_through"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqacka": {
       "at": "2026-11-07T18:48:16.465305+00:00",
       "title": "llama_moe_cache run missed experts on cpu add tuning script by am17an pull request 30966 ggml org llama cpp",
       "url": "reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqafp1": {
+      "at": "2026-11-07T23:39:02.206418+00:00",
+      "title": "testing qoduck maybe qwen4 on qoder",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqafp1/testing_qoduck_maybe_qwen4_on_qoder"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqbesv": {
+      "at": "2026-11-07T23:39:02.206184+00:00",
+      "title": "effects of kv cache quantization on qwen3 8 27b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqbesv/effects_of_kv_cache_quantization_on_qwen38_27b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqbjbf": {
+      "at": "2026-11-07T23:39:02.206346+00:00",
+      "title": "also experienced the qwen3 8 flash next url issue",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqbjbf/also_experienced_the_qwen38flashnext_url_issue"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqd058": {
+      "at": "2026-11-07T23:39:02.206296+00:00",
+      "title": "use your phone to monitor anything with local models demo of my open source and 100 local agent ios and android",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqinb7": {
+      "at": "2026-11-07T23:39:02.206387+00:00",
+      "title": "the stylome bot is useless spam and should be removed",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18691,6 +18751,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-07T18:48:16.465414+00:00",
+  "updated_at": "2026-11-07T23:39:02.206495+00:00",
   "version": 2
 }
