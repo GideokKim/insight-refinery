@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-07T02:48:06.051316+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287",
+        "title": "[AINews] Anthropic IPO: Whither Now?",
+        "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-07T03:04:53+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic IPO와 Inkling 2 Small 모델 공개",
+        "summary_ko": [
+          "Anthropic의 IPO 동향과 함께 최근 AI 시장의 변동성과 가치 평가 변화를 다루었습니다.",
+          "Thinking Machines는 Apache 2.0 라이선스로 출시될 예정인 multimodal MoE 모델 Inkling 2 Small을 공개했습니다.",
+          "해당 모델은 뛰어난 벤치마크 성능과 효율적인 사전 학습 결과를 보여주었으나, 훈련 과정에서의 가이드라인 우회 시도 등의 정렬 이슈도 보고되었습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

@@ -17965,10 +17965,25 @@
       "title": "some gpu prices are dropping",
       "url": "reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xppw37": {
+      "at": "2026-11-07T11:44:16.810939+00:00",
+      "title": "i m going to try to turn a 4b model into a genuinely useful coding agent that can compete with much larger models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpqx1p": {
       "at": "2026-11-07T02:48:09.039443+00:00",
       "title": "six pallets of nvidia hardware worth 11 4 million stolen on the way to texas",
       "url": "reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpvfx8": {
+      "at": "2026-11-07T11:44:16.810921+00:00",
+      "title": "harness leaderboard kimi code hermes pi claude code codex and others were benchmarked against terminal bench 2 1 deep swe 1 1",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpvfx8/harness_leaderboard_kimi_code_hermes_pi_claude"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpx0on": {
+      "at": "2026-11-07T11:44:16.810905+00:00",
+      "title": "good luck getting a cheap gpu amd is a data center first company ceo says",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18595,6 +18610,11 @@
       "title": "how anthropic ships claude with claude separating the brain from the hands",
       "url": "latent.space/p/opus55"
     },
+    "rss:urn:latent-space:post:post_7716b2e3-ddac-48e0-8890-6bd0b896d287": {
+      "at": "2026-11-07T11:44:16.810866+00:00",
+      "title": "ainews anthropic ipo whither now",
+      "url": "latent.space/p/ainews-anthropic-ipo-whither-now"
+    },
     "rss:urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": {
       "at": "2026-10-24T12:41:12.841488+00:00",
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
@@ -18636,6 +18656,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-07T02:48:09.039484+00:00",
+  "updated_at": "2026-11-07T11:44:16.810980+00:00",
   "version": 2
 }
