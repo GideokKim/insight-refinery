@@ -23,6 +23,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xpq3l0",
+        "title": "Scylla's Band v4, open source TTS with code to run everywhere",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run/",
+        "author": "/u/clockentyne",
+        "published_at": "2026-11-06T22:26:59+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈소스 경량 TTS 모델 Scylla's Band v4 공개",
+        "summary_ko": [
+          "약 131M 파라미터 크기로 스마트폰에서도 구동 가능한 오픈소스 다국어 TTS 모델 Scylla's Band v4가 공개되었습니다.",
+          "텍스트 음성 변환뿐만 아니라 JSON 악보를 기반으로 노래하는 기능을 지원하며 다양한 모바일 및 데스크톱 런타임을 제공합니다.",
+          "Apache 2.0 라이선스로 배포되었으며 GitHub와 Hugging Face를 통해 소스 코드와 모델 가중치를 이용할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50395933",
+        "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+        "author": "brazukadev",
+        "published_at": "2026-11-06T18:04:06+00:00"
+      },
+      "insight": {
+        "title_ko": "마이크로소프트, 오라클과의 AI 클라우드 임대 계약 종료",
+        "summary_ko": [
+          "마이크로소프트가 오라클로부터 AI 클라우드 용량을 임대하던 기존 계약을 종료 수순으로 밟고 있습니다.",
+          "이번 조치는 양사의 클라우드 협력 관계 변화와 AI 인프라 전략 재조정을 보여주는 사례로 주목받고 있습니다.",
+          "정확한 종료 배경과 향후 마이크로소프트의 자체 인프라 확충 계획에 실무적인 관심이 집중됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

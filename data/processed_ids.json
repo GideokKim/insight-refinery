@@ -3631,10 +3631,20 @@
       "title": "i struggle to believe that ai r d is ingenious",
       "url": "lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL"
     },
+    "rss:https://news.ycombinator.com/item?id=50389990": {
+      "at": "2026-11-07T18:48:16.465369+00:00",
+      "title": "ai for scientific discovery how researchers use claude",
+      "url": "anthropic.com/research/how-researchers-use-claude"
+    },
     "rss:https://news.ycombinator.com/item?id=50392499": {
       "at": "2026-11-06T20:28:28.296540+00:00",
       "title": "university libraries are being swarmed by ai bots putting public access at risk",
       "url": "cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
+    },
+    "rss:https://news.ycombinator.com/item?id=50395933": {
+      "at": "2026-11-07T18:48:16.465284+00:00",
+      "title": "microsoft is winding down oracle deal to rent ai cloud capacity",
+      "url": "reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06"
     },
     "rss:https://news.ycombinator.com/item?id=50397994": {
       "at": "2026-11-07T02:48:09.039418+00:00",
@@ -17940,6 +17950,11 @@
       "title": "bartowski xingchen agi_xing4 0 29b a4b gguf hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpls17": {
+      "at": "2026-11-07T18:48:16.465355+00:00",
+      "title": "tried the weight editing thing from the mit post some cool applications but nothing crazy",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpls17/tried_the_weight_editing_thing_from_the_mit_post"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpm8mw": {
       "at": "2026-11-07T02:48:09.039357+00:00",
       "title": "mirage a 22 mb visual language model that runs scene descriptions object detection ocr segmentation spatial relations analysis extractions decisions in a single pass",
@@ -17970,6 +17985,11 @@
       "title": "i m going to try to turn a 4b model into a genuinely useful coding agent that can compete with much larger models",
       "url": "reddit.com/r/LocalLLaMA/comments/1xppw37/im_going_to_try_to_turn_a_4b_model_into_a"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpq3l0": {
+      "at": "2026-11-07T18:48:16.465246+00:00",
+      "title": "scylla s band v4 open source tts with code to run everywhere",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpq3l0/scyllas_band_v4_open_source_tts_with_code_to_run"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpqx1p": {
       "at": "2026-11-07T02:48:09.039443+00:00",
       "title": "six pallets of nvidia hardware worth 11 4 million stolen on the way to texas",
@@ -17984,6 +18004,21 @@
       "at": "2026-11-07T11:44:16.810905+00:00",
       "title": "good luck getting a cheap gpu amd is a data center first company ceo says",
       "url": "reddit.com/r/LocalLLaMA/comments/1xpx0on/good_luck_getting_a_cheap_gpu_amd_is_a_data"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpxfob": {
+      "at": "2026-11-07T18:48:16.465343+00:00",
+      "title": "another benchmark has hit the quant war",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpxfob/another_benchmark_has_hit_the_quant_war"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq4yju": {
+      "at": "2026-11-07T18:48:16.465328+00:00",
+      "title": "obsessive 1 7b a 1 1 gb web search subagent",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqacka": {
+      "at": "2026-11-07T18:48:16.465305+00:00",
+      "title": "llama_moe_cache run missed experts on cpu add tuning script by am17an pull request 30966 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18656,6 +18691,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-07T11:44:16.810980+00:00",
+  "updated_at": "2026-11-07T18:48:16.465414+00:00",
   "version": 2
 }
