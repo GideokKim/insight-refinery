@@ -1675,6 +1675,11 @@
       "title": "accelerating reinforcement learning weight refit with the reshard collective",
       "url": "developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124785": {
+      "at": "2026-11-07T02:48:09.039314+00:00",
+      "title": "speed up image generation with flux 3 image klein on nvidia blackwell gpus",
+      "url": "developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
       "at": "2026-11-04T20:51:32.121355+00:00",
       "title": "dharma field extractor any document in structured fields in json out",
@@ -3630,6 +3635,11 @@
       "at": "2026-11-06T20:28:28.296540+00:00",
       "title": "university libraries are being swarmed by ai bots putting public access at risk",
       "url": "cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287"
+    },
+    "rss:https://news.ycombinator.com/item?id=50397994": {
+      "at": "2026-11-07T02:48:09.039418+00:00",
+      "title": "ai is dramatically accelerating ai research",
+      "url": "planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -9480,6 +9490,16 @@
       "at": "2026-11-06T20:28:28.296518+00:00",
       "title": "meta introduces spaces a new way to collaborate with your muse agent",
       "url": "techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent"
+    },
+    "rss:https://techcrunch.com/?p=3186034": {
+      "at": "2026-11-07T02:48:09.039261+00:00",
+      "title": "openai reportedly raises an additional 11 billion at a 1 25 trillion valuation",
+      "url": "techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation"
+    },
+    "rss:https://techcrunch.com/?p=3186051": {
+      "at": "2026-11-07T02:48:09.039383+00:00",
+      "title": "crusoe sells troubled wyoming data center project to google",
+      "url": "techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -17905,10 +17925,50 @@
       "title": "ama how we trained a sota decision model got top 3 on openrouter top on 5 artificalanalysis full playbook arch datasets training evals inference",
       "url": "reddit.com/r/LocalLLaMA/comments/1xphq4u/ama_how_we_trained_a_sota_decision_model_got_top"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpicjz": {
+      "at": "2026-11-07T02:48:09.039371+00:00",
+      "title": "qwen3 8 27b hitting 6 645 tok s on prefill and 316 tok s decode peak on saber",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpicjz/qwen38_27b_hitting_6645_toks_on_prefill_and_316"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpkqo2": {
       "at": "2026-11-06T20:28:28.296511+00:00",
       "title": "lamplight lessons learned from building a local first harness",
       "url": "reddit.com/r/LocalLLaMA/comments/1xpkqo2/lamplight_lessons_learned_from_building_a"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xplkdu": {
+      "at": "2026-11-07T02:48:09.039428+00:00",
+      "title": "bartowski xingchen agi_xing4 0 29b a4b gguf hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xplkdu/bartowskixingchenagi_xing4029ba4bgguf_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpm8mw": {
+      "at": "2026-11-07T02:48:09.039357+00:00",
+      "title": "mirage a 22 mb visual language model that runs scene descriptions object detection ocr segmentation spatial relations analysis extractions decisions in a single pass",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpm8mw/mirage_a_22_mb_visuallanguage_model_that_runs"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpmj33": {
+      "at": "2026-11-07T02:48:09.039343+00:00",
+      "title": "nousresearch arete 27b hugging face qwen finetune",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpmvf2": {
+      "at": "2026-11-07T02:48:09.039327+00:00",
+      "title": "we are cooked my qfn 3 8 nvfp4 just drew a dog freehand in ms paint using new open webui 0 13 0 and open terminal 0 17 2",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xppbht": {
+      "at": "2026-11-07T02:48:09.039408+00:00",
+      "title": "we are in the golden age of local llm",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xppbrr": {
+      "at": "2026-11-07T02:48:09.039397+00:00",
+      "title": "some gpu prices are dropping",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xpqx1p": {
+      "at": "2026-11-07T02:48:09.039443+00:00",
+      "title": "six pallets of nvidia hardware worth 11 4 million stolen on the way to texas",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18576,6 +18636,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-06T20:28:28.296594+00:00",
+  "updated_at": "2026-11-07T02:48:09.039484+00:00",
   "version": 2
 }
