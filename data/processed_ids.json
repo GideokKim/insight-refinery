@@ -5067,6 +5067,11 @@
       "title": "quoting nilay patel",
       "url": "simonwillison.net/2026/Nov/6/nilay-patel"
     },
+    "rss:https://simonwillison.net/2026/Nov/7/link-rel-next/": {
+      "at": "2026-11-08T08:59:35.116885+00:00",
+      "title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
+      "url": "simonwillison.net/2026/Nov/7/link-rel-next"
+    },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
       "title": "quoting matthew green",
@@ -18040,6 +18045,11 @@
       "title": "obsessive 1 7b a 1 1 gb web search subagent",
       "url": "reddit.com/r/LocalLLaMA/comments/1xq4yju/obsessive17b_a_11_gb_websearch_subagent"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq65rl": {
+      "at": "2026-11-08T08:59:35.116838+00:00",
+      "title": "tsmc might do in memory compute for us",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xq7qi4": {
       "at": "2026-11-07T23:39:02.206368+00:00",
       "title": "valet use local llms to manage your homelab open source",
@@ -18079,6 +18089,16 @@
       "at": "2026-11-07T23:39:02.206387+00:00",
       "title": "the stylome bot is useless spam and should be removed",
       "url": "reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqjenw": {
+      "at": "2026-11-08T08:59:35.116900+00:00",
+      "title": "anyone running local ai on 16gb vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqjenw/anyone_running_local_ai_on_16gb_vram"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqmr2i": {
+      "at": "2026-11-08T08:59:35.116871+00:00",
+      "title": "saw this benchmark where small changes to coding tasks made a big difference",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18751,6 +18771,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-07T23:39:02.206495+00:00",
+  "updated_at": "2026-11-08T08:59:35.116937+00:00",
   "version": 2
 }

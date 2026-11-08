@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-07T23:39:00.906482+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xq65rl",
+        "title": "TSMC might do in memory compute for us",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xq65rl/tsmc_might_do_in_memory_compute_for_us/",
+        "author": "/u/Terminator857",
+        "published_at": "2026-11-07T13:17:49+00:00"
+      },
+      "insight": {
+        "title_ko": "TSMC의 차세대 메모리 기술 동향",
+        "summary_ko": [
+          "TSMC는 2025 VLSI 심포지엄에서 로직 칩과 통합 가능한 산화물 반도체 기반의 메모리 기술을 발표했습니다.",
+          "해당 기술은 SRAM보다 높은 집적도를 제공하며 저전력 및 저지연 프로세서 캐시 구현을 목표로 합니다.",
+          "일각에서는 TSMC의 3D DRAM 진출 가능성이 제기되었으나, TSMC 측은 DRAM 사업 진출 계획을 부인했습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
