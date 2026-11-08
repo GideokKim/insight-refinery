@@ -23,6 +23,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xr0ykk",
+        "title": "I fine-tuned Qwen3.5-0.8B to turn plain English into bash. What I learnt",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into/",
+        "author": "/u/AlternativeEnough352",
+        "published_at": "2026-11-08T15:26:31+00:00"
+      },
+      "insight": {
+        "title_ko": "오프라인 터미널 헬퍼 개발과 소형 모델 미세조정 경험",
+        "summary_ko": [
+          "일상 언어를 bash 명령어로 변환하는 오프라인 터미널 헬퍼 dale 프로젝트를 구축하고 모델을 미세조정했습니다.",
+          "소형 모델을 미세조정한 결과, 복잡한 제약 사항이 포함된 평가 셋에서 대형 순정 모델보다 더 정확한 성능을 기록했습니다.",
+          "모델 학습이 정체되었을 때 복잡한 기법 대신 학습 데이터의 구성과 문장 길이를 개선하는 것이 중요함을 확인했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

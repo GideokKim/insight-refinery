@@ -18100,6 +18100,46 @@
       "title": "saw this benchmark where small changes to coding tasks made a big difference",
       "url": "reddit.com/r/LocalLLaMA/comments/1xqmr2i/saw_this_benchmark_where_small_changes_to_coding"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqs2sh": {
+      "at": "2026-11-08T17:04:16.270625+00:00",
+      "title": "openclaw retrospective",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqs2sh/openclaw_retrospective"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqvhua": {
+      "at": "2026-11-08T17:04:16.270565+00:00",
+      "title": "huggingface wow 2 zerogpu spaces for all free accounts",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqvhua/huggingface_wow_2_zerogpu_spaces_for_all_free"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqxqvw": {
+      "at": "2026-11-08T17:04:16.270606+00:00",
+      "title": "2x256gb m5u current status",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqxqvw/2x256gb_m5u_current_status"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xqzt4r": {
+      "at": "2026-11-08T17:04:16.270595+00:00",
+      "title": "proposal uncensoring loras",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xqzt4r/proposal_uncensoring_loras"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr01bj": {
+      "at": "2026-11-08T17:04:16.270549+00:00",
+      "title": "users have started buying rtx 5060 ti 16gb graphics cards en masse for the sake of ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr09nq": {
+      "at": "2026-11-08T17:04:16.270581+00:00",
+      "title": "does censorship exist in country according to various llms",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr0ykk": {
+      "at": "2026-11-08T17:04:16.270475+00:00",
+      "title": "i fine tuned qwen3 5 0 8b to turn plain english into bash what i learnt",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr0ykk/i_finetuned_qwen3508b_to_turn_plain_english_into"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr18t3": {
+      "at": "2026-11-08T17:04:16.270523+00:00",
+      "title": "i ran qwen3 5 0 8b in pure assembly",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr18t3/i_ran_qwen3508b_in_pure_assembly"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -18771,6 +18811,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-08T08:59:35.116937+00:00",
+  "updated_at": "2026-11-08T17:04:16.270676+00:00",
   "version": 2
 }
