@@ -9531,6 +9531,11 @@
       "title": "after the midterms things are looking rocky for elon musk and data centers",
       "url": "techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers"
     },
+    "rss:https://techcrunch.com/?p=3186128": {
+      "at": "2026-11-08T21:11:41.252876+00:00",
+      "title": "nvidia will investigate ceo jensen huang s relationship with possible chinese spy",
+      "url": "techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -18140,6 +18145,41 @@
       "title": "i ran qwen3 5 0 8b in pure assembly",
       "url": "reddit.com/r/LocalLLaMA/comments/1xr18t3/i_ran_qwen3508b_in_pure_assembly"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr2a6y": {
+      "at": "2026-11-08T21:11:41.253014+00:00",
+      "title": "4x radeon ai pro r9700 2x rtx 3090 on one x16 slot using a pcie switch",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr2a6y/4x_radeon_ai_pro_r9700_2x_rtx_3090_on_one_x16"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr2aaa": {
+      "at": "2026-11-08T21:11:41.252945+00:00",
+      "title": "tencent qwen3 8 27b dspine b16 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr3qes": {
+      "at": "2026-11-08T21:11:41.252982+00:00",
+      "title": "motion graphics video made with qwen3 8 flash next gsq rco iq3_xxs on strata",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr3qes/motion_graphics_video_made_with_qwen38_flash_next"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr3ymf": {
+      "at": "2026-11-08T21:11:41.253001+00:00",
+      "title": "gpt 5 5 dataset across my used 25 billion tokens",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr6krp": {
+      "at": "2026-11-08T21:11:41.252964+00:00",
+      "title": "next concept modeling fast parallel coarse to fine text generation this will completely change everything",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr78s5": {
+      "at": "2026-11-08T21:11:41.252918+00:00",
+      "title": "intel arc pro b70 32gb 1 299 vs nvidia rtx 5090 6 500 on qwen3 8 27b about 1 2 speed gen 1 3 speed prefill for 1 5 price after best setup",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr78s5/intel_arc_pro_b70_32gb_1299_vs_nvidia_rtx_5090"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr8h0a": {
+      "at": "2026-11-08T21:11:41.252993+00:00",
+      "title": "apparently qwen4 27b is coming monday november 9th at 3pm beijing time",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr8h0a/apparently_qwen4_27b_is_coming_monday_november"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -18811,6 +18851,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-08T17:04:16.270676+00:00",
+  "updated_at": "2026-11-08T21:11:41.253052+00:00",
   "version": 2
 }
