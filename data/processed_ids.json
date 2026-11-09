@@ -335,6 +335,11 @@
       "title": "agility robotics nasdaq debut invites scrutiny of humanoid robot market",
       "url": "arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market"
     },
+    "rss:https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/": {
+      "at": "2026-11-09T23:27:26.712491+00:00",
+      "title": "claude code is accidentally exposing secrets all over github",
+      "url": "arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github"
+    },
     "rss:https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/": {
       "at": "2026-11-02T20:48:28.854683+00:00",
       "title": "claude s new rules against game cloning won t stop the ai copying boom",
@@ -1674,6 +1679,11 @@
       "at": "2026-11-06T20:28:28.296419+00:00",
       "title": "accelerating reinforcement learning weight refit with the reshard collective",
       "url": "developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124655": {
+      "at": "2026-11-09T23:27:26.712628+00:00",
+      "title": "make a robot arm feel weightless with nvidia holoscan 5",
+      "url": "developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5"
     },
     "rss:https://developer.nvidia.com/blog/?p=124785": {
       "at": "2026-11-07T02:48:09.039314+00:00",
@@ -3849,6 +3859,11 @@
       "title": "healthcare organizations can now connect ehr and additional industry data to chatgpt",
       "url": "openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
     },
+    "rss:https://openai.com/index/chatgpt-enterprise-aws-marketplace": {
+      "at": "2026-11-09T23:27:26.712645+00:00",
+      "title": "chatgpt enterprise now available in aws marketplace",
+      "url": "openai.com/index/chatgpt-enterprise-aws-marketplace"
+    },
     "rss:https://openai.com/index/chatgpt-expanding-world-of-work": {
       "at": "2026-10-26T21:39:27.933857+00:00",
       "title": "chatgpt s expanding world of work",
@@ -4761,6 +4776,11 @@
       "at": "2026-08-19T17:19:19.683376+00:00",
       "title": "expanding our heat resilience data to 50 global cities",
       "url": "research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities"
+    },
+    "rss:https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/": {
+      "at": "2026-11-09T23:27:26.712746+00:00",
+      "title": "exploring the world s languages with language explorer",
+      "url": "research.google/blog/exploring-the-worlds-languages-with-language-explorer"
     },
     "rss:https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/": {
       "at": "2026-08-19T20:13:45.261360+00:00",
@@ -9580,6 +9600,46 @@
       "at": "2026-11-09T13:54:28.201458+00:00",
       "title": "is jensen huang s job on the line yale s jeffrey sonnenfeld estimates it s about a 50 50",
       "url": "techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50"
+    },
+    "rss:https://techcrunch.com/?p=3186240": {
+      "at": "2026-11-09T23:27:26.712697+00:00",
+      "title": "medium s new tk app brings ai assistance directly into the writing process",
+      "url": "techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process"
+    },
+    "rss:https://techcrunch.com/?p=3186273": {
+      "at": "2026-11-09T23:27:26.712802+00:00",
+      "title": "anthropic joins ai s natural gas frenzy buys 3 4b worth of turbines",
+      "url": "techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines"
+    },
+    "rss:https://techcrunch.com/?p=3186298": {
+      "at": "2026-11-09T23:27:26.712472+00:00",
+      "title": "meta releases muse ember a new lightweight model for agent execution",
+      "url": "techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution"
+    },
+    "rss:https://techcrunch.com/?p=3186336": {
+      "at": "2026-11-09T23:27:26.712659+00:00",
+      "title": "jensen huang s affair with alleged chinese spy puts nvidia s china ambitions under scrutiny",
+      "url": "techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny"
+    },
+    "rss:https://techcrunch.com/?p=3186369": {
+      "at": "2026-11-09T23:27:26.712452+00:00",
+      "title": "anthropic releases new mythos and fable models amid rsi concerns",
+      "url": "techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns"
+    },
+    "rss:https://techcrunch.com/?p=3186477": {
+      "at": "2026-11-09T23:27:26.712765+00:00",
+      "title": "jensen huang pulls out of elevenlabs summit amid nvidia controversy",
+      "url": "techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy"
+    },
+    "rss:https://techcrunch.com/?p=3186479": {
+      "at": "2026-11-09T23:27:26.712575+00:00",
+      "title": "the race is on to sue nvidia",
+      "url": "techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia"
+    },
+    "rss:https://techcrunch.com/?p=3186581": {
+      "at": "2026-11-09T23:27:26.712550+00:00",
+      "title": "a short seller flagged nvidia ceo s ties to a suspected chinese spy six months before the scandal",
+      "url": "techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -18260,6 +18320,56 @@
       "title": "l11 n8147 is a neuron that will make qwen 3 5 4b get things confidently wrong while being weirdly snarky but also makes it write interesting poetry",
       "url": "reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xruzry": {
+      "at": "2026-11-09T23:27:26.712715+00:00",
+      "title": "drummer s orion 26b a4b v1 and v1 1 plus a new project from yours truly",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xruzry/drummers_orion_26b_a4b_v1_and_v11_plus_a_new"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xrxwg1": {
+      "at": "2026-11-09T23:27:26.712791+00:00",
+      "title": "conceptcountry qwen concept 27b hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xrxwg1/conceptcountryqwenconcept27b_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xrydgx": {
+      "at": "2026-11-09T23:27:26.712783+00:00",
+      "title": "more interesting and unusual qwen3 5 4b neurons",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xryvbg": {
+      "at": "2026-11-09T23:27:26.712677+00:00",
+      "title": "i fine tuned a 2b decision model to play doom on my mac in 43 minutes open source mlx",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xryvbg/i_finetuned_a_2b_decision_model_to_play_doom_on"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs0izk": {
+      "at": "2026-11-09T23:27:26.712814+00:00",
+      "title": "from the finest minds of our age to the dumbest monkeys on the planet",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs0izk/from_the_finest_minds_of_our_age_to_the_dumbest"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs0qmx": {
+      "at": "2026-11-09T23:27:26.712773+00:00",
+      "title": "muse ember zuck promised to open source muse spark 1 2 but continues to release to more closed models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs0qmx/muse_ember_zuck_promised_to_open_source_muse"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs2okh": {
+      "at": "2026-11-09T23:27:26.712755+00:00",
+      "title": "qwen 3 8 fn getting stressed from messing up",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs2okh/qwen_38_fn_getting_stressed_from_messing_up"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs3y17": {
+      "at": "2026-11-09T23:27:26.712737+00:00",
+      "title": "got another good reminder why local matters today",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs46nh": {
+      "at": "2026-11-09T23:27:26.712591+00:00",
+      "title": "omni voice is the fastest and best voice clone tts out there i ve tested them all",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs46nh/omni_voice_is_the_fastest_and_best_voice_clone"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs5pkl": {
+      "at": "2026-11-09T23:27:26.712729+00:00",
+      "title": "is artificialanalysis biased against open weight models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -18820,6 +18930,16 @@
       "title": "i watched a humanoid robot clean my apartment it felt like a taste of the future",
       "url": "technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future"
     },
+    "rss:https://www.technologyreview.com/?p=1148182": {
+      "at": "2026-11-09T23:27:26.712532+00:00",
+      "title": "nancy pelosi s replacement is ready to regulate ai",
+      "url": "technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai"
+    },
+    "rss:https://www.technologyreview.com/?p=1148194": {
+      "at": "2026-11-09T23:27:26.712399+00:00",
+      "title": "the backlash about data centers might really just be about electricity",
+      "url": "technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -18900,6 +19020,11 @@
       "title": "ainews anthropic ipo whither now",
       "url": "latent.space/p/ainews-anthropic-ipo-whither-now"
     },
+    "rss:urn:latent-space:post:post_7c4df2dc-89b9-4ffa-a212-174cf579b0ee": {
+      "at": "2026-11-09T23:27:26.712506+00:00",
+      "title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
+      "url": "latent.space/p/handshake"
+    },
     "rss:urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": {
       "at": "2026-10-24T12:41:12.841488+00:00",
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
@@ -18946,6 +19071,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-09T13:54:28.201613+00:00",
+  "updated_at": "2026-11-09T23:27:26.712860+00:00",
   "version": 2
 }
