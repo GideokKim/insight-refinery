@@ -3656,6 +3656,11 @@
       "title": "the end of microsoft research s ai frontiers group",
       "url": "hunch.net/?p=13764006"
     },
+    "rss:https://news.ycombinator.com/item?id=50416363": {
+      "at": "2026-11-09T02:40:03.910663+00:00",
+      "title": "how i fight ai brain fry",
+      "url": "sergeykuhne.com/blog/fighting-ai-brain-fry"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -5071,6 +5076,11 @@
       "at": "2026-11-08T08:59:35.116885+00:00",
       "title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
       "url": "simonwillison.net/2026/Nov/7/link-rel-next"
+    },
+    "rss:https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/": {
+      "at": "2026-11-09T02:40:03.910631+00:00",
+      "title": "parse_number as a sqlite extension c vs rust",
+      "url": "simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -18155,6 +18165,16 @@
       "title": "tencent qwen3 8 27b dspine b16 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xr2aaa/tencentqwen3827bdspineb16_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr2rqk": {
+      "at": "2026-11-09T02:40:03.910597+00:00",
+      "title": "artificial analysis multimodal decision model drex max ranks 1 both achieving sota and pareto frontier",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr2rqk/artificial_analysis_multimodal_decision_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr3ifw": {
+      "at": "2026-11-09T02:40:03.910678+00:00",
+      "title": "the qwen flash next alibaba url thing happened to me too just now",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr3ifw/the_qwen_flash_next_alibaba_url_thing_happened_to"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr3qes": {
       "at": "2026-11-08T21:11:41.252982+00:00",
       "title": "motion graphics video made with qwen3 8 flash next gsq rco iq3_xxs on strata",
@@ -18164,6 +18184,11 @@
       "at": "2026-11-08T21:11:41.253001+00:00",
       "title": "gpt 5 5 dataset across my used 25 billion tokens",
       "url": "reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr4iv0": {
+      "at": "2026-11-09T02:40:03.910573+00:00",
+      "title": "what are people finding local models actually useful for",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr4iv0/what_are_people_finding_local_models_actually"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr6krp": {
       "at": "2026-11-08T21:11:41.252964+00:00",
@@ -18179,6 +18204,11 @@
       "at": "2026-11-08T21:11:41.252993+00:00",
       "title": "apparently qwen4 27b is coming monday november 9th at 3pm beijing time",
       "url": "reddit.com/r/LocalLLaMA/comments/1xr8h0a/apparently_qwen4_27b_is_coming_monday_november"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xrcia4": {
+      "at": "2026-11-09T02:40:03.910615+00:00",
+      "title": "joined the 4x r9700 club initial benchmarks for qfn 3 8 below",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18750,6 +18780,11 @@
       "title": "building legal agents when you can t see the data jacob lauritzen cto of legora",
       "url": "latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora"
     },
+    "rss:urn:latent-space:post:pod_ep_01a1bcf7-771f-7c67-ba1d-94f856e787b0": {
+      "at": "2026-11-09T02:40:03.910644+00:00",
+      "title": "one million ai engineer special how stanford teaches ai native engineering mihail eric monaco",
+      "url": "latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco"
+    },
     "rss:urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e": {
       "at": "2026-10-27T07:51:59.875319+00:00",
       "title": "ainews anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
@@ -18820,6 +18855,11 @@
       "title": "building ai for lawyers jacob lauritzen cto of legora",
       "url": "latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora"
     },
+    "rss:urn:latent-space:post:post_c965535e-89a8-4755-b38e-4e9eda7f9bb3": {
+      "at": "2026-11-09T02:40:03.910496+00:00",
+      "title": "how stanford teaches ai native engineering mihail eric monaco",
+      "url": "latent.space/p/cs146s"
+    },
     "rss:urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337": {
       "at": "2026-10-28T11:21:06.467502+00:00",
       "title": "ainews anthropic ends coding interviews hunger beats tenure",
@@ -18851,6 +18891,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-08T21:11:41.253052+00:00",
+  "updated_at": "2026-11-09T02:40:03.910725+00:00",
   "version": 2
 }
