@@ -1835,6 +1835,11 @@
       "title": "toyblocks a controlled world for robot learning and evaluation",
       "url": "huggingface.co/blog/allenai/toyblocks"
     },
+    "rss:https://huggingface.co/blog/amazon/higher-order-pruning-experts": {
+      "at": "2026-11-09T13:54:28.201443+00:00",
+      "title": "your experts have partners there s hope for keeping them together",
+      "url": "huggingface.co/blog/amazon/higher-order-pruning-experts"
+    },
     "rss:https://huggingface.co/blog/amazon/profiling-torchneuron-part-1": {
       "at": "2026-10-21T18:41:55.078976+00:00",
       "title": "profiling torchneuron part 1 system level profiling on aws trainium",
@@ -3651,6 +3656,11 @@
       "title": "ai is dramatically accelerating ai research",
       "url": "planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50401029": {
+      "at": "2026-11-09T13:54:28.201556+00:00",
+      "title": "the ai sell off compared to well known stock market crashes",
+      "url": "kadoa.com/companies/insights/ai-selloff-perspective"
+    },
     "rss:https://news.ycombinator.com/item?id=50406563": {
       "at": "2026-11-07T23:39:02.206318+00:00",
       "title": "the end of microsoft research s ai frontiers group",
@@ -3660,6 +3670,11 @@
       "at": "2026-11-09T02:40:03.910663+00:00",
       "title": "how i fight ai brain fry",
       "url": "sergeykuhne.com/blog/fighting-ai-brain-fry"
+    },
+    "rss:https://news.ycombinator.com/item?id=50418975": {
+      "at": "2026-11-09T13:54:28.201543+00:00",
+      "title": "i m not convinced the ai bubble exists",
+      "url": "matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -5072,6 +5087,11 @@
       "title": "quoting nilay patel",
       "url": "simonwillison.net/2026/Nov/6/nilay-patel"
     },
+    "rss:https://simonwillison.net/2026/Nov/7/hn-50407316/": {
+      "at": "2026-11-09T13:54:28.201571+00:00",
+      "title": "terry pratchett s study",
+      "url": "simonwillison.net/2026/Nov/7/hn-50407316"
+    },
     "rss:https://simonwillison.net/2026/Nov/7/link-rel-next/": {
       "at": "2026-11-08T08:59:35.116885+00:00",
       "title": "datasette 3046 don t serve link rel next http headers to firefox for html pages",
@@ -5081,6 +5101,16 @@
       "at": "2026-11-09T02:40:03.910631+00:00",
       "title": "parse_number as a sqlite extension c vs rust",
       "url": "simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust"
+    },
+    "rss:https://simonwillison.net/2026/Nov/9/details-summary/": {
+      "at": "2026-11-09T13:54:28.201494+00:00",
+      "title": "hide your slop pr descriptions behind",
+      "url": "simonwillison.net/2026/Nov/9/details-summary"
+    },
+    "rss:https://simonwillison.net/2026/Nov/9/hn-50421091/": {
+      "at": "2026-11-09T13:54:28.201481+00:00",
+      "title": "the web is more than enough by paul ford",
+      "url": "simonwillison.net/2026/Nov/9/hn-50421091"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -9545,6 +9575,11 @@
       "at": "2026-11-08T21:11:41.252876+00:00",
       "title": "nvidia will investigate ceo jensen huang s relationship with possible chinese spy",
       "url": "techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy"
+    },
+    "rss:https://techcrunch.com/?p=3186150": {
+      "at": "2026-11-09T13:54:28.201458+00:00",
+      "title": "is jensen huang s job on the line yale s jeffrey sonnenfeld estimates it s about a 50 50",
+      "url": "techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -18195,6 +18230,11 @@
       "title": "next concept modeling fast parallel coarse to fine text generation this will completely change everything",
       "url": "reddit.com/r/LocalLLaMA/comments/1xr6krp/nextconcept_modeling_fast_parallel_coarsetofine"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr777l": {
+      "at": "2026-11-09T13:54:28.201367+00:00",
+      "title": "kimi k3 1 pro coder 2 8t 1 77 tb 775 gb 56 36 8 tps batch 10 8 tps on 1x blackwell 96 7 on both aime 2025 and livecodebench",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xr78s5": {
       "at": "2026-11-08T21:11:41.252918+00:00",
       "title": "intel arc pro b70 32gb 1 299 vs nvidia rtx 5090 6 500 on qwen3 8 27b about 1 2 speed gen 1 3 speed prefill for 1 5 price after best setup",
@@ -18205,10 +18245,20 @@
       "title": "apparently qwen4 27b is coming monday november 9th at 3pm beijing time",
       "url": "reddit.com/r/LocalLLaMA/comments/1xr8h0a/apparently_qwen4_27b_is_coming_monday_november"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xrarta": {
+      "at": "2026-11-09T13:54:28.201506+00:00",
+      "title": "nous research arete 27b gguf quants",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xrarta/nous_research_arete27b_gguf_quants"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xrcia4": {
       "at": "2026-11-09T02:40:03.910615+00:00",
       "title": "joined the 4x r9700 club initial benchmarks for qfn 3 8 below",
       "url": "reddit.com/r/LocalLLaMA/comments/1xrcia4/joined_the_4x_r9700_club_initial_benchmarks_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xrkomn": {
+      "at": "2026-11-09T13:54:28.201523+00:00",
+      "title": "l11 n8147 is a neuron that will make qwen 3 5 4b get things confidently wrong while being weirdly snarky but also makes it write interesting poetry",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -18715,6 +18765,11 @@
       "title": "the focus on ai safety disasters ignores everyday harms",
       "url": "technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
     },
+    "rss:https://www.technologyreview.com/?p=1147654": {
+      "at": "2026-11-09T13:54:28.201422+00:00",
+      "title": "innovating with ai in the special chemicals industry",
+      "url": "technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry"
+    },
     "rss:https://www.technologyreview.com/?p=1147660": {
       "at": "2026-11-02T20:48:28.854545+00:00",
       "title": "raising the quality of insights in agentic analytics",
@@ -18891,6 +18946,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-09T02:40:03.910725+00:00",
+  "updated_at": "2026-11-09T13:54:28.201613+00:00",
   "version": 2
 }

@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-09T02:40:02.412647+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xr777l",
+        "title": "Kimi-K3.1-Pro-Coder (2.8T) | 1.77 TB -> 775 GB (-56%) | 36.8 TPS (Batch) / 10.8 TPS on 1x Blackwell | 96.7% on both AIME 2025 and LiveCodeBench",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr777l/kimik31procoder_28t_177_tb_775_gb_56_368_tps/",
+        "author": "/u/Grawnch",
+        "published_at": "2026-11-08T19:45:03+00:00"
+      },
+      "insight": {
+        "title_ko": "Kimi-K3.1-Pro-Coder 모델 경량화 및 실행",
+        "summary_ko": [
+          "2.8T 파라미터 규모의 Kimi-K3.1-Pro 모델을 775GB로 압축하고 단일 GPU 환경에서 실행 가능한 기법을 공개했다.",
+          "라우티드 MoE 전문가 계층을 3단계 티어로 나누고 커스텀 로더와 디퀀타이제이션 커널을 활용해 성능 저하를 최소화했다.",
+          "벤치마크 테스트 결과 원본 모델과 유사한 추론 성능을 유지하면서 단일 Blackwell GPU에서 구동할 수 있음을 입증했다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
