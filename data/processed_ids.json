@@ -485,6 +485,11 @@
       "title": "updated google privacy policy says your gmail might be used for advertising",
       "url": "arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising"
     },
+    "rss:https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/": {
+      "at": "2026-11-10T18:42:12.047955+00:00",
+      "title": "ukraine s fiber optic drones get squeezed by ai data center demand",
+      "url": "arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand"
+    },
     "rss:https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/": {
       "at": "2026-08-31T15:35:36.937264+00:00",
       "title": "pocket s ai made my game ideas real now meta controls the results",
@@ -554,6 +559,11 @@
       "at": "2026-10-13T20:18:11.652163+00:00",
       "title": "google wants to host your personal vibe coded apps in the play store",
       "url": "arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store"
+    },
+    "rss:https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/": {
+      "at": "2026-11-10T18:42:12.047740+00:00",
+      "title": "deepmind reveals gemini robotics 2 5 and open safety benchmark asimov jailbreak",
+      "url": "arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
     },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
@@ -1000,6 +1010,11 @@
       "title": "gemini 4 argon our next era of frontier intelligence",
       "url": "deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence"
     },
+    "rss:https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
+      "at": "2026-11-10T18:42:12.047694+00:00",
+      "title": "gemini 4 carbon is now available",
+      "url": "deepmind.google/blog/gemini-4-carbon-is-now-available"
+    },
     "rss:https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
       "at": "2026-10-28T19:35:25.771194+00:00",
       "title": "gemini 4 carbon our next frontier model",
@@ -1029,6 +1044,11 @@
       "at": "2026-09-01T17:32:37.259503+00:00",
       "title": "introducing agentic video understanding with gemini",
       "url": "deepmind.google/blog/introducing-agentic-video-in-gemini"
+    },
+    "rss:https://deepmind.google/blog/introducing-alphaproof-code/": {
+      "at": "2026-11-10T18:42:12.047844+00:00",
+      "title": "introducing alphaproof code a breakthrough in verifying complex software at depth",
+      "url": "deepmind.google/blog/introducing-alphaproof-code"
     },
     "rss:https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": {
       "at": "2026-09-02T17:30:27.096454+00:00",
@@ -1690,10 +1710,30 @@
       "title": "make a robot arm feel weightless with nvidia holoscan 5",
       "url": "developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124728": {
+      "at": "2026-11-10T18:42:12.047759+00:00",
+      "title": "agent substrate advancing kubernetes for agents at scale",
+      "url": "developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124736": {
+      "at": "2026-11-10T18:42:12.047774+00:00",
+      "title": "start and restore gpu workloads in seconds with nvidia snapshot",
+      "url": "developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124785": {
       "at": "2026-11-07T02:48:09.039314+00:00",
       "title": "speed up image generation with flux 3 image klein on nvidia blackwell gpus",
       "url": "developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124882": {
+      "at": "2026-11-10T18:42:12.047710+00:00",
+      "title": "running av reasoning models within onboard compute and latency limits",
+      "url": "developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=124939": {
+      "at": "2026-11-10T18:42:12.047793+00:00",
+      "title": "manage kubernetes clusters for gpu infrastructure with nvidia kubernetes engine",
+      "url": "developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
       "at": "2026-11-04T20:51:32.121355+00:00",
@@ -3711,6 +3751,11 @@
       "title": "coreweave bond yield tops 16 as ai credit stress rises",
       "url": "cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
     },
+    "rss:https://news.ycombinator.com/item?id=50438318": {
+      "at": "2026-11-10T18:42:12.047978+00:00",
+      "title": "ai usage generates a fragile codebase",
+      "url": "evanxmerz.com/post/ai-usage-generates-a-fragile-codebase"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4128,6 +4173,11 @@
       "at": "2026-11-03T12:48:49.199213+00:00",
       "title": "heimstaden is changing residential real estate management with ai",
       "url": "openai.com/index/heimstaden"
+    },
+    "rss:https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+      "at": "2026-11-10T18:42:12.048009+00:00",
+      "title": "helping caregivers use ai in everyday life",
+      "url": "openai.com/index/helping-caregivers-use-ai-in-everyday-life"
     },
     "rss:https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
       "at": "2026-09-16T18:14:09.223531+00:00",
@@ -9646,6 +9696,11 @@
       "title": "meta introduces spaces a new way to collaborate with your muse agent",
       "url": "techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent"
     },
+    "rss:https://techcrunch.com/?p=3185992": {
+      "at": "2026-11-10T18:42:12.047945+00:00",
+      "title": "cyberattacks threaten to make open source ai a little less open hugging face exec warns",
+      "url": "techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns"
+    },
     "rss:https://techcrunch.com/?p=3186034": {
       "at": "2026-11-07T02:48:09.039261+00:00",
       "title": "openai reportedly raises an additional 11 billion at a 1 25 trillion valuation",
@@ -9681,6 +9736,11 @@
       "title": "is jensen huang s job on the line yale s jeffrey sonnenfeld estimates it s about a 50 50",
       "url": "techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50"
     },
+    "rss:https://techcrunch.com/?p=3186193": {
+      "at": "2026-11-10T18:42:12.047725+00:00",
+      "title": "google broadens its ai hardware portfolio with two new specialized chips",
+      "url": "techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips"
+    },
     "rss:https://techcrunch.com/?p=3186240": {
       "at": "2026-11-09T23:27:26.712697+00:00",
       "title": "medium s new tk app brings ai assistance directly into the writing process",
@@ -9696,6 +9756,11 @@
       "title": "meta releases muse ember a new lightweight model for agent execution",
       "url": "techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution"
     },
+    "rss:https://techcrunch.com/?p=3186334": {
+      "at": "2026-11-10T18:42:12.047923+00:00",
+      "title": "after challenging google s android with cyanogen its co founder takes aim at windows for ai era",
+      "url": "techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era"
+    },
     "rss:https://techcrunch.com/?p=3186336": {
       "at": "2026-11-09T23:27:26.712659+00:00",
       "title": "jensen huang s affair with alleged chinese spy puts nvidia s china ambitions under scrutiny",
@@ -9705,6 +9770,11 @@
       "at": "2026-11-09T23:27:26.712452+00:00",
       "title": "anthropic releases new mythos and fable models amid rsi concerns",
       "url": "techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns"
+    },
+    "rss:https://techcrunch.com/?p=3186475": {
+      "at": "2026-11-10T18:42:12.047873+00:00",
+      "title": "nvidia ceo jensen huang s affair with alleged chinese spy a timeline",
+      "url": "techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
     },
     "rss:https://techcrunch.com/?p=3186477": {
       "at": "2026-11-09T23:27:26.712765+00:00",
@@ -9716,6 +9786,11 @@
       "title": "the race is on to sue nvidia",
       "url": "techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia"
     },
+    "rss:https://techcrunch.com/?p=3186535": {
+      "at": "2026-11-10T18:42:12.047997+00:00",
+      "title": "spotify s ai dj gets new voices personalities and an option for less chatter",
+      "url": "techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter"
+    },
     "rss:https://techcrunch.com/?p=3186581": {
       "at": "2026-11-09T23:27:26.712550+00:00",
       "title": "a short seller flagged nvidia ceo s ties to a suspected chinese spy six months before the scandal",
@@ -9726,10 +9801,35 @@
       "title": "jensen huang reportedly engaged a pr firm with a history of handling high profile sex scandals a year ago",
       "url": "techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago"
     },
+    "rss:https://techcrunch.com/?p=3186635": {
+      "at": "2026-11-10T18:42:12.047935+00:00",
+      "title": "ring known for its doorbell cameras launches a home security drone and an enterprise security robot",
+      "url": "techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot"
+    },
     "rss:https://techcrunch.com/?p=3186715": {
       "at": "2026-11-10T09:51:47.444192+00:00",
       "title": "anthropic reportedly plans to move forward with ipo plans",
       "url": "techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans"
+    },
+    "rss:https://techcrunch.com/?p=3186771": {
+      "at": "2026-11-10T18:42:12.047809+00:00",
+      "title": "adobe brings ai agents and new creative tools to photoshop premiere and firefly",
+      "url": "techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp"
+    },
+    "rss:https://techcrunch.com/?p=3186772": {
+      "at": "2026-11-10T18:42:12.047825+00:00",
+      "title": "anthropic sets ipo price range of 70 to 78 per share to reach an implied valuation of 1 404 trillion",
+      "url": "techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion"
+    },
+    "rss:https://techcrunch.com/?p=3186827": {
+      "at": "2026-11-10T18:42:12.047893+00:00",
+      "title": "meta s ai agent muse lands on apple watch and android wear os",
+      "url": "techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os"
+    },
+    "rss:https://techcrunch.com/?p=3186876": {
+      "at": "2026-11-10T18:42:12.047647+00:00",
+      "title": "anthropic launches claude meetings to turn workplace discussions into plans and tasks",
+      "url": "techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -18490,6 +18590,31 @@
       "title": "qwen3 8 flash next have you tried swapping the ngrams as per their latest version",
       "url": "reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xski9d": {
+      "at": "2026-11-10T18:42:12.047858+00:00",
+      "title": "decision model to edit llm weight directly no training",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xskr0m": {
+      "at": "2026-11-10T18:42:12.047966+00:00",
+      "title": "xiangjuntang jovox 64 hugging face image to 3d",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsljn6": {
+      "at": "2026-11-10T18:42:12.048017+00:00",
+      "title": "nobody wondering why the us takes nvidia ceo affair public",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsljn6/nobody_wondering_why_the_us_takes_nvidia_ceo"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xso1ie": {
+      "at": "2026-11-10T18:42:12.047911+00:00",
+      "title": "minimax h3 image released an open weight image model built on h3",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsp3xt": {
+      "at": "2026-11-10T18:42:12.047986+00:00",
+      "title": "minimaxai minimax h3 image hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -19196,6 +19321,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-10T09:51:47.444312+00:00",
+  "updated_at": "2026-11-10T18:42:12.048059+00:00",
   "version": 2
 }

@@ -155,6 +155,270 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3186876",
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+        "author": "Aisha Malik",
+        "published_at": "2026-11-10T17:30:00+00:00"
+      },
+      "insight": {
+        "title_ko": "앤트로픽, 회의 자동화 도구 Claude Meetings 출시",
+        "summary_ko": [
+          "앤트로픽이 업무용 회의를 계획과 작업으로 전환하는 Claude Meetings를 출시했다.",
+          "회의 중 대화를 바탕으로 실행 계획 작성, 타임라인 생성, 채팅 질문 답변 등을 수행한다.",
+          "연동된 업무용 앱에 접근해 필요한 데이터를 검색하고 회의 효율성을 높인다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+        "title": "Gemini 4 Carbon is now available",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+        "author": null,
+        "published_at": "2026-11-10T16:03:47+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemini 4 Carbon 출시",
+        "summary_ko": [
+          "Google DeepMind가 신규 모델인 Gemini 4 Carbon을 새롭게 공개했습니다.",
+          "본문 내용이 제공되지 않아 구체적인 성능이나 특징은 확인하기 어렵습니다.",
+          "해당 모델은 현재 공식 블로그를 통해 이용이 가능합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124882",
+        "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+        "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits/",
+        "author": "Marco Pavone",
+        "published_at": "2026-11-10T16:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Alpamayo 2 Edge를 활용한 자율주행 추론 모델 최적화",
+        "summary_ko": [
+          "자율주행 개발자들은 온보드 시스템의 연산과 지연 시간 제약 내에서 작동하는 추론 모델을 필요로 합니다.",
+          "대형 모델은 자율주행 기능 개발의 기초를 제공하지만 차량 탑재를 위해서는 모델 크기 축소와 성능 검증이 필수적입니다.",
+          "NVIDIA Alpamayo 2 Edge는 이러한 제약 속에서 자율주행 추론 모델을 실행할 수 있도록 지원합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3186193",
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "author": "Ram Iyer",
+        "published_at": "2026-11-10T15:54:08+00:00"
+      },
+      "insight": {
+        "title_ko": "구글, AI 하드웨어 포트폴리오 확장을 위한 신규 칩 2종 공개",
+        "summary_ko": [
+          "구글이 기밀 모델 학습과 확장된 메모리 용량을 지원하는 새로운 TPU 칩 2종을 발표했다.",
+          "이번에 공개된 신제품들은 다양한 AI 활용 사례에 맞춰 구글의 하드웨어 포트폴리오를 다변화한다.",
+          "새로운 특화 칩을 통해 향후 더욱 안전하고 고성능인 AI 모델 학습과 연산이 가능해질 전망이다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+        "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+        "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+        "author": "Ryan Whitwam",
+        "published_at": "2026-11-10T15:00:39+00:00"
+      },
+      "insight": {
+        "title_ko": "구글 DeepMind, Gemini Robotics 2.5 및 ASIMOV 벤치마크 공개",
+        "summary_ko": [
+          "Google DeepMind는 인간 수준의 실세계 작업 수행에 근접한 Gemini Robotics 2.5를 새롭게 공개했습니다.",
+          "이 플랫폼은 VLA 기술을 통해 5지선다형 손으로 리본 묶기 등 높은 손재주가 요구되는 작업을 성공적으로 수행했습니다.",
+          "실제 Mercedes-Benz 공장 현장에 도입되었으며, 향후 안전성 검증을 위한 오픈소스 벤치마크도 함께 준비 중입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124728",
+        "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+        "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale/",
+        "author": "Ekin Karabulut",
+        "published_at": "2026-11-10T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "대규모 AI 에이전트를 위한 Kubernetes 개선",
+        "summary_ko": [
+          "AI 에이전트는 대기 시간이 길어 기존 Kubernetes 구조에서는 메모리 낭비나 콜드 스타트 문제가 발생합니다.",
+          "세션마다 Pod를 유지하면 유휴 상태에도 메모리가 점유되며, 세션 간 Pod 삭제는 상태 손실과 지연을 초래합니다.",
+          "이러한 한계를 극복하기 위해 에이전트 대규모 운영에 맞게 Kubernetes를 발전시키는 Agent Substrate가 공개되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124736",
+        "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+        "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot/",
+        "author": "Ron Kahn",
+        "published_at": "2026-11-10T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Snapshot을 통한 GPU 워크로드 고속 복구",
+        "summary_ko": [
+          "NVIDIA Snapshot은 오픈소스 구성 요소로 초기화된 GPU 워크로드를 재사용 가능하게 만들어 줍니다.",
+          "추론 수요 급증이나 복제본 장애 시 콜드 스타트 시간을 단축하여 신속한 서비스 복구를 지원합니다.",
+          "AI 인프라 환경에서 GPU 워크로드의 시작과 복구 속도를 수초 내로 단축할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124939",
+        "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+        "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine/",
+        "author": "Nathan Taber",
+        "published_at": "2026-11-10T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA, GPU 인프라용 Kubernetes 엔진 공개",
+        "summary_ko": [
+          "NVIDIA가 GPU 인프라에서 관리형 Kubernetes 서비스를 구축하고 운영하기 위한 두 가지 오픈소스 프로젝트를 공개했다.",
+          "이번에 공개된 프로젝트는 NVIDIA Kubernetes Engine과 NVIDIA Kubernetes Recipes로 현재 퍼블릭 프리뷰로 제공된다.",
+          "AI Factory 고객들은 기존에 사용하던 Kubernetes API와 도구를 활용해 GPU 용량을 효율적으로 소비할 수 있게 된다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3186771",
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+        "author": "Ivan Mehta",
+        "published_at": "2026-11-10T14:05:10+00:00"
+      },
+      "insight": {
+        "title_ko": "Adobe, Firefly에 AI 에이전트 및 신규 도구 추가",
+        "summary_ko": [
+          "Adobe가 Photoshop, Premiere, Firefly에 새로운 AI 에이전트와 창작 도구를 도입했습니다.",
+          "Firefly에는 Figma에 대항하기 위한 새로운 프로토타입 빌더 도구가 추가되었습니다.",
+          "이번 업데이트는 다양한 크리에이티브 제품군에 생성형 AI 기능을 더욱 확장하는 것을 목표로 합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3186772",
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+        "author": "Rebecca Bellan, Ram Iyer",
+        "published_at": "2026-11-10T14:01:39+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, IPO 공모가 밴드 및 1.4조 달러 밸류에이션 산정",
+        "summary_ko": [
+          "Anthropic은 완전 희석 기준으로 주당 70달러에서 78달러 사이의 IPO 공모가 범위를 설정했다.",
+          "이번 공모가 상단 기준 회사의 예상 기업 가치는 1조 4,040억 달러에 달할 것으로 전망된다.",
+          "이러한 대규모 상장 추진은 AI 산업 전반의 자본 조달과 시장 평가에 중요한 이정표가 된다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+        "author": null,
+        "published_at": "2026-11-10T12:02:28+00:00"
+      },
+      "insight": {
+        "title_ko": "구글 딥마인드, AlphaProof Code 공개",
+        "summary_ko": [
+          "구글 딥마인드가 복잡한 소프트웨어를 심층 검증하는 AlphaProof Code 에이전트를 발표했다.",
+          "AlphaProof Code 에이전트는 Signal의 핵심 암호화를 검증하기 위해 Lean 언어로 300만 줄의 증명을 작성했다.",
+          "이번 기술은 AI를 활용한 복잡한 소프트웨어 코드 및 보안 검증 분야에 중요한 진전을 보여준다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xski9d",
+        "title": "Decision model to edit LLM weight directly - No training",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xski9d/decision_model_to_edit_llm_weight_directly_no/",
+        "author": "/u/Nandakishor_ml",
+        "published_at": "2026-11-10T11:27:44+00:00"
+      },
+      "insight": {
+        "title_ko": "결정 모델을 활용한 LLM 가중치 직접 수정 기법",
+        "summary_ko": [
+          "결정 모델을 활용해 학습 과정 없이 LLM의 가중치를 직접 수정하는 새로운 방식이 제기되었습니다.",
+          "에너지 기반 결정 엔진으로부터 지식을 증류하여 Qwen 3.5 0.8B 모델에 새로운 기술을 주입했습니다.",
+          "이 방식은 LoRA와 유사한 성능을 내면서도 단 3밀리초 만에 수정이 가능하며 치명적인 망각 현상이 없습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
