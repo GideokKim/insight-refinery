@@ -935,6 +935,11 @@
       "title": "big tech claims voters ai backlash is anti trump not anti tech",
       "url": "arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/": {
+      "at": "2026-11-10T09:51:47.444232+00:00",
+      "title": "nvidia ceo s affair becomes a national security problem",
+      "url": "arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/": {
       "at": "2026-11-06T20:28:28.296427+00:00",
       "title": "does meta think we can t read meta abandons sketchy commercial terms update",
@@ -2092,6 +2097,11 @@
       "at": "2026-10-07T20:01:13.684737+00:00",
       "title": "one model family two gold level results fine tuning nemotron for ioi and imo",
       "url": "huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+    },
+    "rss:https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan": {
+      "at": "2026-11-10T09:51:47.444127+00:00",
+      "title": "nemotron personas finance japan a synthetic dataset capturing japan s demographics and financial context",
+      "url": "huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
     },
     "rss:https://huggingface.co/blog/nvidia/nemotron-transcribe-granary": {
       "at": "2026-10-29T00:00:51.638865+00:00",
@@ -3686,6 +3696,21 @@
       "title": "i m not convinced the ai bubble exists",
       "url": "matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html"
     },
+    "rss:https://news.ycombinator.com/item?id=50421426": {
+      "at": "2026-11-10T09:51:47.444262+00:00",
+      "title": "apple capped engineers at a 200 daily ai budget",
+      "url": "stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
+    },
+    "rss:https://news.ycombinator.com/item?id=50433079": {
+      "at": "2026-11-10T09:51:47.444118+00:00",
+      "title": "a year after the 100 ai mandate nobody understands our code",
+      "url": "reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody"
+    },
+    "rss:https://news.ycombinator.com/item?id=50435660": {
+      "at": "2026-11-10T09:51:47.444108+00:00",
+      "title": "coreweave bond yield tops 16 as ai credit stress rises",
+      "url": "cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -3889,10 +3914,20 @@
       "title": "how cisco defends at machine speed with openai",
       "url": "openai.com/index/cisco-cyber"
     },
+    "rss:https://openai.com/index/closing-ai-guidance-gap-education": {
+      "at": "2026-11-10T09:51:47.444157+00:00",
+      "title": "closing the ai guidance gap in education",
+      "url": "openai.com/index/closing-ai-guidance-gap-education"
+    },
     "rss:https://openai.com/index/cloudflare-cyber": {
       "at": "2026-10-22T07:35:51.097442+00:00",
       "title": "cloudflare links vulnerability discovery to defense with openai",
       "url": "openai.com/index/cloudflare-cyber"
+    },
+    "rss:https://openai.com/index/coderabbit-codex-daybreak": {
+      "at": "2026-11-10T09:51:47.444146+00:00",
+      "title": "coderabbit scales agentic software development and ships 20x more",
+      "url": "openai.com/index/coderabbit-codex-daybreak"
     },
     "rss:https://openai.com/index/codex-quantum-computing-experiments": {
       "at": "2026-09-08T22:07:38.642461+00:00",
@@ -3908,6 +3943,11 @@
       "at": "2026-10-30T17:03:26.348248+00:00",
       "title": "community safety report and new protections for teens",
       "url": "openai.com/index/community-safety-report-and-new-protections-for-teens"
+    },
+    "rss:https://openai.com/index/control-room": {
+      "at": "2026-11-10T09:51:47.444137+00:00",
+      "title": "control room a central system to track and stop model workloads across our research infrastructure",
+      "url": "openai.com/index/control-room"
     },
     "rss:https://openai.com/index/cooley-gopublic": {
       "at": "2026-09-18T01:17:38.909714+00:00",
@@ -4238,6 +4278,11 @@
       "at": "2026-10-07T02:24:06.366898+00:00",
       "title": "how jump trading is scaling quant research with chatgpt",
       "url": "openai.com/index/jump-trading"
+    },
+    "rss:https://openai.com/index/kuken": {
+      "at": "2026-11-10T09:51:47.444257+00:00",
+      "title": "kuken industries searches 70 years of drawings in minutes",
+      "url": "openai.com/index/kuken"
     },
     "rss:https://openai.com/index/learning-never-stops": {
       "at": "2026-08-26T18:46:54.599788+00:00",
@@ -5052,6 +5097,21 @@
       "title": "quoting kyle kingsbury",
       "url": "simonwillison.net/2026/Nov/1/kyle-kingsbury"
     },
+    "rss:https://simonwillison.net/2026/Nov/10/muse-ember/": {
+      "at": "2026-11-10T09:51:47.444097+00:00",
+      "title": "introducing our smallest most efficient model muse ember",
+      "url": "simonwillison.net/2026/Nov/10/muse-ember"
+    },
+    "rss:https://simonwillison.net/2026/Nov/10/prompting-claude-fable-52/": {
+      "at": "2026-11-10T09:51:47.444176+00:00",
+      "title": "quoting prompting claude fable 5 2",
+      "url": "simonwillison.net/2026/Nov/10/prompting-claude-fable-52"
+    },
+    "rss:https://simonwillison.net/2026/Nov/10/yonkers-rises/": {
+      "at": "2026-11-10T09:51:47.444268+00:00",
+      "title": "yonkers rises",
+      "url": "simonwillison.net/2026/Nov/10/yonkers-rises"
+    },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
       "title": "the u s census bureau and super intelligence",
@@ -5131,6 +5191,16 @@
       "at": "2026-11-09T13:54:28.201481+00:00",
       "title": "the web is more than enough by paul ford",
       "url": "simonwillison.net/2026/Nov/9/hn-50421091"
+    },
+    "rss:https://simonwillison.net/2026/Nov/9/llm-anthropic/": {
+      "at": "2026-11-10T09:51:47.444209+00:00",
+      "title": "llm anthropic 0 31",
+      "url": "simonwillison.net/2026/Nov/9/llm-anthropic"
+    },
+    "rss:https://simonwillison.net/2026/Nov/9/mysterious-beeps/": {
+      "at": "2026-11-10T09:51:47.444216+00:00",
+      "title": "locating the source of a mysterious beep with claude",
+      "url": "simonwillison.net/2026/Nov/9/mysterious-beeps"
     },
     "rss:https://simonwillison.net/2026/Oct/1/matthew-green/": {
       "at": "2026-10-01T08:58:35.109372+00:00",
@@ -9526,6 +9596,11 @@
       "title": "openai president greg brockman says company could be ipo ready in 2027",
       "url": "techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027"
     },
+    "rss:https://techcrunch.com/?p=3185546": {
+      "at": "2026-11-10T09:51:47.444167+00:00",
+      "title": "otter ai can now follow conversations across 30 languages",
+      "url": "techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages"
+    },
     "rss:https://techcrunch.com/?p=3185548": {
       "at": "2026-11-05T21:08:12.372692+00:00",
       "title": "meta warns that election backlash against data centers could make ai expansion harder",
@@ -9591,6 +9666,11 @@
       "title": "after the midterms things are looking rocky for elon musk and data centers",
       "url": "techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers"
     },
+    "rss:https://techcrunch.com/?p=3186097": {
+      "at": "2026-11-10T09:51:47.444250+00:00",
+      "title": "automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "url": "techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet"
+    },
     "rss:https://techcrunch.com/?p=3186128": {
       "at": "2026-11-08T21:11:41.252876+00:00",
       "title": "nvidia will investigate ceo jensen huang s relationship with possible chinese spy",
@@ -9640,6 +9720,16 @@
       "at": "2026-11-09T23:27:26.712550+00:00",
       "title": "a short seller flagged nvidia ceo s ties to a suspected chinese spy six months before the scandal",
       "url": "techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal"
+    },
+    "rss:https://techcrunch.com/?p=3186628": {
+      "at": "2026-11-10T09:51:47.444279+00:00",
+      "title": "jensen huang reportedly engaged a pr firm with a history of handling high profile sex scandals a year ago",
+      "url": "techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago"
+    },
+    "rss:https://techcrunch.com/?p=3186715": {
+      "at": "2026-11-10T09:51:47.444192+00:00",
+      "title": "anthropic reportedly plans to move forward with ipo plans",
+      "url": "techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -18320,6 +18410,16 @@
       "title": "l11 n8147 is a neuron that will make qwen 3 5 4b get things confidently wrong while being weirdly snarky but also makes it write interesting poetry",
       "url": "reddit.com/r/LocalLLaMA/comments/1xrkomn/l11_n8147_is_a_neuron_that_will_make_qwen354b_get"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xrsptp": {
+      "at": "2026-11-10T09:51:47.444240+00:00",
+      "title": "meituan longcat longcat 2 5 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xrsptp/meituanlongcatlongcat25_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xruwlf": {
+      "at": "2026-11-10T09:51:47.444286+00:00",
+      "title": "weight space programming editing qwen3 5 into a top decision model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xruwlf/weightspace_programming_editing_qwen35_into_a_top"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xruzry": {
       "at": "2026-11-09T23:27:26.712715+00:00",
       "title": "drummer s orion 26b a4b v1 and v1 1 plus a new project from yours truly",
@@ -18369,6 +18469,26 @@
       "at": "2026-11-09T23:27:26.712729+00:00",
       "title": "is artificialanalysis biased against open weight models",
       "url": "reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs7ffm": {
+      "at": "2026-11-10T09:51:47.444223+00:00",
+      "title": "same prompt deepseek v4 1 flash vs qwen 3 8 fn 94 tok s vs 350 tok s",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs7ffm/same_prompt_deepseek_v41_flash_vs_qwen_38_fn_94"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs81f3": {
+      "at": "2026-11-10T09:51:47.444200+00:00",
+      "title": "how to mess around with neurons a short guide",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsbc2r": {
+      "at": "2026-11-10T09:51:47.444183+00:00",
+      "title": "multiverse computing s comet 60b a12b ggufs with the mtp head",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsbc2r/multiverse_computings_comet_60b_a12b_ggufs_with"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsbmbx": {
+      "at": "2026-11-10T09:51:47.444273+00:00",
+      "title": "qwen3 8 flash next have you tried swapping the ngrams as per their latest version",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -19055,6 +19175,11 @@
       "title": "why agents love supabase",
       "url": "latent.space/p/supabase"
     },
+    "rss:urn:latent-space:post:post_df4afb4d-ec92-48c2-a5a9-92147e7325c8": {
+      "at": "2026-11-10T09:51:47.444060+00:00",
+      "title": "ainews fable 5 2 retakes world 1 llm spot as ant ipo roadshow begins",
+      "url": "latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins"
+    },
     "rss:urn:latent-space:post:post_e4eae676-23c0-4ee3-bf61-919e4d3b3909": {
       "at": "2026-11-06T20:28:28.296471+00:00",
       "title": "controlling biology fabian theis helmholtz munich",
@@ -19071,6 +19196,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-09T23:27:26.712860+00:00",
+  "updated_at": "2026-11-10T09:51:47.444312+00:00",
   "version": 2
 }
