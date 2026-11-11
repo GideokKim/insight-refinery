@@ -365,6 +365,16 @@
       "title": "ukraine s drone strikes spur hasty russian plans for underground data centers",
       "url": "arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back"
     },
+    "rss:https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/": {
+      "at": "2026-11-11T18:43:32.733891+00:00",
+      "title": "google deepmind just mathematically verified key parts of signal",
+      "url": "arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup"
+    },
+    "rss:https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/": {
+      "at": "2026-11-11T18:43:32.733742+00:00",
+      "title": "taiwan s chipmaking giant tsmc to invest 1b in anthropic openai",
+      "url": "arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -514,6 +524,11 @@
       "at": "2026-10-12T22:10:11.221695+00:00",
       "title": "epic games reportedly pivoting to ai first game development model",
       "url": "arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration"
+    },
+    "rss:https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/": {
+      "at": "2026-11-11T18:43:32.733959+00:00",
+      "title": "big walk used ai to fix a bug now the indie gaming world is having a reckoning",
+      "url": "arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning"
     },
     "rss:https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/": {
       "at": "2026-11-06T20:28:28.296534+00:00",
@@ -989,6 +1004,11 @@
       "at": "2026-11-03T20:31:43.801541+00:00",
       "title": "agentic cheminformatics with google antigravity",
       "url": "deepmind.google/blog/agentic-cheminformatics-with-google-antigravity"
+    },
+    "rss:https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/": {
+      "at": "2026-11-11T18:43:32.733859+00:00",
+      "title": "alphagenome 2 deciphering how cells read dna to better understand disease",
+      "url": "deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease"
     },
     "rss:https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
       "at": "2026-09-08T17:40:11.523007+00:00",
@@ -1755,6 +1775,11 @@
       "title": "manage kubernetes clusters for gpu infrastructure with nvidia kubernetes engine",
       "url": "developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124959": {
+      "at": "2026-11-11T18:43:32.733803+00:00",
+      "title": "validating gpu platforms with runtime ai inventory via the nvidia dsx ai factory",
+      "url": "developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory"
+    },
     "rss:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
       "at": "2026-11-04T20:51:32.121355+00:00",
       "title": "dharma field extractor any document in structured fields in json out",
@@ -2242,6 +2267,11 @@
       "at": "2026-10-06T08:59:12.502899+00:00",
       "title": "falcon emirati when an llm learns the dialect the culture and the nuance",
       "url": "huggingface.co/blog/tiiuae/falcon-emirati"
+    },
+    "rss:https://huggingface.co/blog/token-pooling": {
+      "at": "2026-11-11T18:43:32.734011+00:00",
+      "title": "token pooling aware training for multi vector embedding models",
+      "url": "huggingface.co/blog/token-pooling"
     },
     "rss:https://huggingface.co/blog/tokenizers-v1": {
       "at": "2026-09-21T15:15:12.148143+00:00",
@@ -5246,6 +5276,16 @@
       "at": "2026-11-10T09:51:47.444268+00:00",
       "title": "yonkers rises",
       "url": "simonwillison.net/2026/Nov/10/yonkers-rises"
+    },
+    "rss:https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/": {
+      "at": "2026-11-11T18:43:32.733847+00:00",
+      "title": "anthropic s ipo roadshow video",
+      "url": "simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow"
+    },
+    "rss:https://simonwillison.net/2026/Nov/11/llm/": {
+      "at": "2026-11-11T18:43:32.733973+00:00",
+      "title": "llm 0 37 2",
+      "url": "simonwillison.net/2026/Nov/11/llm"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -9876,6 +9916,11 @@
       "title": "spotify s ai dj gets new voices personalities and an option for less chatter",
       "url": "techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter"
     },
+    "rss:https://techcrunch.com/?p=3186547": {
+      "at": "2026-11-11T18:43:32.733875+00:00",
+      "title": "databricks new ai agent tells ceo ali ghodsi the unvarnished truth",
+      "url": "techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth"
+    },
     "rss:https://techcrunch.com/?p=3186581": {
       "at": "2026-11-09T23:27:26.712550+00:00",
       "title": "a short seller flagged nvidia ceo s ties to a suspected chinese spy six months before the scandal",
@@ -9936,6 +9981,11 @@
       "title": "oura to acquire ai native primary care startup counsel health for 625m",
       "url": "techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m"
     },
+    "rss:https://techcrunch.com/?p=3187089": {
+      "at": "2026-11-11T18:43:32.733904+00:00",
+      "title": "plurai wants to help ai agents work better using the same approach that helped get self driving cars to roads",
+      "url": "techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads"
+    },
     "rss:https://techcrunch.com/?p=3187116": {
       "at": "2026-11-11T00:42:10.804408+00:00",
       "title": "openai acquires odessia travel startup created by sonder founder",
@@ -9950,6 +10000,16 @@
       "at": "2026-11-11T09:26:37.824615+00:00",
       "title": "nvidia s crisis has corporate governance experts reaching for the popcorn",
       "url": "techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn"
+    },
+    "rss:https://techcrunch.com/?p=3187315": {
+      "at": "2026-11-11T18:43:32.733831+00:00",
+      "title": "openai s quarterly revenue reportedly crosses 10b for the first time",
+      "url": "techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time"
+    },
+    "rss:https://techcrunch.com/?p=3187323": {
+      "at": "2026-11-11T18:43:32.734024+00:00",
+      "title": "is jensen huang s bad behavior more commonplace than it seems",
+      "url": "techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -18800,6 +18860,46 @@
       "title": "llama cpp add fp8 kv cache",
       "url": "reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtb9gw": {
+      "at": "2026-11-11T18:43:32.733946+00:00",
+      "title": "zyphra zonos3 mini hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtb9gw/zyphrazonos3mini_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtdwps": {
+      "at": "2026-11-11T18:43:32.733998+00:00",
+      "title": "nvidia reportedly cancels geforce rtx 5080 24gb launch brings back 16gb model over gddr7 costs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtdwps/nvidia_reportedly_cancels_geforce_rtx_5080_24gb"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xted8w": {
+      "at": "2026-11-11T18:43:32.734051+00:00",
+      "title": "ernie 5 5 flash will be released in two weeks",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xted8w/ernie_55_flash_will_be_released_in_two_weeks"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtgnh9": {
+      "at": "2026-11-11T18:43:32.733918+00:00",
+      "title": "you can now train your own llms with less memory on your gaming gpus",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtgnh9/you_can_now_train_your_own_llms_with_less_memory"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xthew3": {
+      "at": "2026-11-11T18:43:32.734039+00:00",
+      "title": "mod ttkciar is harassing this sub",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xthew3/mod_ttkciar_is_harassing_this_sub"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtju4x": {
+      "at": "2026-11-11T18:43:32.733985+00:00",
+      "title": "nvidia geforce rtx 5080 24 gb reportedly cancelled 16 gb model remains",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtju4x/nvidia_geforce_rtx_5080_24_gb_reportedly"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtmeif": {
+      "at": "2026-11-11T18:43:32.733818+00:00",
+      "title": "open source self driving is here",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xto0fa": {
+      "at": "2026-11-11T18:43:32.733785+00:00",
+      "title": "open source method macaq beats unsloth ggufs",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -19460,6 +19560,11 @@
       "title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
       "url": "latent.space/p/handshake"
     },
+    "rss:urn:latent-space:post:post_a2419605-9a45-4fa3-a4b3-362a0d8f0efe": {
+      "at": "2026-11-11T18:43:32.733931+00:00",
+      "title": "ainews mercor 750m series d at 20b valuation 3b run rate",
+      "url": "latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate"
+    },
     "rss:urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": {
       "at": "2026-10-24T12:41:12.841488+00:00",
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
@@ -19521,6 +19626,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-11T09:26:37.824677+00:00",
+  "updated_at": "2026-11-11T18:43:32.734094+00:00",
   "version": 2
 }
