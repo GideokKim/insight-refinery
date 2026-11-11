@@ -1045,6 +1045,11 @@
       "title": "gemini omni 1 2 flash fast and cost effective with longer clips",
       "url": "deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips"
     },
+    "rss:https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/": {
+      "at": "2026-11-11T09:26:37.824530+00:00",
+      "title": "gemini robotics 2 5 accelerates real world general dexterity",
+      "url": "deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence"
+    },
     "rss:https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
       "at": "2026-10-27T21:20:39.162422+00:00",
       "title": "genie 4 a new generation of world simulation",
@@ -1960,6 +1965,11 @@
       "title": "cwe bench v2 more coverage quality and transparency",
       "url": "huggingface.co/blog/cwe-bench"
     },
+    "rss:https://huggingface.co/blog/decision": {
+      "at": "2026-11-11T09:26:37.824629+00:00",
+      "title": "decision models in hugging face",
+      "url": "huggingface.co/blog/decision"
+    },
     "rss:https://huggingface.co/blog/evaleval-aisi": {
       "at": "2026-09-22T18:13:43.596069+00:00",
       "title": "how uk aisi and evaleval are making benchmark results reproducible",
@@ -2202,6 +2212,11 @@
       "at": "2026-08-25T14:38:26.133980+00:00",
       "title": "how hugging face inference endpoints jobs and buckets power search on papers with code",
       "url": "huggingface.co/blog/pwc-search"
+    },
+    "rss:https://huggingface.co/blog/qvac/botpsy": {
+      "at": "2026-11-11T09:26:37.824482+00:00",
+      "title": "botpsy on device personal assistant with a sub billion parameter agentic language model",
+      "url": "huggingface.co/blog/qvac/botpsy"
     },
     "rss:https://huggingface.co/blog/reflection-beam": {
       "at": "2026-10-16T13:16:45.733239+00:00",
@@ -3746,6 +3761,11 @@
       "title": "the end of microsoft research s ai frontiers group",
       "url": "hunch.net/?p=13764006"
     },
+    "rss:https://news.ycombinator.com/item?id=50409856": {
+      "at": "2026-11-11T09:26:37.824540+00:00",
+      "title": "wearable device makers are using brain data to train ai without telling users",
+      "url": "science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users"
+    },
     "rss:https://news.ycombinator.com/item?id=50416363": {
       "at": "2026-11-09T02:40:03.910663+00:00",
       "title": "how i fight ai brain fry",
@@ -3760,6 +3780,11 @@
       "at": "2026-11-10T09:51:47.444262+00:00",
       "title": "apple capped engineers at a 200 daily ai budget",
       "url": "stork.ai/newsletter/2026-11-08-apple-capped-engineers-at-a-200-daily-ai-budget"
+    },
+    "rss:https://news.ycombinator.com/item?id=50429144": {
+      "at": "2026-11-11T09:26:37.824638+00:00",
+      "title": "show hn ste80 humanizer de ai text by writing 80 of the way to asd ste100",
+      "url": "github.com/Dodaios/ste80-humanizer"
     },
     "rss:https://news.ycombinator.com/item?id=50433079": {
       "at": "2026-11-10T09:51:47.444118+00:00",
@@ -3974,6 +3999,11 @@
       "title": "introducing chatgpt for teens built for learning backed by protections",
       "url": "openai.com/index/chatgpt-for-teens"
     },
+    "rss:https://openai.com/index/chatgpt-plus-for-veterans": {
+      "at": "2026-11-11T09:26:37.824605+00:00",
+      "title": "chatgpt plus for veterans and servicemembers",
+      "url": "openai.com/index/chatgpt-plus-for-veterans"
+    },
     "rss:https://openai.com/index/chatham-financial": {
       "at": "2026-10-02T21:20:25.655729+00:00",
       "title": "chatham scales its capital markets expertise with openai",
@@ -4008,6 +4038,11 @@
       "at": "2026-09-08T22:07:38.642461+00:00",
       "title": "how gpt 5 6 sol helps run quantum computing experiments",
       "url": "openai.com/index/codex-quantum-computing-experiments"
+    },
+    "rss:https://openai.com/index/cogent-security": {
+      "at": "2026-11-11T09:26:37.824520+00:00",
+      "title": "cogent and openai build cyber defense factories for enterprises",
+      "url": "openai.com/index/cogent-security"
     },
     "rss:https://openai.com/index/cognition-devin-testing-with-astra": {
       "at": "2026-09-12T01:07:41.366393+00:00",
@@ -4153,6 +4188,11 @@
       "at": "2026-09-02T06:32:20.252029+00:00",
       "title": "how law firm gilbert tobin governs and scales ai with openai",
       "url": "openai.com/index/gilbert-tobin"
+    },
+    "rss:https://openai.com/index/gilbert-tobin-sam-nickless": {
+      "at": "2026-11-11T09:26:37.824595+00:00",
+      "title": "gilbert tobin rethinks the business of law with ai",
+      "url": "openai.com/index/gilbert-tobin-sam-nickless"
     },
     "rss:https://openai.com/index/gpt-5-6-in-kiro": {
       "at": "2026-08-24T20:16:52.945057+00:00",
@@ -4678,6 +4718,11 @@
       "at": "2026-11-05T13:15:07.644961+00:00",
       "title": "setting a new standard for responsible ai infrastructure",
       "url": "openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+    },
+    "rss:https://openai.com/index/singapore-airlines-travel-work": {
+      "at": "2026-11-11T09:26:37.824585+00:00",
+      "title": "singapore airlines elevates travel work with openai technology",
+      "url": "openai.com/index/singapore-airlines-travel-work"
     },
     "rss:https://openai.com/index/sophos": {
       "at": "2026-10-09T17:29:55.217253+00:00",
@@ -9900,6 +9945,11 @@
       "at": "2026-11-11T00:42:10.804143+00:00",
       "title": "openai anthropic face new oversight as new york s ai safety law takes effect",
       "url": "techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect"
+    },
+    "rss:https://techcrunch.com/?p=3187258": {
+      "at": "2026-11-11T09:26:37.824615+00:00",
+      "title": "nvidia s crisis has corporate governance experts reaching for the popcorn",
+      "url": "techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -18715,6 +18765,11 @@
       "title": "minimaxai minimax h3 image hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsrg0l": {
+      "at": "2026-11-11T09:26:37.824569+00:00",
+      "title": "speakleash bielik 11b v3 1 instruct hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsrg0l/speakleashbielik11bv31instruct_hugging_face"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xswmb7": {
       "at": "2026-11-11T00:42:10.804217+00:00",
       "title": "the surprising effectiveness of deleting weights in llm post training",
@@ -18729,6 +18784,21 @@
       "at": "2026-11-11T00:42:10.804122+00:00",
       "title": "apple has new mac app coming to make running local ai models easy",
       "url": "reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xt6rc7": {
+      "at": "2026-11-11T09:26:37.824555+00:00",
+      "title": "glb 3d coder i tried making a 1 7b version for godot",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xt6rc7/glb3dcoder_i_tried_making_a_17b_version_for_godot"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xt82mz": {
+      "at": "2026-11-11T09:26:37.824508+00:00",
+      "title": "microsoft research backdoored an ai agent by directly editing fewer than 10 dormant neurons",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xt9o3t": {
+      "at": "2026-11-11T09:26:37.824445+00:00",
+      "title": "llama cpp add fp8 kv cache",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -19345,6 +19415,11 @@
       "title": "ainews building aie code the top coding agent conference",
       "url": "latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference"
     },
+    "rss:urn:latent-space:post:post_4bf810e2-c310-445e-a5c0-4a9f7a3f36ec": {
+      "at": "2026-11-11T09:26:37.824497+00:00",
+      "title": "ai engineer code summit openai on new ways of working with codex",
+      "url": "latent.space/p/codex-work"
+    },
     "rss:urn:latent-space:post:post_51573bcd-fb09-403d-955a-04daf318cf5f": {
       "at": "2026-11-03T12:48:49.199001+00:00",
       "title": "ainews llms can read write neural network weights weight space programming cuts autoresearch out of the rsi loop",
@@ -19446,6 +19521,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-11T00:42:10.804578+00:00",
+  "updated_at": "2026-11-11T09:26:37.824677+00:00",
   "version": 2
 }

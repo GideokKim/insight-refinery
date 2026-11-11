@@ -1,5 +1,160 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-11T00:42:06.551509+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xt9o3t",
+        "title": "llama.cpp: Add FP8 KV-cache",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt9o3t/llamacpp_add_fp8_kvcache/",
+        "author": "/u/Kahvana",
+        "published_at": "2026-11-11T05:36:19+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp FP8 KV-cache 지원 추가",
+        "summary_ko": [
+          "llama.cpp에 FP8 KV-cache 지원 기능이 새롭게 추가되었습니다.",
+          "이 업데이트를 통해 로컬 환경에서 대규모 언어 모델을 구동할 때 메모리 사용량을 절감할 수 있습니다.",
+          "메모리 효율성이 향상됨에 따라 로컬 LLM 서빙 성능 최적화에 실질적인 도움이 됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/qvac/botpsy",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "author": null,
+        "published_at": "2026-11-11T05:01:16+00:00"
+      },
+      "insight": {
+        "title_ko": "소형 언어 모델 기반 온디바이스 에이전트 BotPsy",
+        "summary_ko": [
+          "BotPsy는 10억 개 미만의 매개변수를 사용하는 소형 에이전트 언어 모델입니다.",
+          "이 모델은 개인용 비서 기능을 수행하도록 온디바이스 환경에 최적화되어 있습니다.",
+          "경량화된 아키텍처를 통해 모바일 및 엣지 기기에서 효율적인 AI 연산을 지원합니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_4bf810e2-c310-445e-a5c0-4a9f7a3f36ec",
+        "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+        "url": "https://latent.space/p/codex-work/",
+        "author": "Richard MacManus",
+        "published_at": "2026-11-11T04:49:48+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI의 Codex를 활용한 새로운 개발 방식",
+        "summary_ko": [
+          "OpenAI는 AI Engineer Code Summit 워크숍에서 Codex의 최신 개발 동향과 클라우드 중심의 작업 방식을 소개했습니다.",
+          "Codex Cloud v2는 격리된 환경에서 여러 작업을 병렬로 처리하며 로컬과 클라우드 간의 유연한 연동을 지원합니다.",
+          "음성 모드와 개인용 에이전트 기능을 활용해 개발자가 더욱 직관적으로 코딩 작업을 위임하고 반복 작업할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xt82mz",
+        "title": "Microsoft Research backdoored an AI agent by directly editing fewer than 10 dormant neurons",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xt82mz/microsoft_research_backdoored_an_ai_agent_by/",
+        "author": "/u/Chemical_Hawk_6307",
+        "published_at": "2026-11-11T04:09:44+00:00"
+      },
+      "insight": {
+        "title_ko": "Microsoft Research, 휴면 뉴런 조작을 통한 AI 에이전트 백도어 삽입 연구 발표",
+        "summary_ko": [
+          "Microsoft Research가 10개 미만의 휴면 뉴런을 직접 편집하여 AI 에이전트에 백도어를 심는 데 성공했습니다.",
+          "이러한 기법이 널리 반복 가능해질 경우, 슬리퍼 에이전트가 실제적인 보안 공격 벡터로 발전할 수 있다는 우려가 제기됩니다.",
+          "신뢰할 수 없는 양자화 모델이나 파인튜닝 모델을 사용할 때 주의가 요구됩니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/cogent-security",
+        "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+        "url": "https://openai.com/index/cogent-security",
+        "author": null,
+        "published_at": "2026-11-10T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI와 Cogent의 기업용 사이버 방어 협력",
+        "summary_ko": [
+          "Cogent는 OpenAI 모델과 기업 컨텍스트를 결합하여 에이전트를 통한 취약점 자동 조치를 지원합니다.",
+          "이 협력을 통해 기업들은 사이버 보안 위협에 더욱 신속하고 효율적으로 대응할 수 있게 됩니다.",
+          "실무 환경에서 AI 에이전트를 활용한 보안 취약점 해결의 자동화 가능성을 보여줍니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+        "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+        "author": null,
+        "published_at": "2026-11-09T19:51:47+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemini Robotics 2.5 공개",
+        "summary_ko": [
+          "Google DeepMind가 Gemini Robotics 2.5 모델을 공개했습니다.",
+          "이 모델은 로봇의 손재주와 신뢰성 및 안전성을 크게 향상시킵니다.",
+          "시청각-언어-행동 모델을 통해 로봇의 물리적 지능을 현실 세계에서 가속화합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50409856",
+        "title": "Wearable device makers are using brain data to train AI without telling users",
+        "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users",
+        "author": "maxall4",
+        "published_at": "2026-11-08T02:02:38+00:00"
+      },
+      "insight": {
+        "title_ko": "웨어러블 기기의 무단 뇌 데이터 수집 논란",
+        "summary_ko": [
+          "일부 웨어러블 기기 제조사들이 사용자 모르게 뇌 데이터를 AI 학습에 활용하고 있는 것으로 나타났습니다.",
+          "이러한 행위는 개인정보 보호 및 사용자 동의에 대한 심각한 우려를 불러일으키고 있습니다.",
+          "실무자들은 민감한 생체 데이터 처리 시 투명성과 규정 준수를 철저히 검토해야 합니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
