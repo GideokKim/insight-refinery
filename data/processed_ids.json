@@ -355,6 +355,11 @@
       "title": "google will let schools skip ai tools but they have to give up search too",
       "url": "arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too"
     },
+    "rss:https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/": {
+      "at": "2026-11-11T00:42:10.804392+00:00",
+      "title": "ring cameras go mobile as amazon debuts ai powered security drone and robot",
+      "url": "arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot"
+    },
     "rss:https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/": {
       "at": "2026-11-04T03:01:01.667378+00:00",
       "title": "ukraine s drone strikes spur hasty russian plans for underground data centers",
@@ -620,6 +625,11 @@
       "title": "ai disqualification yields new nikon small world in motion winner",
       "url": "arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use"
     },
+    "rss:https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/": {
+      "at": "2026-11-11T00:42:10.804424+00:00",
+      "title": "what happens to mathematics when ai becomes an oracle",
+      "url": "arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle"
+    },
     "rss:https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/": {
       "at": "2026-08-27T15:57:38.015918+00:00",
       "title": "claude codex and hermes installed unowned code inside corporate networks",
@@ -709,6 +719,11 @@
       "at": "2026-10-06T01:19:01.155142+00:00",
       "title": "mcp for agent to agent comms may be the riskiest protocol you ve never heard of",
       "url": "arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp"
+    },
+    "rss:https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
+      "at": "2026-11-11T00:42:10.804029+00:00",
+      "title": "grok build coding agent leaks oodles of confidential info some belonging to spacexsi",
+      "url": "arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi"
     },
     "rss:https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/": {
       "at": "2026-08-28T01:13:09.165148+00:00",
@@ -1984,6 +1999,11 @@
       "at": "2026-10-20T18:32:12.065081+00:00",
       "title": "hugging face torchtpu tpus natively",
       "url": "huggingface.co/blog/hf-torchtpu"
+    },
+    "rss:https://huggingface.co/blog/hub-gcp-marketplace": {
+      "at": "2026-11-11T00:42:10.804508+00:00",
+      "title": "pay for hugging face hub with your google cloud account",
+      "url": "huggingface.co/blog/hub-gcp-marketplace"
     },
     "rss:https://huggingface.co/blog/ibm-granite/granite-4-2": {
       "at": "2026-08-25T17:21:53.012144+00:00",
@@ -3751,6 +3771,11 @@
       "title": "coreweave bond yield tops 16 as ai credit stress rises",
       "url": "cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
     },
+    "rss:https://news.ycombinator.com/item?id=50437106": {
+      "at": "2026-11-11T00:42:10.804356+00:00",
+      "title": "fireworks ai security breach impacts notion and their customers",
+      "url": "notion.com/help/security-incident-involving-a-third-party-ai-vendor"
+    },
     "rss:https://news.ycombinator.com/item?id=50438318": {
       "at": "2026-11-10T18:42:12.047978+00:00",
       "title": "ai usage generates a fragile codebase",
@@ -3790,6 +3815,11 @@
       "at": "2026-09-21T21:06:07.442398+00:00",
       "title": "advisory group on mathematics and artificial intelligence",
       "url": "openai.com/index/advisory-group-on-mathematics-and-ai"
+    },
+    "rss:https://openai.com/index/ai-effect-on-freelance-work": {
+      "at": "2026-11-11T00:42:10.804496+00:00",
+      "title": "work at the frontier ai s effect on freelance work",
+      "url": "openai.com/index/ai-effect-on-freelance-work"
     },
     "rss:https://openai.com/index/ai-native-company-workflows": {
       "at": "2026-09-01T22:10:08.412033+00:00",
@@ -4243,6 +4273,11 @@
       "at": "2026-08-20T20:16:03.387891+00:00",
       "title": "introducing ai futures",
       "url": "openai.com/index/introducing-ai-futures"
+    },
+    "rss:https://openai.com/index/introducing-businesses-chatgpt": {
+      "at": "2026-11-11T00:42:10.804342+00:00",
+      "title": "introducing businesses in chatgpt",
+      "url": "openai.com/index/introducing-businesses-chatgpt"
     },
     "rss:https://openai.com/index/introducing-chatgpt-financial-services": {
       "at": "2026-09-10T22:36:21.831752+00:00",
@@ -5146,6 +5181,11 @@
       "at": "2026-11-01T18:56:57.589459+00:00",
       "title": "quoting kyle kingsbury",
       "url": "simonwillison.net/2026/Nov/1/kyle-kingsbury"
+    },
+    "rss:https://simonwillison.net/2026/Nov/10/llm-gemini/": {
+      "at": "2026-11-11T00:42:10.804173+00:00",
+      "title": "llm gemini 0 36",
+      "url": "simonwillison.net/2026/Nov/10/llm-gemini"
     },
     "rss:https://simonwillison.net/2026/Nov/10/muse-ember/": {
       "at": "2026-11-10T09:51:47.444097+00:00",
@@ -9801,6 +9841,11 @@
       "title": "jensen huang reportedly engaged a pr firm with a history of handling high profile sex scandals a year ago",
       "url": "techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago"
     },
+    "rss:https://techcrunch.com/?p=3186632": {
+      "at": "2026-11-11T00:42:10.804472+00:00",
+      "title": "openai rolls out new business profiles making chatgpt just a little bit more like google",
+      "url": "techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google"
+    },
     "rss:https://techcrunch.com/?p=3186635": {
       "at": "2026-11-10T18:42:12.047935+00:00",
       "title": "ring known for its doorbell cameras launches a home security drone and an enterprise security robot",
@@ -9830,6 +9875,31 @@
       "at": "2026-11-10T18:42:12.047647+00:00",
       "title": "anthropic launches claude meetings to turn workplace discussions into plans and tasks",
       "url": "techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks"
+    },
+    "rss:https://techcrunch.com/?p=3186906": {
+      "at": "2026-11-11T00:42:10.804456+00:00",
+      "title": "psi is trying to make a business out of ai driven scientific discovery",
+      "url": "techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery"
+    },
+    "rss:https://techcrunch.com/?p=3187028": {
+      "at": "2026-11-11T00:42:10.804526+00:00",
+      "title": "all 7 anthropic founders will each cash out about 250m in ipo",
+      "url": "techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3187050": {
+      "at": "2026-11-11T00:42:10.804439+00:00",
+      "title": "oura to acquire ai native primary care startup counsel health for 625m",
+      "url": "techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m"
+    },
+    "rss:https://techcrunch.com/?p=3187116": {
+      "at": "2026-11-11T00:42:10.804408+00:00",
+      "title": "openai acquires odessia travel startup created by sonder founder",
+      "url": "techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder"
+    },
+    "rss:https://techcrunch.com/?p=3187145": {
+      "at": "2026-11-11T00:42:10.804143+00:00",
+      "title": "openai anthropic face new oversight as new york s ai safety law takes effect",
+      "url": "techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10460,6 +10530,11 @@
       "at": "2026-11-03T20:31:43.801624+00:00",
       "title": "learn the rules the hacker mindset",
       "url": "microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1194126": {
+      "at": "2026-11-11T00:42:10.804094+00:00",
+      "title": "lazare veni foras reprogramming dormant neurons to backdoor ai agents",
+      "url": "microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -18580,6 +18655,11 @@
       "title": "how to mess around with neurons a short guide",
       "url": "reddit.com/r/LocalLLaMA/comments/1xs81f3/how_to_mess_around_with_neurons_a_short_guide"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xs9nux": {
+      "at": "2026-11-11T00:42:10.804371+00:00",
+      "title": "i made a 400m model for npc judgement calls in games apache 2 0 0 1s on a 3060 ti",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xs9nux/i_made_a_400m_model_for_npc_judgement_calls_in"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsbc2r": {
       "at": "2026-11-10T09:51:47.444183+00:00",
       "title": "multiverse computing s comet 60b a12b ggufs with the mtp head",
@@ -18589,6 +18669,11 @@
       "at": "2026-11-10T09:51:47.444273+00:00",
       "title": "qwen3 8 flash next have you tried swapping the ngrams as per their latest version",
       "url": "reddit.com/r/LocalLLaMA/comments/1xsbmbx/qwen38flashnext_have_you_tried_swapping_the"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsjfwo": {
+      "at": "2026-11-11T00:42:10.804484+00:00",
+      "title": "fable 5 2 not only has guardrails against ai acceleration its capabilities were capped in training too",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsjfwo/fable_52_not_only_has_guardrails_against_ai"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xski9d": {
       "at": "2026-11-10T18:42:12.047858+00:00",
@@ -18600,6 +18685,16 @@
       "title": "xiangjuntang jovox 64 hugging face image to 3d",
       "url": "reddit.com/r/LocalLLaMA/comments/1xskr0m/xiangjuntangjovox64_hugging_face_imageto3d"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsl4qt": {
+      "at": "2026-11-11T00:42:10.804321+00:00",
+      "title": "paper exploring weight space programming capabilities generalization and limitations",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsl4qt/paper_exploring_weightspace_programming"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsl8w7": {
+      "at": "2026-11-11T00:42:10.804538+00:00",
+      "title": "strata after heavy optimizations",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsl8w7/strata_after_heavy_optimizations"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsljn6": {
       "at": "2026-11-10T18:42:12.048017+00:00",
       "title": "nobody wondering why the us takes nvidia ceo affair public",
@@ -18610,10 +18705,30 @@
       "title": "minimax h3 image released an open weight image model built on h3",
       "url": "reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsorsx": {
+      "at": "2026-11-11T00:42:10.804290+00:00",
+      "title": "we tested qwen3 6 27b qwen3 8 27b and glm 5 3 flash on real tasks in elixir ocaml haskell and 10 other less common languages",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsorsx/we_tested_qwen36_27b_qwen38_27b_and_glm53_flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsp3xt": {
       "at": "2026-11-10T18:42:12.047986+00:00",
       "title": "minimaxai minimax h3 image hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xsp3xt/minimaxaiminimaxh3image_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xswmb7": {
+      "at": "2026-11-11T00:42:10.804217+00:00",
+      "title": "the surprising effectiveness of deleting weights in llm post training",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xsytlk": {
+      "at": "2026-11-11T00:42:10.804517+00:00",
+      "title": "my ai is lazier than me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xsytlk/my_ai_is_lazier_than_me"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xszbe7": {
+      "at": "2026-11-11T00:42:10.804122+00:00",
+      "title": "apple has new mac app coming to make running local ai models easy",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -19310,6 +19425,16 @@
       "title": "controlling biology fabian theis helmholtz munich",
       "url": "latent.space/p/controlling-biology-fabian-theis-helmholtz-munich"
     },
+    "rss:urn:latent-space:post:post_e9d76b13-59aa-4ee4-9132-5d55b5763030": {
+      "at": "2026-11-11T00:42:10.804265+00:00",
+      "title": "naiveai promises 2 100 tokens per second how well does it code",
+      "url": "latent.space/p/naiveai"
+    },
+    "rss:urn:latent-space:post:post_f42d43bf-dd23-4475-b625-93262d8e7d3a": {
+      "at": "2026-11-11T00:42:10.804193+00:00",
+      "title": "designing for agents zeno rocha resend",
+      "url": "latent.space/p/resend"
+    },
     "rss:urn:latent-space:post:post_f6bfef19-e48a-4a0a-a73a-8361a44fe6a9": {
       "at": "2026-11-06T12:57:58.896720+00:00",
       "title": "ainews inkling 2 small 17a 594b trained in 68 hours on 12t tokens beating muse spark",
@@ -19321,6 +19446,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-10T18:42:12.048059+00:00",
+  "updated_at": "2026-11-11T00:42:10.804578+00:00",
   "version": 2
 }
