@@ -89,6 +89,116 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3188037",
+        "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-11-12T18:39:23+00:00"
+      },
+      "insight": {
+        "title_ko": "젠슨 황 사임에 따른 NVIDIA 오픈소스 지원 불투명",
+        "summary_ko": [
+          "젠슨 황의 사임으로 인해 Hugging Face 인수와 open-weight 모델 등 NVIDIA의 오픈소스 AI 지원에 대한 의문이 제기되고 있습니다.",
+          "이번 리더십 전환은 NVIDIA가 그동안 유지해온 개방형 AI 모델 및 관련 규제 반대 입장에 영향을 미칠 수 있습니다.",
+          "실무자들은 향후 NVIDIA의 오픈소스 생태계 기조 변화를 주시하며 리스크를 관리해야 합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3187955",
+        "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+        "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+        "author": "Tim De Chant",
+        "published_at": "2026-11-12T17:00:52+00:00"
+      },
+      "insight": {
+        "title_ko": "소프트뱅크의 천연가스 터빈 투자 손실과 AI 전력 시장 영향",
+        "summary_ko": [
+          "소프트뱅크는 AI 데이터센터 전력 공급을 위해 천연가스 터빈을 선주문하는 과정에서 30억 달러 이상의 손실을 기록했습니다.",
+          "이번 대규모 손실은 급증하는 AI 인프라 수요를 충족하려던 전력 시장의 공격적인 확장 전략에 제동을 걸 가능성이 있습니다.",
+          "실무자들은 AI 데이터센터 구축에 수반되는 에너지 조달 비용과 전력 시장의 변동성 리스크를 면밀히 재검토해야 합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3187797",
+        "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+        "author": "Amanda Silberling",
+        "published_at": "2026-11-12T15:37:29+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia, CEO 젠슨 황 스캔들로 코렛 크레스 임시 선임",
+        "summary_ko": [
+          "Nvidia의 오랜 CEO인 젠슨 황이 스캔들에 휘말리며 직무에서 물러났습니다.",
+          "이에 따라 Colette Kress 최고재무책임자가 임시 CEO로 경영을 이어받게 되었습니다.",
+          "이번 리더십 교체는 AI 인프라 시장 전반에 큰 영향을 미칠 수 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3187828",
+        "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+        "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+        "author": "Zack Whittaker",
+        "published_at": "2026-11-12T15:02:28+00:00"
+      },
+      "insight": {
+        "title_ko": "Fireworks AI 사이버 공격 발생",
+        "summary_ko": [
+          "AI 인프라 기업 Fireworks AI에 대한 사이버 공격으로 인해 해커들이 Notion 고객들의 채팅 기록에 접근할 수 있게 되었습니다.",
+          "이번 사건은 Fireworks AI에서 발생한 두 달 연속 두 번째 데이터 유출 사고입니다.",
+          "해당 보안 사고는 AI 서비스 공급망의 보안 관리 중요성을 실무적으로 보여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xu9onk",
+        "title": "KQuant - new quantization technique, 3.7× better quants for Qwen Flash Next 180B, Qwen 27B, 35B, 9B (measured in KL-divergence reduction) (MLX)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better/",
+        "author": "/u/m4rkGS",
+        "published_at": "2026-11-12T10:47:24+00:00"
+      },
+      "insight": {
+        "title_ko": "Qwen 모델용 신규 양자화 기법 KQuant 공개",
+        "summary_ko": [
+          "Nace 연구진은 Qwen 모델의 정확도와 크기를 개선하기 위한 새로운 양자화 기법인 KQuant를 오픈소스로 공개했다.",
+          "KQuant Q4는 기존 퍼블릭 4-비트 양자화 대비 KL-divergence를 크게 낮추어 원본 모델에 더 가까운 성능을 보여준다.",
+          "해당 양자화 모델은 특수 커널 없이 표준 MLX 형식으로 제공되며 맥 환경에서 더 빠른 실행 속도를 지원한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

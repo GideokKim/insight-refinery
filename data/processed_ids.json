@@ -585,6 +585,11 @@
       "title": "deepmind reveals gemini robotics 2 5 and open safety benchmark asimov jailbreak",
       "url": "arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak"
     },
+    "rss:https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/": {
+      "at": "2026-11-12T19:00:51.003577+00:00",
+      "title": "google pushes privacy angle as gemini powered smartglasses debut starting at 395",
+      "url": "arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395"
+    },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
       "title": "ai won t replace radiologists but it will dramatically change their jobs",
@@ -1109,6 +1114,11 @@
       "at": "2026-10-13T20:18:11.652358+00:00",
       "title": "gemini 4 argon built to solve your hardest problems",
       "url": "deepmind.google/blog/introducing-gemini-4-argon"
+    },
+    "rss:https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
+      "at": "2026-11-12T19:00:51.003497+00:00",
+      "title": "introducing gemini 4 hydrogen",
+      "url": "deepmind.google/blog/introducing-gemini-4-hydrogen"
     },
     "rss:https://deepmind.google/blog/introducing-synthid-bio/": {
       "at": "2026-09-30T16:51:17.984690+00:00",
@@ -1779,6 +1789,11 @@
       "at": "2026-11-11T18:43:32.733803+00:00",
       "title": "validating gpu platforms with runtime ai inventory via the nvidia dsx ai factory",
       "url": "developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory"
+    },
+    "rss:https://huggingface.co/blog/3d-lora-finetuning": {
+      "at": "2026-11-12T19:00:51.003657+00:00",
+      "title": "the definitive fine tuning guide for 3d generation models",
+      "url": "huggingface.co/blog/3d-lora-finetuning"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/dharma-field-extractor": {
       "at": "2026-11-04T20:51:32.121355+00:00",
@@ -3861,6 +3876,11 @@
       "title": "flipsnack grows product signups with conversion optimization",
       "url": "openai.com/ads/customers/flipsnack"
     },
+    "rss:https://openai.com/business/customer-stories/holidays-extras-codex": {
+      "at": "2026-11-12T19:00:51.003701+00:00",
+      "title": "holiday extras is rethinking what it can build with codex",
+      "url": "openai.com/business/customer-stories/holidays-extras-codex"
+    },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
       "title": "are you a codex original",
@@ -4063,6 +4083,11 @@
       "at": "2026-10-28T02:16:22.306359+00:00",
       "title": "how check point accelerates vulnerability research with daybreak",
       "url": "openai.com/index/check-point-daybreak"
+    },
+    "rss:https://openai.com/index/children-first-declaration": {
+      "at": "2026-11-12T19:00:51.003647+00:00",
+      "title": "supporting research on ai and children s safety",
+      "url": "openai.com/index/children-first-declaration"
     },
     "rss:https://openai.com/index/cisco-cyber": {
       "at": "2026-11-03T20:31:43.801662+00:00",
@@ -9866,6 +9891,11 @@
       "title": "meta introduces spaces a new way to collaborate with your muse agent",
       "url": "techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent"
     },
+    "rss:https://techcrunch.com/?p=3185934": {
+      "at": "2026-11-12T19:00:51.003666+00:00",
+      "title": "phota labs uses ai to turn everyday photos into professional looking shots",
+      "url": "techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots"
+    },
     "rss:https://techcrunch.com/?p=3185992": {
       "at": "2026-11-10T18:42:12.047945+00:00",
       "title": "cyberattacks threaten to make open source ai a little less open hugging face exec warns",
@@ -10076,6 +10106,11 @@
       "title": "meta is losing its longtime head of infrastructure",
       "url": "techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure"
     },
+    "rss:https://techcrunch.com/?p=3187523": {
+      "at": "2026-11-12T19:00:51.003566+00:00",
+      "title": "five ways jensen huang s ouster from nvidia could damage the ai industry",
+      "url": "techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry"
+    },
     "rss:https://techcrunch.com/?p=3187540": {
       "at": "2026-11-12T01:55:03.664805+00:00",
       "title": "jensen huang accused of having another affair with an nvidia exec",
@@ -10090,6 +10125,56 @@
       "at": "2026-11-12T09:51:18.123760+00:00",
       "title": "who could replace jensen huang a highly unscientific list of possible successors",
       "url": "techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors"
+    },
+    "rss:https://techcrunch.com/?p=3187646": {
+      "at": "2026-11-12T19:00:51.003687+00:00",
+      "title": "nine korean startups vie for a spot in disrupt 2027 s startup battlefield 200 competition",
+      "url": "techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition"
+    },
+    "rss:https://techcrunch.com/?p=3187651": {
+      "at": "2026-11-12T19:00:51.003681+00:00",
+      "title": "norwest pushes deeper into ai with new 4b fund",
+      "url": "techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund"
+    },
+    "rss:https://techcrunch.com/?p=3187797": {
+      "at": "2026-11-12T19:00:51.003454+00:00",
+      "title": "jensen huang is out at nvidia who is colette kress his interim replacement",
+      "url": "techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement"
+    },
+    "rss:https://techcrunch.com/?p=3187828": {
+      "at": "2026-11-12T19:00:51.003466+00:00",
+      "title": "cyberattack on fireworks ai allowed hackers to access notion customers chat transcripts",
+      "url": "techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts"
+    },
+    "rss:https://techcrunch.com/?p=3187860": {
+      "at": "2026-11-12T19:00:51.003673+00:00",
+      "title": "trump floats apple chairman tim cook as jensen huang s successor",
+      "url": "techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor"
+    },
+    "rss:https://techcrunch.com/?p=3187911": {
+      "at": "2026-11-12T19:00:51.003557+00:00",
+      "title": "jensen huang agrees to testify before congress",
+      "url": "techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress"
+    },
+    "rss:https://techcrunch.com/?p=3187922": {
+      "at": "2026-11-12T19:00:51.003506+00:00",
+      "title": "hugging face ceo vows to keep fighting for open source ai after jensen huang s exit",
+      "url": "techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit"
+    },
+    "rss:https://techcrunch.com/?p=3187955": {
+      "at": "2026-11-12T19:00:51.003438+00:00",
+      "title": "softbank s billion dollar loss may have put a cap on ai s natural gas ambitions",
+      "url": "techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions"
+    },
+    "rss:https://techcrunch.com/?p=3187972": {
+      "at": "2026-11-12T19:00:51.003522+00:00",
+      "title": "united airlines blocks ai agents from booking flights citing cybersecurity risks",
+      "url": "techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks"
+    },
+    "rss:https://techcrunch.com/?p=3188037": {
+      "at": "2026-11-12T19:00:51.003399+00:00",
+      "title": "jensen huang s exit puts nvidia s support for open source in question",
+      "url": "techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -19015,6 +19100,11 @@
       "title": "architecture trends from full to local attention",
       "url": "reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtyxl9": {
+      "at": "2026-11-12T19:00:51.003638+00:00",
+      "title": "deepseek v4 1 flash 1017 exl3 2 9bpw apex 2025 benchmark results",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtyxl9/deepseek_v41_flash_1017_exl3_29bpw_apex_2025"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtzwxf": {
       "at": "2026-11-12T09:51:18.123721+00:00",
       "title": "i released inflect v3 lightweight local tts in 34m parameters apache 2 0",
@@ -19029,6 +19119,41 @@
       "at": "2026-11-12T09:51:18.123751+00:00",
       "title": "the regulation of local ai could should be viewed as the largest censorship implementation in the history of mankind",
       "url": "reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xu4n7b": {
+      "at": "2026-11-12T19:00:51.003624+00:00",
+      "title": "gemma4 31b latent space discovery caring and contempt for user controlled by the same 3 neurons plus how to find your own steering recipes and export to gguf steering vector for llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xu4n7b/gemma431b_latent_space_discovery_caring_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xu9onk": {
+      "at": "2026-11-12T19:00:51.003477+00:00",
+      "title": "kquant new quantization technique 3 7 better quants for qwen flash next 180b qwen 27b 35b 9b measured in kl divergence reduction mlx",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xu9onk/kquant_new_quantization_technique_37_better"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuad5c": {
+      "at": "2026-11-12T19:00:51.003599+00:00",
+      "title": "meet the people behind moss image plus a few answers from their ama here",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuad5c/meet_the_people_behind_mossimage_plus_a_few"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xub4s2": {
+      "at": "2026-11-12T19:00:51.003588+00:00",
+      "title": "after four years of development are llms capable of writing high quality prose",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xub4s2/after_four_years_of_development_are_llms_capable"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xucffq": {
+      "at": "2026-11-12T19:00:51.003694+00:00",
+      "title": "alleged geforce rtx 5090 with 96gb listed for sale in china",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xucffq/alleged_geforce_rtx_5090_with_96gb_listed_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xudeev": {
+      "at": "2026-11-12T19:00:51.003708+00:00",
+      "title": "nvidia s jensen huang resigns as ceo colette kress named interim",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuijih": {
+      "at": "2026-11-12T19:00:51.003534+00:00",
+      "title": "cmp170hx now fully unlockabke and more full 120 sms techie uses voltage glitching hack to turn 2 500 nvidia 8gb cryptomining gpu into a full fat 20 000 a100 with 80gb of vram hack carefully blows onboard fuses to unlock entire vram and shader modules",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -19766,6 +19891,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-12T09:51:18.123789+00:00",
+  "updated_at": "2026-11-12T19:00:51.003739+00:00",
   "version": 2
 }
