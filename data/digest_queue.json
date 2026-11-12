@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-12T01:55:00.707562+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef",
+        "title": "[AINews] D-Day (Decision Models Day)",
+        "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-12T05:26:54+00:00"
+      },
+      "insight": {
+        "title_ko": "구글, 멀티모달 의사결정 모델 Gemini Decision 1 출시",
+        "summary_ko": [
+          "구글이 텍스트와 멀티모달 입력을 처리하며 최대 1000개의 질문을 한 번에 수행하는 Gemini Decision 1을 공개했다.",
+          "해당 모델은 토큰을 순차 생성하지 않고 닫힌 집합(closed-set)의 선택지를 단일 패스로 채점하며 200ms 안팎의 지연 시간을 기록한다.",
+          "입력 토큰 100만 개당 0.10달러의 저렴한 가격으로 책정되어 실무 환경에서 효율적인 에이전트 및 분류 작업에 활용될 전망이다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_b31597d9-ad6f-469e-a051-d723be8fd562",
+        "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+        "url": "https://latent.space/p/jev-revolution/",
+        "author": "Richard MacManus",
+        "published_at": "2026-11-12T05:08:20+00:00"
+      },
+      "insight": {
+        "title_ko": "System One 모델과 Jev가 가져오는 AI 엔지니어링 패러다임 변화",
+        "summary_ko": [
+          "AI Engineer Code Summit에서 구조화된 선택과 확률을 반환하는 System One 모델과 Jev가 주요 화두로 떠올랐다.",
+          "Jev는 기존 LLM의 신뢰성 문제를 해결하고 코드 내에 직접 통합되어 더 스마트한 소프트웨어를 구축하는 데 기여한다.",
+          "Glean과 UiPath 등 주요 기업들은 제로샷 유연성과 빠른 속도를 활용해 실제 프로덕션 환경에 Jev를 적용하고 있다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xtzwxf",
+        "title": "I released Inflect v3: lightweight local TTS in 34M parameters (Apache 2.0)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in/",
+        "author": "/u/b111ue",
+        "published_at": "2026-11-12T01:36:10+00:00"
+      },
+      "insight": {
+        "title_ko": "경량 로컬 TTS 모델 Inflect v3 공개",
+        "summary_ko": [
+          "34M 파라미터 크기의 경량 로컬 텍스트 음성 변환(TTS) 모델인 Inflect v3가 새롭게 공개되었습니다.",
+          "이 모델은 CPU와 CUDA 환경을 모두 지원하며 레퍼런스 음성 튜닝과 다양한 보컬 이벤트 태그 기능을 제공합니다.",
+          "모델 가중치와 추론 코드는 Apache 2.0 라이선스로 배포되어 실무에서 자유롭게 활용할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xtvxtp",
+        "title": "Architecture trends: From full to local attention",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention/",
+        "author": "/u/seraschka",
+        "published_at": "2026-11-11T22:38:09+00:00"
+      },
+      "insight": {
+        "title_ko": "LLM 아키텍처 동향: 풀 어텐션에서 로컬 어텐션으로의 전환",
+        "summary_ko": [
+          "2026년 하반기 기준 오픈소스 LLM 아키텍처는 전통적인 풀 어텐션을 완전히 배제하거나 하이브리드 형태로만 채택하는 추세입니다.",
+          "슬라이딩 윈도우 및 순환 레이어 등의 도입으로 긴 컨텍스트를 저렴하게 처리할 수 있는 효율성 향상이 이루어졌습니다.",
+          "이러한 구조적 변화는 장문서 처리, 대규모 코드베이스, 그리고 에이전트 유스케이스에서의 연산 및 메모리 비용을 크게 절감합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

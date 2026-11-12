@@ -10086,6 +10086,11 @@
       "title": "nvidia s stock drops as board reportedly preps to oust ceo jensen huang",
       "url": "techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang"
     },
+    "rss:https://techcrunch.com/?p=3187615": {
+      "at": "2026-11-12T09:51:18.123760+00:00",
+      "title": "who could replace jensen huang a highly unscientific list of possible successors",
+      "url": "techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -19005,6 +19010,26 @@
       "title": "nvidia is preparing to oust nvidia ceo jensen huang",
       "url": "reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtvxtp": {
+      "at": "2026-11-12T09:51:18.123733+00:00",
+      "title": "architecture trends from full to local attention",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtvxtp/architecture_trends_from_full_to_local_attention"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtzwxf": {
+      "at": "2026-11-12T09:51:18.123721+00:00",
+      "title": "i released inflect v3 lightweight local tts in 34m parameters apache 2 0",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtzwxf/i_released_inflect_v3_lightweight_local_tts_in"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xu1dkz": {
+      "at": "2026-11-12T09:51:18.123740+00:00",
+      "title": "someone voltage glitched a cmp 170hx mining card into a working a100 80g and it s 1 18x faster than retail",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xu1dkz/someone_voltageglitched_a_cmp_170hx_mining_card"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xu2mdo": {
+      "at": "2026-11-12T09:51:18.123751+00:00",
+      "title": "the regulation of local ai could should be viewed as the largest censorship implementation in the history of mankind",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xu2mdo/the_regulation_of_local_ai_couldshould_be_viewed"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -19670,6 +19695,11 @@
       "title": "ainews mercor 750m series d at 20b valuation 3b run rate",
       "url": "latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate"
     },
+    "rss:urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef": {
+      "at": "2026-11-12T09:51:18.123680+00:00",
+      "title": "ainews d day decision models day",
+      "url": "latent.space/p/ainews-d-day-decision-models-day"
+    },
     "rss:urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": {
       "at": "2026-10-24T12:41:12.841488+00:00",
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
@@ -19679,6 +19709,11 @@
       "at": "2026-11-03T03:57:32.517854+00:00",
       "title": "building ai for lawyers jacob lauritzen cto of legora",
       "url": "latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora"
+    },
+    "rss:urn:latent-space:post:post_b31597d9-ad6f-469e-a051-d723be8fd562": {
+      "at": "2026-11-12T09:51:18.123710+00:00",
+      "title": "the jev revolution what engineers are already building with system one models",
+      "url": "latent.space/p/jev-revolution"
     },
     "rss:urn:latent-space:post:post_c965535e-89a8-4755-b38e-4e9eda7f9bb3": {
       "at": "2026-11-09T02:40:03.910496+00:00",
@@ -19731,6 +19766,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-12T01:55:03.664855+00:00",
+  "updated_at": "2026-11-12T09:51:18.123789+00:00",
   "version": 2
 }
