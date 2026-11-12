@@ -3836,6 +3836,26 @@
       "title": "ai usage generates a fragile codebase",
       "url": "evanxmerz.com/post/ai-usage-generates-a-fragile-codebase"
     },
+    "rss:https://news.ycombinator.com/item?id=50452455": {
+      "at": "2026-11-12T01:55:03.664797+00:00",
+      "title": "my ai agents found an unmapped maya site",
+      "url": "pietromiotti.com/latest/maya-site"
+    },
+    "rss:https://news.ycombinator.com/item?id=50455332": {
+      "at": "2026-11-12T01:55:03.664790+00:00",
+      "title": "ai activity and outcomes in software engineering",
+      "url": "cabird.com/talks/shipping-faster"
+    },
+    "rss:https://news.ycombinator.com/item?id=50457164": {
+      "at": "2026-11-12T01:55:03.664761+00:00",
+      "title": "retirement savings are fueling the ai bubble",
+      "url": "lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble"
+    },
+    "rss:https://news.ycombinator.com/item?id=50458900": {
+      "at": "2026-11-12T01:55:03.664692+00:00",
+      "title": "united airlines bans ai agents from booking flights on behalf of travelers",
+      "url": "cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4428,6 +4448,11 @@
       "at": "2026-11-04T03:01:01.667427+00:00",
       "title": "openai appoints jill hazelbaker as chief corporate affairs officer",
       "url": "openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+    },
+    "rss:https://openai.com/index/jiostar-vijay-seshadri": {
+      "at": "2026-11-12T01:55:03.664671+00:00",
+      "title": "jiostar s chief architect on ai discovery at 500m user scale",
+      "url": "openai.com/index/jiostar-vijay-seshadri"
     },
     "rss:https://openai.com/index/jump-trading": {
       "at": "2026-10-07T02:24:06.366898+00:00",
@@ -5122,6 +5147,11 @@
       "title": "transfer learning for genomic prediction in underrepresented populations",
       "url": "research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations"
     },
+    "rss:https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/": {
+      "at": "2026-11-12T01:55:03.664722+00:00",
+      "title": "using wearables to enable cardiovascular kidney metabolic ckm risk profiling for personalized coaching",
+      "url": "research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching"
+    },
     "rss:https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": {
       "at": "2026-08-24T11:19:10.800872+00:00",
       "title": "mojo is now open source",
@@ -5282,10 +5312,25 @@
       "title": "anthropic s ipo roadshow video",
       "url": "simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow"
     },
+    "rss:https://simonwillison.net/2026/Nov/11/aws-emulator/": {
+      "at": "2026-11-12T01:55:03.664651+00:00",
+      "title": "aws emulator",
+      "url": "simonwillison.net/2026/Nov/11/aws-emulator"
+    },
+    "rss:https://simonwillison.net/2026/Nov/11/gemini-decisions-api/": {
+      "at": "2026-11-12T01:55:03.664639+00:00",
+      "title": "gemini decisions api",
+      "url": "simonwillison.net/2026/Nov/11/gemini-decisions-api"
+    },
     "rss:https://simonwillison.net/2026/Nov/11/llm/": {
       "at": "2026-11-11T18:43:32.733973+00:00",
       "title": "llm 0 37 2",
       "url": "simonwillison.net/2026/Nov/11/llm"
+    },
+    "rss:https://simonwillison.net/2026/Nov/11/tools-tags/": {
+      "at": "2026-11-12T01:55:03.664814+00:00",
+      "title": "browse tools simonwillison net by tag",
+      "url": "simonwillison.net/2026/Nov/11/tools-tags"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10011,6 +10056,36 @@
       "title": "is jensen huang s bad behavior more commonplace than it seems",
       "url": "techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems"
     },
+    "rss:https://techcrunch.com/?p=3187339": {
+      "at": "2026-11-12T01:55:03.664741+00:00",
+      "title": "with 720m round britain s fractile gets a leg up in the race for ai chips",
+      "url": "techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips"
+    },
+    "rss:https://techcrunch.com/?p=3187437": {
+      "at": "2026-11-12T01:55:03.664732+00:00",
+      "title": "coreweave turns to customer prepayments shorter contracts to fund ai growth",
+      "url": "techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth"
+    },
+    "rss:https://techcrunch.com/?p=3187469": {
+      "at": "2026-11-12T01:55:03.664752+00:00",
+      "title": "congress to call jensen huang in to answer for alleged chinese spy affair",
+      "url": "techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair"
+    },
+    "rss:https://techcrunch.com/?p=3187471": {
+      "at": "2026-11-12T01:55:03.664714+00:00",
+      "title": "meta is losing its longtime head of infrastructure",
+      "url": "techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure"
+    },
+    "rss:https://techcrunch.com/?p=3187540": {
+      "at": "2026-11-12T01:55:03.664805+00:00",
+      "title": "jensen huang accused of having another affair with an nvidia exec",
+      "url": "techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec"
+    },
+    "rss:https://techcrunch.com/?p=3187556": {
+      "at": "2026-11-12T01:55:03.664601+00:00",
+      "title": "nvidia s stock drops as board reportedly preps to oust ceo jensen huang",
+      "url": "techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -10076,6 +10151,11 @@
       "title": "how a blue wave midterm might reshape the ai industry",
       "url": "techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry"
     },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3187346": {
+      "at": "2026-11-12T01:55:03.664660+00:00",
+      "title": "how backlash and red tape continue to slow data centers post blue wave",
+      "url": "techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave"
+    },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
       "title": "meet the startup helping wall street put a price on ai compute",
@@ -10135,6 +10215,11 @@
       "at": "2026-11-06T20:28:28.296438+00:00",
       "title": "after the midterms is the ai industry in for a rough two years",
       "url": "techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_video&p=3187347": {
+      "at": "2026-11-12T01:55:03.664704+00:00",
+      "title": "why the data center you dread might never even be built",
+      "url": "techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built"
     },
     "rss:https://www.latent.space/p/aeo": {
       "at": "2026-09-07T22:23:57.634886+00:00",
@@ -18900,6 +18985,26 @@
       "title": "open source method macaq beats unsloth ggufs",
       "url": "reddit.com/r/LocalLLaMA/comments/1xto0fa/opensource_method_macaq_beats_unsloth_ggufs"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtowe4": {
+      "at": "2026-11-12T01:55:03.664781+00:00",
+      "title": "microsoft files a patent application to train ai models on idle consumer gpus",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtowe4/microsoft_files_a_patent_application_to_train_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtpc2v": {
+      "at": "2026-11-12T01:55:03.664769+00:00",
+      "title": "i m releasing a local world model ive been building that turns images into interactive videos you control in real time it works on rtx 3060 4060 and anything above linking huggingface",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtpc2v/im_releasing_a_local_world_model_ive_been"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtux72": {
+      "at": "2026-11-12T01:55:03.664682+00:00",
+      "title": "2610 29162v1 why is ai generated language so hard to understand",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtux72/261029162v1_why_is_aigenerated_language_so_hard"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xtvsi7": {
+      "at": "2026-11-12T01:55:03.664822+00:00",
+      "title": "nvidia is preparing to oust nvidia ceo jensen huang",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -19626,6 +19731,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-11T18:43:32.734094+00:00",
+  "updated_at": "2026-11-12T01:55:03.664855+00:00",
   "version": 2
 }
