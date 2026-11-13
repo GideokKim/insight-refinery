@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-13T01:06:51.925983+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_f2e2c3b7-0166-4359-97b6-d24d8f24c73b",
+        "title": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+        "url": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-13T09:04:13+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA 젠슨 황 사임 및 Google Gemini 4 Hydrogen 출시",
+        "summary_ko": [
+          "33년간 NVIDIA를 이끌어온 젠슨 황 CEO가 최근 논란과 이사회 압박으로 사임했습니다.",
+          "NVIDIA의 CFO인 코렛 크레스가 임시 CEO를 맡으며 다음 주 실적 발표를 이끌 예정입니다.",
+          "구글 딥마인드는 속도 중심의 신규 모델인 Gemini 4 Hydrogen을 공식 출시했습니다."
+        ],
+        "category": "Industry",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_b104ae7d-0991-4ed4-b1c3-402861a8cd00",
+        "title": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+        "url": "https://latent.space/p/artcraft/",
+        "author": "Richard MacManus",
+        "published_at": "2026-11-13T04:17:25+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 기반 오픈소스 소프트웨어 재구축 프로젝트",
+        "summary_ko": [
+          "ArtCraft는 Photoshop을 Rust로 클론한 PhotoCraft를 비롯해 17개의 오픈소스 소프트웨어를 공개했습니다.",
+          "이들은 Web 2.0 이후 독점화된 소프트웨어 생태계를 AI를 활용해 오픈소스로 되돌리는 것을 목표로 합니다.",
+          "대규모 프롬프트를 활용해 24시간 만에 Adobe 제품군의 대안을 구축하는 등 실무적인 개발 방식을 선보였습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50475713",
+        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "author": "sroussey",
+        "published_at": "2026-11-12T23:06:17+00:00"
+      },
+      "insight": {
+        "title_ko": "Edge0-145B 모델 공개",
+        "summary_ko": [
+          "Edge0.ai는 개인 컴퓨터에서 프론티어 수준의 성능을 제공하는 Edge0-145B 모델을 발표했습니다.",
+          "로컬 환경에서 대형 AI 모델을 구동할 수 있도록 설계되어 실무 활용성이 높습니다.",
+          "관련 개발자와 사용자들은 해당 기술의 성능과 활용성에 대해 많은 관심을 보이고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

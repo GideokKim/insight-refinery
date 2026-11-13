@@ -3896,10 +3896,20 @@
       "title": "united airlines bans ai agents from booking flights on behalf of travelers",
       "url": "cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights"
     },
+    "rss:https://news.ycombinator.com/item?id=50474311": {
+      "at": "2026-11-13T09:32:49.138454+00:00",
+      "title": "ai is turning apple s app review process into a nightmare for synth developers",
+      "url": "synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html"
+    },
     "rss:https://news.ycombinator.com/item?id=50474883": {
       "at": "2026-11-13T01:06:54.458403+00:00",
       "title": "chinese frontier ai models carry the fingerprint of export controlled gpus",
       "url": "unemploymentlabs.com/checkpoint-forensics"
+    },
+    "rss:https://news.ycombinator.com/item?id=50475713": {
+      "at": "2026-11-13T09:32:49.138409+00:00",
+      "title": "edge0 145b frontier ai capabilities on your own computer",
+      "url": "edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -19255,6 +19265,11 @@
       "title": "new model ernie 5 5 flash preview hits strongly at a low parameter count 280b 14b active",
       "url": "reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuqplg": {
+      "at": "2026-11-13T09:32:49.138490+00:00",
+      "title": "thinkingmachines inkling 2 small is released",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuqplg/thinkingmachinesinkling2small_is_released"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xur9ud": {
       "at": "2026-11-13T01:06:54.458479+00:00",
       "title": "used datacenter workstation gpu prices on ebay this week ranked by gb of vram",
@@ -19264,6 +19279,26 @@
       "at": "2026-11-13T01:06:54.458463+00:00",
       "title": "hugging face ceo vows to keep fighting for open source ai after jensen huang s exit",
       "url": "reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuuq0b": {
+      "at": "2026-11-13T09:32:49.138440+00:00",
+      "title": "edge0 145b open source on device ai with 145b parameters",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuuq0b/edge0145b_opensource_ondevice_ai_with_145b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuvexw": {
+      "at": "2026-11-13T09:32:49.138508+00:00",
+      "title": "stories coming out about jensen",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuxbeb": {
+      "at": "2026-11-13T09:32:49.138424+00:00",
+      "title": "a100 prices down 20 30 since my post about them collapsing",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuxbeb/a100_prices_down_2030_since_my_post_about_them"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuxxmb": {
+      "at": "2026-11-13T09:32:49.138468+00:00",
+      "title": "bring back the boss nvidia employees petition for jensen huang s return",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -19945,6 +19980,11 @@
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
       "url": "latent.space/p/ainews-kimi-31"
     },
+    "rss:urn:latent-space:post:post_b104ae7d-0991-4ed4-b1c3-402861a8cd00": {
+      "at": "2026-11-13T09:32:49.138387+00:00",
+      "title": "ai ambition artcraft cloned photoshop and now wants to rebuild everything",
+      "url": "latent.space/p/artcraft"
+    },
     "rss:urn:latent-space:post:post_b1e4eead-3949-4839-9db7-833e48cc345b": {
       "at": "2026-11-03T03:57:32.517854+00:00",
       "title": "building ai for lawyers jacob lauritzen cto of legora",
@@ -19990,6 +20030,11 @@
       "title": "naiveai promises 2 100 tokens per second how well does it code",
       "url": "latent.space/p/naiveai"
     },
+    "rss:urn:latent-space:post:post_f2e2c3b7-0166-4359-97b6-d24d8f24c73b": {
+      "at": "2026-11-13T09:32:49.138350+00:00",
+      "title": "ainews jensen huang resigns after 33 years leading nvidia",
+      "url": "latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia"
+    },
     "rss:urn:latent-space:post:post_f42d43bf-dd23-4475-b625-93262d8e7d3a": {
       "at": "2026-11-11T00:42:10.804193+00:00",
       "title": "designing for agents zeno rocha resend",
@@ -20006,6 +20051,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-13T01:06:54.458604+00:00",
+  "updated_at": "2026-11-13T09:32:49.138545+00:00",
   "version": 2
 }
