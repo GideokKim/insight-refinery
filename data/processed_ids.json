@@ -345,6 +345,11 @@
       "title": "claude s new rules against game cloning won t stop the ai copying boom",
       "url": "arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom"
     },
+    "rss:https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/": {
+      "at": "2026-11-13T01:06:54.458357+00:00",
+      "title": "faa expands ai advice to manage air traffic congestion across entire us airspace",
+      "url": "arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace"
+    },
     "rss:https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/": {
       "at": "2026-11-06T03:27:37.209403+00:00",
       "title": "google schools can keep search while skipping gemini but ai search is non negotiable",
@@ -500,6 +505,11 @@
       "title": "updated google privacy policy says your gmail might be used for advertising",
       "url": "arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising"
     },
+    "rss:https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/": {
+      "at": "2026-11-13T01:06:54.458524+00:00",
+      "title": "ars live what drone attacks on data centers mean for modern life in the cloud",
+      "url": "arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers"
+    },
     "rss:https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/": {
       "at": "2026-11-10T18:42:12.047955+00:00",
       "title": "ukraine s fiber optic drones get squeezed by ai data center demand",
@@ -589,6 +599,11 @@
       "at": "2026-11-12T19:00:51.003577+00:00",
       "title": "google pushes privacy angle as gemini powered smartglasses debut starting at 395",
       "url": "arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395"
+    },
+    "rss:https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/": {
+      "at": "2026-11-13T01:06:54.458444+00:00",
+      "title": "google rolls out gemini 4 hydrogen finally replacing 3 8 flash",
+      "url": "arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash"
     },
     "rss:https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/": {
       "at": "2026-08-25T17:21:53.012088+00:00",
@@ -989,6 +1004,11 @@
       "at": "2026-11-06T20:28:28.296427+00:00",
       "title": "does meta think we can t read meta abandons sketchy commercial terms update",
       "url": "arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/": {
+      "at": "2026-11-13T01:06:54.458532+00:00",
+      "title": "google faces calls for ai moratoriums in schools after gemini pilot backlash",
+      "url": "arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks"
     },
     "rss:https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/": {
       "at": "2026-11-06T03:27:37.209339+00:00",
@@ -2074,6 +2094,11 @@
       "at": "2026-10-29T17:31:19.131624+00:00",
       "title": "granite switch 4 1 1 update models like you update software",
       "url": "huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    "rss:https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite": {
+      "at": "2026-11-13T01:06:54.458452+00:00",
+      "title": "llmon an llm native markup language now in granite 4 1 3b and 8b",
+      "url": "huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     },
     "rss:https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
       "at": "2026-10-20T18:32:12.065027+00:00",
@@ -3871,10 +3896,25 @@
       "title": "united airlines bans ai agents from booking flights on behalf of travelers",
       "url": "cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights"
     },
+    "rss:https://news.ycombinator.com/item?id=50474883": {
+      "at": "2026-11-13T01:06:54.458403+00:00",
+      "title": "chinese frontier ai models carry the fingerprint of export controlled gpus",
+      "url": "unemploymentlabs.com/checkpoint-forensics"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
       "url": "openai.com/ads/customers/flipsnack"
+    },
+    "rss:https://openai.com/business/customer-stories/amplitude": {
+      "at": "2026-11-13T01:06:54.458516+00:00",
+      "title": "how amplitude ships product improvements in 1 2 days with openai",
+      "url": "openai.com/business/customer-stories/amplitude"
+    },
+    "rss:https://openai.com/business/customer-stories/gondola": {
+      "at": "2026-11-13T01:06:54.458552+00:00",
+      "title": "gondola doubles revenue as its team builds more with codex",
+      "url": "openai.com/business/customer-stories/gondola"
     },
     "rss:https://openai.com/business/customer-stories/holidays-extras-codex": {
       "at": "2026-11-12T19:00:51.003701+00:00",
@@ -5356,6 +5396,11 @@
       "at": "2026-11-12T01:55:03.664814+00:00",
       "title": "browse tools simonwillison net by tag",
       "url": "simonwillison.net/2026/Nov/11/tools-tags"
+    },
+    "rss:https://simonwillison.net/2026/Nov/12/llm-gemini/": {
+      "at": "2026-11-13T01:06:54.458472+00:00",
+      "title": "llm gemini 0 37",
+      "url": "simonwillison.net/2026/Nov/12/llm-gemini"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10106,6 +10151,11 @@
       "title": "meta is losing its longtime head of infrastructure",
       "url": "techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure"
     },
+    "rss:https://techcrunch.com/?p=3187494": {
+      "at": "2026-11-13T01:06:54.458538+00:00",
+      "title": "nectar launches an ai agent to automate creator discovery and outreach for brands",
+      "url": "techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands"
+    },
     "rss:https://techcrunch.com/?p=3187523": {
       "at": "2026-11-12T19:00:51.003566+00:00",
       "title": "five ways jensen huang s ouster from nvidia could damage the ai industry",
@@ -10175,6 +10225,31 @@
       "at": "2026-11-12T19:00:51.003399+00:00",
       "title": "jensen huang s exit puts nvidia s support for open source in question",
       "url": "techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question"
+    },
+    "rss:https://techcrunch.com/?p=3188050": {
+      "at": "2026-11-13T01:06:54.458431+00:00",
+      "title": "google s latest search upgrade promises better answers to your most complicated questions",
+      "url": "techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions"
+    },
+    "rss:https://techcrunch.com/?p=3188106": {
+      "at": "2026-11-13T01:06:54.458558+00:00",
+      "title": "jensen huang was having a third affair reuters reports",
+      "url": "techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports"
+    },
+    "rss:https://techcrunch.com/?p=3188108": {
+      "at": "2026-11-13T01:06:54.458486+00:00",
+      "title": "democrats launch nvidia investigation write scathing letter on huang s scheme with trump",
+      "url": "techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump"
+    },
+    "rss:https://techcrunch.com/?p=3188119": {
+      "at": "2026-11-13T01:06:54.458414+00:00",
+      "title": "nebius tests the neocloud playbook with 40 billion in planned spending",
+      "url": "techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending"
+    },
+    "rss:https://techcrunch.com/?p=3188128": {
+      "at": "2026-11-13T01:06:54.458495+00:00",
+      "title": "muse can now place calls to us businesses if you pay",
+      "url": "techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -10820,6 +10895,11 @@
       "at": "2026-11-11T00:42:10.804094+00:00",
       "title": "lazare veni foras reprogramming dormant neurons to backdoor ai agents",
       "url": "microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1194401": {
+      "at": "2026-11-13T01:06:54.458502+00:00",
+      "title": "microsoft research focus edition 98",
+      "url": "microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -19155,6 +19235,36 @@
       "title": "cmp170hx now fully unlockabke and more full 120 sms techie uses voltage glitching hack to turn 2 500 nvidia 8gb cryptomining gpu into a full fat 20 000 a100 with 80gb of vram hack carefully blows onboard fuses to unlock entire vram and shader modules",
       "url": "reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xujb7c": {
+      "at": "2026-11-13T01:06:54.458570+00:00",
+      "title": "jensen huang s mistake was being too pro localai which was a threat to companies like closedai and anthropic which are about to go ipo",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xukt9t": {
+      "at": "2026-11-13T01:06:54.458546+00:00",
+      "title": "so this will be true in couple of years",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xumhm3": {
+      "at": "2026-11-13T01:06:54.458564+00:00",
+      "title": "jensen today at nvidia board meeting",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xune1i": {
+      "at": "2026-11-13T01:06:54.458509+00:00",
+      "title": "new model ernie 5 5 flash preview hits strongly at a low parameter count 280b 14b active",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xune1i/new_model_ernie_55_flash_preview_hits_strongly_at"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xur9ud": {
+      "at": "2026-11-13T01:06:54.458479+00:00",
+      "title": "used datacenter workstation gpu prices on ebay this week ranked by gb of vram",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xut4o7": {
+      "at": "2026-11-13T01:06:54.458463+00:00",
+      "title": "hugging face ceo vows to keep fighting for open source ai after jensen huang s exit",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -19725,6 +19835,11 @@
       "title": "the backlash about data centers might really just be about electricity",
       "url": "technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity"
     },
+    "rss:https://www.technologyreview.com/?p=1148483": {
+      "at": "2026-11-13T01:06:54.458422+00:00",
+      "title": "nvidia privately confirmed it could track chips to fight smuggling even as industry publicly questioned feasibility",
+      "url": "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -19891,6 +20006,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-12T19:00:51.003739+00:00",
+  "updated_at": "2026-11-13T01:06:54.458604+00:00",
   "version": 2
 }
