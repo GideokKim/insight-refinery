@@ -67,6 +67,204 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=124562",
+        "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+        "author": "Fatima Fall",
+        "published_at": "2026-11-13T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "다중 GPU 환경에서의 GLM-5.3 서빙 전략",
+        "summary_ko": [
+          "대규모 모델인 GLM-5.3을 로컬에서 구동하기 위해 여러 대의 GPU와 장비 연동이 필수적이 되었습니다.",
+          "두 대의 NVIDIA DGX Station이 ConnectX-8 RDMA로 연결되어 단일 엔드포인트로 대형 모델을 서비스합니다.",
+          "텐서 병렬화 기법을 통해 모델 가중치와 연산을 분산 처리하여 대형 언어 모델의 추론 효율을 높였습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=125128",
+        "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+        "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter/",
+        "author": "John Malaska",
+        "published_at": "2026-11-13T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA SOMA Retargeter를 활용한 로봇 모션 적응",
+        "summary_ko": [
+          "휴먼 모션 데이터는 휴머노이드 로봇에게 자연스러운 움직임을 학습시키는 훌륭한 출발점을 제공합니다.",
+          "하지만 신체 비율과 관절 구조가 다른 로봇은 인간의 관절 움직임을 그대로 복사할 수 없습니다.",
+          "NVIDIA SOMA Retargeter는 로봇의 신체 특성에 맞게 인간의 동작을 변환하고 적응시키는 기능을 제공합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3188368",
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "author": "Sarah Perez",
+        "published_at": "2026-11-13T16:00:12+00:00"
+      },
+      "insight": {
+        "title_ko": "ChatGPT 지갑 기능 도입",
+        "summary_ko": [
+          "ChatGPT에 AI 에이전트가 사용자를 대신해 쇼핑하고 결제할 수 있는 새로운 지갑 기능이 도입되었습니다.",
+          "이 기능은 미국의 Pro 구독자를 대상으로 제한적인 출시를 시작했습니다.",
+          "사용자의 결제와 쇼핑 과정을 자동화하여 AI 활용 범위를 넓히는 데 중요합니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/introducing-chatgpt-wallet",
+        "title": "Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "author": null,
+        "published_at": "2026-11-13T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI, ChatGPT Wallet 도입",
+        "summary_ko": [
+          "OpenAI는 ChatGPT 내 에이전트들이 안전하게 결제를 수행할 수 있는 ChatGPT Wallet을 도입했습니다.",
+          "이 기능은 사용자의 승인과 기존 카드 보호 기능을 바탕으로 ChatGPT Work, Codex, dots 등에서 작동합니다.",
+          "에이전트 기반의 자동화된 구매 프로세스를 지원하여 실무 편의성과 결제 안전성을 높입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xv8t2e",
+        "title": "llama.cpp v1.0 is here 🦙",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+        "author": "/u/unofficialmerve",
+        "published_at": "2026-11-13T14:07:33+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp v1.0 정식 출시",
+        "summary_ko": [
+          "오픈소스 AI 생태계의 핵심인 llama.cpp가 드디어 v1.0 버전을 정식 출시했습니다.",
+          "개발진은 다운스트림 애플리케이션을 위해 강력하고 가벼운 구조를 유지하며 모든 플랫폼과 모델 타입을 지원할 예정입니다.",
+          "또한 로컬 AI 진입 장벽을 낮추기 위해 llama.cpp 기반의 Llama 데스크톱 앱도 함께 공개되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "author": null,
+        "published_at": "2026-11-13T14:05:22+00:00"
+      },
+      "insight": {
+        "title_ko": "llama.cpp v1.0.0 정식 버전 공개",
+        "summary_ko": [
+          "로컬 AI 생태계를 위한 llama.cpp v1.0.0 버전이 새롭게 공개되었습니다.",
+          "이번 버전은 로컬 환경에서 대형 언어 모델을 구동하기 위한 더 강력한 기반을 제공합니다.",
+          "구체적인 변경 사항과 세부 기능은 Hugging Face 블로그 원문을 통해 확인할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50481187",
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "author": "__vivek",
+        "published_at": "2026-11-13T10:18:13+00:00"
+      },
+      "insight": {
+        "title_ko": "Claude 서비스 오류 증가",
+        "summary_ko": [
+          "2026년 11월 13일, claude.ai, Claude Code, platform.claude.com에서 오류가 증가했다.",
+          "이 사건은 status.claude.com에서 확인할 수 있다.",
+          "사용자는 서비스 상태 페이지를 확인해 문제 해결을 기다리길 권장한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xus81t",
+        "title": "Lawyer with too many GPUs, part 5: DeepSeek-V4.1-Flash at near-NVFP4 quality on eight V100s from 2018. 524K context, 100+ tok/s decode, ~160 tok/s with two chats at once, and my legal harness now runs on it, 100% local",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash/",
+        "author": "/u/TumbleweedNew6515",
+        "published_at": "2026-11-12T23:31:29+00:00"
+      },
+      "insight": {
+        "title_ko": "DeepSeek 1017, 8 V100 NVFP4",
+        "summary_ko": [
+          "사용자는 Claude용 법률 하네스를 구축한 뒤 DeepSeek Flash 1017로 전환해 8 V100 GPU에서 NVFP4 품질에 근접한 성능을 달성했다.",
+          "500K 컨텍스트, 100+ 토큰/초 디코드, 160 토큰/초 동시 처리와 맞춤 커널·재양자화로 높은 처리량을 보였다.",
+          "이 구성은 상업용으로 제공되지 않는 엔터프라이즈급 로컬 LLM 배포를 가능하게 해 실무에 직접 적용할 수 있다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+        "title": "Opening the datasets behind our AI weather models",
+        "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+        "author": null,
+        "published_at": "2026-11-10T11:13:04+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 기상 모델 데이터셋 공개",
+        "summary_ko": [
+          "DeepMind가 AI 기상 모델에 활용되는 기초 강수 및 위성 데이터셋을 공개했다.",
+          "이 데이터셋은 지구 전역의 기후 변화를 정밀히 관측할 수 있도록 설계되었다.",
+          "공개를 통해 연구자와 기업이 보다 정확한 기상 예측 모델을 개발할 수 있을 것으로 기대된다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
     }
   ]
 }

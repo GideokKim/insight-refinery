@@ -335,6 +335,11 @@
       "title": "agility robotics nasdaq debut invites scrutiny of humanoid robot market",
       "url": "arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market"
     },
+    "rss:https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/": {
+      "at": "2026-11-13T18:32:00.388830+00:00",
+      "title": "openai board member worries an ai takeover of society could be months away",
+      "url": "arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns"
+    },
     "rss:https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/": {
       "at": "2026-11-09T23:27:26.712491+00:00",
       "title": "claude code is accidentally exposing secrets all over github",
@@ -1155,6 +1160,11 @@
       "title": "google deepmind and singapore government collaborate to build fine tuned ai model for scam detection",
       "url": "deepmind.google/blog/on-device-ai-scam-detection-mddi"
     },
+    "rss:https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/": {
+      "at": "2026-11-13T18:32:00.388814+00:00",
+      "title": "opening the datasets behind our ai weather models",
+      "url": "deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models"
+    },
     "rss:https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/": {
       "at": "2026-08-27T15:57:38.016067+00:00",
       "title": "piloting the world s first double blind ai evaluations",
@@ -1760,6 +1770,11 @@
       "title": "five ways nvidia co design maximizes the value of every byte in the ai factory",
       "url": "developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124562": {
+      "at": "2026-11-13T18:32:00.388702+00:00",
+      "title": "when one gpu isn t enough serving glm 5 3 across two nvidia dgx stations with vllm",
+      "url": "developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124575": {
       "at": "2026-11-05T21:08:12.372583+00:00",
       "title": "configure certify and operate kubernetes gpu clusters with nvidia dsx os",
@@ -1809,6 +1824,11 @@
       "at": "2026-11-11T18:43:32.733803+00:00",
       "title": "validating gpu platforms with runtime ai inventory via the nvidia dsx ai factory",
       "url": "developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125128": {
+      "at": "2026-11-13T18:32:00.388742+00:00",
+      "title": "adapt human motion for robots with nvidia soma retargeter",
+      "url": "developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter"
     },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
@@ -1970,6 +1990,11 @@
       "title": "toyblocks a controlled world for robot learning and evaluation",
       "url": "huggingface.co/blog/allenai/toyblocks"
     },
+    "rss:https://huggingface.co/blog/allenai/xybench": {
+      "at": "2026-11-13T18:32:00.388837+00:00",
+      "title": "xybench helping with the problem behind the question",
+      "url": "huggingface.co/blog/allenai/xybench"
+    },
     "rss:https://huggingface.co/blog/amazon/higher-order-pruning-experts": {
       "at": "2026-11-09T13:54:28.201443+00:00",
       "title": "your experts have partners there s hope for keeping them together",
@@ -2044,6 +2069,11 @@
       "at": "2026-09-03T12:20:09.600188+00:00",
       "title": "give your coding agents a memory you own",
       "url": "huggingface.co/blog/funes"
+    },
+    "rss:https://huggingface.co/blog/ggml-org/llama-cpp-v1": {
+      "at": "2026-11-13T18:32:00.388778+00:00",
+      "title": "llama cpp v1 0 0 a stronger foundation for the local ai ecosystem",
+      "url": "huggingface.co/blog/ggml-org/llama-cpp-v1"
     },
     "rss:https://huggingface.co/blog/gradio-workflow-1111": {
       "at": "2026-09-10T12:57:12.319630+00:00",
@@ -2247,6 +2277,11 @@
       "at": "2026-10-16T07:09:58.704695+00:00",
       "title": "scaling indic pretraining 2 8 trillion tokens and an open data generation pipeline",
       "url": "huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    },
+    "rss:https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place": {
+      "at": "2026-11-13T18:32:00.388821+00:00",
+      "title": "build a robot pick and place simulation with simready assets",
+      "url": "huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
     },
     "rss:https://huggingface.co/blog/omlx": {
       "at": "2026-09-22T07:43:11.181440+00:00",
@@ -3911,6 +3946,21 @@
       "title": "edge0 145b frontier ai capabilities on your own computer",
       "url": "edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
     },
+    "rss:https://news.ycombinator.com/item?id=50481187": {
+      "at": "2026-11-13T18:32:00.388787+00:00",
+      "title": "elevated errors on claude ai claude code and platform claude com",
+      "url": "status.claude.com/incidents/nn11wk485zfn"
+    },
+    "rss:https://news.ycombinator.com/item?id=50481870": {
+      "at": "2026-11-13T18:32:00.388883+00:00",
+      "title": "ai is destroying the trust between writers and readers",
+      "url": "theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391"
+    },
+    "rss:https://news.ycombinator.com/item?id=50484658": {
+      "at": "2026-11-13T18:32:00.388850+00:00",
+      "title": "jonathan blow if ai solved coding why is my software still the same video",
+      "url": "youtube.com/watch?v=IRK8h67ol7Q"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4453,6 +4503,11 @@
       "at": "2026-09-08T22:07:38.642519+00:00",
       "title": "introducing chatgpt images 2 5",
       "url": "openai.com/index/introducing-chatgpt-images-2-5"
+    },
+    "rss:https://openai.com/index/introducing-chatgpt-wallet": {
+      "at": "2026-11-13T18:32:00.388762+00:00",
+      "title": "introducing chatgpt wallet",
+      "url": "openai.com/index/introducing-chatgpt-wallet"
     },
     "rss:https://openai.com/index/introducing-dots": {
       "at": "2026-09-29T21:26:11.893932+00:00",
@@ -10206,6 +10261,11 @@
       "title": "cyberattack on fireworks ai allowed hackers to access notion customers chat transcripts",
       "url": "techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts"
     },
+    "rss:https://techcrunch.com/?p=3187846": {
+      "at": "2026-11-13T18:32:00.388875+00:00",
+      "title": "israel s vcs see opportunity for challengers in nvidia s turmoil",
+      "url": "techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil"
+    },
     "rss:https://techcrunch.com/?p=3187860": {
       "at": "2026-11-12T19:00:51.003673+00:00",
       "title": "trump floats apple chairman tim cook as jensen huang s successor",
@@ -10260,6 +10320,21 @@
       "at": "2026-11-13T01:06:54.458495+00:00",
       "title": "muse can now place calls to us businesses if you pay",
       "url": "techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay"
+    },
+    "rss:https://techcrunch.com/?p=3188240": {
+      "at": "2026-11-13T18:32:00.388898+00:00",
+      "title": "jensen huang didn t show confidence in his successor report says",
+      "url": "techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says"
+    },
+    "rss:https://techcrunch.com/?p=3188328": {
+      "at": "2026-11-13T18:32:00.388866+00:00",
+      "title": "elevenlabs new app combines meeting note taking and dictation for teams",
+      "url": "techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams"
+    },
+    "rss:https://techcrunch.com/?p=3188368": {
+      "at": "2026-11-13T18:32:00.388752+00:00",
+      "title": "chatgpt s new wallet lets ai agents shop and check out for you",
+      "url": "techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -19275,6 +19350,11 @@
       "title": "used datacenter workstation gpu prices on ebay this week ranked by gb of vram",
       "url": "reddit.com/r/LocalLLaMA/comments/1xur9ud/used_datacenterworkstation_gpu_prices_on_ebay"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xus81t": {
+      "at": "2026-11-13T18:32:00.388799+00:00",
+      "title": "lawyer with too many gpus part 5 deepseek v4 1 flash at near nvfp4 quality on eight v100s from 2018 524k context 100 tok s decode 160 tok s with two chats at once and my legal harness now runs on it 100 local",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xus81t/lawyer_with_too_many_gpus_part_5_deepseekv41flash"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xut4o7": {
       "at": "2026-11-13T01:06:54.458463+00:00",
       "title": "hugging face ceo vows to keep fighting for open source ai after jensen huang s exit",
@@ -19290,6 +19370,11 @@
       "title": "stories coming out about jensen",
       "url": "reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuwf9w": {
+      "at": "2026-11-13T18:32:00.388889+00:00",
+      "title": "us intel isn t sure if businesswoman spied on nvidia for china doesn t mean she wasn t a risk sources say",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuwf9w/us_intel_isnt_sure_if_businesswoman_spied_on"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuxbeb": {
       "at": "2026-11-13T09:32:49.138424+00:00",
       "title": "a100 prices down 20 30 since my post about them collapsing",
@@ -19299,6 +19384,26 @@
       "at": "2026-11-13T09:32:49.138468+00:00",
       "title": "bring back the boss nvidia employees petition for jensen huang s return",
       "url": "reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xv2e0a": {
+      "at": "2026-11-13T18:32:00.388911+00:00",
+      "title": "google is asking",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xv8t2e": {
+      "at": "2026-11-13T18:32:00.388769+00:00",
+      "title": "llama cpp v1 0 is here",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvam8o": {
+      "at": "2026-11-13T18:32:00.388844+00:00",
+      "title": "cxmt almost tripling ram production from 2025 to 2028",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvbcfp": {
+      "at": "2026-11-13T18:32:00.388905+00:00",
+      "title": "look what my son gave me",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20051,6 +20156,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-13T09:32:49.138545+00:00",
+  "updated_at": "2026-11-13T18:32:00.388935+00:00",
   "version": 2
 }
