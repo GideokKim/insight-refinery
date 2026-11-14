@@ -3931,6 +3931,11 @@
       "title": "ai usage generates a fragile codebase",
       "url": "evanxmerz.com/post/ai-usage-generates-a-fragile-codebase"
     },
+    "rss:https://news.ycombinator.com/item?id=50441444": {
+      "at": "2026-11-14T21:29:58.045659+00:00",
+      "title": "generative ai uses more energy on non english text",
+      "url": "news.umich.edu/generative-ai-uses-more-energy-on-non-english-text"
+    },
     "rss:https://news.ycombinator.com/item?id=50452455": {
       "at": "2026-11-12T01:55:03.664797+00:00",
       "title": "my ai agents found an unmapped maya site",
@@ -19605,6 +19610,16 @@
       "title": "why don t we have national open ai models",
       "url": "reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw7zrg": {
+      "at": "2026-11-14T21:29:58.045635+00:00",
+      "title": "tiny voca a fully open 4 5m parameter tts code weights dataset runs 70x real time on a cpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwc3m7": {
+      "at": "2026-11-14T21:29:58.045573+00:00",
+      "title": "ai rig finally done and stable perfect winter heater",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -20361,6 +20376,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-14T17:08:04.141346+00:00",
+  "updated_at": "2026-11-14T21:29:58.045735+00:00",
   "version": 2
 }
