@@ -425,6 +425,11 @@
       "title": "the complex corporate web behind a 3 2 billion ai data center",
       "url": "arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems"
     },
+    "rss:https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/": {
+      "at": "2026-11-14T00:54:36.321884+00:00",
+      "title": "faa expands ai advice to manage air traffic congestion across entire us airspace",
+      "url": "arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace"
+    },
     "rss:https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/": {
       "at": "2026-09-12T12:10:52.968243+00:00",
       "title": "i spent 4 000 on a robot dog from china",
@@ -1195,6 +1200,11 @@
       "title": "accelerating dropless moe training in jax with nvidia transformer engine",
       "url": "developer.nvidia.com/blog/accelerating-dropless-moe-training-in-jax-with-nvidia-transformer-engine"
     },
+    "rss:https://developer.nvidia.com/blog/?p=121180": {
+      "at": "2026-11-14T00:54:36.321907+00:00",
+      "title": "run native dla inference in python on nvidia jetson agx orin using cudla",
+      "url": "developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla"
+    },
     "rss:https://developer.nvidia.com/blog/?p=121239": {
       "at": "2026-08-24T11:05:22.951670+00:00",
       "title": "how generative recommenders are redefining recsys at scale",
@@ -1825,10 +1835,20 @@
       "title": "validating gpu platforms with runtime ai inventory via the nvidia dsx ai factory",
       "url": "developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory"
     },
+    "rss:https://developer.nvidia.com/blog/?p=125124": {
+      "at": "2026-11-14T00:54:36.321872+00:00",
+      "title": "faster scientific simulations with new fp64 algorithms in nvidia cublas",
+      "url": "developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas"
+    },
     "rss:https://developer.nvidia.com/blog/?p=125128": {
       "at": "2026-11-13T18:32:00.388742+00:00",
       "title": "adapt human motion for robots with nvidia soma retargeter",
       "url": "developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125204": {
+      "at": "2026-11-14T00:54:36.321945+00:00",
+      "title": "run gpu powered black hole interferometry with nvidia cuphoton",
+      "url": "developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton"
     },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
@@ -3946,6 +3966,11 @@
       "title": "edge0 145b frontier ai capabilities on your own computer",
       "url": "edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
     },
+    "rss:https://news.ycombinator.com/item?id=50475735": {
+      "at": "2026-11-14T00:54:36.322014+00:00",
+      "title": "why you should expect an ai crash",
+      "url": "economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash"
+    },
     "rss:https://news.ycombinator.com/item?id=50481187": {
       "at": "2026-11-13T18:32:00.388787+00:00",
       "title": "elevated errors on claude ai claude code and platform claude com",
@@ -3960,6 +3985,21 @@
       "at": "2026-11-13T18:32:00.388850+00:00",
       "title": "jonathan blow if ai solved coding why is my software still the same video",
       "url": "youtube.com/watch?v=IRK8h67ol7Q"
+    },
+    "rss:https://news.ycombinator.com/item?id=50484960": {
+      "at": "2026-11-14T00:54:36.322001+00:00",
+      "title": "why is google cutting off search from ai free schools here are some theories",
+      "url": "text.npr.org/nx-s1-6029408"
+    },
+    "rss:https://news.ycombinator.com/item?id=50486748": {
+      "at": "2026-11-14T00:54:36.321965+00:00",
+      "title": "ai unlocks gödel s notebooks said to contain hundreds of proved theorems",
+      "url": "theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
+    },
+    "rss:https://news.ycombinator.com/item?id=50488769": {
+      "at": "2026-11-14T00:54:36.322039+00:00",
+      "title": "no ai slop a manifesto",
+      "url": "slopmanifesto.com/"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -3980,6 +4020,11 @@
       "at": "2026-11-12T19:00:51.003701+00:00",
       "title": "holiday extras is rethinking what it can build with codex",
       "url": "openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    "rss:https://openai.com/business/customer-stories/shield": {
+      "at": "2026-11-14T00:54:36.322008+00:00",
+      "title": "shield helps technicians hand off legacy portal work with openai",
+      "url": "openai.com/business/customer-stories/shield"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -5072,6 +5117,11 @@
       "title": "advancing amie towards expert level audio visual clinical consultations",
       "url": "research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations"
     },
+    "rss:https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/": {
+      "at": "2026-11-14T00:54:36.322032+00:00",
+      "title": "advancing science engineering with antigravity s teamwork",
+      "url": "research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature"
+    },
     "rss:https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/": {
       "at": "2026-08-25T20:15:22.693539+00:00",
       "title": "agenthands generating interactive hand gestures for spatially grounded agent conversations in xr",
@@ -5466,6 +5516,16 @@
       "at": "2026-11-13T01:06:54.458472+00:00",
       "title": "llm gemini 0 37",
       "url": "simonwillison.net/2026/Nov/12/llm-gemini"
+    },
+    "rss:https://simonwillison.net/2026/Nov/13/datasette-cluster-map/": {
+      "at": "2026-11-14T00:54:36.322020+00:00",
+      "title": "datasette cluster map 0 19",
+      "url": "simonwillison.net/2026/Nov/13/datasette-cluster-map"
+    },
+    "rss:https://simonwillison.net/2026/Nov/13/datasette-leaflet/": {
+      "at": "2026-11-14T00:54:36.322026+00:00",
+      "title": "datasette leaflet 0 3",
+      "url": "simonwillison.net/2026/Nov/13/datasette-leaflet"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10301,6 +10361,11 @@
       "title": "google s latest search upgrade promises better answers to your most complicated questions",
       "url": "techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions"
     },
+    "rss:https://techcrunch.com/?p=3188067": {
+      "at": "2026-11-14T00:54:36.321916+00:00",
+      "title": "export banned nvidia chips are behind china s most powerful ai models uh oh jensen",
+      "url": "techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen"
+    },
     "rss:https://techcrunch.com/?p=3188106": {
       "at": "2026-11-13T01:06:54.458558+00:00",
       "title": "jensen huang was having a third affair reuters reports",
@@ -10335,6 +10400,16 @@
       "at": "2026-11-13T18:32:00.388752+00:00",
       "title": "chatgpt s new wallet lets ai agents shop and check out for you",
       "url": "techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you"
+    },
+    "rss:https://techcrunch.com/?p=3188474": {
+      "at": "2026-11-14T00:54:36.321956+00:00",
+      "title": "ai agent startup langchain hits 3b valuation",
+      "url": "techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation"
+    },
+    "rss:https://techcrunch.com/?p=3188596": {
+      "at": "2026-11-14T00:54:36.321820+00:00",
+      "title": "jensen huang s departure blasts big hole in ai startup funding vcs and founders say",
+      "url": "techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -19385,10 +19460,20 @@
       "title": "bring back the boss nvidia employees petition for jensen huang s return",
       "url": "reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xuxzfs": {
+      "at": "2026-11-14T00:54:36.322045+00:00",
+      "title": "artificial analysis updated qwen 3 8 flash next score as 29",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xuxzfs/artificial_analysis_updated_qwen_38_flash_next"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xv2e0a": {
       "at": "2026-11-13T18:32:00.388911+00:00",
       "title": "google is asking",
       "url": "reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xv7fku": {
+      "at": "2026-11-14T00:54:36.321928+00:00",
+      "title": "perplexity releases decider v1 3 26b and decider flash v1 3 5b open weight apache 2 0 classification decision models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xv7fku/perplexity_releases_decider_v13_26b_and_decider"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xv8t2e": {
       "at": "2026-11-13T18:32:00.388769+00:00",
@@ -19404,6 +19489,26 @@
       "at": "2026-11-13T18:32:00.388905+00:00",
       "title": "look what my son gave me",
       "url": "reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvbith": {
+      "at": "2026-11-14T00:54:36.321995+00:00",
+      "title": "e means 10x faster k means at equal loss",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvbith/emeans_10x_faster_kmeans_at_equal_loss"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvbn2m": {
+      "at": "2026-11-14T00:54:36.321986+00:00",
+      "title": "qwen3 5 9b running on a ps4 s gpu offline using its own mtp head for speculative decoding",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvcgxq": {
+      "at": "2026-11-14T00:54:36.321977+00:00",
+      "title": "deepseek flash max is the first model to reach 1 on challenging swe sweep bug finding benchmark",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvh4ag": {
+      "at": "2026-11-14T00:54:36.321895+00:00",
+      "title": "weight space programming for quantization nace quants achieve up to 2x better kl divergence for qwen 9b 27b 35b flash next gguf",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20156,6 +20261,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-13T18:32:00.388935+00:00",
+  "updated_at": "2026-11-14T00:54:36.322071+00:00",
   "version": 2
 }
