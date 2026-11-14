@@ -4001,6 +4001,11 @@
       "title": "no ai slop a manifesto",
       "url": "slopmanifesto.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=50493251": {
+      "at": "2026-11-14T08:58:35.766059+00:00",
+      "title": "nvidia allegedly engineered scarcity by funding ai startups to buy its gpus",
+      "url": "techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -19470,6 +19475,11 @@
       "title": "google is asking",
       "url": "reddit.com/r/LocalLLaMA/comments/1xv2e0a/google_is_asking"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xv5dsb": {
+      "at": "2026-11-14T08:58:35.766108+00:00",
+      "title": "i ran the same halloween animation prompt through five coding agents on one local qwen model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xv5dsb/i_ran_the_same_halloween_animation_prompt_through"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xv7fku": {
       "at": "2026-11-14T00:54:36.321928+00:00",
       "title": "perplexity releases decider v1 3 26b and decider flash v1 3 5b open weight apache 2 0 classification decision models",
@@ -19500,15 +19510,40 @@
       "title": "qwen3 5 9b running on a ps4 s gpu offline using its own mtp head for speculative decoding",
       "url": "reddit.com/r/LocalLLaMA/comments/1xvbn2m/qwen359b_running_on_a_ps4s_gpu_offline_using_its"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvbqqa": {
+      "at": "2026-11-14T08:58:35.766082+00:00",
+      "title": "i noticed the 2 hessian refinement of macaq can be applied to any gguf without any patches and tried it 13 better quants",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvcgxq": {
       "at": "2026-11-14T00:54:36.321977+00:00",
       "title": "deepseek flash max is the first model to reach 1 on challenging swe sweep bug finding benchmark",
       "url": "reddit.com/r/LocalLLaMA/comments/1xvcgxq/deepseek_flash_max_is_the_first_model_to_reach_1"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvcmm0": {
+      "at": "2026-11-14T08:58:35.766070+00:00",
+      "title": "i built speedy strix halo kernels for the top 51 llms with amd loom and you can too",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvh4ag": {
       "at": "2026-11-14T00:54:36.321895+00:00",
       "title": "weight space programming for quantization nace quants achieve up to 2x better kl divergence for qwen 9b 27b 35b flash next gguf",
       "url": "reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvsb5f": {
+      "at": "2026-11-14T08:58:35.766094+00:00",
+      "title": "instead of lowering gpu prices former nvidia ceo jensen huang reportedly financed ai startups to absorb excess silicon shattering the shortage perception",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvst4u": {
+      "at": "2026-11-14T08:58:35.766042+00:00",
+      "title": "salesforce sovereign intelligence sov transcribe 1 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvuclv": {
+      "at": "2026-11-14T08:58:35.766121+00:00",
+      "title": "ernie 5 5 flash base ernie",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20155,6 +20190,11 @@
       "title": "can frontier models see past a decoy elorian tests visual reasoning",
       "url": "latent.space/p/elorian"
     },
+    "rss:urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63": {
+      "at": "2026-11-14T08:58:35.766009+00:00",
+      "title": "ainews the no ai slop manifesto",
+      "url": "latent.space/p/ainews-the-no-ai-slop-manifesto"
+    },
     "rss:urn:latent-space:post:post_648fd7ef-adde-48f2-8823-488d55480202": {
       "at": "2026-11-04T20:51:32.121282+00:00",
       "title": "ainews behind latent space kill my saas jev ai in 2026 aiei shanghai",
@@ -20261,6 +20301,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-14T00:54:36.322071+00:00",
+  "updated_at": "2026-11-14T08:58:35.766158+00:00",
   "version": 2
 }

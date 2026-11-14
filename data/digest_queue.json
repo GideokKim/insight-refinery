@@ -1,5 +1,116 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-14T00:54:33.754698+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_5ecf266a-aa1c-4b9a-bcec-3c52bcc9ca63",
+        "title": "[AINews] The No AI Slop Manifesto",
+        "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-14T08:31:02+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 슬롭 선언문과 주요 오픈소스 및 모델 출시 동향",
+        "summary_ko": [
+          "AIE CODE 컨퍼런스에서 무분별한 AI 생성물 확산을 막기 위한 No AI 슬롭 선언문이 발표되어 주목을 받았습니다.",
+          "llama.cpp와 SGLang이 1.0 버전을 각각 출시하며 로컬 추론 및 에이전트 인프라의 안정성을 대폭 강화했습니다.",
+          "Gemini 4와 Claude Fable 5.2 등 최신 프론티어 모델들이 잇달아 출시되며 성능과 벤치마크 순위가 갱신되었습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xvst4u",
+        "title": "salesforce-sovereign-intelligence/SOV-Transcribe-1 · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-14T04:06:46+00:00"
+      },
+      "insight": {
+        "title_ko": "Salesforce, SOV-Transcribe-1 공개",
+        "summary_ko": [
+          "Salesforce는 음성 인식 및 자연어 제어가 결합된 오픈웨이트 ASR 모델인 SOV-Transcribe-1을 공개했습니다.",
+          "이 모델은 Whisper large-v3 인코더와 Gemma 4 기반 MoE 아키텍처를 결합하여 뛰어난 엔티티 인식 및 다국어 지원을 제공합니다.",
+          "개발자와 기업은 자체 인프라에 모델을 배포하여 오디오 데이터를 보호하고 자연어 지시어로 전사 스타일을 제어할 수 있습니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hacker News (AI)",
+        "source_type": "rss",
+        "external_id": "https://news.ycombinator.com/item?id=50493251",
+        "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "author": "speckx",
+        "published_at": "2026-11-14T02:52:59+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia의 GPU 공급 부족 인위적 조작 의혹",
+        "summary_ko": [
+          "Nvidia가 AI 스타트업에 자금을 지원하여 자사의 GPU를 구매하도록 유도했다는 의혹이 제기되었다.",
+          "이번 사안은 인위적인 공급 부족을 조작하여 시장을 통제하려 했다는 점에서 논란이 되고 있다.",
+          "해당 이슈는 AI 하드웨어 시장의 독점력과 생태계 구조에 중요한 실무적 시사점을 제공한다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xvcmm0",
+        "title": "I built speedy Strix Halo kernels for the top-51 LLMs with AMD Loom (and you can too)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51/",
+        "author": "/u/jfowers_amd",
+        "published_at": "2026-11-13T16:37:41+00:00"
+      },
+      "insight": {
+        "title_ko": "AMD Loom 기반 Strix Halo용 LLM 커널 개발",
+        "summary_ko": [
+          "AMD AI 그룹의 새로운 엔드투엔드 도구 스택인 hrx-loom을 활용해 Strix Halo용 고속 LLM 커널이 개발되었습니다.",
+          "에이전트 기반 스킬을 통해 Hugging Face의 상위 51개 LLM에 대한 최적화가 성공적으로 수행되어 llama.cpp 대비 향상된 성능을 기록했습니다.",
+          "해당 툴은 컴파일러와 런타임을 포함하며 PyPI를 통해 설치 후 Linux 및 Windows 환경에서 즉시 구동할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xvbqqa",
+        "title": "I noticed the 2 Hessian Refinement of MACaQ can be applied to any GGUF without any patches ... and tried it. 13% better quants",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbqqa/i_noticed_the_2_hessian_refinement_of_macaq_can/",
+        "author": "/u/wapswaps",
+        "published_at": "2026-11-13T16:03:56+00:00"
+      },
+      "insight": {
+        "title_ko": "GGUF 모델 양자화 성능 개선 기법 적용 사례",
+        "summary_ko": [
+          "작성자는 MACaQ 논문의 Hessian Refinement 기법을 적용하여 GGUF 양자화 모델의 KL divergence를 13% 이상 개선했습니다.",
+          "이 방법은 추론 소프트웨어 수정 없이 GGUF 파일 교체만으로 적용 가능하며 속도 저하가 없습니다.",
+          "Hessian 기반 최적화를 통해 추가 연산이나 VRAM 증가 없이 모델의 압축률과 정확도를 높일 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
