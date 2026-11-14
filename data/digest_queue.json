@@ -111,6 +111,94 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xw09tu",
+        "title": "IBM trains two small open models to ignore orders hidden in documents",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders/",
+        "author": "/u/mawcopolow",
+        "published_at": "2026-11-14T11:33:26+00:00"
+      },
+      "insight": {
+        "title_ko": "IBM, 문서 내 숨겨진 명령 무시하는 소형 모델 공개",
+        "summary_ko": [
+          "IBM이 문서 속에 숨겨진 악의적 명령을 무시하도록 학습된 두 개의 소형 오픈 모델을 선보였습니다.",
+          "소형 언어 모델에서 취약점으로 지적되던 프롬프트 인젝션 문제를 완화하는 데 도움을 줍니다.",
+          "실무 환경에서 문서 처리 시 보안성을 높이는 데 활용될 수 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xvxyhj",
+        "title": "Can open-weight LLMs can predict the effects of weight edits without running the model (9B–30B)",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of/",
+        "author": "/u/suayptalha",
+        "published_at": "2026-11-14T09:07:32+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈웨이트 LLM의 가중치 기반 행동 예측 연구",
+        "summary_ko": [
+          "연구자는 Qwen 및 Muse 모델을 활용해 LLM이 가중치를 직접 읽고 행동 변화를 예측하는 기법을 실험했다.",
+          "실험 결과 Qwen 27B는 텍스트 설명보다 가중치 직접 접근 시 미세한 수정에 대해 더 높은 정확도를 기록했다.",
+          "반면 모델이 자신의 가중치를 읽을 때는 뚜렷한 이점이 확인되지 않았으며 관련 도구와 코드가 공개되었다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xvuit5",
+        "title": "[Paper] Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-14T05:41:22+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트를 위한 토큰 효율적 SparseRead",
+        "summary_ko": [
+          "AI 에이전트의 외부 문서 과다 읽기 문제를 해결하는 SparseRead 프레임워크가 제안되었습니다.",
+          "이 기술은 Read Intent Protocol과 Adaptive Reader Backends 등을 통해 모델 수정 없이 콘텐츠 수용을 제어합니다.",
+          "실험 결과 총 토큰을 최대 92.9% 줄이면서도 대다수 작업에서 성능을 유지하거나 향상시켰습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xvdmzb",
+        "title": "Tontaube V1.1: open-weights TTS with voice cloning for long-form generation. 4-bit version runs about real time on a desktop CPU",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning/",
+        "author": "/u/EAVDR",
+        "published_at": "2026-11-13T17:14:40+00:00"
+      },
+      "insight": {
+        "title_ko": "오픈웨이트 음성 합성 모델 Tontaube V1.1 공개",
+        "summary_ko": [
+          "Tontaube V1.1은 장문 오디오 생성과 제로샷 음성 복제를 지원하는 오픈웨이트 텍스트 음성 변환 모델이다.",
+          "4비트 버전은 약 4GB의 VRAM이나 데스크톱 CPU에서 실시간으로 구동되어 접근성을 크게 높였다.",
+          "말하기 속도, 억양, 피치 등을 조절할 수 있는 다섯 가지 스타일 슬라이더와 자체 서버가 새로 추가되었다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }

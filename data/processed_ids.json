@@ -10416,6 +10416,11 @@
       "title": "jensen huang s departure blasts big hole in ai startup funding vcs and founders say",
       "url": "techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
     },
+    "rss:https://techcrunch.com/?p=3188720": {
+      "at": "2026-11-14T17:08:04.141229+00:00",
+      "title": "asian governments react to nvidia ceo jensen huang s exit",
+      "url": "techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -19525,6 +19530,11 @@
       "title": "i built speedy strix halo kernels for the top 51 llms with amd loom and you can too",
       "url": "reddit.com/r/LocalLLaMA/comments/1xvcmm0/i_built_speedy_strix_halo_kernels_for_the_top51"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvdmzb": {
+      "at": "2026-11-14T17:08:04.141220+00:00",
+      "title": "tontaube v1 1 open weights tts with voice cloning for long form generation 4 bit version runs about real time on a desktop cpu",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvdmzb/tontaube_v11_openweights_tts_with_voice_cloning"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvh4ag": {
       "at": "2026-11-14T00:54:36.321895+00:00",
       "title": "weight space programming for quantization nace quants achieve up to 2x better kl divergence for qwen 9b 27b 35b flash next gguf",
@@ -19540,10 +19550,60 @@
       "title": "salesforce sovereign intelligence sov transcribe 1 hugging face",
       "url": "reddit.com/r/LocalLLaMA/comments/1xvst4u/salesforcesovereignintelligencesovtranscribe1"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvubha": {
+      "at": "2026-11-14T17:08:04.141298+00:00",
+      "title": "crazy there s a probable connection between my desktop running qwen 3 8 27b and a major geo economic political event",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvubha/crazy_theres_a_probable_connection_between_my"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvuclv": {
       "at": "2026-11-14T08:58:35.766121+00:00",
       "title": "ernie 5 5 flash base ernie",
       "url": "reddit.com/r/LocalLLaMA/comments/1xvuclv/ernie_55_flash_base_ernie"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvuit5": {
+      "at": "2026-11-14T17:08:04.141210+00:00",
+      "title": "paper read less solve more token efficient sparse reading of external content for ai agents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvuit5/paper_read_less_solve_more_tokenefficient_sparse"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvw34k": {
+      "at": "2026-11-14T17:08:04.141270+00:00",
+      "title": "kittenml kitten tts 2 mini hugging face text to speech",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvw34k/kittenmlkittentts2mini_hugging_face_texttospeech"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvxyhj": {
+      "at": "2026-11-14T17:08:04.141194+00:00",
+      "title": "can open weight llms can predict the effects of weight edits without running the model 9b 30b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvxyhj/can_openweight_llms_can_predict_the_effects_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvyol3": {
+      "at": "2026-11-14T17:08:04.141260+00:00",
+      "title": "qwen 3 8 flash next for gamedev it s very capable",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvyol3/qwen_38_flash_next_for_gamedev_its_very_capable"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xvysss": {
+      "at": "2026-11-14T17:08:04.141248+00:00",
+      "title": "sensenova sensenova loop 9b preview hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xvysss/sensenovasensenovaloop9bpreview_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw09tu": {
+      "at": "2026-11-14T17:08:04.141169+00:00",
+      "title": "ibm trains two small open models to ignore orders hidden in documents",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xw09tu/ibm_trains_two_small_open_models_to_ignore_orders"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw0xeu": {
+      "at": "2026-11-14T17:08:04.141238+00:00",
+      "title": "how long are we gonna depend bunch of model creators like qwen gemma nvidia etc for 100b models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw2ogq": {
+      "at": "2026-11-14T17:08:04.141288+00:00",
+      "title": "the lawyer who posts here about his v100s got his story picked up by tom s hardware",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw4ue3": {
+      "at": "2026-11-14T17:08:04.141280+00:00",
+      "title": "why don t we have national open ai models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20301,6 +20361,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-14T08:58:35.766158+00:00",
+  "updated_at": "2026-11-14T17:08:04.141346+00:00",
   "version": 2
 }
