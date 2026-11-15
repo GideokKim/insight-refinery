@@ -89,6 +89,50 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xx1cu9",
+        "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+        "author": "/u/jesdga95",
+        "published_at": "2026-11-15T17:30:31+00:00"
+      },
+      "insight": {
+        "title_ko": "Basalt 0.4.0 업데이트: Qwen 27B 지원 및 고속 추론",
+        "summary_ko": [
+          "Basalt 0.4.0 버전이 출시되며 멀티 모델 및 라우터 지원과 함께 첫 덴스 모델인 Qwen 3.8 27B가 추가되었습니다.",
+          "RTX 5090 환경에서 Qwen 27B 모델이 구조화된 출력 기준으로 초당 최대 776 토큰의 빠른 속도를 기록합니다.",
+          "이번 업데이트에는 비디오 및 파일 입력, 다양한 버그 수정과 함께 채팅, 도구, 이미지 처리 기능이 포함되었습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xww5o2",
+        "title": "higurashi-ai/Haru-4B · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xww5o2/higurashiaiharu4b_hugging_face/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-15T13:58:52+00:00"
+      },
+      "insight": {
+        "title_ko": "실시간 음성 대화 모델 Haru-4B 공개",
+        "summary_ko": [
+          "Haru-4B는 전화 통화처럼 동시에 듣고 말하는 저지연 다국어 전이중 연속 음성 대화 기초 모델입니다.",
+          "7.5 Hz의 네이티브 전이중 방식을 지원하며 133ms마다 음성과 텍스트 프레임을 생성하여 지연을 없앴습니다.",
+          "별도의 오디오 트랜스포머 없이 단일 샘플링 단계로 작동하며 한국어를 포함한 다국어와 음성 제어를 지원합니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
