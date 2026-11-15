@@ -19625,6 +19625,11 @@
       "title": "the lawyer who posts here about his v100s got his story picked up by tom s hardware",
       "url": "reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw36op": {
+      "at": "2026-11-15T12:44:28.964959+00:00",
+      "title": "qwen4 flash wishlist",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xw36op/qwen4_flash_wishlist"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw4ue3": {
       "at": "2026-11-14T17:08:04.141280+00:00",
       "title": "why don t we have national open ai models",
@@ -19635,10 +19640,25 @@
       "title": "tiny voca a fully open 4 5m parameter tts code weights dataset runs 70x real time on a cpu",
       "url": "reddit.com/r/LocalLLaMA/comments/1xw7zrg/tinyvoca_a_fully_open_45mparameter_tts_code"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xw9mpa": {
+      "at": "2026-11-15T12:44:28.964906+00:00",
+      "title": "nex agi nex n2 6 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwan2j": {
+      "at": "2026-11-15T12:44:28.964890+00:00",
+      "title": "update tandem cpp deepseek v4 1 on a 64 gb pc with a 16 gb card and amd rocm support",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwc3m7": {
       "at": "2026-11-14T21:29:58.045573+00:00",
       "title": "ai rig finally done and stable perfect winter heater",
       "url": "reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwe9i5": {
+      "at": "2026-11-15T12:44:28.964915+00:00",
+      "title": "microsoft patent describes turning idle gaming gpus into paid ai training hardware",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwe9i5/microsoft_patent_describes_turning_idle_gaming"
     },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwegdi": {
       "at": "2026-11-15T02:39:44.441081+00:00",
@@ -19649,6 +19669,31 @@
       "at": "2026-11-15T02:39:44.441119+00:00",
       "title": "finally clicked for me local ai is the future not cloud ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwgiow": {
+      "at": "2026-11-15T12:44:28.964949+00:00",
+      "title": "lfm2 5 24b a2b hermes is awesome",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwmnkw": {
+      "at": "2026-11-15T12:44:28.964878+00:00",
+      "title": "rasa will cause total chaos to open llms and beyond",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwqvd2": {
+      "at": "2026-11-15T12:44:28.964936+00:00",
+      "title": "the best and amd est computer i ve ever owned",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwqvd2/the_best_and_amdest_computer_ive_ever_owned"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwr917": {
+      "at": "2026-11-15T12:44:28.964925+00:00",
+      "title": "europa the eu s open ai model is aiming for nearly 1 trillion parameters",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwt3ri": {
+      "at": "2026-11-15T12:44:28.964817+00:00",
+      "title": "paper no second run does rsi stop at frontier pre training 801 30b a3b base coming soon",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20406,6 +20451,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-15T02:39:44.441170+00:00",
+  "updated_at": "2026-11-15T12:44:28.964996+00:00",
   "version": 2
 }

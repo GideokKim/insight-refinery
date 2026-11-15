@@ -1,5 +1,94 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-15T02:39:43.140527+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xwt3ri",
+        "title": "[Paper] No Second Run: Does RSI Stop at Frontier Pre-training? - 801-30B-A3B-Base Coming Soon",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwt3ri/paper_no_second_run_does_rsi_stop_at_frontier/",
+        "author": "/u/pmttyji",
+        "published_at": "2026-11-15T11:21:12+00:00"
+      },
+      "insight": {
+        "title_ko": "최초의 Pre-training RSI 적용 모델 801-30B-A3B-Base 공개",
+        "summary_ko": [
+          "본 논문은 프론티어 pre-training 단계에 재귀적 자기 개선(RSI)을 최초로 적용하고 그 상세 과정을 보고합니다.",
+          "반복 불가능한 단일 학습 루프를 작은 루프들로 분해하여 데이터 파이프라인과 인프라를 개선하는 데 성공했습니다.",
+          "그 결과로 탄생한 801-30B-A3B-Base는 3개월 만에 학습되어 주요 오픈소스 모델들을 능가하는 성능을 기록했습니다."
+        ],
+        "category": "Research",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xwmnkw",
+        "title": "RASA will cause total chaos to open LLMs and beyond",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
+        "author": "/u/ag789",
+        "published_at": "2026-11-15T04:47:03+00:00"
+      },
+      "insight": {
+        "title_ko": "중국 AI 기업의 해외 GPU 원격 대여 차단 규제",
+        "summary_ko": [
+          "미국 상무부는 중국 AI 기업들이 해외에서 Nvidia GPU를 원격으로 대여하는 것을 차단하는 최종 규정 마련에 착수했다.",
+          "미 하원은 적성국의 핵심 기술에 대한 원격 접근을 제한하기 위해 Remote Access Security Act를 통과시켰다.",
+          "이러한 규제 움직임은 오픈소스 LLM 생태계와 글로벌 AI 인프라 시장에 상당한 파장을 일으킬 것으로 예상된다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xwan2j",
+        "title": "Update: tandem.cpp — DeepSeek-V4.1 on a 64 GB PC with a 16 GB card, and AMD (ROCm) support",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwan2j/update_tandemcpp_deepseekv41_on_a_64_gb_pc_with_a/",
+        "author": "/u/smflx",
+        "published_at": "2026-11-14T19:12:45+00:00"
+      },
+      "insight": {
+        "title_ko": "tandem.cpp 업데이트: MoE 모델 추론 가속",
+        "summary_ko": [
+          "VRAM보다 큰 MoE 모델을 빠르게 구동하는 패치셋인 tandem.cpp가 업데이트되었습니다.",
+          "핵심 전문가를 GPU에 유지하고 CPU가 나머지를 보조하여 기존 llama.cpp 대비 속도가 크게 향상됩니다.",
+          "이제 AMD ROCm을 지원하며 NVIDIA와 AMD 환경 모두에서 성능 개선이 이루어졌습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xw9mpa",
+        "title": "nex-agi/Nex-N2.6 · Hugging Face",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/",
+        "author": "/u/TheRealMasonMac",
+        "published_at": "2026-11-14T18:31:49+00:00"
+      },
+      "insight": {
+        "title_ko": "Nex-AGI, 멀티모달 에이전트 모델 Nex-N2.6 공개",
+        "summary_ko": [
+          "Nex-AGI는 GLM-5.3-Flash 기반의 멀티모달 에이전트 모델인 Nex-N2.6을 Hugging Face에 공개했습니다.",
+          "이 모델은 약 321B 파라미터 규모의 FP8 양자화 가중치로 제공되며 컴퓨터 사용과 코딩에 특화되어 있습니다.",
+          "전작 대비 반복적인 추론을 줄이고 도구 사용의 정확도를 높이도록 설계된 것이 특징입니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
