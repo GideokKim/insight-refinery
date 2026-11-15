@@ -5537,6 +5537,16 @@
       "title": "datasette leaflet 0 3",
       "url": "simonwillison.net/2026/Nov/13/datasette-leaflet"
     },
+    "rss:https://simonwillison.net/2026/Nov/14/datasette-llm/": {
+      "at": "2026-11-15T02:39:44.441059+00:00",
+      "title": "datasette llm 0 1a11",
+      "url": "simonwillison.net/2026/Nov/14/datasette-llm"
+    },
+    "rss:https://simonwillison.net/2026/Nov/14/datasette-vega/": {
+      "at": "2026-11-15T02:39:44.441129+00:00",
+      "title": "datasette vega 0 7",
+      "url": "simonwillison.net/2026/Nov/14/datasette-vega"
+    },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
       "title": "the u s census bureau and super intelligence",
@@ -10421,10 +10431,20 @@
       "title": "jensen huang s departure blasts big hole in ai startup funding vcs and founders say",
       "url": "techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say"
     },
+    "rss:https://techcrunch.com/?p=3188673": {
+      "at": "2026-11-15T02:39:44.441002+00:00",
+      "title": "where was nvidia s security team",
+      "url": "techcrunch.com/2026/11/14/where-was-nvidias-security-team"
+    },
     "rss:https://techcrunch.com/?p=3188720": {
       "at": "2026-11-14T17:08:04.141229+00:00",
       "title": "asian governments react to nvidia ceo jensen huang s exit",
       "url": "techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit"
+    },
+    "rss:https://techcrunch.com/?p=3188741": {
+      "at": "2026-11-15T02:39:44.441107+00:00",
+      "title": "elon musk other tech execs sign petition calling on nvidia to reinstate jensen huang",
+      "url": "techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -19620,6 +19640,16 @@
       "title": "ai rig finally done and stable perfect winter heater",
       "url": "reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwegdi": {
+      "at": "2026-11-15T02:39:44.441081+00:00",
+      "title": "hot take frontier models haven t actually become much smarter",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwf8bb": {
+      "at": "2026-11-15T02:39:44.441119+00:00",
+      "title": "finally clicked for me local ai is the future not cloud ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -20376,6 +20406,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-14T21:29:58.045735+00:00",
+  "updated_at": "2026-11-15T02:39:44.441170+00:00",
   "version": 2
 }
