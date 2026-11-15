@@ -4006,6 +4006,11 @@
       "title": "no ai slop a manifesto",
       "url": "slopmanifesto.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=50492141": {
+      "at": "2026-11-15T23:58:33.436405+00:00",
+      "title": "anthropic upgrades claude code projects to run parallel ai workers",
+      "url": "claude.com/resources/articles/projects-redesigned"
+    },
     "rss:https://news.ycombinator.com/item?id=50493251": {
       "at": "2026-11-14T08:58:35.766059+00:00",
       "title": "nvidia allegedly engineered scarcity by funding ai startups to buy its gpus",
@@ -4794,6 +4799,11 @@
       "title": "our decision on cursor following its acquisition by spacex",
       "url": "openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
     },
+    "rss:https://openai.com/index/our-new-blog-for-science": {
+      "at": "2026-11-15T23:58:33.436505+00:00",
+      "title": "our new blog for science",
+      "url": "openai.com/index/our-new-blog-for-science"
+    },
     "rss:https://openai.com/index/pacing-model-development-cyber-capabilities": {
       "at": "2026-08-19T12:28:12.501769+00:00",
       "title": "pacing model development in an era of cyber critical capabilities",
@@ -4983,6 +4993,11 @@
       "at": "2026-08-20T17:18:50.768188+00:00",
       "title": "how chatgpt work helps stampli move ideas to market",
       "url": "openai.com/index/stampli"
+    },
+    "rss:https://openai.com/index/step-toward-defining-the-standard-model": {
+      "at": "2026-11-15T23:58:33.436439+00:00",
+      "title": "a step toward defining the standard model on a lattice",
+      "url": "openai.com/index/step-toward-defining-the-standard-model"
     },
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
@@ -10450,6 +10465,21 @@
       "at": "2026-11-15T02:39:44.441107+00:00",
       "title": "elon musk other tech execs sign petition calling on nvidia to reinstate jensen huang",
       "url": "techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
+    },
+    "rss:https://techcrunch.com/?p=3188757": {
+      "at": "2026-11-15T23:58:33.436453+00:00",
+      "title": "is bad news for jensen huang also bad news for the ai industry",
+      "url": "techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry"
+    },
+    "rss:https://techcrunch.com/?p=3188782": {
+      "at": "2026-11-15T23:58:33.436422+00:00",
+      "title": "indian chip startup bharat semi lands 24m seed round as it eyes global ai sensor market",
+      "url": "techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market"
+    },
+    "rss:https://techcrunch.com/?p=3188820": {
+      "at": "2026-11-15T23:58:33.436531+00:00",
+      "title": "snl gathers all the tech tycoons for a lesson in dating and spycraft",
+      "url": "techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -19705,6 +19735,11 @@
       "title": "latest version of strata made my qwen3 8 flash next dumb and useless",
       "url": "reddit.com/r/LocalLLaMA/comments/1xwttcw/latest_version_of_strata_made_my_qwen38flashnext"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xwvrri": {
+      "at": "2026-11-15T23:58:33.436379+00:00",
+      "title": "meituan longcat longcat video avatar 1 6 hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xwvrri/meituanlongcatlongcatvideoavatar16_hugging_face"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xww5o2": {
       "at": "2026-11-15T19:47:06.168514+00:00",
       "title": "higurashi ai haru 4b hugging face",
@@ -19729,6 +19764,26 @@
       "at": "2026-11-15T19:47:06.168480+00:00",
       "title": "basalt 0 4 0 more models still as fast qwen 27b up to 770 tok s on a 5090",
       "url": "reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xx2vi0": {
+      "at": "2026-11-15T23:58:33.436486+00:00",
+      "title": "audio cpp soulx flashhead lfm3 audio owsm v4 real time local avatar chat",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xx607x": {
+      "at": "2026-11-15T23:58:33.436468+00:00",
+      "title": "llama cpp performance improvement over time gemma4 models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xx607x/llamacpp_performance_improvement_over_time_gemma4"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xx7qbf": {
+      "at": "2026-11-15T23:58:33.436305+00:00",
+      "title": "i have created a tool to observe what happens inside an llm also allows for the comparison of two quantizations of the same model to see at what point they diverge token by token",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xx7qbf/i_have_created_a_tool_to_observe_what_happens"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xx85mw": {
+      "at": "2026-11-15T23:58:33.436517+00:00",
+      "title": "someone should do an analysis on the rate of self promo here",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20486,6 +20541,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-15T19:47:06.168614+00:00",
+  "updated_at": "2026-11-15T23:58:33.436574+00:00",
   "version": 2
 }
