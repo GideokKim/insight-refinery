@@ -1,5 +1,72 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-15T23:58:31.824600+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xxawbh",
+        "title": "Why download abliterated Flash Next models when LoRA exists?",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when/",
+        "author": "/u/returnity",
+        "published_at": "2026-11-16T00:06:16+00:00"
+      },
+      "insight": {
+        "title_ko": "대용량 모델 대신 LoRA로 거부 성향 제거하기",
+        "summary_ko": [
+          "대용량의 abliterated 모델을 전부 다운로드하는 대신 소형 LoRA 파일을 llama.cpp에 적용하여 저장 공간을 절약할 수 있습니다.",
+          "대부분의 거부 우회 기법은 런타임에 LoRA나 제어 벡터 형태로 기존 양자화 모델에 동적 적용이 가능합니다.",
+          "요청에 따라 LoRA를 선택적으로 활성화하여 원본 모델의 성능을 유지하면서 효율적인 추론을 수행할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "r/LocalLLaMA",
+        "source_type": "rss",
+        "external_id": "https://www.reddit.com/r/LocalLLaMA/top/t3_1xx5fng",
+        "title": "BigMoeOnEdge outperforms Strata and colibri on 8-16 GB cards and Mac and you can run any model",
+        "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on/",
+        "author": "/u/dai_app",
+        "published_at": "2026-11-15T20:11:18+00:00"
+      },
+      "insight": {
+        "title_ko": "로컬 환경용 MoE 모델 실행 도구 BigMoeOnEdge 공개",
+        "summary_ko": [
+          "BigMoeOnEdge는 별도의 재패킹 없이 8~16GB VRAM 카드와 Mac에서 MoE GGUF 모델을 구동할 수 있는 도구입니다.",
+          "자동 설정 기능을 통해 품질 저하 없이 llama.cpp와 동일한 출력을 제공하며 다양한 하드웨어를 지원합니다.",
+          "벤치마크 결과 기존 솔루션인 Strata나 colibri 대비 더 빠른 토큰 생성 속도와 프롬프트 처리 성능을 보여줍니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Import AI",
+        "source_type": "rss",
+        "external_id": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+        "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+        "url": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+        "author": "Jack Clark",
+        "published_at": "2026-11-09T13:31:34+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 과학 및 메타의 촉각 장갑 연구 동향",
+        "summary_ko": [
+          "AI 과학 스타트업인 Physical Superintelligence가 Anthropic 모델을 활용해 오랜 기간 미해결이었던 양자 컴퓨팅 추측을 증명했습니다.",
+          "Lean 검증기를 통해 도출된 이번 연구 결과는 기술과 과학의 발전 속도가 인간의 이해를 뛰어넘는 특이점의 초기 단계를 보여줍니다.",
+          "또한 Meta Reality Labs는 자연스러운 조작 데이터 수집을 위해 촉각과 자세를 감지하는 섬유 기반 장갑인 Tactus를 공개했습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

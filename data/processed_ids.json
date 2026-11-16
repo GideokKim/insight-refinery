@@ -2403,6 +2403,11 @@
       "title": "introducing huggingface kernels 200 webgpu kernels for local ai",
       "url": "huggingface.co/blog/webgpu-kernels"
     },
+    "rss:https://importai.substack.com/p/import-ai-480-self-sustaining-space": {
+      "at": "2026-11-16T09:44:14.542006+00:00",
+      "title": "import ai 480 self sustaining space economies ai for science progress and meta builds perfect hands for a superintelligence",
+      "url": "importai.substack.com/p/import-ai-480-self-sustaining-space"
+    },
     "rss:https://news.ycombinator.com/item?id=49299282": {
       "at": "2026-08-19T14:23:12.191457+00:00",
       "title": "when genius fails the intellectual arrogance of the ai labs",
@@ -5566,6 +5571,31 @@
       "at": "2026-11-15T02:39:44.441129+00:00",
       "title": "datasette vega 0 7",
       "url": "simonwillison.net/2026/Nov/14/datasette-vega"
+    },
+    "rss:https://simonwillison.net/2026/Nov/15/datasette-2/": {
+      "at": "2026-11-16T09:44:14.542051+00:00",
+      "title": "datasette 0 65 6",
+      "url": "simonwillison.net/2026/Nov/15/datasette-2"
+    },
+    "rss:https://simonwillison.net/2026/Nov/15/datasette-agent/": {
+      "at": "2026-11-16T09:44:14.542086+00:00",
+      "title": "datasette agent 0 6a0",
+      "url": "simonwillison.net/2026/Nov/15/datasette-agent"
+    },
+    "rss:https://simonwillison.net/2026/Nov/15/datasette-apps/": {
+      "at": "2026-11-16T09:44:14.542077+00:00",
+      "title": "datasette apps 0 4a0",
+      "url": "simonwillison.net/2026/Nov/15/datasette-apps"
+    },
+    "rss:https://simonwillison.net/2026/Nov/15/datasette-maplibre/": {
+      "at": "2026-11-16T09:44:14.542033+00:00",
+      "title": "datasette maplibre 0 1a0",
+      "url": "simonwillison.net/2026/Nov/15/datasette-maplibre"
+    },
+    "rss:https://simonwillison.net/2026/Nov/15/datasette/": {
+      "at": "2026-11-16T09:44:14.542041+00:00",
+      "title": "datasette 1 0a43",
+      "url": "simonwillison.net/2026/Nov/15/datasette"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10475,6 +10505,11 @@
       "at": "2026-11-15T23:58:33.436422+00:00",
       "title": "indian chip startup bharat semi lands 24m seed round as it eyes global ai sensor market",
       "url": "techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market"
+    },
+    "rss:https://techcrunch.com/?p=3188803": {
+      "at": "2026-11-16T09:44:14.542025+00:00",
+      "title": "apple launches new app to study how people use ai for health",
+      "url": "techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health"
     },
     "rss:https://techcrunch.com/?p=3188820": {
       "at": "2026-11-15T23:58:33.436531+00:00",
@@ -19770,6 +19805,11 @@
       "title": "audio cpp soulx flashhead lfm3 audio owsm v4 real time local avatar chat",
       "url": "reddit.com/r/LocalLLaMA/comments/1xx2vi0/audiocpp_soulxflashhead_lfm3audio_owsm_v4"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xx5fng": {
+      "at": "2026-11-16T09:44:14.541993+00:00",
+      "title": "bigmoeonedge outperforms strata and colibri on 8 16 gb cards and mac and you can run any model",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xx5fng/bigmoeonedge_outperforms_strata_and_colibri_on"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xx607x": {
       "at": "2026-11-15T23:58:33.436468+00:00",
       "title": "llama cpp performance improvement over time gemma4 models",
@@ -19784,6 +19824,21 @@
       "at": "2026-11-15T23:58:33.436517+00:00",
       "title": "someone should do an analysis on the rate of self promo here",
       "url": "reddit.com/r/LocalLLaMA/comments/1xx85mw/someone_should_do_an_analysis_on_the_rate_of"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxawbh": {
+      "at": "2026-11-16T09:44:14.541969+00:00",
+      "title": "why download abliterated flash next models when lora exists",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxawbh/why_download_abliterated_flash_next_models_when"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxfv69": {
+      "at": "2026-11-16T09:44:14.542016+00:00",
+      "title": "i m starting to think a specialized 4b is enough for most of the tasks i d use an llm for",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxfv69/im_starting_to_think_a_specialized_4b_is_enough"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxibeh": {
+      "at": "2026-11-16T09:44:14.542093+00:00",
+      "title": "new aa ranking qwen3 8 fn better than glm 5 3 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20541,6 +20596,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-15T23:58:33.436574+00:00",
+  "updated_at": "2026-11-16T09:44:14.542121+00:00",
   "version": 2
 }
