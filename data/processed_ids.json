@@ -365,6 +365,11 @@
       "title": "google will let schools skip ai tools but they have to give up search too",
       "url": "arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too"
     },
+    "rss:https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/": {
+      "at": "2026-11-16T21:04:15.374924+00:00",
+      "title": "jensen huang allies build a war room to get him back at nvidia",
+      "url": "arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia"
+    },
     "rss:https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/": {
       "at": "2026-11-11T00:42:10.804392+00:00",
       "title": "ring cameras go mobile as amazon debuts ai powered security drone and robot",
@@ -1024,6 +1029,11 @@
       "at": "2026-11-06T03:27:37.209339+00:00",
       "title": "lawsuit man introduced his wife to chatgpt she used it to plan his murder",
       "url": "arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/": {
+      "at": "2026-11-16T21:04:15.374775+00:00",
+      "title": "us moves to cut china s remote access to ai chips",
+      "url": "arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips"
     },
     "rss:https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
       "at": "2026-10-15T18:20:26.786763+00:00",
@@ -1835,6 +1845,11 @@
       "title": "validating gpu platforms with runtime ai inventory via the nvidia dsx ai factory",
       "url": "developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory"
     },
+    "rss:https://developer.nvidia.com/blog/?p=125036": {
+      "at": "2026-11-16T21:04:15.374853+00:00",
+      "title": "post training nvidia nemotron to increase accuracy in your scientific domain",
+      "url": "developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain"
+    },
     "rss:https://developer.nvidia.com/blog/?p=125124": {
       "at": "2026-11-14T00:54:36.321872+00:00",
       "title": "faster scientific simulations with new fp64 algorithms in nvidia cublas",
@@ -1849,6 +1864,16 @@
       "at": "2026-11-14T00:54:36.321945+00:00",
       "title": "run gpu powered black hole interferometry with nvidia cuphoton",
       "url": "developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125279": {
+      "at": "2026-11-16T21:04:15.374893+00:00",
+      "title": "nvidia vera rubin nvl72 leads agentic inference performance on mlperf endpoints v1 0",
+      "url": "developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125323": {
+      "at": "2026-11-16T21:04:15.374904+00:00",
+      "title": "nvidia vera rubin nvl72 achieves up to 2x blackwell ultra performance in mlperf training v6 1",
+      "url": "developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1"
     },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
@@ -4394,6 +4419,11 @@
       "title": "expanding ai access and cyber defense for federal state local and tribal governments",
       "url": "openai.com/index/expanding-ai-access-us-government"
     },
+    "rss:https://openai.com/index/expanding-chatgpt-for-academic-researchers": {
+      "at": "2026-11-16T21:04:15.374959+00:00",
+      "title": "broadening access to ai for scientists",
+      "url": "openai.com/index/expanding-chatgpt-for-academic-researchers"
+    },
     "rss:https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
       "at": "2026-09-21T21:06:07.442451+00:00",
       "title": "expanding openai academy with new learning paths",
@@ -5006,6 +5036,11 @@
     },
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/strengthening-online-child-safety": {
+      "at": "2026-11-16T21:04:15.374972+00:00",
+      "title": "strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "openai.com/index/strengthening-online-child-safety"
     },
     "rss:https://openai.com/index/sullivan-cromwell": {
       "at": "2026-10-16T01:21:04.940421+00:00",
@@ -10476,6 +10511,11 @@
       "title": "ai agent startup langchain hits 3b valuation",
       "url": "techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation"
     },
+    "rss:https://techcrunch.com/?p=3188489": {
+      "at": "2026-11-16T21:04:15.374985+00:00",
+      "title": "openai releases a new image classifier and chatgpt warnings to combat csam",
+      "url": "techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam"
+    },
     "rss:https://techcrunch.com/?p=3188596": {
       "at": "2026-11-14T00:54:36.321820+00:00",
       "title": "jensen huang s departure blasts big hole in ai startup funding vcs and founders say",
@@ -10515,6 +10555,51 @@
       "at": "2026-11-15T23:58:33.436531+00:00",
       "title": "snl gathers all the tech tycoons for a lesson in dating and spycraft",
       "url": "techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft"
+    },
+    "rss:https://techcrunch.com/?p=3188848": {
+      "at": "2026-11-16T21:04:15.375071+00:00",
+      "title": "jordan belfort s new ai voice startup tone wants to sell like the wolf of wall street",
+      "url": "techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street"
+    },
+    "rss:https://techcrunch.com/?p=3188899": {
+      "at": "2026-11-16T21:04:15.375009+00:00",
+      "title": "google maps can now build trip itineraries with real time details about each stop",
+      "url": "techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop"
+    },
+    "rss:https://techcrunch.com/?p=3188900": {
+      "at": "2026-11-16T21:04:15.374914+00:00",
+      "title": "us tightens ai chip export controls to deter chinese companies from accessing compute remotely",
+      "url": "techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely"
+    },
+    "rss:https://techcrunch.com/?p=3188907": {
+      "at": "2026-11-16T21:04:15.374997+00:00",
+      "title": "audible turns to ai to help users discover audiobooks",
+      "url": "techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks"
+    },
+    "rss:https://techcrunch.com/?p=3188979": {
+      "at": "2026-11-16T21:04:15.374807+00:00",
+      "title": "fbi says artex ai open source hacking tool used to breach networks in under three hours",
+      "url": "techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours"
+    },
+    "rss:https://techcrunch.com/?p=3188985": {
+      "at": "2026-11-16T21:04:15.374820+00:00",
+      "title": "openai will embed safety researchers to investigate ai subversion",
+      "url": "techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion"
+    },
+    "rss:https://techcrunch.com/?p=3189047": {
+      "at": "2026-11-16T21:04:15.375034+00:00",
+      "title": "trump says ex nvidia ceo jensen huang s affair with an alleged chinese spy did not threaten national security",
+      "url": "techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security"
+    },
+    "rss:https://techcrunch.com/?p=3189053": {
+      "at": "2026-11-16T21:04:15.375053+00:00",
+      "title": "sam altman on nvidia without jensen huang the industry will be fine",
+      "url": "techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine"
+    },
+    "rss:https://techcrunch.com/?p=3189115": {
+      "at": "2026-11-16T21:04:15.374724+00:00",
+      "title": "california state ag sues openai over rogue agent incidents",
+      "url": "techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -11155,6 +11240,11 @@
       "at": "2026-11-03T20:31:43.801624+00:00",
       "title": "learn the rules the hacker mindset",
       "url": "microsoft.com/en-us/research/podcast/learn-the-rules-the-hacker-mindset"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1194016": {
+      "at": "2026-11-16T21:04:15.374829+00:00",
+      "title": "tokeneconomizer learning from experience to make ai coding agents more efficient",
+      "url": "microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient"
     },
     "rss:https://www.microsoft.com/en-us/research/?p=1194126": {
       "at": "2026-11-11T00:42:10.804094+00:00",
@@ -19840,6 +19930,31 @@
       "title": "new aa ranking qwen3 8 fn better than glm 5 3 flash",
       "url": "reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxqfqr": {
+      "at": "2026-11-16T21:04:15.375103+00:00",
+      "title": "stop worrying about qwen 4 s aa index",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxqfqr/stop_worrying_about_qwen_4s_aa_index"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxsc7u": {
+      "at": "2026-11-16T21:04:15.375090+00:00",
+      "title": "censorship is turning me into a true local llm believer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxsc7u/censorship_is_turning_me_into_a_true_local_llm"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxxbt9": {
+      "at": "2026-11-16T21:04:15.374794+00:00",
+      "title": "open weight models account for 30 usage at enterprises to save money",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxxbt9/open_weight_models_account_for_30_usage_at"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxxs0a": {
+      "at": "2026-11-16T21:04:15.374934+00:00",
+      "title": "small gemma 4 tokenizers were recently updated by google fix for an issue that caused nonsense output when encountering certain tokens",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxzk23": {
+      "at": "2026-11-16T21:04:15.375022+00:00",
+      "title": "i am sick of doomposting about demise of local ai",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai"
+    },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
       "title": "looking for 1 teammate realpde competition neurips 2026 d",
@@ -20415,6 +20530,16 @@
       "title": "nvidia privately confirmed it could track chips to fight smuggling even as industry publicly questioned feasibility",
       "url": "technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking"
     },
+    "rss:https://www.technologyreview.com/?p=1148565": {
+      "at": "2026-11-16T21:04:15.374839+00:00",
+      "title": "building trustworthy ai by fencing it in not predicting it",
+      "url": "technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it"
+    },
+    "rss:https://www.technologyreview.com/?p=1148624": {
+      "at": "2026-11-16T21:04:15.374945+00:00",
+      "title": "the open source movement wants jensen huang back",
+      "url": "technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -20596,6 +20721,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-16T09:44:14.542121+00:00",
+  "updated_at": "2026-11-16T21:04:15.375160+00:00",
   "version": 2
 }
