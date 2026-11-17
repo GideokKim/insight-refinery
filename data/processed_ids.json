@@ -775,6 +775,11 @@
       "title": "mcp for agent to agent comms may be the riskiest protocol you ve never heard of",
       "url": "arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp"
     },
+    "rss:https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": {
+      "at": "2026-11-17T14:27:01.810921+00:00",
+      "title": "grok bot took unapproved actions ignored orders to stop and then denied it",
+      "url": "arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it"
+    },
     "rss:https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
       "at": "2026-11-11T00:42:10.804029+00:00",
       "title": "grok build coding agent leaks oodles of confidential info some belonging to spacexsi",
@@ -4091,6 +4096,11 @@
       "title": "holiday extras is rethinking what it can build with codex",
       "url": "openai.com/business/customer-stories/holidays-extras-codex"
     },
+    "rss:https://openai.com/business/customer-stories/revolut": {
+      "at": "2026-11-17T14:27:01.811130+00:00",
+      "title": "how revolut raises ambition without lowering the bar",
+      "url": "openai.com/business/customer-stories/revolut"
+    },
     "rss:https://openai.com/business/customer-stories/shield": {
       "at": "2026-11-14T00:54:36.322008+00:00",
       "title": "shield helps technicians hand off legacy portal work with openai",
@@ -4674,6 +4684,11 @@
       "title": "introducing mentalhealthbench",
       "url": "openai.com/index/introducing-mentalhealthbench"
     },
+    "rss:https://openai.com/index/introducing-openai-for-chile": {
+      "at": "2026-11-17T14:27:01.811122+00:00",
+      "title": "introducing openai for chile",
+      "url": "openai.com/index/introducing-openai-for-chile"
+    },
     "rss:https://openai.com/index/introducing-the-agents-api": {
       "at": "2026-09-10T22:36:21.831651+00:00",
       "title": "introducing the agents api",
@@ -5081,6 +5096,11 @@
     },
     "rss:https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "at": "2026-08-19T12:14:50.156795+00:00"
+    },
+    "rss:https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+      "at": "2026-11-17T14:27:01.811080+00:00",
+      "title": "strengthening nato and allied cyber defenses with ai",
+      "url": "openai.com/index/strengthening-nato-allied-cyber-defences-ai"
     },
     "rss:https://openai.com/index/strengthening-online-child-safety": {
       "at": "2026-11-16T21:04:15.374972+00:00",
@@ -5686,6 +5706,11 @@
       "at": "2026-11-17T05:06:26.238979+00:00",
       "title": "llm 0 37 3",
       "url": "simonwillison.net/2026/Nov/16/llm"
+    },
+    "rss:https://simonwillison.net/2026/Nov/17/go-proverbs/": {
+      "at": "2026-11-17T14:27:01.811147+00:00",
+      "title": "quoting go proverbs",
+      "url": "simonwillison.net/2026/Nov/17/go-proverbs"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10666,10 +10691,20 @@
       "title": "california state ag sues openai over rogue agent incidents",
       "url": "techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
     },
+    "rss:https://techcrunch.com/?p=3189147": {
+      "at": "2026-11-17T14:27:01.811100+00:00",
+      "title": "spotify s new tool aims to stop deepfakes from being attributed to real artists",
+      "url": "techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists"
+    },
     "rss:https://techcrunch.com/?p=3189297": {
       "at": "2026-11-17T05:06:26.238992+00:00",
       "title": "cybersecurity ai startup corma reaches 1b valuation in about 3 months",
       "url": "techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months"
+    },
+    "rss:https://techcrunch.com/?p=3189442": {
+      "at": "2026-11-17T14:27:01.810968+00:00",
+      "title": "nvidia s first big move after jensen huang s exit targets national security",
+      "url": "techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -20040,6 +20075,11 @@
       "title": "censorship is turning me into a true local llm believer",
       "url": "reddit.com/r/LocalLLaMA/comments/1xxsc7u/censorship_is_turning_me_into_a_true_local_llm"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxwg6w": {
+      "at": "2026-11-17T14:27:01.811090+00:00",
+      "title": "nvidia nemotron labs sigma 8b 3b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxwg6w/nvidianemotronlabssigma_8b3b"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxxbt9": {
       "at": "2026-11-16T21:04:15.374794+00:00",
       "title": "open weight models account for 30 usage at enterprises to save money",
@@ -20069,6 +20109,41 @@
       "at": "2026-11-17T05:06:26.238986+00:00",
       "title": "your daily dose of qwopium",
       "url": "reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xyamk6": {
+      "at": "2026-11-17T14:27:01.811067+00:00",
+      "title": "maxwell model maxwell v1 flash hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xyamk6/maxwellmodelmaxwellv1flash_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xyb7jw": {
+      "at": "2026-11-17T14:27:01.811051+00:00",
+      "title": "clover 2 dense 27 8b base 7 lora experts routed per token not a static merge weights public",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xyb7jw/clover_2_dense_278b_base_7_lora_experts_routed"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xygtj4": {
+      "at": "2026-11-17T14:27:01.811032+00:00",
+      "title": "ovh announces olala mini 7a1b",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xygtj4/ovh_announces_olala_mini_7a1b"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xyi3aa": {
+      "at": "2026-11-17T14:27:01.811112+00:00",
+      "title": "nvidia qwen3 8 flash next nvfp4 qad",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xyi3aa/nvidiaqwen38flashnextnvfp4qad"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xyi6hj": {
+      "at": "2026-11-17T14:27:01.811017+00:00",
+      "title": "rotate k v read order for better l2 cache hit rates by gaugarg nv pull request 32407 ggml org llama cpp",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xyi6hj/rotate_kv_read_order_for_better_l2_cache_hit"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xyioi8": {
+      "at": "2026-11-17T14:27:01.810991+00:00",
+      "title": "intel shares first benchmarks of its next gen crescent island d270 gpu claiming a 5 9x throughput over rtx pro 6000 as xe3p goes big on fp64",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xyioi8/intel_shares_first_benchmarks_of_its_nextgen"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xyjkts": {
+      "at": "2026-11-17T14:27:01.811139+00:00",
+      "title": "gemma on a printer",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xyjkts/gemma_on_a_printer"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20770,6 +20845,11 @@
       "title": "ainews d day decision models day",
       "url": "latent.space/p/ainews-d-day-decision-models-day"
     },
+    "rss:urn:latent-space:post:post_ae3c512d-675f-4368-9e24-ad45b6d484fd": {
+      "at": "2026-11-17T14:27:01.811041+00:00",
+      "title": "ainews perplexity hits a 1b revenue run rate up 4x in 2026",
+      "url": "latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026"
+    },
     "rss:urn:latent-space:post:post_afb68ac1-73fd-4861-b60f-254f59d5c2b4": {
       "at": "2026-10-24T12:41:12.841488+00:00",
       "title": "ainews kimi 3 1 pro 104ba 2 8t fable 5 1 class open weights narrows closed ai lead to 1 month and pro highspeed api with 2 3 speed",
@@ -20846,6 +20926,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-17T05:06:26.239070+00:00",
+  "updated_at": "2026-11-17T14:27:01.811186+00:00",
   "version": 2
 }
