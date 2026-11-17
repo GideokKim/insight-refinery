@@ -375,6 +375,11 @@
       "title": "ring cameras go mobile as amazon debuts ai powered security drone and robot",
       "url": "arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot"
     },
+    "rss:https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/": {
+      "at": "2026-11-17T05:06:26.238999+00:00",
+      "title": "robo soldier startup backed by eric trump misses payroll may collapse",
+      "url": "arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse"
+    },
     "rss:https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/": {
       "at": "2026-11-04T03:01:01.667378+00:00",
       "title": "ukraine s drone strikes spur hasty russian plans for underground data centers",
@@ -1835,6 +1840,11 @@
       "title": "running av reasoning models within onboard compute and latency limits",
       "url": "developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124884": {
+      "at": "2026-11-17T05:06:26.238776+00:00",
+      "title": "accelerate molecular dynamics simulations with accurate flexible primitives using nvidia cupotential",
+      "url": "developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124939": {
       "at": "2026-11-10T18:42:12.047793+00:00",
       "title": "manage kubernetes clusters for gpu infrastructure with nvidia kubernetes engine",
@@ -2347,6 +2357,11 @@
       "at": "2026-09-30T16:51:17.984894+00:00",
       "title": "open tts leaderboard scalable evaluation for multilingual text to speech and voice cloning",
       "url": "huggingface.co/blog/open-tts-leaderboard"
+    },
+    "rss:https://huggingface.co/blog/openrouter": {
+      "at": "2026-11-17T05:06:26.238900+00:00",
+      "title": "hugging face and openrouter join forces to make open weight models easy to run",
+      "url": "huggingface.co/blog/openrouter"
     },
     "rss:https://huggingface.co/blog/phonon-tts": {
       "at": "2026-11-05T13:15:07.644931+00:00",
@@ -4066,6 +4081,11 @@
       "title": "gondola doubles revenue as its team builds more with codex",
       "url": "openai.com/business/customer-stories/gondola"
     },
+    "rss:https://openai.com/business/customer-stories/holiday-extras-dots": {
+      "at": "2026-11-17T05:06:26.239035+00:00",
+      "title": "at holiday extras dots get to work before anyone asks",
+      "url": "openai.com/business/customer-stories/holiday-extras-dots"
+    },
     "rss:https://openai.com/business/customer-stories/holidays-extras-codex": {
       "at": "2026-11-12T19:00:51.003701+00:00",
       "title": "holiday extras is rethinking what it can build with codex",
@@ -4095,6 +4115,11 @@
       "at": "2026-11-03T20:31:43.801569+00:00",
       "title": "accelerating engineering for the physical world",
       "url": "openai.com/index/accelerating-engineering-for-the-physical-world"
+    },
+    "rss:https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
+      "at": "2026-11-17T05:06:26.238972+00:00",
+      "title": "advancing computer use agents for healthcare teams",
+      "url": "openai.com/index/advancing-computer-use-for-healthcare-teams"
     },
     "rss:https://openai.com/index/advancing-computer-use-with-ironclad": {
       "at": "2026-10-06T21:42:06.239785+00:00",
@@ -4739,6 +4764,11 @@
       "title": "advancing coding in low resource programming languages",
       "url": "openai.com/index/low-resource-programming-languages"
     },
+    "rss:https://openai.com/index/lvmh-media-division-partnership": {
+      "at": "2026-11-17T05:06:26.238963+00:00",
+      "title": "lvmh s media division announces strategic partnership with openai",
+      "url": "openai.com/index/lvmh-media-division-partnership"
+    },
     "rss:https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
       "at": "2026-11-06T20:28:28.296506+00:00",
       "title": "measuring how ai agents handle everyday wet lab science",
@@ -4753,6 +4783,11 @@
       "at": "2026-09-16T22:57:26.123754+00:00",
       "title": "our framework for reporting model misalignment",
       "url": "openai.com/index/model-misalignment-reporting-framework"
+    },
+    "rss:https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare": {
+      "at": "2026-11-17T05:06:26.238888+00:00",
+      "title": "more ways to move care forward with chatgpt for healthcare",
+      "url": "openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
     },
     "rss:https://openai.com/index/navier-stokes-solution": {
       "at": "2026-09-08T22:07:38.642315+00:00",
@@ -4833,6 +4868,11 @@
       "at": "2026-08-29T08:23:49.748322+00:00",
       "title": "our decision on cursor following its acquisition by spacex",
       "url": "openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    },
+    "rss:https://openai.com/index/our-first-phase-of-embedded-assessments": {
+      "at": "2026-11-17T05:06:26.238879+00:00",
+      "title": "our first phase of embedded assessments",
+      "url": "openai.com/index/our-first-phase-of-embedded-assessments"
     },
     "rss:https://openai.com/index/our-new-blog-for-science": {
       "at": "2026-11-15T23:58:33.436505+00:00",
@@ -4994,6 +5034,11 @@
       "title": "rapidly scaling online storage to serve over 1 billion chatgpt users part ii",
       "url": "openai.com/index/scaling-storage-one-billion-users-part-two"
     },
+    "rss:https://openai.com/index/science-at-the-frontier": {
+      "at": "2026-11-17T05:06:26.238937+00:00",
+      "title": "science at the frontier how scientists use chatgpt",
+      "url": "openai.com/index/science-at-the-frontier"
+    },
     "rss:https://openai.com/index/securing-our-frontier-model-training-environment": {
       "at": "2026-10-23T23:09:50.024710+00:00",
       "title": "securing our frontier model training environment",
@@ -5121,6 +5166,11 @@
       "at": "2026-10-29T00:00:51.638911+00:00",
       "title": "the future of the firm",
       "url": "openai.com/index/the-future-of-the-firm"
+    },
+    "rss:https://openai.com/index/the-kings-trust-and-openai": {
+      "at": "2026-11-17T05:06:26.239027+00:00",
+      "title": "the king s trust and openai launch 1m partnership",
+      "url": "openai.com/index/the-kings-trust-and-openai"
     },
     "rss:https://openai.com/index/the-work-now-within-reach": {
       "at": "2026-09-08T17:40:11.523137+00:00",
@@ -5631,6 +5681,11 @@
       "at": "2026-11-16T09:44:14.542041+00:00",
       "title": "datasette 1 0a43",
       "url": "simonwillison.net/2026/Nov/15/datasette"
+    },
+    "rss:https://simonwillison.net/2026/Nov/16/llm/": {
+      "at": "2026-11-17T05:06:26.238979+00:00",
+      "title": "llm 0 37 3",
+      "url": "simonwillison.net/2026/Nov/16/llm"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10516,6 +10571,11 @@
       "title": "openai releases a new image classifier and chatgpt warnings to combat csam",
       "url": "techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam"
     },
+    "rss:https://techcrunch.com/?p=3188528": {
+      "at": "2026-11-17T05:06:26.238926+00:00",
+      "title": "freshworks alums raise 53m to take on salesforce hubspot with ai native crm",
+      "url": "techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm"
+    },
     "rss:https://techcrunch.com/?p=3188596": {
       "at": "2026-11-14T00:54:36.321820+00:00",
       "title": "jensen huang s departure blasts big hole in ai startup funding vcs and founders say",
@@ -10586,6 +10646,11 @@
       "title": "openai will embed safety researchers to investigate ai subversion",
       "url": "techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion"
     },
+    "rss:https://techcrunch.com/?p=3189019": {
+      "at": "2026-11-17T05:06:26.238913+00:00",
+      "title": "all the questions nvidia should answer on tuesday but probably won t",
+      "url": "techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont"
+    },
     "rss:https://techcrunch.com/?p=3189047": {
       "at": "2026-11-16T21:04:15.375034+00:00",
       "title": "trump says ex nvidia ceo jensen huang s affair with an alleged chinese spy did not threaten national security",
@@ -10600,6 +10665,11 @@
       "at": "2026-11-16T21:04:15.374724+00:00",
       "title": "california state ag sues openai over rogue agent incidents",
       "url": "techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents"
+    },
+    "rss:https://techcrunch.com/?p=3189297": {
+      "at": "2026-11-17T05:06:26.238992+00:00",
+      "title": "cybersecurity ai startup corma reaches 1b valuation in about 3 months",
+      "url": "techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -19930,6 +20000,36 @@
       "title": "new aa ranking qwen3 8 fn better than glm 5 3 flash",
       "url": "reddit.com/r/LocalLLaMA/comments/1xxibeh/new_aa_ranking_qwen38fn_better_than_glm53flash"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxlgpb": {
+      "at": "2026-11-17T05:06:26.238957+00:00",
+      "title": "introducing hy4 flash",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxlgpb/introducing_hy4_flash"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxlich": {
+      "at": "2026-11-17T05:06:26.239041+00:00",
+      "title": "the beginning of the becoming of the beginning begins",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxlich/the_beginning_of_the_becoming_of_the_beginning"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxmd3w": {
+      "at": "2026-11-17T05:06:26.238866+00:00",
+      "title": "paper models mmflash faster speculative decoding for vision language models",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxmd3w/paper_models_mmflash_faster_speculative_decoding"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxn631": {
+      "at": "2026-11-17T05:06:26.238853+00:00",
+      "title": "internlm sage s2 1 flash hugging face",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxn631/internlmsages21flash_hugging_face"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxn9c6": {
+      "at": "2026-11-17T05:06:26.238948+00:00",
+      "title": "did we hit a wall in context length",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxn9c6/did_we_hit_a_wall_in_context_length"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxpxvi": {
+      "at": "2026-11-17T05:06:26.239020+00:00",
+      "title": "best audio models nov 2026",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxpxvi/best_audio_models_nov_2026"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxqfqr": {
       "at": "2026-11-16T21:04:15.375103+00:00",
       "title": "stop worrying about qwen 4 s aa index",
@@ -19950,10 +20050,25 @@
       "title": "small gemma 4 tokenizers were recently updated by google fix for an issue that caused nonsense output when encountering certain tokens",
       "url": "reddit.com/r/LocalLLaMA/comments/1xxxs0a/small_gemma_4_tokenizers_were_recently_updated_by"
     },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxy7eb": {
+      "at": "2026-11-17T05:06:26.239014+00:00",
+      "title": "mihoyo gamer a generalist game agent",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxy7eb/mihoyo_gamer_a_generalist_game_agent"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxz46x": {
+      "at": "2026-11-17T05:06:26.239006+00:00",
+      "title": "i don t get all the strata hates around here",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xxz46x/i_dont_get_all_the_strata_hates_around_here"
+    },
     "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xxzk23": {
       "at": "2026-11-16T21:04:15.375022+00:00",
       "title": "i am sick of doomposting about demise of local ai",
       "url": "reddit.com/r/LocalLLaMA/comments/1xxzk23/i_am_sick_of_doomposting_about_demise_of_local_ai"
+    },
+    "rss:https://www.reddit.com/r/LocalLLaMA/top/t3_1xy4xsx": {
+      "at": "2026-11-17T05:06:26.238986+00:00",
+      "title": "your daily dose of qwopium",
+      "url": "reddit.com/r/LocalLLaMA/comments/1xy4xsx/your_daily_dose_of_qwopium"
     },
     "rss:https://www.reddit.com/r/MachineLearning/top/t3_1vsjlzj": {
       "at": "2026-08-20T11:16:15.526011+00:00",
@@ -20390,6 +20505,11 @@
       "title": "ai breakthroughs in robotics won t change your life any time soon",
       "url": "technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
     },
+    "rss:https://www.technologyreview.com/?p=1146070": {
+      "at": "2026-11-17T05:06:26.238841+00:00",
+      "title": "building ai that can work across the enterprise",
+      "url": "technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise"
+    },
     "rss:https://www.technologyreview.com/?p=1146103": {
       "at": "2026-10-22T23:23:30.353125+00:00",
       "title": "the foundations of scalable ai",
@@ -20580,6 +20700,11 @@
       "title": "ai is getting good at math here s why",
       "url": "latent.space/p/ai-is-getting-good-at-math"
     },
+    "rss:urn:latent-space:post:post_4b2a7cf6-32ae-48a8-a4a0-2da9cda7b646": {
+      "at": "2026-11-17T05:06:26.238821+00:00",
+      "title": "building visual intelligence andreas blattmann dustin podell black forest labs",
+      "url": "latent.space/p/bfl"
+    },
     "rss:urn:latent-space:post:post_4bbfc159-731d-476e-a98e-feff058c9af8": {
       "at": "2026-10-30T08:39:31.555848+00:00",
       "title": "ainews building aie code the top coding agent conference",
@@ -20721,6 +20846,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-16T21:04:15.375160+00:00",
+  "updated_at": "2026-11-17T05:06:26.239070+00:00",
   "version": 2
 }
