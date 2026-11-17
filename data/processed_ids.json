@@ -365,6 +365,11 @@
       "title": "google will let schools skip ai tools but they have to give up search too",
       "url": "arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too"
     },
+    "rss:https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/": {
+      "at": "2026-11-17T23:51:57.314280+00:00",
+      "title": "google makes it easier to use gemini without training ai on your data",
+      "url": "arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history"
+    },
     "rss:https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/": {
       "at": "2026-11-16T21:04:15.374924+00:00",
       "title": "jensen huang allies build a war room to get him back at nvidia",
@@ -1039,6 +1044,11 @@
       "at": "2026-11-06T03:27:37.209339+00:00",
       "title": "lawsuit man introduced his wife to chatgpt she used it to plan his murder",
       "url": "arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/": {
+      "at": "2026-11-17T23:51:57.314239+00:00",
+      "title": "trump was in bed with jensen critics balk at huang s wish to return to nvidia",
+      "url": "arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia"
     },
     "rss:https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/": {
       "at": "2026-11-16T21:04:15.374775+00:00",
@@ -1840,6 +1850,11 @@
       "title": "speed up image generation with flux 3 image klein on nvidia blackwell gpus",
       "url": "developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124831": {
+      "at": "2026-11-17T23:51:57.314147+00:00",
+      "title": "co designing sparse attention for efficient long context inference",
+      "url": "developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference"
+    },
     "rss:https://developer.nvidia.com/blog/?p=124882": {
       "at": "2026-11-10T18:42:12.047710+00:00",
       "title": "running av reasoning models within onboard compute and latency limits",
@@ -1879,6 +1894,11 @@
       "at": "2026-11-14T00:54:36.321945+00:00",
       "title": "run gpu powered black hole interferometry with nvidia cuphoton",
       "url": "developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125224": {
+      "at": "2026-11-17T23:51:57.314172+00:00",
+      "title": "integrating qpus into supercomputing centers using slurm hres plugins",
+      "url": "developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins"
     },
     "rss:https://developer.nvidia.com/blog/?p=125279": {
       "at": "2026-11-16T21:04:15.374893+00:00",
@@ -4659,6 +4679,11 @@
       "title": "introducing gpt 6 1 terra",
       "url": "openai.com/index/introducing-gpt-6-1-terra"
     },
+    "rss:https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+      "at": "2026-11-17T23:51:57.314067+00:00",
+      "title": "introducing gpt 6 2 astra and sol",
+      "url": "openai.com/index/introducing-gpt-6-2-astra-sol"
+    },
     "rss:https://openai.com/index/introducing-gpt-6-cyber": {
       "at": "2026-11-06T03:27:37.209288+00:00",
       "title": "gpt 6 cyber advancing the frontier of aligned cybersecurity agents",
@@ -5707,10 +5732,25 @@
       "title": "llm 0 37 3",
       "url": "simonwillison.net/2026/Nov/16/llm"
     },
+    "rss:https://simonwillison.net/2026/Nov/17/datasette-lite/": {
+      "at": "2026-11-17T23:51:57.314192+00:00",
+      "title": "running the full server side datasette python app in the browser with service workers and pyodide",
+      "url": "simonwillison.net/2026/Nov/17/datasette-lite"
+    },
+    "rss:https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/": {
+      "at": "2026-11-17T23:51:57.314095+00:00",
+      "title": "external sandboxes for coding agents",
+      "url": "simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents"
+    },
     "rss:https://simonwillison.net/2026/Nov/17/go-proverbs/": {
       "at": "2026-11-17T14:27:01.811147+00:00",
       "title": "quoting go proverbs",
       "url": "simonwillison.net/2026/Nov/17/go-proverbs"
+    },
+    "rss:https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/": {
+      "at": "2026-11-17T23:51:57.314105+00:00",
+      "title": "gpt 6 2 astra and gpt 6 2 sol",
+      "url": "simonwillison.net/2026/Nov/17/gpt62-astra-and-sol"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10671,6 +10711,11 @@
       "title": "openai will embed safety researchers to investigate ai subversion",
       "url": "techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion"
     },
+    "rss:https://techcrunch.com/?p=3189001": {
+      "at": "2026-11-17T23:51:57.314257+00:00",
+      "title": "as decision model use skyrockets is customization the next frontier",
+      "url": "techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier"
+    },
     "rss:https://techcrunch.com/?p=3189019": {
       "at": "2026-11-17T05:06:26.238913+00:00",
       "title": "all the questions nvidia should answer on tuesday but probably won t",
@@ -10705,6 +10750,76 @@
       "at": "2026-11-17T14:27:01.810968+00:00",
       "title": "nvidia s first big move after jensen huang s exit targets national security",
       "url": "techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security"
+    },
+    "rss:https://techcrunch.com/?p=3189496": {
+      "at": "2026-11-17T23:51:57.314160+00:00",
+      "title": "ai models can be tricked into identifying civilians as military targets by telling them it s a game",
+      "url": "techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game"
+    },
+    "rss:https://techcrunch.com/?p=3189498": {
+      "at": "2026-11-17T23:51:57.314318+00:00",
+      "title": "daydream s new ai agent acts as your personal stylist and can shop for you too",
+      "url": "techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too"
+    },
+    "rss:https://techcrunch.com/?p=3189502": {
+      "at": "2026-11-17T23:51:57.314306+00:00",
+      "title": "jensen huang says he would be honored if allowed to return as nvidia ceo",
+      "url": "techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo"
+    },
+    "rss:https://techcrunch.com/?p=3189535": {
+      "at": "2026-11-17T23:51:57.314271+00:00",
+      "title": "proton s lumo a privacy focused alternative to chatgpt and claude arrives on desktop",
+      "url": "techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop"
+    },
+    "rss:https://techcrunch.com/?p=3189612": {
+      "at": "2026-11-17T23:51:57.314264+00:00",
+      "title": "pedestal ai raises 4 7 million to agentify the supply chain",
+      "url": "techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain"
+    },
+    "rss:https://techcrunch.com/?p=3189640": {
+      "at": "2026-11-17T23:51:57.314132+00:00",
+      "title": "google expands access to gemini tasks which can help with calls purchases",
+      "url": "techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases"
+    },
+    "rss:https://techcrunch.com/?p=3189652": {
+      "at": "2026-11-17T23:51:57.314249+00:00",
+      "title": "google to keep gemini chats for 2 months up from 72 hours even with history off",
+      "url": "techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off"
+    },
+    "rss:https://techcrunch.com/?p=3189688": {
+      "at": "2026-11-17T23:51:57.314121+00:00",
+      "title": "model ml raises 250m to automate investment banking grunt work",
+      "url": "techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work"
+    },
+    "rss:https://techcrunch.com/?p=3189743": {
+      "at": "2026-11-17T23:51:57.314326+00:00",
+      "title": "google joins the tech outage trend by announcing it s not having one",
+      "url": "techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one"
+    },
+    "rss:https://techcrunch.com/?p=3189746": {
+      "at": "2026-11-17T23:51:57.314221+00:00",
+      "title": "amazon and google will together own nearly 30 of anthropic after its ipo",
+      "url": "techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3189752": {
+      "at": "2026-11-17T23:51:57.314231+00:00",
+      "title": "sec reportedly investigating nvidia amid huang exit",
+      "url": "techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit"
+    },
+    "rss:https://techcrunch.com/?p=3189778": {
+      "at": "2026-11-17T23:51:57.314211+00:00",
+      "title": "nvidia says it doesn t plan to reappoint jensen huang as ceo",
+      "url": "techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo"
+    },
+    "rss:https://techcrunch.com/?p=3189779": {
+      "at": "2026-11-17T23:51:57.314081+00:00",
+      "title": "nvidia says its open source ai strategy remains intact after jensen huang s exit",
+      "url": "techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit"
+    },
+    "rss:https://techcrunch.com/?p=3189789": {
+      "at": "2026-11-17T23:51:57.314018+00:00",
+      "title": "nvidia is abandoning china after jensen huang s ouster",
+      "url": "techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -11360,6 +11475,11 @@
       "at": "2026-11-13T01:06:54.458502+00:00",
       "title": "microsoft research focus edition 98",
       "url": "microsoft.com/en-us/research/podcast/microsoft-research-focus-edition-98"
+    },
+    "rss:https://www.microsoft.com/en-us/research/?p=1194663": {
+      "at": "2026-11-17T23:51:57.314182+00:00",
+      "title": "can ai help build a healthier future",
+      "url": "microsoft.com/en-us/research/podcast/can-ai-help-build-a-healthier-future"
     },
     "rss:https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models/": {
       "at": "2026-08-31T21:43:04.495318+00:00",
@@ -20755,6 +20875,11 @@
       "title": "one million ai engineer special how stanford teaches ai native engineering mihail eric monaco",
       "url": "latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco"
     },
+    "rss:urn:latent-space:post:post_16c84c46-b1fe-478a-8919-437f0bb0ddf7": {
+      "at": "2026-11-17T23:51:57.314202+00:00",
+      "title": "cloudflare joins the jevolution and labels itself a neolab",
+      "url": "latent.space/p/cloudflare"
+    },
     "rss:urn:latent-space:post:post_1866fd28-0c9b-4270-b4c4-208e0ee9626e": {
       "at": "2026-10-27T07:51:59.875319+00:00",
       "title": "ainews anthropic files for 2t ipo in 2 weeks 1400 growth rate 48 of revenue through cloud partners 85 margin 1b op profit in q2 134b cash in bank and 10b lifetime burn",
@@ -20926,6 +21051,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-17T14:27:01.811186+00:00",
+  "updated_at": "2026-11-17T23:51:57.314358+00:00",
   "version": 2
 }
