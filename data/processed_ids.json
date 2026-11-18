@@ -575,6 +575,11 @@
       "title": "could potential ai clones of gta vi force a quicker official port",
       "url": "arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port"
     },
+    "rss:https://arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories/": {
+      "at": "2026-11-18T19:25:53.313078+00:00",
+      "title": "will wright s next simulation will use ai to mine content from your memories",
+      "url": "arstechnica.com/gaming/2026/11/will-wrights-next-simulation-will-use-ai-to-mine-content-from-your-memories"
+    },
     "rss:https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/": {
       "at": "2026-09-30T21:27:04.076684+00:00",
       "title": "google announces gemini 4 argon ai model but you can t use it yet",
@@ -1050,6 +1055,11 @@
       "title": "lawsuit man introduced his wife to chatgpt she used it to plan his murder",
       "url": "arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/": {
+      "at": "2026-11-18T19:25:53.312984+00:00",
+      "title": "muse privacy invasions are freaking out meta staffers internal chats show",
+      "url": "arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/": {
       "at": "2026-11-17T23:51:57.314239+00:00",
       "title": "trump was in bed with jensen critics balk at huang s wish to return to nvidia",
@@ -1144,6 +1154,11 @@
       "at": "2026-10-27T21:20:39.162422+00:00",
       "title": "genie 4 a new generation of world simulation",
       "url": "deepmind.google/blog/genie-4-a-new-generation-of-world-simulation"
+    },
+    "rss:https://deepmind.google/blog/genie-4-is-now-available/": {
+      "at": "2026-11-18T19:25:53.313071+00:00",
+      "title": "genie 4 is now available",
+      "url": "deepmind.google/blog/genie-4-is-now-available"
     },
     "rss:https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
       "at": "2026-08-26T18:46:54.599647+00:00",
@@ -1905,6 +1920,11 @@
       "title": "integrating qpus into supercomputing centers using slurm hres plugins",
       "url": "developer.nvidia.com/blog/integrating-qpus-into-supercomputing-centers-using-slurm-hres-plugins"
     },
+    "rss:https://developer.nvidia.com/blog/?p=125268": {
+      "at": "2026-11-18T19:25:53.313003+00:00",
+      "title": "build training ready physical ai datasets with two prompts in nvidia cosmos",
+      "url": "developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos"
+    },
     "rss:https://developer.nvidia.com/blog/?p=125279": {
       "at": "2026-11-16T21:04:15.374893+00:00",
       "title": "nvidia vera rubin nvl72 leads agentic inference performance on mlperf endpoints v1 0",
@@ -1914,6 +1934,11 @@
       "at": "2026-11-16T21:04:15.374904+00:00",
       "title": "nvidia vera rubin nvl72 achieves up to 2x blackwell ultra performance in mlperf training v6 1",
       "url": "developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125410": {
+      "at": "2026-11-18T19:25:53.313046+00:00",
+      "title": "tackling gpu bottlenecks in plane wave dft with k point batching and mixed precision",
+      "url": "developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision"
     },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
@@ -1934,6 +1959,11 @@
       "at": "2026-08-19T12:28:12.501822+00:00",
       "title": "same cluster 33 points more utilization what changed was the order",
       "url": "huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+    },
+    "rss:https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time": {
+      "at": "2026-11-18T19:25:53.312995+00:00",
+      "title": "why your fine tuning job takes longer than the flops say",
+      "url": "huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
     },
     "rss:https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
       "at": "2026-10-21T18:41:55.078856+00:00",
@@ -2253,6 +2283,11 @@
       "title": "real time intelligence with ibm time series models on confluent",
       "url": "huggingface.co/blog/ibm-research/real-time-intelligence"
     },
+    "rss:https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse": {
+      "at": "2026-11-18T19:25:53.313123+00:00",
+      "title": "time series models in the streamhouse a new frontier and use cases",
+      "url": "huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+    },
     "rss:https://huggingface.co/blog/icml-2026-open-reproductions": {
       "at": "2026-08-19T14:23:12.191244+00:00",
       "title": "what we learned by reproducing 2 200 papers from icml",
@@ -2277,6 +2312,11 @@
       "at": "2026-10-29T17:31:19.131714+00:00",
       "title": "welcome le chonk mistral large 4 on hugging face",
       "url": "huggingface.co/blog/mistral-large4"
+    },
+    "rss:https://huggingface.co/blog/moe-expert-streaming": {
+      "at": "2026-11-18T19:25:53.313064+00:00",
+      "title": "180b parameters 32gb of ram pushing moe inference to the limit with transformers",
+      "url": "huggingface.co/blog/moe-expert-streaming"
     },
     "rss:https://huggingface.co/blog/mps-pytorch-2-15": {
       "at": "2026-10-20T13:35:40.766683+00:00",
@@ -4116,6 +4156,16 @@
       "title": "ai is killing all about berlin",
       "url": "nicolasbouliane.com/blog/death-by-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50547777": {
+      "at": "2026-11-18T19:25:53.313117+00:00",
+      "title": "ai agents ask better questions than kpmg accountants in audit trial",
+      "url": "europeanbusinessmagazine.com/ai-agents-better-questions-kpmg"
+    },
+    "rss:https://news.ycombinator.com/item?id=50548485": {
+      "at": "2026-11-18T19:25:53.313108+00:00",
+      "title": "anthropic is not a safe ai company coalition challenges anthropic safety",
+      "url": "businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4170,6 +4220,11 @@
       "at": "2026-11-03T20:31:43.801569+00:00",
       "title": "accelerating engineering for the physical world",
       "url": "openai.com/index/accelerating-engineering-for-the-physical-world"
+    },
+    "rss:https://openai.com/index/advancing-chip-design-with-our-models": {
+      "at": "2026-11-18T19:25:53.313056+00:00",
+      "title": "advancing chip design with openai models",
+      "url": "openai.com/index/advancing-chip-design-with-our-models"
     },
     "rss:https://openai.com/index/advancing-computer-use-for-healthcare-teams": {
       "at": "2026-11-17T05:06:26.238972+00:00",
@@ -4663,6 +4718,11 @@
       "at": "2026-08-26T22:35:55.496761+00:00",
       "title": "the hugging face incident and the road ahead",
       "url": "openai.com/index/hugging-face-incident-and-the-road-ahead"
+    },
+    "rss:https://openai.com/index/inside-the-codex-sandbox": {
+      "at": "2026-11-18T19:25:53.313161+00:00",
+      "title": "inside the codex sandbox",
+      "url": "openai.com/index/inside-the-codex-sandbox"
     },
     "rss:https://openai.com/index/introducing-admin-plugin": {
       "at": "2026-08-25T20:15:22.693603+00:00",
@@ -5257,6 +5317,11 @@
       "title": "the king s trust and openai launch 1m partnership",
       "url": "openai.com/index/the-kings-trust-and-openai"
     },
+    "rss:https://openai.com/index/the-silent-consensus": {
+      "at": "2026-11-18T19:25:53.313167+00:00",
+      "title": "the silent consensus",
+      "url": "openai.com/index/the-silent-consensus"
+    },
     "rss:https://openai.com/index/the-work-now-within-reach": {
       "at": "2026-09-08T17:40:11.523137+00:00",
       "title": "the work now within reach",
@@ -5791,6 +5856,16 @@
       "at": "2026-11-17T23:51:57.314105+00:00",
       "title": "gpt 6 2 astra and gpt 6 2 sol",
       "url": "simonwillison.net/2026/Nov/17/gpt62-astra-and-sol"
+    },
+    "rss:https://simonwillison.net/2026/Nov/18/daniel-stenberg/": {
+      "at": "2026-11-18T19:25:53.313040+00:00",
+      "title": "quoting daniel stenberg",
+      "url": "simonwillison.net/2026/Nov/18/daniel-stenberg"
+    },
+    "rss:https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": {
+      "at": "2026-11-18T19:25:53.313172+00:00",
+      "title": "the psf end of year fundraiser",
+      "url": "simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -10666,6 +10741,11 @@
       "title": "chatgpt s new wallet lets ai agents shop and check out for you",
       "url": "techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you"
     },
+    "rss:https://techcrunch.com/?p=3188451": {
+      "at": "2026-11-18T19:25:53.313146+00:00",
+      "title": "india s humyn labs raises 47m to feed us robotics companies the data they need",
+      "url": "techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers"
+    },
     "rss:https://techcrunch.com/?p=3188474": {
       "at": "2026-11-14T00:54:36.321956+00:00",
       "title": "ai agent startup langchain hits 3b valuation",
@@ -10786,6 +10866,11 @@
       "title": "cybersecurity ai startup corma reaches 1b valuation in about 3 months",
       "url": "techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months"
     },
+    "rss:https://techcrunch.com/?p=3189441": {
+      "at": "2026-11-18T19:25:53.313138+00:00",
+      "title": "felicis leads 7 5m bet on unsiloed ai to make enterprise documents usable by ai agents",
+      "url": "techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents"
+    },
     "rss:https://techcrunch.com/?p=3189442": {
       "at": "2026-11-17T14:27:01.810968+00:00",
       "title": "nvidia s first big move after jensen huang s exit targets national security",
@@ -10866,10 +10951,35 @@
       "title": "nvidia promises that revenue will keep soaring for now",
       "url": "techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now"
     },
+    "rss:https://techcrunch.com/?p=3189866": {
+      "at": "2026-11-18T19:25:53.313130+00:00",
+      "title": "nvidia clarifies when it will and won t keep financing neoclouds",
+      "url": "techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds"
+    },
     "rss:https://techcrunch.com/?p=3189878": {
       "at": "2026-11-18T10:10:12.842070+00:00",
       "title": "nvidia s startup stakes ballooned to 65b but huang s exit puts future deals in doubt",
       "url": "techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt"
+    },
+    "rss:https://techcrunch.com/?p=3189965": {
+      "at": "2026-11-18T19:25:53.313101+00:00",
+      "title": "sam altman warns against a future where ai not humans calls the shots",
+      "url": "techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots"
+    },
+    "rss:https://techcrunch.com/?p=3189966": {
+      "at": "2026-11-18T19:25:53.313028+00:00",
+      "title": "openai ceo sam altman says it s hard to imagine the ai industry without jensen",
+      "url": "techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen"
+    },
+    "rss:https://techcrunch.com/?p=3189975": {
+      "at": "2026-11-18T19:25:53.313093+00:00",
+      "title": "more banks say customers using ai agents are on their own even if they get hacked",
+      "url": "techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked"
+    },
+    "rss:https://techcrunch.com/?p=3190009": {
+      "at": "2026-11-18T19:25:53.313085+00:00",
+      "title": "google s ai feature in search gets its own incognito mode",
+      "url": "techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -20910,6 +21020,16 @@
       "title": "the open source movement wants jensen huang back",
       "url": "technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back"
     },
+    "rss:https://www.technologyreview.com/?p=1148650": {
+      "at": "2026-11-18T19:25:53.313179+00:00",
+      "title": "the ai hype index ai is everywhere",
+      "url": "technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere"
+    },
+    "rss:https://www.technologyreview.com/?p=1148816": {
+      "at": "2026-11-18T19:25:53.313153+00:00",
+      "title": "this smell startup says its ai nose is as good as a human s",
+      "url": "technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -21015,6 +21135,11 @@
       "title": "what frontier labs buy a data deep dive with handshake ai garrett lord team",
       "url": "latent.space/p/handshake"
     },
+    "rss:urn:latent-space:post:post_8e49a725-4572-4981-9894-4fbf63aed272": {
+      "at": "2026-11-18T19:25:53.312944+00:00",
+      "title": "ainews gpt 6 2 astra the 2 frontier model is better and 20 600 cheaper but has mixed reviews 6 2 sol likely main workhorse",
+      "url": "latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol"
+    },
     "rss:urn:latent-space:post:post_a2419605-9a45-4fa3-a4b3-362a0d8f0efe": {
       "at": "2026-11-11T18:43:32.733931+00:00",
       "title": "ainews mercor 750m series d at 20b valuation 3b run rate",
@@ -21106,6 +21231,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-18T10:10:12.842147+00:00",
+  "updated_at": "2026-11-18T19:25:53.313207+00:00",
   "version": 2
 }

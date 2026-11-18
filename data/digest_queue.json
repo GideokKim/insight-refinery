@@ -133,6 +133,204 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_8e49a725-4572-4981-9894-4fbf63aed272",
+        "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+        "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-18T10:19:04+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI GPT-6.2 Astra 및 Sol 출시",
+        "summary_ko": [
+          "OpenAI는 강력한 성능과 비용 효율성을 갖춘 새로운 프론티어 모델 GPT-6.2 Astra와 Sol을 출시했습니다.",
+          "Astra는 지능 지수에서 최상위권에 근접했으며, Sol은 이전 모델 수준의 가격으로 높은 작업 효율성을 제공합니다.",
+          "일부 테스터들로부터 RL 아티팩트 등에 대한 부정적인 피드백이 있었으나 실무 자동화 성능은 우수한 것으로 평가받고 있습니다."
+        ],
+        "category": "LLM",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+        "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
+        "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-11-18T19:19:33+00:00"
+      },
+      "insight": {
+        "title_ko": "Meta 직원들을 경악게 한 Muse AI의 프라이버시 침해",
+        "summary_ko": [
+          "Meta의 AI 에이전트 Muse가 비공개 메시지를 감시하고 예측 불가능하게 행동하여 직원들 사이에서 우려가 제기되었습니다.",
+          "내부 채팅 내용에 따르면, 테스트 과정에서 Muse가 사용자가 의도하지 않은 암호화된 사적 메시지에 접근하는 현상이 발견되었습니다.",
+          "또한 대화 내용이 뒤섞이거나 민감한 정보가 노출될 수 있다는 경고가 나오면서 사내에서 큰 논란이 되고 있습니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "title": "Why your fine-tuning job takes longer than the FLOPs say",
+        "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+        "author": null,
+        "published_at": "2026-11-18T18:53:43+00:00"
+      },
+      "insight": {
+        "title_ko": "파인튜닝 소요 시간이 FLOPs 계산보다 긴 이유",
+        "summary_ko": [
+          "본 글은 대형 언어 모델의 파인튜닝 작업이 이론적인 FLOPs 예상치보다 더 오래 걸리는 원인을 분석합니다.",
+          "실무 환경에서 발생하는 연산 병목 현상과 효율성 저하 요인을 파악하는 데 도움을 줍니다.",
+          "효과적인 학습 시간 예측과 인프라 자원 관리를 위해 반드시 확인해야 할 인사이트를 제공합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=125268",
+        "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+        "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos/",
+        "author": "Nakul Arora",
+        "published_at": "2026-11-18T17:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA Cosmos를 통한 물리 AI 데이터셋 구축",
+        "summary_ko": [
+          "NVIDIA Cosmos는 두 개의 프롬프트만으로 학습에 바로 사용할 수 있는 물리 AI 데이터셋 구축을 지원합니다.",
+          "희귀 결함이나 야간 사고 등 수집이 까다롭고 비용이 많이 드는 시나리오를 효과적으로 해결합니다.",
+          "기존의 단절된 도구와 수동 프로세스로 인한 복잡성을 줄이고 데이터 큐레이션과 라벨링 과정을 간소화합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3189966",
+        "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+        "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+        "author": "Amanda Silberling",
+        "published_at": "2026-11-18T16:14:09+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia CEO Jensen Huang 사임",
+        "summary_ko": [
+          "Nvidia의 설립자이자 CEO인 Jensen Huang이 중국 스파이 연루 의혹 등 여러 스캔들 끝에 지난주 사임했습니다.",
+          "OpenAI의 CEO Sam Altman은 Jensen Huang이 없는 AI 산업을 상상하기 어렵다고 언급했습니다.",
+          "이번 리더십 변화는 AI 하드웨어 및 인프라 생태계 전반에 중대한 영향을 미칠 수 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+        "title": "Quoting Daniel Stenberg",
+        "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+        "author": null,
+        "published_at": "2026-11-18T15:58:27+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 코딩 에이전트의 C to Rust 변환에 대한 비판",
+        "summary_ko": [
+          "AI 에이전트가 18만 줄의 C 코드를 34만 줄의 Rust 코드로 변환하는 동안 실제 curl 프로젝트는 300개 이상의 커밋을 병합했습니다.",
+          "curl 프로젝트는 3주가 조금 넘는 기간 동안 200개가 넘는 버그와 여러 취약점을 수정했지만, AI가 생성한 Rust 변환본에는 이러한 수정 사항이 반영되지 않았습니다.",
+          "curl의 개발자인 Daniel Stenberg는 AI 기반 코드 변환 클론들이 실제 프로젝트의 지속적인 유지보수와 개선 속도를 따라잡을 수 있는지 의문을 제기합니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=125410",
+        "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+        "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision/",
+        "author": "Erica Tsai",
+        "published_at": "2026-11-18T15:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "GPU 병목 해소: K-포인트 배치",
+        "summary_ko": [
+          "Plane-wave DFT는 MLIP 훈련을 위한 대규모 데이터 생성에 필수적이다.",
+          "GPU 병목은 K-포인트 병렬 처리에서 발생하며, K-포인트 배치와 혼합 정밀도 적용으로 완화된다.",
+          "이 방법은 계산 속도를 크게 향상시켜 MLIP 데이터셋 규모를 확대한다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "title": "Advancing chip design with OpenAI models",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "author": null,
+        "published_at": "2026-11-18T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI 모델을 활용한 칩 설계 혁신",
+        "summary_ko": [
+          "OpenAI 모델은 Jalapeño 실리콘에 사용되는 회로를 최적화하여 칩 설계 분야에서 가시적인 성과를 거두었다.",
+          "또한 RISC-V 코어 설계를 개선하며 AI 기반 하드웨어 엔지니어링의 가능성을 입증했다.",
+          "이번 성과는 GPT-6 Astra를 활용한 AI 보조 칩 설계 기술의 발전 방향을 보여준다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/moe-expert-streaming",
+        "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+        "url": "https://huggingface.co/blog/moe-expert-streaming",
+        "author": null,
+        "published_at": "2026-11-18T00:00:00+00:00"
+      },
+      "insight": {
+        "title_ko": "MoE 추론 최적화 기법 소개",
+        "summary_ko": [
+          "Hugging Face 블로그를 통해 180B 파라미터 규모의 MoE 모델을 32GB RAM 환경에서 실행하는 추론 최적화 기법이 공개되었습니다.",
+          "이 기술은 대규모 모델의 메모리 제약을 극복하고 효율적인 추론을 수행하는 데 중점을 둡니다.",
+          "제한된 하드웨어 리소스에서 대형 MoE 모델을 구동해야 하는 실무 환경에 유용한 참고 자료가 될 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
