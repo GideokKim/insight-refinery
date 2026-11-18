@@ -535,6 +535,11 @@
       "title": "ars live what drone attacks on data centers mean for modern life in the cloud",
       "url": "arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers"
     },
+    "rss:https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/": {
+      "at": "2026-11-18T10:10:12.841965+00:00",
+      "title": "copilot is the new os for work and now office runs inside of it",
+      "url": "arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote"
+    },
     "rss:https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/": {
       "at": "2026-11-10T18:42:12.047955+00:00",
       "title": "ukraine s fiber optic drones get squeezed by ai data center demand",
@@ -4091,6 +4096,26 @@
       "title": "all ai generated code should be open source",
       "url": "jakub.jankiewicz.org/blog/ai-code-open-source"
     },
+    "rss:https://news.ycombinator.com/item?id=50531751": {
+      "at": "2026-11-18T10:10:12.842030+00:00",
+      "title": "baidu xiaomi ceos warn of growing gap between ai hype and returns",
+      "url": "scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns"
+    },
+    "rss:https://news.ycombinator.com/item?id=50538303": {
+      "at": "2026-11-18T10:10:12.842019+00:00",
+      "title": "harvard researchers find ai coding agents shifted the bottleneck to code review",
+      "url": "complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review"
+    },
+    "rss:https://news.ycombinator.com/item?id=50540178": {
+      "at": "2026-11-18T10:10:12.842007+00:00",
+      "title": "google s ai answers reducing search traffic by 40",
+      "url": "revscope.co/blog/search-seo-geo-2026"
+    },
+    "rss:https://news.ycombinator.com/item?id=50542705": {
+      "at": "2026-11-18T10:10:12.842058+00:00",
+      "title": "ai is killing all about berlin",
+      "url": "nicolasbouliane.com/blog/death-by-ai"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4210,6 +4235,11 @@
       "at": "2026-09-17T22:53:10.073390+00:00",
       "title": "introducing astra for law",
       "url": "openai.com/index/astra-for-law"
+    },
+    "rss:https://openai.com/index/astra-law-6-2": {
+      "at": "2026-11-18T10:10:12.842050+00:00",
+      "title": "astra for law leads in legal intelligence",
+      "url": "openai.com/index/astra-law-6-2"
     },
     "rss:https://openai.com/index/atlassian-partnership": {
       "at": "2026-10-06T17:13:03.297797+00:00",
@@ -4654,6 +4684,11 @@
       "title": "introducing chatgpt for financial services",
       "url": "openai.com/index/introducing-chatgpt-financial-services"
     },
+    "rss:https://openai.com/index/introducing-chatgpt-for-sales": {
+      "at": "2026-11-18T10:10:12.842041+00:00",
+      "title": "introducing chatgpt for sales",
+      "url": "openai.com/index/introducing-chatgpt-for-sales"
+    },
     "rss:https://openai.com/index/introducing-chatgpt-images-2-5": {
       "at": "2026-09-08T22:07:38.642519+00:00",
       "title": "introducing chatgpt images 2 5",
@@ -4758,6 +4793,11 @@
       "at": "2026-11-10T09:51:47.444257+00:00",
       "title": "kuken industries searches 70 years of drawings in minutes",
       "url": "openai.com/index/kuken"
+    },
+    "rss:https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership": {
+      "at": "2026-11-18T10:10:12.842101+00:00",
+      "title": "le groupe figaro and openai partner to bring le figaro journalism to chatgpt",
+      "url": "openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
     },
     "rss:https://openai.com/index/learning-never-stops": {
       "at": "2026-08-26T18:46:54.599788+00:00",
@@ -10820,6 +10860,16 @@
       "at": "2026-11-17T23:51:57.314018+00:00",
       "title": "nvidia is abandoning china after jensen huang s ouster",
       "url": "techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster"
+    },
+    "rss:https://techcrunch.com/?p=3189812": {
+      "at": "2026-11-18T10:10:12.842089+00:00",
+      "title": "nvidia promises that revenue will keep soaring for now",
+      "url": "techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now"
+    },
+    "rss:https://techcrunch.com/?p=3189878": {
+      "at": "2026-11-18T10:10:12.842070+00:00",
+      "title": "nvidia s startup stakes ballooned to 65b but huang s exit puts future deals in doubt",
+      "url": "techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -20840,6 +20890,11 @@
       "title": "the backlash about data centers might really just be about electricity",
       "url": "technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity"
     },
+    "rss:https://www.technologyreview.com/?p=1148203": {
+      "at": "2026-11-18T10:10:12.842110+00:00",
+      "title": "research reports",
+      "url": "technologyreview.com/2026/11/17/1148203/research-reports"
+    },
     "rss:https://www.technologyreview.com/?p=1148483": {
       "at": "2026-11-13T01:06:54.458422+00:00",
       "title": "nvidia privately confirmed it could track chips to fight smuggling even as industry publicly questioned feasibility",
@@ -21051,6 +21106,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-17T23:51:57.314358+00:00",
+  "updated_at": "2026-11-18T10:10:12.842147+00:00",
   "version": 2
 }
