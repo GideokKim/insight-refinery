@@ -5897,6 +5897,16 @@
       "title": "quoting daniel stenberg",
       "url": "simonwillison.net/2026/Nov/18/daniel-stenberg"
     },
+    "rss:https://simonwillison.net/2026/Nov/18/datasette-arrows/": {
+      "at": "2026-11-19T10:20:42.574321+00:00",
+      "title": "datasette arrows 0 1a0",
+      "url": "simonwillison.net/2026/Nov/18/datasette-arrows"
+    },
+    "rss:https://simonwillison.net/2026/Nov/18/llm-gemini/": {
+      "at": "2026-11-19T10:20:42.574304+00:00",
+      "title": "llm gemini 0 38",
+      "url": "simonwillison.net/2026/Nov/18/llm-gemini"
+    },
     "rss:https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/": {
       "at": "2026-11-18T19:25:53.313172+00:00",
       "title": "the psf end of year fundraiser",
@@ -21140,6 +21150,11 @@
       "title": "one million ai engineer special how stanford teaches ai native engineering mihail eric monaco",
       "url": "latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco"
     },
+    "rss:urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e": {
+      "at": "2026-11-19T10:20:42.574266+00:00",
+      "title": "ainews gemini 4 neon gdm s opus sol contender",
+      "url": "latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender"
+    },
     "rss:urn:latent-space:post:post_16c84c46-b1fe-478a-8919-437f0bb0ddf7": {
       "at": "2026-11-17T23:51:57.314202+00:00",
       "title": "cloudflare joins the jevolution and labels itself a neolab",
@@ -21321,6 +21336,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-19T01:54:11.351338+00:00",
+  "updated_at": "2026-11-19T10:20:42.574359+00:00",
   "version": 2
 }

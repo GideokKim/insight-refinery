@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-19T01:54:08.723211+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e",
+        "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-19T07:07:43+00:00"
+      },
+      "insight": {
+        "title_ko": "구글 딥마인드, 신규 모델 Gemini 4 Neon 출시",
+        "summary_ko": [
+          "구글 딥마인드가 새로운 미드티어 AI 모델인 Gemini 4 Neon을 공식 출시했습니다.",
+          "Neon은 100만 토큰의 컨텍스트 윈도우를 지원하며 다양한 개발자 도구와 플랫폼에 적용됩니다.",
+          "동시기 앤스로픽은 IPO 가격을 주당 83달러로 확정하고 팔로알토 네트웍스는 Applied Compute를 인수했습니다."
+        ],
+        "category": "LLM",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
