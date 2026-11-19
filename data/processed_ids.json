@@ -1200,6 +1200,11 @@
       "title": "introducing gemini 4 hydrogen",
       "url": "deepmind.google/blog/introducing-gemini-4-hydrogen"
     },
+    "rss:https://deepmind.google/blog/introducing-gemini-4-neon/": {
+      "at": "2026-11-19T01:54:11.351214+00:00",
+      "title": "introducing gemini 4 neon",
+      "url": "deepmind.google/blog/introducing-gemini-4-neon"
+    },
     "rss:https://deepmind.google/blog/introducing-synthid-bio/": {
       "at": "2026-09-30T16:51:17.984690+00:00",
       "title": "introducing synthid bio",
@@ -2035,6 +2040,11 @@
       "title": "safety for whom refusing the right subset of a topic not the whole topic",
       "url": "huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
     },
+    "rss:https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin": {
+      "at": "2026-11-19T01:54:11.351245+00:00",
+      "title": "daisyrose 27b pushing the frontier of post training efficiency",
+      "url": "huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    },
     "rss:https://huggingface.co/blog/ServiceNow-AI/autosynthdata": {
       "at": "2026-10-02T08:32:15.241974+00:00",
       "title": "autosynthdata generating training data for enterprise agents",
@@ -2452,6 +2462,11 @@
       "at": "2026-10-16T13:16:45.733239+00:00",
       "title": "welcome beam a 501b open model you can own customize and scale",
       "url": "huggingface.co/blog/reflection-beam"
+    },
+    "rss:https://huggingface.co/blog/rumble-2-flash": {
+      "at": "2026-11-19T01:54:11.351252+00:00",
+      "title": "rumble 2 flash an open 0 5b speech model for 40 languages",
+      "url": "huggingface.co/blog/rumble-2-flash"
     },
     "rss:https://huggingface.co/blog/state-of-open-models-summer-2026": {
       "at": "2026-08-19T14:23:12.191390+00:00",
@@ -4136,6 +4151,11 @@
       "title": "all ai generated code should be open source",
       "url": "jakub.jankiewicz.org/blog/ai-code-open-source"
     },
+    "rss:https://news.ycombinator.com/item?id=50520076": {
+      "at": "2026-11-19T01:54:11.351292+00:00",
+      "title": "ask hn if ai tools are so good why isn t your bug backlog empty",
+      "url": "news.ycombinator.com/item?id=50520076"
+    },
     "rss:https://news.ycombinator.com/item?id=50531751": {
       "at": "2026-11-18T10:10:12.842030+00:00",
       "title": "baidu xiaomi ceos warn of growing gap between ai hype and returns",
@@ -4200,6 +4220,11 @@
       "at": "2026-11-14T00:54:36.322008+00:00",
       "title": "shield helps technicians hand off legacy portal work with openai",
       "url": "openai.com/business/customer-stories/shield"
+    },
+    "rss:https://openai.com/business/customer-stories/sumitomo-life": {
+      "at": "2026-11-19T01:54:11.351285+00:00",
+      "title": "how sumitomo life s leaders helped teams adopt chatgpt enterprise",
+      "url": "openai.com/business/customer-stories/sumitomo-life"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -4909,6 +4934,11 @@
       "title": "lvmh s media division announces strategic partnership with openai",
       "url": "openai.com/index/lvmh-media-division-partnership"
     },
+    "rss:https://openai.com/index/managing-frontier-ai-risk": {
+      "at": "2026-11-19T01:54:11.351136+00:00",
+      "title": "managing frontier ai risk from training to deployment",
+      "url": "openai.com/index/managing-frontier-ai-risk"
+    },
     "rss:https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
       "at": "2026-11-06T20:28:28.296506+00:00",
       "title": "measuring how ai agents handle everyday wet lab science",
@@ -5118,6 +5148,11 @@
       "at": "2026-08-19T14:23:12.191177+00:00",
       "title": "replit expands access to software creation with gpt 5 6 luna",
       "url": "openai.com/index/replit"
+    },
+    "rss:https://openai.com/index/research-acceleration-jagged-frontier": {
+      "at": "2026-11-19T01:54:11.351123+00:00",
+      "title": "research acceleration the jagged frontier",
+      "url": "openai.com/index/research-acceleration-jagged-frontier"
     },
     "rss:https://openai.com/index/research-acceleration-view-inside-openai": {
       "at": "2026-09-06T16:32:18.475904+00:00",
@@ -10911,6 +10946,11 @@
       "title": "google to keep gemini chats for 2 months up from 72 hours even with history off",
       "url": "techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off"
     },
+    "rss:https://techcrunch.com/?p=3189677": {
+      "at": "2026-11-19T01:54:11.351235+00:00",
+      "title": "snapchat now lets developers build ar lenses with ai assistants like claude code and cursor",
+      "url": "techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor"
+    },
     "rss:https://techcrunch.com/?p=3189688": {
       "at": "2026-11-17T23:51:57.314121+00:00",
       "title": "model ml raises 250m to automate investment banking grunt work",
@@ -10980,6 +11020,56 @@
       "at": "2026-11-18T19:25:53.313085+00:00",
       "title": "google s ai feature in search gets its own incognito mode",
       "url": "techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode"
+    },
+    "rss:https://techcrunch.com/?p=3190063": {
+      "at": "2026-11-19T01:54:11.351307+00:00",
+      "title": "sam altman says his life is so weird that he s unfazed by andrew garfield portraying him in upcoming movie",
+      "url": "techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie"
+    },
+    "rss:https://techcrunch.com/?p=3190087": {
+      "at": "2026-11-19T01:54:11.351269+00:00",
+      "title": "nvidia created a weird bit of intrigue by not filing a routine sec report",
+      "url": "techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report"
+    },
+    "rss:https://techcrunch.com/?p=3190121": {
+      "at": "2026-11-19T01:54:11.351224+00:00",
+      "title": "palmer luckey warns ai powered cyberattacks are outpacing defenses it s time to start running",
+      "url": "techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running"
+    },
+    "rss:https://techcrunch.com/?p=3190132": {
+      "at": "2026-11-19T01:54:11.351276+00:00",
+      "title": "palmer luckey thinks china is thrilled to have jensen out so he wants the ousted nvidia ceo reinstated",
+      "url": "techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated"
+    },
+    "rss:https://techcrunch.com/?p=3190228": {
+      "at": "2026-11-19T01:54:11.351078+00:00",
+      "title": "anthropic reportedly prices ipo at 83 a share above projected range",
+      "url": "techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range"
+    },
+    "rss:https://techcrunch.com/?p=3190239": {
+      "at": "2026-11-19T01:54:11.351178+00:00",
+      "title": "amidst fears of ai cyberattacks satya nadella says lots of critical infrastructure is unpatchable",
+      "url": "techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable"
+    },
+    "rss:https://techcrunch.com/?p=3190264": {
+      "at": "2026-11-19T01:54:11.351204+00:00",
+      "title": "satya nadella predicts ai agents will reshuffle the economics of the web",
+      "url": "techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web"
+    },
+    "rss:https://techcrunch.com/?p=3190266": {
+      "at": "2026-11-19T01:54:11.351195+00:00",
+      "title": "microsoft ceo satya nadella remains confident in nvidia after huang s exit",
+      "url": "techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit"
+    },
+    "rss:https://techcrunch.com/?p=3190274": {
+      "at": "2026-11-19T01:54:11.351167+00:00",
+      "title": "microsoft ceo satya nadella explains why he asked 60k employees to quit",
+      "url": "techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit"
+    },
+    "rss:https://techcrunch.com/?p=3190290": {
+      "at": "2026-11-19T01:54:11.351260+00:00",
+      "title": "elon musk says ousting jensen huang is like kicking michael jordan off your team",
+      "url": "techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21231,6 +21321,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-18T19:25:53.313207+00:00",
+  "updated_at": "2026-11-19T01:54:11.351338+00:00",
   "version": 2
 }
