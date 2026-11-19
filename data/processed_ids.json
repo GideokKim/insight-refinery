@@ -1900,6 +1900,11 @@
       "title": "validating gpu platforms with runtime ai inventory via the nvidia dsx ai factory",
       "url": "developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory"
     },
+    "rss:https://developer.nvidia.com/blog/?p=124964": {
+      "at": "2026-11-19T19:29:47.624267+00:00",
+      "title": "enabling real time ai for scientific instruments with gpu native data acquisition",
+      "url": "developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition"
+    },
     "rss:https://developer.nvidia.com/blog/?p=125036": {
       "at": "2026-11-16T21:04:15.374853+00:00",
       "title": "post training nvidia nemotron to increase accuracy in your scientific domain",
@@ -1944,6 +1949,11 @@
       "at": "2026-11-18T19:25:53.313046+00:00",
       "title": "tackling gpu bottlenecks in plane wave dft with k point batching and mixed precision",
       "url": "developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125544": {
+      "at": "2026-11-19T19:29:47.624313+00:00",
+      "title": "build tool calling parsers in rust with ai agents",
+      "url": "developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents"
     },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
@@ -4723,6 +4733,11 @@
       "at": "2026-08-19T17:19:19.683319+00:00",
       "title": "from assistance to execution how enterprises put ai to work",
       "url": "openai.com/index/how-enterprises-put-ai-to-work"
+    },
+    "rss:https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast": {
+      "at": "2026-11-19T19:29:47.624354+00:00",
+      "title": "how openai s performance factory keeps chatgpt fast",
+      "url": "openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
     },
     "rss:https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
       "at": "2026-09-16T22:57:26.123856+00:00",
@@ -10781,6 +10796,11 @@
       "title": "elevenlabs new app combines meeting note taking and dictation for teams",
       "url": "techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams"
     },
+    "rss:https://techcrunch.com/?p=3188332": {
+      "at": "2026-11-19T19:29:47.624341+00:00",
+      "title": "superhuman pushes its go assistant everywhere",
+      "url": "techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere"
+    },
     "rss:https://techcrunch.com/?p=3188368": {
       "at": "2026-11-13T18:32:00.388752+00:00",
       "title": "chatgpt s new wallet lets ai agents shop and check out for you",
@@ -11076,10 +11096,45 @@
       "title": "microsoft ceo satya nadella explains why he asked 60k employees to quit",
       "url": "techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit"
     },
+    "rss:https://techcrunch.com/?p=3190277": {
+      "at": "2026-11-19T19:29:47.624299+00:00",
+      "title": "anthropic s ipo puts ai s circular financing boom to the test",
+      "url": "techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test"
+    },
     "rss:https://techcrunch.com/?p=3190290": {
       "at": "2026-11-19T01:54:11.351260+00:00",
       "title": "elon musk says ousting jensen huang is like kicking michael jordan off your team",
       "url": "techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team"
+    },
+    "rss:https://techcrunch.com/?p=3190407": {
+      "at": "2026-11-19T19:29:47.624379+00:00",
+      "title": "former alibaba exec s everful raises 48 5m to connect retailers with chinese factories",
+      "url": "techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories"
+    },
+    "rss:https://techcrunch.com/?p=3190440": {
+      "at": "2026-11-19T19:29:47.624325+00:00",
+      "title": "at nasdaq opening bell anthropic ceo recommits to pacing ai development",
+      "url": "techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development"
+    },
+    "rss:https://techcrunch.com/?p=3190451": {
+      "at": "2026-11-19T19:29:47.624284+00:00",
+      "title": "anthropic hits nasdaq exchanges at 111 33 above ipo price",
+      "url": "techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price"
+    },
+    "rss:https://techcrunch.com/?p=3190466": {
+      "at": "2026-11-19T19:29:47.624241+00:00",
+      "title": "meta s ai agent muse is mixing up conversations and exposing private data report says",
+      "url": "techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says"
+    },
+    "rss:https://techcrunch.com/?p=3190514": {
+      "at": "2026-11-19T19:29:47.624203+00:00",
+      "title": "google gives gemini the ability to use your mac for you",
+      "url": "techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
+    },
+    "rss:https://techcrunch.com/?p=3190534": {
+      "at": "2026-11-19T19:29:47.624369+00:00",
+      "title": "anthropic s ipo could deliver 156 billion to charity",
+      "url": "techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21336,6 +21391,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-19T10:20:42.574359+00:00",
+  "updated_at": "2026-11-19T19:29:47.624416+00:00",
   "version": 2
 }
