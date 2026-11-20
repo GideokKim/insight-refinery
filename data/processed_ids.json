@@ -4241,6 +4241,11 @@
       "title": "chrome ai features wasting much bandwidth",
       "url": "perishablepress.com/chrome-ai-wasting-much-bandwidth"
     },
+    "rss:https://news.ycombinator.com/item?id=50564366": {
+      "at": "2026-11-20T10:01:49.694590+00:00",
+      "title": "should governments slow frontier ai jacob coxon and robin hanson debate video",
+      "url": "youtube.com/watch?v=lwfewYL7X0o"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -6011,6 +6016,11 @@
       "at": "2026-11-03T03:57:32.518022+00:00",
       "title": "llm 0 37",
       "url": "simonwillison.net/2026/Nov/2/llm"
+    },
+    "rss:https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": {
+      "at": "2026-11-20T10:01:49.694571+00:00",
+      "title": "token fraud is here and it s bad youtube",
+      "url": "simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -21400,6 +21410,11 @@
       "title": "ainews mercor 750m series d at 20b valuation 3b run rate",
       "url": "latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate"
     },
+    "rss:urn:latent-space:post:post_a954b2a3-7633-4f51-bdca-627a4cc7f380": {
+      "at": "2026-11-20T10:01:49.694534+00:00",
+      "title": "ainews anthropic successfully completes largest ipo in history valued at 1 5t",
+      "url": "latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t"
+    },
     "rss:urn:latent-space:post:post_abc084f4-e464-450c-ad72-066cf5d3dfef": {
       "at": "2026-11-12T09:51:18.123680+00:00",
       "title": "ainews d day decision models day",
@@ -21491,6 +21506,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-20T01:46:59.886672+00:00",
+  "updated_at": "2026-11-20T10:01:49.694630+00:00",
   "version": 2
 }

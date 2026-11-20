@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-20T01:46:57.675863+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_a954b2a3-7633-4f51-bdca-627a4cc7f380",
+        "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+        "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-20T07:12:24+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, 역사상 최대 규모 IPO 성공",
+        "summary_ko": [
+          "Anthropic이 나스닥에 상장하며 역사상 최대 규모인 813억 달러를 조달하고 시가총액 1.5조 달러를 기록했습니다.",
+          "다리오 아모데이는 안전 통제와 인간의 관리를 유지하기 위해 필요하다면 AI 훈련과 배포 속도를 조절하겠다고 밝혔습니다.",
+          "이번 상장을 통해 대규모 자금을 확보한 Anthropic은 향후 데이터 센터 인프라 확장에 집중할 계획입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
