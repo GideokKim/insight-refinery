@@ -2235,6 +2235,11 @@
       "title": "fine tuning a 350m model for better structured outputs in 100 grpo steps",
       "url": "huggingface.co/blog/grpo-with-trl-ifstruct"
     },
+    "rss:https://huggingface.co/blog/harness-adapters-at-scale": {
+      "at": "2026-11-20T19:06:25.504145+00:00",
+      "title": "introducing harness adapters adapt your favorite model to your harness to improve performance and cost",
+      "url": "huggingface.co/blog/harness-adapters-at-scale"
+    },
     "rss:https://huggingface.co/blog/hf-torchneuron": {
       "at": "2026-10-19T21:34:08.060841+00:00",
       "title": "torchneuron running hf models on aws trainium is easier than ever",
@@ -4246,6 +4251,16 @@
       "title": "should governments slow frontier ai jacob coxon and robin hanson debate video",
       "url": "youtube.com/watch?v=lwfewYL7X0o"
     },
+    "rss:https://news.ycombinator.com/item?id=50572503": {
+      "at": "2026-11-20T19:06:25.504115+00:00",
+      "title": "frostbite a new cpu architecture discovered designed and verified by ai",
+      "url": "architectlabs.com/blog/frostbite"
+    },
+    "rss:https://news.ycombinator.com/item?id=50574383": {
+      "at": "2026-11-20T19:06:25.504135+00:00",
+      "title": "global stock markets slump as anthropic s record ipo fails to stem ai sell off",
+      "url": "theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -6016,6 +6031,11 @@
       "at": "2026-11-03T03:57:32.518022+00:00",
       "title": "llm 0 37",
       "url": "simonwillison.net/2026/Nov/2/llm"
+    },
+    "rss:https://simonwillison.net/2026/Nov/20/levent-alpoge/": {
+      "at": "2026-11-20T19:06:25.504091+00:00",
+      "title": "quoting levent alpöge",
+      "url": "simonwillison.net/2026/Nov/20/levent-alpoge"
     },
     "rss:https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": {
       "at": "2026-11-20T10:01:49.694571+00:00",
@@ -10596,6 +10616,11 @@
       "title": "google broadens its ai hardware portfolio with two new specialized chips",
       "url": "techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips"
     },
+    "rss:https://techcrunch.com/?p=3186208": {
+      "at": "2026-11-20T19:06:25.504157+00:00",
+      "title": "six ai powered gadgets that could make your home office smarter",
+      "url": "techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter"
+    },
     "rss:https://techcrunch.com/?p=3186240": {
       "at": "2026-11-09T23:27:26.712697+00:00",
       "title": "medium s new tk app brings ai assistance directly into the writing process",
@@ -11241,6 +11266,11 @@
       "title": "apple may be developing its own ai agent that runs your mac",
       "url": "techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac"
     },
+    "rss:https://techcrunch.com/?p=3190857": {
+      "at": "2026-11-20T19:06:25.504125+00:00",
+      "title": "chips can survive the space environment can their financing",
+      "url": "techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -11310,6 +11340,11 @@
       "at": "2026-11-12T01:55:03.664660+00:00",
       "title": "how backlash and red tape continue to slow data centers post blue wave",
       "url": "techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3190825": {
+      "at": "2026-11-20T19:06:25.504102+00:00",
+      "title": "the fallout from nvidia s jensen huang scandal continues",
+      "url": "techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues"
     },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
@@ -21290,6 +21325,11 @@
       "title": "this smell startup says its ai nose is as good as a human s",
       "url": "technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans"
     },
+    "rss:https://www.technologyreview.com/?p=1149399": {
+      "at": "2026-11-20T19:06:25.504039+00:00",
+      "title": "the most misunderstood graph in ai just got a major update",
+      "url": "technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -21506,6 +21546,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-20T10:01:49.694630+00:00",
+  "updated_at": "2026-11-20T19:06:25.504197+00:00",
   "version": 2
 }
