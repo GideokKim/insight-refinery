@@ -1060,6 +1060,11 @@
       "title": "muse privacy invasions are freaking out meta staffers internal chats show",
       "url": "arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/": {
+      "at": "2026-11-20T01:46:59.886490+00:00",
+      "title": "traumatized teens sue school cops after doritos bag triggers ai gun alert",
+      "url": "arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/": {
       "at": "2026-11-17T23:51:57.314239+00:00",
       "title": "trump was in bed with jensen critics balk at huang s wish to return to nvidia",
@@ -1949,6 +1954,11 @@
       "at": "2026-11-18T19:25:53.313046+00:00",
       "title": "tackling gpu bottlenecks in plane wave dft with k point batching and mixed precision",
       "url": "developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125485": {
+      "at": "2026-11-20T01:46:59.886456+00:00",
+      "title": "reducing rollout bottlenecks in reinforcement learning with nvidia dynamo",
+      "url": "developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo"
     },
     "rss:https://developer.nvidia.com/blog/?p=125544": {
       "at": "2026-11-19T19:29:47.624313+00:00",
@@ -4196,6 +4206,41 @@
       "title": "anthropic is not a safe ai company coalition challenges anthropic safety",
       "url": "businesswire.com/news/home/20261118974464/en/Anthropic-is-Not-a-Safe-AI-Company---Broad-Coalition-of-Scientists-Legal-Scholars-and-Tech-Leaders-Challenge-Anthropics-Safety-Branding-Ahead-of-IPO"
     },
+    "rss:https://news.ycombinator.com/item?id=50554641": {
+      "at": "2026-11-20T01:46:59.886503+00:00",
+      "title": "black high school students sue after ai mistakes doritos bag for gun",
+      "url": "lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm"
+    },
+    "rss:https://news.ycombinator.com/item?id=50555093": {
+      "at": "2026-11-20T01:46:59.886630+00:00",
+      "title": "ai will not make you rich 2025",
+      "url": "colossus.com/article/ai-will-not-make-you-rich"
+    },
+    "rss:https://news.ycombinator.com/item?id=50559140": {
+      "at": "2026-11-20T01:46:59.886585+00:00",
+      "title": "the ai superintelligence debate has serious flaws",
+      "url": "spectrum.ieee.org/ai-superintelligence-debate"
+    },
+    "rss:https://news.ycombinator.com/item?id=50561508": {
+      "at": "2026-11-20T01:46:59.886575+00:00",
+      "title": "pete warden on local ai open models voice interfaces the future of hardware",
+      "url": "thedataexchange.media/pete-warden-moonshine"
+    },
+    "rss:https://news.ycombinator.com/item?id=50562262": {
+      "at": "2026-11-20T01:46:59.886622+00:00",
+      "title": "fuck your ai safeguards",
+      "url": "ounapuu.ee/posts/2026/11/19/unsafeguards"
+    },
+    "rss:https://news.ycombinator.com/item?id=50562500": {
+      "at": "2026-11-20T01:46:59.886564+00:00",
+      "title": "ai isn t replacing your job it s turning it into low paid gig work",
+      "url": "restofworld.org/2026/ai-jobs-skills-gig-work"
+    },
+    "rss:https://news.ycombinator.com/item?id=50562636": {
+      "at": "2026-11-20T01:46:59.886554+00:00",
+      "title": "chrome ai features wasting much bandwidth",
+      "url": "perishablepress.com/chrome-ai-wasting-much-bandwidth"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4235,6 +4280,26 @@
       "at": "2026-11-19T01:54:11.351285+00:00",
       "title": "how sumitomo life s leaders helped teams adopt chatgpt enterprise",
       "url": "openai.com/business/customer-stories/sumitomo-life"
+    },
+    "rss:https://openai.com/business/learn/codex-security-plugin-demo": {
+      "at": "2026-11-20T01:46:59.886637+00:00",
+      "title": "explore the codex security plugin",
+      "url": "openai.com/business/learn/codex-security-plugin-demo"
+    },
+    "rss:https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
+      "at": "2026-11-20T01:46:59.886644+00:00",
+      "title": "get started with daybreak blue",
+      "url": "openai.com/business/learn/daybreak-blue-onboarding-demo"
+    },
+    "rss:https://openai.com/business/learn/deploying-daybreak-red": {
+      "at": "2026-11-20T01:46:59.886596+00:00",
+      "title": "deploying daybreak red",
+      "url": "openai.com/business/learn/deploying-daybreak-red"
+    },
+    "rss:https://openai.com/business/learn/pr-scans-demo": {
+      "at": "2026-11-20T01:46:59.886606+00:00",
+      "title": "see pr scans in action",
+      "url": "openai.com/business/learn/pr-scans-demo"
     },
     "rss:https://openai.com/form/codex-originals": {
       "at": "2026-09-29T00:24:42.024347+00:00",
@@ -5427,6 +5492,11 @@
       "title": "a connectomics milestone mapping the complete male fruit fly brain",
       "url": "research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain"
     },
+    "rss:https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/": {
+      "at": "2026-11-20T01:46:59.886614+00:00",
+      "title": "a game you cannot win unless you have a quantum computer",
+      "url": "research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer"
+    },
     "rss:https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/": {
       "at": "2026-08-19T17:19:19.683273+00:00",
       "title": "accelerating gemini nano models on pixel with frozen multi token prediction",
@@ -5926,6 +5996,11 @@
       "at": "2026-11-18T19:25:53.313172+00:00",
       "title": "the psf end of year fundraiser",
       "url": "simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser"
+    },
+    "rss:https://simonwillison.net/2026/Nov/19/postgresql-19/": {
+      "at": "2026-11-20T01:46:59.886447+00:00",
+      "title": "postgresql 19 released",
+      "url": "simonwillison.net/2026/Nov/19/postgresql-19"
     },
     "rss:https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/": {
       "at": "2026-11-02T20:48:28.854636+00:00",
@@ -11126,6 +11201,11 @@
       "title": "meta s ai agent muse is mixing up conversations and exposing private data report says",
       "url": "techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says"
     },
+    "rss:https://techcrunch.com/?p=3190498": {
+      "at": "2026-11-20T01:46:59.886515+00:00",
+      "title": "anthropic s 7 founders cashed out nearly 2b in record breaking ipo",
+      "url": "techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo"
+    },
     "rss:https://techcrunch.com/?p=3190514": {
       "at": "2026-11-19T19:29:47.624203+00:00",
       "title": "google gives gemini the ability to use your mac for you",
@@ -11135,6 +11215,21 @@
       "at": "2026-11-19T19:29:47.624369+00:00",
       "title": "anthropic s ipo could deliver 156 billion to charity",
       "url": "techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity"
+    },
+    "rss:https://techcrunch.com/?p=3190572": {
+      "at": "2026-11-20T01:46:59.886544+00:00",
+      "title": "these tech outages are giving y2k ai agent style",
+      "url": "techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style"
+    },
+    "rss:https://techcrunch.com/?p=3190594": {
+      "at": "2026-11-20T01:46:59.886532+00:00",
+      "title": "meta s new muse charm device may cost 300",
+      "url": "techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300"
+    },
+    "rss:https://techcrunch.com/?p=3190713": {
+      "at": "2026-11-20T01:46:59.886384+00:00",
+      "title": "apple may be developing its own ai agent that runs your mac",
+      "url": "techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21310,6 +21405,11 @@
       "title": "ainews d day decision models day",
       "url": "latent.space/p/ainews-d-day-decision-models-day"
     },
+    "rss:urn:latent-space:post:post_adb58093-ae09-4b6c-ac6b-d68770c16945": {
+      "at": "2026-11-20T01:46:59.886425+00:00",
+      "title": "scaling linear s gtm to 100m arr cristina cordova coo",
+      "url": "latent.space/p/linear-scaling"
+    },
     "rss:urn:latent-space:post:post_ae3c512d-675f-4368-9e24-ad45b6d484fd": {
       "at": "2026-11-17T14:27:01.811041+00:00",
       "title": "ainews perplexity hits a 1b revenue run rate up 4x in 2026",
@@ -21391,6 +21491,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-19T19:29:47.624416+00:00",
+  "updated_at": "2026-11-20T01:46:59.886672+00:00",
   "version": 2
 }
