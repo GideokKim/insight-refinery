@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-21T01:31:53.855936+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_3976c9e6-ac0c-4bf2-92c8-c83510a92539",
+        "title": "[AINews] Riemann Hypothesis proved...twice independently",
+        "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-21T05:02:13+00:00"
+      },
+      "insight": {
+        "title_ko": "AI를 활용한 리만 가설 독립적 증명",
+        "summary_ko": [
+          "Anthropic의 Levent Alpöge와 수학자들이 각각 독립적으로 수학 난제인 리만 가설의 증명을 주장했습니다.",
+          "Levent Alpöge는 Claude의 도움을 받아 작성한 대규모 Lean 형식화 증명 코드를 공개했습니다.",
+          "이번 사례는 AI가 인간보다 뛰어난 능력을 발휘하는 Weak-to-Strong alignment의 가능성을 보여줍니다."
+        ],
+        "category": "Research",
+        "importance": 5
+      },
+      "provider": "gemini"
+    }
+  ]
 }
