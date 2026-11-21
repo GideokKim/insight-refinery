@@ -4291,10 +4291,20 @@
       "title": "global stock markets slump as anthropic s record ipo fails to stem ai sell off",
       "url": "theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
     },
+    "rss:https://news.ycombinator.com/item?id=50577872": {
+      "at": "2026-11-21T17:58:15.740760+00:00",
+      "title": "ai is giving everyone the same advice",
+      "url": "a90.com/experiments/same-advice"
+    },
     "rss:https://news.ycombinator.com/item?id=50577901": {
       "at": "2026-11-21T01:31:59.747651+00:00",
       "title": "google workers tell their employer not to punish schools that don t want ai",
       "url": "motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition"
+    },
+    "rss:https://news.ycombinator.com/item?id=50586292": {
+      "at": "2026-11-21T17:58:15.740827+00:00",
+      "title": "clawdos an ai coding agent for dos",
+      "url": "ricapar.net/ClawDOS"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -10935,6 +10945,11 @@
       "at": "2026-11-14T00:54:36.321916+00:00",
       "title": "export banned nvidia chips are behind china s most powerful ai models uh oh jensen",
       "url": "techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen"
+    },
+    "rss:https://techcrunch.com/?p=3188069": {
+      "at": "2026-11-21T17:58:15.740802+00:00",
+      "title": "is selling an ai version of your face to this microdrama startup the future of hollywood",
+      "url": "techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood"
     },
     "rss:https://techcrunch.com/?p=3188106": {
       "at": "2026-11-13T01:06:54.458558+00:00",
@@ -21626,6 +21641,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-21T09:50:22.093552+00:00",
+  "updated_at": "2026-11-21T17:58:15.740892+00:00",
   "version": 2
 }
