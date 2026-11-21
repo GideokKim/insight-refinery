@@ -370,10 +370,20 @@
       "title": "google makes it easier to use gemini without training ai on your data",
       "url": "arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history"
     },
+    "rss:https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/": {
+      "at": "2026-11-21T01:31:59.747634+00:00",
+      "title": "google rolls out new search homepage with ai chat history and no search button",
+      "url": "arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar"
+    },
     "rss:https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/": {
       "at": "2026-11-16T21:04:15.374924+00:00",
       "title": "jensen huang allies build a war room to get him back at nvidia",
       "url": "arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia"
+    },
+    "rss:https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/": {
+      "at": "2026-11-21T01:31:59.747545+00:00",
+      "title": "meta reconsiders 2030 net zero goal amid record emissions from ai data centers",
+      "url": "arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers"
     },
     "rss:https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/": {
       "at": "2026-11-11T00:42:10.804392+00:00",
@@ -789,6 +799,11 @@
       "at": "2026-10-06T01:19:01.155142+00:00",
       "title": "mcp for agent to agent comms may be the riskiest protocol you ve never heard of",
       "url": "arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp"
+    },
+    "rss:https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/": {
+      "at": "2026-11-21T01:31:59.747494+00:00",
+      "title": "researcher plants 2m canaries into the ai supply chain a privacy disaster surfaced",
+      "url": "arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate"
     },
     "rss:https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": {
       "at": "2026-11-17T14:27:01.810921+00:00",
@@ -2328,6 +2343,11 @@
       "title": "what we learned by reproducing 2 200 papers from icml",
       "url": "huggingface.co/blog/icml-2026-open-reproductions"
     },
+    "rss:https://huggingface.co/blog/inkling2mini": {
+      "at": "2026-11-21T01:31:59.747671+00:00",
+      "title": "welcome inkling 2 mini cutting edge performance for your local setup",
+      "url": "huggingface.co/blog/inkling2mini"
+    },
     "rss:https://huggingface.co/blog/meta-muse-spark-open": {
       "at": "2026-10-15T18:20:26.786738+00:00",
       "title": "welcome muse spark open open weight frontier multimodal mixture of experts model from meta",
@@ -2557,6 +2577,11 @@
       "at": "2026-11-16T09:44:14.542006+00:00",
       "title": "import ai 480 self sustaining space economies ai for science progress and meta builds perfect hands for a superintelligence",
       "url": "importai.substack.com/p/import-ai-480-self-sustaining-space"
+    },
+    "rss:https://importai.substack.com/p/import-ai-481-ai-sub-contractors": {
+      "at": "2026-11-21T01:31:59.747621+00:00",
+      "title": "import ai 481 ai sub contractors a wet lab for ai and subterfuge during development",
+      "url": "importai.substack.com/p/import-ai-481-ai-sub-contractors"
     },
     "rss:https://news.ycombinator.com/item?id=49299282": {
       "at": "2026-08-19T14:23:12.191457+00:00",
@@ -4251,6 +4276,11 @@
       "title": "should governments slow frontier ai jacob coxon and robin hanson debate video",
       "url": "youtube.com/watch?v=lwfewYL7X0o"
     },
+    "rss:https://news.ycombinator.com/item?id=50572348": {
+      "at": "2026-11-21T01:31:59.747598+00:00",
+      "title": "restricting ai agents in mobile operating systems platforms from capturing data",
+      "url": "signal.org/blog/protecting-your-privacy"
+    },
     "rss:https://news.ycombinator.com/item?id=50572503": {
       "at": "2026-11-20T19:06:25.504115+00:00",
       "title": "frostbite a new cpu architecture discovered designed and verified by ai",
@@ -4260,6 +4290,11 @@
       "at": "2026-11-20T19:06:25.504135+00:00",
       "title": "global stock markets slump as anthropic s record ipo fails to stem ai sell off",
       "url": "theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    },
+    "rss:https://news.ycombinator.com/item?id=50577901": {
+      "at": "2026-11-21T01:31:59.747651+00:00",
+      "title": "google workers tell their employer not to punish schools that don t want ai",
+      "url": "motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -4275,6 +4310,11 @@
       "at": "2026-11-13T01:06:54.458552+00:00",
       "title": "gondola doubles revenue as its team builds more with codex",
       "url": "openai.com/business/customer-stories/gondola"
+    },
+    "rss:https://openai.com/business/customer-stories/hebbia": {
+      "at": "2026-11-21T01:31:59.747662+00:00",
+      "title": "hebbia sees improvements in financial research with gpt 6 astra",
+      "url": "openai.com/business/customer-stories/hebbia"
     },
     "rss:https://openai.com/business/customer-stories/holiday-extras-dots": {
       "at": "2026-11-17T05:06:26.239035+00:00",
@@ -4578,6 +4618,11 @@
       "at": "2026-09-12T01:07:41.366393+00:00",
       "title": "cognition helps devin test its own work with gpt 6 astra",
       "url": "openai.com/index/cognition-devin-testing-with-astra"
+    },
+    "rss:https://openai.com/index/combatting-adversarial-distillation": {
+      "at": "2026-11-21T01:31:59.747590+00:00",
+      "title": "combatting adversarial distillation",
+      "url": "openai.com/index/combatting-adversarial-distillation"
     },
     "rss:https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
       "at": "2026-10-30T17:03:26.348248+00:00",
@@ -4923,6 +4968,11 @@
       "at": "2026-11-05T03:31:15.321777+00:00",
       "title": "introducing images 2 6",
       "url": "openai.com/index/introducing-images-2-6"
+    },
+    "rss:https://openai.com/index/introducing-medchembench": {
+      "at": "2026-11-21T01:31:59.747609+00:00",
+      "title": "can ai help scientists identify promising drug candidates",
+      "url": "openai.com/index/introducing-medchembench"
     },
     "rss:https://openai.com/index/introducing-mentalhealthbench": {
       "at": "2026-09-23T22:59:06.946389+00:00",
@@ -5622,6 +5672,11 @@
       "title": "how diffusion controller unifies and simplifies ai image generation",
       "url": "research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation"
     },
+    "rss:https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/": {
+      "at": "2026-11-21T01:31:59.747680+00:00",
+      "title": "how google duplex evolved to also call businesses for you in gemini",
+      "url": "research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini"
+    },
     "rss:https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/": {
       "at": "2026-08-21T20:12:48.536153+00:00",
       "title": "how mobility gives language models a deeper understanding of place",
@@ -6036,6 +6091,11 @@
       "at": "2026-11-20T19:06:25.504091+00:00",
       "title": "quoting levent alpöge",
       "url": "simonwillison.net/2026/Nov/20/levent-alpoge"
+    },
+    "rss:https://simonwillison.net/2026/Nov/20/ravi-vakil/": {
+      "at": "2026-11-21T01:31:59.747643+00:00",
+      "title": "quoting ravi vakil",
+      "url": "simonwillison.net/2026/Nov/20/ravi-vakil"
     },
     "rss:https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/": {
       "at": "2026-11-20T10:01:49.694571+00:00",
@@ -11270,6 +11330,16 @@
       "at": "2026-11-20T19:06:25.504125+00:00",
       "title": "chips can survive the space environment can their financing",
       "url": "techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing"
+    },
+    "rss:https://techcrunch.com/?p=3190908": {
+      "at": "2026-11-21T01:31:59.747569+00:00",
+      "title": "ai claimed a solution to the 167 year old riemann hypothesis and a human did too",
+      "url": "techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too"
+    },
+    "rss:https://techcrunch.com/?p=3190943": {
+      "at": "2026-11-21T01:31:59.747689+00:00",
+      "title": "daniel ek backs ai researcher s fusion power startup here s what they re building",
+      "url": "techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21350,6 +21420,11 @@
       "title": "one million ai engineer special how stanford teaches ai native engineering mihail eric monaco",
       "url": "latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco"
     },
+    "rss:urn:latent-space:post:post_0e68157c-dcc4-4cb1-b11a-0d563d6bcc86": {
+      "at": "2026-11-21T01:31:59.747559+00:00",
+      "title": "the war against slop and an emerging weapon to fight it formal verification",
+      "url": "latent.space/p/formal-verification"
+    },
     "rss:urn:latent-space:post:post_16b7c005-6ab8-4b06-8b1e-8f29a24d706e": {
       "at": "2026-11-19T10:20:42.574266+00:00",
       "title": "ainews gemini 4 neon gdm s opus sol contender",
@@ -21546,6 +21621,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-20T19:06:25.504197+00:00",
+  "updated_at": "2026-11-21T01:31:59.747725+00:00",
   "version": 2
 }
