@@ -6117,6 +6117,11 @@
       "title": "token fraud is here and it s bad youtube",
       "url": "simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad"
     },
+    "rss:https://simonwillison.net/2026/Nov/21/muru/": {
+      "at": "2026-11-22T09:46:52.968977+00:00",
+      "title": "muru",
+      "url": "simonwillison.net/2026/Nov/21/muru"
+    },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
       "title": "i discovered a sound that leaks your exact location and it s everywhere youtube",
@@ -21656,6 +21661,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-22T00:21:25.156182+00:00",
+  "updated_at": "2026-11-22T09:46:52.969050+00:00",
   "version": 2
 }
