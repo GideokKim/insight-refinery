@@ -6102,6 +6102,11 @@
       "title": "quoting levent alpöge",
       "url": "simonwillison.net/2026/Nov/20/levent-alpoge"
     },
+    "rss:https://simonwillison.net/2026/Nov/20/llm-gemini/": {
+      "at": "2026-11-22T00:21:25.156104+00:00",
+      "title": "llm gemini 0 38 1",
+      "url": "simonwillison.net/2026/Nov/20/llm-gemini"
+    },
     "rss:https://simonwillison.net/2026/Nov/20/ravi-vakil/": {
       "at": "2026-11-21T01:31:59.747643+00:00",
       "title": "quoting ravi vakil",
@@ -11355,6 +11360,16 @@
       "at": "2026-11-21T01:31:59.747689+00:00",
       "title": "daniel ek backs ai researcher s fusion power startup here s what they re building",
       "url": "techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building"
+    },
+    "rss:https://techcrunch.com/?p=3191145": {
+      "at": "2026-11-22T00:21:25.156128+00:00",
+      "title": "a tale of two nvidias",
+      "url": "techcrunch.com/2026/11/21/a-tale-of-two-nvidias"
+    },
+    "rss:https://techcrunch.com/?p=3191147": {
+      "at": "2026-11-22T00:21:25.156033+00:00",
+      "title": "signal restricts mobile screenshots as it confronts existential threat of ai surveillance",
+      "url": "techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21641,6 +21656,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-21T17:58:15.740892+00:00",
+  "updated_at": "2026-11-22T00:21:25.156182+00:00",
   "version": 2
 }
