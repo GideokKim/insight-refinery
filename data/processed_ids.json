@@ -4306,6 +4306,16 @@
       "title": "clawdos an ai coding agent for dos",
       "url": "ricapar.net/ClawDOS"
     },
+    "rss:https://news.ycombinator.com/item?id=50593481": {
+      "at": "2026-11-22T18:31:31.887287+00:00",
+      "title": "pandex official european law for ai agents over mcp",
+      "url": "pandex.io/"
+    },
+    "rss:https://news.ycombinator.com/item?id=50595537": {
+      "at": "2026-11-22T18:31:31.887303+00:00",
+      "title": "the mythology of conscious ai",
+      "url": "noemamag.com/the-mythology-of-conscious-ai"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -5238,6 +5248,11 @@
       "at": "2026-09-09T17:52:30.546370+00:00",
       "title": "paul christiano joins openai foundation board",
       "url": "openai.com/index/paul-christiano-joins-openai-foundation-board"
+    },
+    "rss:https://openai.com/index/perplexity-and-intelligence": {
+      "at": "2026-11-22T18:31:31.887275+00:00",
+      "title": "perplexity and intelligence",
+      "url": "openai.com/index/perplexity-and-intelligence"
     },
     "rss:https://openai.com/index/perplexity-improving-accuracy-with-astra": {
       "at": "2026-09-12T01:07:41.366294+00:00",
@@ -11375,6 +11390,11 @@
       "at": "2026-11-22T00:21:25.156033+00:00",
       "title": "signal restricts mobile screenshots as it confronts existential threat of ai surveillance",
       "url": "techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance"
+    },
+    "rss:https://techcrunch.com/?p=3191157": {
+      "at": "2026-11-22T18:31:31.887233+00:00",
+      "title": "why data centers are at the center of the big tech backlash",
+      "url": "techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21661,6 +21681,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-22T09:46:52.969050+00:00",
+  "updated_at": "2026-11-22T18:31:31.887376+00:00",
   "version": 2
 }
