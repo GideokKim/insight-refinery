@@ -380,6 +380,11 @@
       "title": "jensen huang allies build a war room to get him back at nvidia",
       "url": "arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia"
     },
+    "rss:https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/": {
+      "at": "2026-11-23T22:49:13.968980+00:00",
+      "title": "jensen huang reinstated as nvidia ceo board chair",
+      "url": "arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair"
+    },
     "rss:https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/": {
       "at": "2026-11-21T01:31:59.747545+00:00",
       "title": "meta reconsiders 2030 net zero goal amid record emissions from ai data centers",
@@ -664,6 +669,11 @@
       "at": "2026-09-25T13:48:26.429947+00:00",
       "title": "trump admin using ai to deny medical care for seniors in disastrous experiment",
       "url": "arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment"
+    },
+    "rss:https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/": {
+      "at": "2026-11-23T22:49:13.969115+00:00",
+      "title": "review the asus proart p16 offers a glimpse of a future powered by local ai",
+      "url": "arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai"
     },
     "rss:https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/": {
       "at": "2026-09-30T16:51:17.984672+00:00",
@@ -1075,6 +1085,11 @@
       "title": "muse privacy invasions are freaking out meta staffers internal chats show",
       "url": "arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show"
     },
+    "rss:https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/": {
+      "at": "2026-11-23T22:49:13.968813+00:00",
+      "title": "states sue spacex to stop grok from generating child sex images revenge porn",
+      "url": "arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn"
+    },
     "rss:https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/": {
       "at": "2026-11-20T01:46:59.886490+00:00",
       "title": "traumatized teens sue school cops after doritos bag triggers ai gun alert",
@@ -1129,6 +1144,11 @@
       "at": "2026-10-06T21:42:06.239749+00:00",
       "title": "embeddinggemma 2 an open lightweight multimodal embedding model",
       "url": "deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model"
+    },
+    "rss:https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/": {
+      "at": "2026-11-23T22:49:13.968966+00:00",
+      "title": "finding faster quantum algorithms with agents and formal verification",
+      "url": "deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification"
     },
     "rss:https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "at": "2026-08-24T11:05:22.951784+00:00",
@@ -1980,6 +2000,16 @@
       "title": "build tool calling parsers in rust with ai agents",
       "url": "developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents"
     },
+    "rss:https://developer.nvidia.com/blog/?p=125633": {
+      "at": "2026-11-23T22:49:13.968950+00:00",
+      "title": "get started with gpu accelerated duckdb analytics using the sirius core extension",
+      "url": "developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125662": {
+      "at": "2026-11-23T22:49:13.968846+00:00",
+      "title": "accelerating direct sparse solvers for computational engineering with nvidia cudss 1 0",
+      "url": "developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0"
+    },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
       "title": "the definitive fine tuning guide for 3d generation models",
@@ -2139,6 +2169,11 @@
       "at": "2026-10-22T18:36:58.486219+00:00",
       "title": "olmoearth v1 3 state of the art embeddings for the whole planet",
       "url": "huggingface.co/blog/allenai/olmoearth-v1-3"
+    },
+    "rss:https://huggingface.co/blog/allenai/robotrack": {
+      "at": "2026-11-23T22:49:13.969061+00:00",
+      "title": "robotrack point tracking for real world robotic manipulation",
+      "url": "huggingface.co/blog/allenai/robotrack"
     },
     "rss:https://huggingface.co/blog/allenai/statebench": {
       "at": "2026-11-03T20:31:43.801534+00:00",
@@ -4381,6 +4416,11 @@
       "title": "explore the codex security plugin",
       "url": "openai.com/business/learn/codex-security-plugin-demo"
     },
+    "rss:https://openai.com/business/learn/connected-intelligence-for-in-house-legal": {
+      "at": "2026-11-23T22:49:13.969128+00:00",
+      "title": "connected intelligence for in house legal",
+      "url": "openai.com/business/learn/connected-intelligence-for-in-house-legal"
+    },
     "rss:https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
       "at": "2026-11-20T01:46:59.886644+00:00",
       "title": "get started with daybreak blue",
@@ -5018,6 +5058,11 @@
       "at": "2026-11-17T14:27:01.811122+00:00",
       "title": "introducing openai for chile",
       "url": "openai.com/index/introducing-openai-for-chile"
+    },
+    "rss:https://openai.com/index/introducing-shirudo": {
+      "at": "2026-11-23T22:49:13.968833+00:00",
+      "title": "openai and cisco introduce shirudo",
+      "url": "openai.com/index/introducing-shirudo"
     },
     "rss:https://openai.com/index/introducing-the-agents-api": {
       "at": "2026-09-10T22:36:21.831651+00:00",
@@ -5777,6 +5822,11 @@
       "title": "sensorfm towards a general intelligence and interface for wearable health data",
       "url": "research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data"
     },
+    "rss:https://research.google/blog/supercharging-transformer-residual-connections/": {
+      "at": "2026-11-23T22:49:13.968914+00:00",
+      "title": "supercharging transformer residual connections",
+      "url": "research.google/blog/supercharging-transformer-residual-connections"
+    },
     "rss:https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/": {
       "at": "2026-08-19T17:19:19.683340+00:00",
       "title": "symptomai towards a conversational ai agent for everyday symptom assessment",
@@ -6156,6 +6206,11 @@
       "at": "2026-11-23T00:53:27.362345+00:00",
       "title": "select styling specimens",
       "url": "simonwillison.net/2026/Nov/22/select-styling"
+    },
+    "rss:https://simonwillison.net/2026/Nov/23/ladybird/": {
+      "at": "2026-11-23T22:49:13.969021+00:00",
+      "title": "ladybird s first alpha release",
+      "url": "simonwillison.net/2026/Nov/23/ladybird"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -11425,6 +11480,71 @@
       "at": "2026-11-23T10:46:06.136507+00:00",
       "title": "how notable capital gic and baillie gifford bet big on anthropic before its ipo",
       "url": "techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo"
+    },
+    "rss:https://techcrunch.com/?p=3191185": {
+      "at": "2026-11-23T22:49:13.969103+00:00",
+      "title": "sierra doubles valuation to 30b within six months as demand for ai in cx takes off",
+      "url": "techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off"
+    },
+    "rss:https://techcrunch.com/?p=3191219": {
+      "at": "2026-11-23T22:49:13.968993+00:00",
+      "title": "nvidia reverses course and brings jensen huang back as ceo",
+      "url": "techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo"
+    },
+    "rss:https://techcrunch.com/?p=3191257": {
+      "at": "2026-11-23T22:49:13.969088+00:00",
+      "title": "trump endorses jensen huang s return to nvidia says us has no evidence of wrongdoing",
+      "url": "techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing"
+    },
+    "rss:https://techcrunch.com/?p=3191267": {
+      "at": "2026-11-23T22:49:13.969166+00:00",
+      "title": "jensen huang isn t out of the woods yet",
+      "url": "techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet"
+    },
+    "rss:https://techcrunch.com/?p=3191332": {
+      "at": "2026-11-23T22:49:13.969074+00:00",
+      "title": "trump reportedly called into nvidia board meeting to advocate for huang s return",
+      "url": "techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return"
+    },
+    "rss:https://techcrunch.com/?p=3191371": {
+      "at": "2026-11-23T22:49:13.968928+00:00",
+      "title": "amazon snaps up decart s ai optimization tech for 7 5b as it prepares to sell trainium chips",
+      "url": "techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips"
+    },
+    "rss:https://techcrunch.com/?p=3191431": {
+      "at": "2026-11-23T22:49:13.968892+00:00",
+      "title": "google search s ai mode can now tap into drive and wallet for more personalized responses",
+      "url": "techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
+    },
+    "rss:https://techcrunch.com/?p=3191435": {
+      "at": "2026-11-23T22:49:13.969047+00:00",
+      "title": "jensen huang scheduled to testify next week in senate following reinstatement as nvidia ceo",
+      "url": "techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo"
+    },
+    "rss:https://techcrunch.com/?p=3191460": {
+      "at": "2026-11-23T22:49:13.969007+00:00",
+      "title": "supertake raises 20m to let ai agents turn your market predictions into stock portfolios",
+      "url": "techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios"
+    },
+    "rss:https://techcrunch.com/?p=3191548": {
+      "at": "2026-11-23T22:49:13.969178+00:00",
+      "title": "nvidia employees greet jensen huang like a hero as he returns to company s hq",
+      "url": "techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq"
+    },
+    "rss:https://techcrunch.com/?p=3191574": {
+      "at": "2026-11-23T22:49:13.969033+00:00",
+      "title": "megaspeed the company at the center of the jensen huang scandal appears headed for a us blacklist",
+      "url": "techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist"
+    },
+    "rss:https://techcrunch.com/?p=3191575": {
+      "at": "2026-11-23T22:49:13.969139+00:00",
+      "title": "elon musk and others rejoice as jensen huang is reinstated at nvidia amid scandal",
+      "url": "techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal"
+    },
+    "rss:https://techcrunch.com/?p=3191583": {
+      "at": "2026-11-23T22:49:13.968773+00:00",
+      "title": "anthropic launches claude ship letting ai agents review fix and approve code changes",
+      "url": "techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21485,6 +21605,11 @@
       "title": "the most misunderstood graph in ai just got a major update",
       "url": "technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update"
     },
+    "rss:https://www.technologyreview.com/?p=1149569": {
+      "at": "2026-11-23T22:49:13.969150+00:00",
+      "title": "a legendary philosopher isn t buying anthropic s consciousness argument",
+      "url": "technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -21711,6 +21836,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-23T10:46:06.136589+00:00",
+  "updated_at": "2026-11-23T22:49:13.969213+00:00",
   "version": 2
 }

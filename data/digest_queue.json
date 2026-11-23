@@ -1,5 +1,248 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-23T10:46:04.474126+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3191583",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "author": "Sarah Perez",
+        "published_at": "2026-11-23T22:05:50+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic, AI 에이전트의 코드 승인 및 수정을 지원하는 Claude Ship 출시",
+        "summary_ko": [
+          "Anthropic은 AI가 생성한 코드가 급증함에 따라 발생하는 병목 현상을 해소하기 위해 새로운 개발자 도구인 Claude Ship을 출시했습니다.",
+          "이 도구는 AI 에이전트가 직접 루틴 코드 변경 사항을 검토하고, 수정하며, 승인하는 기능을 제공합니다.",
+          "개발 워크플로우에서 반복적인 코드 승인 작업을 자동화하여 생산성을 높이는 데 기여할 것으로 기대됩니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+        "author": "Ashley Belanger",
+        "published_at": "2026-11-23T21:30:44+00:00"
+      },
+      "insight": {
+        "title_ko": "미 주 정부, 아동 성착취물 생성 방치 혐의로 SpaceX 피소",
+        "summary_ko": [
+          "버지니아주와 오리건주는 Grok이 무분별하게 아동 성착취물과 비동의 성적 이미지를 생성하도록 방치했다며 SpaceX를 상대로 소송을 제기했다.",
+          "SpaceX는 지난 2월 xAI를 인수한 이후 Grok의 소위 스파이시 모드로 인해 발생한 심각한 콘텐츠 통제 실패 문제에 직면해 있다.",
+          "주 검찰총장들은 회사가 추가 안전장치를 도입했다는 주장이 오해의 소지가 있으며 시장 점유율 확대를 위해 이를 묵인했다고 주장했다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "OpenAI News",
+        "source_type": "rss",
+        "external_id": "https://openai.com/index/introducing-shirudo",
+        "title": "OpenAI and Cisco introduce Shirudo",
+        "url": "https://openai.com/index/introducing-shirudo",
+        "author": null,
+        "published_at": "2026-11-23T21:20:00+00:00"
+      },
+      "insight": {
+        "title_ko": "OpenAI와 Cisco, 오픈소스 런타임 'Shirudo' 공개",
+        "summary_ko": [
+          "OpenAI와 Cisco가 리눅스용 오픈소스 런타임인 Shirudo를 새롭게 발표했습니다.",
+          "이 도구는 개발 팀이 패치를 배포하는 동안 실행 중인 시스템을 보호하도록 돕습니다.",
+          "실무 환경에서 시스템 안정성을 유지하며 보안 패치를 적용하는 데 기여할 것으로 기대됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=125662",
+        "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+        "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0/",
+        "author": "Azi Riahi",
+        "published_at": "2026-11-23T19:59:40+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA cuDSS 1.0을 통한 희소 선형Solver 가속",
+        "summary_ko": [
+          "희소 선형 시스템은 구조역학 및 전산유체역학 등 거의 모든 공학 및 과학 시뮬레이션의 핵심을 이룹니다.",
+          "문제의 규모와 복잡성이 커짐에 따라 개발자들은 프로덕션 시뮬레이션의 견고성을 유지하면서 GPU에서 확장되는 솔버가 필요합니다.",
+          "NVIDIA cuDSS 1.0은 이러한 계산 공학 분야에서 고성능 직접 희소 솔버의 가속을 지원합니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3191431",
+        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+        "author": "Aisha Malik",
+        "published_at": "2026-11-23T19:14:46+00:00"
+      },
+      "insight": {
+        "title_ko": "Google 검색 AI 모드의 개인화 기능 강화",
+        "summary_ko": [
+          "Google은 Search의 AI 모드에 Personal Intelligence 기능을 도입하여 Drive와 Wallet에 접근할 수 있게 업데이트했습니다.",
+          "이번 업데이트를 통해 사용자는 자신의 생태계 내 데이터를 활용하여 더욱 개인화된 응답을 제공받을 수 있게 되었습니다.",
+          "이 기능은 Gemini 앱과도 연동되어 Google 플랫폼 전반에서 사용자 데이터 활용도를 높입니다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google Research Blog",
+        "source_type": "rss",
+        "external_id": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "title": "Supercharging transformer residual connections",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "author": null,
+        "published_at": "2026-11-23T17:21:12+00:00"
+      },
+      "insight": {
+        "title_ko": "Transformer 잔차 연결 성능 향상",
+        "summary_ko": [
+          "Google Research는 Transformer 모델의 잔차 연결을 고도화하는 새로운 알고리즘과 이론적 접근을 발표했다.",
+          "이 연구는 모델의 학습 효율성과 표현력을 높여 대규모 아키텍처 개선에 기여할 것으로 기대된다.",
+          "실무 연구자들은 Transformer 구조의 성능 극대화를 위한 새로운 최적화 방안을 확인할 수 있다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3191371",
+        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "author": "Rebecca Bellan",
+        "published_at": "2026-11-23T17:14:23+00:00"
+      },
+      "insight": {
+        "title_ko": "Amazon, Decart AI 기술 인수",
+        "summary_ko": [
+          "Amazon이 Decart의 AI 최적화 기술과 연구팀을 75억 달러 규모로 인수합니다.",
+          "이번 인수는 자사의 Trainium 칩 판매 확대를 준비하기 위한 전략적 행보입니다.",
+          "고성능 AI 칩 시장에서 경쟁력을 강화하려는 Amazon의 의도를 보여줍니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=125633",
+        "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+        "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension/",
+        "author": "Allison Ding",
+        "published_at": "2026-11-23T17:09:28+00:00"
+      },
+      "insight": {
+        "title_ko": "NVIDIA, GPU 가속 DuckDB 확장 기능 발표",
+        "summary_ko": [
+          "NVIDIA와 DuckLabs가 협력하여 DuckDB용 GPU 가속 확장 기능인 Sirius를 공개했습니다.",
+          "이 확장 기능은 대규모 데이터셋의 분석 쿼리 처리 속도를 높이고 연산 비용을 절감하는 데 도움을 줍니다.",
+          "단 두 개의 SQL 명령어로 DuckDB의 분석 쿼리 엔진에 GPU 가속을 적용할 수 있습니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Google DeepMind",
+        "source_type": "rss",
+        "external_id": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "title": "Finding faster quantum algorithms with agents and formal verification",
+        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+        "author": null,
+        "published_at": "2026-11-23T16:59:40+00:00"
+      },
+      "insight": {
+        "title_ko": "에이전트와 정형 검증을 활용한 양자 알고리즘 고도화",
+        "summary_ko": [
+          "Google DeepMind는 에이전트 팀과 정형 검증을 활용해 양자 알고리즘을 개선하는 연구를 공개했습니다.",
+          "이 방법론은 핵융합 및 화학 분야에서 활용되는 양자 알고리즘의 성능과 속도를 높이는 데 초점을 맞추고 있습니다.",
+          "AI 에이전트와 검증 기술의 결합을 통해 복잡한 과학 분야의 연산 효율성을 향상시킬 수 있습니다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+        "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
+        "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
+        "author": "Kyle Orland",
+        "published_at": "2026-11-23T15:46:18+00:00"
+      },
+      "insight": {
+        "title_ko": "젠슨 황 엔비디아 CEO 겸 이사회 의장 복귀",
+        "summary_ko": [
+          "엔비디아 이사회는 스캔들로 사임한 지 11일 만에 젠슨 황을 CEO 겸 이사회 의장으로 즉시 복귀시켰습니다.",
+          "이번 복귀는 미국 정부 고위 인사들이 황의 복귀가 국가 안보에 위험이 되지 않는다고 보증한 것을 바탕으로 이루어졌습니다.",
+          "황은 중국 스파이 연루설과 수출 통제 우회 의혹 등으로 여러 정부 부처의 조사를 받고 있는 상태입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3191219",
+        "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+        "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+        "author": "Kirsten Korosec",
+        "published_at": "2026-11-23T14:21:59+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia, 젠슨 황 CEO 복귀 발표",
+        "summary_ko": [
+          "Nvidia가 입장을 선회하여 젠슨 황을 다시 CEO로 복귀시켰습니다.",
+          "이번 급격한 경영진 교체 결정은 미국 정부 고위 관계자들의 지지를 받았습니다.",
+          "AI 하드웨어 산업과 시장에 미치는 영향이 주목되는 사안입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
