@@ -4316,6 +4316,16 @@
       "title": "the mythology of conscious ai",
       "url": "noemamag.com/the-mythology-of-conscious-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50596511": {
+      "at": "2026-11-23T10:46:06.136404+00:00",
+      "title": "ai supply chain security what canary tokens found",
+      "url": "dragos.com/blog/ai-supply-chain-security-canary-tokens"
+    },
+    "rss:https://news.ycombinator.com/item?id=50598961": {
+      "at": "2026-11-23T10:46:06.136478+00:00",
+      "title": "ai is becoming a disaster for the climate",
+      "url": "bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the"
+    },
     "rss:https://news.ycombinator.com/item?id=50603845": {
       "at": "2026-11-23T00:53:27.362325+00:00",
       "title": "a beginner s guide to local ai with inkling qwen and unsloth",
@@ -11410,6 +11420,11 @@
       "at": "2026-11-23T00:53:27.362269+00:00",
       "title": "openai s chief scientist has thoughts on how to limit ai development",
       "url": "techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development"
+    },
+    "rss:https://techcrunch.com/?p=3191173": {
+      "at": "2026-11-23T10:46:06.136507+00:00",
+      "title": "how notable capital gic and baillie gifford bet big on anthropic before its ipo",
+      "url": "techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21696,6 +21711,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-23T00:53:27.362415+00:00",
+  "updated_at": "2026-11-23T10:46:06.136589+00:00",
   "version": 2
 }
