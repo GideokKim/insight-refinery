@@ -4316,6 +4316,11 @@
       "title": "the mythology of conscious ai",
       "url": "noemamag.com/the-mythology-of-conscious-ai"
     },
+    "rss:https://news.ycombinator.com/item?id=50603845": {
+      "at": "2026-11-23T00:53:27.362325+00:00",
+      "title": "a beginner s guide to local ai with inkling qwen and unsloth",
+      "url": "gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -6136,6 +6141,11 @@
       "at": "2026-11-22T09:46:52.968977+00:00",
       "title": "muru",
       "url": "simonwillison.net/2026/Nov/21/muru"
+    },
+    "rss:https://simonwillison.net/2026/Nov/22/select-styling/": {
+      "at": "2026-11-23T00:53:27.362345+00:00",
+      "title": "select styling specimens",
+      "url": "simonwillison.net/2026/Nov/22/select-styling"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -11395,6 +11405,11 @@
       "at": "2026-11-22T18:31:31.887233+00:00",
       "title": "why data centers are at the center of the big tech backlash",
       "url": "techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash"
+    },
+    "rss:https://techcrunch.com/?p=3191164": {
+      "at": "2026-11-23T00:53:27.362269+00:00",
+      "title": "openai s chief scientist has thoughts on how to limit ai development",
+      "url": "techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21681,6 +21696,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-22T18:31:31.887376+00:00",
+  "updated_at": "2026-11-23T00:53:27.362415+00:00",
   "version": 2
 }
