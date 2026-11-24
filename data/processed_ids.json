@@ -2120,6 +2120,11 @@
       "title": "anatomy of a frontier lab agent intrusion a technical timeline of the july 2026 incident",
       "url": "huggingface.co/blog/agent-intrusion-technical-timeline"
     },
+    "rss:https://huggingface.co/blog/agentic-evals": {
+      "at": "2026-11-24T06:58:37.268993+00:00",
+      "title": "how to build and maintain an agentic evaluation",
+      "url": "huggingface.co/blog/agentic-evals"
+    },
     "rss:https://huggingface.co/blog/allenai/astabrief": {
       "at": "2026-10-02T16:40:02.383141+00:00",
       "title": "open sourcing astabrief the fast report generation model in asta",
@@ -4401,6 +4406,11 @@
       "title": "how revolut raises ambition without lowering the bar",
       "url": "openai.com/business/customer-stories/revolut"
     },
+    "rss:https://openai.com/business/customer-stories/richpanel-ai-customer-support": {
+      "at": "2026-11-24T06:58:37.269018+00:00",
+      "title": "richpanel helps companies automate 50 of support in 30 days",
+      "url": "openai.com/business/customer-stories/richpanel-ai-customer-support"
+    },
     "rss:https://openai.com/business/customer-stories/shield": {
       "at": "2026-11-14T00:54:36.322008+00:00",
       "title": "shield helps technicians hand off legacy portal work with openai",
@@ -6207,10 +6217,25 @@
       "title": "select styling specimens",
       "url": "simonwillison.net/2026/Nov/22/select-styling"
     },
+    "rss:https://simonwillison.net/2026/Nov/23/glm-54/": {
+      "at": "2026-11-24T06:58:37.268958+00:00",
+      "title": "glm 5 4 toward generalized coding with our first loop transformer",
+      "url": "simonwillison.net/2026/Nov/23/glm-54"
+    },
     "rss:https://simonwillison.net/2026/Nov/23/ladybird/": {
       "at": "2026-11-23T22:49:13.969021+00:00",
       "title": "ladybird s first alpha release",
       "url": "simonwillison.net/2026/Nov/23/ladybird"
+    },
+    "rss:https://simonwillison.net/2026/Nov/24/datasette-agent/": {
+      "at": "2026-11-24T06:58:37.269006+00:00",
+      "title": "datasette agent 0 7a1",
+      "url": "simonwillison.net/2026/Nov/24/datasette-agent"
+    },
+    "rss:https://simonwillison.net/2026/Nov/24/datasette-charts/": {
+      "at": "2026-11-24T06:58:37.268978+00:00",
+      "title": "datasette charts 0 2a0",
+      "url": "simonwillison.net/2026/Nov/24/datasette-charts"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -21715,6 +21740,11 @@
       "title": "ainews behind latent space kill my saas jev ai in 2026 aiei shanghai",
       "url": "latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai"
     },
+    "rss:urn:latent-space:post:post_7482e5b8-089f-4955-b288-dfe47c243039": {
+      "at": "2026-11-24T06:58:37.268909+00:00",
+      "title": "ainews jensen is back and openai shows its pretraining curve joined by microsoft",
+      "url": "latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft"
+    },
     "rss:urn:latent-space:post:post_76eb7299-a6e5-42ff-813a-a35462bdda42": {
       "at": "2026-10-27T21:20:39.162290+00:00",
       "title": "how anthropic ships claude with claude separating the brain from the hands",
@@ -21836,6 +21866,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-23T22:49:13.969213+00:00",
+  "updated_at": "2026-11-24T06:58:37.269061+00:00",
   "version": 2
 }
