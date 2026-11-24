@@ -415,6 +415,11 @@
       "title": "taiwan s chipmaking giant tsmc to invest 1b in anthropic openai",
       "url": "arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai"
     },
+    "rss:https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/": {
+      "at": "2026-11-24T19:32:16.718911+00:00",
+      "title": "tidal announces ban on ai generated music 27 million tracks will be deleted",
+      "url": "arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -549,6 +554,11 @@
       "at": "2026-11-13T01:06:54.458524+00:00",
       "title": "ars live what drone attacks on data centers mean for modern life in the cloud",
       "url": "arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers"
+    },
+    "rss:https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/": {
+      "at": "2026-11-24T19:32:16.718892+00:00",
+      "title": "amazon drone crashes on garage after delivering shampoo draws faa probe",
+      "url": "arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage"
     },
     "rss:https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/": {
       "at": "2026-11-18T10:10:12.841965+00:00",
@@ -815,6 +825,11 @@
       "title": "researcher plants 2m canaries into the ai supply chain a privacy disaster surfaced",
       "url": "arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate"
     },
+    "rss:https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/": {
+      "at": "2026-11-24T19:32:16.718731+00:00",
+      "title": "amazon says hackers ai agents found and exploited 0 day with little human input",
+      "url": "arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input"
+    },
     "rss:https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/": {
       "at": "2026-11-17T14:27:01.810921+00:00",
       "title": "grok bot took unapproved actions ignored orders to stop and then denied it",
@@ -1074,6 +1089,11 @@
       "at": "2026-11-13T01:06:54.458532+00:00",
       "title": "google faces calls for ai moratoriums in schools after gemini pilot backlash",
       "url": "arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks"
+    },
+    "rss:https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/": {
+      "at": "2026-11-24T19:32:16.719050+00:00",
+      "title": "how trump and silicon valley forced nvidia to take jensen huang back",
+      "url": "arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back"
     },
     "rss:https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/": {
       "at": "2026-11-06T03:27:37.209339+00:00",
@@ -2000,15 +2020,35 @@
       "title": "build tool calling parsers in rust with ai agents",
       "url": "developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents"
     },
+    "rss:https://developer.nvidia.com/blog/?p=125590": {
+      "at": "2026-11-24T19:32:16.718776+00:00",
+      "title": "how to run nvidia cosmos 3 on local ai devices using hugging face diffusers",
+      "url": "developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125610": {
+      "at": "2026-11-24T19:32:16.719099+00:00",
+      "title": "q amp a how everstone brings where winds meet to life with nvidia dlss 5",
+      "url": "developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5"
+    },
     "rss:https://developer.nvidia.com/blog/?p=125633": {
       "at": "2026-11-23T22:49:13.968950+00:00",
       "title": "get started with gpu accelerated duckdb analytics using the sirius core extension",
       "url": "developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension"
     },
+    "rss:https://developer.nvidia.com/blog/?p=125645": {
+      "at": "2026-11-24T19:32:16.718946+00:00",
+      "title": "prepare market data for forecasting with nvidia megatron core",
+      "url": "developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core"
+    },
     "rss:https://developer.nvidia.com/blog/?p=125662": {
       "at": "2026-11-23T22:49:13.968846+00:00",
       "title": "accelerating direct sparse solvers for computational engineering with nvidia cudss 1 0",
       "url": "developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0"
+    },
+    "rss:https://developer.nvidia.com/blog/?p=125753": {
+      "at": "2026-11-24T19:32:16.718961+00:00",
+      "title": "what s new for game developers ai animation and rtx tools",
+      "url": "developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools"
     },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
@@ -2467,6 +2507,11 @@
       "at": "2026-08-19T17:19:19.683212+00:00",
       "title": "build low latency multilingual voice agents open weights full deployment control with nvidia magpie tts",
       "url": "huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    "rss:https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance": {
+      "at": "2026-11-24T19:32:16.718995+00:00",
+      "title": "microduck obstacle avoidance a sim2real workflow with isaac lab and newton",
+      "url": "huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
     },
     "rss:https://huggingface.co/blog/nvidia/nemotron-diarization": {
       "at": "2026-09-23T13:44:54.793757+00:00",
@@ -4371,6 +4416,11 @@
       "title": "a beginner s guide to local ai with inkling qwen and unsloth",
       "url": "gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
     },
+    "rss:https://news.ycombinator.com/item?id=50630309": {
+      "at": "2026-11-24T19:32:16.719010+00:00",
+      "title": "tidal bans ai generated music",
+      "url": "variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -4400,6 +4450,16 @@
       "at": "2026-11-12T19:00:51.003701+00:00",
       "title": "holiday extras is rethinking what it can build with codex",
       "url": "openai.com/business/customer-stories/holidays-extras-codex"
+    },
+    "rss:https://openai.com/business/customer-stories/ifood": {
+      "at": "2026-11-24T19:32:16.719075+00:00",
+      "title": "how ifood scales coding agents across 15 000 repositories",
+      "url": "openai.com/business/customer-stories/ifood"
+    },
+    "rss:https://openai.com/business/customer-stories/intentful-dots": {
+      "at": "2026-11-24T19:32:16.719135+00:00",
+      "title": "how intentful uses dots to make more time for growth",
+      "url": "openai.com/business/customer-stories/intentful-dots"
     },
     "rss:https://openai.com/business/customer-stories/revolut": {
       "at": "2026-11-17T14:27:01.811130+00:00",
@@ -5459,6 +5519,11 @@
       "title": "science at the frontier how scientists use chatgpt",
       "url": "openai.com/index/science-at-the-frontier"
     },
+    "rss:https://openai.com/index/searching-for-distant-planets-with-astra": {
+      "at": "2026-11-24T19:32:16.719062+00:00",
+      "title": "searching for distant planets with astra",
+      "url": "openai.com/index/searching-for-distant-planets-with-astra"
+    },
     "rss:https://openai.com/index/securing-our-frontier-model-training-environment": {
       "at": "2026-10-23T23:09:50.024710+00:00",
       "title": "securing our frontier model training environment",
@@ -6217,6 +6282,11 @@
       "title": "select styling specimens",
       "url": "simonwillison.net/2026/Nov/22/select-styling"
     },
+    "rss:https://simonwillison.net/2026/Nov/23/datasette-charts/": {
+      "at": "2026-11-24T19:32:16.719087+00:00",
+      "title": "datasette charts 0 1a0",
+      "url": "simonwillison.net/2026/Nov/23/datasette-charts"
+    },
     "rss:https://simonwillison.net/2026/Nov/23/glm-54/": {
       "at": "2026-11-24T06:58:37.268958+00:00",
       "title": "glm 5 4 toward generalized coding with our first loop transformer",
@@ -6226,6 +6296,11 @@
       "at": "2026-11-23T22:49:13.969021+00:00",
       "title": "ladybird s first alpha release",
       "url": "simonwillison.net/2026/Nov/23/ladybird"
+    },
+    "rss:https://simonwillison.net/2026/Nov/24/astra-historical-mystery/": {
+      "at": "2026-11-24T19:32:16.718834+00:00",
+      "title": "gpt 6 2 astra solves a historical mystery",
+      "url": "simonwillison.net/2026/Nov/24/astra-historical-mystery"
     },
     "rss:https://simonwillison.net/2026/Nov/24/datasette-agent/": {
       "at": "2026-11-24T06:58:37.269006+00:00",
@@ -11551,6 +11626,11 @@
       "title": "supertake raises 20m to let ai agents turn your market predictions into stock portfolios",
       "url": "techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios"
     },
+    "rss:https://techcrunch.com/?p=3191518": {
+      "at": "2026-11-24T19:32:16.719024+00:00",
+      "title": "why a crusoe investor is betting on solar and batteries to power future ai data centers",
+      "url": "techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers"
+    },
     "rss:https://techcrunch.com/?p=3191548": {
       "at": "2026-11-23T22:49:13.969178+00:00",
       "title": "nvidia employees greet jensen huang like a hero as he returns to company s hq",
@@ -11570,6 +11650,36 @@
       "at": "2026-11-23T22:49:13.968773+00:00",
       "title": "anthropic launches claude ship letting ai agents review fix and approve code changes",
       "url": "techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"
+    },
+    "rss:https://techcrunch.com/?p=3191706": {
+      "at": "2026-11-24T19:32:16.718849+00:00",
+      "title": "amazon s decart acquisition is a bet on using software to narrow the silicon gap with nvidia",
+      "url": "techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race"
+    },
+    "rss:https://techcrunch.com/?p=3191752": {
+      "at": "2026-11-24T19:32:16.719037+00:00",
+      "title": "pinterest will now let parents limit the ai generated content their teens see",
+      "url": "techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see"
+    },
+    "rss:https://techcrunch.com/?p=3191757": {
+      "at": "2026-11-24T19:32:16.718979+00:00",
+      "title": "tidal to ban and remove millions of ai generated tracks as ai slop inundates music streaming",
+      "url": "techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming"
+    },
+    "rss:https://techcrunch.com/?p=3191770": {
+      "at": "2026-11-24T19:32:16.718929+00:00",
+      "title": "meta brings its muse ai assistant directly into instagram dms",
+      "url": "techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms"
+    },
+    "rss:https://techcrunch.com/?p=3191956": {
+      "at": "2026-11-24T19:32:16.718817+00:00",
+      "title": "uk warns ai driven cyberattacks are exposing years of weak security",
+      "url": "techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security"
+    },
+    "rss:https://techcrunch.com/?p=3191971": {
+      "at": "2026-11-24T19:32:16.718798+00:00",
+      "title": "anthropic shares fall below ipo price a worrying sign for ai startups",
+      "url": "techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21585,6 +21695,11 @@
       "title": "i watched a humanoid robot clean my apartment it felt like a taste of the future",
       "url": "technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future"
     },
+    "rss:https://www.technologyreview.com/?p=1148091": {
+      "at": "2026-11-24T19:32:16.718872+00:00",
+      "title": "raising the stakes for enterprise networks with ai modernization",
+      "url": "technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization"
+    },
     "rss:https://www.technologyreview.com/?p=1148182": {
       "at": "2026-11-09T23:27:26.712532+00:00",
       "title": "nancy pelosi s replacement is ready to regulate ai",
@@ -21866,6 +21981,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-24T06:58:37.269061+00:00",
+  "updated_at": "2026-11-24T19:32:16.719180+00:00",
   "version": 2
 }

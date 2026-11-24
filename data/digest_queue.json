@@ -1,5 +1,160 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-24T06:58:36.034393+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Ars Technica AI",
+        "source_type": "rss",
+        "external_id": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "author": "Dan Goodin",
+        "published_at": "2026-11-24T12:30:05+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 에이전트의 제로데이 취약점 자동 공격",
+        "summary_ko": [
+          "아마존은 해커의 AI 에이전트가 인간의 개입 거의 없이 제로데이 취약점을 찾아내어 악용했다고 밝혔습니다.",
+          "오픈소스 페네트레이션 테스트 프레임워크인 Cairn에서 구동된 에이전트는 동아시아 대학 서버의 루트 권한 획득 지시를 수행했습니다.",
+          "이번 사건은 자율형 공격 에이전트 운영이 이미 현실화되었음을 보여주며 방어자들의 철저한 대비를 요구합니다."
+        ],
+        "category": "Infra",
+        "importance": 5
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "NVIDIA Developer",
+        "source_type": "rss",
+        "external_id": "https://developer.nvidia.com/blog/?p=125590",
+        "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+        "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/",
+        "author": "Atharva Joshi",
+        "published_at": "2026-11-24T18:44:05+00:00"
+      },
+      "insight": {
+        "title_ko": "Cosmos 3 Nano 로컬 실행법",
+        "summary_ko": [
+          "NVIDIA Cosmos 3 Nano는 텍스트·이미지 입력으로 비디오를 생성하는 세계 최초의 물리 AI 기반 모델이다.",
+          "모델 가중치와 중간 데이터가 GPU 메모리를 초과할 때 로컬 실행이 어려우며, Hugging Face Diffusers를 활용해 메모리 최적화가 가능하다.",
+          "본 튜토리얼은 GPU 메모리 한계 속에서도 Cosmos 3 Nano를 실행하는 단계별 방법을 제공한다."
+        ],
+        "category": "Product",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3191971",
+        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "author": "Marina Temkin",
+        "published_at": "2026-11-24T18:30:42+00:00"
+      },
+      "insight": {
+        "title_ko": "Anthropic 주가 하락과 AI 스타트업 영향",
+        "summary_ko": [
+          "Anthropic의 주가가 IPO 가격 아래로 떨어지는 부진을 겪고 있습니다.",
+          "이번 주가 하락은 전체 AI 스타트업들의 기업 가치 평가에 압박을 줄 수 있습니다.",
+          "이는 AI 업계 전반의 투자 심리와 시장 전망에 우려를 낳는 신호로 작용하고 있습니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3191956",
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "author": "Zack Whittaker",
+        "published_at": "2026-11-24T18:02:59+00:00"
+      },
+      "insight": {
+        "title_ko": "영국 사이언버 기관, AI 해킹과 취약한 보안 경고",
+        "summary_ko": [
+          "영국 사이버 기관은 AI 기반 사이버 공격이 수년간 방치된 취약한 보안을 드러내고 있다고 경고했습니다.",
+          "AI 해킹 도구들이 단순한 보안 결함을 악용하는 경향이 있어 강력한 기본기 구축이 더욱 중요해졌습니다.",
+          "이번 경고는 AI 기술 발전 속도에 발맞춘 기업들의 실무적인 보안 대책 마련의 시급성을 보여줍니다."
+        ],
+        "category": "Policy",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "Simon Willison",
+        "source_type": "rss",
+        "external_id": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "title": "GPT 6.2 Astra Solves a Historical Mystery",
+        "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "author": null,
+        "published_at": "2026-11-24T16:53:59+00:00"
+      },
+      "insight": {
+        "title_ko": "GPT-6.2 Astra, 역사 미스터리 해결",
+        "summary_ko": [
+          "GPT-6.2 Astra가 1808년 스케치북의 창작자를 22분 만에 공개 자료를 활용해 찾아냈다.",
+          "이 과정에서 미지의 논문 아카이브를 발견해 가설을 검증했고, 그 결과 새로운 주요 자료가 확인되었다.",
+          "이 사례는 AI가 역사 연구를 가속화할 수 있음을 보여 주며, 학계에 새로운 도구로 자리 잡을 가능성을 시사한다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "groq"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3191706",
+        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "author": "Anna Heim",
+        "published_at": "2026-11-24T15:51:07+00:00"
+      },
+      "insight": {
+        "title_ko": "아마존의 Decart 인수와 Trainium 효율성 강화",
+        "summary_ko": [
+          "아마존이 약 75억 달러 규모로 Decart를 인수하며 AI 칩 경쟁력 강화에 나섰다.",
+          "이번 인수는 자사 AI 가속기인 Trainium 칩의 소프트웨어 효율성을 높이기 위한 전략이다.",
+          "소프트웨어 기술을 통해 엔비디아와의 하드웨어 격차를 좁히려는 시도로 주목받고 있다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "MIT Tech Review AI",
+        "source_type": "rss",
+        "external_id": "https://www.technologyreview.com/?p=1148091",
+        "title": "Raising the stakes for enterprise networks with AI modernization",
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+        "author": "MIT Technology Review Insights",
+        "published_at": "2026-11-24T15:15:16+00:00"
+      },
+      "insight": {
+        "title_ko": "AI 현대화로 인한 엔터프라이즈 네트워크의 과제",
+        "summary_ko": [
+          "AI 에이전트의 작업은 인간 작업자보다 최대 450% 더 많은 네트워크 트래픽을 유발하여 기업 네트워크에 심각한 부담을 주고 있습니다.",
+          "지연 시간에 민감한 실시간 AI 추론이 확산되면서 기업들은 온프레미스 인프라를 재구축하고 클라우드 중심 접근 방식을 재고해야 하는 상황에 직면했습니다.",
+          "성공적인 AI 도입을 위해서는 지속적인 네트워크 현대화와 함께 NaaS 및 AI 기반 관측 가능성 확보가 필수적입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
