@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-25T03:33:14.846165+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Latent Space",
+        "source_type": "rss",
+        "external_id": "urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b",
+        "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+        "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "author": "swyx .ai",
+        "published_at": "2026-11-25T04:29:07+00:00"
+      },
+      "insight": {
+        "title_ko": "Gemini 4 Neon과 최신 AI 연구 동향",
+        "summary_ko": [
+          "Google DeepMind은 Gemini 4 Neon의 성공적인 출시로 프론티어 랩으로서의 입지를 다시금 증명하고 있다.",
+          "Anthropic과 OpenAI는 복잡한 수학적 증명과 프로그래밍 문제를 해결하는 프론티어 모델의 연구 역량을 선보였다.",
+          "GPT-6 모델은 단백질 디자인, 리눅스 커널 취약점 패치, 역사적 연구 등 다양한 분야에서 실무적 성과를 입증했다."
+        ],
+        "category": "Research",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }

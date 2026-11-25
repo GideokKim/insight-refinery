@@ -335,6 +335,11 @@
       "title": "agility robotics nasdaq debut invites scrutiny of humanoid robot market",
       "url": "arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market"
     },
+    "rss:https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/": {
+      "at": "2026-11-25T15:37:17.170294+00:00",
+      "title": "ai may soon change what it means to be a theoretical physicist",
+      "url": "arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next"
+    },
     "rss:https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/": {
       "at": "2026-11-13T18:32:00.388830+00:00",
       "title": "openai board member worries an ai takeover of society could be months away",
@@ -2398,6 +2403,11 @@
       "title": "thinking of ace we can do it with fewer tokens",
       "url": "huggingface.co/blog/ibm-research/altk-evolve-sldd"
     },
+    "rss:https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga": {
+      "at": "2026-11-25T15:37:17.170316+00:00",
+      "title": "an indic voice agent with cuga",
+      "url": "huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+    },
     "rss:https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
       "at": "2026-10-22T13:52:08.595903+00:00",
       "title": "ensemble forecasting with ibm granite time series models",
@@ -4430,6 +4440,11 @@
       "at": "2026-11-24T19:32:16.719010+00:00",
       "title": "tidal bans ai generated music",
       "url": "variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924"
+    },
+    "rss:https://news.ycombinator.com/item?id=50638220": {
+      "at": "2026-11-25T15:37:17.170324+00:00",
+      "title": "marginalia search money c rust ai stuff",
+      "url": "marginalia.nu/log/a_141_marginalia_update"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -11696,6 +11711,11 @@
       "title": "meta brings its muse ai assistant directly into instagram dms",
       "url": "techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms"
     },
+    "rss:https://techcrunch.com/?p=3191841": {
+      "at": "2026-11-25T15:37:17.170285+00:00",
+      "title": "the questions jensen huang and nvidia will still have to answer about megaspeed",
+      "url": "techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed"
+    },
     "rss:https://techcrunch.com/?p=3191956": {
       "at": "2026-11-24T19:32:16.718817+00:00",
       "title": "uk warns ai driven cyberattacks are exposing years of weak security",
@@ -11735,6 +11755,11 @@
       "at": "2026-11-25T03:33:16.398190+00:00",
       "title": "jensen huang still thinks a succession plan creates unnecessary hierarchy",
       "url": "techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy"
+    },
+    "rss:https://techcrunch.com/?p=3192253": {
+      "at": "2026-11-25T15:37:17.170273+00:00",
+      "title": "amazon and meta reportedly in talks to lift blockade on ai agent muse",
+      "url": "techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21805,6 +21830,11 @@
       "title": "a legendary philosopher isn t buying anthropic s consciousness argument",
       "url": "technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument"
     },
+    "rss:https://www.technologyreview.com/?p=1149702": {
+      "at": "2026-11-25T15:37:17.170302+00:00",
+      "title": "ai is straining america s open records systems",
+      "url": "technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems"
+    },
     "rss:urn:latent-space:post:pod_ep_01a17e24-16fc-71e3-bdc8-f0c1aeee546c": {
       "at": "2026-10-27T21:20:39.162323+00:00",
       "title": "how anthropic ships the 1 llm in the world safely separating the brain from the hands",
@@ -21985,6 +22015,11 @@
       "title": "how stanford teaches ai native engineering mihail eric monaco",
       "url": "latent.space/p/cs146s"
     },
+    "rss:urn:latent-space:post:post_d721d443-2cdb-44ba-8da8-666b8311df8b": {
+      "at": "2026-11-25T15:37:17.170228+00:00",
+      "title": "ainews gemini 4 neon marks gdm s full return as a frontier lab",
+      "url": "latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab"
+    },
     "rss:urn:latent-space:post:post_d7ad54dc-42ae-4086-8e74-156baa218337": {
       "at": "2026-10-28T11:21:06.467502+00:00",
       "title": "ainews anthropic ends coding interviews hunger beats tenure",
@@ -22036,6 +22071,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-25T03:33:16.398249+00:00",
+  "updated_at": "2026-11-25T15:37:17.170365+00:00",
   "version": 2
 }
