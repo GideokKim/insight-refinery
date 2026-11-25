@@ -420,6 +420,11 @@
       "title": "tidal announces ban on ai generated music 27 million tracks will be deleted",
       "url": "arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9"
     },
+    "rss:https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/": {
+      "at": "2026-11-25T03:33:16.398107+00:00",
+      "title": "what s going on with the riemann hypothesis",
+      "url": "arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis"
+    },
     "rss:https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/": {
       "at": "2026-08-25T14:38:26.133930+00:00",
       "title": "apple s new desktop computers are designed specifically for local ai development",
@@ -4416,6 +4421,11 @@
       "title": "a beginner s guide to local ai with inkling qwen and unsloth",
       "url": "gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth"
     },
+    "rss:https://news.ycombinator.com/item?id=50622854": {
+      "at": "2026-11-25T03:33:16.398180+00:00",
+      "title": "declare is a ui language for you and your ai",
+      "url": "davidtemkin.github.io/declarelang"
+    },
     "rss:https://news.ycombinator.com/item?id=50630309": {
       "at": "2026-11-24T19:32:16.719010+00:00",
       "title": "tidal bans ai generated music",
@@ -4430,6 +4440,11 @@
       "at": "2026-11-13T01:06:54.458516+00:00",
       "title": "how amplitude ships product improvements in 1 2 days with openai",
       "url": "openai.com/business/customer-stories/amplitude"
+    },
+    "rss:https://openai.com/business/customer-stories/clay-plugins-openai": {
+      "at": "2026-11-25T03:33:16.398212+00:00",
+      "title": "clay helps sales teams win with codex and chatgpt",
+      "url": "openai.com/business/customer-stories/clay-plugins-openai"
     },
     "rss:https://openai.com/business/customer-stories/gondola": {
       "at": "2026-11-13T01:06:54.458552+00:00",
@@ -4943,6 +4958,11 @@
       "at": "2026-10-08T00:15:14.005305+00:00",
       "title": "gpt 6 and intelligent ui for everyone",
       "url": "openai.com/index/gpt-6-for-everyone"
+    },
+    "rss:https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+      "at": "2026-11-25T03:33:16.398120+00:00",
+      "title": "gpt 6 models demonstrate intrinsic protein design capabilities",
+      "url": "openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
     },
     "rss:https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
       "at": "2026-09-23T13:44:54.793879+00:00",
@@ -6311,6 +6331,11 @@
       "at": "2026-11-24T06:58:37.268978+00:00",
       "title": "datasette charts 0 2a0",
       "url": "simonwillison.net/2026/Nov/24/datasette-charts"
+    },
+    "rss:https://simonwillison.net/2026/Nov/24/llm-inflection-points/": {
+      "at": "2026-11-25T03:33:16.398062+00:00",
+      "title": "three llm inflection points in twelve months",
+      "url": "simonwillison.net/2026/Nov/24/llm-inflection-points"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -11680,6 +11705,36 @@
       "at": "2026-11-24T19:32:16.718798+00:00",
       "title": "anthropic shares fall below ipo price a worrying sign for ai startups",
       "url": "techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups"
+    },
+    "rss:https://techcrunch.com/?p=3191989": {
+      "at": "2026-11-25T03:33:16.398165+00:00",
+      "title": "maple raises 5 3m to build ai products that protect your data even from itself",
+      "url": "techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself"
+    },
+    "rss:https://techcrunch.com/?p=3191990": {
+      "at": "2026-11-25T03:33:16.398130+00:00",
+      "title": "yale s sonnenfeld nvidia is a detriment to us industrial might not a champion",
+      "url": "techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion"
+    },
+    "rss:https://techcrunch.com/?p=3192009": {
+      "at": "2026-11-25T03:33:16.398199+00:00",
+      "title": "in all hands meeting jensen huang thanks white house and says he s in therapy",
+      "url": "techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy"
+    },
+    "rss:https://techcrunch.com/?p=3192038": {
+      "at": "2026-11-25T03:33:16.398147+00:00",
+      "title": "even the best ai agents struggle with everyday life",
+      "url": "techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life"
+    },
+    "rss:https://techcrunch.com/?p=3192047": {
+      "at": "2026-11-25T03:33:16.398155+00:00",
+      "title": "walmart teams up with meta to bring black friday deals to ai agent muse",
+      "url": "techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse"
+    },
+    "rss:https://techcrunch.com/?p=3192058": {
+      "at": "2026-11-25T03:33:16.398190+00:00",
+      "title": "jensen huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy"
     },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
@@ -21981,6 +22036,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-24T19:32:16.719180+00:00",
+  "updated_at": "2026-11-25T03:33:16.398249+00:00",
   "version": 2
 }
