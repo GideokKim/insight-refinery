@@ -2508,6 +2508,11 @@
       "title": "meta is back with muse glimmer local agentic multimodal and open source",
       "url": "huggingface.co/blog/muse-glimmer"
     },
+    "rss:https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin": {
+      "at": "2026-11-26T10:53:38.398100+00:00",
+      "title": "building on nemotron 3 5 parse open data fine tuning and faster inference",
+      "url": "huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    },
     "rss:https://huggingface.co/blog/nvidia/cosmos-h-dreams": {
       "at": "2026-08-19T17:19:19.683237+00:00",
       "title": "nvidia cosmos h dreams bringing real time generative simulation to surgical robotics",
@@ -6387,10 +6392,20 @@
       "title": "three llm inflection points in twelve months",
       "url": "simonwillison.net/2026/Nov/24/llm-inflection-points"
     },
+    "rss:https://simonwillison.net/2026/Nov/25/datasette-charts/": {
+      "at": "2026-11-26T10:53:38.398159+00:00",
+      "title": "datasette charts 0 3a0",
+      "url": "simonwillison.net/2026/Nov/25/datasette-charts"
+    },
     "rss:https://simonwillison.net/2026/Nov/25/scott-aaronson/": {
       "at": "2026-11-26T01:00:10.173500+00:00",
       "title": "quoting scott aaronson",
       "url": "simonwillison.net/2026/Nov/25/scott-aaronson"
+    },
+    "rss:https://simonwillison.net/2026/Nov/26/sqlite3-rsync/": {
+      "at": "2026-11-26T10:53:38.398144+00:00",
+      "title": "sqlite3_rsync database remote copy tool for sqlite",
+      "url": "simonwillison.net/2026/Nov/26/sqlite3-rsync"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -22156,6 +22171,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-26T01:00:10.173699+00:00",
+  "updated_at": "2026-11-26T10:53:38.398195+00:00",
   "version": 2
 }

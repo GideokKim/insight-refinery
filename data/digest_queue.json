@@ -1,5 +1,28 @@
 {
   "version": 1,
   "last_sent_at": "2026-11-26T01:00:07.032933+00:00",
-  "items": []
+  "items": [
+    {
+      "raw": {
+        "source": "Hugging Face Blog",
+        "source_type": "rss",
+        "external_id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "author": null,
+        "published_at": "2026-11-26T05:05:36+00:00"
+      },
+      "insight": {
+        "title_ko": "Nemotron 3.5 Parse 활용 가이드 공개",
+        "summary_ko": [
+          "NVIDIA의 Nemotron 3.5 Parse 모델을 활용한 오픈 데이터 구축과 미세조정 방법이 공개되었습니다.",
+          "해당 모델을 통해 더 빠르고 효율적인 추론 환경을 구축하는 방안을 다루고 있습니다.",
+          "실무 개발자들이 문서 파싱 및 데이터 처리 성능을 향상시키는 데 기여할 것으로 기대됩니다."
+        ],
+        "category": "Infra",
+        "importance": 4
+      },
+      "provider": "gemini"
+    }
+  ]
 }
