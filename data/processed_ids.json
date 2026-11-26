@@ -565,6 +565,11 @@
       "title": "ars live what drone attacks on data centers mean for modern life in the cloud",
       "url": "arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers"
     },
+    "rss:https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/": {
+      "at": "2026-11-26T01:00:10.173446+00:00",
+      "title": "ars live recap don t expect military attacks on data centers to stop",
+      "url": "arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop"
+    },
     "rss:https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/": {
       "at": "2026-11-24T19:32:16.718892+00:00",
       "title": "amazon drone crashes on garage after delivering shampoo draws faa probe",
@@ -1234,6 +1239,11 @@
       "at": "2026-08-26T18:46:54.599647+00:00",
       "title": "intelligent transcription with gemini 3 5 transcribe",
       "url": "deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe"
+    },
+    "rss:https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
+      "at": "2026-11-26T01:00:10.173481+00:00",
+      "title": "from spectrum to structure identifying molecules with mass spec skills for google antigravity",
+      "url": "deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity"
     },
     "rss:https://deepmind.google/blog/introducing-agentic-video-in-gemini/": {
       "at": "2026-09-01T17:32:37.259503+00:00",
@@ -2060,6 +2070,11 @@
       "title": "what s new for game developers ai animation and rtx tools",
       "url": "developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools"
     },
+    "rss:https://developer.nvidia.com/blog/?p=125793": {
+      "at": "2026-11-26T01:00:10.173388+00:00",
+      "title": "how to optimize nvfp4 attention on nvidia rtx blackwell through register recycling",
+      "url": "developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling"
+    },
     "rss:https://huggingface.co/blog/3d-lora-finetuning": {
       "at": "2026-11-12T19:00:51.003657+00:00",
       "title": "the definitive fine tuning guide for 3d generation models",
@@ -2239,6 +2254,11 @@
       "at": "2026-11-06T20:28:28.296553+00:00",
       "title": "toyblocks a controlled world for robot learning and evaluation",
       "url": "huggingface.co/blog/allenai/toyblocks"
+    },
+    "rss:https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents": {
+      "at": "2026-11-26T01:00:10.173643+00:00",
+      "title": "where scientists draw the line on ai agents",
+      "url": "huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
     },
     "rss:https://huggingface.co/blog/allenai/xybench": {
       "at": "2026-11-13T18:32:00.388837+00:00",
@@ -2437,6 +2457,11 @@
       "at": "2026-08-19T14:23:12.191244+00:00",
       "title": "what we learned by reproducing 2 200 papers from icml",
       "url": "huggingface.co/blog/icml-2026-open-reproductions"
+    },
+    "rss:https://huggingface.co/blog/inkling-2-mini-inference-hillclimb": {
+      "at": "2026-11-26T01:00:10.173655+00:00",
+      "title": "hill climbing inkling 2 mini inference on one rtx pro 6000",
+      "url": "huggingface.co/blog/inkling-2-mini-inference-hillclimb"
     },
     "rss:https://huggingface.co/blog/inkling2mini": {
       "at": "2026-11-21T01:31:59.747671+00:00",
@@ -4446,6 +4471,11 @@
       "title": "marginalia search money c rust ai stuff",
       "url": "marginalia.nu/log/a_141_marginalia_update"
     },
+    "rss:https://news.ycombinator.com/item?id=50647673": {
+      "at": "2026-11-26T01:00:10.173572+00:00",
+      "title": "the new york times warns photographers not to update photoshop over ai features",
+      "url": "theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -5997,6 +6027,11 @@
       "title": "using wearables to enable cardiovascular kidney metabolic ckm risk profiling for personalized coaching",
       "url": "research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching"
     },
+    "rss:https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/": {
+      "at": "2026-11-26T01:00:10.173616+00:00",
+      "title": "verifiable social reasoning for llm assistants",
+      "url": "research.google/blog/verifiable-social-reasoning-for-llm-assistants"
+    },
     "rss:https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source/": {
       "at": "2026-08-24T11:19:10.800872+00:00",
       "title": "mojo is now open source",
@@ -6351,6 +6386,11 @@
       "at": "2026-11-25T03:33:16.398062+00:00",
       "title": "three llm inflection points in twelve months",
       "url": "simonwillison.net/2026/Nov/24/llm-inflection-points"
+    },
+    "rss:https://simonwillison.net/2026/Nov/25/scott-aaronson/": {
+      "at": "2026-11-26T01:00:10.173500+00:00",
+      "title": "quoting scott aaronson",
+      "url": "simonwillison.net/2026/Nov/25/scott-aaronson"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -11761,6 +11801,36 @@
       "title": "amazon and meta reportedly in talks to lift blockade on ai agent muse",
       "url": "techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse"
     },
+    "rss:https://techcrunch.com/?p=3192361": {
+      "at": "2026-11-26T01:00:10.173424+00:00",
+      "title": "character ai s plan to auction off users private chats challenged by state ags",
+      "url": "techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats"
+    },
+    "rss:https://techcrunch.com/?p=3192412": {
+      "at": "2026-11-26T01:00:10.173408+00:00",
+      "title": "want to buy your kid an ai toy this christmas not in new york",
+      "url": "techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york"
+    },
+    "rss:https://techcrunch.com/?p=3192475": {
+      "at": "2026-11-26T01:00:10.173628+00:00",
+      "title": "jensen huang broke nvidia s code of conduct and his employees may not forget it",
+      "url": "techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it"
+    },
+    "rss:https://techcrunch.com/?p=3192506": {
+      "at": "2026-11-26T01:00:10.173599+00:00",
+      "title": "anthropic s dario amodei calls accusations of surrendering human control to ai absurd",
+      "url": "techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd"
+    },
+    "rss:https://techcrunch.com/?p=3192524": {
+      "at": "2026-11-26T01:00:10.173586+00:00",
+      "title": "openai says heavy chatgpt users may hit limits sooner as it merges chat and work",
+      "url": "techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work"
+    },
+    "rss:https://techcrunch.com/?p=3192614": {
+      "at": "2026-11-26T01:00:10.173537+00:00",
+      "title": "s p considers nvidia credit downgrade over governance and key man risks",
+      "url": "techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
+    },
     "rss:https://techcrunch.com/?post_type=tc_podcast&p=3155475": {
       "at": "2026-08-21T17:19:01.959746+00:00",
       "title": "the doj is investigating a16z what does this mean for venture capital",
@@ -11835,6 +11905,11 @@
       "at": "2026-11-20T19:06:25.504102+00:00",
       "title": "the fallout from nvidia s jensen huang scandal continues",
       "url": "techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues"
+    },
+    "rss:https://techcrunch.com/?post_type=tc_podcast&p=3192333": {
+      "at": "2026-11-26T01:00:10.173465+00:00",
+      "title": "ai data centers are becoming harder to build and neoclouds are feeling it",
+      "url": "techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it"
     },
     "rss:https://techcrunch.com/?post_type=tc_video&p=3154465": {
       "at": "2026-08-19T20:13:45.261330+00:00",
@@ -21855,6 +21930,11 @@
       "title": "one million ai engineer special how stanford teaches ai native engineering mihail eric monaco",
       "url": "latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco"
     },
+    "rss:urn:latent-space:post:pod_ep_01a214b9-5541-758c-b9a3-1d85f48144ff": {
+      "at": "2026-11-26T01:00:10.173556+00:00",
+      "title": "the revolution vs the renaissance thariq shihipar openai",
+      "url": "latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai"
+    },
     "rss:urn:latent-space:post:post_0e68157c-dcc4-4cb1-b11a-0d563d6bcc86": {
       "at": "2026-11-21T01:31:59.747559+00:00",
       "title": "the war against slop and an emerging weapon to fight it formal verification",
@@ -22010,6 +22090,11 @@
       "title": "the jev revolution what engineers are already building with system one models",
       "url": "latent.space/p/jev-revolution"
     },
+    "rss:urn:latent-space:post:post_b346515a-5480-4fa6-830e-a144eacab773": {
+      "at": "2026-11-26T01:00:10.173337+00:00",
+      "title": "ainews math proofs are landing faster than we can read them",
+      "url": "latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them"
+    },
     "rss:urn:latent-space:post:post_c965535e-89a8-4755-b38e-4e9eda7f9bb3": {
       "at": "2026-11-09T02:40:03.910496+00:00",
       "title": "how stanford teaches ai native engineering mihail eric monaco",
@@ -22071,6 +22156,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-25T15:37:17.170365+00:00",
+  "updated_at": "2026-11-26T01:00:10.173699+00:00",
   "version": 2
 }
