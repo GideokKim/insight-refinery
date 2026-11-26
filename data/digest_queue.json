@@ -23,6 +23,28 @@
         "importance": 4
       },
       "provider": "gemini"
+    },
+    {
+      "raw": {
+        "source": "TechCrunch AI",
+        "source_type": "rss",
+        "external_id": "https://techcrunch.com/?p=3192803",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "author": "Connie Loizos",
+        "published_at": "2026-11-26T20:03:54+00:00"
+      },
+      "insight": {
+        "title_ko": "Nvidia, 동남아 지역 칩 선적 일시 중단",
+        "summary_ko": [
+          "Nvidia가 말레이시아, 싱가포르, 태국, 인도네시아 등 동남아 국가로의 서버 칩 선적을 일시 중단하도록 제조 파트너들에게 통보했습니다.",
+          "이번 조치는 미국 정부가 AI 칩이 중국으로 유입되는 것을 막기 위한 규제를 더욱 강화하는 가운데 이루어졌습니다.",
+          "동남아를 우회한 대중국 반도체 수출 경로가 차단됨에 따라 지역 내 AI 인프라 공급망 전반에 영향이 불가피할 것으로 보입니다."
+        ],
+        "category": "Industry",
+        "importance": 4
+      },
+      "provider": "gemini"
     }
   ]
 }
