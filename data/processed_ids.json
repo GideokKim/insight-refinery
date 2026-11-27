@@ -4501,6 +4501,11 @@
       "title": "tracking diseases cured by ai",
       "url": "diseasescuredbyai.com/"
     },
+    "rss:https://news.ycombinator.com/item?id=50660180": {
+      "at": "2026-11-27T02:52:47.637214+00:00",
+      "title": "ai made self hosting fun again",
+      "url": "janlukas.blog/posts/ai-self-hosting"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -22175,6 +22180,11 @@
       "title": "ainews google admits ai mode hurts search revenue 15 500b drop worst since 2004 ipo ai bear market coming",
       "url": "latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c"
     },
+    "rss:urn:latent-space:post:post_da868ce2-6565-4f67-8686-e33c78bee319": {
+      "at": "2026-11-27T02:52:47.637164+00:00",
+      "title": "how clay builds gtm agents jeff barg head of ai",
+      "url": "latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai"
+    },
     "rss:urn:latent-space:post:post_dc42ae8a-0f60-40f4-a056-f11b7f8c3289": {
       "at": "2026-10-29T00:00:51.638859+00:00",
       "title": "why agents love supabase",
@@ -22216,6 +22226,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-26T20:10:50.347402+00:00",
+  "updated_at": "2026-11-27T02:52:47.637245+00:00",
   "version": 2
 }

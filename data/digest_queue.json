@@ -1,50 +1,5 @@
 {
   "version": 1,
-  "last_sent_at": "2026-11-26T01:00:07.032933+00:00",
-  "items": [
-    {
-      "raw": {
-        "source": "Hugging Face Blog",
-        "source_type": "rss",
-        "external_id": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-        "author": null,
-        "published_at": "2026-11-26T05:05:36+00:00"
-      },
-      "insight": {
-        "title_ko": "Nemotron 3.5 Parse 활용 가이드 공개",
-        "summary_ko": [
-          "NVIDIA의 Nemotron 3.5 Parse 모델을 활용한 오픈 데이터 구축과 미세조정 방법이 공개되었습니다.",
-          "해당 모델을 통해 더 빠르고 효율적인 추론 환경을 구축하는 방안을 다루고 있습니다.",
-          "실무 개발자들이 문서 파싱 및 데이터 처리 성능을 향상시키는 데 기여할 것으로 기대됩니다."
-        ],
-        "category": "Infra",
-        "importance": 4
-      },
-      "provider": "gemini"
-    },
-    {
-      "raw": {
-        "source": "TechCrunch AI",
-        "source_type": "rss",
-        "external_id": "https://techcrunch.com/?p=3192803",
-        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-        "author": "Connie Loizos",
-        "published_at": "2026-11-26T20:03:54+00:00"
-      },
-      "insight": {
-        "title_ko": "Nvidia, 동남아 지역 칩 선적 일시 중단",
-        "summary_ko": [
-          "Nvidia가 말레이시아, 싱가포르, 태국, 인도네시아 등 동남아 국가로의 서버 칩 선적을 일시 중단하도록 제조 파트너들에게 통보했습니다.",
-          "이번 조치는 미국 정부가 AI 칩이 중국으로 유입되는 것을 막기 위한 규제를 더욱 강화하는 가운데 이루어졌습니다.",
-          "동남아를 우회한 대중국 반도체 수출 경로가 차단됨에 따라 지역 내 AI 인프라 공급망 전반에 영향이 불가피할 것으로 보입니다."
-        ],
-        "category": "Industry",
-        "importance": 4
-      },
-      "provider": "gemini"
-    }
-  ]
+  "last_sent_at": "2026-11-27T02:52:46.119896+00:00",
+  "items": []
 }
