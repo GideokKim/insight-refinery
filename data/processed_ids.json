@@ -4531,6 +4531,11 @@
       "title": "i m scared of ai",
       "url": "thesoapbox.email/archive/3"
     },
+    "rss:https://news.ycombinator.com/item?id=50673521": {
+      "at": "2026-11-28T10:26:54.534515+00:00",
+      "title": "woman evicted after landlord s ai assistant told her she could delay rent",
+      "url": "drmahfouz.substack.com/p/woman-evicted-after-landlords-ai"
+    },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
       "title": "flipsnack grows product signups with conversion optimization",
@@ -22240,6 +22245,11 @@
       "title": "controlling biology fabian theis helmholtz munich",
       "url": "latent.space/p/controlling-biology-fabian-theis-helmholtz-munich"
     },
+    "rss:urn:latent-space:post:post_e91b280a-b9b3-42b4-b3dc-8a8e7577f764": {
+      "at": "2026-11-28T10:26:54.534456+00:00",
+      "title": "ainews inside the exploding coding data market",
+      "url": "latent.space/p/ainews-inside-the-exploding-coding-data-market"
+    },
     "rss:urn:latent-space:post:post_e9d76b13-59aa-4ee4-9132-5d55b5763030": {
       "at": "2026-11-11T00:42:10.804265+00:00",
       "title": "naiveai promises 2 100 tokens per second how well does it code",
@@ -22266,6 +22276,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-28T00:32:46.347701+00:00",
+  "updated_at": "2026-11-28T10:26:54.534571+00:00",
   "version": 2
 }
