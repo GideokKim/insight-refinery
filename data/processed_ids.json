@@ -2728,6 +2728,11 @@
       "title": "import ai 481 ai sub contractors a wet lab for ai and subterfuge during development",
       "url": "importai.substack.com/p/import-ai-481-ai-sub-contractors"
     },
+    "rss:https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks": {
+      "at": "2026-11-28T00:32:46.347624+00:00",
+      "title": "import ai 482 huawei kernel benchmarks airborne drone detection and a national lab s ai science benchmark",
+      "url": "importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks"
+    },
     "rss:https://news.ycombinator.com/item?id=49299282": {
       "at": "2026-08-19T14:23:12.191457+00:00",
       "title": "when genius fails the intellectual arrogance of the ai labs",
@@ -4515,6 +4520,16 @@
       "at": "2026-11-27T15:05:22.584129+00:00",
       "title": "the group chat where your ai talks behind your back",
       "url": "construct22.com/"
+    },
+    "rss:https://news.ycombinator.com/item?id=50665488": {
+      "at": "2026-11-28T00:32:46.347650+00:00",
+      "title": "ai on brink of making online security useless mathematicians fear",
+      "url": "thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8"
+    },
+    "rss:https://news.ycombinator.com/item?id=50669561": {
+      "at": "2026-11-28T00:32:46.347669+00:00",
+      "title": "i m scared of ai",
+      "url": "thesoapbox.email/archive/3"
     },
     "rss:https://openai.com/ads/customers/flipsnack": {
       "at": "2026-11-06T03:27:37.209494+00:00",
@@ -6456,6 +6471,16 @@
       "at": "2026-11-26T10:53:38.398144+00:00",
       "title": "sqlite3_rsync database remote copy tool for sqlite",
       "url": "simonwillison.net/2026/Nov/26/sqlite3-rsync"
+    },
+    "rss:https://simonwillison.net/2026/Nov/27/datasette-charts/": {
+      "at": "2026-11-28T00:32:46.347641+00:00",
+      "title": "datasette charts 0 4a0",
+      "url": "simonwillison.net/2026/Nov/27/datasette-charts"
+    },
+    "rss:https://simonwillison.net/2026/Nov/27/datasette-mcp/": {
+      "at": "2026-11-28T00:32:46.347660+00:00",
+      "title": "datasette mcp 0 4",
+      "url": "simonwillison.net/2026/Nov/27/datasette-mcp"
     },
     "rss:https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/": {
       "at": "2026-11-03T12:48:49.199095+00:00",
@@ -22010,6 +22035,11 @@
       "title": "the revolution vs the renaissance thariq shihipar openai",
       "url": "latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai"
     },
+    "rss:urn:latent-space:post:pod_ep_01a21efa-24c7-769b-afbe-cd7e135e4e85": {
+      "at": "2026-11-28T00:32:46.347575+00:00",
+      "title": "inside the ai training data market gabe greenberg g2i",
+      "url": "latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i"
+    },
     "rss:urn:latent-space:post:post_0e68157c-dcc4-4cb1-b11a-0d563d6bcc86": {
       "at": "2026-11-21T01:31:59.747559+00:00",
       "title": "the war against slop and an emerging weapon to fight it formal verification",
@@ -22236,6 +22266,6 @@
       "url": "latent.space/p/ainews-it-s-swapping-season"
     }
   },
-  "updated_at": "2026-11-27T15:05:22.584201+00:00",
+  "updated_at": "2026-11-28T00:32:46.347701+00:00",
   "version": 2
 }
